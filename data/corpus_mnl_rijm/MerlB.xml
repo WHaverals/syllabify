@@ -1,0 +1,362 @@
+<?xml version='1.0'?><!DOCTYPE TEI.2 PUBLIC '-//TEI P4//DTD Main Document Type//EN' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd' [<!ENTITY % TEI.prose 'INCLUDE'><!ENTITY % TEI.linking 'INCLUDE'><!ENTITY % TEI.figures 'INCLUDE'><!ENTITY % TEI.analysis 'INCLUDE'><!ENTITY % TEI.corpus 'INCLUDE'><!ENTITY % TEI.XML 'INCLUDE'><!NOTATION TEI-XML PUBLIC 'TEI P4' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd'><!-- internal INL dtd --><!ELEMENT b (#PCDATA)><!ELEMENT l (#PCDATA | b)*><!-- end of internal INL dtd -->]><TEI.2><!--<ENTRY id="i567"><teiHeader><fileDesc><titleStmt><title>Merlijns boec</title>
+</titleStmt>
+<interpGrp type="pubYear_from"><interp value="1300"/></interpGrp>
+<interpGrp type="witnessYear_from"><interp value="1300"/></interpGrp>
+<interpGrp type="pubYear_to"><interp value="1350"/></interpGrp>
+<interpGrp type="witnessYear_to"><interp value="1350"/></interpGrp>
+<TITEL>Merlijns boec</TITEL>
+<author>Jacob van Maerlant</author>
+<AARD>Rijm</AARD>
+<BRON nr="K83">M&uuml;nster, Nordrhein-Westf&auml;lisches Staatsarchiv, Depositum Landsberg-Velen (fragm.)</BRON>
+<DATUM>1300-1350</DATUM>
+<OMVANG>336 verzen</OMVANG>
+<BRON.OPM>In totaal vier bladen; per bladzijde 3 kolommen en per kolom 56 regels. Alleen het eerste blad bevat een gedeelte uit Merlijns boec en is hier weergegeven. De resterende drie folia bevatten een gedeelte uit de Merlijncontinuatie; voor de tekst op deze bladen, zie Merlijncontinuatie.</BRON.OPM>
+<EDITIE>J. Verdam: 'Nieuwe Merlijnfragmenten'. In: TNTL 19 (1901), 65-84 (71-80), met een naschrift op p. 131.</EDITIE>
+<STATUS>Kritisch</STATUS>
+<BRONMNW>905 </BRONMNW>
+<EDITIE.OPM>Het eerste fragment correspondeert met de regels 3993-4328 in de uitgave van Van Vloten uit 1880. In navolging van Verdam is hier de regelnummering van Van Vloten overgenomen.</EDITIE.OPM>
+<BRONNEN>Een fragment van de tekst is overgeleverd in: - <x nr=K83>M&uuml;nster, Nordrhein-Westf&auml;lisches Staatsarchiv, Depositum Landsberg-Velen (fragm.)</x>
+ De volledige tekst is overgeleverd in een Middelnederduitse 'Umschreibung' in het hs. Burgsteinfurt, F&uuml;rst zu Bentheimsche Schlossbibliothek, B 37 (editie (hertaling naar het Middelnederlands): J. van Vloten (ed.): <i>Jacob van Maerlant: Merlijn</i>. Naar het enig bekende Steinforter handschrift uitgegeven. Leiden, 1880, vs. 1927-10398.</BRONNEN>
+<HSDRUK>Historie van den wonderlicken Merlijn</HSDRUK>
+</fileDesc>
+</teiHeader>
+--><text>
+<l n="3993"><pb n="71"/><milestone unit="fol" n="1ra"/> Buten haren bedde genoet,</l>
+<l>Die tweedeel soude bliven doet</l>
+<l n="3995">Vanden genen die hier staen,</l>
+<l>Dat wetic wel al sonder waen</l>
+<l>Alse wel alsijs selve weten.</l>
+<l>Des dar ic mi wel vermeten</l>
+<l>Dat ics licteken weet openbaer,</l>
+<l n="4000">Ende die vrouwen die gi spraket daer</l>
+<l>Sijn sculdigher dan mijn moeder es,</l>
+<l>Want si gene scout heeft des,</l>
+<l>Ende dat si hieran heft mesdaen</l>
+<l>Heft hi op hem ontfaen,</l>
+<l n="4005">Dese goede man, die hier steet,</l>
+<l>Die al haer mesdaet weet;</l>
+<l>Dies mogedi hem wel vragen.</l>
+<l>Als die scepene dat gesagen,</l>
+<l>Riepen si den goeden man daer</l>
+<l n="4010">Ende vrageden hem oft ware waer.</l>
+<l>Die goede man seide: "iaet,</l>
+<l>Al dat van der moeder mesdaet</l>
+<l>Hi heft geseit, es waerheit al,</l>
+<l>Ende est dat men haer recht doen sal,</l>
+<l n="4015">Gesciet alse mi heft doen verstaen,</l>
+<l>Sone heft si niet mesdaen,</l>
+<l>Noch iegen gode noch iegen u</l>
+<l>Salmen haer recht doen nu;</l>
+<l>Si seide mi in ware dinc</l>
+<l n="4020">Dat si slapende dit kint ontfinc</l>
+<l>Ende sine wiste niet wiet haer dede.</l>
+<l><edition n="72"/>Si ginc te biechten onde dede mede</l>
+<l>Die penitencie die men haar hiet,</l>
+<l>Maer inne horde noit niet</l>
+<l n="4025">Dat dese dinc mochte gevallen,</l>
+<l>Ende in geloves niet al met allen."</l>
+<l>Merlijn seide vor alle die liede</l>
+<l>"Die wile dat haar dit gesciede</l>
+<l>Hebdi bescreven ende den dach.</l>
+<l n="4030">Gi weet wel weltijt si gelach,</l>
+<l>Haer leven es u wel openbaer."</l>
+<l>Die goede man seide: "du seges waer,</l>
+<l>In weet wiet di dode verstaen."</l>
+<l>Doe haelde men die II vrouwen saen,</l>
+<l n="4035">Die waren daert kint was geboren,</l>
+<l>Omdat si die waerheit wilden horen.</l>
+<l>Si seiden weltijt dat si genas</l>
+<l>Ende doen die tijt gerekent was,</l>
+<l>Hoet was geboren ende ontfaen.</l>
+<l n="4040">Die scepene antwerden saen:</l>
+<l>"En doncket ons geen recht daer bi</l>
+<l>Dat dese vrouwe quite si,</l>
+<l>Want wijs niet geloven connen,</l>
+<l>Hine secge ons hoe hi was gewonnen."</l>
+<l n="4045">Merlijn hi wart harde gram,</l>
+<l>Doe hi dese dinc vernam.</l>
+<l>Hi seide: "te waren, her baliu,</l>
+<l>Vele bat so kinnic nu</l>
+<l><milestone unit="fol" n="1rb"/> Minen vader dan gi doet den uwen,</l>
+<l n="4050">Gine dorft mire moeder niet verspu&euml;n:</l>
+<l>U moeder kint bat uwen vader</l>
+<l>Dan de mine den minen." Al gader</l>
+<l>Hoerden si dit die waren aldaer.</l>
+<l>Die baliu antworde daer naer:</l>
+<l n="4055">"Sech op mire moeder echt,</l>
+<l><edition n="73"/>Wetsture iet af, ic doe di recht."</l>
+<l>"Ja ic," antwerde dat kint,</l>
+<l>"Ic hebbe van haer bekint,</l>
+<l>Dat si der doet heft bat verdient</l>
+<l n="4060">Dan die mine, lieve vrient.</l>
+<l>Laet mire moeder in vreden wesen:</l>
+<l>Sine heft niet mesdaen in desen</l>
+<l>Ende sine lieget u niet .I. twint."</l>
+<l>Die baliu balch hem op dat kint</l>
+<l n="4065">Ende sprac: "doestu mi dit bekinnen scire,</l>
+<l>Du quijts dire moeder vanden vire;</l>
+<l>Bedraechstu oec met mire moeder,</l>
+<l>So dat ics ben te vroeder,</l>
+<l>Ic sal di doen bernen entie dine."</l>
+<l n="4070">"Dan sal niet sijn, dattie mine,"</l>
+<l>Sprac Merlijn "sal sijn verbrant,</l>
+<l>Also lange als men mi levende cant.</l>
+<l>Selc maect hem vroet ende herde reine,</l>
+<l>Hi ende sijn moeder ghemeine</l>
+<l n="4075">Waren beter vanden live."</l>
+<l>Men nam vorste der dage vive.</l>
+<l>Die rechtere dede sijn moeder halen,</l>
+<l>End hi geboet in corter talen</l>
+<l>Lieden, dien hi dorste betrouwen,</l>
+<l n="4080">Tkint te houden ende sire vrouwen</l>
+<l>Oec wachte hise selve wale.</l>
+<l>Vore Merline was menige tale</l>
+<l>Van sire moeder daer binnen vertrect</l>
+<l>Ende oec ander dinc ontect,</l>
+<l n="4085">Maer sine mochtene niet doen spreken</l>
+<l>In vif dagen met genen treken,</l>
+<l>Vore dat trechters moeder quam.</l>
+<l>Ende alse Merlijn dat vernam</l>
+<l>Dat si was comen, dedemen saen</l>
+<l n="4090"><pb n="74"/> Hem ende sire moeder uten prisoene gaen</l>
+<l>Ende comen doen vore tgerechte.</l>
+<l>Die baliu sprac toten cnechte:</l>
+<l>"Wat secgestu? dits mijn moeder."</l>
+<l>Merlijn sprac: "gi waent vroeder</l>
+<l n="4095">Vele wesen dan gi sijt,</l>
+<l>Leidse en wech in corter tijt</l>
+<l>Daert heimelije es, ende uwen raet,</l>
+<l>Ende mire moeder die hier staet,</l>
+<l>Ende haren raet salic daer bringen,</l>
+<l n="4100">Dats god, die weet van allen dingen,</l>
+<l>Ende daertoe dese goede man."</l>
+<l>Sere hem wonderne began</l>
+<l>Doe hi dese redene brochte vort,</l>
+<l>Si dorsten cume spreken .I. wort:</l>
+<l n="4105"><milestone unit="fol" n="1rc"/> Die rechter seide wel al daer</l>
+<l>Dat hem tkint seide waer.</l>
+<l>Merlijn seide: "magic nu</l>
+<l>Mire moeder quiten jegen den baliu,</l>
+<l>Darf si ontsien dinc el negene?"</l>
+<l n="4110">"Neen si," riepen si al gemene.</l>
+<l>"Ontgaet si nu van desen man,</l>
+<l>Haer ne spreket niemen an."</l>
+<l>Dns gingen si in de kemmenade,</l>
+<l>Die rechtere met sinen rade,</l>
+<l n="4115">Dats sijn moeder, ende si twee,</l>
+<l>Merlijn quam ende nemmee</l>
+<l>Met hem dan die goede man</l>
+<l>Ende sijn moeder, daert om began.</l>
+<l>Ende doe die baliu was beraden,</l>
+<l n="4120">Sprac hi te Merline mat staden:</l>
+<l>"Sech op mire moeder dattu wout</l>
+<l>Ende hoe du die dine quiten sont."</l>
+<l>Merlijn seide: "op die dine</l>
+<l>Ne segic niet waerbi de mine</l>
+<l n="4125"><pb n="75"/> Quite van di soude gaen,</l>
+<l>Waert dat si iet hadde mesdaen,</l>
+<l>Want iegen recht willic niet spreken:</l>
+<l>Gods recht latic node breken,</l>
+<l>Want weet vor waer dat si der doet</l>
+<l n="4130">Verdient ne heft clein no groet.</l>
+<l>Gi lietse quite, daetdi wel,</l>
+<l>Ende vraget vander uwer niet el."</l>
+<l>"Neen," sprac de baliu, "sonder waen,</l>
+<l>Aldus ne seldi niet ontgaen:</l>
+<l n="4135">Ander saken moeti togen."</l>
+<l>Merlijn sprac vor sinen ogen:</l>
+<l>"Gi sult mire moeder laten gehermen",</l>
+<l>Dat seidi, mochtise bescermen,</l>
+<l>"Ende optie uwe dit proeven nu."</l>
+<l n="4140">"Dats waer," seide die baliu,</l>
+<l>"Want wi comen horen ende scouwen</l>
+<l>Wattu wils secgen op mire vrouwen."</l>
+<l>Merlijn sprac: "ia en houdi dan</l>
+<l>Mire moeder, omdat si mi wan</l>
+<l n="4145">In keefsdome ende niet en weet,</l>
+<l>Wie mijn vader was, gereet?</l>
+<l>Si sout bat weten, wildic dan,</l>
+<l>Wie hi was die mi wan,</l>
+<l>Dan du dinen vader kins;</l>
+<l n="4150">Ende dijn moeder, die du so mins,</l>
+<l>Soude bat nomen dan de mine</l>
+<l>Dinen vader al stillekine."</l>
+<l>Die rechtere seide: "lieve vrouwe,</l>
+<l>Dien man dien gi gavet trouwe,</l>
+<l n="4155">Was dat die gene niet die mi wan?"</l>
+<l>"Lieve sone, wie sout wesen dan,</l>
+<l>Dan mijn here, dire es doet?"</l>
+<l>Merlijn seide: "vrouwe, al bloet</l>
+<l><edition n="76"/>Moetti die waerheit doen verstaen,</l>
+<l n="4160">Salmen ons quite laten gaen.</l>
+<l><milestone unit="fol" n="1va"/> Ic liet aldus, wilt u sone gedogen."</l>
+<l>Die rechtere seide: "gi moet togen</l>
+<l>Van mire moeder die waerheit".</l>
+<l>Merlijn seide: "al dit gepleit</l>
+<l n="4165">Dat gire na wint, hout al bloet.</l>
+<l>Gi waent, dat u vader es doet?</l>
+<l>Hi leeft noch, orconde uwer vrouwen".</l>
+<l>Dien andren wonderts die dat scouwen,</l>
+<l>Ende Merlijn sprac: "segt uwen sone,</l>
+<l n="4170">Vrouwe, wie hi was de gone".</l>
+<l>Si seinde haar als die gram was.</l>
+<l>"Wat segdi", seget si, "Sathanas,</l>
+<l>Ja en wetict wel ?" Merlijn seide:</l>
+<l>Gi wet wel over waerheide,</l>
+<l n="4175">Dattene die man noit ne wan".</l>
+<l>Die vrouwe seide: "sech, wie dan?"</l>
+<l>"Dat was die pape sonder gile.</l>
+<l>To licteken datter selver wile</l>
+<l>Doen hi tirsten met u was,</l>
+<l n="4180">Dat gi seit, gi vruchtet das</l>
+<l>Dat gi wanet kint ontfaen".</l>
+<l>Hi seide: "vrouwe, laet dat staen,</l>
+<l>Van mi en wertdi niet beswaert";</l>
+<l>Want hi was altoes vervart</l>
+<l n="4185">Dat u een ander soude beswaren,</l>
+<l>Bedi bescreef hijt twaren,</l>
+<l>Weltijt dat hi met u was.</l>
+<l>In liege u niet, sijt seker das,</l>
+<l>Ende gi waerd qualike met uwen man,</l>
+<l n="4190">Doemen desen an u wan,</l>
+<l>Dat gi niet vele bi hem ne laget;</l>
+<l>Ende gi over hem doe claget</l>
+<l>Ende seit, gi droget bi hem kint;</l>
+<l><edition n="77"/>Dit en es logen niet een twint;</l>
+<l n="4195">Ende geloefdijs niet hier mede,</l>
+<l>Ic secges u meer al hier ter stede".</l>
+<l>O wi, hoe gram was de baliu!</l>
+<l>Sine moeder sprac: "geloefdi nu,</l>
+<l>Lieve sone, desen viant?"</l>
+<l n="4200">Merlijn sprac altehant:</l>
+<l>"En geloefdijs niet bi deser saken,</l>
+<l>Ic saels u harde wel vroet maken".</l>
+<l>Die vrouwe si antwerde saen:</l>
+<l>"Ic weet wel wat ic hebbe gedaen".</l>
+<l n="4205">"So doe ic oec, nu horter naer:</l>
+<l>Doe gi dit kint droecht, haddi vaer</l>
+<l>Ende badt den pape, dat hi den vrede</l>
+<l>Gestadelike wesen dede</l>
+<l>Tuschen u ende uwen here</l>
+<l n="4210">Om te decken u onnere;</l>
+<l>Ende doe hi den vrede hadde bejaget,</l>
+<l>Dedi dat gi te samen laget.</l>
+<l>Dus dadi uwen man verstaen,</l>
+<l>Dat gi kint van hem hadt ontfaen;</l>
+<l n="4215">Dus waendent al die liede sint,</l>
+<l>Ende dese waende wel wesen sijn kint.</l>
+<l><milestone unit="fol" n="1vb"/> Dit leven heb di lange geleet,</l>
+<l>Ende noch doet; hort wat ic weet:</l>
+<l>Dies nachts doe gi hier sout tiden</l>
+<l n="4220">Lach hi doe bi uwer siden,</l>
+<l>Smorgens geleide hi u .I. stie,</l>
+<l>Ende wat hi seide, dat wetic.</l>
+<l>Al lachgende sprac hi: ""lude ende stille</l>
+<l>Doet al dat mine sone wille"",</l>
+<l n="4225">Want hi weet wel dat es sijn sone</l>
+<l>Bi sinen gescrifte". Doe si tgone</l>
+<l>Hoerde dat hi seide waer,</l>
+<l><edition n="78"/>Seech si neder ende hadde vaer</l>
+<l>Si wiste wel, si moste gien.</l>
+<l n="4230">Die rechtere heft dit versien,</l>
+<l>Ende seide: "moeder, ic ben u kint,</l>
+<l>Wat vader so gi mi toesint;</l>
+<l>Goet kint blivic u embermere". -</l>
+<l>"Genade", seitsi, "om onsen here,</l>
+<l n="4235">Ic ne mages geloechenen niet:</l>
+<l>Also hijt seget, est gesciet".</l>
+<l>"Paerdieu", seide de baeliu,</l>
+<l>"Dit kint seide die waerheit nu:</l>
+<l>Het wiste sinen vader bet</l>
+<l n="4240">Dan ic den minen; ens gene wet</l>
+<l>Dat ic sire moeder wise ten vire,</l>
+<l>In verberre die mine oec scire".</l>
+<l>Hi seide ten kinde: "nu bidic di,</l>
+<l>Dattu seges wie dijn vader si,</l>
+<l n="4245">Omdat ic di mach daerbi ontsculden</l>
+<l>Vore die liede". "Om dine hulden</l>
+<l>Doe ict meer dan dor bedwanc",</l>
+<l>Sprae Merlijn, "al sonder wanc</l>
+<l>So was mijn vader .I. viant:</l>
+<l n="4250">Daar hi mire moeder slapende vant,</l>
+<l>Was hi met haer, geloeft mi des,</l>
+<l>Ende selke heetmen "anguipedes";</l>
+<l>Dese duvle, des machmen mi geloven,</l>
+<l>Wonen in de lucht hier boven.</l>
+<l n="4255">Ende om dat mi .I. duvel wan,</l>
+<l>So gedogede onse here daeran</l>
+<l>Dat ic hebbe haren sin</l>
+<l>Ende haer list meer no min.</l>
+<l>Bedi wetic dat leden es,</l>
+<l n="4260">Ende van mire moeder, sijt seker des,</l>
+<l>Dor die doget die an haer was vonden,</l>
+<l>Ende die berouwenesse van haren sonden,</l>
+<l><edition n="79"/>Ende om den aflaet die haer dede</l>
+<l>Dese goede man, ende oec mede</l>
+<l n="4265">Om der heiliger kerken gebode,</l>
+<l>De si hilt ende geloefde an gode,</l>
+<l>So heft mi god geonnen des,</l>
+<l>Dat ic weet dat te gesciene es:</l>
+<l>Dit machtu proeven nu te tide."</l>
+<l n="4270">Hi nam den baliu over .I. side,</l>
+<l>Ende seide: "dijn moeder si sal gaen</l>
+<l>Ende secgen dinen vader saen</l>
+<l><milestone unit="fol" n="1vc"/> Algader dat hier es vermont,</l>
+<l>Ende als hi weet dat di es cont,</l>
+<l n="4275">Sal hi int herte sijn versaget</l>
+<l>Ende vlien oft hi waer geiaget.</l>
+<l>Die duvel, dien hi heft gedient,</l>
+<l>Salne leiden alse sinen vrient,</l>
+<l>Daer hi hem verdrinken sal.</l>
+<l n="4280">Hier bi merct dat ic weet al</l>
+<l>Die saken die sellen gescien".</l>
+<l>Die baliu antwerde mettien:</l>
+<l>"Es dit waar, ic sal di bi mire wet</l>
+<l>Embermeer geloven te bet".</l>
+<l n="4285">Quite scout die baliu Merlijn</l>
+<l>Ende daertoe die moeder sijn.</l>
+<l>Die tale was vor tfolc verhaelt.</l>
+<l>"Dese" seiti "heft wel ontaelt</l>
+<l>Met scoenre redene sire moeder,</l>
+<l n="4290">Ende weet oec wel dat geen vroeder</l>
+<l>U nembermeer te siene steet,</l>
+<l>Nadat ic de waerheit weet."</l>
+<l>Dat volc riep al met vlite:</l>
+<l>"God hebs danc dat si es quite".</l>
+<l n="4295">Die rechter sende sire moeder henen</l>
+<l><edition n="80"/>Ende boden mede, die alt gene</l>
+<l>Proefden, dat kint dede verstaen.</l>
+<l>Doen si was comen, also saen</l>
+<l>Seide si den pape al dat si horde.</l>
+<l n="4300">Hi was versaget van den worde</l>
+<l>Ende vloe van groter scame.</l>
+<l>Hi pensde, als die rechter quame,</l>
+<l>Dat hine soude doen verslaen.</l>
+<l>Als hi was uter port gegaen,</l>
+<l n="4305">Quam hi saen op ene riviere</l>
+<l>Ende seide: "mi es beter dat ic sciere</l>
+<l>Verdrinke, dan hi mi doden sal</l>
+<l>Te lachter deser werelt al".</l>
+<l>Dus leitdene de duvel eer iet lanc,</l>
+<l n="4310">Daer hi hem selven verdranc.</l>
+<l>Die metter vrouwen waren gesent,</l>
+<l>Stonden ende sagen al tgent.</l>
+<l>Dese boec seit: al es een erre,</l>
+<l>Dat hi den lieden niet ontferre.</l>
+<l n="4315">Ende alse die boden weder quamen,</l>
+<l>Seiden si dat si vernamen</l>
+<l>Ende dattie pape verdronken was.</l>
+<l>Den rechtere hadde groet wonder das,</l>
+<l>Ende Merlijn loech doe ende seide:</l>
+<l n="4320">"Merc, en seidic di niet waerheide?</l>
+<l>Nn biddic dattut seges dan</l>
+<l>Blasise, den goeden man."</l>
+<l>Blasijs hiet hi die altoes hoeder</l>
+<l>Hadde gesijn van Merlijns moeder.</l>
+<l n="4325">Hi teldem hoe dat was gesciet</l>
+<l>Metten pape, ende anders niet.</l>
+<l>Blasijs ginc thuus metter vrouwen,</l>
+<l>Die quite was van groten rouwen.</l>
+</text>
+<!--</ENTRY>
+--></TEI.2>

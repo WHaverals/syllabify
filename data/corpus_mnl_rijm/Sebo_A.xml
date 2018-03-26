@@ -1,0 +1,145 @@
+<?xml version='1.0'?><!DOCTYPE TEI.2 PUBLIC '-//TEI P4//DTD Main Document Type//EN' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd' [<!ENTITY % TEI.prose 'INCLUDE'><!ENTITY % TEI.linking 'INCLUDE'><!ENTITY % TEI.figures 'INCLUDE'><!ENTITY % TEI.analysis 'INCLUDE'><!ENTITY % TEI.corpus 'INCLUDE'><!ENTITY % TEI.XML 'INCLUDE'><!NOTATION TEI-XML PUBLIC 'TEI P4' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd'><!-- internal INL dtd --><!ELEMENT b (#PCDATA)><!ELEMENT l (#PCDATA | b)*><!-- end of internal INL dtd -->]><TEI.2><!--<ENTRY id="i763"><teiHeader><fileDesc><titleStmt><title>Boudewijn van Seborch</title>
+</titleStmt>
+<interpGrp type="pubYear_from"><interp value="1300"/></interpGrp>
+<interpGrp type="witnessYear_from"><interp value="1300"/></interpGrp>
+<interpGrp type="pubYear_to"><interp value="1400"/></interpGrp>
+<interpGrp type="witnessYear_to"><interp value="1400"/></interpGrp>
+<TITEL>Boudewijn van Seborch</TITEL>
+<author>Onbekend</author>
+<AARD>Rijm</AARD>
+<BRON nr="K115">Amsterdam, Universiteitsbibliotheek, E q 73a (fragm.)</BRON>
+<DATUM>1300-1400</DATUM>
+<OMVANG>116 verzen</OMVANG>
+<BRON.OPM>Twee in de lengte op elkaar aansluitende strookjes, die midden uit een blad gesneden zijn. Er zijn nog twee kolommen per bladzijde overgeleverd. Het linkerstrookje telt nog 31, het rechterstrookje 26 &agrave; 27 regels per kolom, waarbij de derde regel van het linkerstrookje als eerste regel van het rechterstrookje doorloopt. Oorspronkelijk bedroeg het aantal regels 33-35 per kolom. Van kolom ra en va zijn de eerste letters van iedere versregel verloren gegaan, van kolom rb van enkele verzen de laatste letter(s) en van kolom vb de rechterhelft. Van de 116 verzen bestaan er 6 uit een foutieve herhaling van de kopiist: de regels 35-37 zijn identiek aan de regels 40-43; voorts moeten de regels 32-34 gelijk zijn aan de regels 38-40. In deze regels heeft de kopiist naar alle waarschijnlijkheid een 'sautdu-m&ecirc;me-au-m&ecirc;me' gemaakt, misschien na een onderbreking van zijn schrijfarbeid. In de linkermarge staan markeringen die de lezer moesten helpen de herhaling te omzeilen.</BRON.OPM>
+<EDITIE>G.H.M. Claassens: De Middelnederlandse kruisvaartromans. Amsterdam, 1993. Diss. Nijmegen, 160-229 (214-228).</EDITIE>
+<STATUS>Diplomatisch</STATUS>
+<EDITIE.OPM>Claassens geeft behalve de diplomatische ook de kritische editie (naast elkaar op de linker- en de rechterpagina). Voorts heeft Claassens onzekere lezingen tussen ronde haken geplaatst en conjecturen tussen rechthoekige haken, terwijl ze hier beide tussen rechthoekige haken zijn gezet. In de editie Claassens worden de fragmenten M&uuml;nchen en Amsterdam in aansluiting op elkaar uitgegeven; daarbij wordt gebruik gemaakt van een doorlopende regelnummering. Hier echter worden ze afzonderlijk gepresenteerd, met een eigen regelnummering.</EDITIE.OPM>
+<BRONNEN>Van twee handschriften zijn er fragmenten overgeleverd: - <x nr=K114>M&uuml;nchen, Universit&auml;tsbibliothek, 2&supo; Cod. ms. 756 (fragm.)</x>
+ - <x nr=K115>Amsterdam, Universiteitsbibliotheek, E q 73a (fragm.)</x>
+</BRONNEN>
+</fileDesc>
+</teiHeader>
+--><text>
+<l parse="ignore"><pb n="214"/><milestone unit="fol" n="ra"/> [Me]t rechte macht mi ro[uwen]</l>
+<l parse="ignore">[V]ele porters ebben d[ed....]</l>
+<l parse="ignore"><edition n="216"/>[Hem] began te iamerne saen</l>
+<l>[Ut]er maten arde sere</l>
+<l n="5">[We]l .i.[m]. kerden toren here</l>
+<l>[De]s esmereit was sere verblijt</l>
+<l>[Ende] gaufrot droue seker sijt</l>
+<l>[Doe] dede die ouer felle t[e ha]nt</l>
+<l>[Bla]sen enen holifant</l>
+<l parse="ignore" n="10">[Ende] ghi[nc me]n ter [stede] w[e]ert</l>
+<!--
+<l>[.............] onkeert</l>
+<l>[.......]ere[..n] in souden bekeren</l>
+<l>[.....] ont[..] csi[.]m om der deren</l>
+<l>[.......]aam hi ste[de]</l>
+<l n="15">[......]nder sonder be[de]</l>
+<l>[......]er ou[er]al bes[tri]den</l>
+-->
+<l parse="ignore"><edition n="218"/>[Men] rechte ledren an allen siden</l>
+<l>[Ende] ghinker scieten met staelbogen</l>
+<l>[Qua]rele hadden goede vloge</l>
+<l parse="ignore" n="20">[Die] van buten ende van binnen</l>
+<l parse="ignore">[........] sere in allen sinnen</l>
+<l>[Doe] die [u]e[r]dde por[t]ers sagen</l>
+<l>[Die] stat began hem wanhagen</l>
+<l parse="ignore">[.............ocht]e</l>
+<l parse="ignore" n="25">[Hem die] mort niet scamen mochte</l>
+<l>[Elc] andren seidsi met [ghe]ninde</l>
+<l>[Ons] wijf ende onse [k]inde</l>
+<l>[Bliu]en altemale verloren</l>
+<l>[Wan]t gaudefrot god geue[n toren]</l>
+<l parse="ignore" n="30">[...]int dode [............]</l>
+<l parse="ignore"><pb n="220"/><milestone unit="fol" n="rb"/> [............. stede]</l>
+<l parse="ignore">[Dander helt dedi sonder beede]</l>
+<l>[Endedem hare wapen of doen]</l>
+<l>[Doe dede ghebieden die baroen]</l>
+<l n="35">Sonder enich letten meere</l>
+<l>Aldie vitailge die was int here</l>
+<l>Dat mense brochte vor die stede</l>
+<l>Dander helt dedi sonder beede</l>
+<l>Endedem hare wapen of doen</l>
+<l n="40">Doe dede ghebieden die baroen</l>
+<l>Sonder enich letten mere</l>
+<l>Al die vitailge die was int here</l>
+<l>Dat mense brochte vor die stede</l>
+<l>Nar den ghebode men [al]so dede</l>
+<l n="45">Doe ghinc mer eten ende drinken</l>
+<l>Elc die wilde sins gedincken</l>
+<l>Den nam ene henne dander enen cap[oen]</l>
+<l>Dander .i. harst van venisoen</l>
+<l>Die vierde die nam enen pasteit</l>
+<l n="50">Van alre vitailgen was dar plenteit</l>
+<l>Die vaten setten sie ouer hooft</l>
+<l>Van den wine des ghelooft</l>
+<l>Ende sclouchem den bodem huut</l>
+<l>Doe wart ghinder grot gheluutt</l>
+<l n="55"><pb n="222"/> Die .i. dranc en die ander dranc soop</l>
+<l>Die .i. seide brinc en dander loep</l>
+<l>Deus welc .i. here es esmereit</l>
+<l>Ghef hare caese nem hier enen paste[it]</l>
+<l>Ende laet ons wesen welteghemake</l>
+<l n="60">Wy sullen tauent int beste sclape</l>
+<l parse="ignore">[.............der ste]den</l>
+<l parse="ignore"><milestone unit="fol" n="va"/> [Bes]ecgen onse sonden ripe weisen</l>
+<l>[So]e eist met onsen liue ghedaen</l>
+<l>[Di]e stede wert gewonnen saen</l>
+<l n="65">[Jo]f wij nebben andren raet</l>
+<l>[Do]e was dar ghestaen .i. quaet</l>
+<l>[G]aufroy was sin maech</l>
+<l>[Te]n verranessen was hi niet traech</l>
+<l><edition n="224"/>[T]e gaufrote spraci ende seide</l>
+<l n="70">[N]eue seti bi warede</l>
+<l>[Di]e stadt die nes noch niet verloren</l>
+<l>[Wi]ldi nar minen rade horen</l>
+<l>[S]poet hu ghereet seide gaufrot</l>
+<l>[Ge]ift ons raet wi hebbens noot</l>
+<l n="75">[Do]e seide die verrader hendri</l>
+<l>[N]eiue seti hort nar mi</l>
+<l>[Di]e porters dies hu of sin gegaen</l>
+<l>[Di]e hebbent hu altemale ghedaen</l>
+<l>[D]at w[y] aldus sin bestreden</l>
+<l n="80">[Nu] doet nemen sonder beden</l>
+<l parse="ignore">[Di]e hem toe gaen ten .x. leden</l>
+<l>[E]nde doese werpen ouer den muer</l>
+<l>[Al] es tassaut nu swar ende stuuer</l>
+<l>[Si] sullent corts al laten staen</l>
+<l n="85">[E]nde dar nar als het es ghedaen</l>
+<l>[Ghi] gheift elken clene ende grot</l>
+<l>[Ghe]luc nar dat hi es ghenoot</l>
+<!--
+<l><pb n="226"/><milestone unit="fol" n="vb"/> [..............i]nt fosseit</l>
+<l>[..............] hem sciere</l>
+<l n="90">Van .m. nontginger hem vie[re]</l>
+<l>Ghinder wart wel grot gheween</l>
+<l>Van [de]n maechden en van den vrouwen</l>
+<l>Si se[id]en ga [.......] getrouwen</l>
+<l>Vuul dief hoe[..........]</l>
+<l n="95">Dat [..] ons a[..........]</l>
+<l>Ende wat hebben [..........]</l>
+<l>Et [n]e diet h[..........]</l>
+<l>Seide weder die felle gaufroot</l>
+<l>Men werpse neder [met] haesten groot</l>
+<l n="100">En waser iemen [........armde]</l>
+<l>Jof die iet d[ar] omme carmde</l>
+<l>Stappans m[oe]sti varen [.......]</l>
+<l>Doe wart ghinder grot [........]</l>
+<l><edition n="228"/>En si riepen met ghe[nent]</l>
+<l n="105">Gaufrot in t[la]est jugement</l>
+<l>Dat god van [.............]</l>
+<l>Soe roepen wi [.... aen]scijn v</l>
+<l>Doe seide gaufrot dat [..........iet]</l>
+<l>Te dien vonni[ss]e ne commic niet</l>
+<l n="110">Jc weet mijn scaue[n] gaen [...]e</l>
+<l>Min [p]leit da[...........]</l>
+<l>Als ic vor g[............]</l>
+<l>In [w..e] toegen [...] ge[....]</l>
+<l>Al w[il]dict et [ware] onger[eet]</l>
+<l n="115">Ende omme dat ic dit wel weet</l>
+<l>[..............] die helle</l>
+</text>
+-->
+<!--</ENTRY>
+--></TEI.2>

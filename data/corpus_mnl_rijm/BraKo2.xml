@@ -1,0 +1,405 @@
+<?xml version='1.0'?><!DOCTYPE TEI.2 PUBLIC '-//TEI P4//DTD Main Document Type//EN' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd' [<!ENTITY % TEI.prose 'INCLUDE'><!ENTITY % TEI.linking 'INCLUDE'><!ENTITY % TEI.figures 'INCLUDE'><!ENTITY % TEI.analysis 'INCLUDE'><!ENTITY % TEI.corpus 'INCLUDE'><!ENTITY % TEI.XML 'INCLUDE'><!NOTATION TEI-XML PUBLIC 'TEI P4' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd'><!-- internal INL dtd --><!ELEMENT b (#PCDATA)><!ELEMENT l (#PCDATA | b)*><!-- end of internal INL dtd -->]><TEI.2><!--<ENTRY id="i384"><teiHeader><fileDesc><titleStmt><title>Vande Hertogen ende Heeren van Brabant, Korte kroniek van Brabant (korte versie 2)</title>
+</titleStmt>
+<interpGrp type="pubYear_from"><interp value="1570"/></interpGrp>
+<interpGrp type="witnessYear_from"><interp value="1570"/></interpGrp>
+<interpGrp type="pubYear_to"><interp value="1590"/></interpGrp>
+<interpGrp type="witnessYear_to"><interp value="1590"/></interpGrp>
+<TITEL>Vande Hertogen ende Heeren van Brabant</TITEL>
+<TITEL>Korte kroniek van Brabant (korte versie 2)</TITEL>
+<author>Onbekend</author>
+<AARD>Rijm</AARD>
+<BRON nr="D23">Hs. Serrure, olim H.P. Verdussen, thans zoek</BRON>
+<DATUM>1570-1590</DATUM>
+<OMVANG>304 verzen</OMVANG>
+<BRON.OPM>Het handschrift waarin de tekst zich bevond was oorspronkelijk een convoluut, die verder o.a. ook een prozabewerking van de Grimbergse oorlog bevatte; het convoluut werd door de Gentse boekhandelaar Duquesne, die het hs. op de veiling-H.P. Verdussen (1858) gekocht had, uit elkaar gehaald, zodat de delen afzonderlijk verkocht konden worden. Zie verder J. Deschamps, 'De Prozabewerking van de "Grimbergse oorlog"'. In: Album Moors. Een bundel opstellen aangeboden aan Joseph Moors ter gelegenheid van zijn 75ste verjaardag. Luik, 1989, 31-54 (40).</BRON.OPM>
+<EDITIE>C.P. Serrure (ed.): 'Korte rijmkronijk van Brabant'. In: Vaderlandsch museum. Dl. III, 437-448.</EDITIE>
+<STATUS>Kritisch</STATUS>
+<BRONMNW>1299.22</BRONMNW>
+<BRONNEN>Hs. Serrure, olim H.P. Verdussen, thans zoek</BRONNEN>
+</fileDesc>
+</teiHeader>
+--><text>
+<lg1><head type="title"><pb n="437"/> <b>Vande Hertogen ende Heeren van Brabant</b> </head>
+<lg2><head type="strophe">1.</head>
+<l>Dit was van Landen Kaerleman,</l>
+<l>die deerste heerschappije ghewan</l>
+<l>van Brabant, ende oock die eere;</l>
+<l>ende wasser aff prince ende heere</l>
+<l n="5"><pb n="438"/> ende oock mede van Haspengouwe.</l>
+<l>Puppijn ende Sinte-Amelberch, die vrouwe,</l>
+<l>waeren beijde die kinderen sijne;</l>
+<l>doen hij sterff bleef Brabant Puppijne.</l>
+</lg2>
+<lg2><head type="strophe">2.</head>
+<l>Die eerste hertoge was van Landen Puppijn;</l>
+<l n="10">raet van Vranckerijcke moeste hij zijn.</l>
+<l>Sinte Begge ende Sinte-Geertruijt waeren</l>
+<l>beijde sijne kinderen, hoordick verclaeren.</l>
+<l>Puppijn schiet van desen levene</l>
+<l>alsmen screeff vi&supc; XL ende sevene;</l>
+<l n="15">te Nijvele leet hij, dat es claer,</l>
+<l>ende hij regneerde XXX jaer.</l>
+</lg2>
+<lg2><head type="strophe">3.</head>
+<l>Begge die wert hertoginne</l>
+<l>van Brabant, als ick versinne;</l>
+<l>hertoge wert haer man Angijs,</l>
+<l n="20">raet van Vranckerijck, dat ben ick wijs,</l>
+<l>Sinte-Aernouts sone, als ick las,</l>
+<l>wiens overoudevader was</l>
+<l>die groote Lottaris sekerlijcke,</l>
+<l>die ix&supe; coninck van Vranckerijcke.</l>
+</lg2>
+<lg2><head type="strophe">4.</head>
+<l n="25">Vuijt Troijen geboren, wij lesen dus,</l>
+<l>daer dierste coninck aff hiet Priamus.</l>
+<l>Dese Angijs, dese heere groot,</l>
+<l>bleeff in eenen strijde doot,</l>
+<l>alsmen screeff Ons Heeren jaer,</l>
+<l n="30">VI&supc; LXXXV, dat es waer.</l>
+<l>xxxviii jaer met groote eeren</l>
+<l>regneerde hij in Brabant als een heere.</l>
+</lg2>
+<lg2><head type="strophe"><pb n="459"/> 5.</head>
+<l>Puppijn van Haerstalle, sone Angijs,</l>
+<l>wert hertoge van Brabant, des sijt wijs;</l>
+<l n="55">raet ende sweertdragere soo was hij</l>
+<l>in Vranckerijcke dese heere vrij;</l>
+<l>hij maecte kersten die Vriesen.</l>
+<l>Den doot moeste hij kiesen</l>
+<l>alsmen screeff VII&supc;. XIIII, ick lese;</l>
+<l n="40">xxix jaer regneerde deze.</l>
+</lg2>
+<lg2><head type="strophe">6.</head>
+<l>Kaerle Marteel, Puppijns sone,</l>
+<l>wert hertoge, dat hem was schoone;</l>
+<l>bescherme van Vranckerijck datmen hem coes,</l>
+<l>die noijt seghe en verloes.</l>
+<l n="45">Int jaer Ons Heeren es hij doot bleven</l>
+<l>alsmen VII&supc; ende XL vant bescreven;</l>
+<l>te Sinte-Denijs dat hij leghet,</l>
+<l>xxvi jaer regneerde hij, alsmen seget.</l>
+</lg2>
+<lg2><head type="strophe">7.</head>
+<l>Hertoge wert de cleijne Puppijn</l>
+<l n="50">naer Kaerel Marteel, den vader zijn,</l>
+<l>als coninck in Vranckerijck, dat es waer.</l>
+<l>Doen hij hertoge hadde geweest x jaer,</l>
+<l>int jaer Ons Heeren hij doot bleeff</l>
+<l>alsmen VII&supc; LXIX screeff,</l>
+<l n="55">ende leet begraven te Sinte-Denijs;</l>
+<l>xxix jaer regneerde hij, des sijt wijs.</l>
+</lg2>
+<lg2><head type="strophe">8.</head>
+<l>Kaerel die Groote wert hertoge,</l>
+<l>coninck ende keijser hooghe;</l>
+<l>Swavien reij hem, ende Almaignien</l>
+<l n="60">dwanck hij, ende wan II werff Spaegnien.</l>
+<l><edition n="440"/>Hij sterff in dat jaer Ons Heeren</l>
+<l>VIII&supc;. XV met grooter eeren.</l>
+<l>tAken hij begraven was;</l>
+<l>hij regneerde xlvii jaer, als ick las.</l>
+</lg2>
+<lg2><head type="strophe">9.</head>
+<l n="65">Lodewijck die Goedertierne wert coninck,</l>
+<l>keijser ende hertoghe, dats waere dinck;</l>
+<l>de kercken was hij onderdaen,</l>
+<l>sijn kinderen wouden hem vaen.</l>
+<l>Int jaer ons Heeren sterff hij</l>
+<l n="70">VIII&supc; ende XLII daer bij.</l>
+<l>Te Ments men tsijnen grave werde;</l>
+<l>xxvi jaer hij regneerde.</l>
+</lg2>
+<lg2><head type="strophe">10.</head>
+<l>Caerel die Calue coninck wert</l>
+<l>ende hertoghe; hij was wel hert</l>
+<l n="75">sinen brueders, dat es waer.</l>
+<l>Vore sijn doot was hij kersten ii jaer;</l>
+<l>int jaer Ons Heeren sterff hij te Nantes</l>
+<l>VIII&supc; LXXII, gelooft mij des;</l>
+<l>xxx jaer regneerde hij sij u bekant;</l>
+<l n="80">hij maeckte den iersten grave in Hollant.</l>
+</lg2>
+<lg2><head type="strophe">11.</head>
+<l>Hertoge wert die simpele Lodewijck</l>
+<l>als coninck in Vranckerijck,</l>
+<l>dat in zijnen tijde daelde zeere,</l>
+<l>nae de croniken leere.</l>
+<l n="85">Int jaer Ons Heeren, dat hij sterff,</l>
+<l>VIII&supc; LXXIIII hij de doot verwerff;</l>
+<l>hij regneerde maer twee jaer;</l>
+<l>zijn vrouwe ginck met kinde swaer.</l>
+</lg2>
+<lg2><head type="strophe"><pb n="441"/> 12.</head>
+<l>Kaerel die Simpele wert coninck hier naer</l>
+<l n="90">ende hertoghe doen hij out was xii jaer;</l>
+<l>Robrecht, grave van Parijs,</l>
+<l>sloech hij doot, dat ben ick wijs;</l>
+<l>daeromme wert hij valschelijck gevaen</l>
+<l>te Pironne heeft hij de doot ontfaen</l>
+<l n="95">alsmen screeff IX&supc; ende XV&supn;&supe;;</l>
+<l>xxix jare regeerde hij, wij siene.</l>
+</lg2>
+<lg2><head type="strophe">13.</head>
+<l>Lodewijck die Simpele hij soo lach</l>
+<l>in die wieghe; sijn moeder haer ontsach</l>
+<l>ende voerden over in Ingelant.</l>
+<l n="100">Te sijnen xiii jaeren wert hij in Brabant</l>
+<l>hertoge, ende coninck van Vranckerijke.</l>
+<l>Int jaer Ons Heeren quam hij te lijcke</l>
+<l>IX&supc; LII, te Riemen dat hij leijt.</l>
+<l>xxvii jaer regneerde hij, te waerheijt.</l>
+</lg2>
+<lg2><head type="strophe">14.</head>
+<l n="105">Coninck ende hertoghe wert Lottarijs</l>
+<l>doen hij hadde xiii jaer, des sijt wijs,</l>
+<l>van Vranckerijck geweest behoeder,</l>
+<l>gaff hij Kaerelen, sijnen broeder,</l>
+<l>Brabant, ende schiet van desen lijve</l>
+<l n="110">alsmen screeff IX&supc; LXXXI ende vive,</l>
+<l>ende hij geregneert hadde, dats waer,</l>
+<l>omtrent xxxi jaer.</l>
+</lg2>
+<lg2><head type="strophe">15.</head>
+<l>Lodewijck de Jonge wert coninck</l>
+<l>ende hertoghe. Bij hem verghinck</l>
+<l n="115">vander croonen haerlieder gheslachte,</l>
+<l>dat geregneert hadde met machte</l>
+<l><edition n="442"/>cc. xxxii jaer, gewaerlijck.</l>
+<l>Maer een jaer en leeffde Lodewijck;</l>
+<l>want hij gheen kint en gewan,</l>
+<l n="120">Kaerel, sijn oom, track hem die croone an.</l>
+</lg2>
+<lg2><head type="strophe">16.</head>
+<l>Kaerel hertoghe van Lothrijcke</l>
+<l>ende gerechtich coninck in Vranckerijcke,</l>
+<l>doen hij vernam sijns neven doot,</l>
+<l>tooch hij derwaerts met volcke groot.</l>
+<l n="125">Hughe Capet heefften wederstaen,</l>
+<l>ende snachts op sijn bedde gevaen,</l>
+<l>alsmen screeff IX&supc; LXXX ende achte;</l>
+<l>xxix jaer hiel hij Brabant met machte.</l>
+</lg2>
+<lg2><head type="strophe">17.</head>
+<l>Kaerel eenen sone nae hem liet,</l>
+<l n="130">die hertoghe wert, ende Otto hiet,</l>
+<l>van Lothrijcke ende Brabant;</l>
+<l>xiiii jaer regneerde hij in dlant;</l>
+<l>hij sterff alsmen screeff, min no nee,</l>
+<l>Ons Heeren jaer M. ende twee;</l>
+<l n="135">gheen kint en hadde hij, verstaet den sijn,</l>
+<l>anders dan Geerberghe die suster sijn.</l>
+</lg2>
+<lg2><head type="strophe">18.</head>
+<l>Geerberghe, die Caerels dochter, was</l>
+<l>Gravinne van Loven, als ick las,</l>
+<l>ende van Bruessel, dats waerhede.</l>
+<l n="140">Doen Otte sijn inde dede</l>
+<l>Haer broeder, gaff den keijser Lothrijcke</l>
+<l>Godevaert van Ardennen, sekerlijcke;</l>
+<l>dus verloos Geerberge onschoone</l>
+<l>vaderlant, ende daertoe die croone.</l>
+</lg2>
+<lg2><head type="strophe"><pb n="443"/> 19.</head>
+<l n="145">Haer man was Lambrecht metten baerde,</l>
+<l>die dlant meijnde winnen metten swaerde</l>
+<l>op Godevaert ter selver tijt,</l>
+<l>hoe dat sij vochten eenen strijt,</l>
+<l>dat Lambrecht verslegen bleeff,</l>
+<l n="150">alsmen djaer Ons Heeren screeff</l>
+<l>M. XV, dats selve waer;</l>
+<l>grave was hij xxvi jaer.</l>
+</lg2>
+<lg2><head type="strophe">20.</head>
+<l>Lambrechts sone, Henrick dOude,</l>
+<l>als sijn vader was bracht te moude</l>
+<l n="155">Soo wert hij te Loven grave</l>
+<l>ende van Bruessele, ende schiet ave</l>
+<l>den lijve, alsmen gescreven vant</l>
+<l>M. ende XLVIII, sijn u becant,</l>
+<l>alse hij dede sijn endt;</l>
+<l n="160">xxxiii jaer duerde sijn regiment.</l>
+</lg2>
+<lg2><head type="strophe">21.</head>
+<l>Sijn sone was Lambrecht Stammelaert,</l>
+<l>Grave van Loven dat hij waert;</l>
+<l>hij stichte die canoninxdie, te waerhede,</l>
+<l>te Sinte-Pieters, te Loven, ende te Sinte-Goedelen beede,</l>
+<l n="165">ende Sinte-Goricx stichte hij mede.</l>
+<l>In eenen strijt hij sijn eijnde dede,</l>
+<l>alsmen screeff M. LXIII, dats waer;</l>
+<l>hij was grave xv jaer.</l>
+</lg2>
+<lg2><head type="strophe">22.</head>
+<l>Henrick van Lovene, sone Lambrechts,</l>
+<l n="170">wert grave ende heere slechts</l>
+<l>van Loven ende Brueselen saen;</l>
+<l>hij hadde eenen edelen man gevaen,</l>
+<l><edition n="444"/>daer Henrik aff was vermoort,</l>
+<l>doemen screeff Ons Heeren geboert</l>
+<l n="175">M. CLXIIII, onthout wel dat;</l>
+<l>xi jaer hij als grave sat.</l>
+</lg2>
+<lg2><head type="strophe">23.</head>
+<l>Henrick, sijn sone, die wert heere</l>
+<l>als grave van Loven, seijt die leere;</l>
+<l>in sijn hertte soo hadde hij toren,</l>
+<l n="180">dat hij sijnen vader hadde verloren;</l>
+<l>ende dlant ende die croone was hem genomen</l>
+<l>sijn voerders, daer hij aff was comen;</l>
+<l>Hij sterff alsmen screeff XI hondert;</l>
+<l>xxvi jaer was hij grave, wien dat wondert.</l>
+</lg2>
+<lg2><head type="strophe">24.</head>
+<l n="185">Godevaert metten baerde ontfinck</l>
+<l>tgraefschap. Doen hij was jongelinck</l>
+<l>verdiende hij aen keijser Henrike,</l>
+<l>dat hijne hertoghe van Lothrike</l>
+<l>maeckte. Int jaer Ons Heeren, dat hij sterff</l>
+<l n="190">XI&supc; XL, om sijnne sielen bederff,</l>
+<l>Soo groeffmen hem in Affelghem;</l>
+<l>xl jaer was Brabant geregeert van hem.</l>
+</lg2>
+<lg2><head type="strophe">25.</head>
+<l>Godevaert, sijn sone, wert hertoge</l>
+<l>van Lotrijcke; groote oorloghe</l>
+<l n="195">hiel hij jegen die Grimbersche heeren,</l>
+<l>dat hij niet en conste gekeeren,</l>
+<l>hij en moeste eerst die doot ontfaen</l>
+<l>alsmen XI&supc; XLIIII sach gescreven staen.</l>
+<l>Vier jaer was hij heere, als ic mercke;</l>
+<l n="200">te Loven leet hij in Sinte-Pieters kercke.</l>
+</lg2>
+<lg2><head type="strophe"><pb n="445"/> 26.</head>
+<l>Hertoge wert die derde Godevaert,</l>
+<l>die metten wiegen gehangen waert,</l>
+<l>daermen die van Grimbergen tonder street,</l>
+<l>int xl&sups;&supt;&supe; jaer, hij over zee reet,</l>
+<l n="205">ende sterff in dat jaer Ons Heeren</l>
+<l>XI&supc; LXXXVI jaer, Gode te eeren.</l>
+<l>Te Loven leet hi, alsmen ons leest,</l>
+<l>als hij xlii jaer hadde heere geweest.</l>
+</lg2>
+<lg2><head type="strophe">27.</head>
+<l>Henrick wert hertoge hier naer</l>
+<l n="210">als sijn vader doot was, dats waer;</l>
+<l>hij was capiteyn over zee gecoren;</l>
+<l>menich oorloge quam hem te voren.</l>
+<l>Voir Colen sciet hij van lijve,</l>
+<l>alsmen screef XII&supc; XXX ende vive.</l>
+<l n="215">Te Sente-Pieters, te Loven, wert hij bracht;</l>
+<l>xlix jaer hiel hij Brahant in sijnne macht.</l>
+</lg2>
+<lg2><head type="strophe">28.</head>
+<l>Henrick die Grootmoedige, naden vadere</l>
+<l>wert hertoge van Lothrijck algadere.</l>
+<l>Die ketters van Stedinghen hij verwan,</l>
+<l n="220">Colenne belach hij als een man.</l>
+<l>Int jaer ons Heeren sterff hij</l>
+<l>XII&supc; ende XLVII daer bij;</l>
+<l>hij leget begraven te Villeer;</l>
+<l>vi jaer was hij hertoge, niet meer.</l>
+</lg2>
+<lg2><head type="strophe">29.</head>
+<l n="225">Henrick die Saechtmoedighe van Brabant,</l>
+<l>hertoge van Lothrijcke, sij u becant,</l>
+<l>die edelste was hij van geslachte,</l>
+<l>scamel van seden ende sachte.</l>
+<l><edition n="446"/>Jonck sterff hij in Ons Heeren jaer</l>
+<l n="230">XII&supc; ende LX, dat es waer;</l>
+<l>hij leget te Loven, ten Predicaeren,</l>
+<l>ende regneerde xiiii de jaeren.</l>
+</lg2>
+<lg2><head type="strophe">30.</head>
+<l>Henricks sone, wert hertoghe Jan,</l>
+<l>die den strijt te Woeringhen wan;</l>
+<l n="255">sinen tijtel screeff hij hoochelijcke</l>
+<l>Brabant, Lijmborch ende Lotterijcke.</l>
+<l>tEender tafelronde sterff hij ten Baeren,</l>
+<l>alsmen screeff XII&supc; XCIIII de jaeren;</l>
+<l>hij leget in Bruessel, te Minnebroedere;</l>
+<l n="240">xxxiiii jaer was hij Brabants behoedere.</l>
+</lg2>
+<lg2><head type="strophe">31.</head>
+<l>Jan, sijn sone, was Brabants hertoghe,</l>
+<l>van Limborch, Lotterijcke prince hoghe.</l>
+<l>In sijnen tijt geschiedde groot wondere:</l>
+<l>die gemeijnte was bij hem op ende ondere.</l>
+<l n="245">Hij sterff in Gods carnacioen</l>
+<l>XIII&supc; ende XII jaer, screeffmen doen.</l>
+<l>Te Sinte-Goedelen soo leet hij;</l>
+<l>xviii jare was hij hertoge vrij.</l>
+</lg2>
+<lg2><head type="strophe">32.</head>
+<l>Die derde Jan nam sijn besorch</l>
+<l n="250">Brabant, Lotrijck, Lijmborch.</l>
+<l>het ontseijden hem xvii lantsheeren,</l>
+<l>die hij wederstont met grooter eeren.</l>
+<l>Hi sterff op Sinte-Claes avont</l>
+<l>alsmen screeff XIII&supc; LV, sij u cont.</l>
+<l n="255">Te Villeer was hij begraven hoghe;</l>
+<l>xliii jaer was hij hertoghe.</l>
+</lg2>
+<lg2><head type="strophe"><pb n="447"/> 33.</head>
+<l>Hertoginne bleeff vrouwe Joanne,</l>
+<l>die hertoge Wenceline hadde te manne,</l>
+<l>van Bemen des conincx sone,</l>
+<l n="260">(sijn broeder droech de keijsercroone),</l>
+<l>doen moestte Brabant regeren.</l>
+<l>Godt gesparen tot sijnner eeren</l>
+<l>ende tot hare salichede,</l>
+<l>alsoo moethij ons allen mede.</l>
+</lg2>
+<lg2><head type="strophe">34.</head>
+<l n="265">Hertoghe soo was Wencelijn</l>
+<l>van Lutcenborch, Limborch, verstaet den sijn,</l>
+<l>van Brabant ende van Limborch mede.</l>
+<l>Opden avent, dat hij sijn inde dede,</l>
+<l>dat ontfangen was die maget Marie,</l>
+<l n="270">alsmen screeff XIII&supc; LXXX jaer ende drie;</l>
+<l>tOruva leijt hij, int clooster;</l>
+<l>xxvii jaer was hij Brabants trooster.</l>
+</lg2>
+<lg2><head type="strophe">   35.</head>
+<l>Hertoginne bleeff vrouwe Joanne,</l>
+<l>die hertoge Wencelijn hadde te manne.</l>
+<l n="275">Sij was vrouwe LI jaer,</l>
+<l>in Decembre, dat es waer,</l>
+<l>alsmen screeff Gods geboernesse</l>
+<l>XIIII&supc; ende daer toe sesse;</l>
+<l>tOnser-Vrouwenbroeders dat sij leijt,</l>
+<l n="280">te Bruessel, voer waer geseijt.</l>
+</lg2>
+<lg2><head type="strophe"><pb n="448"/> 36.</head>
+<l parse="ignore">Anthonis van Bourgondien, tshertogen sone,</l>
+<l>wert doen hertoge van Brabant;</l>
+<l>ontrent ix jaer regneerde hij in dlant.</l>
+<l n="285">In eenen strijt hij doot bleeff,</l>
+<l>alsmen XIIII&supc; ende XV screeff,</l>
+<l>opden xxv&sups;&supt;&supe;&supn; dach in Octobris;</l>
+<l>ter Vueren leet hij begraven, sijt wijs.</l>
+</lg2>
+<lg2><head type="strophe">37.</head>
+<l>Jan, hertoghe Anthonis sone,</l>
+<l n="290">geboren vuijte fransche croone,</l>
+<l>wert hertoge daernaer, dats waerhede,</l>
+<l>van Brabant ende van Limborch mede,</l>
+<l>van Henegouwe, Hollant ende Zeelant.</l>
+<l>xii jaer regneerde hij, sij u bekant,</l>
+<l n="295">doen men screef XIIII&supc; XXVII inde hijt leven;</l>
+<l>ter Vueren leet hij, sonder sneven.</l>
+</lg2>
+<lg2><head type="strophe">38.</head>
+<l>Nae Jan, Anthonis sone, hertoghe</l>
+<l>wert Philips, sijn broeder, prince hooghe,</l>
+<l>van Brabant, Limborch ende Lothrijcke</l>
+<l n="300">oick grave van Simpol sekerlijcke.</l>
+<l>Omtrent iiii jaer regneerde hij, dats waer,</l>
+<l>hij sterff doe men screeff de geboorten jaer</l>
+<l>Ons Heeren XIIII&supc; XXXI; ende leghet</l>
+<l>ter Vueren begraven, alsmen seghet.</l>
+</lg2>
+</lg1>
+</text>
+<!--</ENTRY>
+--></TEI.2>

@@ -1,0 +1,128 @@
+<?xml version='1.0'?><!DOCTYPE TEI.2 PUBLIC '-//TEI P4//DTD Main Document Type//EN' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd' [<!ENTITY % TEI.prose 'INCLUDE'><!ENTITY % TEI.linking 'INCLUDE'><!ENTITY % TEI.figures 'INCLUDE'><!ENTITY % TEI.analysis 'INCLUDE'><!ENTITY % TEI.corpus 'INCLUDE'><!ENTITY % TEI.XML 'INCLUDE'><!NOTATION TEI-XML PUBLIC 'TEI P4' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd'><!-- internal INL dtd --><!ELEMENT b (#PCDATA)><!ELEMENT l (#PCDATA | b)*><!-- end of internal INL dtd -->]><TEI.2><!--<ENTRY id="i495"><teiHeader><fileDesc><titleStmt><title>Lion van Bourges</title>
+</titleStmt>
+<interpGrp type="pubYear_from"><interp value="1375"/></interpGrp>
+<interpGrp type="witnessYear_from"><interp value="1375"/></interpGrp>
+<interpGrp type="pubYear_to"><interp value="1400"/></interpGrp>
+<interpGrp type="witnessYear_to"><interp value="1400"/></interpGrp>
+<TITEL>Lion van Bourges</TITEL>
+<author>Onbekend</author>
+<AARD>Rijm</AARD>
+<BRON nr="K52">Amsterdam, Universiteitsbibliotheek, I A 24&supk; (fragm.)</BRON>
+<DATUM>1375-1400</DATUM>
+<OMVANG>102 verzen</OMVANG>
+<BRON.OPM>Het betreft hier twee stukken, elk van een ander blad: fragment I en II. Het eerste blad telt nog 23 regels, het tweede 28 regels per kolom; waarschijnlijk is alleen bovenaan tekst weggesneden.</BRON.OPM>
+<EDITIE>G. Kalff: 'Handschriften der Universiteitsbibliotheek te Amsterdam'. In: TNTL 9 (1890), 161-189 (167-170).</EDITIE>
+<STATUS>Kritisch</STATUS>
+<BRONMNW>1276.6.a</BRONMNW>
+<BRONNEN>Amsterdam, Universiteitsbibliotheek, I A 24&supk; (fragm.)</BRONNEN>
+</fileDesc>
+</teiHeader>
+--><text>
+<supplied resp="editor">Fragment I</supplied>
+<l parse="ignore"><pb n="167"/><milestone unit="fol" n="1r"/> Bi daghe bi nachte</l>
+<l parse="ignore">Weltijt dat vrede [....] was,</l>
+<l parse="ignore">Soe hayde (?) hijt, sijt seker das,</l>
+<l>Soe ic hebbe verstaen overwaer,</l>
+<l n="5">In die martrie VII (XII?) jaer.</l>
+<l>Die vrouwe en conste [weten] niet</l>
+<l>Van hem, des dogede si verdriet,</l>
+<l>Weder hi soude behouden tleven,</l>
+<l>Oft dat hi doot ware bleven,</l>
+<l n="10">Dat en was der vrouwen niet cont.</l>
+<l>Doen geviel up enen stont,</l>
+<l>Dat die heyden wijch leiden</l>
+<l>Jegen die kersten ander heiden</l>
+<l>Te vechten op enen tijt.</l>
+<l n="15">Ende als die dach quam dattie strijt</l>
+<l>Wesen soude, na mijn verstaen,</l>
+<l>Doen geboet die heyden soudaen</l>
+<l>Op lijf op goet sinen lieden,</l>
+<l>Dat si alle gader spieden</l>
+<l n="20">Na den leitsman van den here</l>
+<l>Ende dat si pijnden met gere,</l>
+<l><edition n="168"/>Dat sine leverden gevaen;</l>
+<l>Doe waren sijn consten (?) al gedaen.</l>
+<l>[...............]</l>
+<l parse="ignore"><milestone unit="fol" n="1v"/> Soe dat sijn here moest faelgeren</l>
+<l n="25">Ende si vingen [se met] gewelt;</l>
+<l>[Doen] bleven die kersten ongestelt (ongescelt (?))</l>
+<l>Ende herde droeve utermaten</l>
+<l>Ende elc vloe wech sijnre straten</l>
+<l>Ende die heyden voerden wech den here,</l>
+<l n="30">Des droefdi uter maten sere.</l>
+<l>Doe leidemen wech, dats waer,</l>
+<l>In enen kerkere, waer hi III jaer</l>
+<l>In dochde groten noot,</l>
+<l>Ende altoos pensdi om die [doot]</l>
+<l n="35">Ende om die passie, die Christus leet,</l>
+<l>Doen hi voer hem anden cruce [street].</l>
+<l>Doen hi hadde lange daer</l>
+<l>Gelegen in den kerker swaer,</l>
+<l>Doen was comen die tijt,</l>
+<l n="40">Dattie soudaen geen respijt</l>
+<l>Den here langer wilde geven,</l>
+<l>Hine woude hem nemen tleven,</l>
+<l>Oft hi en geloefde an sinen Mamet</l>
+<l>Ende liete varen sine wet.</l>
+<l n="45">Doen dede die here maken</l>
+<l>Alle tormentelike saken</l>
+<supplied resp="editor">Fragment II</supplied>
+<l><milestone unit="fol" n="2r"/> Ende laten onsen Mamet</l>
+<l>Ende volgen uwe wet</l>
+<l>Heymelijc daer ic mach,</l>
+<l n="50">Op dat ghi op desen dach</l>
+<l>Uwe wet avegaet</l>
+<l><edition n="169"/>Metten monde ende d'onse ontfaet".</l>
+<l>Hi pensde, al waert sonde,</l>
+<l>Hi soude Gods afgaen metten monde,</l>
+<l n="55">Maer het soude besloten bliven</l>
+<l>In sijn herte sonder verdriven.</l>
+<l>Doen bat hi Gode doer genaden,</l>
+<l>Datti hem vergave die mesdaden,</l>
+<l>Die hi moeste doen doer den noot</l>
+<l n="60">Vander anxteliker doot;</l>
+<l>Doen waert hi daer sarasijn</l>
+<l>Inden worde, dat was in scine,</l>
+<l>Maer int herte was hijs niet.</l>
+<l>Die soudaen beval ende hiet</l>
+<l n="65">Sijnre dochter metter vaert,</l>
+<l>Dat sine troude onghespaert</l>
+<l>Na die maniere van der wet.</l>
+<l>In groten stade was hi geset,</l>
+<l>Want hi maecten al te hant</l>
+<l n="70">Coninc over al sijn lant;</l>
+<l>Watti hiet, dat dede men saen,</l>
+<l>Watti verboet, dat liet men [staen].</l>
+<l>Hi wert leitsman op de Sarasine</l>
+<l>Ende voer vechten op die Kerstine.</l>
+<l n="75"><milestone unit="fol" n="2v"/> Daer hijt met eren mochte laten gaen,</l>
+<l>En dodi niemant, maer gevaen</l>
+<l>Nochtan dede hise tot meniger stont,</l>
+<l>Om te stoppene den mont</l>
+<l>Der heyden, daer hi clene trouwe</l>
+<l n="80">In hadde, maer die scone vrouwe</l>
+<l><edition n="170"/>Mindi utermaten sere.</l>
+<l>Al die liefde ende die ere,</l>
+<l>Die si hem gedoen conde,</l>
+<l>Deedse hem met goeden gronde.</l>
+<l n="85">Elc was anderen gerne bi,</l>
+<l>Dat si woude, dat woude hi;</l>
+<l>Maer si helt haer gebet</l>
+<l>Altoes na die heyden wet</l>
+<l>Ende heymelijc hilt hi tsine;</l>
+<l n="90">Als een goet Kerstine</l>
+<l>Sendi Gode sijn gebede</l>
+<l>Dagelijcs in heymelijchede.</l>
+<l>Nu soe willic laten varen</l>
+<l>Van den here, mer te verclaren</l>
+<l n="95">Van II kinderen, die hi achter liet,</l>
+<l>Des hi selve en wiste niet,</l>
+<l>Die hi hadde bi der vrouwen,</l>
+<l>Wies herte hi liet in rouwen,</l>
+<l parse="ignore">Daer hi van S[...] den sciet,</l>
+<l parse="ignore" n="100">Al mocht hijs gebeteren niet.</l>
+<l>Die kinder waren worden groot;</l>
+<l>Si waenden dat haer vader doot</l>
+</text>
+<!--</ENTRY>
+--></TEI.2>

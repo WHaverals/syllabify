@@ -1,0 +1,224 @@
+<?xml version='1.0'?><!DOCTYPE TEI.2 PUBLIC '-//TEI P4//DTD Main Document Type//EN' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd' [<!ENTITY % TEI.prose 'INCLUDE'><!ENTITY % TEI.linking 'INCLUDE'><!ENTITY % TEI.figures 'INCLUDE'><!ENTITY % TEI.analysis 'INCLUDE'><!ENTITY % TEI.corpus 'INCLUDE'><!ENTITY % TEI.XML 'INCLUDE'><!NOTATION TEI-XML PUBLIC 'TEI P4' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd'><!-- internal INL dtd --><!ELEMENT b (#PCDATA)><!ELEMENT l (#PCDATA | b)*><!-- end of internal INL dtd -->]><TEI.2><!--<ENTRY id="i180"><teiHeader><fileDesc><titleStmt><title>Gwidekijn van Sassen</title>
+</titleStmt>
+<interpGrp type="pubYear_from"><interp value="1340"/></interpGrp>
+<interpGrp type="witnessYear_from"><interp value="1340"/></interpGrp>
+<interpGrp type="pubYear_to"><interp value="1360"/></interpGrp>
+<interpGrp type="witnessYear_to"><interp value="1360"/></interpGrp>
+<TITEL>Gwidekijn van Sassen</TITEL>
+<author>Onbekend</author>
+<AARD>Rijm</AARD>
+<BRON nr="K37">Amsterdam, Universiteitsbibliotheek, I A 24&supj; (fragm.)</BRON>
+<DATUM>1340-1360</DATUM>
+<OMVANG>199 verzen</OMVANG>
+<BRON.OPM>De bovenste en onderste helft van een blad plus strook van het pendantblad (14-19 mm breed, met nog minieme resten van kol. ra en vb). Per bladzijde 2 kolommen en per kolom 50 regels. Waarschijnlijk hebben de fragmenten van de Gwidekijn van Sassen tot dezelfde codex behoord als de fragmenten Leiden, Bibliotheek der Rijksuniversiteit, Ltk. 1199 (Onge&iuml;dentificeerd (3)).</BRON.OPM>
+<EDITIE>G. Kalff: Middelnederlandsche epische fragmenten, met aantekeningen. Groningen, 1885, 159-167 (161-167).</EDITIE>
+<STATUS>Kritisch</STATUS>
+<BRONMNW>411.8</BRONMNW>
+<BRONNEN>Amsterdam, Universiteitsbibliotheek, I A 24&supj; (fragm.)</BRONNEN>
+</fileDesc>
+</teiHeader>
+--><text>
+<l><pb n="161"/><milestone unit="fol" n="1ra"/> Hoe hem gelieten die hoge moede;</l>
+<l>Payne waren sonder hoede:</l>
+<l>Si waendent hebben gewonnen al</l>
+<l>Maer alsi horden dat gescal,</l>
+<l n="5">Hadden si wonder, wat ware;</l>
+<l>Si riepen met stemmen clare:</l>
+<l>"Zassen, Sassen ende Sassine,</l>
+<l>Slaet doet dese Kerstine</l>
+<l>Tharen verdriete, tharen vernoye.</l>
+<l n="10">Maer doe si horden "Monyoie!"</l>
+<l>Roepen, dat dochen qualec gaen:</l>
+<l>Si saghen haer liede slaen</l>
+<l>Beide weder ende vort.</l>
+<l>Roelant wrochte grote mort;</l>
+<l n="15">Fransoys, El'e (Elegast?), Olyvier</l>
+<l>Ende hare ghezellen fier,</l>
+<l>Escous, Olleus ende Reynout</l>
+<l>Ende Gwyd waren vrom ende stout;</l>
+<l>Inghelram ende Constantijn</l>
+<l n="20">Sauri entie broeder sijn,</l>
+<l>Gheraerts kindere van Vyane.</l>
+<l>Beide van steken ende van slane</l>
+<l>Wasser harde groot gheluut.</l>
+<l>Men liet den Sassenaren uut,</l>
+<l n="25">Zwaven, Brussuwoene, Zweden,</l>
+<l>Bloet ende zweet ut haren leden,</l>
+<l>Men sclouchen af arm ende bene,</l>
+<l>Entie lede alghemene.</l>
+<l>Si riepen, die ridders fier:</l>
+<l n="30">"Nu keytive, ghi blivet hier;</l>
+<l>"Uwe ghesellen sijn al doet,</l>
+<l>"Ende Fledric die rese groet;</l>
+<l>"Een en esser niet ontgaen,</l>
+<l>"Ende met u werdet oec ghedaen,</l>
+<l n="35">"U weren baet u niet!"</l>
+<l>Sassen hadden groot verdriet</l>
+<l>Daer inder Fransoyse tale;</l>
+<l>Si saghen vellen in den dale</l>
+<l>Haer ghezellen biden lichte;</l>
+<l n="40">Alzo lange durde tghevichte,</l>
+<l>Dat wert scoen dach,</l>
+<l>Ende tlicht, hordic ghewach,</l>
+<l>Worpmen onder voet.</l>
+<l>Roelant was al een bloet,</l>
+<l n="45">Die op Volative sat;</l>
+<l>Hi rechten tier stat</l>
+<l>Op beide sijn stegebant</l>
+<l>Ende blies den Olyfant</l>
+<l>Met enen groten adem ruut,</l>
+<l n="50"><milestone unit="fol" n="1rb"/> Dat men horen mochte tluut</l>
+<l>Een mile over tstede.</l>
+<l>Sijn ghezellen verblider mede,</l>
+<l>Ende Sassen worden uten kere;</l>
+<l>Want si saghen minderen sere</l>
+<l n="55">Metten oghen haer ghesellen.</l>
+<l>Hoe si hem ter were stellen,</l>
+<l>Het was dinc, die niet besloot.</l>
+<l>Roelant sclouger so vele doot,</l>
+<l>Fransoys sijn broeder ende Olyvier,</l>
+<l n="60">Ende haer ghezellen fier,</l>
+<l>Dattet ongheloefelic waer.</l>
+<l>Die Sassen vloen hier ende daer</l>
+<l>Ende riepen: "Roelandijn,</l>
+<l>Olyvier entie broeder sijn</l>
+<l n="65">"Sijn duvels uter hellen;</l>
+<l>"Si verslaen al ons ghezellen."</l>
+<l>Doe vloen Sassen met alder cracht,</l>
+<l>Tot si quamen optie gracht,</l>
+<l>Daer die hare laghen versmort;</l>
+<l n="70">Doe riepensi: "Mamet, deser mort</l>
+<l>"Moet u afdinken ende ontfermen!"</l>
+<l>In dat suchten, in dat kermen</l>
+<l>So vloen die felle Sassenaren.</l>
+<l>Die grachte so effen waren</l>
+<l n="75">Mits den doden, diere in laghen</l>
+<l>Datsi die perde al overslaghen,</l>
+<l>Ende reden met hare pine</l>
+<l>Toter stede van Sassine;</l>
+<l>Ja in de zelve diere [sciere?] waren;</l>
+<l n="80">Maer Fransoyse na hem varen</l>
+<l>So vromelike, ter waerhede,</l>
+<l>Datsise sclougen onder de stede,</l>
+<l>Ende jaeghden int fosseit.</l>
+<l>Dese grote jammerheit</l>
+<l n="85">Hebben vernomen die van binnen,</l>
+<l>Daer si stoeden tharen tinnen.</l>
+<l>Dander riepen: "Laet in, laet in!</l>
+<l>"Wij hebben behaelt cranc ghewin.</l>
+<l>"Fledric ons here es doet</l>
+<l n="90">"Met quader verradenesse groet:</l>
+<l>"Valsch ende fel sijn die kerstine."</l>
+<l>Doe liepen die van Sassine</l>
+<l>Tharen porten haestelike</l>
+<l>Ende ontdadense ghemenelike,</l>
+<l n="95">Ende scoten bedichte</l>
+<l>Wtwaert scerpe scichte,</l>
+<l>Dat die Fransoyse moesten keren,</l>
+<l>Als die duchten dat</l>
+<l>Van den schieten, van den lode.</l>
+<l n="100">Al waest, dat sijt daden node</l>
+<l><milestone unit="fol" n="1va"/> Datsi Payne varen lieten,</l>
+<l>Si ontsaghen so dat scieten,</l>
+<l>(Dat die Fransoyse moesten keren,</l>
+<l>Als die duchten dat verseren)</l>
+<l>Datsi keerden tharen ghetelde.</l>
+<l>Si hadden versleghen opten velde</l>
+<l n="105">Der Payne met hare cracht,</l>
+<l>Met die waren in de gracht,</l>
+<l>Wel .XXXV. dusant.</l>
+<l>Doe seide die grave Roelant:</l>
+<l>"Here El'e [Elegaste?], dit was goet raet;</l>
+<l n="110">"Die Sassen waren wel verquaet;</l>
+<l>"Nochtan hadt eerleker ghezijn,</l>
+<l>"Waren si vor den zwerde stalijn</l>
+<l>"Bleven, so dander deden.</l>
+<l>"Here Roelant, bi uwer ghenaden,</l>
+<l n="115">"Hadden die te live ghebleven,</l>
+<l>"Ende si te scerne niet waren ghedreven,</l>
+<l>"Si hadden ons beraden stoot,</l>
+<l>"Ende meneghen man gheslaghen doot</l>
+<l>"Ende lichte van den velde verdreven.</l>
+<l n="120">"Si hadden mi liever verloren dleven,</l>
+<l>"Dant stonde ter aventure!"</l>
+<l>"So doen si mi teser ure,</l>
+<l>Sprac Fransoys ende Olyvier.</l>
+<l>Aldus reden die princhier</l>
+<l n="125">Tharen ghetelde, si vercont,</l>
+<l>Daer menech doet lach ende ghewont;</l>
+<l>Si hadden hout u daer an,</l>
+<l>Verloren .XV. man,</l>
+<l>Onder koken ende knechten,</l>
+<l n="130">Diet ghetelde daer berechten.</l>
+<l>Oec daden de heren doen</l>
+<l>Ter erden de dode baroen,</l>
+<l>Die hem lieden horden toe;</l>
+<l>Die dode Sassenaren doe</l>
+<l n="135">Datsi sleipen, gheloeft das,</l>
+<l>In de gracht, daer soe ijdel was,</l>
+<l>En dadense slechten ter verde.</l>
+<l>Doe werper op die erde,</l>
+<l>Die de duvels in der nacht</l>
+<l n="140">Geworpen hadden uter gracht:</l>
+<l>Daer mede bleven si ghedect.</l>
+<l>Die heren sijn afgetrect</l>
+<l parse="ignore">Doe in hare pawelioene,</l>
+<l parse="ignore">[...............]</l>
+<l n="145">Ende ghinghen eten ten ghetelde.</l>
+<l>Si lieten werden opten velde,</l>
+<l>Die se hoeden jeghen de stat.</l>
+<l>Die heren hadden niet dat</l>
+<l>Ghevoech van alderhande spise.</l>
+<l n="150"><milestone unit="fol" n="1vb"/> Nu willic u de ghise</l>
+<l>Vertrecken van die van der stede:</l>
+<l>Daer was grote jammerhede</l>
+<l>Ghedreven onder tfolc ghemene,</l>
+<l>Beide groot ende clene,</l>
+<l n="155">Om haren here Fledric;</l>
+<l>Daer was ghetrocken menech stic</l>
+<l>Van mantels ende van clederen mede.</l>
+<l>Die meeste rouwe was int stede,</l>
+<l>Daer noyt eer af was ghehort:</l>
+<l n="160">Tfolc liep al, sonder acort,</l>
+<l>Handen slaende, treckende haer,</l>
+<l>Ende dreven die meeste mesbaer,</l>
+<l>Dat ye liede ter werelt dreven</l>
+<l>Om ooms, om kinder ende om neven</l>
+<l n="165">Ende meest om haren here.</l>
+<l>Si vloecten Roelant sere</l>
+<l>Ende sine ghesellen al;</l>
+<l>Si riepen: "Dit ongheval,</l>
+<l>"Lacen! dat hier es ghesciet,</l>
+<l n="170">"Ne weet ons here niet,</l>
+<l>"De edele coninc Gwidekijn,</l>
+<l>"Dat dedel broeder sijn</l>
+<l>"Vermort es ende sijn lieden.</l>
+<l>"Wie salt dorren hem bedieden?</l>
+<l n="175">"Wie sal wesen soe coene,</l>
+<l>"Weder Zassen oft Brusuwoene?</l>
+<l>"Wende, Zwave, wi sal hi sijn,</l>
+<l>"Die den coninc Gwidekijn</l>
+<l>"Seggen sal die lede mare?"</l>
+<l n="180">Doe vraeghden si elc andren dare,</l>
+<l>Oft si wouden varen uut</l>
+<l>Ende nemen den tribuut</l>
+<l>Van hare overgroter scade.</l>
+<l>Doe vonden si tharen rade,</l>
+<l n="185">Datsi niet ut wouden varen:</l>
+<l>Het waren alte felle baren,</l>
+<l>Roelant ende Olyvier,</l>
+<l>Fransoys ende die onghier,</l>
+<l>Die voert die zwerte wapine,</l>
+<l n="190">Die metter tovernien sine</l>
+<l>Al omme wrachte watti can.</l>
+<l>Die ghemeine raet dus nam,</l>
+<l>Dat si binnen souden bliven;</l>
+<l>Nochtan hadden si der keytive</l>
+<l n="195">Wel .XLM. binnen der mure.</l>
+<l>Gwidekijn lach tier ure</l>
+<l>Ende sijn sone Gwineman</l>
+<l>In de stede van Bacham.</l>
+<l parse="ignore" n="199">Dat Fledric ware doot</l>
+</text>
+<!--</ENTRY>
+--></TEI.2>

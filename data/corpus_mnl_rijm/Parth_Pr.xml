@@ -1,0 +1,180 @@
+<?xml version='1.0'?><!DOCTYPE TEI.2 PUBLIC '-//TEI P4//DTD Main Document Type//EN' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd' [<!ENTITY % TEI.prose 'INCLUDE'><!ENTITY % TEI.linking 'INCLUDE'><!ENTITY % TEI.figures 'INCLUDE'><!ENTITY % TEI.analysis 'INCLUDE'><!ENTITY % TEI.corpus 'INCLUDE'><!ENTITY % TEI.XML 'INCLUDE'><!NOTATION TEI-XML PUBLIC 'TEI P4' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd'><!-- internal INL dtd --><!ELEMENT b (#PCDATA)><!ELEMENT l (#PCDATA | b)*><!-- end of internal INL dtd -->]><TEI.2><!--<ENTRY id="i623"><teiHeader><fileDesc><titleStmt><title>Parthonopeus van Bloys</title>
+</titleStmt>
+<interpGrp type="pubYear_from"><interp value="1375"/></interpGrp>
+<interpGrp type="witnessYear_from"><interp value="1375"/></interpGrp>
+<interpGrp type="pubYear_to"><interp value="1400"/></interpGrp>
+<interpGrp type="witnessYear_to"><interp value="1400"/></interpGrp>
+<TITEL>Parthonopeus van Bloys</TITEL>
+<author>Onbekend</author>
+<AARD>Rijm</AARD>
+<BRON nr="K182">Praag, Katedra pomocn&yacute;ch ved historick&yacute;ch a archivn&iacute;ho studia na filosofick&eacute; fakulte Karlovy university, z.s. (fragm.)</BRON>
+<DATUM>1375-1400</DATUM>
+<OMVANG>144 verzen</OMVANG>
+<BRON.OPM>Drie stroken, die elk uit een ander blad afkomstig zijn; per bladzijde oorspronkelijk twee kolommen met 42 regels. Fragment 1 is een strookje dat horizontaal midden uit een blad gesneden is en bovenaan onregelmatig is afgescheurd. Fragment 2 is de rechterhelft van een overlangs doormidden gesneden blad, dat aan de bovenkant met tekstverlies besnoeid is. De eerste letters van de verzen van kol. rb en de laatste letters van de meeste verzen van kol. va zijn verloren gegaan. Verder ontstond tekstverlies doordat links de hoeken zijn afgesneden. De tekst is op de oorspronkelijke versozijde tamelijk afgesleten. Fragment 3 is een strookje dat horizontaal midden uit een blad gesneden is en telt nog 9 &agrave; 11 regels per kolom.</BRON.OPM>
+<EDITIE>L. Zatocil: 'Drei Prager Bruchst&uuml;cke einer Pergamenthandschrift des mittelniederl&auml;ndischen Versromans Parthonopeus van Bloys'. In: Sborn&iacute;k Prac&iacute; Filosofick&eacute; Fakulty Brnensk&eacute; University, Rocn&iacute;k Rada Liter&aacute;rnevedn&aacute; 8 (1961), 97-114.</EDITIE>
+<STATUS>Diplomatisch</STATUS>
+<BRONMNW>1007.1 (ander handschrift)</BRONMNW>
+<EDITIE.OPM>De 144 verzen zijn grotendeels ook terug te vinden in de Brusselse fragmenten, die werden uitgeven door Bormans (editie Bormans, vss. 4170-4178, 4205-4214, 4244-4252, 4285-4289, 4351-4379, 4390-4421, 5140-5148, 5178-5188, 5215-5224, 5256-5260). Voor de corresponderende verzen gebruikt Zatocil de versnummering van Bormans; de overige verzen (dertien) laat hij voorafgaan door een letter. Hier is dezelfde werkwijze gevolgd; niet overgenomen uit de editie werden het apparaat met varianten en aantekeningen en de corresponderende Oudfranse tekst. De afkortingen in de editie zijn hier opgelost, maar niet gemarkeerd. Het betreft de gebruikelijke afkortingen: een tilde voor "de" (in "ende"), een "n" of een "m"; verder "Parto." of "Parton." voor "Partonopeus", "G." voor "Gaudijn" en "coninc" of "coningen" voor "con.". De ronde haakjes in de editie ten slotte zijn vervangen door rechthoekige.</EDITIE.OPM>
+<BRONNEN>De Parthonopeus is in het Middelnederlands alleen fragmentarisch overgeleverd. Van in totaal 5 handschriften zijn er fragmenten bewaard: Hs. 1: - <x nr=K171>Trier, Stadtbibliothek, Mappe IV, deutsche Fragmente, Nr. 3 (fragm.)</x>
+ - <x nr=K172>Berlijn, Staatsbibliothek Preussischer Kulturbesitz, Germ. fol. 757,22 (fragm.)</x>
+ - <x nr=K173>Keulen, Universit&auml;ts- und Stadtbibliothek, 5 P 64 (fragm.)</x>
+ Hs. 2: - <x nr=K174>Keulen, Historisches Archiv, Hss-Fragm. A 45 (fragm.)</x>
+ - <x nr=K175>Leiden, Bibliotheek der Rijksuniversiteit, Ltk. 210 (fragm.)</x>
+ - <x nr=K176>Brussel, Koninklijke Bibliotheek, II 572 (fragm.)</x>
+ Hs. 3: - <x nr=K177>Jena, Universit&auml;ts- und Landesbibliothek, Fol. 155 [fragmenten-Jena&supb;] (fragm.)</x>
+ - <x nr=K178>Jena, Universit&auml;ts- und Landesbibliothek, Fol. 155 [fragmenten-Jena&supa;] (fragm.)</x>
+ - <x nr=K179>Groningen, Bibliotheek der Rijksuniversiteit, 406 (fragm.)</x>
+ - <x nr=K180>Keulen, Erzbisch&ouml;fliche Di&ouml;zesanund Dombibliothek (?), [zoek] (fragm.)</x>
+ Hs.4: - <x nr=K181>Maastricht, Rijksarchief in Limburg, 167 III 9 (fragm.)</x>
+ Hs.5: - <x nr=K182>Praag, Katedra pomocn&yacute;ch ved historick&yacute;ch a archivn&iacute;ho studia na filosofick&eacute; fakulte Karlovy university, z.s. (fragm.)</x>
+</BRONNEN>
+<HSDRUK>Historie van Partinoples - Grave van Bleys</HSDRUK>
+</fileDesc>
+</teiHeader>
+--><text>
+<l n="4170"><pb n="100"/><milestone unit="fol" n="1ra"/> AI vrouwe seiti doer gode genade</l>
+<l>Hoe gerne ict sekeringe dade</l>
+<l>Bede met trouwen ende met heede</l>
+<l>Talrerst dat die tornoi daer sceede</l>
+<l>Dat ic hier weder comen sal</l>
+<l n="4175">Mine lette god of ongeual</l>
+<l>In weet v wat gisele geuen</l>
+<l>Maer moet mi god behouden dleuen</l>
+<l parse="ignore">Ic sal v staen al minen tijt</l>
+<l n="4205"><milestone unit="fol" n="1rb"/> Den raet gedoen dat gi saen</l>
+<l>Vter vancnessen soudt ontgaen</l>
+<l>Geuielt oec dat gi doot daer bleuet</l>
+<l>So haddic al minen tijt geleuet</l>
+<l>Herman soude mi verslaen</l>
+<l n="4210">Bedi mogedire aen verstaen</l>
+<l>Dat ic groote dinc doer v doe</l>
+<l>Vten kerkre halp sie hem doe</l>
+<l>So hoe solc daer na vergaet</l>
+<l>Al sine wapene waren geraet</l>
+<l parse="ignore"><pb n="101"/><milestone unit="fol" n="1va"/> [..........]h[...] hi dier (?)</l>
+<l>Gaudijn (?) quam te parton. waert</l>
+<l>Gereden op een tellende paert</l>
+<l n="4245">IX cnapen die vore riden</l>
+<l>Saten alle op starke ronsiden</l>
+<l>Elc voert een scacht lanc ende groot</l>
+<l>Van sinopre geuarwet root</l>
+<l>An elken scacht eene baniere</l>
+<l n="4250">Blickende root gelijc den viere</l>
+<l>Daer na quamen .V. scilt cnechte</l>
+<l>Die elken hogen man met rechte</l>
+<l n="4285"><pb n="102"/><milestone unit="fol" n="1vb"/> Van minen geslachte mogedi horen</l>
+<l>Van heidene spanigen benic geboren</l>
+<l parse="ignore">Een eiden ridder was mi vader</l>
+<l>Doe ic te riddre niewinge was gedaen</l>
+<l>Ende gerne prijs hadde ontfaen</l>
+<l>Doe was ic .xxx. iaer wel out</l>
+<l>Ende wer te vranqrike om sout</l>
+<l>Dat gesciede mi auer waer</l>
+<l>Dat lant was doe in werren daer</l>
+<l parse="ignore"><pb n="103"/><milestone unit="fol" n="2rb"/> [Voor Chiefdore tende d]er bruggen</l>
+<l parse="ignore">[In den tor was] gaen liggen</l>
+<l>[Melior ende twee i]onc urouwen</l>
+<l>[Daer sijt al ga]der moge scouwen</l>
+<l n="4355">[Dat was Ur]ake ende percijs</l>
+<l>[Die nien m]ochte in geere wijs</l>
+<l>[Verhoghen] van den grooten seere</l>
+<l>[Dat si] dreuen om dien ioncheere</l>
+<l>[Dat se] herde van den liue ontdede</l>
+<l n="4360">[Daer si] in die .VII. coningen mede</l>
+<l>[Die doe] mers van den tornoie [sijn]</l>
+<l>[Cursout] bernaert ende clarijn</l>
+<l>[Mijn he]re corsabres ende genors</l>
+<l>[Gondre]des ende die rike amfors</l>
+<l n="4365">[Ende die] houde elmout daer die raet</l>
+<l><edition n="104"/>[Van hem ?] tornoie meest an staet</l>
+<l>[Dese li]ggen ten veinstren ende sien</l>
+<l>[Bi tween honder]t ende drien</l>
+<l>[Riddren] in beeden aluen versamen</l>
+<l n="4370">[Die] tuee gesellen quamen</l>
+<l>[Die lust]ege ende die goede</l>
+<l>[Peins]de dat in sinen moede</l>
+<l>[Dat men] hars merken soude</l>
+<l>[Sijn] raet gedroech datti woude</l>
+<l n="4375">[Ghesienlec] comen vor die ogen</l>
+<l>[Ende ride]n daer si hem vertogen</l>
+<l>[Op enen] nederen berch daer bi</l>
+<l>[Met ge]rechten speren varen si</l>
+<l parse="ignore">[........]nden berge ter dale</l>
+<l parse="ignore">[........]wen sit hem wale</l>
+<l parse="ignore">[........]heiftse alters vtermaten</l>
+<l parse="ignore">[........] twee riddren seiti [bi staden]</l>
+<l parse="ignore" n="4390"><pb n="106"/><milestone unit="fol" n="2va"/> En onder vin[den hare namen]</l>
+<l>Van desen en [was der tale nemmee]</l>
+<l>Si quamen gered[en allene si II.]</l>
+<l>Ende quamen vele wel [in der tijt]</l>
+<l>Ende vonden die plaetse r[uum ende wijt]</l>
+<l n="4395">Ende sagen huden an die r[inge]</l>
+<l>Op hare briedel die iongeling[e]</l>
+<l>Die te samen waren geuallen e[er]</l>
+<l>Neware datter vele meer</l>
+<l>Van bi ende dan van binnen war[en]</l>
+<l n="4400">Eer dese twee toe quamen geu[aren]</l>
+<l>Wasser een fier pongijs geda[en]</l>
+<l>So dat die van binnen saen</l>
+<l>Dander achter daden ende sc[onfierden]</l>
+<l>Alsi dat sagen si pongierden</l>
+<l n="4405">Partonopeus ende gaudijn</l>
+<l>Die niet verbetert ne moc[hten sijn]</l>
+<l>Si namen die orse metten sp[oren]</l>
+<l>Ten leide den gonen die si [vercoren]</l>
+<l>Manlijc den sinen wel dege[nlike]</l>
+<l n="4410">Gaudijn slac wel ridderlike</l>
+<l>Den sinen datti viel op der[de]</l>
+<l>Partonopeus dies anders gerde</l>
+<l>Ende stacken al metten or[se neder]</l>
+<l>Noch ne derf hem hare [no weder]</l>
+<l n="4415">Van der ioesten lachter sp[reken]</l>
+<l>Partonopeus hi hadde gesteken</l>
+<l parse="ignore">Sijn spere ontwee hi vu[...]</l>
+<l parse="ignore">Ende slouch eenen dies hi g[eerde]</l>
+<l>Op sinen helm bouen den s[cilde]</l>
+<l n="4420">Wilde de gene of ne wil[de]</l>
+<l parse="ignore">Hi quam geuallen van ha[nt te hant]</l>
+<l n="5140"><pb n="108"/><milestone unit="fol" n="3ra"/> Plach sijns altoes met goeden wille</l>
+<l>Daer hine hiet sach houden stille</l>
+<l>Dat ne condi niet gedogen</l>
+<l>Ende melior hadde hem die ogen</l>
+<l>Ende haer herte ende haer gepeins</l>
+<l n="5145">So waer hi voer haer ende geins</l>
+<l>Die aelmanne waren alle ontdaen</l>
+<l>Met grooter cracht ende some geuaen</l>
+<l parse="ignore">[H]erde seere het hem int herte treen</l>
+<l><pb n="109"/><milestone unit="fol" n="3rb"/> Ende was een duwel een phariseus</l>
+<l>Die gemoete Partonopeus</l>
+<l n="5180">Ende stacken van den orse neder</l>
+<l>En eer hi conste op comen weder</l>
+<l>Ontfinc hi hoe so hijt verdroech</l>
+<l>Menegen slach ende daer genoech</l>
+<l>Int selue pongijs stac hi francoene</l>
+<l n="5185">Een ridder louelijc ende coene</l>
+<l>Van den orse neder ende vloech</l>
+<l>Tsoech datti van sire moeder soech</l>
+<l parse="ignore">Benedide menech man diet sach</l>
+<l parse="ignore" n="5215"><pb n="110"/><milestone unit="fol" n="3va"/> [........] dinc so heet</l>
+<l parse="ignore">[.]i voer gelijc eenen liebaert</l>
+<l parse="ignore">HEnde nie so hertelike leet</l>
+<l parse="ignore">Ende pongierde ten gonen waert</l>
+<l>Die woch droech den geselle sijn</l>
+<l n="5220">Ende stack eene groote sarrasijn</l>
+<l>Al dorendore beneder borst</l>
+<l>Dat dragen was van hem geuorst</l>
+<l>Ic wane hijs hem ne (?) onderwant nemee</l>
+<l>Sijn spere brac bi der hant ontwee</l>
+<l parse="ignore"><pb n="112"/><milestone unit="fol" n="3vb"/> Daer wart Partonopeus ter neder</l>
+<l parse="ignore">Getrect met crachte van den orse</l>
+<l parse="ignore">Daer wort ouer hem groote [...] porse</l>
+<l parse="ignore">a Ende die soudaen wert hem g[...] (?)</l>
+<l parse="ignore">Dat seere te [..] lude vreeselike (?)</l>
+<l>Daer vacht harde degenlike</l>
+<l>Die edele coninc van Vranqrike</l>
+<l>Ende hi wreet op sijn ors gesat</l>
+<l>Terst datti op quam ic segu dat</l>
+<l parse="ignore" n="5260">Dat die wijch waert [staende groot]</l>
+</text>
+<!--</ENTRY>
+--></TEI.2>

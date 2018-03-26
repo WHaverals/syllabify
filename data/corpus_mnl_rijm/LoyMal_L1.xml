@@ -1,0 +1,438 @@
+<?xml version='1.0'?><!DOCTYPE TEI.2 PUBLIC '-//TEI P4//DTD Main Document Type//EN' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd' [<!ENTITY % TEI.prose 'INCLUDE'><!ENTITY % TEI.linking 'INCLUDE'><!ENTITY % TEI.figures 'INCLUDE'><!ENTITY % TEI.analysis 'INCLUDE'><!ENTITY % TEI.corpus 'INCLUDE'><!ENTITY % TEI.XML 'INCLUDE'><!NOTATION TEI-XML PUBLIC 'TEI P4' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd'><!-- internal INL dtd --><!ELEMENT b (#PCDATA)><!ELEMENT l (#PCDATA | b)*><!-- end of internal INL dtd -->]><TEI.2><!--<ENTRY id="i497"><teiHeader><fileDesc><titleStmt><title>Loyhier en Malaert</title>
+</titleStmt>
+<interpGrp type="pubYear_from"><interp value="1300"/></interpGrp>
+<interpGrp type="witnessYear_from"><interp value="1300"/></interpGrp>
+<interpGrp type="pubYear_to"><interp value="1400"/></interpGrp>
+<interpGrp type="witnessYear_to"><interp value="1400"/></interpGrp>
+<TITEL>Loyhier en Malaert</TITEL>
+<author>Onbekend</author>
+<AARD>Rijm</AARD>
+<BRON nr="K53">Leiden, Bibliotheek der Rijksuniversiteit, Ltk. 1774 (fragm.)</BRON>
+<DATUM>1300-1400</DATUM>
+<OMVANG>404 verzen</OMVANG>
+<BRON.OPM>Het betreft hier vijf stroken, die horizontaal uit vier verschillende bladen gesneden zijn; door J.W. Muller met potlood genummerd I t/m V, gevolgd door een 'a' voor de rectoen een 'b' voor de versozijde. Strook II en V zijn maar half zo lang als de overige stroken, die elk nog een gedeelte van de boven- en ondermarge bewaard hebben. Bij alle stroken is hetzij bovenaan, hetzij onderaan een hoek afgesneden. Strook I en II zijn gedeelten van &eacute;&eacute;n en hetzelfde blad. Ze vormen zo het enige fragment waarop meer dan &eacute;&eacute;n kolom per bladzijde is overgeleverd. Te oordelen naar de lijngaatjes zijn op strook III en IV het rechterdeel van kolom rb en het linkerdeel van kolom va bewaard gebleven. Oorspronkelijk per bladzijde 2 kolommen en per kolom 50 regels.</BRON.OPM>
+<VERWIJZING>Leiden, Bibliotheek der Rijksuniversiteit, Ltk. 209 (fragm.).</VERWIJZING>
+<EDITIE>K. Iwema: 'De Middelnederlandse fragmenten van Loyhier en Malaert. Een bronnenuitgave'. In: LB 75 (1986), 433-494 (449-483).</EDITIE>
+<STATUS>Diplomatisch</STATUS>
+<BRONMNW>411.14.1 (andere editie)</BRONMNW>
+<BRONMNW>1432.14 (andere editie)</BRONMNW>
+<EDITIE.OPM>In de editie Iwema zijn lombarden vet afgedrukt, terwijl ze hier niet van een apart kenmerk zijn voorzien. De beginletters van het fragment fol. 1vb, vs. 103-128, bevinden zich door afsnijding op het fragment fol. 1va (rechts van de regels 76-101). In de editie Iwema zijn de beginletters naast de regels 76-101 op fol. 1va weergegeven. Hier echter zijn ze voor de regels 103-128 van fol. 1vb geplaatst, de plek dus waar ze oorspronkelijk thuishoorden.</EDITIE.OPM>
+<BRONNEN>Van twee handschriften zijn er fragmenten overgeleverd: Hs. I, zie: - <x nr=K53>Leiden, Bibliotheek der Rijksuniversiteit, Ltk. 1774 (fragm.)</x>
+ - <x nr=K54>Leiden, Bibliotheek der Rijksuniversiteit, Ltk. 209 (fragm.)</x>
+ Hs. II, zie: - <x nr=K55>Gent, Bibliotheek der Rijksuniversiteit, 1648 (fragm.)</x>
+ - <x nr=K56>Antwerpen, Museum Plantin-Moretus, M. 15.10 (Cat. 202,2) (fragm.)</x>
+</BRONNEN>
+</fileDesc>
+</teiHeader>
+--><text>
+<l parse="ignore"><pb n="449"/><milestone unit="fol" n="1ra"/> [....... i]de die goede loyhier</l>
+<l parse="ignore">[........]laert eidel deghen fier</l>
+<l parse="ignore">[......]lates ons vp alle bede</l>
+<l parse="ignore">[....]i es vroet die noyt mesdede</l>
+<l n="5">Doe zo zeide dus malaerd</l>
+<l>So nes niet vroet die lombaert</l>
+<l>Want hi heift so vele mesdaen</l>
+<l>Hine cans te ghere bate gestaen</l>
+<l>So hoe dat die felle lombaert</l>
+<l n="10">Orghelieus was ende groenyae[r]d</l>
+<l>Jeghen zinen neue loyhier</l>
+<l>Nochtan wast leet den ridder fier</l>
+<l>Dat hi hem zach gescien dit leet</l>
+<l>Dat deden hem naturlijc secreet</l>
+<l n="15">Dies zo bem ic wel in inne</l>
+<l>Sormarinde die Coniginne</l>
+<l>Sach also berecht den felloen</l>
+<l>Blide was zoe om dat doen</l>
+<l>Te gayetten dat zoe seide</l>
+<l n="20">Sonder enich langher beide</l>
+<l>Nu heift die lombaert groot grief</l>
+<l>Dats mi vtermaten lief</l>
+<l>In wils niet hebben in mijn gewoude</l>
+<l>Eene mine vul van goude</l>
+<l n="25">[W]ant het es een losengier</l>
+<l>Doe riep zoe enen escuwier</l>
+<l>Loop zeit soe metter vaert</l>
+<l>Ten riddere die zit vp twitte paert</l>
+<l>Zech hem dat ic hem ontbiede</l>
+<l n="30">Ic zal hem gheuen grote miede</l>
+<l>Dat hi dor minen wille ride</l>
+<l>Jeghen die quinteine nv ter tide</l>
+<l>Die cnape liep wech gereet</l>
+<l>Alle die lieden dat hi leet</l>
+<l n="35">So dat hi te loyhiero cam</l>
+<l>Biden toghele hine nam</l>
+<l>Hi seide te hem met geninde</l>
+<l>Here ridder de scone sormarinde</l>
+<l>Doet v. zegghen ghewaerleken</l>
+<l n="40">Dat ghi dor hare wilt steken</l>
+<l>Vrient seit hi het wert gedaen</l>
+<l><edition n="450"/>Doe slouchi met sporen zaen</l>
+<l>Den goeden wreene blankaert</l>
+<l>Ic wane daer en was gheen paert</l>
+<l n="45">So goet tien tiden vp den velde</l>
+<l>Loyhier reet met gewelde</l>
+<l>Ende met coenen gedochte</l>
+<l>So wat hi gheriden mochte</l>
+<l>Met .i. sterken stinen speere</l>
+<l n="50">Ter quinteine was zijn gheerre</l>
+<l parse="ignore"><pb n="451"/><milestone unit="fol" n="1rb"/> Men hor[.............]</l>
+<l parse="ignore">Want de li[...........]</l>
+<l parse="ignore">So wel heift [..........]</l>
+<l parse="ignore">Dattie staken ent[i .....]</l>
+<l parse="ignore" n="55">Alle gader vielen in [....]</l>
+<l parse="ignore">Duer leet hi zuuerli[....]</l>
+<l parse="ignore">Doe riep tfolc ghemee[....]</l>
+<l parse="ignore">Dits emmer een vrome wi[....]</l>
+<l parse="ignore">Oliuier ende graue ro[....]</l>
+<l parse="ignore" n="60">Seker en hadden wier w[....]</l>
+<l parse="ignore">Oursares heere keyser o[......]</l>
+<l parse="ignore">Hout te vriende desen saud[...]</l>
+<l parse="ignore">Uwe baniere eidel prin[........]</l>
+<l parse="ignore">Doet hem draghen in den[........]</l>
+<l parse="ignore" n="65">Te rechte muechdi wesen[n ......]</l>
+<l parse="ignore">Dat hi oyt cam in v. la[........]</l>
+<l parse="ignore">Sormarinde de maget v[........]</l>
+<l parse="ignore">Was in groter feesten b[e....]</l>
+<l parse="ignore">Te gayetten zeidsoe z[........]</l>
+<l parse="ignore" n="70">Gayette dit was wel g[........]</l>
+<l parse="ignore">Desen en zal niet geb[........]</l>
+<l parse="ignore">Wat ic hebbe vp eerde[........]</l>
+<l parse="ignore">Es al zine zekerlik[.........]</l>
+<l parse="ignore">Herte ziele ende daertoe[........]</l>
+<l parse="ignore" n="75">Gheuic hem sprac treyne[.........]</l>
+<l parse="ignore">Seker hi es een vroom b[.........]</l>
+<l parse="ignore">[...............]</l>
+<l parse="ignore"><milestone unit="fol" n="1va"/> [............o]e</l>
+<l parse="ignore">[............]aroen</l>
+<l parse="ignore">[...........]dat zant</l>
+<l parse="ignore" n="80">[.......]ert de wigant</l>
+<l parse="ignore">[....a]t sien alre meest</l>
+<l parse="ignore">[...]en beede .i. tempeest</l>
+<l parse="ignore">[...]ne daer zij reiden</l>
+<l parse="ignore">[...]i onderlinge seiden</l>
+<l parse="ignore" n="85">[...]ombaert adde den prijs</l>
+<l parse="ignore">[...]de de maget iolijs</l>
+<l parse="ignore">[...t]e gayetten zeide</l>
+<l parse="ignore">[...]r was tiere steide</l>
+<l parse="ignore">[...]s vele eeren waert</l>
+<l parse="ignore" n="90">[...]e deghen es malaert</l>
+<l parse="ignore"><edition n="452"/>[...u]dem des bewinden</l>
+<l parse="ignore">[...]tren zoude vinden</l>
+<l parse="ignore">[...] wilt mi verstaen</l>
+<l parse="ignore">[....] liken gaen</l>
+<l parse="ignore" n="95">[...n]ape malaert</l>
+<l parse="ignore">[....]weghe hem openbaert</l>
+<l parse="ignore">[....]dat hi houde hof</l>
+<l parse="ignore">[....]sene zinen lof</l>
+<l parse="ignore">[....]euen goets ynouch</l>
+<l parse="ignore" n="100">[....]aer gheuouch</l>
+<l parse="ignore">[....t] hi wille houeren</l>
+<l parse="ignore">[...............]</l>
+<l parse="ignore"><pb n="453"/><milestone unit="fol" n="1vb"/> .n]de zeide scone goede[r....]</l>
+<l parse="ignore">T[...]wen ghebode bem ic hi[....]</l>
+<l parse="ignore">W[.]t eist dat ghi ghebiet</l>
+<l parse="ignore" n="105">G[.]yette zeide eydel diet</l>
+<l parse="ignore">M[i..] vrouwe de scone sormarinde</l>
+<l parse="ignore">D[..] bidt loyhiere karels kinde</l>
+<l parse="ignore">D[.t] hi tauont houde hof</l>
+<l parse="ignore">O[.] haren wille om zine lof</l>
+<l n="110">De[.]et hem weten ghewareleken</l>
+<l>Dat hem gheen goet zal gebreken</l>
+<l>Do[e] sprac malaerd ende louch</l>
+<l>Joncfrouwe dats wel onse ghevouch</l>
+<l>So[.]d onse here van hemelrike</l>
+<l n="115">Loont miere vrouwe hogelike</l>
+<l>Doe zo zeide dus gayette</l>
+<l>Vassael willic uuen helm zetten</l>
+<l>Ic sal[n]e te pointe zetten wel</l>
+<l>Ma[laer]t was herte danke[n]e snel</l>
+<l n="120">E[n]de voer ter venstre nare</l>
+<l>Gayette nam den helm clare</l>
+<l>Ende zetten hem weder vp thooft</l>
+<l>Ne waer teerst des ghelooft</l>
+<l>St[r]eec zoe hem tanscijn van zweeten</l>
+<l n="125">Doe began in malarde beeten</l>
+<l>D[.] rechte strael vander minne</l>
+<l>Scine zeit hi mine .v. zinne</l>
+<l>Di legghic an v. in goeder trouwe</l>
+<l>[.s]t v wille scone joncfrouwe</l>
+<l parse="ignore" n="130">[..] willic ewelic voort an</l>
+<l parse="ignore">[..s]en gherne v dienst man</l>
+<l parse="ignore">[.]eere zeit soe dat willic wel</l>
+<l parse="ignore">[.]nde dies heift mijn herte spel</l>
+<l parse="ignore">...m]ermee begheeric bet</l>
+<l parse="ignore" n="135">[...] gaf zoe hem onghelet</l>
+<l parse="ignore">[...] herde scone vingherlijn</l>
+<l parse="ignore">[..]t daer ontfinc die deghen fijn</l>
+<l parse="ignore">[..]de keerde weder ten iostemente</l>
+<l parse="ignore">[..]yette cam met atente</l>
+<l parse="ignore" n="140">[...]r haerre vrouwe sormarinde</l>
+<l parse="ignore">[..e] haer zeide met gheninde</l>
+<l parse="ignore">[..]ncfrouwe ghi hebt lange gelet</l>
+<l parse="ignore">[..s] die helm wel gheset</l>
+<l parse="ignore">[....] te pointe wel gebonden</l>
+<l parse="ignore" n="145">[..]yette scamede haer tien stonden</l>
+<l parse="ignore"><edition n="454"/>[..] waert aenschijn root</l>
+<l parse="ignore">[..]t allen leden zoe verscoot</l>
+<l parse="ignore">[..] was ontsteken metter minne</l>
+<l parse="ignore">[...] zeide dus die Conighinne</l>
+<l parse="ignore" n="150">[... m]ij[n]s selues sekerhede</l>
+<l parse="ignore">[... h]ebbe eene gheselnede</l>
+<l parse="ignore">[..]ayette ane v tesen stonden</l>
+<l parse="ignore"><pb n="455"/><milestone unit="fol" n="2ra"/> Ontsteken [...........]</l>
+<l parse="ignore">Sierlijc met [............]</l>
+<l parse="ignore">Daer die bane met wo[.....]</l>
+<l parse="ignore" n="155">Dier worden die y[...........]</l>
+<l parse="ignore">daer zullen comen r[..........]</l>
+<l parse="ignore">Die heren ridende n[...........]</l>
+<l parse="ignore">Ic bem zeker ende ni[...........]</l>
+<l parse="ignore">Dat die feeste w[............]</l>
+<l parse="ignore" n="160">Dat ghi noyt [z]a[e..........]</l>
+<l parse="ignore">Wat zoudicker of ze[..........]</l>
+<l parse="ignore">Die daer den prijs [..........]</l>
+<l parse="ignore">Sal met eeren mo[...........]</l>
+<l parse="ignore">Een wit ors [z]al m[..........]</l>
+<l parse="ignore" n="165">Talre beste dat m[..........]</l>
+<l parse="ignore">Dat diere gesmide [..........]</l>
+<l parse="ignore">Want ic heb[t] zelu[..........]</l>
+<l parse="ignore">Hets al go[u]t gel[...........]</l>
+<l parse="ignore">Archoen steg[h]erep</l>
+<l parse="ignore" n="170">Die breidel es wt [...........]</l>
+<l parse="ignore">Dies muechdi ge[...........]</l>
+<l parse="ignore">Met eenen p[ee]rle [..........]</l>
+<l parse="ignore">Woort dat witte o[r.........]</l>
+<l parse="ignore">Ende toten t[....]n o[........]</l>
+<l parse="ignore" n="175">Bi miere trouwen</l>
+<l parse="ignore">In wiste v. wat z[..........]</l>
+<l parse="ignore">Maermi dinke bi s. [.........]</l>
+<l parse="ignore">Came ter feeste een[.........]</l>
+<l parse="ignore">Hi mochte willen [.........]</l>
+<l parse="ignore" n="180">Want de rijcheit [..........]</l>
+<l parse="ignore">Die men daer zal mog[h........]</l>
+<l parse="ignore">Dat den aermen n[...........]</l>
+<l parse="ignore">Ne zoude mo[g............]</l>
+<l parse="ignore">Den prijs te b[..........]</l>
+<l parse="ignore" n="185">Bedi daer neuen z[.] h[........]</l>
+<l parse="ignore">Dat den armen waer be[........]</l>
+<l parse="ignore">Dan bider rijche[........]</l>
+<l parse="ignore">Ende te verliesen[.........]</l>
+<l parse="ignore">Die niet bewaert wert [........]</l>
+<l parse="ignore" n="190">Men noomten [.]s hi [........]</l>
+<l parse="ignore">Daer die grote h[e.......]</l>
+<l parse="ignore">Malart ziede het[..........]</l>
+<l parse="ignore">Of malaert blide wa[..........]</l>
+<l parse="ignore">orlof nam da[...........]</l>
+<l parse="ignore" n="195">Ende dancte zere d[..........]</l>
+<l parse="ignore"><edition n="456"/>Die hem zo wel h[..........]</l>
+<l parse="ignore">Die cnape liep z[..........]</l>
+<l parse="ignore">Nu hoort van den[..........]</l>
+<l parse="ignore">Sijn paert prou[f..........]</l>
+<l parse="ignore" n="200">In diere wijs</l>
+<l parse="ignore">Of hi ter ioste</l>
+<l parse="ignore"><pb n="457"/><milestone unit="fol" n="2vb"/> [.........]ghelet</l>
+<l parse="ignore">[.........]p met .i. [....]trote</l>
+<l parse="ignore">[....i]lt an are gote</l>
+<l parse="ignore" n="205">[....] was ghesien</l>
+<l parse="ignore">[....]zeide mettien</l>
+<l parse="ignore">[....n] schade gedaen</l>
+<l parse="ignore">[.....]ie vele zaen</l>
+<l parse="ignore">[.......] du best snel</l>
+<l parse="ignore" n="210">[.......g]edaen herde wel</l>
+<l parse="ignore">[....]em enen florijn</l>
+<l parse="ignore">[......e] knecht anschijn</l>
+<l parse="ignore">[.......]ti wel versien</l>
+<l parse="ignore">[........]idi mettien</l>
+<l parse="ignore" n="215">[.......]rient ter vaert</l>
+<l parse="ignore">[......]onken ebben mijn paert</l>
+<l parse="ignore">[.....i]de met aesticheden</l>
+<l parse="ignore">[.....]ort wijn beneden</l>
+<l parse="ignore">[.....]een butseel</l>
+<l parse="ignore" n="220">[........]rinken wel zijn deel</l>
+<l parse="ignore">[........] des malaert</l>
+<l parse="ignore">[........]te danken paert</l>
+<l parse="ignore">[........]c niet en weet</l>
+<l parse="ignore">[........]mi dats mi leet</l>
+<l parse="ignore" n="225">[........z]eide de knecht</l>
+<l parse="ignore">[........]u hebs recht</l>
+<l parse="ignore">[........]t .i. goet geselle</l>
+<l parse="ignore">[........]wat ic di telle</l>
+<l parse="ignore">[........]ocht al mijn lant</l>
+<l parse="ignore" n="230">[.......]noch .C. bysant</l>
+<l parse="ignore">[.........] minen bleuen zijn</l>
+<l parse="ignore">]er in dit huuscijn</l>
+<l parse="ignore">[........] verteeren</l>
+<l parse="ignore">[....]e[s]e grote heeren</l>
+<l parse="ignore" n="235">[.....]salic doen verstaen</l>
+<l parse="ignore">[.......w]apinen ebbe verdaen</l>
+<l parse="ignore">[.....w]il ghijs gelooft</l>
+<l parse="ignore">[.......]i nye helm vp thooft</l>
+<l parse="ignore">[........]an mijn zide</l>
+<l parse="ignore" n="240">[.......]e men vaert te stride</l>
+<l parse="ignore">[.......s] heit bedieden</l>
+<l parse="ignore">[........]heen goede lieden</l>
+<l parse="ignore">[.........]rient zeide malaert</l>
+<l parse="ignore">[.........]wapijn ende paert</l>
+<l parse="ignore" n="245">[.......]de goet vertaert</l>
+<l parse="ignore"><edition n="458"/>[.......]inen goeden waert</l>
+<l parse="ignore">[.......]en mijn laetste dach</l>
+<l parse="ignore">[.......]ebben mach</l>
+<l parse="ignore">[........]t zeker zijt</l>
+<l parse="ignore" n="250">[.......]ordeerens tijt</l>
+<l parse="ignore">[......t..t] als .i. puut</l>
+<l parse="ignore"><pb n="459"/><milestone unit="fol" n="3rb"/> [........]den daghe vlien</l>
+<l parse="ignore">[........]alart die heere</l>
+<l parse="ignore">[.......]termaten zere</l>
+<l parse="ignore" n="255">[.....]er du best .i. ries</l>
+<l parse="ignore">[.....h]een noot ebbe dies</l>
+<l parse="ignore">[.....]e men niet veruromen</l>
+<l parse="ignore">[......]enich ridder comen</l>
+<l parse="ignore">[......]e dat vrome lijf</l>
+<l parse="ignore" n="260">[......]dede sonder blijf</l>
+<l parse="ignore">[......]hem in den vergieren</l>
+<l parse="ignore">[......] galyen den fieren</l>
+<l parse="ignore">[.......]r alte male</l>
+<l parse="ignore">[........]in die sale</l>
+<l parse="ignore" n="265">[......]nde [.....] mede</l>
+<l parse="ignore">[......]en dat [...] waerhede</l>
+<l parse="ignore">[........]zonder letten</l>
+<l parse="ignore">[.......o]ten stalle zetten</l>
+<l parse="ignore">[.......] was ter cure</l>
+<l parse="ignore" n="270">[........]er achemure</l>
+<l parse="ignore">[........] galissien</l>
+<l parse="ignore">[.....]s [.......]t zien</l>
+<l parse="ignore">[........]sser vp geseten</l>
+<l parse="ignore">[......]atene doet weten</l>
+<l parse="ignore" n="275">[......]is [....]selike</l>
+<l parse="ignore">[........] diere ende rike</l>
+<l parse="ignore">[......]en den orsse zijn</l>
+<l parse="ignore">[.........]e fijn</l>
+<l parse="ignore">[.....]ch die chierede</l>
+<l parse="ignore" n="280">[.......]st[.]den dede</l>
+<l parse="ignore">[.......] vrome galyen</l>
+<l parse="ignore">[........i] nv wilt zien</l>
+<l parse="ignore">[.........]anieren</l>
+<l parse="ignore">[...]st [...... b]estieren</l>
+<l parse="ignore" n="285">[....aen] wilt gheuen</l>
+<l parse="ignore">[.....] segt sonder sneuen</l>
+<l parse="ignore">[......] zeiden ter vaert</l>
+<l parse="ignore">[...]en haluen liebaert</l>
+<l parse="ignore">[........]scilt van aysure</l>
+<l parse="ignore" n="290">[........]erde prijs geburen</l>
+<l parse="ignore">[........]en eidel heere</l>
+<l parse="ignore">[.....g]edaen groot eere</l>
+<l parse="ignore">[.......]we wapine stac</l>
+<l parse="ignore">[........] hise oit brac</l>
+<l parse="ignore" n="295">[......]en liebaerde van kelen</l>
+<l parse="ignore"><edition n="460"/>[......] den prijs beuelen</l>
+<l parse="ignore">[........]n zeiden openbaer</l>
+<l parse="ignore">[........]eker zi zegghen waer</l>
+<l parse="ignore">[........]de ic weet wel</l>
+<l parse="ignore" n="300">[.........]ickene yemen el</l>
+<l parse="ignore">[........] hadde onrecht</l>
+<l parse="ignore"><pb n="461"/><milestone unit="fol" n="3va"/> Bet voort dedi sta[........]</l>
+<l parse="ignore">Daerna dedi met gr[.........]</l>
+<l parse="ignore">Voren gaen .ij. co[........]</l>
+<l parse="ignore" n="305">Ende met hem lieden de[.......]</l>
+<l parse="ignore">Ghinc zelue die c[..........]</l>
+<l parse="ignore">Enie menich hogh[..........]</l>
+<l parse="ignore">Al voren stapte di[...........]</l>
+<l parse="ignore">Daer die page vp wa[..........]</l>
+<l parse="ignore" n="310">Entie yrauden doe[...........]</l>
+<l parse="ignore">Maecten wel gro[...........]</l>
+<l parse="ignore">So si pleghen o[............]</l>
+<l parse="ignore">Dat het ongelo[...........]</l>
+<l parse="ignore">Al zeidemen v. die[..........]</l>
+<l parse="ignore" n="315">Galyen es co[m............]</l>
+<l parse="ignore">met al den pri[n.........]</l>
+<l parse="ignore">Die geede oude[............]</l>
+<l parse="ignore">Die sinen vader se[........]</l>
+<l parse="ignore">In ronceuale b[..........]</l>
+<l parse="ignore" n="320">Dat men langh[e...........]</l>
+<l parse="ignore">Van vianen [............]</l>
+<l parse="ignore">Die met roelant[............]</l>
+<l parse="ignore">In ronceuale [w...........]</l>
+<l parse="ignore">God moet haer al[..........]</l>
+<l parse="ignore" n="325">Daer mede ghinc og[..........]</l>
+<l parse="ignore">Ende sulke .xl. da[..........]</l>
+<l parse="ignore">Die alle waren [............]</l>
+<l parse="ignore">Ende heren van [.............]</l>
+<l parse="ignore">Rosemonde di[e............]</l>
+<l parse="ignore" n="330">Ende met haer bem [...........]</l>
+<l parse="ignore">Des coninx a[............]</l>
+<l parse="ignore">Ter herberghen g[h........]</l>
+<l parse="ignore">Aldaer was die er[...........]</l>
+<l parse="ignore">Sijn zij comen[............]</l>
+<l parse="ignore" n="335">Blide was die de[...........]</l>
+<l parse="ignore">Als hi zach co[m...........]</l>
+<l parse="ignore">Sinen vader ende zi[..........]</l>
+<l parse="ignore">Ende ogiere zine[............]</l>
+<l parse="ignore">Ende zinen groot[............]</l>
+<l parse="ignore" n="340">Die zo vele pu[g...............]</l>
+<l parse="ignore">In den strijt va[n.............]</l>
+<l parse="ignore">So mi seit de w[............]</l>
+<l parse="ignore">Galyen ende zijn [b..............]</l>
+<l parse="ignore">Seiden te malar[.............]</l>
+<l parse="ignore" n="345">Heere wi gheuen[..............]</l>
+<l parse="ignore"><edition n="462"/>dit juweel t[............]</l>
+<l parse="ignore">Ghi hebten verdie[n..........]</l>
+<l parse="ignore">Des willen wi d[...........]</l>
+<l parse="ignore">Malaert seide des da[..........]</l>
+<l parse="ignore" n="350">Ende daertoe der [............]</l>
+<l parse="ignore">Want mine he[i...........]</l>
+<l parse="ignore"><pb n="463"/><milestone unit="fol" n="4rb"/> [........]eide loyhier die heere</l>
+<l parse="ignore">[.......]ie ic danke v deser duecht</l>
+<l parse="ignore">[..] alre eersten ghi muecht</l>
+<l parse="ignore" n="355">[......t] mi sormarinde mijn wijf</l>
+<l parse="ignore">[.e]gt haer zonder lijf</l>
+<l parse="ignore">[..]tse cortelijc sal scauwen</l>
+<l parse="ignore">[.....]e bi onser lieuer vrouwen</l>
+<l parse="ignore">[.....] v. danken noch na desen</l>
+<l parse="ignore" n="360">[.....]het sal noch bot wesen</l>
+<l parse="ignore">[..]t wille god onse here</l>
+<l parse="ignore">[...]er enich letten meere</l>
+<l parse="ignore">[.......]soe orlof ghenomen</l>
+<l parse="ignore">[........w]iste waer zoe was becomen</l>
+<l parse="ignore" n="365">[......]astelain waende gemoeden</l>
+<l parse="ignore">[....] zoe ware van lopen moede</l>
+<l parse="ignore">[.]nde niet wel mochte gaen</l>
+<l parse="ignore">[..] wilt van loyhiere verstaen</l>
+<l parse="ignore">[.....] t hi dede die hoge geboren</l>
+<l parse="ignore" n="370">[.......] yetten leidijt te voren</l>
+<l parse="ignore">[...]hier gayetten int ore seide</l>
+<l parse="ignore">[........]alde die waerheide</l>
+<l parse="ignore">[.........]dat si waren ontgaen</l>
+<l parse="ignore">[..........z]onder waen</l>
+<l parse="ignore" n="375">[...........]adat staet</l>
+<l parse="ignore">[............]cht ontgaet</l>
+<l parse="ignore">[.............]r]ouwen</l>
+<l parse="ignore">[...............]</l>
+<l parse="ignore"><pb n="464"/><milestone unit="fol" n="4va"/> Ende zeide des compa[...]</l>
+<l parse="ignore">Moete god achter waren[...]</l>
+<l parse="ignore" n="380">Otte zeide al zonder spare[.]</l>
+<l parse="ignore">castelain vrient wel c[o...]</l>
+<l parse="ignore">Wat zaken hebdi verno[...]</l>
+<l parse="ignore">Dat ghi zijt in dit lant[..]</l>
+<l parse="ignore">Comen: hi zeide te han[t...]</l>
+<l parse="ignore" n="385">Heere coninc ic zegge v. te wa[...]</l>
+<l parse="ignore">Dat ic qualijc hebben geu[....]</l>
+<l parse="ignore">Ic bem verraden jamerl[...]</l>
+<l parse="ignore">Want biden here van he[.......]</l>
+<l parse="ignore">Loyhier es mi ontulo[e.]</l>
+<l parse="ignore" n="390">Bi uwen brieue eidel bar[...]</l>
+<l parse="ignore">Ontbodi mi al met ghene[..]</l>
+<l parse="ignore">Dat .v. loyhier worde gese[..]</l>
+<l parse="ignore">Ende gayetten metten vrouwen[..]</l>
+<l parse="ignore">Heere coninc bi miere trouwen[..]</l>
+<l parse="ignore" n="395">Daer so dedic v. ghebod</l>
+<l parse="ignore">Maer so moet mi helpen god</l>
+<l parse="ignore">Als mi loyhier die baroen[..]</l>
+<l parse="ignore">Diefteliken es ontulo[e.]</l>
+<l parse="ignore">Ende ooc al die vrou[w.......]</l>
+<l parse="ignore" n="400">Die lombaert sprac[.........]</l>
+<l parse="ignore">Castelain wat[...........]</l>
+<l parse="ignore">Sidi dronken[.............]</l>
+<l parse="ignore">Ghi segt [.............]</l>
+<l parse="ignore">Ghi liec[..............]</l>
+</text>
+<!--</ENTRY>
+--></TEI.2>

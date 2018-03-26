@@ -1,0 +1,531 @@
+<?xml version='1.0'?><!DOCTYPE TEI.2 PUBLIC '-//TEI P4//DTD Main Document Type//EN' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd' [<!ENTITY % TEI.prose 'INCLUDE'><!ENTITY % TEI.linking 'INCLUDE'><!ENTITY % TEI.figures 'INCLUDE'><!ENTITY % TEI.analysis 'INCLUDE'><!ENTITY % TEI.corpus 'INCLUDE'><!ENTITY % TEI.XML 'INCLUDE'><!NOTATION TEI-XML PUBLIC 'TEI P4' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd'><!-- internal INL dtd --><!ELEMENT b (#PCDATA)><!ELEMENT l (#PCDATA | b)*><!-- end of internal INL dtd -->]><TEI.2><!--<ENTRY id="i998"><teiHeader><fileDesc><titleStmt><title>Borchgravinne van Vergi (2)</title>
+</titleStmt>
+<interpGrp type="pubYear_from"><interp value="1350"/></interpGrp>
+<interpGrp type="witnessYear_from"><interp value="1350"/></interpGrp>
+<interpGrp type="pubYear_to"><interp value="1375"/></interpGrp>
+<interpGrp type="witnessYear_to"><interp value="1375"/></interpGrp>
+<TITEL>Borchgravinne van Vergi (2)</TITEL>
+<author>Onbekend</author>
+<AARD>Rijm</AARD>
+<BRON nr="K122">Gent, Bibliotheek der Rijksuniversiteit, 1590 (fragm.)</BRON>
+<DATUM>1350-1375</DATUM>
+<OMVANG>501 verzen</OMVANG>
+<BRON.OPM>Een half blad en een dubbelblad; per bladzijde 3 kolommen en per kolom 50 regels. Fol. 1 is zodanig besnoeid dat kol. rb en va verloren gegaan zijn en ook de laatste letters van de verzen van kol. rb en het begin van de verzen van kol. vb ontbreken. Van fol. 2 is rechts zoveel afgesneden, dat de laatste letters van de verzen van kol. rb en het begin van de verzen van kol. va verdwenen zijn. Geen van de bladen lijkt onder- of bovenaan veel te zijn afgesneden. Blijkens de oude foli&euml;ring vormden fol. 1 en 2 resp. fol. 87 en 88 in de codex. Fol. 3 heeft geen cijfer vanwege een gat bovenaan in het perkament, maar het volgde in de codex niet direct op fol. 88.</BRON.OPM>
+<EDITIE>Afschrift J. Tersteeg</EDITIE>
+<STATUS>Kritisch</STATUS>
+<BRONMNW>1325 (andere editie)</BRONMNW>
+<BRONMNW>1324 (andere versie)</BRONMNW>
+<EDITIE.OPM>De paginering, foli&euml;ring en regelnummering zijn afkomstig uit de kritische editie van Jansen-Sieben uit 1979 (R. Jansen-Sieben (ed.): De Borchgravinne van Vergi. Naar Handschrift-Van Hulthem en het Gentse fragment uitgegeven en toegelicht. 2de, verbeterde uitgave. Utrecht, 1979); niet overgenomen werden de interpunctie en de hoofdletters (m.u.v. de hoofdletters aan het begin van de verzen). De conjecturen en emendaties in het afschrift van Tersteeg en de editie Jansen-Sieben zijn identiek.</EDITIE.OPM>
+<BRONNEN>Van de Borchgravinne van Vergi zijn twee versies bekend. De eerste versie is volledig overgeleverd in het Hulthemse handschrift: - <x nr=K121>Brussel, Koninklijke Bibliotheek, 15589-623</x>
+. Van de tweede versie zijn alleen enkele fragmenten bewaard: - <x nr=K122>Gent, Bibliotheek der Rijksuniversiteit, 1590 (fragm.)</x>
+ Het begin van de tweede versie correspondeert globaal met het midden van passage 210-215 in het Hulthemse handschrift. Voor de eerste versie, zie <XREF3 ref=i997>Borchgravinne van Vergi (1)</XREF3>
+.</BRONNEN>
+<HSDRUK>Historie van de borchgravinne van Vergi</HSDRUK>
+</fileDesc>
+</teiHeader>
+--><text>
+<l><edition n="64"/>Dien doemen doget ende ere</l>
+<l><milestone unit="fol" n="1ra"/> Tote dats geware wert die here</l>
+<l>Die hertoge andwoorde bi mire trouwe</l>
+<l>In weet twi ghijt segt vrouwe</l>
+<l n="5">Van sulken dingen bem ic vri</l>
+<l>Want genen verrader omtrent mi</l>
+<l>Sone lietic bliven om gene noot</l>
+<l>Ic soudene aten toter doot</l>
+<l>So moeti dan den gonen haten</l>
+<l n="10">Ende noomdene die niet wille laten</l>
+<l>Mi te biddene elkes dages</l>
+<l>Omme mine minne node ic gewages</l>
+<l>Ende seget datti lange stonden</l>
+<l>Heift gesijn in dit gebonden</l>
+<l n="15">Ende noit sonder nu hine dorst seggen</l>
+<l>Nu willict u vor ogen leggen</l>
+<l>Mijn gepens omme dat mi dinct</l>
+<l>Dat hi uwe ere der in verminct</l>
+<l>Het mach ooc wel weisen waer</l>
+<l n="20">Datti lange heift gehaect hier naer</l>
+<l>Bedi wine hebben geweiten twint</l>
+<l>Datti els yewer heift gemint</l>
+<l>Waerbi dat ic u bidde here</l>
+<l>Dat ghire in behout u ere</l>
+<l n="25"><pb n="65"/> Ende dat ghire of doet berecht</l>
+<l>Sulc als u sal dinken recht</l>
+<l>Die hertoge wient niet mochte becomen</l>
+<l>Seide ic sals wel te hovede comen</l>
+<l>Ende ten minen ic hebs geacht</l>
+<l n="30">Tongemake was hi al de nacht</l>
+<l>So datti slapen niene mochte</l>
+<l>Wonder hadde hi in sijn gedochte</l>
+<l>Dattie rudder dien hi so minde</l>
+<l>Ende over so goet ende so noyael kinde</l>
+<l n="35">So zere iegen hem hadde mesdaen</l>
+<l>Dat sine vrienscap moeste te gaen</l>
+<l>Ende pensder omme al dure die nacht</l>
+<l>Tote nuchtens datti was bedacht</l>
+<l>Doe deide hi den rudder voor hem alen</l>
+<l n="40">Die hem sijn wijf met valscer talen</l>
+<l>Sonder begerte deide haten</l>
+<l>Doene wilt dhertoge niet laten</l>
+<l>Hi setten an talen ende seide</l>
+<l>Daert niemen horde sonder si beide</l>
+<l n="45">Waerachtelike hets groot meskief</l>
+<l>Dat u al die werelt heift lief</l>
+<l>Om uwe doget om uwe sconeide</l>
+<l>Ende in u es gene getrauwecheide</l>
+<l><edition n="66"/>Ghi hebt mi bedrogen zere</l>
+<l n="50">Ic hadde gewaent bi onsen here</l>
+<l><milestone unit="fol" n="1rb"/> Dat ghi getrauwe ha[ddet gesine]</l>
+<l>Ten m[ins]ten iegen mi e[nten minen]</l>
+<l>Ic hebbe te u gehadt g[rote minne]</l>
+<l>Nu ne wetic ute wat [sinne]</l>
+<l n="55">U es geporret sulke ke[itivicheide]</l>
+<l>Dat ghi dor uwe valsc[eide]</l>
+<l>Dorst versouken die her[toginne]</l>
+<l>Ende bidden haer omme [minne]</l>
+<l>Ghi hebt gedaen dorpern[ie]</l>
+<l n="60">Dorperliker ne hordic n[ie]</l>
+<l>Vaert stappans ute minen la[nde]</l>
+<l>Of u comter of grote sca[nde]</l>
+<l>Ic geve u orlof sonder gesc[al]</l>
+<l>Ende verbiede u van al te a[l]</l>
+<l n="65">Dat ghire nemmermeer [ne coomt]</l>
+<l>Caemdire in ghi wart verdo[omt]</l>
+<l>Bedi mochtic u der in van[gen]</l>
+<l>Wett wel dat ic dade u hang[en]</l>
+<l parse="ignore">Alse die rudder dat verstaet</l>
+<l parse="ignore" n="70">[...............]</l>
+<l>Hadde hijs int herte droe[fheide]</l>
+<l><edition n="67"/>So dat hem beven al die lei[de]</l>
+<l parse="ignore">Als hem gedinct sijns liefs [...]</l>
+<l parse="ignore">[...............]</l>
+<l n="75">Datti niet leven sal moge[n...]</l>
+<l>Hen si dattire wandelen n[...]</l>
+<l>Ende varen ende keren int lan[t]</l>
+<l>Dat hem dhertoge verbiet t[ehant]</l>
+<l>Of ander zide es hem zwaer</l>
+<l n="80">Datti verradere uppenbaer</l>
+<l>Gheheten si van sinen her[e]</l>
+<l>Dus es hi zere uten kere</l>
+<l>Ende hout hem over doot verr[aden]</l>
+<l>Hi seide here omme gode gena[de]</l>
+<l n="85">Ne gelovet nemmermere</l>
+<l>Dat ic so stout soude sijn h[ere]</l>
+<l>Te pensene dat ghi mi tye[t aen]</l>
+<l>No nemmermeer werdet va[n mi ghedaen]</l>
+<l>Hi heift mesdaen diet heift [geseit]</l>
+<l n="90">Daers geen ontseggen hets [waerheit]</l>
+<l>Sprac dhertoge ic weet wel</l>
+<l>Soe seit mi ende niemen el</l>
+<l>In wat manieren ende hoe</l>
+<l>Ghi haer spraect van minnen [toe]</l>
+<l n="95">Als verrader quaet ende vals</l>
+<l>Ende seit haer sulke dingen in [als]</l>
+<l>Daer soe lichte of zwiget st[ille]</l>
+<l><edition n="68"/>Here mijn vrouwe seit har[en wille]</l>
+<l>Sprac de rudder die drouve [es]</l>
+<l n="100">Daers geen ontseggen sijt[s gewes]</l>
+<l>Neen machics met gere di[nc ...]</l>
+<l>In wat dat ware ic sout b[...]</l>
+<l><milestone unit="fol" n="1va"/> [........] en hare</l>
+<l>[........] zware</l>
+<l n="105">[.......m]oet emmer sijn</l>
+<l>[Die rudder drou]ft dan wisse so zware</l>
+<l>[Hine we]et of hi sal kennen tware</l>
+<l parse="ignore">[Hem ontecken ofte] rumen tlant</l>
+<l parse="ignore">[............]gaet hem te hant</l>
+<l n="110">[Maer hine w]eet welc gedogen</l>
+<l>[Die tranen lie]pen hem uten ogen</l>
+<l>[Omme die r]auwe die hi besief</l>
+<l>[Die hi had]de omme sijn lief</l>
+<l>[........] ane bedichte</l>
+<l n="115">[........] sijn ansichte</l>
+<l>[So dat sijn ans]ichte wart al nat</l>
+<l>[Doe creech ra]uwe de hertoge omdat</l>
+<l>[Hem dochte d]at els yet ware</l>
+<l>[Datti niet] seggen wilde uppenbare</l>
+<l n="120">[Doe sprac] dhertoge dits dat mi raut</l>
+<l>[Ic sie dat] ghi mi niet betraut</l>
+<l>[So veile alse] ghi wel mocht</l>
+<l><edition n="69"/>[Qualike] ghi wert bedocht</l>
+<l>[Waent ghi dat] ic uwen raet</l>
+<l n="125">[Ye onteck]en soude ic ware quaet</l>
+<l>[Helen sal m]i goet gelucken</l>
+<l>[Ic liete mi] eer de tande uuttrucken</l>
+<l>[Doe sprac] hi dor gode genaden</l>
+<l>[In weit w]at seggen ic bem verladen</l>
+<l n="130">[Bedi van] rauwen ic wane verderven</l>
+<l>[Maer bet li]ever moestic sterven</l>
+<l>[Dan ic verlo]re dat ic verliesen soude</l>
+<l>[Wart h]are geseit also houde</l>
+<l>[Ende van h]aer worde geweiten</l>
+<l n="135">[Dat ic dese]n raet hadde ghespleiten</l>
+<l>[Doe sprac d]hertoge nerenstelike</l>
+<l>[Ic geloef di] getrauwelike</l>
+<l parse="ignore">[Up mijn sie]le ende up mijn leven</l>
+<l parse="ignore">[Ende up die vr]auwe die mi god</l>
+<l parse="ignore">[Tote wive h]evet gegeven</l>
+<l n="140">[Dat ic be]m sculdech up manscap</l>
+<l>[Dat ghi n]emmermeer gecriget gramscap</l>
+<l>[Bedi ict n]emmermeer gewage</l>
+<l><edition n="70"/>[Ende noit t]e genen dage</l>
+<l>[Iemen]e toge dat ict weet</l>
+<l n="145">[Die rudder weend]e met tranen heet</l>
+<l>[Utermat]en ende seide ay mi</l>
+<l>[Ic minne u]wer nichten van vergy</l>
+<l>[Ende soe mi al]soe best can</l>
+<l>[Doe sprac] dhertoge segt mi dan</l>
+<l n="150">[Of g]hi wilt dat ict heile</l>
+<l>[Weit niem]en dan ghi van uwen speile</l>
+<l><milestone unit="fol" n="1vb"/> Die rudder seide neent groot no clene</l>
+<l>Sonder recht wi twee allene</l>
+<l>Doe sprac de hertoge dit noit gevel</l>
+<l n="155">Hoe mochtire toe comen wel</l>
+<l>Ende hoe gecregedi tijt ende steide</l>
+<l>Trauwen here bi suptijlheiden</l>
+<l>Ic salt u seggen sonder verlaet</l>
+<l>Nadat ghi dus weit onsen staet</l>
+<l n="160">Doe ghinc hijt hem vor ogen leggen</l>
+<l>Ende tgaen ende tkeren algader seggen</l>
+<l>Deerste vorworde ende totroyeren</l>
+<l>Ende van den hondekine de maniere</l>
+<l>Doe sprac de hertoge hoe dat staet</l>
+<l n="165">Ic bidde u teerst dat ghire gaet</l>
+<l>Dat ic u geselle moet sijn</l>
+<l>In den wech ende ghi de mijn</l>
+<l><edition n="71"/>Want ic moet weiten sonder letten</l>
+<l>Of ghi die redene moget besetten</l>
+<l n="170">Maer mijn nichte salt weiten niet</l>
+<l>Here ic wilt also wilgiet</l>
+<l>Maer dat u niet dere sijt dies bedacht</l>
+<l>Here ic wilre gaen te nacht</l>
+<l>Dhertoge seide ic wille meide gaen</l>
+<l n="175">Die pine willic onderstaen</l>
+<l>Het wert mi solaes ende spel meide</l>
+<l>Ende hebben gevisiert de steide</l>
+<l>Daer si vergadren sullen te voet</l>
+<l>In de deiminge dus dinctem goet</l>
+<l n="180">Bedi soe woonder na genouch</l>
+<l>Shertogen nichte die gherne louch</l>
+<l>Daerwaert hilden si hare vaert</l>
+<l>Tote si quamen in den boongaert</l>
+<l>Dhertoge hadde daer niet lange gesijn</l>
+<l n="185">Hine sach sire nichten hondekijn</l>
+<l>Dat quam ten ende vanden boongerde</l>
+<l>Daer vant den rudder diet begerde</l>
+<l>Die groot spel den hondekine maecte</l>
+<l>Ende stappans den wech geraecte</l>
+<l n="190">Ende den hertoge liet hi achtre</l>
+<l>Maer hi volgede na als een wachtre</l>
+<l>Tote bider camere daer hilt hi stille</l>
+<l><edition n="72"/>Ende decte hem na sinen wille</l>
+<l>So hi best mochte onder enen boom</l>
+<l n="195">Daer sach hi ende nam goom</l>
+<l>Waer sijn nichte uter camere quam</l>
+<l>Enten rudder bider hant nam</l>
+<l>Ende ontfinkene vriendelike</l>
+<l>Met elsene met cussene solacelike</l>
+<l n="200">Hi cussetse weider sonder meskief</l>
+<l>Ende hi seide mijn vrouwe mijn lief</l>
+<l><milestone unit="fol" n="2ra"/> Mine minne mijn sin mine herte</l>
+<l>Mijn soete gepens sonder smerte</l>
+<l>Mi heift gelanget te sine met u</l>
+<l n="205">Sint ic hier was so ic bem nu</l>
+<l>Soe seide weider mijn lieve here</l>
+<l>Mijn minlijc vrient wien ic minne zere</l>
+<l>Jou merren heift mi zere verlanct</l>
+<l>Nu ne drouvic niet god sijs gedanct</l>
+<l n="210">Dat ic u hier hebbe met mie</l>
+<l>Ende ic u gans ende gesont sie</l>
+<l>Here wel moeti comen sijn</l>
+<l>Ende ghi wel vonden vrouwe mijn</l>
+<l>Dit hoorde dhertoge ten ingane</l>
+<l n="215">Die hem daerbi stelde te stane</l>
+<l>Ende kende sire nichten bi den lude</l>
+<l>Nochtan ne sprac soe niet lude</l>
+<l>Ende verkende so hare maniere</l>
+<l>Datti wart buten dangiere</l>
+<l n="220"><pb n="73"/> Van dat hem dhertoginne seide</l>
+<l>Dat logene was ende gene waerheide</l>
+<l>Dit es hem lief want hi wel siet</l>
+<l>Dattie rudder mesdaen heift niet</l>
+<l>Ende dat hine met onrechte wantrouwet</l>
+<l n="225">Daer staet hem dhertoge ende crauwet</l>
+<l>Met groter genouchte al die nacht</l>
+<l>Entie gelieve wel bedacht</l>
+<l>Alde nacht te gader lagen</l>
+<l>Sonder slapen tote het ghinc dagen</l>
+<l n="230">Met sulker merechte met sulken spele</l>
+<l>Dat redene geift dat ict heile</l>
+<l>Niemen soude weiten sulc leven</l>
+<l>Hine hadde der minnen loon beseven</l>
+<l>Ende met pinen verdient wel</l>
+<l n="235">Bedi hen bestonde niet el</l>
+<l>No niemen soude mogen weiten</l>
+<l>Wat sulke bliscap heift beseiten</l>
+<l>Of minne ne daet hem verstaen</l>
+<l>Maer sulke doget mach niet ontfaen</l>
+<l n="240">Elc die wille bi mire trauwe</l>
+<l>Want hets bliscap sonder rauwe</l>
+<l>Ende solaes met vriendelijceiden</l>
+<l>Ende het dijnct hem stappans leiden</l>
+<l>Den gonen dies heift te doene</l>
+<l n="245">Ende hets altoos te verdoene</l>
+<l><edition n="74"/>Hoe wel greyt hem der minnen belanc</l>
+<l>Al worde de nacht een wouke lanc</l>
+<l>Die wouke ene maent de maent een iaer</l>
+<l>Ende een iaer twintich daer naer</l>
+<l n="250">Twintich iaer hondert alst came ten ende</l>
+<l>Wildi dat god weider sende</l>
+<l><milestone unit="fol" n="2rb"/> Die nacht alst dagen soude gaen</l>
+<l>In sulken gepense was gestaen</l>
+<l>Dien die hertoge daer ombeet</l>
+<l n="255">Maer hi moeste wech een geleet</l>
+<l>Deide hem sijn lief toter dure</l>
+<l>Dat sceden wart hem beden te sure</l>
+<l>Daer sach dhertoge orlof geven</l>
+<l>Elsen cussen suchten beven</l>
+<l n="260">Ende horde neimen die termine</l>
+<l>Daer te vergaderne ende weider te sine</l>
+<l>Die rudder dus van dane sciet</l>
+<l>Die vrouwe die dore open liet</l>
+<l>Ende geleeddene metten ogen</l>
+<l n="265">Alse verre alsoene conste geogen</l>
+<l>Alsoene niet langer mochte zien</l>
+<l>So looc soe die dore mettien</l>
+<l>Ende als dhertoge dit versach</l>
+<l>Volgede hi den rudder het was na dach</l>
+<l n="270">So dat hine achter aelde</l>
+<l>Die zere iegen hem selven taelde</l>
+<l><edition n="75"/>Ende clagede de nacht in de vaert</l>
+<l>Dat soe tonlange hadde gewaert</l>
+<l>Alsulc gepens al sulke clage</l>
+<l n="275">Hadde sijn lief al toten dage</l>
+<l>Want haer dochte dat god de nacht</l>
+<l>Al tonlange hadde gewracht</l>
+<l>Entie dach was comen te gereet</l>
+<l>Dat was hem beden harde leet</l>
+<l n="280">Doe cam dhertoge te hem gegaen</l>
+<l>Ende helsdene ende seide laet staen</l>
+<l>Ende penst nemmeer dat ic u ate</l>
+<l>No wantrouwe dats mine bate</l>
+<l>Bedi ghine hebt mi niet bedrogen</l>
+<l n="285">Maer dhertoginne heift mi gelogen</l>
+<l>Die rudder sprac ic bidde u here</l>
+<l>Omme gode ende omme uwe ere</l>
+<l>Dat ghi wilt decken deisen raet</l>
+<l>Want ic verlore mijn toeverlaet</l>
+<l n="290">Ende ic storver omme sonderlinge</l>
+<l>Wiste yemen dan ghi deise dinge</l>
+<l>Dhertoge seide ne twifelt niet</l>
+<l>Het wert geheilt bet dan el yet</l>
+<l>No nemmermeer werdes gewagen</l>
+<l n="295">No gesproken te genen dagen</l>
+<l>Aldus sprekende sijn si comen</l>
+<l>Daer si tporren hadden genomen</l>
+<l>Ende als men ghinc ter tafle reden</l>
+<l>Ghinc die hertoge den rudder leden</l>
+<l n="300">Ter tafle waert bider hant</l>
+<l>Ende togedem vele beter samblant</l>
+<l><pb n="76"/><milestone unit="fol" n="2rc"/> Danne hi te voren noit hadd[e gedaen]</l>
+<l>Dit dochte der hertoginne me[sdaen]</l>
+<l>Sodat soe van der tafle up st[oet]</l>
+<l n="305">Ende ne togede tgelaet niet g[oet]</l>
+<l>Ende gebaerde of soe ziec ware</l>
+<l>Ende spoede ter camere hare</l>
+<l>Ende ghinc haer up haer bedde strec[ken]</l>
+<l>Ende hiet dat mense soude deck[en]</l>
+<l n="310">Alse die hertoge hadde geheiten</l>
+<l>Sine vrouwe wildi niet vergeite[n]</l>
+<l>Hi ghincse besien met ere hitten</l>
+<l>Ende voren up haer bedde sitten</l>
+<l>Ende geboot dat groot no clene</l>
+<l n="315">Inde camere bleve sonder hi alle[ne]</l>
+<l>Men deide gereet datti hiet</l>
+<l>Entie hertoge ne liet niet</l>
+<l>Hine vragede wane haer de siechei[t came]</l>
+<l>Ende wat soe heift ende waer soet nam[e]</l>
+<l n="320">Soe andworde so helpe mi god</l>
+<l>Inne hilt u niet over so sot</l>
+<l>Nu als ic ter tafle sat</l>
+<l>Ghine hadt meer vroescepen geha[d]</l>
+<l>Danne ghi dengonen ghin[ct festieren]</l>
+<l n="325">Die mi dus wille sconfiere[n]</l>
+<l>Also ic u hebbe geseit</l>
+<l>Entie iaecht minen arebeit</l>
+<l>Ende als ic sach dat ghi hem da[et]</l>
+<l>Meerre feeste ende beiter gela[et]</l>
+<l n="330"><pb n="77"/> Dan te voren in const gedo[gen]</l>
+<l>In mocht niet langer zien m[et ogen]</l>
+<l>Dhertoghe sprac lieve vriendinne</l>
+<l>Inne geloofs in genen zinne</l>
+<l>U no andre creature</l>
+<l n="335">Dat nemmermeer bi gere avent[ure]</l>
+<l>Gevallen mochte dat ghi mi se[it]</l>
+<l>Ic weet wel over waerheit</l>
+<l>Dat hijt noit pensede ic houts hem q[uite]</l>
+<l>Ic weet so veile van sire vite</l>
+<l n="340">Nu ne vraechter mi nemmeer omm[e]</l>
+<l>Sprac dhertoge ende keerdem omme</l>
+<l>Soe bleef pensende om de za[ke]</l>
+<l>Dat soe nemmermeer te ge[m]ak[e]</l>
+<l>Wert ten dage dat soe leift</l>
+<l n="345">Voor soe meer ondervonden heift</l>
+<l>Wat dat haer dhertoge verbiet</l>
+<l>Van dien verbiedene hout soe niet</l>
+<l>Nu ginc soe in haer herte creten</l>
+<l>Ende pensede dat soet soude weiten</l>
+<l n="350">Mocht soe toten avende ombiden</l>
+<l>Enten hertoge hebben bi hare ziden</l>
+<l><milestone unit="fol" n="2va"/> [Dat] al mergende lude of stille</l>
+<l>[Soe] vinde soude haren wille</l>
+<l>[Daer] up toter nacht soe zweech</l>
+<l n="355">[Tote] soe haren here gecreech</l>
+<l>[Up haer] bedde daer soe haer wende</l>
+<l><edition n="78"/>[Ende h]ilt haer vaste up teen ende</l>
+<l>[Soe g]ebaerde of haer geen spel luste</l>
+<l>[Noch]tanne datse dhertoge custe</l>
+<l n="360">[Vens]et haer gramlike ende maecte haer diere</l>
+<l>[Soe] conste wel die maniere</l>
+<l>[Om]me haren here te bringene tonder</l>
+<l>[Ende] seide stappans mi dinct wonder</l>
+<l>[Dat] ghi so valsch sijt ende so quaet</l>
+<l n="365">[Ende] ghi mi toocht so scone gelaet</l>
+<l parse="ignore">[Alse] ghi mi noit te genen dage</l>
+<l parse="ignore">[...] niet dat es dat ic clage</l>
+<l parse="ignore">[...] wat ic u seggen hoorde</l>
+<l parse="ignore">[Ic] hilt mi altoos an uwe woorde</l>
+<l n="370">[Dic]ken seidi mi vriendelike</l>
+<l>[D]at ghi mi minnet hertelike</l>
+<l>[Ende] omme dat ghi mi hebt gelogen</l>
+<l>[Di]nke mi dat ic bem bedrogen</l>
+<l>[Doe] sprac dhertoge waer an vrouwe</l>
+<l n="375">[Dat g]hi seit mi bi mire trauwe</l>
+<l>[Sei]t soe die quaet pogede te doene</l>
+<l>[Dat i]c nemmermeer worde so coene</l>
+<l>[Dat i]c u vragede om die wareit</l>
+<l>[Ov]er zake die ghi wel weit</l>
+<l parse="ignore" n="380">[...]eit hi up alle beide</l>
+<l parse="ignore">[Wat] dat u de rudder seide</l>
+<l parse="ignore">[.....] met bedi inne mics niet veile</l>
+<l parse="ignore"><edition n="79"/>[W]at holpe dat ict heile</l>
+<l>[U] te minne dats cranc spoet</l>
+<l n="385">[I]nne horde noit quaet no goet</l>
+<l>[I]nne seit u stappans dat ics wiste</l>
+<l>[E]nde dat ic noit van worde miste</l>
+<l>[N]u sie ic dat ghi mi wilt heilen</l>
+<l>[U] gepens des moetic queilen</l>
+<l n="390">[E]nde weit al over waer</l>
+<l>[D]at al levedic hondert iaer</l>
+<l>B[etr]auwenesse ne hebbe an u</l>
+<l>[So i]c gehadt hebbe tote nu</l>
+<l>Doe ghinc soe wenen ende clagen</l>
+<l n="395">Versiken ende hare ogen vagen</l>
+<l>Ende pinets haer al dat soe mochte</l>
+<l>So dats den hertoge of dochte</l>
+<l>Ende seide te hare lieve vriendinne</l>
+<l>In wiste hoe zien in genen zinne</l>
+<l n="400">Uwe gramscap no u verdriet</l>
+<l>Maer weit in mach u seggen niet</l>
+<l><milestone unit="fol" n="2vb"/> Dat ghi wilt dat ic u zeide</l>
+<l>Ic dader an grote dorperheide</l>
+<l>Ende soe andworde met aesten</l>
+<l n="405">Ne segges mi niet dat es tnaeste</l>
+<l>Ic sie wel waert gaet dit spel</l>
+<l>Ghine betraut mi niet so wel</l>
+<l>Dat ic heilen soude uwen raet</l>
+<l>Mi wondert hoet met u dus staet</l>
+<l n="410"><pb n="80"/> Want ghine horet noit dats waerheit</l>
+<l>Dat ic ondecte dat ghi mi seit</l>
+<l>Te mi ne dordijs niet betrauwen</l>
+<l>Nemmermeer bi mire trauwen</l>
+<l>Soe ghinc verwenen metten worde</l>
+<l n="415">Dhertoge elsetse als hijt horde</l>
+<l>Ende cussetse an hare mont</l>
+<l>Van herten was hi ongezont</l>
+<l>Want hi hem niet onthouden mochte</l>
+<l>Haer te seggene sijn gedochte</l>
+<l n="420">Doe seide hi tote haer lieve vrouwe</l>
+<l>In weet wat doen bi mire trauwe</l>
+<l>Mi dinke ic mach u betrauwen wel</l>
+<l>Veile bet dan yemen el</l>
+<l>Want mine herte entie uwe sijn een</l>
+<l n="425">Daer es geen decken van ons tween</l>
+<l>Maer wacht dat ghijs niet spreict een woort</l>
+<l>Eist dat yemene verhoort</l>
+<l>Ic segt u wel wildijt verstaen</l>
+<l>Ghi sulter omme de doot ontfaen</l>
+<l n="430">Soe ne zweech niet langer stille</l>
+<l>Ende andworde hets wel mijn wille</l>
+<l>Hi waende wars omme dat hise mint</l>
+<l>Dat soe daerbi niet liecht een twint</l>
+<l>Ende ghinct haer tellen van worde te worde</l>
+<l n="435">So hijt van den rudder hoorde</l>
+<l>Ende hoe hi was inden boongaert</l>
+<l>Metten rudder onvervaert</l>
+<l>Int houkelkin onder hem tween</l>
+<l><edition n="81"/>Daer thondekin cam soot wel sceen</l>
+<l n="440">Vanden ingane vanden uutgane</l>
+<l>Deide hijt haer al te verstane</l>
+<l>Alse die hertoghinne weet</l>
+<l parse="ignore">Dattie rudder so neider minde</l>
+<l>So eist haer utermaten leet</l>
+<l n="445">Ende hi hare ontseide sine minne</l>
+<l>Heift soes despijt in haren zinne</l>
+<l>Maer soe ne toges geen gelaet</l>
+<l>Ende seide can ic deisen raet</l>
+<l>Niet gedecken ende heilen</l>
+<l n="450">Ic wille men mi hange bider keile</l>
+<l>Nochtan wert haer te lanc tombidene</l>
+<l><milestone unit="fol" n="2vc"/> Tesprekene die soe mict te nidene</l>
+<l>Omdat soe weet ende bekint</l>
+<l>Dat soe van dengonen es gemint</l>
+<l n="455">Die haer gedaen heift groot meskief</l>
+<l>Omme datti niet sijn wilde haer lief</l>
+<l>So houtse haer vaste in deisen nijt</l>
+<l>Tote soe siet steide ende tijt</l>
+<l>Dat soe haers heren nichte spreke</l>
+<l n="460">Soe sal haer seggen aesteleike</l>
+<l>Wat soes weet van haren man</l>
+<l>Daer wert ooc geen heilen an</l>
+<l>Maer noit te pointe soene beghincse</l>
+<l>Sonder alst cam tenen chincse</l>
+<l n="465">Dattie hertoge hilt vul hof</l>
+<l>Omme te hebbene ere ende lof</l>
+<l>Ende sende boden uut menegerande</l>
+<l>Omme al de vrouwen van den lande</l>
+<l>Ende omme sire nichten diere woonde bi</l>
+<l n="470"><pb n="82"/> Die casteleine van vergy</l>
+<l>Ende alse dhertoginne sach</l>
+<l>Mochtsoe verbliden niet up den dach</l>
+<l>Maer soe conste haer wel gelaten</l>
+<l>Want soe haetse utermaten</l>
+<l n="475">Soe togede haer beiter gelaet</l>
+<l>Dan noit te voren dat was quaet</l>
+<l>Soe hadde te seggene grote herte</l>
+<l>Daer soe sident of hadde smerte</l>
+<l>Ende tleven verloos dat was diere</l>
+<l n="480">Soe pensede menege maniere</l>
+<l>Alstie taflen up waren gedaen</l>
+<l>Deide soe in hare camere gaen</l>
+<l>Die vrouwen omme te pareirne</l>
+<l>Omme te dansene ente baleirne</l>
+<l n="485">Soene conste haer niet wachten van sprekene</l>
+<l>Soe begonste gonder te rekenne</l>
+<l>Alsoes tijt sach ende steide</l>
+<l>Oft in boerden ware soe zeide</l>
+<l>Casteleine ghi moget wel moy sijn</l>
+<l n="490">Ghi hebt een scone lief ende een fijn</l>
+<l>Ende soe andworde semperlike</l>
+<l>Vrauwe inne weet sekerlike</l>
+<l>Twi ghi mi an spreict van lieve</l>
+<l>God verde mi van sulken grieve</l>
+<l n="495">Dat gaen mochte iegen de ere</l>
+<l>Van mi of van minen here</l>
+<l>Ic wilt wel seide dhertoghinne</l>
+<l><edition n="83"/>Maer ghi sijt meesterigge van zinne</l>
+<l>Ghi hebt geleert u hondekijn</l>
+<l n="500">Te comene daer u lief can sijn</l>
+<l parse="ignore">Die vrouwen horden dit wel seggen</l>
+</text>
+<!--</ENTRY>
+--></TEI.2>

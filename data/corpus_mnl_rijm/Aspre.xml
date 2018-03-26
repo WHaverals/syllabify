@@ -1,0 +1,126 @@
+<?xml version='1.0'?><!DOCTYPE TEI.2 PUBLIC '-//TEI P4//DTD Main Document Type//EN' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd' [<!ENTITY % TEI.prose 'INCLUDE'><!ENTITY % TEI.linking 'INCLUDE'><!ENTITY % TEI.figures 'INCLUDE'><!ENTITY % TEI.analysis 'INCLUDE'><!ENTITY % TEI.corpus 'INCLUDE'><!ENTITY % TEI.XML 'INCLUDE'><!NOTATION TEI-XML PUBLIC 'TEI P4' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd'><!-- internal INL dtd --><!ELEMENT b (#PCDATA)><!ELEMENT l (#PCDATA | b)*><!-- end of internal INL dtd -->]><TEI.2><!--<ENTRY id="i602"><teiHeader><fileDesc><titleStmt><title>Chanson d'Aspremont</title>
+</titleStmt>
+<interpGrp type="pubYear_from"><interp value="1300"/></interpGrp>
+<interpGrp type="witnessYear_from"><interp value="1300"/></interpGrp>
+<interpGrp type="pubYear_to"><interp value="1325"/></interpGrp>
+<interpGrp type="witnessYear_to"><interp value="1325"/></interpGrp>
+<TITEL>Chanson d'Aspremont</TITEL>
+<author>Onbekend</author>
+<AARD>Rijm</AARD>
+<BRON nr="K96">Antwerpen, Bibliotheek van het Ruusbroecgenootschap, z.s. [fragment-Averbode A] (fragm.)</BRON>
+<DATUM>1300-1325</DATUM>
+<OMVANG>90 verzen</OMVANG>
+<BRON.OPM>Gedeelte van een dubbelblad; onderaan en aan de zijkanten zodanig besnoeid, dat van kolom 1rb rechts en van kolom 1va links meer dan de helft ontbreekt en van fol. 2 nog maar een derde deel van kolom ra en minieme resten van kolom vb bewaard zijn gebleven. Oorspronkelijk telde een bladzijde minstens twee kolommen; het oorspronkelijke aantal regels per kolom is onbekend. Voor de identificatie van de tekst, zie H. Kienhorst en H. Mulder: 'Middelnederlandse fragmenten van D.A. Stracke in de bibliotheek van het Ruusbroecgenootschap te Antwerpen'. In: SpL 35 (1993), 67-74, vooral p. 70 (in Kienhorst (1988), 235-236, wordt het fragment besproken onder 'Onge&iuml;dentificeerd (5)').</BRON.OPM>
+<EDITIE>D.A. Stracke: 'Een onbekende Frankische roman'. In: Tijdschrift voor Taal en Letteren 13 (1925), 240-255 (242-245).</EDITIE>
+<STATUS>Kritisch</STATUS>
+<EDITIE.OPM>Stracke heeft de verzen per kolom genummerd, terwijl hier gekozen is voor een doorlopende nummering. Een vergelijking met afbeelding 160 in Kienhorst (1988) heeft de volgende correctie opgeleverd: regel 52: "Gi siet" i.p.v. "Git sie".</EDITIE.OPM>
+<BRONNEN>Antwerpen, Bibliotheek van het Ruusbroecgenootschap, z.s. [fragment-Averbode A] (fragm.)</BRONNEN>
+</fileDesc>
+</teiHeader>
+--><text>
+<l><pb n="242"/><milestone unit="fol" n="1ra"/> Doe spraken si hyaer ane:</l>
+<l><edition n="243"/>Eedel here pint v te slane;</l>
+<l>Gi hebt ons nv sere gelaten.</l>
+<l>Doe verwoede hyaer vtermaten.</l>
+<l n="5">Hi hilt den scarpen durendale</l>
+<l>Die bebloet was altemale.</l>
+<l>Dor die battaelge smet hi met sporen.</l>
+<l>Antquintine den hertoge vercoren</l>
+<l>Sloch hi met enen scarpen snede,</l>
+<l n="10">Dat hi sinen helm cliven dede;</l>
+<l>Die coufie en stoet hem niet in staden,</l>
+<l>Toten scoudren dedi tsuert baden.</l>
+<l>Nv hort, dor gode, wonder groet:</l>
+<l>Hi viel neder wel na doet,</l>
+<l n="15">Nochtan addi so grote machte</l>
+<l><edition n="244"/>Dat hi weder op stoet met crachte</l>
+<l parse="ignore">Sine hande leide hi te gad[er]</l>
+<l>"pensd[............]</l>
+<l>[...............]</l>
+<l><pb n="242"/><milestone unit="fol" n="1rb"/> Doen verwen[............]</l>
+<l n="20">Die karel nit[..........]</l>
+<l><edition n="243"/>Hi sal vresel[...........]</l>
+<l>Doe si verhord[.........]</l>
+<l>Elc liep ten p[...........]</l>
+<l>Die men dar ge[...........]</l>
+<l n="25">Die gewonde[............]</l>
+<l>Selc nam een[...........]</l>
+<l>Elc wapenden ge[..........]</l>
+<l>Die een suert add[..........]</l>
+<l>Selc en antdax[..........]</l>
+<l n="30">Eit[...]p[..]ten g[.......]</l>
+<l>Si scorden amelak[.......]</l>
+<l>Ende maecten dar af[........]</l>
+<l parse="ignore">[Ende] rolant hi ginc</l>
+<l>[...............]</l>
+<l><edition n="244"/>[...............]</l>
+<l><milestone unit="fol" n="1va"/> [.........]rd lesen</l>
+<l n="35">[.........]v desen</l>
+<l>[.........]heide</l>
+<l>[.........]wareide</l>
+<l>[.........]te mi so goet</l>
+<l>[.........]inen moet</l>
+<l n="40">[.........]etsche maken</l>
+<l>[.........]geraken</l>
+<l>[.........]et ane name</l>
+<l>[.........]rasinen quame</l>
+<l>[.........]ken woude</l>
+<l n="45">[.........]lone soude</l>
+<l>[.........]oren lesen</l>
+<l>[.........]nre wesen</l>
+<l><edition n="245"/>[.........]aer</l>
+<l>[...............]</l>
+<l>[...............]</l>
+<l parse="ignore"><pb n="244"/><milestone unit="fol" n="1vb"/> Ende ic soude gesont wederkeren.</l>
+<l n="50">Mar ocht ons die heidine vaen,</l>
+<l>Segt mi, hoe mogen wi hem ontgaen,</l>
+<l>Gi siet wel hoet met ons staet.</l>
+<l>Dat dinct mi de beste raet,</l>
+<l>Dat wi ons beuelen gemenlike</l>
+<l n="55">Onsen here van hemelrike,</l>
+<l>Dat hi ons hoede van der doet</l>
+<l>Ende verlosse vte derre noet,</l>
+<l>Also gewaerlike dinc</l>
+<l>Alse hi die doet dor ons ontfinc.</l>
+<l n="60">G[wij]t die hertoge vercoren</l>
+<l>Nopede sin ors metten sporen</l>
+<l>Ende quekede sin spere</l>
+<l><edition n="245"/>Ende vor steken makabere</l>
+<l parse="ignore">[S]o dat hi sine wapene brac</l>
+<l n="65">[.........]buec stac</l>
+<l>[...............]</l>
+<l><milestone unit="fol" n="2ra"/> [...............]</l>
+<l>[...............]</l>
+<l>D[..............]</l>
+<l>Ende b[oc(?)......]</l>
+<l>Mar hi nv[........]</l>
+<l>Ene palm[........]</l>
+<l n="70">Met dure[........]</l>
+<l>Wien hi g[........]</l>
+<l>Nochtan[...........]</l>
+<l>Hine ha[..........]</l>
+<l>Sin tek[...........]</l>
+<l n="75">Salaty[..........]</l>
+<l>Cador v[...........]</l>
+<l>Triam[.........]</l>
+<l>Si du[...........]</l>
+<l>Nv ad[..........]</l>
+<l n="80">Si m[...........]</l>
+<l>Doe[.............]</l>
+<l><milestone unit="fol" n="2vb"/> [...............]</l>
+<l>[...............]</l>
+<l>[.........]de</l>
+<l>[.........]quam</l>
+<l>[.........]eel nam</l>
+<l n="85">[.........]ere</l>
+<l>[...............]</l>
+<l>[.........]em</l>
+<l>[.........]em</l>
+<l>[.........]male</l>
+<l>[...............]</l>
+<l>[...............]</l>
+<l>[.........]sin</l>
+<l n="90">[.........]n</l>
+</text>
+<!--</ENTRY>
+--></TEI.2>

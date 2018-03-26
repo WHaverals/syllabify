@@ -1,0 +1,847 @@
+<?xml version='1.0'?><!DOCTYPE TEI.2 PUBLIC '-//TEI P4//DTD Main Document Type//EN' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd' [<!ENTITY % TEI.prose 'INCLUDE'><!ENTITY % TEI.linking 'INCLUDE'><!ENTITY % TEI.figures 'INCLUDE'><!ENTITY % TEI.analysis 'INCLUDE'><!ENTITY % TEI.corpus 'INCLUDE'><!ENTITY % TEI.XML 'INCLUDE'><!NOTATION TEI-XML PUBLIC 'TEI P4' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd'><!-- internal INL dtd --><!ELEMENT b (#PCDATA)><!ELEMENT l (#PCDATA | b)*><!-- end of internal INL dtd -->]><TEI.2><!--<ENTRY id="i77"><teiHeader><fileDesc><titleStmt><title>Borchgrave van Couchi</title>
+</titleStmt>
+<interpGrp type="pubYear_from"><interp value="1375"/></interpGrp>
+<interpGrp type="witnessYear_from"><interp value="1375"/></interpGrp>
+<interpGrp type="pubYear_to"><interp value="1400"/></interpGrp>
+<interpGrp type="witnessYear_to"><interp value="1400"/></interpGrp>
+<TITEL>Borchgrave van Couchi</TITEL>
+<author>Onbekend</author>
+<AARD>Rijm</AARD>
+<BRON nr="K21">Arras, Biblioth&egrave;que Municipale, z.s. (fragm.) [zoek]</BRON>
+<DATUM>1375-1400</DATUM>
+<OMVANG>816 verzen</OMVANG>
+<BRON.OPM>Van de fragmenten uit Arras bestaat nog een afschrift van de hand van F.J. Mone (thans Straatsburg, Biblioth&egrave;que Nationale et Universitaire, 2291,17). Edities hiervan: De Vries (1887) en Goslinga (1949) (M. de Vries: 'Van den Borchgrave van Couchi. Fragmenten'. In: TNTL 7 (1887), 97-250 (134-160); A. Goslinga: Van den borchgrave van Couchi. Fragment uit Atrecht. Leiden, 1949 (Textus minores, 8) (7-35)). Een ander afschrift van de fragmenten werd in 1859 door de Franse geleerde A. Guesnon vervaardigd. Dit echter is zoek; wel is bekend in hoeverre zijn afschrift afwijkt van dat van Mone (zie J. Verdam: Een onbekend afschrift van het Atrechtse Couchy-fragment'. In: TNTL 17 (1898), 304-309, en voorts de editie Goslinga). Tersteeg heeft in zijn afschrift rekening gehouden met de door Verdam voorgestelde verbeteringen (die overigens ook zijn overgenomen in de editie Goslinga). Volgens Mone (1838) (F.J. Mone: <i>&Uuml;bersicht der niederl&auml;ndischen Volks-Literatur &auml;lterer Zeit</i>. T&uuml;bingen, 1838) betreft het hier vier bladen, die blijkens de lombarden (fol. 1: ABCDE; fol. 2: FAH; fol. 3: IKL; fol. 4: NDP) direct op elkaar volgden. Het eerste en derde blad zijn aan de buitenkant zodanig afgesneden, dat verschillende beginletters ontbreken. Het eerste blad van de Heeswijkse fragmenten (zijnde het derde blad van het elfde katern, ofwel fol. 83) heeft als lombarden de letters 'NOPQ'. Te oordelen naar de ontbrekende lombarden ontbreken tussen dit blad en het laatste blad van de Atrechtse fragmenten naar schatting zes bladen. Indien de codex was samengesteld uit quaternionen, zoals uit de Heeswijkse fragmenten valt op te maken, betreft het hier de laatste vier folia van het tiende en de eerste twee folia van het elfde katern. De Atrechtse fragmenten bestaan dan uit vier enkelbladen, die de eerste helft van het tiende katern gevormd hebben (fol. 73-76 in de codex). De leemte kan echter groter geweest zijn. Indien er tussen het laatste blad van de Atrechtse en het eerste blad van de Heeswijkse fragmenten &eacute;&eacute;n alfabet meer verloren is gegaan, komen we op een verlies van naar schatting 12 &agrave; 13 folia. In dat geval waren de vier bladen waar Mone over spreekt, in feite misschien twee dubbelbladen.</BRON.OPM>
+<VERWIJZING>Leiden, Bibliotheek der Rijksuniversiteit, Ltk. 1024 (fragm.)</VERWIJZING>
+<EDITIE>Afschrift J. Tersteeg</EDITIE>
+<STATUS>Diplomatisch</STATUS>
+<BRONMNW>286 (andere editie)</BRONMNW>
+<BRONMNW>441 (andere editie)</BRONMNW>
+<BRONMNW>1293 (andere editie)</BRONMNW>
+<EDITIE.OPM>In de editie Kienhorst en Tersteeg (1987) wordt gebruik gemaakt van ronde haken voor onzekere lezingen; deze zijn hier niet gehandhaafd.</EDITIE.OPM>
+<BRONNEN>Van drie handschriften zijn er fragmenten overgeleverd. Edities en/of afschriften (J. Tersteeg) zijn er van de volgende handschriften/fragmenten: Hs. I: - <x nr=K21>Arras, Biblioth&egrave;que Municipale, z.s. (fragm.) [zoek]</x>
+ - <x nr=K22>Leiden, Bibliotheek der Rijksuniversiteit, Ltk. 1024 (fragm.)</x>
+ Hs. II: - <x nr=K23>Fragmenten De Pauw (fragm.) [zoek]</x>
+ Hs. III: - <x nr=K24>Brussel, Koninklijke Bibliotheek, 19577 (fragm.)</x>
+</BRONNEN>
+</fileDesc>
+</teiHeader>
+--><text>
+<l><milestone unit="fol" n="1ra"/> Ende also wel gheadobeerde</l>
+<l>Vant men kume upter eerde</l>
+<l>Also vul was die stede</l>
+<l>Met volke van der edelhede</l>
+<l n="5">Dat zi cume mochten binnen</l>
+<l>Alle ostelrie ghewinnen</l>
+<l>Sine moesten buten weghe zijn</l>
+<l>Nu willic der materien mijn</l>
+<l>Volghen ende bliven bi</l>
+<l n="10">Den borchgraven van couchi</l>
+<l>Als die edel ridder goet</l>
+<l>Den dach entie tijt verstoet</l>
+<l>Dat het naecte den termijn</l>
+<l>Dat die feeste zoude sijn</l>
+<l n="15">So ne woudi langher tijt</l>
+<l>Beiden maer an den ermijt</l>
+<l>Nam hi orlof den vierden dach</l>
+<l>Die vor den tsinxenen ghelach</l>
+<l>Dat crone soude draghen</l>
+<l n="20">Die coninc met zinen hoghen maghen</l>
+<l>Ende zinen zone ridder maken</l>
+<l>Hi haddem up alle zaken</l>
+<l>Beraden metten neve zijn</l>
+<l>Die hem gaf een brievekijn</l>
+<l n="25">An den coninc lodewijc</l>
+<l>Twelke den ridder rijc</l>
+<l>Dede harde grote stade</l>
+<l>Die borchgrave bi vorzienen rade</l>
+<l>Dede al zine wapine</l>
+<l n="30">Ane onder eene zlavine</l>
+<l>Die goet waren ende gave</l>
+<l>Gheene beter drough hertoge no grave</l>
+<l>Noch daer toe also goet een zwert</l>
+<l>Hi was oec also wel ghepeert</l>
+<l n="35">Als eenich heere diemen vant</l>
+<l>Lucaen zijn neve die seriant</l>
+<l>Hadde zine male wel bewaert</l>
+<l>Aldaer up zijn zomerpaert</l>
+<l>Daer hi selve up was gheseten</l>
+<l n="40">Sijn derde paert woudi vergeten</l>
+<l>Want hi peinsde om tprofijt</l>
+<l>Dat ostelrien quaden tijt</l>
+<l>Souden wesen te parijs</l>
+<l>Ende in den clooster te sente denijs</l>
+<l n="45">So hadde lucaen eenen broeder</l>
+<l>Die van den wine was behoeder</l>
+<l>Mochti niet bet hi dede verstaen</l>
+<l>Doe zinen meester lucaen</l>
+<l>Si zouden daer herbergen wale</l>
+<l n="50">Doe namen zi met scoender tale</l>
+<l>Orlof an den goeden ermijt</l>
+<l><milestone unit="fol" n="1rb"/> Diese heeft ghebenedijt</l>
+<l>Metter hant alle bede</l>
+<l>Ende gode bevolen mede</l>
+<l n="55">Ende daer met zijn si ghesceiden</l>
+<l>God neemse in ziere gheleiden</l>
+<l>Si zullens hebben wel te doene</l>
+<l>Het en was nye ridder also coene</l>
+<l>Haddi bestaen dat hi bestont</l>
+<l n="60">Hi ne hadde in der herten gront</l>
+<l>Sorghe gheadt ende vaer</l>
+<l>Hoe dat hi zoude van daer</l>
+<l>Hebben gheraect daer hijs began</l>
+<l>Ende in der eren bleven dan</l>
+<l n="65">Der ghelijc dat hi dede</l>
+<l>So ghi zult horen die waerhede</l>
+<l>Beide reden zi te samen</l>
+<l>Na dien dat zi orlof namen</l>
+<l>Te faiuweele in die stede</l>
+<l n="70">Wantcooplieden alle bede</l>
+<l>Hieten zi waer zi quamen</l>
+<l>Si veranderden hare namen</l>
+<l>Onder hem beiden in secreit</l>
+<l>Bi groter behendicheit</l>
+<l n="75">Hine leefde oec niet gheloves mi</l>
+<l>Die den borchgraven van couchi</l>
+<l>Ghekent hadde int openbaer</l>
+<l>Diene over drie der jaer</l>
+<l>Hadde ghekent of over viere</l>
+<l n="80">So was hi an zine maniere</l>
+<l>Verkeert ende an zine ghedane</l>
+<l>Hine hadder al zijn meerken ane</l>
+<l>Gheleit an wezen ende an sprake</l>
+<l>Met goeder moete ende met ghemake</l>
+<l n="85">Ende oec bi secreter dinc</l>
+<l>Hi scheen die scoenste jongelinc</l>
+<l>Wesen van der werelt al</l>
+<l>Eer hi quam int ongheval</l>
+<l>Dat hi van zinen lieve sciet</l>
+<l n="90">Ende dat hi int zwaer verdriet</l>
+<l>In den woude lach drie jaer</l>
+<l>An zinen baert haddi noyt haer</l>
+<l>Die hem lanc was worden doe</l>
+<l>Te faiuweele quamen si toe</l>
+<l n="95">Over cooplieden ghevaren</l>
+<l>Daer si wel ontfanghen waren</l>
+<l>In eene scone ostelrie</l>
+<l>Des avonts so vraechden zie</l>
+<l>Wie dat here was van der stede</l>
+<l n="100">Dies men hem die wareit zede</l>
+<l>Ende dat die vrouwe was der ghelike</l>
+<l>Des coninx nichte van vrankerike</l>
+<l><milestone unit="fol" n="1va"/> Die beste entie scoenste mede</l>
+<l>Die men wiste in kerstinede</l>
+<l n="105">Doe so vraechde luuc aldaer</l>
+<l>Of daer eenich constenaer</l>
+<l>Ware die conste nieuwen zanc</l>
+<l>Si soudens hem weten danc</l>
+<l>Ende ghevens hem oec miede</l>
+<l n="110">Si hadden ghehoort nieuwe liede</l>
+<l>Van rovers die lagen in den wouden</l>
+<l>Dat zi gheerne horen zouden</l>
+<l>Cume hadde lucaen twoort</l>
+<l>Van dien zange gebrocht voort</l>
+<l n="115">Men hietene zwijghen daer</l>
+<l>Want niemen so coene ne waer</l>
+<l>Dies vermaende in die stede</l>
+<l>Het ne soudem lijf of lede</l>
+<l>Costen van der vrouwen goet</l>
+<l n="120">Op dat soe worde der zaken vroet</l>
+<l>Want daer men dat liet van</l>
+<l>Maecte was die beste man</l>
+<l>Die wile hi woende in die stede</l>
+<l>Die noyt wapine ane dede</l>
+<l n="125">Ende oec ghemint also zeere</l>
+<l>Metter vrouwen ende mettn heere</l>
+<l>Ende metter ghemeender stat</l>
+<l>So dat men niemen mochte om dat</l>
+<l>Quaet van hem horen spreken</l>
+<l n="130">Men zout an zijn leven wreken</l>
+<l>Lucaen zeide belcht hu niet</l>
+<l>Wi ne weter of gheen bediet</l>
+<l>Want wi zijn vremde cooplieden</l>
+<l>Ende gheerne horen wi bedieden</l>
+<l n="135">Dat rovers ende mordenaren</l>
+<l>In haren tiden qualijc varen</l>
+<l>Dor die vrese die si ons doen</l>
+<l>Dicken zonder occisoen</l>
+<l>Daer met lieten si die tale</l>
+<l n="140">Luuc die vraechde te dien male</l>
+<l>Als die behendich was ende wijs</l>
+<l>Of zi niet te parijs</l>
+<l>Here of vrouwe zoude wesen</l>
+<l>Men andworde hem na dezen</l>
+<l n="145">Ja si zeker alle bede</l>
+<l>Want hare camere huter stede</l>
+<l>Voren ghevaren was</l>
+<l>Die borchgrave verblijdde om das</l>
+<l>So zeere dat hi verscoot</l>
+<l n="150">Al hadt ghezijn van coude groot</l>
+<l>Ende vervinc al zijn gheblu</l>
+<l>Ende metten worde zeidi tlu</l>
+<l>Al der ghelijc of hijt dor coude</l>
+<l><milestone unit="fol" n="1vb"/> Dede dat niemen merken soude</l>
+<l n="155">Daer so spraken zi menich woort</l>
+<l>Binnen der maeltijt rechte voort</l>
+<l>Beede van desen ende van dien</l>
+<l>Blide was gheloves mien</l>
+<l>Die borchgrave van couchi</l>
+<l n="160">Dat die edele vrouwe vri</l>
+<l>Sijns hadde vergheten niet</l>
+<l>Ende haer leet was zijn verdriet</l>
+<l>Ende dat die vrouwe faitijs</l>
+<l>Soude wesen te parijs</l>
+<l n="165">Dies so verblijdde hi zere in dien</l>
+<l>Hi hoopte dat hise zien</l>
+<l>Noch zoude vor zine doot</l>
+<l>Ende dat soe die wareit bloot</l>
+<l>Noch weten zoude algader</l>
+<l n="170">Hoe datse die verrader</l>
+<l>Valschelike hadden beloghen</l>
+<l>Daer bi dat zi noch bedroghen</l>
+<l>Wesen zouden mochte hise scouwen</l>
+<l>Ende van der valscher ontrouwen</l>
+<l n="175">Die hem zijn oem hadde ghedaen</l>
+<l>Daer of zoudi wrake ontfaen</l>
+<l>Want van al was hi tbeghin</l>
+<l>Vele peinsdi in zinen zin</l>
+<l>Daer hi over tafle sat</l>
+<l n="180">Dies men hem vermaende dat</l>
+<l>Waer bi dat hi niet en ate</l>
+<l>Hi zeide hi hads ter goeder mate</l>
+<l>Hi woude zijn ter rusten waert</l>
+<l>Doe so was hi ter vaert</l>
+<l n="185">In eene camer gheleet al daer</l>
+<l>Ende zijn cnape daer naer</l>
+<l>Rekende ende betaelde mede</l>
+<l>Met wel groter hovesschede</l>
+<l>So dat mens hem zeide danc</l>
+<l n="190">Die nacht waren doe niet lanc</l>
+<l>Het was int uutgaen van meye</l>
+<l>Luuc ghinc na zinen greye</l>
+<l>Besien ten peerden ende daer naer</l>
+<l>So ghinc hi te rusten daer</l>
+<l n="195">Ment hem wijsde daert was scone</l>
+<l>Tote die zonne an den trone</l>
+<l>Lichte zo sliep lucaen</l>
+<l>Hine hadde niet bevaen</l>
+<l>Sulc ghepeins int herte binnen</l>
+<l n="200">Ende zulken last van minnen</l>
+<l>Als die borchgrave goet</l>
+<l>Die zulc ghepeins in den moet</l>
+<l>Hadde dat hi lettel ruste</l>
+<l>Alst dach was een lettel luste</l>
+<l n="205"><milestone unit="fol" n="2ra"/> Hem te lukene sijn oghen</l>
+<l>Doe zo quam hem een vertoghen</l>
+<l>In vormen van vizioene</l>
+<l>Dat hi riden sach int groene</l>
+<l>Die vrouwe van faiuweele</l>
+<l n="210">Met vruechden ende met riveele</l>
+<l>Ter steden van parijs waert</l>
+<l>Daer mede ontspranc hi ter vaert</l>
+<l>Ende hi riep lude lucaen</l>
+<l>Hebdi noch niet ghedaen</l>
+<l n="215">Den peerden hare orboren</l>
+<l>Die vrouwe die es lange voren</l>
+<l>Vullijc laet ons riden naer</l>
+<l>Mettien quam hi them selven daer</l>
+<l>Sine oghen ontdedi ende zach</l>
+<l n="220">Dat het was scone dach</l>
+<l>Niemen ne was hem daer bi</l>
+<l>Die borchgrave van couchi</l>
+<l>Die zo ghinc hem zelven cleeden</l>
+<l>Ende wapinen ende ghereeden</l>
+<l n="225">Ghewone zo was hi der pine</l>
+<l>Ende luuc die cnape sine</l>
+<l>Hadde hem zelven up ghedaen</l>
+<l>Te zinen peerden es hi ghegaen</l>
+<l>Het was worden scone dach</l>
+<l n="230">Die vrouwe dat hi porren zach</l>
+<l>Doe ute dien casteele</l>
+<l>Enten heere van faiuweele</l>
+<l>Met eenen ghezinde elc zonderlinc</l>
+<l>Al hadt eenen riken coninc</l>
+<l n="235">Ghevolgt hine dors hem scamen niet</l>
+<l>Sonder te lettene yet</l>
+<l>So es al doe lucaen</l>
+<l>Te zinen meester ghegaen</l>
+<l>Dien hi vant al bereit</l>
+<l n="240">Al daer heeft hi hem ghezeit</l>
+<l>Of hi zoude willen riden</l>
+<l>Want hi hadde ghezien liden</l>
+<l>Vrouwe ende heer uter stat</l>
+<l>Als die borchgrave dat</l>
+<l n="245">Hoorde zeidi lucaen</l>
+<l>Het es harde quaet ghedaen</l>
+<l>Dat ghi hebt zo lange ghelegen</l>
+<l>Wi zouden sijn an die wegen</l>
+<l>Emmertoe milen drie</l>
+<l n="250">Lucaen zeide meester mie</l>
+<l>Luste te slapene wel</l>
+<l>Onse peerden die zijn snel</l>
+<l>Si zullen corte milen maken</l>
+<l>Hi wiste lettel van der zaken</l>
+<l n="255">Waer omme dat zijn meester zede</l>
+<l><milestone unit="fol" n="2rb"/> Met wel groter neerensthede</l>
+<l>So ghinc torsen lucaen</l>
+<l>Ende alsi al hadden ghedaen</l>
+<l>Saten si up beide te zamen</l>
+<l n="260">An den weert si orlof namen</l>
+<l>Al doe in hovesscher wijs</l>
+<l>Uter poorten van parijs</l>
+<l>So zijn si ghereden daer</l>
+<l>Den zelven wech volchden zi naer</l>
+<l n="265">Die de vrouwe was ghereden</l>
+<l>Omtrent twee milen buter steden</l>
+<l>Mochten zi voren wesen</l>
+<l>Den borchgraven so wi lesen</l>
+<l>Was te bet in allen zinne</l>
+<l n="270">Dat hi die edele graefnedinne</l>
+<l>Wiste voren in den pat</l>
+<l>In hem zelven dochtem dat</l>
+<l>Die roke quam van haer ghewayt</l>
+<l>Dies zijn herte was ghepayt</l>
+<l n="275">Also vullijc hem die heere</l>
+<l>Haeste ende reet so zeere</l>
+<l>Dat hi die moude metten winde</l>
+<l>Van haer ende van haren gezinde</l>
+<l>Stuven zach te hemele waert</l>
+<l n="280">Bet an so nopedi zijn paert</l>
+<l>Dat hise achterhaelde naer</l>
+<l>Doe sone wildi daer</l>
+<l>Niet vorder riden vortwaert</l>
+<l>Hine wederhilt zijn paert</l>
+<l n="285">Faelt hu yet sprac lucaen</l>
+<l>Waer omme doedti niet bet an gaen</l>
+<l>Hu paert dat wi die vrouwe zien</l>
+<l>Maer ghi hebt een ontsien</l>
+<l>Dat men hu verkennen mach</l>
+<l n="290">Die borchgrave upten cnapen zach</l>
+<l>Ende hi zeide lucaen</l>
+<l>Het ware onnedelheit ghedaen</l>
+<l>Souden wi als bouven riden</l>
+<l>Ende heeren ende vrouwen liden</l>
+<l n="295">Vor bi binnen haren lande</l>
+<l>Ic die vruchte mi der scande</l>
+<l>Ende wi die hebben tijt ghenouch</l>
+<l>Lucaen om die tale louch</l>
+<l>Als die hem bemoede wel</l>
+<l n="300">Dat zoet was ende niemen el</l>
+<l>Dien hi minde also zeere</l>
+<l>Want met menegen nauwen kere</l>
+<l>Haddire meerc an gheleit</l>
+<l>Als yet van haer was ghezeit</l>
+<l n="305">Dat hi veranderde al daer bi</l>
+<l>Maer van den here van couchi</l>
+<l><milestone unit="fol" n="2va"/> Constijt anders niet gheweten</l>
+<l>Dan hire na mochte meten</l>
+<l>Al zcoenkine na dien tiden</l>
+<l n="310">So began hi achter riden</l>
+<l>Altoes die ogen dare waert</l>
+<l>Doe quam ghereden up een paert</l>
+<l>Een page ute bartaengen lant</l>
+<l>Die welke den affarant</l>
+<l n="315">Sinen meester hadde ontreden</l>
+<l>Ende van groter blijtheden</l>
+<l>So zanc hi dat nieuwe liet</l>
+<l>Twelke van den borchgraven hiet</l>
+<l>Hoe hi ghehangen was te troes</l>
+<l n="320">Ende dat met zo luder voes</l>
+<l>Dat die edele vrouwe hoorde</l>
+<l>Die haer in den zin verstoorde</l>
+<l>Ende zeide groten ondanc</l>
+<l>Moeti hebben die dat zanc</l>
+<l n="325">Boven den verbode mijn</l>
+<l>Doe beval die vrouwe fijn</l>
+<l>Dat men al daer zoude vanghen</l>
+<l>Ende an eenen boem hangen</l>
+<l>Haer ghezinde was tien tiden</l>
+<l n="330">Daer ghereden an eere ziden</l>
+<l>Die meyere van faiuweele der steden</l>
+<l>Es daer an den cnecht ghereden</l>
+<l>Ende zeide wie leerde hu dat liet</l>
+<l>Lieve heere of ghijt ghebiet</l>
+<l n="335">Sprac die cnecht ende was vervaert</l>
+<l>Mijns meesters zo es dit paert</l>
+<l>Maer ic die hebt hem ontreden</l>
+<l>Ende ic zaelt hem zonder beden</l>
+<l>Weder ghehenden laet mi gaen</l>
+<l n="340">Ja sprac die meyere ghi hebt ghedaen</l>
+<l>Om dat ghi hebt dit paert ghestolen</l>
+<l>So zuldi moeten gaen ter scolen</l>
+<l>Met eere leeder tuwen grave</l>
+<l>Doe zo dede hine beeten ave</l>
+<l n="345">Ende leedene onder eenen boom</l>
+<l>Van den paerde nam hi den toom</l>
+<l>Daer hine mede hangen dede</l>
+<l>Die borchgrave ende zijn cnape bede</l>
+<l>Quamer ghereden toe</l>
+<l n="350">Die borchgrave vraechde doe</l>
+<l>Wat die cnecht hadde mesdaen</l>
+<l>Die meyere andworde zaen</l>
+<l>Hi heeft ghezongen twee liedekine</l>
+<l>Daer hi omme te quaden fine</l>
+<l n="355">Comen es also ghi ziet</l>
+<l>Deen dat es tverboden liet</l>
+<l>Van den borchgraven van couchi</l>
+<l><milestone unit="fol" n="2vb"/> Dat ander sanc hi jeghen mi</l>
+<l>Dat hi was een dief der paert</l>
+<l n="360">Dies heeft hi zine uutvaert</l>
+<l>Nu an desen boom ghedaen</l>
+<l>Die borchgrave andworde zaen</l>
+<l>Die den meyere kende wel</l>
+<l>Het doet quaet singen ende maken spel</l>
+<l n="365">Daer omme dat men hangen moet</l>
+<l>Het scijnt dat die vrouwe goet</l>
+<l>Den borchgrave haette zeere</l>
+<l>Dat niemen mach zingen van den here</l>
+<l>Hine moeter omme ghehangen zijn</l>
+<l n="370">Dat ne doet soe niet anschijn</l>
+<l>Dat hi was van haer ghehaet</l>
+<l>Haer es leet dat men verzmaet</l>
+<l>Heeft met alsulker doot</l>
+<l>Want zijn vromicheit was groot</l>
+<l n="375">Entie doghet entie trouwe</l>
+<l>Die hi dede onzer vrouwe</l>
+<l>Ende die haer ghingen an</l>
+<l>Die meyere reet doe van dan</l>
+<l>Haestelike ziere veerde</l>
+<l n="380">Al doe henen metten peerde</l>
+<l>Daer die cnecht up quam ghereden</l>
+<l>Altemale die waerheden</l>
+<l>Seidi der vrouwen doe</l>
+<l>Mettien quam ghereden toe</l>
+<l n="385">Die heere van faiuweele</l>
+<l>Met spele ende met riveele</l>
+<l>Al daer an der vrouwen waghen</l>
+<l>Daer zijt beide anezaghen</l>
+<l>Die borchgrave ende lucaen</l>
+<l n="390">Die te mallijc andren zeiden saen</l>
+<l>Het es nu te ziene goet</l>
+<l>Dat die vrouwe in den moet</l>
+<l>Drouve es gheloves mi</l>
+<l>Om sborchgraven doot van couchi</l>
+<l n="395">Die buten zalons in die traelge</l>
+<l>Hanghet ic prise die faelge</l>
+<l>Seide die vrome dominicus</l>
+<l>Ic die hebt oec liever dus</l>
+<l>Seide doe weder lucaen</l>
+<l n="400">Wilt der vrouwen riden aen</l>
+<l>Daer so sit in haren wagen</l>
+<l>Si leven diese gheerne zagen</l>
+<l>Ende niet verre zijn van hier</l>
+<l>Doe zo zeide die ridder fier</l>
+<l n="405">Dat ne staet mi niet te doene</l>
+<l>Het es quaet wesen al te coene</l>
+<l>Daer men wesen heet mesdadich</l>
+<l>Wat heere vrouwen zijn ghenadich</l>
+<l><milestone unit="fol" n="3ra"/> Seide doe weder lucaen</l>
+<l n="410">Al heeft zoe desen cnecht verdaen</l>
+<l>Soe ne zoude hu hangen niet</l>
+<l>Al wiste zoe hoe dat ghi hiet</l>
+<l>Ghi hebt doch dor haer ghedaen</l>
+<l>Dus goddeerde lucaen</l>
+<l n="415">Jeghen den meester zijn</l>
+<l>So dat bemoedde die ridder fijn</l>
+<l>Dat die cnecht daer up beende</l>
+<l>Datti die scone vrouwe meende</l>
+<l>Ende minde so hi dede</l>
+<l n="420">Maer hi ghebaerde te diere stede</l>
+<l>Als oft hijt verstoede niet</l>
+<l>Maer emmer volchde tvrome diet</l>
+<l>Also naer als hi mochte</l>
+<l>Dicken was hi int ghedochte</l>
+<l n="425">Dat hi aldaer zoude jagen</l>
+<l>Metten peerde an den wagen</l>
+<l>Ende groeten tscone wijf</l>
+<l>Doe quam hem een vaer int lijf</l>
+<l>Dat hi den breidel weder helt</l>
+<l n="430">Seere so was hi ontstelt</l>
+<l>Al daer van gherechter minne</l>
+<l>Als een die es cranc van zinne</l>
+<l>Baesdi jeghen hem zelven daer</l>
+<l>Luuc die daer hoorde naer</l>
+<l n="435">Hadder in ghenouchte groot</l>
+<l>Want die wareit vernam hi bloot</l>
+<l>Dat zoe die ghene ter waerhede</l>
+<l>Was diene zuchten dede</l>
+<l>Ende caermen nacht ende dach</l>
+<l n="440">Ende daer al zijn troost an lach</l>
+<l>Sine doot ende sine ghesonde</l>
+<l>Die noyt niemen van zinen monde</l>
+<l>Gheweten conde no verstaen</l>
+<l>Onsen heere bat lucaen</l>
+<l n="445">Dat hijs loen moete ghewinnen</l>
+<l>Als diene hadde in groter minnen</l>
+<l>Ic weet die heere van couchi</l>
+<l>Volchde naer die vrouwe vri</l>
+<l>Al toter hogher noene</l>
+<l n="450">Doe hilt die vrouwe stille int groene</l>
+<l>Metten wagene daer soe in zat</l>
+<l>Entie redene was om dat</l>
+<l>Si eenen heigher up eenen pit</l>
+<l>Saghen enten valke wit</l>
+<l n="455">Deder werpen na die vrouwe</l>
+<l>Die haer zende up rechte trouwe</l>
+<l>Die borchgrave van couchi</l>
+<l>Want hine wan die ridder vri</l>
+<l>Te couchi in den tornoy</l>
+<l n="460"><milestone unit="fol" n="3rb"/> Daer ute dat tgrote vernoy</l>
+<l>Van den borchgrave sproot</l>
+<l>Die valke van duechden groot</l>
+<l>Die so zach den heygher risen</l>
+<l>Dien hi na ziere natuere bewisen</l>
+<l n="465">Edelike boven clam</l>
+<l>Ende staken so dat hi quam</l>
+<l>Ghevallen vor der vrouwen wagen</l>
+<l>Si prijsden alle diene zagen</l>
+<l>Den werden goeden valke wit</l>
+<l n="470">Ende die vrouwe zeide dit</l>
+<l>God hoede die ziele van den heere</l>
+<l>Van den viant lucifeere</l>
+<l>Die mi gaf den valke goet</l>
+<l>Die borchgrave dat woort verstoet</l>
+<l n="475">Die doe biden wagen leet</l>
+<l>Amen seide hi ghereet</l>
+<l>Ende groete die vrouwe mede</l>
+<l>Maer nalincs hi uten gherede</l>
+<l>Viel van verdarentheit</l>
+<l n="480">Daer hi die vrouwe wael ghemeit</l>
+<l>Metten groetene sprac an</l>
+<l>Die lettel upten goeden man</l>
+<l>Achte te diere tijt</l>
+<l>Dor dat hi ztac in zelc abijt</l>
+<l n="485">Kennesse soe gheene drouch</l>
+<l>An den ridder die welke slouch</l>
+<l>Sijn peert doe metten sporen</l>
+<l>Ende reet die vrouwe voren</l>
+<l>Die zijns zlouch cleine gade</l>
+<l n="490">Maer hi die was tenden rade</l>
+<l>Worden in dat claer anschijn</l>
+<l>Doch so was die herte zijn</l>
+<l>Gherust in dat edel beelde</l>
+<l>Die welke uut ghenouchten speelde</l>
+<l n="495">Scaec in den zelven tiden</l>
+<l>Met zinen cnape reet hi beziden</l>
+<l>Ende zeide lucaen saechdi dit</l>
+<l>Hoe varinc dat die valke wit</l>
+<l>Den heygher hadde onder voet</l>
+<l n="500">Het es zeker een voghel goet</l>
+<l>Seide weder doe lucaen</l>
+<l>Ende die vrouwe wel ghedaen</l>
+<l>Bat over die ziele van den heere</l>
+<l>Diene haer gaf te harer eere</l>
+<l n="505">Ende ghi waert die coster doe</l>
+<l>Mi es te moede of zoe</l>
+<l>Die ziele noch steect int gruus</l>
+<l>Doe so zeide dominicuus</l>
+<l>Luuc daer an zegdi waer</l>
+<l n="510">Ic gaffen der vrouwen maer</l>
+<l><milestone unit="fol" n="3va"/> In den tornoy van couchi</l>
+<l>Aldaer so ghebuerdi mi</l>
+<l>In den tornoy als een danc</l>
+<l>Het es zeder leden lanc</l>
+<l n="515">Dat ic voghel nochte vrouwe</l>
+<l>Niet en zach in goeder trouwe</l>
+<l>Dan nu upten dach van heden</l>
+<l>Soe die heeft in weerdicheden</l>
+<l>Noch den voghel dinke mi</l>
+<l n="520">Ende metten zelven so liet hi</l>
+<l>Hem een zuchten daer ontgaen</l>
+<l>Daer up andworde lucaen</l>
+<l>Laet varen zuchten ende wenen</l>
+<l>Ende caermen ende stenen</l>
+<l n="525">Ghi hebbet langhe ghenouch ghehayt</l>
+<l>Vor haer here nu zijts ghepayt</l>
+<l>Dat zo dinct mi wel ghedaen</l>
+<l>Want heden hebbic wel verstaen</l>
+<l>Dat soe hu mint die ghi niet haet</l>
+<l n="530">Noyt ne wistic uwen staet</l>
+<l>Dan nu upten dach van heden</l>
+<l>Dies ic ben bet te vreden</l>
+<l>Dan ic tote noch hebbe ghezijn</l>
+<l>Ic hebbe oec dor hu carijn</l>
+<l n="535">Harde vele doghens leden</l>
+<l>Sijt te rusten ende te vreden</l>
+<l>Uwen noot suldi verwinnen</l>
+<l>Ende oec hebben loen van minnen</l>
+<l>Ende dat wel in corter tijt</l>
+<l n="540">Op dat ghi bout ende coene sijt</l>
+<l>Menich troestelijc scoene woort</l>
+<l>Brochte lucaen al daer voort</l>
+<l>Om te payene zinen heere</l>
+<l>Die so vele trooste noyt eere</l>
+<l n="545">Van gheenen mensche ghecreech</l>
+<l>Sonder van hare stille hi zweech</l>
+<l>Al daer hi reet in der prayerien</l>
+<l>Hine wilde loechenen nochte lyen</l>
+<l>Haddi gheloechent hi hadde ghelogen</l>
+<l n="550">Ende dat lyen hadden so bedrogen</l>
+<l>Dat hiere niet woude comen aen</l>
+<l>Doch verstoet wel lucaen</l>
+<l>Wat dat van den dinghen was</l>
+<l>Aldus reden si dor tgras</l>
+<l n="555">Sprekende in menegher wijs</l>
+<l>Tusschen daer ende parijs</l>
+<l>Twelke was twee dachvaerde</l>
+<l>Als nu was hi metten paerde</l>
+<l>Voren nu bachten nu besiden</l>
+<l n="560">Van der vrouwen tallen tiden</l>
+<l>Ende waer soe lette ofte bede</l>
+<l><milestone unit="fol" n="3vb"/> Dede daer so lette hi mede</l>
+<l>Al haddi van haren meisnieden</l>
+<l>Ghesijn maer over cooplieden</l>
+<l n="565">Voeren si in diere wijs</l>
+<l>Dus volgheden si tote parijs</l>
+<l>Ende tote die edele graefnedinne</l>
+<l>Was te harer herberghen inne</l>
+<l>Doe alre eerst hi van haer sciet</l>
+<l n="570">Maer zi ne conden vinden niet</l>
+<l>Herberghe binnen al parijs</l>
+<l>Si ne moesten te sente denijs</l>
+<l>Al doe in den cloester riden</l>
+<l>Daer vant luuc ten zelven tiden</l>
+<l n="575">Binnen den broeder zijn</l>
+<l>Die achterwaerde daer den wijn</l>
+<l>Daer so was lucaen</l>
+<l>Van sinen broeder wel ontfaen</l>
+<l>Ende daer toe zijn meester mede</l>
+<l n="580">Hi ne hadde gheene waerhede</l>
+<l>Van hem ghehoort in vijf jaren</l>
+<l>Waer dat hi was bevaren</l>
+<l>Ende hiltene over doot</l>
+<l>Eere ende weerde groot</l>
+<l n="585">Hevet hi hem beiden daer</l>
+<l>Ghedaen ende eene camere vorbaer</l>
+<l>So dedi hem hebben doe</l>
+<l>Ende al dat daer hoorde toe</l>
+<l>Ende oec stal te haren paerden</l>
+<l n="590">Het was een coopman van waerden</l>
+<l>Sijn meester zeide lucaen</l>
+<l>Die welke hem hadde ghedaen</l>
+<l>Doghet ende eere groot</l>
+<l>Ende ghelost van der doot</l>
+<l n="595">Ende hi hadden langhe ghedient</l>
+<l>Die goede monec was doe zijn vrient</l>
+<l>Ende dancte hem van sbroeders weghen</l>
+<l>Haddi wel ghekent den deghen</l>
+<l>Hi haddem eeren meer ghedaen</l>
+<l n="600">Maer doch was hi wel ontfaen</l>
+<l>Naer dat het gescepen stoet</l>
+<l>Blide was in zinen moet</l>
+<l>Die edel borchgrave rike</l>
+<l>Dat hi daer was zo heimelike</l>
+<l n="605">Want het hiesch zijn upzet</l>
+<l>Si ondervraechen al te met</l>
+<l>Van der feesten van parijs</l>
+<l>Ende van den heeren wijs</l>
+<l>Die ter feesten waren comen</l>
+<l n="610">Daer toe dat heeft ghenomen</l>
+<l>Die borchgrave goeden goom</l>
+<l>Hi verstoet wel dat zijn oom</l>
+<l><milestone unit="fol" n="4ra"/> Een drussate was te hove</l>
+<l>Ende van den meesten love</l>
+<l n="615">Hi was een out costumier</l>
+<l>Ende een edel princhier</l>
+<l>Die vele hadde metten brande</l>
+<l>Ghedaen uptie gods viande</l>
+<l>Al was hi licht van ziere spraken</l>
+<l n="620">Niemen es in allen zaken</l>
+<l>Vulmaect danne god alleene</l>
+<l>Die borchgrave van herten reene</l>
+<l>Die was blide in zinen moet</l>
+<l>Als hi die waerheit verstoet</l>
+<l n="625">Dat zijn oem was aldaer</l>
+<l>Want hi meenden int openbaer</l>
+<l>Te beroupene in een crijt</l>
+<l>Als het poynt ware ende tijt</l>
+<l>Niet woudi hem openbaren</l>
+<l n="630">Wel te ghemake dat zi waren</l>
+<l>Beide meester ende cnape</l>
+<l>Al daer metten goeden pape</l>
+<l>Van gheere dinc waerzi vergeten</l>
+<l>Wat men drinken ofte eten</l>
+<l n="635">Mochte na goeder betamen</l>
+<l>Twelke zi in weerden namen</l>
+<l>Na maeltijt zi te rusten traken</l>
+<l>Ende ordineerden hare zaken</l>
+<l>Heimelijc naer haer ghevouch</l>
+<l n="640">Ende des morghens vrouch</l>
+<l>Sijn zi beide upghestaen</l>
+<l>Die borchgrave heeft anghedaen</l>
+<l>Naest zinen live eens draken vel</l>
+<l>Gherijet dat hem harde wel</l>
+<l n="645">Stoet het hadde groot virtuut</l>
+<l>Qualijc mochte men hem die huut</l>
+<l>Quetsen diet anedrouch</l>
+<l>Venijn ende hitte het oec verzlouch</l>
+<l>Ende moetheit ende zweet</l>
+<l n="650">Het plach te draghene als hi street</l>
+<l>Die eerste tover der wostine</l>
+<l>Die die tente zidine</l>
+<l>Maecte met ziere fayerien</l>
+<l>Nu zo hadt in ziere baelgien</l>
+<l n="655">Die borchgrave van couchi</l>
+<l>Diet minde gheloves mi</l>
+<l>Vor gout ende vor groten scat</l>
+<l>Hi hads menichwaerf te bat</l>
+<l>Ghehadt binnen den fellen woude</l>
+<l n="660">Daer over dat die ridder boude</l>
+<l>Dede sinen halsberch goet</l>
+<l>Daer dore dat hi noyt zijn bloet</l>
+<l>Sach als hine anedrouch</l>
+<l><milestone unit="fol" n="4rb"/> Wat men up hem stac ende slouch</l>
+<l n="665">Omme dat minde hine zeere</l>
+<l>Boven den halsberghe dede die heere</l>
+<l>Een tornikeel van kele stijf</l>
+<l>Wel ghebonden in zijn lijf</l>
+<l>Met eenen cruce zelverijn</l>
+<l n="670">Daer in drie scavoten fijn</l>
+<l>Van goude daer hise mede brac</l>
+<l>Die edel ridder sonder lac</l>
+<l>Die noyt in stride was vervaert</l>
+<l>Gorde an ziere siden een zwaert</l>
+<l n="675">Twelke was ghetempert wale</l>
+<l>Ende fijn van goeden stale</l>
+<l>Eenen widen tabbaert</l>
+<l>Toten voeten nederwaert</l>
+<l>Heefti boven anghedaen</l>
+<l n="680">Der ghelike dede lucaen</l>
+<l>Maer hi ne was ghewapent niet</l>
+<l>Messe hoorde tvrome diet</l>
+<l>In den clooster te sente denijs</l>
+<l>Doe so woudi tote parijs</l>
+<l n="685">Gaen over zine voet</l>
+<l>Dat niet verre van dannen stoet</l>
+<l>Dit was upten tsinxendach</l>
+<l>Dat men den edelen coninc sach</l>
+<l>Crone draghen ende houden hof</l>
+<l n="690">Om te meersene zinen lof</l>
+<l>Ende om datti den zone zijn</l>
+<l>Woude ridders ordijn</l>
+<l>Uptien dach doen nemen an</l>
+<l>Ic wane so menich edel man</l>
+<l n="695">In menegen jare was int stede</l>
+<l>Noch so meneghe vrouwe mede</l>
+<l>Die coninc was wel ghemint</l>
+<l>Ende karel zijn scone kint</l>
+<l>Beide met cleinen ende met groten</l>
+<l n="700">Daer waren alle zine ghenoten</l>
+<l>Van vrankerike binnen der stede</l>
+<l>Ende van den keyserike mede</l>
+<l>Dat scone was te ziene an</l>
+<l>Ghelijc eenen coopman</l>
+<l n="705">So quam die borchgrave int stede</l>
+<l>Ende daer toe zijn cnape mede</l>
+<l>Omme dat zi te bet mids dien</l>
+<l>Die feeste zouden wel bezien</l>
+<l>Ende die vrouwen entie heeren</l>
+<l n="710">Cume consten zi hem bekeeren</l>
+<l>Uptie straten daer zi ghingen</l>
+<l>Sine moesten dore dringen</l>
+<l>So vele volcs was al daer</l>
+<l>Te hove ghingen si daer naer</l>
+<l n="715"><milestone unit="fol" n="4va"/> Open so stoeden al die doren</l>
+<l>Na des hoves toe behoren</l>
+<l>Ende na des daghes hoecheit</l>
+<l>Was thof niemen wederzeit</l>
+<l>Was hi cleene ofte groot</l>
+<l n="720">So ne was spise wijn no broot</l>
+<l>Hoy nochte voeder coren</l>
+<l>Die coninc die gaft al te voren</l>
+<l>Also langhe als duurde thof</l>
+<l>Dies men hem eere sprac ende lof</l>
+<l n="725">Verre ende wide in menich lant</l>
+<l>Alse die heeren soffisant</l>
+<l>Ghingen te hove uut ende in</l>
+<l>Daer toe gaf hi zinen zin</l>
+<l>Die borchgrave wie zi waren</l>
+<l n="730">Ende als hi die hoghe baren</l>
+<l>Niet ne kende zo heeft lucaen</l>
+<l>Also vele daer toe ghedaen</l>
+<l>Dat hi wiste wie zi waren</l>
+<l>Wel onthiltse die edele baren</l>
+<l n="735">Want het stoet hem wel te doene</l>
+<l>Den hertoge der borgenjoene</l>
+<l>Sach men daer van state groot</l>
+<l>Amelieur ende meinfroot</l>
+<l>Ghingen beide bi hem daer</l>
+<l n="740">Als twee heeren vorbaer</l>
+<l>Moy ende stout in haer ghebaren</l>
+<l>Maer hine kende die mordenaren</l>
+<l>Al daer niet in haer abijt</l>
+<l>Maer hi ondervant te diere tijt</l>
+<l n="745">Lucaen wie zi beide waren</l>
+<l>Want hi kende an zijn gebaren</l>
+<l>Amelieure harde wale</l>
+<l>Hi hadden te meneghen male</l>
+<l>Beide ghesproken ende ghesien</l>
+<l n="750">Ende volghedem so verre na dien</l>
+<l>Bi suptijlheden groot</l>
+<l>Dat hi hoorde meinfroot</l>
+<l>Heeten die bi hem ghinc</l>
+<l>Entie waerhede van der dinc</l>
+<l n="755">Heefti den borchgrave geseit</l>
+<l>Al die heeren wael ghemeit</l>
+<l>Hebben si meest oversien</l>
+<l>Men ghinc reeden cort na dien</l>
+<l>Seere ten etene waert</l>
+<l n="760">Want die coninc wide vermaert</l>
+<l>Ende zine heeren al te male</l>
+<l>Wouden in die hoghe zale</l>
+<l>Eten int openbaer</l>
+<l>Dies waren die stagen daer</l>
+<l n="765">Ghemaect an die taflen diere</l>
+<l><milestone unit="fol" n="4vb"/> Daer binnen dat die princhiere</l>
+<l>Entie vrouwen zitten souden</l>
+<l>Na dat zi waren ghehouden</l>
+<l>Van hoecheden ende van eeren</l>
+<l n="770">Doe zach men die grote heeren</l>
+<l>Uter capellen al te male</l>
+<l>Comen in die hoghe zale</l>
+<l>Bi den coninc lodewijc</l>
+<l>Ende tusschen tween coninghen rijc</l>
+<l n="775">Quam die jonchere wel ghedaen</l>
+<l>Karel die caluwe ghegaen</l>
+<l>Die also lanc was als die vader</l>
+<l>Der princhen kinder al te gader</l>
+<l>Quamen daer met hopen bi</l>
+<l n="780">Want alle gader wouden zi</l>
+<l>Ridders met kaerle wesen</l>
+<l>In ouden jeesten dat wi lesen</l>
+<l>Dat niemen ridder wesen mochte</l>
+<l>Vor dat hi ter wapinen dochte</l>
+<l n="785">Ende hi hadde des ridders slach</l>
+<l>Hoe vele datter ane ghelach</l>
+<l>Nu zijn zi ridders zonder zlaen</l>
+<l>Princhen kinder also zaen</l>
+<l>Alsi ter werelt zijn gheboren</l>
+<l n="790">Die ordine bringen zi met hem voren</l>
+<l>Dus es tvolc veredelt zeere</l>
+<l>Lodewijc die grote heere</l>
+<l>Dede eenen pellel spreiden daer</l>
+<l>Die van goude blicte claer</l>
+<l n="795">Ende daer up wapenen zinen sone</l>
+<l>Dien hi in den hals na tgone</l>
+<l>Slouch als hi was bereit</l>
+<l>Ende hevet hem gheseit</l>
+<l>Die poynte die daer hoorden an</l>
+<l n="800">Ende hieten wezen goet man</l>
+<l>Preus was die jonghe heere</l>
+<l>Die den vader dancte zeere</l>
+<l>Ende daer toe den andren heeren</l>
+<l>Diene holpen adobeeren</l>
+<l n="805">Cortelike waren ghinder</l>
+<l>Vele der groter heeren kinder</l>
+<l>Na kaerle ridder ghedaen</l>
+<l>Hogher ordine men daer ontfaen</l>
+<l>Meneghen zimplen ridder zach</l>
+<l n="810">Also menich ridders slach</l>
+<l>Was daer ghegeven in vele jaren</l>
+<l>Dies men vroylijc daer ghebaren</l>
+<l>Sach in die hoghe zale</l>
+<l>Die borchgrave zaecht al te male</l>
+<l n="815">Van den beghinne toten endt</l>
+<l>Dat hi van niemen was bekendt</l>
+</text>
+<!--</ENTRY>
+--></TEI.2>

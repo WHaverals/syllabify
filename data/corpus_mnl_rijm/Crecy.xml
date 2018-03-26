@@ -1,0 +1,220 @@
+<?xml version='1.0'?><!DOCTYPE TEI.2 PUBLIC '-//TEI P4//DTD Main Document Type//EN' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd' [<!ENTITY % TEI.prose 'INCLUDE'><!ENTITY % TEI.linking 'INCLUDE'><!ENTITY % TEI.figures 'INCLUDE'><!ENTITY % TEI.analysis 'INCLUDE'><!ENTITY % TEI.corpus 'INCLUDE'><!ENTITY % TEI.XML 'INCLUDE'><!NOTATION TEI-XML PUBLIC 'TEI P4' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd'><!-- internal INL dtd --><!ELEMENT b (#PCDATA)><!ELEMENT l (#PCDATA | b)*><!-- end of internal INL dtd -->]><TEI.2><!--<ENTRY id="i83"><teiHeader><fileDesc><titleStmt><title>Slag van Crecy</title>
+</titleStmt>
+<interpGrp type="pubYear_from"><interp value="1350"/></interpGrp>
+<interpGrp type="witnessYear_from"><interp value="1350"/></interpGrp>
+<interpGrp type="pubYear_to"><interp value="1400"/></interpGrp>
+<interpGrp type="witnessYear_to"><interp value="1400"/></interpGrp>
+<TITEL>Slag van Crecy</TITEL>
+<author>Onbekend</author>
+<AARD>Rijm</AARD>
+<BRON nr="D21">Oudenaarde, Stadsarchief, sign. onbekend (fragm.)</BRON>
+<DATUM>1350-1400</DATUM>
+<OMVANG>193 verzen</OMVANG>
+<BRON.OPM>E&eacute;n blad,; per bladzijde 2 kolommen resp. van 49, 49, 48 en 47 verzen.</BRON.OPM>
+<EDITIE>D.J. Van der Meersch (ed.): 'De slag van Crecy (1346). Fragment van een grooter rymwerk; voorafgegaen door een onderzoek of de Engelschen in dien slag kanonnen hebben gebruikt.' In: Belgisch Museum 8 (1844), 239-260 (254-260).</EDITIE>
+<STATUS>Kritisch</STATUS>
+<BRONMNW>56.85</BRONMNW>
+<BRONNEN>Oudenaarde, Stadsarchief, sign. onbekend (fragm.)</BRONNEN>
+</fileDesc>
+</teiHeader>
+--><text>
+<lg><l><pb n="254"/><milestone unit="fol" n="1ra"/> ...ve van Vaerwiic</l>
+<l>...rtvolc die grave rijc</l>
+<l>...de d'de onder hem tween</l>
+<l>...e man al in een</l>
+<l n="5">... de om victorie seere</l>
+<l>...ataelge een groot heere</l>
+<l>... die bisscop rike</l>
+<l>... Harendeel des ghelike</l>
+<l>...a hadsi onder bem</l>
+<l n="10">...te ic seker bem</l>
+<l>...ictorie gheven soude</l>
+<l>...ve die coninc woude</l>
+<l><edition n="255"/>...nafste scare</l>
+<l>... orbare</l>
+<l n="15">... onder hem</l>
+<l>... ic seker bem</l>
+<l>... victorie gheven soude</l>
+<l>...od ... ic seker bem</l>
+<l>... beeden siden</l>
+<l n="20">... was ghescart om stride</l>
+<l>... inghelsche coninc</l>
+<l>...ich man an sinen rinc</l>
+<l>...ataelge des ghelike</l>
+<l>... nich prince rike</l>
+<l n="25">...at an elke side</l>
+<l>... eenen fellen stride</l>
+<l>...dd' up dien dach</l>
+<l>... die vele mach</l>
+<l>... grote provaetsen dede</l>
+<l n="30">... bleef up die heide mede</l>
+<l>... scade ende groot iammer was</l>
+<l>...de leue siit seker das</l>
+<l>... scat van gaude</l>
+<l>...mer lettel vinden soude</l>
+<l parse= "ignore" n="35">rauwich haren heere</l>
+<l>... wart menich man in seere</l>
+<l>... gheheeten mijn here Lodewijc</l>
+<l>...</l>
+<l>... buten Vlaenderen verdreven</l>
+<l n="40">... siinder save bleven</l>
+<l>... was up dien dach</l>
+<l>...ele vromicheden an lach</l>
+<l>... hier na horen silt</l>
+<l>...hare toe gheven wilt</l>
+<l n="45">... Vranken lant</l>
+<l>...one ridder metter hant</l>
+<l>... hem in den hals den slach</l>
+<l>... hem peinsen om dien dach</l>
+<l>... ridder wart ghedaen</l>
+<l parse="ignore" n="50"><pb n="256"/><milestone unit="fol" n="1rb"/> Alle die pointe dedi hem verstaen</l>
+<l>Die ten ridderscepe toehoren.</l>
+<l>Tweldoen haddi sint vercoren;</l>
+<l>Siin lant hilti wel te rechte;</l>
+<l>Sine riddren no sine leenknechten</l>
+<l n="55">Ne liet hi veronrechten niet;</l>
+<l>Ontfarmich was hi up al siin diet;</l>
+<l>Wie dat an hem ghenade begherde</l>
+<l>Weet dat hise hem niet ne werde,</l>
+<l>Ofte hine hadde al te vele mesdaen.</l>
+<l n="60">Tlant wan hi sint, doe ic hu verstaen,</l>
+<l>Daer siin vader huut was verdreven.</l>
+</lg>
+<lg><l><b>N</b>u moetic u te kennene gheven</l>
+<l>Hoet heer vernaderde an elke side:</l>
+<l>Het maecte hier eenen fellen stride.</l>
+<l n="65">Die genevoysen, metten ghescutte,</l>
+<l>Trocken vor theer, alsoet was nutte,</l>
+<l>Om dinghelsche te wederstane.</l>
+<l>Dinghelsche quamen vaste ane;</l>
+<l>So daden die fransoyse desghelike.</l>
+<l n="70">Twee overmoedighe princen rike</l>
+<l>Leeden theer voren an beeden siden.</l>
+<l>Men ghincker scieten ende vaste striden.</l>
+<l>Die quareelen entie strale</l>
+<l>Vloghen upwart ende te dale,</l>
+<l n="75">Alse dicke als haghel ofte snee.</l>
+<l>Menich wert daer ghevee,</l>
+<l>An beeden siden, up dien dach,</l>
+<l>Dar grote riicheit an beeden lach.</l>
+<l><edition n="257"/>Men vacht daer al te bitterliken</l>
+<l n="80">Niemen wilde daer anderen wiken;</l>
+<l>Men cloefder menich beckeneel,</l>
+<l>So dat dersenen ende tbloot al gheel</l>
+<l>Uten hoefde moesten vallen.</l>
+<l>Van bitteren stride hoordi nie callen:</l>
+<l n="85">Hi was so fel ende so onghier.</l>
+<l>Huten helmen spranc dat vier.</l>
+<l>Menich lachame wert daer dorsteken</l>
+<l>Datter die darmen huut moesten leken;</l>
+<l>Men slough af aerm ende been;</l>
+<l n="90">Die striit verbitterde al in een;</l>
+<l>Men slougher menighen onder voet,</l>
+<l>Die nemmermee daer na up ne stoet.</l>
+<l>Theer quam te hope an beeden siden;</l>
+<l>Niemen wilde daer anderen miden.</l>
+<l n="95">Men vachter bitterlike vort ende weder;</l>
+<l>Die swerde ghinghen up ende neder.</l>
+<l>Elc slouch daer anderen seere;</l>
+<l>Die perde liepen al sonder heere.</l>
+<l><milestone unit="fol" n="1va"/> Tghecriisch ende tgheroup was groot</l>
+<l n="100">Om die vreese van der doot,</l>
+<l>Die daer menich man ontfinc.</l>
+<l>Ghine saecht nie so bitter dinc</l>
+<l>Onder slaen ende onder steken;</l>
+<l>Tbloot liep daer gheliic beken</l>
+<l n="105">Dit was bitter an te siene.</l>
+<l>Ic waenre v&supc; warven tiene</l>
+<l>Storven up den selven dach,</l>
+<l>Die men langhe wel claghen mach.</l>
+<l>So overbitter was die striit;</l>
+<l n="110">Ende hi gheduerde langhe tiit.</l>
+<l>Stekende, slaende, slach in slach,</l>
+<l>Niemen dede anderen gheen verdrach.</l>
+<l>Menich hant menich been</l>
+<l>Slougher men af al in een;</l>
+<l n="115"><pb n="258"/> Menich hoeft menich lichame</l>
+<l>Was daer dor carpult onbequame,</l>
+<l>So datter tbloot door die maelgen dranc</l>
+<l>Dese striit was stuer ende even stranc.</l>
+<l>Daer staerf menich in dat tempeest,</l>
+<l n="120">Mer over die Fransoysen ghinct meest,</l>
+<l>Dat scade was ende iammer groot.</l>
+<l>So menich edelman bleefer doot,</l>
+<l>Dat ict ghetal niet can ghenomen;</l>
+<l>Men sacher deen in dander dromen,</l>
+<l n="125">Ende vaste up mallinc anderen slaen,</l>
+<l>Gheliic dat smede siin ghestaen</l>
+<l>In smessen ende up aenbilte smeden;</l>
+<l>Also vachtmer te menigher steden,</l>
+<l>Altoes slaende slach in slach;</l>
+<l n="130">Niemen dede anderen gheen verdrach;</l>
+<l>Elc slouch vaste in den hoep.</l>
+<l>Daer cochte menich dieren coep</l>
+<l>Dien metten selven moeste betalen.</l>
+<l>Daer moeste menich de doot behalen,</l>
+<l n="135">Dat scade was ende iammerhede</l>
+<l>Dat si storven te diere stede,</l>
+<l>Sine hadden ghestorven vor sarasine.</l>
+<l>God losse die sielen huut aller pinen</l>
+<l>Si siin met Gode, hopic wel seere;</l>
+<l n="140">Si storven met haren rechten heere.</l>
+<l>Daer starf die coninc van Beyhem</l>
+<l>Ende menich man met hem;</l>
+<l>Daer storven hertoghen ende graven,</l>
+<l>Ende baenruetsen, rike van haven,</l>
+<l n="145">Ridderen, poorteren ende menich man,</l>
+<l>Die ic niet alle ghenomen can.</l>
+<l><milestone unit="fol" n="1vb"/> Dat dinghelsche niemen save lieten</l>
+<l>Des moghen si hem selven witen,</l>
+<l><edition n="259"/>Dat daer so menich prince g[root]</l>
+<l n="150">Moest bederven in siin bloot.</l>
+<l>God hebbe die sielen van [allen!]</l>
+<l>Hier af ne willic nemmeer [callen.]</l>
+</lg>
+<lg><l><b>M</b>aer die coninc van Ing[helant]</l>
+<l>Stichte vaste roe[f ende brant.]</l>
+<l n="155">Weet dat hi doe nam sine [vaert]</l>
+<l>Lanx ter zee, te Calays [waert:]</l>
+<l>Sine overmoedichede w[as groot:]</l>
+<l>Menighen brochti ter [doot.]</l>
+<l>Dus voer hi voert, totter [tijt]</l>
+<l n="160">Dat die coninc vor Calays [rijt;]</l>
+<l>Voort datti met rove ende [brande]</l>
+<l>Alomme woeste, bin den la[nde]</l>
+<l>Menich dorp ende menich st[ede.]</l>
+<l>Buten Calais op die heide</l>
+<l n="165">Ghinc dinghelsche coninc do[e campieren.]</l>
+<l>Hi swoer datti in gheere m[anieren]</l>
+<l>Nemmermee ne sciede van [dare,]</l>
+<l>Hine souder ligghen ende sine [scare,]</l>
+<l>Tote dat [hi] die stede ghew[an.]</l>
+<l n="170">Tlant saelgierdi verre [dan,]</l>
+<l>Die wile dat hi vor Calais [lach:]</l>
+<l>Hi lacher voren menighen [dach.]</l>
+<l>Int iaer Ons Heeren, wien da[t wondert,]</l>
+<l>Alsmen screef .M. ende CCC</l>
+<l n="175">Ende dartoe XLVI mede,</l>
+<l>Doe quam die coninc voer die [stede,]</l>
+<l>Daer hi voren lach .i. iaer,</l>
+<l>Drie weken min, ic segghet [claer.]</l>
+<l>Up den troest van den Vlami[nghen]</l>
+<l n="180">Bestont die coninc so hoghe d[inghen,]</l>
+<l>Als datti die poort beleide,</l>
+<l>Om dat hem Vlaendren so sco[ne seide]</l>
+<l><edition n="260"/>Te sorcorsene van dranke, v[itaelge]</l>
+<l>Ende volx ghenouch, tsiner b[ataelge.]</l>
+<l n="185">Si hilden werdich wel haer wo[rt.]</l>
+<l>Te Greveninghe, vor die p[ort,]</l>
+<l>Brochte menich hinghels [ghelt.]</l>
+<l>Van hongher warsi alle ghef[elt;]</l>
+<l>Sine hadden bin langhen n[iet gheten.]</l>
+<l n="190">Ic doe u wel die warheit weten,</l>
+<l>Dat dinghelsche gaven om [broot]</l>
+<l>.i. greepsem swarts ghelts, [dor noot.]</l>
+<l parse="ignore">Weet wie dat hem vitael[gierde.]</l>
+<l></l>
+</lg>
+</text>
+<!--</ENTRY>
+--></TEI.2>

@@ -1,0 +1,1508 @@
+<?xml version='1.0'?><!DOCTYPE TEI.2 PUBLIC '-//TEI P4//DTD Main Document Type//EN' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd' [<!ENTITY % TEI.prose 'INCLUDE'><!ENTITY % TEI.linking 'INCLUDE'><!ENTITY % TEI.figures 'INCLUDE'><!ENTITY % TEI.analysis 'INCLUDE'><!ENTITY % TEI.corpus 'INCLUDE'><!ENTITY % TEI.XML 'INCLUDE'><!NOTATION TEI-XML PUBLIC 'TEI P4' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd'><!-- internal INL dtd --><!ELEMENT b (#PCDATA)><!ELEMENT l (#PCDATA | b)*><!-- end of internal INL dtd -->]><TEI.2><!--</fileDesc>
+</teiHeader>
+--><group><head type="group"><pb n="1"/> OUD-VLAEMSCHE LIEDEREN EN ANDERE GEDICHTEN. - GEBEDEN.</head>
+<text>
+<lg1><head type="comment">[Miserere mei]</head>
+<lg2><head type="strophe">                <b>Miserere mei Deus.</b> </head>
+<l><i>Miserere mei, Deus</i>,</l>
+<l>Dat in ydelheden dus</l>
+<l>Hebbe versleten mijn jonghe leven;</l>
+<l>Vader, dat wil mi nu vergheven</l>
+<l n="5">Na dijnre groter ontfaermicheit,</l>
+<l>Sie op mi, vader, het es mi leit</l>
+<l>Dat mi niet leet ghenouch en zi</l>
+<l>Dat ic mesdaen hebbe jeghen di.</l>
+<l>Recht als een worm van groter onwerde</l>
+<l n="10">Boghe ic mijn aenscijn totter erde;</l>
+<l>Ik bem niet wert dat ic mijn oghen</l>
+<l>Di zoude sonder tranen toghen,</l>
+<l>Doch biedic di mijn handen beide:</l>
+<l>Help mi, mijn vader, dat van mi sceide</l>
+<l n="15">Dese arde memorie, en mac mi zoet,</l>
+<l>So offere ic di der traenen vloet.</l>
+</lg2>
+<lg2><head type="strophe"><pb n="2"/>                 <i>Et secundum multitudinem</i>...</head>
+<l>An de duer die menichte dijnre ghenaden</l>
+<l>Wilt mine quaetheit mi ontladen;</l>
+<l>Ic scame mi dat ic bem dijn kint</l>
+<l n="20">Want ik hebbe di niet ghemint;</l>
+<l>Ic scame mi dattu mi hebs ghemaect</l>
+<l>Ende ic so dickwile duus hebbe mesaect.</l>
+<l>Ic scame mi dattu mi in dit leven</l>
+<l>So vele dier gracien hebs ghegheven,</l>
+<l n="25">Ende ic di hebbe ghedanct so cleine.</l>
+<l>Ic scame mi dattu mi scieps so reine</l>
+<l>Ende ic mi voor dine hoghen</l>
+<l>Van zonden so walghelic moe toghen;</l>
+<l>Doch roupic an dine ontfaermichede,</l>
+<l n="30">Doe of al mine quaethede;</l>
+<l>Want, vader, saltu nu willen sien</l>
+<l>So mine quaetheit van mi vlien.</l>
+</lg2>
+<lg2><head type="strophe">                <i>Amplius lava me</i>...</head>
+<l>Ander waerf dwa mi van sonden,</l>
+<l>So dat ic suuer mach worden vonden.</l>
+<l n="35">Van scaemten bem ic weder sleghen;</l>
+<l>Du hebs zo minlic mi gedweghen</l>
+<l>Met uwen werden helichen bloede;</l>
+<l>Hoe mach mier herten dan zijn te moede</l>
+<l><edition n="3"/>Dat ic dier smerte bem ocusoen,</l>
+<l n="40">Daer ghi uwe side hebt omme ondoen,</l>
+<l>Ende stuertet uwer herten medicine</l>
+<l>Om of te dwane de zonden mine.</l>
+<l>Vader, ne laetti niet verdrieten</l>
+<l>Dat ic dijnre gracie nu wille ghenieten;</l>
+<l n="45">Jonne mi dat ic di offeren mach</l>
+<l>Sulc dunche tranen op desen dach,</l>
+<l>Mids dijrre hulpen dat ic mach dwaen</l>
+<l>Mine ziele; ic hebbe so vele mesdaen.</l>
+</lg2>
+<lg2><head type="strophe">                <i>Quoniam iniquitatem meam</i>...</head>
+<l>Ic bekenne mine quaetheit, bedi</l>
+<l n="50">Mine sonden sijn altoos jeghen mi;</l>
+<l>Al zoude mi gracie van di ghescien,</l>
+<l>Mine sonden doen mi van duechden vlien.</l>
+<l>Al stiers du duecht in mine memorie</l>
+<l>Ic hebbe ter daet zo crancke victorie</l>
+<l n="55">Dat ic te sonden eer bem bereet</l>
+<l>Dan duecht te doene, dat es mi leet,</l>
+<l>Ende, vader, in orcondscepen van rauwen</l>
+<l>Wil ic die oghen mijn bedouwen,</l>
+<l>Mids dijnre ghenaden, zo met tranen,</l>
+<l n="60">Dat ic mijn quaetheit of wil planen.</l>
+<l>Vader, hoor dijns kints gheclach,</l>
+<l>Dine grote ontfaermicheit vermach</l>
+<l>Te gansene onser zielen allende;</l>
+<l>Ets recht, dine macht es zonder hende.</l>
+</lg2>
+<lg2><head type="strophe"><pb n="4"/>                 <i>Tibi soli peccavi</i>...</head>
+<l n="65">                Di alleene hebbic mesdaen,</l>
+<l>Dies hebben die zonden mi bevaen,</l>
+<l>Ende bringhen mi thu uut rechten noot;</l>
+<l>Ic legghe mijn hooft vor uwen scoot;</l>
+<l>Ic en dar niet toghen dat anscijn mijn.</l>
+<l n="70">Ghef mi die benedixie dijn</l>
+<l>Met dijnre almachticher rechter hant;</l>
+<l>Stappans so sal die viant,</l>
+<l>Die mi bedroghen heift, van mi vlien,</l>
+<l>Sijns raets en willic nemmermeere plien;</l>
+<l n="75">Maer, hemelsch vader, dattu dijns kints</l>
+<l>Di alzo vaderlike bewints,</l>
+<l>Al eist dat ic meer valle of sneve</l>
+<l>Dat ic mi zo te di waert gheve,</l>
+<l>Als comen zal mijn laetste dach</l>
+<l n="80">Dat ic dijns ziens ghebruken mach.</l>
+</lg2>
+<lg2><head type="strophe">                <i>Ecce enim in iniquitatibus</i>...</head>
+<l>                Ach, vader, sich tot hier beneden;</l>
+<l>Ic bem ontfaen in quaetheden,</l>
+<l>Ende in sonden ontfanc mi</l>
+<l>Mijn moeder, dies ic noch zondich zi.</l>
+<l n="85">Niet, vader, dat ic mi te eenighe stonden</l>
+<l>Wille excuseren voor di van zonden;</l>
+<l><edition n="5"/>Want du in desen allendichen dale</l>
+<l>Ons quaems verlossen al te male</l>
+<l>Met onghetalliker bitterheit.</l>
+<l n="90">Dine edele teedre meinsghelicheit</l>
+<l>Was ghevanghen ende verraden,</l>
+<l>Bespot, ghegheselt ende verladen</l>
+<l>Metten cruce ende naect gestrect,</l>
+<l>Ghecroont, ghenaghelt ende gherect;</l>
+<l n="95">Tbloet van den helichen wonden dine</l>
+<l>Was alre zielen medecine.</l>
+</lg2>
+<lg2><head type="strophe">                <i>Ecce enim</i>...</head>
+<l>                Sich, want du de waerheit minnets,</l>
+<l>Donsekere dinghen du bekinnets,</l>
+<l>Dine heliche wise secrete maren</l>
+<l n="100">Wiltu nu vriendelike openbaren;</l>
+<l>Want du spreics in mier herten gront,</l>
+<l>Ende maecs mi mijnre zonden cont,</l>
+<l>Ende raeds mi als een vader goet</l>
+<l>Dat ic die zonden laten moet.</l>
+<l n="105">O goedertiere, o moghende vader,</l>
+<l>Ghedocht niet dat ic werde quaeder;</l>
+<l>Mine zonden verweghen mi zeere.</l>
+<l>Ic en souds ghenesen nemmermeere</l>
+<l>Begrepe mi dine gherechticheit,</l>
+<l n="110">Maer onder dine groote ontfaermicheit</l>
+<l>Bedec ic mijn hooft en al mijn lede,</l>
+<l>Daer moestu mi nu bescudden mede.</l>
+</lg2>
+<lg2><head type="strophe"><pb n="6"/>                 <i>Asperges me, Domine</i>,...</head>
+<l>                Besperze mi, heere, met ijsopen,</l>
+<l>Ic worde ghezuuert in dat dopen.</l>
+<l n="115">Du zuls mi dwaen, danne wordic mee</l>
+<l>Ghezuvert, wit ja boven den znee;</l>
+<l>Dus zal die cracht der gracien dijn</l>
+<l>Verlichten die donkere sinnen mijn;</l>
+<l>Dan zal mijn werc ende ooc mine wort</l>
+<l n="120">Dinen lof in vruchten bringhen vort.</l>
+<l>O vader, verleene; o vader, ghehinghe</l>
+<l>Dat ic mi so met duechden minghe</l>
+<l>In al dat ic te doene besta,</l>
+<l>Dat mi dijn gracie niet en ontga,</l>
+<l n="125">Ende dat voort al die ghewerke mijn</l>
+<l>Di zo bequamelic moeten zijn</l>
+<l>Dat ic die ziele, die du in mi</l>
+<l>Sendest, moete weder senden di.</l>
+</lg2>
+<lg2><head type="strophe">                <i>Auditui meo dabis</i>...</head>
+<l>Minen hoorne zaltu dan gheven</l>
+<l n="130">Blijscap, glorie ende eeuwich leven,</l>
+<l>Ende mine verhoochde omoediche leden</l>
+<l>Sullen verbliden in euwicheden.</l>
+<l>Lof, hemelsch vader, ghebenedijt,</l>
+<l>Die dinen aenbeders zo milde zijt.</l>
+<l n="135"><pb n="7"/> Lof, vader, die ons van onsen mesdaden</l>
+<l>So goedertielic wils ontladen.</l>
+<l>Lof, vader, al sijn wi di ontgaen,</l>
+<l>Ontfaermelike wiltu ons ontfaen;</l>
+<l>Lof zullen di gheven alle monden.</l>
+<l n="140">Du en wils gheene wrake van onse zonden,</l>
+<l>Maer dat wi ons te di waert keeren,</l>
+<l>Du verlaests ons van allen zeeren,</l>
+<l>Niet als dijn kint, maer als dijn knecht,</l>
+<l>Doe nu dijn vaderlike recht.</l>
+</lg2>
+<lg2><head type="strophe">                <i>Averte faciem tuam</i>...</head>
+<l n="145">Keere van den onreinen zonden mijn</l>
+<l>Dijn godlic glorieus anscijn,</l>
+<l>Ende doe al myne quaetheit of;</l>
+<l>Mijn mont zal condichen dinen lof.</l>
+<l>Met zonden bem ic voor di bescaemt,</l>
+<l n="150">Want zonde di niet te siene betaemt;</l>
+<l>Vader, om dat ic voor di kniele,</l>
+<l>Suvere van zonden mijn aerme ziele;</l>
+<l>Dine name werter mede gheeert;</l>
+<l>Dinen lof werter mede ghemeert.</l>
+<l n="155">Ontfaermicheit es dijn proper werc,</l>
+<l>Dinen mueghende rechtren arem trec,</l>
+<l>Hef up te mi waert, vadere mijn,</l>
+<l>Ic eesghe de benedixie dijn,</l>
+<l>Niet naer mijns levens waerdicheit,</l>
+<l n="160">Maer naer dijn groote ontfaermicheit.</l>
+</lg2>
+<lg2><head type="strophe"><pb n="8"/>                 <i>Cor mundum crea in me, Deus</i>,...</head>
+<l>Scep een reyn herte in mi, mijn God,</l>
+<l>Ende vernieuwe na dijn ghebod</l>
+<l>Eenen rechten gheest in mine adren,</l>
+<l>Alzo du onzen houden vadren</l>
+<l n="165">Met gracien ghiftes menichertier.</l>
+<l>So wes voort, vader, mijn bestier</l>
+<l>Dat ic mach als een kint vercoren</l>
+<l>Nieuwen lof di bringhen voren;</l>
+<l>Vader, al dinc es in u macht,</l>
+<l n="170">Alleene so hebdijt al ghewracht,</l>
+<l>Al dinc hebdi ghemaect van niet,</l>
+<l>Al dinc weetti alsoot ghesciet.</l>
+<l>Du weits den wille, vader, van mi,</l>
+<l>Dats beter te werdene dan ic zi,</l>
+<l n="175">Alzo ghewaerlike als dat es</l>
+<l>Di kenlic, zo wil mi jonnen des.</l>
+</lg2>
+<lg2><head type="strophe">                <i>Ne projicias me a facie</i>...</head>
+<l>Van dinen ansichte en werp mi niet,</l>
+<l>Ende emmer, vader, wes mi ghesciet,</l>
+<l>Dinen helichen gheest en doe</l>
+<l n="180">Niet van mi, want ic verlater mi toe.</l>
+<l>Hets al mijn troost, hets al mijn raet,</l>
+<l>Mijn ziele en heeft anders toeverlaet,</l>
+<l><edition n="9"/>Mijn sinnen zijnre bi ghevoet,</l>
+<l>Mijn commer esser mede gheboet;</l>
+<l n="185">Ne waer den troost dijns helichs gheest</l>
+<l>So leifdic recht ghelic der beest.</l>
+<l>Daer omme, vader goedertiere,</l>
+<l>Ontsteict mijn herte met dinen viere,</l>
+<l>Ende maecter of hu majesteit,</l>
+<l n="190">Ende wilt al mine onsalicheit</l>
+<l>Met dijnre vaderlicheit verdriven;</l>
+<l>Want emmer dijn kint so wil ic bliven.</l>
+</lg2>
+<lg2><head type="strophe">                <i>Redde mihi letitiam</i>...</head>
+<l>                Ghef mi dijnre zalicheit, bliscap weder,</l>
+<l>Want anders blijft al mijn vruecht ter neder,</l>
+<l n="195">Ende metten princepalen gheest</l>
+<l>Mac mi vast, vader, dat biddic meest.</l>
+<l>Ic belije di openbaer</l>
+<l>Met menichfoudichen sonden zwaer,</l>
+<l>So hebbic mijnre natueren crachte</l>
+<l n="200">So zeere ghecranct bi dache, bi nachte,</l>
+<l>Ende ooc mijn siele so seere besmedt,</l>
+<l>Ende duechden hebbic so vele verledt;</l>
+<l>Mijn daghen ne mughens niet verhalen,</l>
+<l>Maer dijn ontfaermicheit moet betalen.</l>
+<l n="205">Dat leden es, vader, dat wil vergheven,</l>
+<l>Ghef gracie mi, so sal mijn leven,</l>
+<l>Dat nu es vul der zonden vloet,</l>
+<l>Van sonden keeren ende worden goet.</l>
+</lg2>
+<lg2><head type="strophe"><pb n="10"/>                 <i>Docebo iniquos</i>...</head>
+<l>                Ic sal leeren dine salichen weghen</l>
+<l n="210">Den quaden, die zijn te sonden gheneghen,</l>
+<l>Ende donghenadiche werden bekeert</l>
+<l>Tote di, dus wert dine name ghemeert,</l>
+<l>Ende bi der gracien van di alleyne,</l>
+<l>Die al dinc uphout, groot ende cleyne.</l>
+<l n="215">Vader, du en salt dan niet versmaden,</l>
+<l>Bi dijnre grondelozer ghenaden,</l>
+<l>Dat ic mi gherne dijns wercs bewinde;</l>
+<l>Want ghelijc dinen liefsten kinde</l>
+<l>Soudic di gherne ghelieven, vader.</l>
+<l n="220">Mijn vleesch, mijn zenuwen ende mine ader</l>
+<l>Biedic di over di zonden mijn,</l>
+<l>Wilt mijns alzo ontfaermich sijn;</l>
+<l>Dat ic dine benedixie ontfa,</l>
+<l>Eer ic nu, vader, van voor di ga.</l>
+</lg2>
+<lg2><head type="strophe">                <i>Libera me de sanguinibus</i>...</head>
+<l n="225">                Hoet van den sonden mi, mijn God,</l>
+<l>God, mijnre salicheden ghebod,</l>
+<l>Ende mijn tonghe sal sijn bereit,</l>
+<l>Verhoghende dine gherechticheit.</l>
+<l>Sonden haten ende minnen die duecht</l>
+<l n="230">Begheric, vader, want ghijt vermuecht;</l>
+<l parse="ignore"><edition n="11"/>Laet mi nemmeer di vremde werden,</l>
+<l>Niet meer en laet mi van di gaen;</l>
+<l>Maer wil mi in dijn huus ontfaen.</l>
+<l>Mackt mi so besich voort met di</l>
+<l n="235">Dat ic dijns nemmermeer ledich en zi;</l>
+<l>Du best mijn vader, mir zielen glorie;</l>
+<l>Com, mac dijn woonst in mine memorie,</l>
+<l>Mijn herte al gheel te di waert nemt,</l>
+<l>Niet vroet ghenouch ic se te houdene bem.</l>
+</lg2>
+<lg2><head type="strophe">                <i>Domine, labia mea aperies</i>...</head>
+<l n="240">Vader, ondoe die lippen mijn,</l>
+<l>Mijn mont sal condichen den lof dijn.</l>
+<l>Dine gherechticheit sal ons horen;</l>
+<l>Dine ontfaermicheit al te voren</l>
+<l>Sal ons vergheven, ende dine ghenaden</l>
+<l n="245">Sullen ons ontfaen, van sonden ontladen;</l>
+<l>Dine gracie die zal ons gheven</l>
+<l>Nieuwe ghiften om salichlic voort te leven.</l>
+<l>Lof, vader, van allen monden gheseit,</l>
+<l>Dine grondeloser ontfaermicheit;</l>
+<l n="250">Lof zijn di alle tonghen scoudich</l>
+<l>Van dijnre gracien menichfoudich;</l>
+<l>Elc voijs met herten lof spreken zal,</l>
+<l>Dinre groter ghenaden zonder ghetal.</l>
+<l>Lof dijnre overvloijender duecht,</l>
+<l n="255">Daer ghi ons mede behouden muecht.</l>
+</lg2>
+<lg2><head type="strophe"><pb n="12"/>                 <i>Quoniam si voluisses</i>...</head>
+<l>Vader, hadstu ghewilt bedi,</l>
+<l>Offerande hadstu gheat van mi;</l>
+<l>Emmer ne saltu niet verbliden</l>
+<l>In dier offerande overliden;</l>
+<l n="260">Doch, lye ic, hets mier sonden scult,</l>
+<l>Maer, vader, die alle dinghen vervult</l>
+<l>Met uwer vulmaectheit zonder beghin,</l>
+<l>Wies ic voor di in fauten bin,</l>
+<l>Vuldoet, want niement el en can.</l>
+<l n="265">Mi rauwet dat ic niet eer en began</l>
+<l>Te di te commene om ootmoet;</l>
+<l>Sent in mi dijnre minnen gloet,</l>
+<l>Ende doe mi laten so menighen traen</l>
+<l>Dat ic mijn ziele so reine mach dwaen,</l>
+<l n="270">Dat di mijn offeren si bequame,</l>
+<l>Dor dijnre ontfaermicheden name.</l>
+</lg2>
+<lg2><head type="strophe">                <i>Sacrificium Deo spiritus</i>...</head>
+<l>Offerande es Gode een gheest bedrouft,</l>
+<l>Want sondichen meinsghen rouwe behouft;</l>
+<l>Omoedich herte met rauwen gheladen,</l>
+<l n="275">God Vader, dat saltu niet versmaden.</l>
+<l>Mijn herte es drouve ende ooc mijn sin</l>
+<l>Es drouve dat ic niet drouvere en bin;</l>
+<l><edition n="13"/>Mijn vois laet voor di comen, vader,</l>
+<l>Mijn woort, mijn peinsinghe al te gader,</l>
+<l n="280">Dat hem gheboocht heift ende ghespreet,</l>
+<l>Moete voor di rechtelijc zijn gheleet,</l>
+<l>So di bequam dat Abel</l>
+<l>Offerde, so wil nu alzo wel</l>
+<l>Van mi ontfaen bi dijnre ghenaden</l>
+<l n="285">Mijn bidden ende al mijne weldaden,</l>
+<l>Die niet sijn wert, of al te cleyne,</l>
+<l>Dat ic met rechte voor di beweyne.</l>
+</lg2>
+<lg2><head type="strophe">                <i>Benigne fac, Domine</i>,...</head>
+<l>Mac, Heere goedertierlike,</l>
+<l>In dinen wille van duechden rike</l>
+<l n="290">Sijon, dat moghen werden ghesticht,</l>
+<l>Jherusalems mueren ende weder ghericht.</l>
+<l>Ontfaermicheit hebstu ye ghedaen;</l>
+<l>Du daets Lazaruse up staen,</l>
+<l>Die ziele sendestu in hem;</l>
+<l n="295">Sich up mi, vader, want ic bem</l>
+<l>Lazarus die hem vor di strect.</l>
+<l>Mine ziele roupt om te sine verwect,</l>
+<l>Ende ic zal na mijn up verstaen</l>
+<l>Mids dijnre gracie duecht aenvaen,</l>
+<l n="300">Ende betren die mesdaden mijn;</l>
+<l>Dan zal mijn ziele dine wonste zijn,</l>
+<l>Ende mijn lechame zal zijn een stede,</l>
+<l>Beterende van dat zoe ye mesdede.</l>
+</lg2>
+<lg2><head type="strophe"><pb n="14"/>                 <i>Tunc acceptabis sacrificium</i>...</head>
+<l>Danne saltu ontfaen te hande</l>
+<l n="305">Der gherechticheden offerande,</l>
+<l>Ende alle duechdelike ouffeninghen</l>
+<l>Sal men di offeren ende vor di bringhen.</l>
+<l>Danne zal men setten up dinen outaer</l>
+<l>Calveren, dat werden ghewerken claer;</l>
+<l n="310">Dus zullen wi gracie an di verwerven,</l>
+<l>Dan zullen wi leven ende sonder sterven</l>
+<l>Vertrecken van desen allendichen dale</l>
+<l>In dijnre eeuwicher glorien zale;</l>
+<l>Daer zullen wi scouwen, vader, in di</l>
+<l n="315">Dat anscijn, dat zo vul glorien zi,</l>
+<l>Dies inghel no meinsghe en can versaden.</l>
+<l>Amen, vader, bi dijnre ghenaden,</l>
+<l>Ende alle die gone, die des begheren,</l>
+<l>Ne wil hem dinen troost niet weren.</l>
+</lg2>
+<lg2><head type="strophe">                <i>Gloria patri et filio</i>...</head>
+<l n="320">Glorie di, helich vader, zone,</l>
+<l>Helich gheest, een God in .III. persone;</l>
+<l>Glorie der helicher moeder maghet,</l>
+<l>Die ons den viant heeft verjaghet.</l>
+<l>Glorie al der inghelen coren,</l>
+<l n="325">Die te dinen rike behoren.</l>
+<l><edition n="15"/>Glorie den apostelen dijn,</l>
+<l>Die hen verbliden in dijn anscijn.</l>
+<l>Glorie dinen helichen maertelaren,</l>
+<l>Die dinen weghe, hier volghende waren.</l>
+<l n="330">Glorie dinen helichen maechden,</l>
+<l>Die di van levene hier wel beaechden;</l>
+<l>Glorie den apostelen, die di</l>
+<l>Hier wel in minnen wel bleven bi;</l>
+<l>Glorie nu ende tallen tiden</l>
+<l n="335">Hem allen, vader, in di verbliden.</l>
+</lg2>
+<lg2><head type="strophe">                <i>Sicut erat in principio</i>...</head>
+<l>Alzoot was int beghin ende es,</l>
+<l>Ende bliven zal, wien twivelt des,</l>
+<l>God bider werelden de werelden al,</l>
+<l>Elke tonghe di loven zal.</l>
+<l n="340">Dijnre glorie ende dijnre ghewerken,</l>
+<l>Dijnre gheboden ende dijnre kerken,</l>
+<l>Dijnre meinschen ende dijnre dieren,</l>
+<l>Dijnre zee ende dinen revieren,</l>
+<l>Dijnre boome ende dijnre vrucht,</l>
+<l n="345">Dijnre winde ende dijnre lucht,</l>
+<l>Dijnre mane ende dijnre zonnen,</l>
+<l>Ende al dat wi niet nomen connen:</l>
+<l>Hemelen, sterren, planeten ende al,</l>
+<l>Vader, dies men di loven zal,</l>
+<l n="350">Ende boven al voor al gheseit</l>
+<l>Dijnre grondeloser ontfaermicheit.</l>
+</lg2>
+</lg1>
+</text>
+<text><lg1><head type="comment"><pb n="16"/>                 <b>Gebed.</b> </head>
+<lg2><l>o Glorieuse, almoghende God,</l>
+<l>Ic roukelos zondelic worm glod</l>
+<l>Scame mi tote di te segghene Vader;</l>
+<l n="355">Want ic mijn leven al te gader</l>
+<l>So hatelic zie ende zo onreine,</l>
+<l>Van zonden zwaer, van duechden zo cleine,</l>
+<l>Tote nu van minen eersten beghinne;</l>
+<l>Ydele ghenouchte ende werlike minne,</l>
+<l n="360">Sondelic werc zo vele gheantiert.</l>
+<l>Di, vader, onwaerdelic ghepiert,</l>
+<l>Recht smadelijc uter herten mijn,</l>
+<l>Ende jeghen den helichen wille dijn</l>
+<l>Ghemint in zonden boven di.</l>
+<l n="365">Ic kenne daer bi onwaerdich mi</l>
+<l>Te secghene Vader; in dar, in can,</l>
+<l>Ende, lacen, hoe zal ic secghen dan:</l>
+<l parse="ignore">                <i>Pater noster.</i> </l>
+</lg2>
+<lg2><l>Ic aerm sondare wel zeere mesmaect,</l>
+<l>Wel aerme weze, verdoolt, ontraect,</l>
+<l n="370">Wel aerme versmade creature,</l>
+<l>Onnutte worm, die de figure</l>
+<l>Van mijns Godlijcs vader beilde,</l>
+<l>Omme dese keytiviche erdsghe weilde,</l>
+<l><edition n="17"/>So vremde bem worden dat ic zijn name</l>
+<l n="375">Niet nomen en dar van rechte scame;</l>
+<l>No hem ne ghelike, no hem ne minne,</l>
+<l>No hem ne ghelieve, no hem ne kinne,</l>
+<l>No hem ne ontsie, no hem ne vreese,</l>
+<l>Ende voor hem kniele recht als een weese</l>
+<l n="380">Walghelic sinen wel zoeten oghen.</l>
+<l>o Herte, hoe moochstu dit ghedoghen,</l>
+<l>Vulleke doe up der rouwen zee,</l>
+<l>Stuert tranen ghenouch of brec ontwee.</l>
+<l parse="ignore">                <i>Pater noster.</i> </l>
+</lg2>
+<lg2><l>Nu, heere, die alle dinghen vermuecht</l>
+<l n="385">Uut dijnre overvloijender duecht,</l>
+<l>Niet bi verdienten, ghewerdiche doch</l>
+<l>Van mi te ghedoghene dat ic noch</l>
+<l>Te mijnre noot ghebruke dijns</l>
+<l>Te roupe: Vader, ontfaerme mijns,</l>
+<l n="390">Dijns knechts, ende hem niet beter en noomt,</l>
+<l>Ende crupende te dinen voeten coomt;</l>
+<l>Van duechden naect, versleten in sonden,</l>
+<l>Met quellender sielen, al vul van wonden:</l>
+<l>Nature ghecranct, mijn daghen ghequist,</l>
+<l n="395">Mijn tijt verroukelost recht als een mist.</l>
+<l>In bem niet wert dattu mi zies,</l>
+<l>Ic bem een arem zondelic ries,</l>
+<l>Vader, de noot jaghet mi te di</l>
+<l>Nu hebbe geduldichede in mi.</l>
+<l parse="ignore"><edition n="18"/>                <i>Pater noster.</i> </l>
+</lg2>
+<lg2><l n="400">Onder den mantel dier zalicher moeder,</l>
+<l>In wien du worts des meinsghen broeder,</l>
+<l>Ende up den troost van hare bede,</l>
+<l>Ende up dijn grote ontfaermichede,</l>
+<l>So biddic hu, vader, om verdrach;</l>
+<l n="405">Want ic niet aermer zijn en mach.</l>
+<l>Verlast van zondeliken scouden,</l>
+<l>Lettel of niet hebbic behouden,</l>
+<l>Dies mi ye wart van di te goede,</l>
+<l>Dan in deser aermoede</l>
+<l n="410">Eenen voijs van groter blame,</l>
+<l>In eenen onwaerdichen lechame,</l>
+<l>Ghequetst van zonden toter doot,</l>
+<l>Roupende an di met mincher noot:</l>
+<l>o Ontfaerme mijns, vader, ontfaerme mijns,</l>
+<l n="415">Gans mi, die bem al vul venijns.</l>
+<l parse="ignore">                <i>Pater noster.</i> </l>
+</lg2>
+<lg2><l>o Vader ghenadich, o Vader almachtich,</l>
+<l>o Vader, de glorien even crachtich,</l>
+<l>o Vaderlike godlichede,</l>
+<l>o Zone der godliker meinsghelichede,</l>
+<l n="420">o Gheest der godliker eenichede,</l>
+<l>o Eeniche drievoudichede,</l>
+<l><edition n="19"/>o Glorie der ewicher moghentede,</l>
+<l>o Troost der glorien zalichede,</l>
+<l>o Onghemetene wijshede,</l>
+<l n="425">o Overvloijende ghenadichede,</l>
+<l>Stuert neder dine ontfaermichede,</l>
+<l>Ende duer Marien omoedichede</l>
+<l>Hoor dijnre creatueren bede:</l>
+<l>Verleene met di pais ende vrede</l>
+<l n="430">Van al dat ic ije vor di mesdede,</l>
+<l>Ende minen evenmeinsghe mede.</l>
+<l parse="ignore">                <i>Pater noster.</i> </l>
+</lg2>
+<lg2><l>Of ic van dijnre gracien weghe</l>
+<l>So vele gracien niet en ghecreghe</l>
+<l>Dat ic nu mochte zegghen te di</l>
+<l n="435">Vader; wat zoude ghescien van mi?</l>
+<l>Elc spreke di lof; want du ons gheefs</l>
+<l>Hope; want du bevolen heefs</l>
+<l>Ons troupen te horne van den aermen;</l>
+<l>Du leers ons dat wi haers ontfaermen,</l>
+<l n="440">Int werc van .VII. ontfaermicheden,</l>
+<l>Die du houts over dijn proper leden.</l>
+<l>o Vader, van mi dan niet en keers,</l>
+<l>Doe dattu ons te doene leers</l>
+<l>An mi; want ic bem naect ende bloot,</l>
+<l n="445">Ziec, dorstich ende onghetroost ter noot,</l>
+<l>Hongherich, ghevaen, verdoolt ende doot,</l>
+<l>Ic legghe mijn hooft vor uwen scoot.</l>
+<l parse="ignore"><edition n="20"/>                <i>Pater noster.</i> </l>
+</lg2>
+<lg2><l>Naect van duechden met rechte ic secghe</l>
+<l>Dat ic in zonden ghevanghen legghe,</l>
+<l n="450">Bidde di om te sine verloost,</l>
+<l>Dorstich, vader, na dinen troost.</l>
+<l>Siec, versleten, ghecorumpeert</l>
+<l>Bidde hu dat ghi mi visenteert;</l>
+<l>Hongherich na de vriensscap dijn,</l>
+<l n="455">Qualic mocht ic verdoolder zijn.</l>
+<l>Doot ende Lazarus begraven</l>
+<l>Ic stincke voor di; wie zal mi laven</l>
+<l>Dan du alleene ende niemen meer,</l>
+<l>Dijn vaderlic zien te mi waert keer;</l>
+<l n="460">Hets nu ghenouch wiltu mi sien,</l>
+<l>Wat mi messit zal van mi vlien,</l>
+<l>Alzo waerlijc als ic dat claer</l>
+<l>Ghelove, so moet nu worden waer.</l>
+<l parse="ignore">                <i>Pater noster.</i> </l>
+</lg2>
+<lg2><l>Vader, doe open dine ghenaden,</l>
+<l n="465">Mine ziele wille in dine wonden baden,</l>
+<l>Tooch haer dine passie ende wilze cleeden,</l>
+<l>Ende en laetse nemmeer van di leeden.</l>
+<l>Ontsluut voor desen zondichen door</l>
+<l>Dijnre ontfaermicheden trezoor,</l>
+<l n="470"><pb n="21"/> Ende laet mi sceppen ute dier fonteine</l>
+<l>So vele dat ic mach maken zo reine</l>
+<l>Mijn ziele, mijn herte ende mine .V. sinne,</l>
+<l>Dattuer weder wils commen inne.</l>
+<l>Vader, du en muechs mi niet versteken,</l>
+<l n="475">Want ic di claghe van recht breken;</l>
+<l>Du en muechs mi gheensins van di weren,</l>
+<l>Want ic en mach dijns niet omberen;</l>
+<l>Dune muechs mijns hebben gheen verdrach,</l>
+<l>Want niemen dan ghi mi helpen mach.</l>
+<l parse="ignore">                <i>Pater noster.</i> </l>
+</lg2>
+<lg2><l n="480">Alle dinghen di kenlic sijn;</l>
+<l>Zie, vader, up die ghebreken mijn,</l>
+<l>Ic bidde di omme ghesondichede.</l>
+<l>Zie minen zielen ziechede;</l>
+<l>Zie mijn lechamen van sonden cranc;</l>
+<l n="485">Zie mijnre broosgher natueren ganc;</l>
+<l>Hebbic dan noot te claghen di,</l>
+<l>Vader, zo wilt dan helpen mi,</l>
+<l>Ende werpt mijn quaetheit so ter neder</l>
+<l>Dat ic dijn kint mach werden weder,</l>
+<l n="490">Daer alle beghinnen ende alle enden</l>
+<l>Salich in glorien weder in wenden.</l>
+<l>Lof, helich vader, helich zone,</l>
+<l>Helich gheest, een God in .III. persone,</l>
+<l>Als een almoghende God te zamen,</l>
+<l n="495">Evich eeuwich ende over al; amen.</l>
+</lg2>
+</lg1>
+</text>
+<text><lg1><head type="comment"><pb n="22"/>                 <b>Aen St. Johannes Baptista.</b> </head>
+<!--
+<lg2><l>Johannes, vriend van Gode vercoren,</l>
+<l>Baptiste, du orcondes te voren</l>
+<l>Sworts licht, dat meinsghelic vleisch nam an.</l>
+<l>Wi aerme, die in zonden doren,</l>
+<l n="5">Bidden di dattu ons wils horen;</l>
+<l>Du waers bi wien tlicht eerst began.</l>
+<l>Bider bliscepen die ghewan</l>
+<l>Zakarias, die vader dijn,</l>
+<l>Van dijnre toecomsten, helich man,</l>
+<l n="10">Daer twivel in hadde therte zijn,</l>
+<l>Doe Gabriel in een hemelsch scijn</l>
+<l>Hem zeide dijn moeder soudt ontfaen,</l>
+<l>Wilt ons voor Gode in hulpen staen.</l>
+</lg2>
+<lg2><l>o Jan, du hads die meeste name</l>
+<l n="15">Vor al dat ye quam van Adame,</l>
+<l>So Christus selve sprac van di.</l>
+<l>In dijnre moeder lechame</l>
+<l>Waerstu ghehelicht, want zonder blame</l>
+<l>Sochstu van zonden te levene vri;</l>
+<l n="20">Wilt Gode bidden over mi</l>
+<l>Dor di bliscap, die du ghecrechs,</l>
+<l>Doe dijn moeder quam alzo bi</l>
+<l>Marien dattu den heere neichs;</l>
+<l>So bidden wi di dattu beweichs</l>
+<l n="25"><pb n="23"/> De bede van onzer herten zo,</l>
+<l>Dats onze ziele moeten werden vro.</l>
+</lg2>
+<lg2><l>Helichghelic waerstu ghedraghen</l>
+<l>Boven natueren naer Gods behaghen;</l>
+<l>Want dijn moeder ondrachtich was,</l>
+<l n="30">Dijns vader twivel dede hem vervraghen</l>
+<l>Den inghel, dies zo viel hi in plaghen.</l>
+<l>Dijn vader Zakarias,</l>
+<l>Stom moesti bliven, alzo ic las,</l>
+<l>Tote du ter werelt waers gheboren;</l>
+<l n="35">Doer die bliscap als hijs ghenas,</l>
+<l>Help ons dat wi niet zijn verloren.</l>
+<l>God, die vergaf hem zinen toren</l>
+<l>Als hi di naemde Johannes,</l>
+<l>Wilt Gode voor ons bidden des.</l>
+</lg2>
+<lg2><l n="40">An di roupic om medecine,</l>
+<l>Du vois, die rieps in de wostine</l>
+<l>Den wech te makene der zalicheit;</l>
+<l>Noit en cam binnen lippen dine</l>
+<l>Voetsel van onreine wine;</l>
+<l n="45">Eens kemels hare dat was dijn cleit,</l>
+<l>Tlam Gods daer du of hads gheseit</l>
+<l>Quam tote di om ghedopt te sine,</l>
+<l>Te diene waers du daer bereit</l>
+<l>Hem, die ons loste uut alre pine,</l>
+<l n="50">Du kennes daer tlicht van eeuwichen scine;</l>
+<l>Bid hem, dat hi dor dine bede</l>
+<l>An ons doe zine ontfaermichede.</l>
+</lg2>
+<lg2><l><edition n="24"/>Noch zo biddic ende vermane</l>
+<l>Di, die doopte in die Jordane</l>
+<l n="55">Den zone, die uuten vader cam</l>
+<l>Hier neder in den eerdschen wane,</l>
+<l>In haer die zit boven der mane,</l>
+<l>Daer hi meinsghelic vlesch annam,</l>
+<l>Om te betaelne, dat Adam</l>
+<l n="60">Tghebod verbrac int paradijs.</l>
+<l>Du waers, die kennes themelsche lam,</l>
+<l>Ende daet sier comsten ons bewijs;</l>
+<l>Di biddic dattu mijn hulpe zijs.</l>
+<l>An hem die galt der zonden boete</l>
+<l n="65">Dat hi mijn zonden vergheven moete.</l>
+</lg2>
+<lg2><l>Naer Christus leere gaefstu orconde</l>
+<l>Des lichts, met dinen helichen monde,</l>
+<l>Daerna dat was verlanghen groot;</l>
+<l>Du waers beghripere der zonde,</l>
+<l n="70">Dies di de coninc eerst begonde</l>
+<l>Te benidene, ende hi gheboot</l>
+<l>Dat men hu in den caerker sloot,</l>
+<l>Want du hem begreps int openbare;</l>
+<l>Der coninchinnen seere verdroot</l>
+<l n="75">Dattu haerre sonden waers contrare;</l>
+<l>Bidt Gode vor mi dat hi mi spare</l>
+<l>So langhe dat ic in desen weine</l>
+<l>Mijn aerme ziele van sonden reine.</l>
+</lg2>
+<lg2><l>Zalich boven allen profeten,</l>
+<l n="80">Als du daer laechs, so was gheseten</l>
+<l><edition n="25"/>Die coninc metter coninchinne</l>
+<l>Ter tafelen blidelijc om eten,</l>
+<l>Ende wilden haren tijt vergheten.</l>
+<l>De dochter speilde om svader minne</l>
+<l n="85">Voor sijn tafele, dies hi van zinne</l>
+<l>Blide was ende gaf haer een bede.</l>
+<l>Doe riet de moeder in dien beghinne</l>
+<l>Te heesghene uut rechter nidichede</l>
+<l>Hu heliche hooft ter zelver stede;</l>
+<l n="90">Dies was die coninc eerre ende gram,</l>
+<l>Nochtan die bede men daer vulcam.</l>
+</lg2>
+<lg2><l>Sonder toren of wedermoet</l>
+<l>Sturte du daer hu heliche bloet;</l>
+<l>Hu heliche ziele ter hellen ghinc</l>
+<l n="95">So claer, men waende wesen vroet</l>
+<l>Dat Christus came in haer behoet,</l>
+<l>Dies meniche ziele vruecht ontfinc.</l>
+<l>Bidt Gode, den hoochsten coninc,</l>
+<l>Johannes, martelare ons Heeren,</l>
+<l n="100">Dat ic mi talre goeder dinc</l>
+<l>In desen levene moete bekeeren,</l>
+<l>In alzo duechdeliker leeren,</l>
+<l>Dat ic hu mach naer desen tijt</l>
+<l>Sien in de glorie, daer ghi zijt.</l>
+</lg2>
+</lg1>
+</text>
+
+<text><lg1><head type="comment"><pb n="26"/>                 <b>Aen Maria.</b> </head>
+<lg2><l>Licht, der zonnen deimsterheit,</l>
+<l>Ic groete u, blomme der zuverheit,</l>
+<l>Edele maecht, vulder ootmoet,</l>
+<l>Vor al meskief ende leit</l>
+<l n="5">In node weist mijn ommecleit;</l>
+<l>Nem ziele ende lijf in dijn behoet.</l>
+</lg2>
+<lg2><l>Sonder ghelike maecht, moeder ende wijf,</l>
+<l>Ontfaermicheiden vul fonteyne,</l>
+<l>Eewich beware mijn ziele, mijn lijf,</l>
+<l n="10">Troost mi, du best mine hope alleine,</l>
+<l>Eer mi de viant brinct in weyne.</l>
+</lg2>
+<lg2><l>Coninchinne Maria,</l>
+<l>Alle moghen wi secghen met minnen</l>
+<l>Tote di: <i>Salve, regina!</i> </l>
+<l n="15">Edel vor alle coninginnen</l>
+<l>Loven mach men di verre ende na;</l>
+<l>Ja, al dat leift ter werelt binnen.</l>
+<l>Nu helpt dattic mijn zonden dwa,</l>
+<l>Ende ic den viant moet verwinnen.</l>
+</lg2>
+<lg2><l n="20"><pb n="27"/> Ghenadiche, ontfaermiche aducate,</l>
+<l>Hope int leven ende in de doot,</l>
+<l>Elpt mi dattic de zonden late;</l>
+<l>Rouct mijns te tijt, het es mijn noot.</l>
+<l>An uwen troost ic mi verlate,</l>
+<l n="25">Ets recht, want mine mesdaet es groot;</l>
+<l>Rike mac mi ter zielen bate,</l>
+<l>Troost mi in allen wieder wederstoot.</l>
+</lg2>
+<lg2><l>Ic groet u, lelie uutvercoren,</l>
+<l>Ave Maria, zo dinghel zeide,</l>
+<l n="30">Noit ne was no en wart gheboren</l>
+<l>Niemen te zulker werdicheiden;</l>
+<l>In hu es alle ontfaermicheide.</l>
+<l>Ic biddu, vrauwe, dies wilt mi horen,</l>
+<l>Ne laet mi emmer niet verloren.</l>
+</lg2>
+<lg2><l n="35">Tempel Gods, vercorne zale,</l>
+<l>Ruste wan dine omoediche name;</l>
+<l>Uute den hemele cam te dale</l>
+<l>De Godszone in dinen lechame;</l>
+<l>Elpt mi te mijnre zielen vrame.</l>
+</lg2>
+<lg2><l n="40">Ruste zo hebstu ons ghewonnen,</l>
+<l>Vrauwe, bi di was pais begonnen</l>
+<l>Ende vrede, die Adam ons verloos;</l>
+<l>Bi onzer mesdaet so was ontgonnen</l>
+<l>Int cruus u kint met bloede beronnen,</l>
+<l n="45">Nemt mi in hoeden, vrauwe, altoos.</l>
+</lg2>
+<lg2><l><edition n="28"/>Al vul smerten tzwert van rauwen</l>
+<l>Dor dine moederlike herte ghinc,</l>
+<l>Reine maecht, alstune moestes scauwen</l>
+<l>Int cruce daer hi omme sterven hinc</l>
+<l n="50">Alzoo ghewaerlike, so zijt met trauwen</l>
+<l>Elpiche mi, talre goeder dinc;</l>
+<l>Naer dit lijf mi ten hemelen brinc.</l>
+</lg2>
+<lg2><l>Vrauwe, fonteinne vul van ghenaden,</l>
+<l>Vrauwe, die zonden mach ontladen,</l>
+<l n="55">In hu es alle medecine;</l>
+<l>Leedre alre hoochst van graden,</l>
+<l>Laet mi den viant niet verraden;</l>
+<l>Eer ic ghenake minen fine,</l>
+<l>Maec mi staerc ten dienste dine.</l>
+</lg2>
+<lg2><l n="60">Maria, mijn sin verlichte ende pure,</l>
+<l>An di zo keere al mijn ghedachte,</l>
+<l>Kent, vrauwe, hoe cranc es mine nature,</l>
+<l>Ende twederstaen es cranc van crachte.</l>
+<l>Leer mi, aerme creatuere,</l>
+<l n="65">An di te voughene mijn ghedachte.</l>
+<l>Rouct mijns, vrauwe, ter lester ure,</l>
+<l>Eer ic valle in der hellen nachte.</l>
+</lg2>
+<lg2><l>Conforterighe der zondaren,</l>
+<l>Onze .V. zinnen wilt bewaren,</l>
+<l n="70">Pine des viants es te groot;</l>
+<l>Pijndi ons thelpene eer wi mesvaren,</l>
+<l>Ic weet wel ons mach niemen daren;</l>
+<l>Nu help ons, vrauwe, wi hebben noot.</l>
+</lg2>
+<lg2><l><edition n="29"/>Ic kenne mi, vrauwe, zeere mesdadich;</l>
+<l n="75">An hu roupic: "Ghij zijt ghenadich,</l>
+<l>Nem ziele ende lijf in dijn bestier.</l>
+<l>Ic bem van zonden zeere verladich,</l>
+<l>Als ic mijns niet ne bem beradich.</l>
+<l>Nemt van mi Lucifers dangier,</l>
+<l n="80">Int oordeel zijt mijn vrient ghestadich;</l>
+<l>Acht mijns dat ic als een versmadich</l>
+<l>Niet ne vare int helsche vier."</l>
+</lg2>
+<lg2><l>Hier waren ter eere van Onser Vrauwen</l>
+<l>Van Brugghe peilgrinen een deel;</l>
+<l n="85">Leist elke clauze so mochdi scauwen</l>
+<l>Sonder langhe elx name int capiteel;</l>
+<l>Telker clauze een name gheheel.</l>
+</lg2>
+</lg1>
+</text>
+<text><lg1><head type="comment">                <milestone robbie="openi178" /><b>Salve Regina.</b> </head>
+<lg2><l>Sonder smette, saliche roze,</l>
+<l>Acoleye preciose,</l>
+<l>Lelie vulder zuverheit,</l>
+<l>Verbiddiche der zonden noze,</l>
+<l n="5">Ewich licht gloriose,</l>
+<l>Raye vulder helicheit,</l>
+<l>Eighin woonst der triniteit,</l>
+<l>Ghelijc ons die scrifture zeit,</l>
+<l><edition n="30"/>Ja, boven der naturen glose,</l>
+<l n="10">Neemt ons in u ghenadicheit,</l>
+<l>Als ons dat sterven wert bereit,</l>
+<l>Maect ons vri ter laetster pose</l>
+<l>Jeghen alle de helsche bose.</l>
+<l>Soete moeder, reine maghet,</l>
+<l n="15">Helpt ons eer ons die viant jaghet</l>
+<l>Roukeloos in sijn venijn;</l>
+<l>Jammerlike sijn wi gheplaghet,</l>
+<l>Comdi niet bi ons als men vraghet</l>
+<l>Om onse daden in den fijn.</l>
+<l n="20">Rouct onser die besondicht sijn</l>
+<l>Dat wi ontgaen der hellen pijn;</l>
+<l>In ons te helpene niet vertraecht,</l>
+<l>Ende doet ons scauwen twerde anschijn</l>
+<l>Van hem, die watre maecte wijn.</l>
+<l n="25">In duechden ons vor hem ghewaecht</l>
+<l>Ten ende als elc sijn oordeel draecht.</l>
+<l>   An hu, vrouwe, roupic ghenaden</l>
+<l>Dat ghi mi wilt staen in staden</l>
+<l>Van hu te dichtene Salve;</l>
+<l n="30">Leedre, alrehoochst van graden,</l>
+<l>Claerheit, dies niement can verzaden,</l>
+<l>En ware dat woort wi hadden wee,</l>
+<l>Doe dinghel Gods sprac: Ave!</l>
+<l>Omoedelike so spraec si u mee:</l>
+<l n="35">Ecce ancilla; sonder beraden</l>
+<l>Troost ons eer ons de tijt ontgee;</l>
+<l>Salve mater gratie,</l>
+<l><edition n="31"/>Puert ons van zonderliker traden,</l>
+<l>Eer ons die viant brinct in scaden.</l>
+<l n="40">Salve moeder, regina mede,</l>
+<l>Vertooch ons dine ontfaermichede,</l>
+<l>Overvloeiende in alre tijt.</l>
+<l>Salicheit der meinschede,</l>
+<l>Tempel der drievoudichede,</l>
+<l n="45">Regina bestu ghebenedijt;</l>
+<l>Alzo edele als ghi zijt</l>
+<l>Sone was, sone is, sone wert ghewijt.</l>
+<l>Alleine wonstu den hoochsten vrede,</l>
+<l>Laet ons hier so lanc hebben respijt,</l>
+<l n="50">Van zonden te sine vri ende quijt,</l>
+<l>Ende behoue ons, vrouwe, met uwer bede;</l>
+<l>An hu so staet ons zalicheit.</l>
+<l>Dor dijnre ontfaermicheden name</l>
+<l>Trec ons uter sonden brame,</l>
+<l n="55">Ende brinct, vrauwe, ter rechter strate;</l>
+<l>Claerlic in onsen zin versame</l>
+<l>Lelien sulc als u betame,</l>
+<l>Altoos t'onser sielen bate.</l>
+<l>Moeder vulder caritate,</l>
+<l n="60">Aensich ons weic hers sonder mate,</l>
+<l>Misericordie ons wel betame;</l>
+<l>Up u, ic aerme, mi verlate,</l>
+<l>Soete ontfaermiche advocate,</l>
+<l>Helpt ons, du drouchs tonser vrame</l>
+<l n="65">Christus in dinen lechame.</l>
+<l><edition n="32"/>Vrouwe, ontfaermiche coninghinne,</l>
+<l>Rayen daer alle zoetheit es inne,</l>
+<l>Ende licht daert al bi es verclaert,</l>
+<l>Salich waerstu van beginne,</l>
+<l n="70">Fondament, daer God zijn minne</l>
+<l>In heeft up ons gheopenbaert.</l>
+<l>Lof gheven di uut milder aert,</l>
+<l>Inghelen, meinschen, wat ye ghew[aert],</l>
+<l>Ja, alle godlike seraphinne,</l>
+<l n="75">Helpt ons dat ons niet ontvaert,</l>
+<l>Vita dulcedo, vrouwe vermaert,</l>
+<l>Ende spaert ons, die zijn broosch van [aert],</l>
+<l>An hu so staen al onse ghewinne.</l>
+<l>Du best moeder ende maghet reine,</l>
+<l n="80">Troost ende onse hope alleine;</l>
+<l>Ende God heifti daer toe vercoren,</l>
+<l>Selve wert hi in di ghemeine,</l>
+<l>Vrouwe, ghi wort moeder dan es....</l>
+<l>Sonder pine ende sonder toren,</l>
+<l n="85">Puer ende suvre als te voren;</l>
+<l>In pinen waren wi verloren,</l>
+<l>Ruste brochstu in desen weine.</l>
+<l>Haelt ons met hu ten hoochsten coren,</l>
+<l>Maria, rose sonder doren,</l>
+<l n="90">Uwes ghelike ne was negheine,</l>
+<l>Spes nostra sidi fonteine.</l>
+<l>God groetu, so mach blidelijc</l>
+<l>Elc tot u segghen ende nerstelijc:</l>
+<l>"Moeder, du hebs ons verloost,</l>
+<l n="95"><pb n="33"/> Ende daet den here van hemelrijc</l>
+<l>Neder commen in eerderijc</l>
+<l>Tonser vromen, die waren ghenoost,</l>
+<l>Ende staerf om ons te ghevene troost.</l>
+<l>Salve, zuut, west, noort ende oost</l>
+<l n="100">Hebstu ghewonnen moederlijc,</l>
+<l>Troost ons, want elc dijnre hulpe ghe...</l>
+<l>Fel es de viant ende gheboost,</l>
+<l>Laet ons ontstaen ghenadelijc,</l>
+<l>Ende dat wi vlien der hellen slijc.</l>
+<l n="105">Nu, vrouwe ontfaermich ende ghenadich,</l>
+<l>Te di roupen wi, die zijn mesdadich,</l>
+<l>Ende vul ghebreckeliker zonden,</l>
+<l>Swaerlic besmet ende seer verladich;</l>
+<l>Jouwe hulp, vrauwe, es so gheradich,</l>
+<l n="110">Negheen meinsche en cant ghegronden.</l>
+<l>Hu loven wi met allen monden,</l>
+<l>Ad te clamamus tallen stonden,</l>
+<l>Confortereghe ghestadich,</l>
+<l>Lost ons van den helschen honden,</l>
+<l n="115">Altoos willi ons verslonden;</l>
+<l>Cracht ghef ons hem te zine versmadich,</l>
+<l>Rechtvarich ende in duechden dadich,</l>
+<l>In di so hoopt elc zondich lijf,</l>
+<l>Moeder, maghet ende wijf,</l>
+<l n="120">An di so roupen wi meere ende minder:</l>
+<l>"Rouct onser of wi sijn kaitijf."</l>
+<l>Op di so roupen wi even stijf</l>
+<l>Met herten, wi aerme kinder,</l>
+<l>Vul ellenden hier ende ghinder:</l>
+<l n="125"><pb n="34"/> "Altoos wilt wesen ons bewinder,</l>
+<l>Lost ons te tijt vor tsfiants kijf;</l>
+<l>Laetstu hem staen na onsen inder,</l>
+<l>Ende du dan niet best ons ontbinder,</l>
+<l>Exules filii Eve gherijf,</l>
+<l n="130">In doghene cliven wi even stijf.</l>
+<l>Al vul gratien, roze root,</l>
+<l>Helpt ons in allen wederstoot,</l>
+<l>Recht eist dat elc dijr hulpen aenva;</l>
+<l>Godt bi den inghel di ontboot</l>
+<l n="135">Ons te helpene uter noot.</l>
+<l>Ave, gracia plena,</l>
+<l>Dominus, ende daer na</l>
+<l>Woortsu sijns vul, Maria,</l>
+<l>Ontfaermet onser, cleen ende groot,</l>
+<l n="140">Crachtelic ons te hulpen sta;</l>
+<l>Ad te suspiramus, sla</l>
+<l>Tonswaert dijn oghen in dure der doot,</l>
+<l>Aelt ons metti in Abraems scoot.</l>
+<l>Na der schrifture orconde,</l>
+<l n="145">o Vrouwe, so bestu van Gods monde</l>
+<l>Salich, helich, ghebenedijt,</l>
+<l>Ten mochte noit, no het en conde</l>
+<l>Refuus ghepeins van enicher zonde</l>
+<l>An di ghecomen, tenigher tijt:</l>
+<l n="150">In dinen gheest was God bevrijt,</l>
+<l>Lofs ghi alles waerdich zijt,</l>
+<l>Laet u ontfaermen talre stonden</l>
+<l>Ons zuchten, ons weenen ende ons ghecrijt,</l>
+<l>So dat wi keren ons jolijt</l>
+<l n="155"><pb n="35"/> Te di, gementes et flentes uut gronde;</l>
+<l>Vrouwe, ons troost bi di begonde.</l>
+<l>o Vrouwe, die zijt boven der manen,</l>
+<l>Sonne, die in elcker banen</l>
+<l>Met uwer rayen bescinct gratie</l>
+<l n="160">In dit allendiche dal van tranen,</l>
+<l>So wilt te duechden ons vermanen,</l>
+<l>Ende hoet ons vor tsfiants temptatie;</l>
+<l>Rouct onser, so dat onse nacie</l>
+<l>In hac lacrimarum valle spacie</l>
+<l n="165">Crighe de zonden of te planen.</l>
+<l>Ontfaet, vrauwe, ons salutatie,</l>
+<l>Ruumt ons van allen falatie,</l>
+<l>Daer ons de viant bi mach tanen,</l>
+<l>En es hier tsine maer een wanen;</l>
+<l n="170">Sterre zi di, die den nacht</l>
+<l>Ons ten lichten daghe hebt bracht,</l>
+<l>Claerheit vul van shemels dauwe,</l>
+<l>U bidden wi, ghi hebbes macht,</l>
+<l>Laet ons te tijt des viants cracht</l>
+<l n="175">Ontstaen, dat wi uut sinen ghelauwe</l>
+<l>Sijn. Eya, ergo, weest up trauwe</l>
+<l>Advocata nostra, vrauwe,</l>
+<l>Dat ons dijn edele werde dracht</l>
+<l>Niet en zende in ewichen rauwe.</l>
+<l n="180">o Vrauwe, als men elx ordeel scauwe,</l>
+<l>Sijt ons vorsprake, ende ons bewacht</l>
+<l>Crachtelic vor tsfiants geslacht.</l>
+<l>o Alre omoeden exemplaer,</l>
+<l>Neemt ons in hoeden, speghel claer,</l>
+<l n="185"><pb n="36"/> Vrijt ons voor den helschen vos,</l>
+<l>Ende dine ontfaermiche oghen staer</l>
+<l>Recht up ons in den lesten vaer;</l>
+<l>Tlijf es hier in mesdaden gros,</l>
+<l>Helpt ons van zonden maken los,</l>
+<l n="190">Eer ons tot hem der hellen ros</l>
+<l>Trecke, ende stiert ons altoos naer</l>
+<l>Illos tuos misericordes oculos,</l>
+<l>Hier in dit aerme eerdsche mos,</l>
+<l>Ende dat wy moghen openbaer</l>
+<l n="195">Scauwen die vruechden sonder jaer.</l>
+<l>Van hoverden ende van nide</l>
+<l>Maect ons vri, dat wi te tide</l>
+<l>Bekeeren ter omoedicheit,</l>
+<l>Ende van luxurien ende van stride</l>
+<l n="200">Niewer in te werdene blide,</l>
+<l>En sie der sielen zalicheit;</l>
+<l>Doet ons altoos zijn bereit</l>
+<l>In werken daer Gods eere in leit.</l>
+<l>Comt, keert u oghen ghebenedide</l>
+<l n="205">Tonswaert, want ons nauwe steit,</l>
+<l>Vul smetten es ons vleeschich cleit;</l>
+<l>Maria, ad nos converte stide,</l>
+<l>Fel es die viant van beride.</l>
+<l>Raeye, daer dheliche gheest in sceen,</l>
+<l n="210">Vrouwe, ende wilde vleesch ende been</l>
+<l>Claerlijc bin uwen live ontfaen;</l>
+<l>Toedoen no hulpe ne wasser gheen</l>
+<l>Van niemen dan van Gode alleen;</l>
+<l>Met minnen haddi hu bevaen,</l>
+<l n="215"><pb n="37"/> U gaf hi cracht ende rein vulstaen,</l>
+<l>Ende moeder ende maghet sonder waen,</l>
+<l>Noit maghet en was so reen;</l>
+<l>Te tijt helpt ons van zonden dwaen,</l>
+<l>Reine, so dat wi scouwen aen</l>
+<l n="220">Jhesminne, die den helschen steen</l>
+<l>Scuerde, ende sprac sire vrienden ween.</l>
+<l>Tempel Gods, vercoorne zale,</l>
+<l>Vertoocht ons in den lesten male</l>
+<l>Jhesuse, dheliche vrucht van di;</l>
+<l n="225">Na desen levene so hale</l>
+<l>Ons so dat ons niet en fale</l>
+<l>Benedictum fructum ventris tui;</l>
+<l>In allen node, so stant ons bi,</l>
+<l>So dat die ziele behouden zi.</l>
+<l n="230">Puert ons van zondeliker quale,</l>
+<l>Ontfaet die bedinghe van mi,</l>
+<l>Salve mater Domini,</l>
+<l>Troost mi, want ic in zonden dwale,</l>
+<l>Helpti mi niet ic neder dale.</l>
+<l n="235">o Glorieuse, vercoorne bruut,</l>
+<l>Coninghinne, die den tribuut</l>
+<l>Hebt verwonnen van vrau Yeven;</l>
+<l>Christus cam des levens fruut</l>
+<l>In di ghedaelt, die di saluut</l>
+<l n="240">Lieflic ontboot sonder brieven;</l>
+<l>Int cruce hinc hi tusschen twee dieven,</l>
+<l>Vercoorne maecht, laet u ghelieven</l>
+<l>Mi hem taenziene na slevens uut;</l>
+<l>Ontbiedt ons vor des viants grieven,</l>
+<l n="245"><pb n="38"/> Sijt ons secours vor al meskieven,</l>
+<l>Toocht ons na dit levens uut</l>
+<l>Eewelic des hemels cruut:</l>
+<l>Nobis post hoc exilium,</l>
+<l>Diva flos, dei templum,</l>
+<l n="250">Et virgo, vrouwe ghebenedijt,</l>
+<l>Ostende na dit leven dum</l>
+<l>Claerlic dinen zone Jhesum.</l>
+<l>Lost ons in die laetste tijt,</l>
+<l>Ende quijt ons vor des duvels nijt,</l>
+<l n="255">Moeder, ondoe den mantel wijt,</l>
+<l>Ende dec ons aerme, al, niet som;</l>
+<l>Ne sijn wi niet van di bevrijt</l>
+<l>So blijf wi eewich in subdijt;</l>
+<l>Ontraec wi in de weghen crom,</l>
+<l n="260">Pijnlic bliven wi int ghedrom.</l>
+<l>Ic aerm meinsche, zere bezondich,</l>
+<l>Aenroupe di ende dijns vermondich,</l>
+<l>o Clemens, vul des hemels gave,</l>
+<l>Dijn kijnt so saechstu anghen wondich,</l>
+<l n="265">Van rouwen waerstu so dorgrondich,</l>
+<l>Liever moeder, sciet nie kints ave,</l>
+<l>Claghende ghinstu tsinen grave.</l>
+<l>Jan was dijn troost, dijr herten lave,</l>
+<l>Sulc wissel en was noit niemen condich,</l>
+<l n="270">Vrijt ons voor den helschen rave</l>
+<l>Int ende, dat hi ons niet en scave.</l>
+<l>Rouct mijns, ende maect mi duechden....</l>
+<l>Ghierich es hi ende verslondich,</l>
+<l>O pia gloriosa Ave,</l>
+<l n="275"><pb n="39"/> Regina vul alre medecine,</l>
+<l>Gratia beata mater Dei;</l>
+<l>O dulcis, onser alre pine</l>
+<l>Muechstu metter ghenaden dine</l>
+<l>Al verbidden; memento mei!</l>
+<l n="280">Raeu es mijn leven als een ei,</l>
+<l>Ic bem nu hier ende morghen wei,</l>
+<l>Alte onzeker es hier te zine,</l>
+<l>Antreckel es der zonden rei.</l>
+<l>Maria, hoet mi vor tghescrei,</l>
+<l n="285">Ende vor die ewiche karine;</l>
+<l>Nem met di de ziele mine; Amen."</l>
+</lg2>
+<lg2><l>   In dese Oratie es verclaert</l>
+<l>Al uute Salve Regina;</l>
+<l>Neimt van boven neder waert</l>
+<l n="290">Vorsienlic so eist gheopenbaert,</l>
+<l>Also als icker mi an versta,</l>
+<l>Niet dat ic dichter bem vermaert.</l>
+<l>Hu biddic sondich sere beswaert,</l>
+<l>Voor mi een Ave Maria</l>
+<l n="295">Leest dat mi God so langhe spaert,</l>
+<l>So dat ic mi van zonden dwa</l>
+<l>Te tijt eer mi hier tlijf ontga.<milestone robbie="eindi178" /></l>
+</lg2>
+</lg1>
+</text>
+<text><lg1><head type="comment"><pb n="40"/>                 <milestone robbie="openi178" /><b>Het Lyden Christi.</b> </head>
+<lg2><l>Benedicite, Dominus,</l>
+<l>Almachtich God, here Jhesus,</l>
+<l>In uwen handen ghevic mi,</l>
+<l>U helighe gracie sta mi bi,</l>
+<l n="5">So dat mijn bede si bereit</l>
+<l>Tot myner zielen zalicheit,</l>
+<l>Wat ic te biddene besta;</l>
+<l>Mine besmette zinnen dwa</l>
+<l>Van ghepeinse der werelt lette.</l>
+<l n="10">Mine memorie ic an di sette,</l>
+<l>So dat di bede mire memorie</l>
+<l>Werde ghehoort in uwe glorie;</l>
+<l>Here, uwe ghenaden grondeloos</l>
+<l>Verleent mi, so dat ic altoos</l>
+<l n="15">U minnen moet in al mijn doen,</l>
+<l>Ende ontfaet mijn orisoen.</l>
+<l>                <i>Pater Noster, etc.</i> </l>
+</lg2>
+<lg2><l>o Here, al bem ic zere bezondicht,</l>
+<l>Laet mir herten zijn ghecondicht</l>
+<l>Hu zwaer torment sonder ghelijc,</l>
+<l n="20">Ende dat ic hier up eerderijc</l>
+<l>Met minen tranen so bedouwe</l>
+<l>Dat icker ne beseffen scouwe;</l>
+<l>Mine herde herte so verbreke</l>
+<l>Dat soe met uwer minne ontsteke,</l>
+<l n="25"><pb n="41"/> Ende mi dit eewiche toeval</l>
+<l>Niet so bedwinghe hier int dal,</l>
+<l>Mijn ziele en si in een versamen</l>
+<l>Ter uwer helicher werder name.</l>
+<l>                <i>Pater Noster, etc</i>.</l>
+</lg2>
+-->
+<lg2><l>o Here, drievoudich God in een,</l>
+<l n="30">Stiert in mi berauwich ween,</l>
+<l>Soe dat mijn herte met u lide,</l>
+<l>Dat ghi u liet te Maetentide</l>
+<l>Cussen, vanghen ende verraden,</l>
+<l>Ende van den Joden zere versmaden</l>
+<l n="35">In het hoveken daer si u vonden.</l>
+<l>Daer gaefdi u vor onse zonden</l>
+<l>Ende zweetet water ende bloet.</l>
+<l>Dien overvloeyenden omoet,</l>
+<l>Die ghi daer toghet tonser vrouden,</l>
+<l n="40">Gerechte wi ghedincken souden;</l>
+<l>Want ghi die God waert, here, alleine,</l>
+<l>Gaeft u om ons te desen weine;</l>
+<l>Wi aerme, die te zonden leven,</l>
+<l>Nu we cuenen u niet weder gheven</l>
+<l n="45">Dad wi vergolden dese scout,</l>
+<l>Die ghi gaeft om ons behout,</l>
+<l>Niet dan een bekennen claer,</l>
+<l>Uwer bittrer pinen swaer,</l>
+<l>Ende dat hu elc met herten minne.</l>
+<l n="50">Nu helpt mi, here, dat ic ghewinne</l>
+<l>Sulc beweenen ende sulc screien</l>
+<l>Dat hu mijn leven moete greien.</l>
+<l parse="ignore">                <i>Pater Noster, etc</i>.</l>
+</lg2>
+<lg2><l><edition n="42"/>o Here, die almachtich zijt,</l>
+<l>Te Priemen daedsi u despijt,</l>
+<l n="55">Ende leeden u, ten selven stonden,</l>
+<l>Versmadelike ende vast ghebonden,</l>
+<l>Voor Pylatuse, haren prelaet,</l>
+<l>Ende refuseerden uwe daet.</l>
+<l>o Heere, diet al heift ghewracht</l>
+<l n="60">Hemel, eerde, dach ende nacht,</l>
+<l>Ende datter binnen es bevaen,</l>
+<l>Ghi liet u spotten ende slaen,</l>
+<l>Als een der minster creaturen.</l>
+<l>Nu willic mijn aerme herte puren</l>
+<l n="65">Van der weilden hier op eerde,</l>
+<l>Ende van der stinckender hoverden;</l>
+<l>Want ic aerme niet weirdich zi</l>
+<l>Der pinen, die ghi leet om mi,</l>
+<l>Ende ic mi hier so soude draghen,</l>
+<l n="70">Mijn leven en mochte u behaghen;</l>
+<l>Dies leent mi, here, sulc toeverlaet</l>
+<l>Dat ic ghekenne goet ende quaet,</l>
+<l>Ende ic ghecrighe sulc een gruwen</l>
+<l>Dat icker tquade bi mach scuwen,</l>
+<l n="75">Ende ic hu minnen ende kennen lere.</l>
+<l parse="ignore">                <i>Pater Noster, etc</i>.</l>
+</lg2>
+<lg2 parse="ignore"><l>Al Tiertse tide, lieve here,</l>
+<l>Waerdi ontcleet al moedernaect,</l>
+<l>Ende onder viande gheraect;</l>
+<l>Nochtan so waerdi selve haer vriend.</l>
+<l n="80">Onnoselike ende onverdient</l>
+<l><edition n="43"/>Met gheselen si u tlijf dorsloughen.</l>
+<l>Omoedelike ghinc di u voughen</l>
+<l>Selve te stane an die columme,</l>
+<l>Ende liet hu slaen al omme ende omme</l>
+<l n="85">So seere, dat men niet en sach</l>
+<l>Dat yet gheheels an u leden lach,</l>
+<l>Uut groter minnen ende uut trouwen,</l>
+<l>Hu helich vleesch van duerhouwen.</l>
+<l>Uut groter minnen ende uut trouwen,</l>
+<l n="90">Verleent mi, here, mijn aerm vleesch</l>
+<l>Te dwinghene in der zonden eesch,</l>
+<l>Ende mi dat bitter ghesel-slaen</l>
+<l>So mijn herte moet duergaen,</l>
+<l>Dat icker bi mijn aerme ziele</l>
+<l>Te tijt eer mi de viant plaghe.</l>
+<l parse="ignore">                <i>Pater Noster, etc</i>.</l>
+</lg2>
+<lg2><l>Wel, lieve here, te Middaghe</l>
+<l>Drouchdi selve u cruce zwaer,</l>
+<l>Ende clomter mede up Monte Calvare,</l>
+<l n="100">Up den beerch van dier justicien,</l>
+<l>Daer u die Joden bi malicien</l>
+<l>Soe jugierden valschelijc,</l>
+<l>Dat ghi verdrouch omoedelic.</l>
+<l>Ghi, die alleine waert here van rechte,</l>
+<l n="105">Gaeft u over onder cnechte,</l>
+<l>Die niet en wisten wat si daden,</l>
+<l>No recht ne kende no ghenaden.</l>
+<l>Here, ghi wistet al alleine,</l>
+<l><edition n="44"/>Ende caemt in desen eerdschen weine,</l>
+<l n="110">Ende wildet dese pine doghen</l>
+<l>Om ons te lossene, ende te toghen</l>
+<l>Vulmaecte minne ende omoedicheit.</l>
+<l>Ic aenroupe uwe ontfaermicheit</l>
+<l>Dat soe mi so houde in dien,</l>
+<l n="115">Dat ic up eerde al mijn ghesscien,</l>
+<l>Eist pine, eist anxst, eist quaet, eist zoet,</l>
+<l>Te uwer eeren liden moet,</l>
+<l>Ende uwes ghedincke so in desen</l>
+<l>Dat ghi mijn hoochste gheer moet wesen.</l>
+<l parse="ignore">                <i>Pater Noster, etc</i>.</l>
+</lg2>
+<lg2><l n="120">o Here, die de zonden of dwoucht,</l>
+<l>Te Noenen so waerdi ghevoucht</l>
+<l>Ant cruce, dat ghi selve brocht,</l>
+<l>Daer toe die Joden hadden ghesocht</l>
+<l>Ende vonden bloncke naglen drie;</l>
+<l n="125">Sulcke pine en zach men nie!</l>
+<l>Si sloughense u handen duere.</l>
+<l>Dit leet uwe edele natuere,</l>
+<l>So dat die zenuwen entie adren</l>
+<l>Moesten buten haer vergadren,</l>
+<l n="130">Ende scieden in dat staercke recken;</l>
+<l>Want zi met coorden moesten trecken</l>
+<l>Uwe heliche aerme toten gate,</l>
+<l>Dat voorder stont dan rechte mate.</l>
+<l>Daer na dorsloughen zi u voeten,</l>
+<l n="135">o Here God, dat bitter wroeten,</l>
+<l>Dat hu daer gaf die naghel blonc,</l>
+<l><edition n="45"/>Ende des hamers grote swonc,</l>
+<l>Die de naghel al duere dreef!</l>
+<l>So dat u niet ant lijf en bleef</l>
+<l n="140">Een zenuwe, no een adre mede,</l>
+<l>Soe en stont ghespannen an u lede.</l>
+<l>Een crone brochten si, ghewronghen</l>
+<l>Van scaerpen doornen, die zy zwonghen</l>
+<l>Op hu hovet ghebenedijt,</l>
+<l n="145">Ende woelden u ter selver tijt</l>
+<l>Die tacken in u heersene diep,</l>
+<l>So dat bloed al over liep</l>
+<l parse="ignore">Hu Godlike anschijn wredelic,</l>
+<l parse="ignore">Daer ons af cam [.....]</l>
+<l n="150">Daer na zi dat cruce upheven</l>
+<l>Dat uwer herten moeste gheven</l>
+<l parse="ignore">Dat sacken ende dat herde [.....]</l>
+<l parse="ignore">Dan mocht ghere pinen gheliden</l>
+<l>Tote si u up hadden gherecht.</l>
+<l n="155">o Here, daer ghi hinct ghehecht</l>
+<l>Al vul wonden ende vul smerten,</l>
+<l>Daer cam een dorst te uwer herten,</l>
+<l>Dat was na onse zalicheit,</l>
+<l>Ende als ghijt zeit was u bereit</l>
+<l n="160">Van den Joden bittren dranc:</l>
+<l>Galle met aysine ghemanc.</l>
+<l>Omoedelike wildijt ontfaen,</l>
+<l>Doe zeidi: "Here, hets al vuldaen."</l>
+<l>Hier mede gaefdi uwen gheest,</l>
+<l n="165">Die welcke wese mijn vulleest,</l>
+<l>Dat ic den minen so moet gheven</l>
+<l><edition n="46"/>Dat hi bi hu daer es verheven.</l>
+<l>Hier na cam met groten ghere</l>
+<l>Die blende Jode metten spere,</l>
+<l n="170">Daer hi u naer int herte stac,</l>
+<l>Daer water ende bloet uut lac.</l>
+<l>Dat heliche water ende dat bloet</l>
+<l>Up des blenden oghe ontstoet</l>
+<l>Daer hi de blentheit mede verdreef,</l>
+<l n="175">Ende eweliker ziende bleef.</l>
+<l>o Here, mi doet mir herten smaken</l>
+<l>Hu liden, dat ic mach gheraken</l>
+<l>Uut deser zwarer deemsterheden</l>
+<l>Van den zonden hier beneden,</l>
+<l n="180">Ende ic ghedincke so uwer pine</l>
+<l>Datter bi de ziele mine</l>
+<l>Ten laetsten come, sonder vaer,</l>
+<l>Daer zoe u mach scouwen claer</l>
+<l>In de glorie van uwen rike,</l>
+<l n="185">Van eeuwen teeuwen eeuwenlike.</l>
+<l parse="ignore">                <i>Pater Noster, etc</i>.</l>
+</lg2>
+<lg2><l>   o Lieve here ghebenedijt,</l>
+<l>Daer na alse cam ter Vespertijt,</l>
+<l>So waerdi van den cruce weder</l>
+<l>Daer gheleit ter eerden neder.</l>
+<l n="190">Hu werde moeder u ontfinc,</l>
+<l>Noit en sach men drouver dinc</l>
+<l>Dan soe daer an u moeste scouwen;</l>
+<l>Dor haer so sneet dat sweert van rouwen,</l>
+<l>Daer Ancelmus vele of screef.</l>
+<l n="195"><pb n="47"/> Den groten rouwe die soe dreef,</l>
+<l>Die moete mi so comen in,</l>
+<l>Dat icker bi ghesalicht bin,</l>
+<l>Ende icker trike bi ghewinne,</l>
+<l>Daer zoe bi u es Coninghinne.</l>
+<l parse="ignore">                <i>Pater Noster, etc</i>.</l>
+</lg2>
+<lg2><l n="200">Jhesus Christus, spegel claer,</l>
+<l>Te Complien, cort daer naer,</l>
+<l>So waerdi gheleit int graf;</l>
+<l>Al de werelt hu begaf,</l>
+<l>Sonder u moeder ende Jan.</l>
+<l n="205">Moeder herte nie ghewan</l>
+<l>Sulken rouwe ende sulc leit,</l>
+<l>Als zoe van u dede een ghesceit.</l>
+<l>Ten derden daghe ghi verreist;</l>
+<l>Heer God, nu so weist</l>
+<l n="210">Mijns ghenadich, als ic verrise</l>
+<l>Dat men mi metten salichen wise.</l>
+<l parse="ignore">                <i>Pater Noster, etc</i>.</l>
+</lg2>
+<lg2><l>Vader, sone ende helich Gheest,</l>
+<l>Almachtich God ende een vulheest,</l>
+<l>Die in so groter omoedicheden</l>
+<l n="215">Aensaecht tverlies van hier beneden,</l>
+<l>Dat bi Yeven al toequam</l>
+<l>Doe di zonde eerst annam,</l>
+<l>Die ghi weder hebt verjaecht,</l>
+<l>Ende daeldet in een zuver maecht,</l>
+<l n="220">Ende ghedoghet hier op eerde</l>
+<l><edition n="48"/>Pine, versmaetheit ende onwerde,</l>
+<l>Ende hebt den wech ons wel verwijst.</l>
+<l>Ic biddu, here, dat ghi spijst</l>
+<l>Minen crancken gheest van binnen</l>
+<l n="225">Met duechden ende met uwer minnen.</l>
+<l>Mijn herte voucht gedinckich tsine</l>
+<l>Up uwe bittre zware pine;</l>
+<l>Mine V zinnen wilt so dwaen</l>
+<l>Dat zi nieuwer na ne staen</l>
+<l n="230">Ten zi mire zielen zalichede,</l>
+<l>Ende wilt mi hoeden telker stede</l>
+<l>Vor scande, vor zonde, vor scade,</l>
+<l>Met uwer godliker ghenade.</l>
+<l>Al deser werelt tribulatie,</l>
+<l n="235">Daer toe der vianden temptatie,</l>
+<l>Daer tjeghen gheift mi cracht ende macht</l>
+<l>Dat ict verwinne dach ende nacht,</l>
+<l>Ende dat ic hier sulc leven leede</l>
+<l>Dat ic van u niet en sceede,</l>
+<l n="240">In moet u scouwen in u rike</l>
+<l>Van eeuwen teeuwen eeuwelike.<milestone robbie="eindi178" /></l>
+</lg2>
+</lg1>
+<!--
+</text>
+<text><lg1><head type="comment"><pb n="49"/>                 <b>Ave Maria.</b> </head>
+<lg2><l><i>Ave</i>, vul des hemels gratie,</l>
+<l>Reine moeder pure,</l>
+<l>In u cam metter salutatie</l>
+<l>De here der nature.</l>
+<l n="5">Vrauwe, verdrijft van mi temptatie;</l>
+<l>Mijn herte, mijn zin bevure</l>
+<l>Dat ic u mach doen visentatie</l>
+<l>Met beden deser ure.</l>
+<l>                <i>Ave Maria, etc</i>.</l>
+</lg2>
+<lg2><l><i>Maria</i>, soete, werde name,</l>
+<l n="10">Alre hoochst verheven;</l>
+<l>Al tgheslachte van Adame</l>
+<l>Ware verloren bleven,</l>
+<l>Ne ware dijn suver lechame,</l>
+<l>Daer langhe of was ghescreven.</l>
+<l n="15">o Vrouwe, hoet ons vor sonden blame,</l>
+<l>Wi snevers in dit leven.</l>
+<l>                <i>Ave Maria, etc</i>.</l>
+</lg2>
+<lg2><l><edition n="50"/><i>Gratia</i> hebdi ons ghecreghen,</l>
+<l>Maghet ende zuver moeder,</l>
+<l>Bi u es God tot ons gheneghen,</l>
+<l n="20">U kint ende onse broeder.</l>
+<l>Wi hadden, ne waerdi gheleghen,</l>
+<l>Noch in tsviants loeder</l>
+<l>Vrouwe, al eist dat wi sonden pleghen,</l>
+<l>Te tijt sijt onse behoeder.</l>
+<l>                <i>Ave Maria, etc</i>.</l>
+</lg2>
+<lg2><l n="25"><i>Plena</i> van des hemels dauwe,</l>
+<l>Dan mach u niet ghebreken;</l>
+<l>Uut uwer bede, hemelsche vrauwe,</l>
+<l>Alle ghenaden leken.</l>
+<l>Wie aen u roupt met goeder trauwe</l>
+<l n="30">Ghine cuenten niet versteken;</l>
+<l>Lost ons, vrauwe, uut allen rauwe,</l>
+<l>Ende vor des viants treken.</l>
+<l>                <i>Ave Maria, etc</i>.</l>
+</lg2>
+<lg2><l><i>Dominus</i> hadde u recht vercoren</l>
+<l>Als sine vercoren zale;</l>
+<l n="35">Hi wilde van u sijn gheboren,</l>
+<l>Ende cam in desen dale.</l>
+<l>Al dat te voren was verloren</l>
+<l>Verlossedi altemale;</l>
+<l>Hoedt ons, vrouwe, vor allen toren,</l>
+<l n="40">Ende vor alre ander quale.</l>
+<l>                <i>Ave Maria, etc</i>.</l>
+</lg2>
+<lg2><l><edition n="51"/><i>Tecum</i> roupen wi ghemeene,</l>
+<l>Die vul sijt van ghenaden;</l>
+<l>Hets recht, u bede mach allene</l>
+<l>Allen last ontladen.</l>
+<l n="45">En es sondare groot no clene,</l>
+<l>Ghine moetene beraden;</l>
+<l>Ic hebbe zonde menighe ene,</l>
+<l>Nu staet mi, vrauwen, in staden.</l>
+<l>                <i>Ave Maria, etc</i>.</l>
+</lg2>
+<lg2><l><i>Benedicta</i> vor alle wiven</l>
+<l n="50">Sidi vul zalicheden,</l>
+<l>An u ne mochte nie becliven</l>
+<l>Ghepeins van dorperheden;</l>
+<l>Maer een rein omoedich</l>
+<l>Was vast in u besneden.</l>
+<l n="55">Werde vrauwe, helpt ons verdriven</l>
+<l>Den viant tallen steden.</l>
+<l>                <i>Ave Maria, etc</i>.</l>
+</lg2>
+<lg2><l><i>Tu</i>, ontfaermiche coninghinne,</l>
+<l>Troostiche der zondaren,</l>
+<l>Verlicht mine aerme crancke zinne,</l>
+<l n="60">Die nacht ende dach verswaren;</l>
+<l>Mijn zonden zijn groot, mijn duecht es dinne,</l>
+<l>Ic vreese nu vor mesvaren,</l>
+<l>Bidt uwen zone dor uwe minne</l>
+<l>Datti mi wille sparen.</l>
+<l>                <i>Ave Maria, etc</i>.</l>
+</lg2>
+<lg2><l n="65"><pb n="52"/> <i>In mulieribus</i>, werde maghet,</l>
+<l>Den prijs hebdi ghewonnen;</l>
+<l>Daer omme eist dat ghi crone draghet,</l>
+<l>Verheven boven der zonnen.</l>
+<l>Langhe wasser na ghevraghet</l>
+<l n="70">Dat bi u was begonnen,</l>
+<l>Wilt mi eer mi de viant plaghet</l>
+<l>Uwer helpe jonnen.</l>
+<l>                <i>Ave Maria, etc.</i> </l>
+</lg2>
+<lg2><l><i>Et benedictus</i> sijn alle die gone,</l>
+<l>Die uew name eeren;</l>
+<l n="75">Uwe vulmaecteit es so scone,</l>
+<l>Des prijs moetic onberen.</l>
+<l>Vrouwe, metter hemelscher crone,</l>
+<l>Doet ons met u gheneren,</l>
+<l>Als u ghebenedide zone</l>
+<l n="80">Sijn vonnesse sal keren.</l>
+<l>                <i>Ave Maria, etc.</i> </l>
+</lg2>
+<lg2><l><i>Fructus</i> werdt al openbare</l>
+<l>Elcken daer vor oghen,</l>
+<l>Up den dach, die wi met vare</l>
+<l>Wel verduchten moghen.</l>
+<l n="85">Toocht hem, moeder, werde care,</l>
+<l>Wat hi heeft ghesoghen,</l>
+<l>Ende doet so vele dat hi ons spare</l>
+<l>Vor dat langhe doghen.</l>
+<l>                <i>Ave Maria, etc.</i> </l>
+</lg2>
+<lg2><l><edition n="53"/><i>Ventris</i> heifti hooch verheven</l>
+<l n="90">Bi hem in sijn rike,</l>
+<l>Vrauwe, daer sal hi met u leven</l>
+<l>Met vruechden ewelike.</l>
+<l>Ghi muecht verbidden, hi mach vergheven;</l>
+<l>Bidt vor ons eenpaerlike,</l>
+<l n="95">Wi aerme, die in sonden sneven,</l>
+<l>Dat hi ons niet beswike.</l>
+<l>                <i>Ave Maria, etc</i>.</l>
+</lg2>
+<lg2><l><i>Tui</i>, maghet, moeder reine,</l>
+<l>Ne moghen wi niet derven;</l>
+<l>Want an u staet onse hope alleine,</l>
+<l n="100">Ghi moet ons troost verwerven.</l>
+<l>Der werelt toeverlaet es cleine,</l>
+<l>Ende emmer moeten wi sterven;</l>
+<l>Wijst ons aerme al ghemeine</l>
+<l>Ter eweliker erven.</l>
+<l>                <i>Ave Maria, etc</i>.</l>
+</lg2>
+<lg2><l n="105"><i>Amen</i>, amen, tallen stonden,</l>
+<l>Vor alle creaturen,</l>
+<l>Dat ons God in zwaren zonden</l>
+<l>Niet ne late gheduren.</l>
+<l>Ic bem zondare, ic wils u monden,</l>
+<l n="110">Mi rauwets teser uren,</l>
+<l>Maria vrouwe, sijt een orconden</l>
+<l>Der broosheit mijnre naturen.</l>
+<l>                <i>Ave Maria, etc</i>.</l>
+</lg2>
+<lg2><l><edition n="54"/>Staerct minen wille van of te stane,</l>
+<l>Ende meerset minen rauwe,</l>
+<l n="115">Maect mi ghewillich om tontfane</l>
+<l>Penitencie, vrauwe,</l>
+<l>Ende cracht van wachtene voort ane.</l>
+<l>So wat ic bescauwe,</l>
+<l>Hoet mi, vrauwe, in stane, in gane;</l>
+<l n="120">Up u ic mi betrauwe.</l>
+</lg2>
+</lg1>
+<supplied resp="editor">                   <i>Einde</i> </supplied>
+</text>
+-->
+<!--</ENTRY>
+--></TEI.2>

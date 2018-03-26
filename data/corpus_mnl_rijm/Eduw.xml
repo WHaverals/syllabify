@@ -1,0 +1,2043 @@
+<?xml version='1.0'?><!DOCTYPE TEI.2 PUBLIC '-//TEI P4//DTD Main Document Type//EN' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd' [<!ENTITY % TEI.prose 'INCLUDE'><!ENTITY % TEI.linking 'INCLUDE'><!ENTITY % TEI.figures 'INCLUDE'><!ENTITY % TEI.analysis 'INCLUDE'><!ENTITY % TEI.corpus 'INCLUDE'><!ENTITY % TEI.XML 'INCLUDE'><!NOTATION TEI-XML PUBLIC 'TEI P4' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd'><!-- internal INL dtd --><!ELEMENT b (#PCDATA)><!ELEMENT l (#PCDATA | b)*><!-- end of internal INL dtd -->]><TEI.2><!--<ENTRY id="i95"><teiHeader><fileDesc><titleStmt><title>Van den derden Eduwaert</title>
+</titleStmt>
+<interpGrp type="pubYear_from"><interp value="1435"/></interpGrp>
+<interpGrp type="witnessYear_from"><interp value="1435"/></interpGrp>
+<interpGrp type="pubYear_to"><interp value="1455"/></interpGrp>
+<interpGrp type="witnessYear_to"><interp value="1455"/></interpGrp>
+<TITEL>Van den derden Eduwaert</TITEL>
+<author>Jan van Boendale</author>
+<AARD>Rijm</AARD>
+<BRON nr="K137">Brussel, Koninklijke Bibliotheek, 5753-59</BRON>
+<DATUM>1435-1455</DATUM>
+<OMVANG>2018 verzen</OMVANG>
+<BRON.OPM>Het handschrift bevat in totaal 259 folia; per bladzijde zijn er 31 regels. Van den derden Eduwaert bevindt zich op fol. 239v-257r. Verder bevat de codex nog een vijtal Latijnse kronieken (fol. 142r-237v) en de Hollantsche cronike van heraut Beyeren (fol. 5-140v). De beide Middelnederlandse teksten zijn van ca. 1445 (vgl. CMD-B II, nr. A102 en CMD-B III, nr. 249). Voor gegevens over het handschrift, zie J.M.C. Verbij-Schillings: Beeldvorming in Holland. Heraut Beyeren en de historiografie omstreeks 1400. Amsterdam, 1995. Diss. Leiden. (Nlcm 13), 294, en de aldaar vermelde literatuur.</BRON.OPM>
+<EDITIE>J.G. Heymans (ed.): Van den derden Eduwaert, coninc van ingelant hoe hij van over die zee is comen in meyningen vrancrijc te winnen ende hoe hij doernic belach. Uitgegeven met een inleiding over de Brabantse historiografie tussen ca. 1270 en ca. 1350. Nijmegen, 1983. (Tekst en Tijd 10).</EDITIE>
+<STATUS>Kritisch</STATUS>
+<BRONMNW>56.45 (andere editie)</BRONMNW>
+<BRONMNW>398 (andere editie)</BRONMNW>
+<BRONNEN>Brussel, Koninklijke Bibliotheek, 5753-59</BRONNEN>
+</fileDesc>
+</teiHeader>
+--><text>
+<head type="title"><pb n="93"/> VAN DEN DERDEN EDUWAERT</head>
+<l>Sint dat ons Here wilde wreken</l>
+<l>Smenschen sonden ende gebreken</l>
+<l>Met watre also bescreven is</l>
+<l>Inden iersten boecke ser Moyses,</l>
+<l n="5">Sone woudi voert int gemeyne</l>
+<l>Niet wreken mit watre alleine,</l>
+<l>Maer ter wraken heeft hij geset</l>
+<l>Water, vier ende dat sweert met,</l>
+<l>Dair hij dagelijcs wreket mede</l>
+<l n="10">Die sonden in meniger stede.</l>
+<l>Want God en wilt niet verdragen</l>
+<l>Altoos die sonden sonder plagen,</l>
+<l>Want sine groote gerechticheyt</l>
+<l>Brinctene ter wrakelheyt.</l>
+<l n="15">Onder tusschen als des es noot,</l>
+<l>En dade siin ontfermherticheyt groot,</l>
+<l>Hij soude dagelijcs ende tallen stonden</l>
+<l>Swaerlijc wreken des smenschen sonden.</l>
+<l>Dat die groote Alexander</l>
+<l n="20">Ende daer toe oic menich ander</l>
+<l>Daden so groote manslacht,</l>
+<l>Dat ne dede niet hairs selfs cracht.</l>
+<l><edition n="94"/>Mer God vercoesse daer toe,</l>
+<l>Dat sij die sonden wraken also</l>
+<l n="25">Alse nu hier ende alse nu daer.</l>
+<l>Nu siet ende merket openbair,</l>
+<l>Oft God vanden iersten stonden</l>
+<l>Dus gewroken heeft die sonden,</l>
+<l>Wat wonder eest dan dat hij nu</l>
+<l n="30">Die sonden wreect, des vragic u,</l>
+<l>Nader sonden menichfuldicheyt,</l>
+<l>Daer die werelt nu met ommegeyt.</l>
+<l>God beidde .xlij. jair,</l>
+<l>Eer hij wrac sine doot swaer</l>
+<l n="35">Over die Joden, wij lesent aldus,</l>
+<l>Mits eenen coninc, hiet Titus.</l>
+<l>Nu heeft God eenen verwect,</l>
+<l>Daer hij die sonden mede wrect,</l>
+<l>aDes hij swaerlijc begint te waeren</l>
+<l n="40">Ende compt van over zee gevaren,</l>
+<l>Van daer die zonne gaet onder,</l>
+<l>Daer hij gewracht heeft wonder</l>
+<l>Van manslachte sekerlike,</l>
+<l>Ja, ten eynde van eerdrike,</l>
+<l n="45">Dats in Scotlant ende daer toe mee</l>
+<l>Neffens Vlaenderen op die zee.</l>
+<l>Des gelike men voir dien</l>
+<l>Herde selden heeft gezien.</l>
+<l>Hets tontsiene na minen sin</l>
+<l n="50">Dats maer noch es een beghin</l>
+<l>Ende datter wonder na sal volgen,</l>
+<l>God en wille siin abolghen</l>
+<l>Mits siere ontfermertichede</l>
+<l>Keren vander menschede.</l>
+<l n="55">Dit so heet ene prologe,</l>
+<l>Daer ic u eens deels in toge</l>
+<l>Die materie die hier na</l>
+<l>Volghet also ict verstae.</l>
+<l>So groet opset no so hart</l>
+<l n="60">Als die derde Eduwaert</l>
+<l><milestone unit="fol" n="240va"/> Van Yngelant heeft opgeheven</l>
+<l>En vintmen nerghent bescreven.</l>
+<l>Dat die Grieken in ouden dagen</l>
+<l><edition n="95"/>Voir Troyen x. jair laghen</l>
+<l n="65">Ende niet en consten gewinnen</l>
+<l>Sonder verranesse van binnen,</l>
+<l>Dat van Persen coninc Cyrus</l>
+<l>Wan ende strueerde aldus</l>
+<l>Tgroete rike van Babylone,</l>
+<l n="70">Dat Alexander, Philips sone,</l>
+<l>Die hertoge was van Macedone,</l>
+<l>Dariuse af wan sine crone,</l>
+<l>Die coninc was van al Asya,</l>
+<l>Dats half erdrike als ic verstae,</l>
+<l n="75">Dat Machabeus, die stoute man,</l>
+<l>So menigen groeten strijt verwan</l>
+<l>Met luttel volcs mids Gods gewelt</l>
+<l>Jegen volc dat was ongetelt,</l>
+<l>Dat die Romeine van cleinen dingen</l>
+<l n="80">Also clommen ende opwaert gingen,</l>
+<l>Dat sij dwongen al eertrike,</l>
+<l>Dat Kairle oic des gelike</l>
+<l>Zassen ende Spaengen onder dede</l>
+<l>Ende brachte ter kerstenhede,</l>
+<l n="85">Dat van Bullioen her Godevaert</l>
+<l>Bestoet die heylege zeevaert</l>
+<l>Ende Anthiochen wan doe</l>
+<l>Ende Jherusalem daertoe,</l>
+<l>Dat Jan, hertoge van Brabant,</l>
+<l n="90">Die derde daer also genaemt,</l>
+<l><milestone unit="fol" n="240vb"/> Hem verweerde also wijslike</l>
+<l>Jegen den coninc van Vrancrijcke</l>
+<l>Ende jegen xv. lantsheeren,</l>
+<l>Die Brabant wouden onteeren,</l>
+<l n="95">Soe en dinct mi in gheen van desen</l>
+<l>Desen opsetten gelijc wesen,</l>
+<l>Dat een man comt van over meer</l>
+<l>Getogen dus mit eenen heer</l>
+<l>Ende wilt Vrancrijcke winnen</l>
+<l n="100">Ende coninc sijn daer binnen</l>
+<l>Ende neempt hem tytel ende wapen an,</l>
+<l>Eer hier borch of stat in wan.</l>
+<l>Dit es ymmer wonder groot.</l>
+<l>Nu so moeghedi hoeren al bloot</l>
+<l n="105">Dbegin van deser hystorien</l>
+<l><edition n="96"/>Also ic in mire memorien</l>
+<l>Wel hebbe onthouden dat</l>
+<l>Al tAntwerpen in die stad,</l>
+<l>Daer ic woene, als ic thuus ben.</l>
+<l n="110">God verleene mi den sin</l>
+<l>Die waerheit te seggene wats gesciet.</l>
+<l>In geesten en salmen liegen niet.</l>
+<l>Dese historie na mijn versinnen</l>
+<l>Willic op Philippse beginnen,</l>
+<l n="115">Die groete coninc ende die scoone,</l>
+<l>Die in Vrancrijcke drooch crone,</l>
+<l>Die de twelfste is geset</l>
+<l>Na Hughen die men heet Capet,</l>
+<l>Mits welken scalken Hugen</l>
+<l n="120">Also vraye hystorien tughen</l>
+<l><milestone unit="fol" n="241ra"/> Karels geslachte wart onterft</l>
+<l>Vander croonen ende noch derft:</l>
+<l>Dat es thoge geslachte van Brabant.</l>
+<l>Dits in croniken wel bekant.</l>
+<l n="125">Dees groote Philips liet na sijn doot</l>
+<l>Drie sonen scoen ende groot,</l>
+<l>Die alle drie te wairen</l>
+<l>Deene na dandre coninge waeren,</l>
+<l>Die sonder oor storven alle.</l>
+<l n="130">Dit schijnt teecken van ongevalle.</l>
+<l>Een dochter hadde hij mede dan.</l>
+<l>Dander Eduwaert was haer man,</l>
+<l>Van dien name also genant,</l>
+<l>Die crone drooch in Engelant,</l>
+<l n="135">Die qualijc met haeren man drooch,</l>
+<l>So dat sij om selc ongevoech</l>
+<l>Eduwaerde haeren sone nam</l>
+<l>Ende in Vrancrijcke daer met quam</l>
+<l>Tote haeren broeder, den coninc,</l>
+<l n="140">Dien sij vertrac al hair dinc,</l>
+<l>Die haere an haeren man gebrac.</l>
+<l>Maer wat dat sij hem vertrac,</l>
+<l>Sy vant daer den troost so cranc,</l>
+<l>Dat sij moeste an hoeren danc</l>
+<l n="145">Weder nemen haere vaert</l>
+<l>Mit haeren sone tYngelant waert.</l>
+<l><edition n="97"/>Ende doe sijt ter waerheit verstoet</l>
+<l>Dat haer man sette den moet,</l>
+<l>Dat hij haer ende tkint soude vaen,</l>
+<l n="150">So waer hijse mochte beghaen,</l>
+<l><milestone unit="fol" n="241rb"/> Si bestoet die meeste dinc</l>
+<l>Die vrouwe je aneginc.</l>
+<l>Want sij den raet dede dan</l>
+<l>Dat sij een deel volcs gewan</l>
+<l n="155">Omtrent vj.c ende nimmere,</l>
+<l>Dair af was die meeste heere</l>
+<l>Mijn her Jan van Heinegouwe.</l>
+<l>Aldus ging doe die vrouwe</l>
+<l>Te scepe al tote Dordrecht</l>
+<l n="160">Ende seilde tEngelant waert recht.</l>
+<l>Die coninc heeft die havenen dan</l>
+<l>Beset so hij alre besten can,</l>
+<l>Daer hij hoopte ende hadde vernomen</l>
+<l>Dat sij te lande soude comen.</l>
+<l n="165">Maer God en wouds also niet.</l>
+<l>Met quam een wint diese stiet</l>
+<l>Ane een lant mit snelre spoede,</l>
+<l>Daer die coninc was sonder hoede,</l>
+<l>Daer sij op gingen alte hant</l>
+<l n="170">Ende wonnen al Yngelant</l>
+<l>Sonder stoet ende sonder slach.</l>
+<l>Dit wonder men nie en sach.</l>
+<l>Dus wrac God, dat verstaet,</l>
+<l>Des conincs groote overdaet</l>
+<l n="175">Die hij lange hadde gedreven.</l>
+<l>Want hij hadde doen nemen tleven</l>
+<l>Den grave van Erffoert ende alsoe</l>
+<l>Den grave van Langcastre daertoe,</l>
+<l>Om dat sij wouden sonder lette</l>
+<l n="180">Datmen tlant te vonnesse sette</l>
+<l><milestone unit="fol" n="241va"/> Ende in allen goeden gevoeghe</l>
+<l>Ende gheene quaede moente en sloege.</l>
+<l>Dus wart die coninc gevaen doe</l>
+<l>Ende oic sijn quade raid daer toe,</l>
+<l n="185">Die beide storven jammerlike.</l>
+<l>Wie sach ye des gelike,</l>
+<l>Dat eene vrouwe ende hair kint</l>
+<l>Tconincrike van Yngelant wint,</l>
+<l><edition n="98"/>Dat Keyser Julieuse ontsacht</l>
+<l n="190">Ende des ooc noyt en hadden macht</l>
+<l>Coninge van Vrancrijcke</l>
+<l>Noch ooc Scotten die gelike,</l>
+<l>Dies hen allen pijnden seere.</l>
+<l>Nu wart coninc ende heere</l>
+<l n="195">Dier vrouwen sonen Eduwaert,</l>
+<l>Die alder eeren wel es waert,</l>
+<l>Die derde daer van dier name,</l>
+<l>Een stout riddre sonder blame,</l>
+<l>Wien dat dese geste toe hoert</l>
+<l n="200">Also ghij nu sult hoeren voert.</l>
+<l>Omdat men selden heeft gesien</l>
+<l>Aldus groet een wonder geschien,</l>
+<l>So hebbic dit aldus vertogen,</l>
+<l>Omdat men sal weten moghen</l>
+<l n="205">Dcarnation wel besunder:</l>
+<l>Men screef doen xiij. hondert</l>
+<l>Ende xxvij. tjaer ons Heren.</l>
+<l>Ter materien willict keeren.</l>
+<l>Doe des groets Philips iij. sonen,</l>
+<l n="210">Die in Vrancrijcke droegen cronen,</l>
+<l><milestone unit="fol" n="241vb"/> Sonder oor waeren gestorven,</l>
+<l>So heeft die crone daer verworven</l>
+<l>Van Valoes haers oems sone.</l>
+<l>Philips hiet hij oic die ghone.</l>
+<l n="215">Want hij wouts te dien tijden</l>
+<l>Naest siin vander zweert sijden</l>
+<l>Ende sat coninc in rasten daer</l>
+<l>Vele meer dan xx. jair.</l>
+<l>Nochtan was daer te voeren</l>
+<l n="220">Hoire suster sone geboren,</l>
+<l>Die derde Eduwaert, als ic las,</l>
+<l>Die ten sweerde comen was</l>
+<l>Ende oic was, dat ghijt wet,</l>
+<l>Der croenen naere een let.</l>
+<l n="225">Maer hij was so jonc van dagen,</l>
+<l>Dat hij gheene wapenen en mocht dragen.</l>
+<l>Doet so verre was gedregen,</l>
+<l>Dat hij der wapene mochte plegen</l>
+<l>Ende hem nature gaf gehinc</l>
+<l n="230"><pb n="99"/> Te bedinckene alle dinc,</l>
+<l>Quam hem in siin herte te voeren</l>
+<l>Menege scade ende groeten thoeren,</l>
+<l>Die de Scotten sonder waen</l>
+<l>Ende die Fransoysen hadden gedaen</l>
+<l n="235">Sinen vordren ende noch daden</l>
+<l>Ende wart nu also beraden,</l>
+<l>Dat hij aldit wreken soude,</l>
+<l>Op dats hem God gehonnen woude.</l>
+<l>Ende ten iersten sette hij die vaert</l>
+<l n="240"><milestone unit="fol" n="242ra"/> Met sinen volcke ten Scotten waert.</l>
+<l>Want hij pensde in sinen moet,</l>
+<l>Haddi die onder voet,</l>
+<l>Dat hij te sekerre sine vaert</l>
+<l>Nemen mochte te Vrancrijcke waert.</l>
+<l n="245">Hij wan hen af ter selver tijt</l>
+<l>Meest hair lant na menege strijt.</l>
+<l>Daer belach hij mede</l>
+<l>Berwijc, die groete stede,</l>
+<l>Ende Sinte Jans Thonne tier stonde,</l>
+<l n="250">Die hij beyde slechte ten gronde,</l>
+<l>Ende ander borge ende castele.</l>
+<l>Daer bleef doot also vele</l>
+<l>Volx, na dat ic hoerde gewach,</l>
+<l>Alse omtrent xl. dusentach.</l>
+<l n="255">Dus warp hij die Scotten neder</l>
+<l>Ende keerde thuuswaert weder</l>
+<l>Also bedacht, dat hij die vaert</l>
+<l>Setten woude te Vrancrijcke waert,</l>
+<l>Want hij seggen woude al clare</l>
+<l n="260">Dat hij een let nare waere</l>
+<l>Der Vrancscher croonen dan</l>
+<l>Philips ofte ander man.</l>
+<l>Philipse heeft hij ontboden te hant,</l>
+<l>Dat hij vander cronen sijne hant</l>
+<l n="265">Doe, want si hem nien bestuet.</l>
+<l>Si waere siin verstorven guet.</l>
+<l>Oft dat hij dat wel wiste.</l>
+<l>Hij soude mit coste ende mit liste</l>
+<l>Dair na staen in allen sinnen,</l>
+<l n="270"><milestone unit="fol" n="242rb"/> Dat hij siin erve soude gewinnen,</l>
+<l>Dat hem scoene ende claire</l>
+<l><edition n="100"/>Van sinen oem verstorven waere.</l>
+<l>Phylips antwoirde ende seide:</l>
+<l>Dit doet mijns neven kinsthede,</l>
+<l n="275">Dat hij mi dese ding ontboot.</l>
+<l>Nu segt minen neve albloet</l>
+<l>Dat ic hem ane die Vrancsche crone</l>
+<l>Niet en bekinne eene bone</l>
+<l>Ende dat hij des wille begheven,</l>
+<l n="280">Oft ic loent hem, magic leven.</l>
+<l>   Doe Eduwaert hadde vernomen</l>
+<l>Dantwerde die hem was comen,</l>
+<l>Beghan hij te hant dair na pogen,</l>
+<l>Hoe dat hij soude mogen</l>
+<l n="285">Gewinnen Vrancrijcke.</l>
+<l>Dits wonder sekerlike.</l>
+<l>Ende om dat hij hebben woude</l>
+<l>Hulpe, spraide hij van goude</l>
+<l>In dese zide der zee hier ende daer</l>
+<l n="290">An hertogen, aen graven, dats waer,</l>
+<l>An riddren, an knapen mede</l>
+<l>In Aelmaengen te meniger steden.</l>
+<l>Oec haddi als men wel weet</l>
+<l>Vanden keyser goet beheet,</l>
+<l n="295">Dats van Beyeren Loduwike,</l>
+<l>Die geloefde waerlike</l>
+<l>Hem bij te stane mit ghewoude</l>
+<l>Om eene groete summe van goude.</l>
+<l>Hier waeren bedriveren ave</l>
+<l n="300"><milestone unit="fol" n="242va"/> Reynaut van Gelre grave</l>
+<l>Ende die grave van Gulken met,</l>
+<l>Dies beide hadden te bet,</l>
+<l>Want sij in dit bedrijf te samen</l>
+<l>Hoechden hoirs titels namen.</l>
+<l n="305">Want deene wilt heeten hertoge</l>
+<l>Ende dandre een marcgrave hoge,</l>
+<l>Dat sij in dat bedrijf gewonnen,</l>
+<l>Want hem die keyser des woude onnen.</l>
+<l>Op desen troost, hebbic vernomen,</l>
+<l n="310">Soe es Eduwaert over comen</l>
+<l>Ende besochte dat ierste lant</l>
+<l>Al tote Antwerpen in Brabant.</l>
+<l><edition n="101"/>Dair ging hij op, daert menich sach,</l>
+<l>Op sinte Marien Magdalenen dach</l>
+<l n="315">Mit vierdalf hondert scepen groot</l>
+<l>In dat jaar ons Heren al bloot</l>
+<l>xiij.c. ende xxx. ende achte.</l>
+<l>Ende op den alder iersten nachte</l>
+<l>Ontstac thuis, daer hij in sliep,</l>
+<l n="320">Daer menich mensche toe liep.</l>
+<l>Dese iiij. graven brochte hij mede</l>
+<l>Al tAntwerpen in die stede:</l>
+<l>Van Noranthon ende van Dorbi,</l>
+<l>Van Suffolc ende van Sailgeberi,</l>
+<l n="325">Ende iij. bisscoppe oic mit hem:</l>
+<l>Cantelberge, Lincoel ende Durem.</l>
+<l>Dus es die coninc over comen,</l>
+<l>Maer hine heeft niet vernomen</l>
+<l>Gereedscap, dats sonder waen,</l>
+<l n="330"><milestone unit="fol" n="242vb"/> Also hem was doen verstaen.</l>
+<l>Want men seide van dage te dage</l>
+<l>Dat die keyser gereed lage</l>
+<l>Als te comenne mit groter macht.</l>
+<l>Maer anders heeft hij gedacht.</l>
+<l n="335">Die coninc dede derwairt draven</l>
+<l>Alse nu bisscoppe alse nu graven,</l>
+<l>Om dat hij emmer weten woude,</l>
+<l>Oft hij comen soude oft en soude.</l>
+<l>Maer en besloet dit no dat,</l>
+<l n="340">Soe dat die coninc selve op sat</l>
+<l>Ende trac, daer hij den keyser vant,</l>
+<l>Tote Covelenche in Overlant,</l>
+<l>Dat seker was een groot bestaen,</l>
+<l>So mislijc moght siin vergaen,</l>
+<l n="345">Van so groeten heere, sijt seker das,</l>
+<l>Als die coninc van Yngelant was.</l>
+<l>Want coninc van Engelant voir dien</l>
+<l>Was in dat lant selden gesien.</l>
+<l>Doe die keyser dat vernam,</l>
+<l n="350">Dat die coninc van Engelant quam,</l>
+<l>Ontfing hine mit groter eeren</l>
+<l>Alse betaemt selken heren.</l>
+<l>Die keyser wart beraden also,</l>
+<l><edition n="102"/>Dat hij woude besitten doe</l>
+<l n="355">Een keyserlike consistorie</l>
+<l>Om ene euwelike memorie.</l>
+<l>Daer ter stede so quamen</l>
+<l>Alle die coervorsten te samen</l>
+<l>Ende menich lants heere bij hem</l>
+<l n="360"><milestone unit="fol" n="243ra"/> Sonder die coninc van Behem,</l>
+<l>Die Philipse was so hout,</l>
+<l>Dat hij hem diende om dat zout.</l>
+<l>Die keyser dede ter selver tijt</l>
+<l>Ane siin keyserrike abijt,</l>
+<l n="365">Dat sonderlinge dier gewant,</l>
+<l>Ende hielt siin septre in deen hant,</l>
+<l>In dandre eenen appel ront</l>
+<l>Van goude, daer een cruce opstont.</l>
+<l>Die septre diet, alsic bevroede,</l>
+<l n="370">Een gheesele oft eene roede,</l>
+<l>Daer hij eerdrike mede dwingt.</l>
+<l>Die appel ons in bringt</l>
+<l>Die ronde werelt groot ende lanc,</l>
+<l>Die hij al heeft in siin bedwang.</l>
+<l n="375">Tcruce dat op den appel steit,</l>
+<l>Bediedt dat heylege kerstenheit,</l>
+<l>Daer God omme sterven woude</l>
+<l>Aent cruce tonsen behoude.</l>
+<l>Dat sweert, datmen hout bloot</l>
+<l n="380">Getogen boven siin hoot,</l>
+<l>Bediedt dat hij sonder hermen</l>
+<l>Theylege kerstenheyt sal bescermen</l>
+<l>Ende helpen uut alre vreesen</l>
+<l>Ende der kerken kempe wesen</l>
+<l n="385">Ende elken doen gescien recht,</l>
+<l>Niet bad den here dan den knecht.</l>
+<l>Dus sat die keyser daer ter stede</l>
+<l>Inden stoel siere mogenthede</l>
+<l><milestone unit="fol" n="243rb"/> Ende hielt daer een gedinge,</l>
+<l n="390">Dat groot was ende sonderlinge,</l>
+<l>Des gelike dat voer dien</l>
+<l>In langen niet en was gesien.</l>
+<l>Daer maecte de keyser scalc ende wijs</l>
+<l>Coninc Eduwairde vicarijs</l>
+<l n="395">Des heylichs rijcs al danne</l>
+<l><edition n="103"/>Met vonnesse sier manne.</l>
+<l>Derdsbisscop van Triere voerwair</l>
+<l>Wijsde doen dat vonnesse daer.</l>
+<l>Nuwe wette maecte hij met,</l>
+<l n="400">Die hier namaels siin geset.</l>
+<l>Doe keerde die coninc weder</l>
+<l>Tote Herken bij Halen neder,</l>
+<l>Daer hij besat handelinge</l>
+<l>Een hoge keyserrike gedinge</l>
+<l n="405">Alse srijcx vicarijs openbair.</l>
+<l>Srijcx manne maende hij daer</l>
+<l>Ende sij wijsden hem also houde</l>
+<l>Van al dat hij manen woude.</l>
+<l>Al te Mechelne quam hij na dat,</l>
+<l n="410">Daer hij oic een gedinge besat</l>
+<l>Alse vicarijs des heylichs rijcx.</l>
+<l>Waer hoerde noyt man des gelijcx?</l>
+<l>Nu hoert v. loye ende statute,</l>
+<l>Die de keyser daer gaf ute</l>
+<l n="415">Inden stoel siere mogentheyt,</l>
+<l>Daer ic u af hebbe geseidt.</l>
+<l>Dierste was als ict bevande:</l>
+<l>So wanneer in den Duutsschen lande</l>
+<l><milestone unit="fol" n="243va"/> Een Duudsch coninc worde gekoren</l>
+<l n="420">Vanden genen dier toe hoeren</l>
+<l>Oft vander meere partien,</l>
+<l>Dat hij te hant sal bevrien</l>
+<l>Ende bestimmen ende beleyden</l>
+<l>Des rijcs goet sonder beyden</l>
+<l n="425">Na confirmatie groot no smal,</l>
+<l>Die hem die paus geven sal.</l>
+<l>Dander loy es: so wanneere</l>
+<l>Enich des rijcs huldenere</l>
+<l>Jegen trijcke stuint of misdoet</l>
+<l n="430">Om dat te cranckene, des sijt vroet,</l>
+<l>Dat hij dan al sonder blijf</l>
+<l>Verboert sal hebben goet ende lijf.</l>
+<l>Dat derde es: so wannere</l>
+<l>De keyser, die Roomsche heere,</l>
+<l n="435">Oft siin vicarijs, sijds gewes,</l>
+<l>Dies van siere wegen machtich es,</l>
+<l><edition n="104"/>Teneger stede wille vaeren</l>
+<l>Omme srijcken recht bewaeren,</l>
+<l>Dat hem dan selen volgen daer</l>
+<l n="440">Des riken huldeneren naer,</l>
+<l>So waer dat hij voeren vaert.</l>
+<l>Diet liete, bleve ombewaert.</l>
+<l>Dat vierde loy es dus geleydt:</l>
+<l>Soe wi dat den anderen ontseit,</l>
+<l n="445">Sal daer naden derden dach</l>
+<l>Lijden laten, eer hij hem mach</l>
+<l>Evel doen oft enege scade,</l>
+<l><milestone unit="fol" n="243vb"/> Ende waert dat hier jegen dade,</l>
+<l>So soude hij geacht siin voirtan</l>
+<l n="450">Over eenen onwettegen man</l>
+<l>Ende verdeilt ende sonder wet</l>
+<l>Ende buten allen rechte geset.</l>
+<l>Dat vijfste loy es, des geloeft:</l>
+<l>Soe wie dat opter straten rooeft,</l>
+<l n="455">Sal verboert hebben lijf ende goet,</l>
+<l>Ende die den strasseneren, des sijt vroet,</l>
+<l>Huist of hoeft, sij arm of rike,</l>
+<l>Sal verboeren des gelike</l>
+<l>Ende die keyser en sal hem tleven</l>
+<l n="460">Noch goet weder mogen geven.</l>
+<l>Dit sijn die v. loye waerlijc,</l>
+<l>Die de vierde keyser Loduwijc</l>
+<l>Uut gaf mit grooter sollempniteyt</l>
+<l>Te Covelenche als ic hebbe geseyt.</l>
+<l n="465">Om dat die keyser so trage was</l>
+<l>Neder te comenne alsic las,</l>
+<l>So moeste die coninc van Engelant</l>
+<l>Verwiintert bliven in Brabant</l>
+<l>Al tAntwerpen in die stede</l>
+<l n="470">Ende siin graven ende bisscopen mede</l>
+<l>Mit vele volcx te waren,</l>
+<l>Die int lant gesprait waeren</l>
+<l>Op des keysers goet beheet</l>
+<l>Dat hij comen soude gereet,</l>
+<l n="475">Als men hadde dnuwe gras.</l>
+<l>Maer doe die somer comen was</l>
+<l>Ende meer dan half leden doe,</l>
+<l><pb n="105"/><milestone unit="fol" n="244ra"/> Antwordde die keyser daer toe</l>
+<l>In deser wijs siin ontscout.</l>
+<l n="480">Om dat hem niet en was siin sout</l>
+<l>Vol gheven eens hem gebrac</l>
+<l>Ten dage, als men hem toesprac,</l>
+<l>So waere die vorwaerde te broken,</l>
+<l>Die te voren was gesproken.</l>
+<l n="485">Maer siin lettren heeft hij gesant</l>
+<l>Aen den hertoge van Brabant,</l>
+<l>Want hij si srijcken huldenare,</l>
+<l>Dat hij mitten vicarijs vaere</l>
+<l>Ende helpe wreken ende wederstaen</l>
+<l n="490">Donrecht dat heeft gedaen</l>
+<l>Philips den Roomschen rike,</l>
+<l>Die hem seit coninc in Vrancrike.</l>
+<l>Ende des gelijcs sendi mede</l>
+<l>In Brabant an elke stede.</l>
+<l n="495">Doe die coninc dat vernam,</l>
+<l>Dat die keyser niet en quam,</l>
+<l>Sprac hij aldus dese woerde</l>
+<l>Also als icse seggen hoerde:</l>
+<l>God, die almechtege vader,</l>
+<l n="500">Doet dit om mijn goet al gader.</l>
+<l>Want waert dat die keyser quame</l>
+<l>Ende hem des orloochs ane name</l>
+<l>Ende ons God dan gave zege,</l>
+<l>Soe soudemen hem alle wege</l>
+<l n="505">Also lange alst volc soude leven,</l>
+<l>Dere vander victorien gheven,</l>
+<l>Wiese verdiende ofte wan.</l>
+<l><milestone unit="fol" n="244rb"/> Ooc so es hij inden ban</l>
+<l>Vanden heylegen stoel van Rome,</l>
+<l n="510">Also dat wij, als ict beghome,</l>
+<l>Sijns te wers mochten hebben seere.</l>
+<l>Nu bevelic onsen Heere</l>
+<l>Alle mijn saken voert ende na</l>
+<l>Ende bidde hem dat hij in staden sta</l>
+<l n="515">Minen rechte ende anders niet.</l>
+<l>Nu hoert voirt wats geschiet.</l>
+<l>Die coninc trac nu alte hant</l>
+<l>Ane den hertoge van Brabant,</l>
+<l><edition n="106"/>Die siere moyen sone was,</l>
+<l n="520">Ende versochte ane hem das</l>
+<l>Van srijcx wegen dat hij</l>
+<l>Met rechte hem woude staen bij</l>
+<l>Ende donrecht helpen wederstaen,</l>
+<l>Dat Philips hadde gedaen</l>
+<l n="525">Ende siin vordren den keyserrike</l>
+<l>Ende sonderlinge aen Camrike,</l>
+<l>Dat hij aen hem hadde gesaect</l>
+<l>Ende siin slot daer af gemaect,</l>
+<l>Dat den rijke behoert an.</l>
+<l n="530">Ooc vermaende hijs hem dan</l>
+<l>Van maescapen dat hij</l>
+<l>Hem helpen woude ende staen bij</l>
+<l>Donrecht keren ende scade,</l>
+<l>Die hem Philips van Valoes dade</l>
+<l n="535">Ende des en woude bekennen niet.</l>
+<l><milestone unit="fol" n="244va"/> De hertoge hem doe beriet</l>
+<l>Ende wart des te rade dan,</l>
+<l>Want hij waere des rijken man,</l>
+<l>Dat hij ende de sine souden</l>
+<l n="540">Sriken palen helpen houden,</l>
+<l>Na dien dat hijs openbaere</l>
+<l>Van srijcs wegen versocht waere.</l>
+<l>Oec gedachte den hertoge mede</l>
+<l>Die groete scade ende onvrede,</l>
+<l n="545">Die hem Philips al sonder waen</l>
+<l>Daer te voeren hadde gedaen,</l>
+<l>Doen hij mit sinen goude root</l>
+<l>Gewan xv. lantsheren groot,</l>
+<l>Om dat sij Brabant souden ontginnen</l>
+<l n="550">Ende den hertoge siin lant af winnen</l>
+<l>Ende dien hem bringen gevaen,</l>
+<l>Daer elc van hem sonder waen</l>
+<l>Al sine macht dede toe,</l>
+<l>Des hij mit eeren ontscoet doe,</l>
+<l n="555">Des men ewelijc wel mach</l>
+<l>Met rechte daer af doen gewach.</l>
+<l>Dus gerees so lanc die dinc,</l>
+<l>Dat die somer zeer henen ginc.</l>
+<l>Doen nam die coninc sine vaert</l>
+<l n="560">Ute Brabant te Vranckerike waert</l>
+<l><edition n="107"/>Omtrent onser Vrouwen dach,</l>
+<l>Die inde maent van september lach,</l>
+<l>Doer Henegouwe ende Camersijs.</l>
+<l>Die hertoge in deser wijs</l>
+<l n="565"><milestone unit="fol" n="244vb"/> Gereedde hem oic hier jegen</l>
+<l>Alse die sier manscap woude plegen</l>
+<l>Met vele heren, des zijt vroet,</l>
+<l>Daer hij hem eerlijc mede loet</l>
+<l>Alse graven ende baroenen te waeren,</l>
+<l n="570">Die met hem onthouden waeren.</l>
+<l>Die hertoge van Gelre quamer toe</l>
+<l>Ende ij. marcgraven also,</l>
+<l>Gulke ende Brandenborch, dat wet.</l>
+<l>Loen, Marke, Verrenborch met,</l>
+<l n="575">Van Catcenelboge die grave</l>
+<l>Ende vanden Berge dese quamen ave.</l>
+<l>Die grave van Mijssen quamer toe,</l>
+<l>Die heere van Valkenborch alsoe.</l>
+<l>Mijn her Jan van Henegouwe,</l>
+<l n="580">Die heere van Kuic, alsict scouwe,</l>
+<l>Ende ander heren die ic u</l>
+<l>Niet en can genoemen nu,</l>
+<l>Die alle quamen willichlike</l>
+<l>Op Philipse van Vrancrijcke.</l>
+<l n="585">Die bisschop van Ludicke dan</l>
+<l>Ende van Byhem coninc Jan</l>
+<l>Ende van Henegouwe de grave,</l>
+<l>Philips wasser oem ave,</l>
+<l>Dese trocken waerlike</l>
+<l n="590">Tot Philipse in Vrancrijke.</l>
+<l>Alse was die grave van Henegouwe</l>
+<l>Over getogen, als ict scouwe,</l>
+<l><milestone unit="fol" n="245ra"/> Met Philipsen, sinen oeme,</l>
+<l>Hine was niet seere willecome,</l>
+<l n="595">Want Eduwaert, alsict u scrive,</l>
+<l>Hadde sier suster tenen wive,</l>
+<l>So dat Philips dat wel verstoet,</l>
+<l>Dat sijn neve droech den moet</l>
+<l>Vele meer tot Eduwaerde,</l>
+<l n="600">Hoe so dat hij daer gebairde.</l>
+<l>Aldus als ghij moget hoeren</l>
+<l><edition n="108"/>So trac Eduwaert voeren</l>
+<l>Inden palen van Vrancrijcke</l>
+<l>Ende die hertoge die gelike</l>
+<l n="605">Trac uut mit groeter gewelt</l>
+<l>Tote Haspre op dat velt</l>
+<l>Ende woude sijns volx ontbeiden</l>
+<l>Ende oic van daer niet sceiden,</l>
+<l>Hine hadde gesproken, wet wel dat,</l>
+<l n="610">Die van Camerike uter stad.</l>
+<l>Gelede heeft hij hem gesant</l>
+<l>Ende sij senden alte hant</l>
+<l>Van haeren rade buyten der poert</l>
+<l>Om te hooirne thertogen woert.</l>
+<l n="615">Die hertoge hi seiden doe,</l>
+<l>Want Camerike hoerde toe</l>
+<l>Van rechte den Aelmaenschen rike,</l>
+<l>Dat sij daden groot ongelike,</l>
+<l>Dat si de Fransoyse onthilden,</l>
+<l n="620">Die dat rijke crancken wilden.</l>
+<l>Ende want hij srijcx marscalc waere</l>
+<l><milestone unit="fol" n="245rb"/> Ende van srijcx wegen comen daere,</l>
+<l>So begeerde hij van rechte dat</l>
+<l>Sij hem openden die stad.</l>
+<l n="625">Doe sij des niet doen en wouden</l>
+<l>Also sij doen van rechte souden,</l>
+<l>Hadde die hertoge ocsuyn dat hij</l>
+<l>Den vicarijs soude staen bij</l>
+<l>Ende voert in Vrancrijke vaeren.</l>
+<l n="630">Ende om dat hij hem woude bevaeren,</l>
+<l>So heeft hij tot Philipse gesant</l>
+<l>Ende ontseide hem al te hant.</l>
+<l>Dus volghde hij mogendelike</l>
+<l>Den vicarijs in Vrancrijke,</l>
+<l n="635">Daer sij strueerden ten stonden</l>
+<l>So wat sij buten vesten vonden.</l>
+<l>Want om dat so bij was</l>
+<l>Den wintre, alsic voeren las,</l>
+<l>Sone wouden sij met allen</l>
+<l n="640">Vore en gheene veste vallen.</l>
+<l>Dus trocken sij inden lande</l>
+<l>Beyde mit rove ende mit brande</l>
+<l>Ende also voert met desen doene</l>
+<l><edition n="109"/>Tote bijder stede van Piroene</l>
+<l n="645">Ende also henen bat voert</l>
+<l>Tote bij Sente Quintens der poert</l>
+<l>Ende van daer niet verre van Louwen,</l>
+<l>Daer men anders nien mocht scouwen</l>
+<l>Danne brant telker partyen</l>
+<l n="650">Al tote Flamingerien.</l>
+<l><milestone unit="fol" n="245va"/> Tgoet datmen daer toe wan</l>
+<l>En mochte vertrecken geen man.</l>
+<l>Drie weken dat sij daer lagen,</l>
+<l>Dat sij noit viant en sagen.</l>
+<l n="655">Philips was toornich ende erre</l>
+<l>Ende was op die waerde van verre,</l>
+<l>Daer hij altoes bewaert was</l>
+<l>Over riviere ofte anderen pas,</l>
+<l>Datmen tote hem niet en mochte.</l>
+<l n="660">Want hij pensde ende dochte</l>
+<l>Dat hij mit subtijlheyden</l>
+<l>Die dinc so lanc soude leyden,</l>
+<l>Datse des winters vlagen</l>
+<l>Uten lande souden jagen.</l>
+<l n="665">Nochtan so vloech hem, des geloeft,</l>
+<l>Die roec dagelijcs over thooft.</l>
+<l>Doe den heren aldus dochte</l>
+<l>Datmen Philipse niet en mochte</l>
+<l>Toe comen no bestriden,</l>
+<l n="670">Wat sine sochten tallen tijden,</l>
+<l>Ende die regen ende die coude</l>
+<l>Op hem quam so menichfoude</l>
+<l>Ende sij oic hadden vele faelgen</l>
+<l>Van drancke ende andre vitailgen</l>
+<l n="675">Mits den sloten sonder waen,</l>
+<l>Die sij achter hen lieten staen,</l>
+<l>Worden te rade so die heeren,</l>
+<l>Dat sij weder wilden keeren</l>
+<l>Toter vriende lande waert</l>
+<l n="680"><milestone unit="fol" n="245vb"/> Ende versten also die vaert</l>
+<l>Toten naesten saysoene.</l>
+<l>Daer ne waere anders nie toe te doene.</l>
+<l>Doe Philips dat vernam</l>
+<l>Ende die mare tote hem quam,</l>
+<l n="685"><pb n="110"/> Dat sij trocken achterwaert,</l>
+<l>Dachte hijse inden steert</l>
+<l>Te beslupene mit siere macht</l>
+<l>Ende trac al dien langen nacht</l>
+<l>Met sienen groeten heere alsoe</l>
+<l n="690">Toter Flammingerien toe</l>
+<l>Tote op een mijlken, seidi diet sach,</l>
+<l>Daer die coninc Eduwaert lach.</l>
+<l>Ende hij en wiste niet, seidemen mi,</l>
+<l>Dat hij Eduwaert was so bij.</l>
+<l n="695">Want hij hielt hem, sijt seker das,</l>
+<l>Over eenen groeten pas,</l>
+<l>Daer eene brugge over stoet,</l>
+<l>Die groot was, starc ende goet,</l>
+<l>Daer hij wel over waende tien,</l>
+<l n="700">Haddi sinen point gesien.</l>
+<l>Nu was Philips doen bekant,</l>
+<l>Dat die hertoge van Brabant</l>
+<l>Thuuswaert waere getogen.</l>
+<l>Des was hij seere in hogen,</l>
+<l n="705">Want hij Eduwaerde met gewelt</l>
+<l>Beloepen waende op dat velt</l>
+<l>Oft ander liede van sinen wegen</l>
+<l>Die hij daer seinden soude jegen,</l>
+<l><milestone unit="fol" n="246ra"/> Als die dach waere opgegaan.</l>
+<l n="710">Ende des nachts so heeft verstaen</l>
+<l>Eduwaert dese sake,</l>
+<l>Die seere was te gemake,</l>
+<l>Dat hij Philipse soude sien.</l>
+<l>Weten liet hij dat mettien</l>
+<l n="715">Den heren die bij hem waren,</l>
+<l>Dat sij hem also bewaeren,</l>
+<l>Dat sij ten wapenen souden siin,</l>
+<l>Tierst datmen sage des daigs schijn</l>
+<l>Ende hair batailgen wijslijc maken</l>
+<l n="720">Also behoert talselken saken.</l>
+<l>Want hij hadde also vernomen</l>
+<l>Dat Philips soude over comen.</l>
+<l>Des morgens inder dageraet</l>
+<l>Ghinc al te wapenen, dat verstaet.</l>
+<l n="725">Men ginc missen lesen mede</l>
+<l>Ende biechten alsoet es die sede</l>
+<l><edition n="111"/>Ende ontfaen den Heere, daer binnen</l>
+<l>Leeght al die zege ende tverwinnen.</l>
+<l>Doe begonsten die heren</l>
+<l n="730">Hair batailgen te ordineren.</l>
+<l>Drie batailgen alsic verstoet</l>
+<l>Hadden sij daer groet ende goet,</l>
+<l>Maer die hertoge van Brabant</l>
+<l>Hadde die scoenste als ic bevant</l>
+<l n="735">Ende die meeste ten selven male</l>
+<l>Ende trooste die sine herde wale.</l>
+<l>Die coninc reed toten batailien</l>
+<l>Ende gaf troost sonder faelien</l>
+<l>Met eenen goeden aensichte,</l>
+<l n="740">So dat elcs herte verlichte.</l>
+<l>Ter erden beetten sij alle doe</l>
+<l>Ende verbeyden die viande also</l>
+<l>Alse nu stoeden, alse nu saten.</l>
+<l>Luttel dat sij op dien dach aten.</l>
+<l n="745">Nu willic u maken vroet,</l>
+<l>Watmen in dander sijde doot.</l>
+<l>Philipse was doen bekant,</l>
+<l>Dat die hertoge van Brabant</l>
+<l>Seker thuuswert waere gekeert</l>
+<l n="750">Ende heeft aldus geordineert,</l>
+<l>Dat die coninc van Byhem,</l>
+<l>Die bisscop van Ludicke mit hem</l>
+<l>Ende die oost heren gemeen,</l>
+<l>Dier daer waeren menich een,</l>
+<l n="755">Ende heren oic uut Vrancrijke,</l>
+<l>Trecken souden gemeynlike</l>
+<l>Ende dien pas over lijden</l>
+<l>Ende Eduwaert bestrijden.</l>
+<l>Doe dese heren gereet waeren</l>
+<l n="760">Ende som over den pas gevaren</l>
+<l>Quam een wards man seere gerent,</l>
+<l>Dien sij voeren hadden gesant,</l>
+<l>Ende brachte hem selke mare,</l>
+<l>Dat die hertoge noch daer waere</l>
+<l n="765">Met menegen vromen man</l>
+<l>Ende dat die coninc waere dan</l>
+<l>Ende siin hulperen mit allen</l>
+<l><pb n="112"/><milestone unit="fol" n="246va"/> Neder te voet gevallen</l>
+<l>Alse die zege wilden verwerven</l>
+<l n="770">Oft opt velt tesamen sterven.</l>
+<l>Doe die heeren hoerden claer,</l>
+<l>Dat die hertoge noch waere daer</l>
+<l>Ende op ten velde also gescaert</l>
+<l>Ende so willich ten wige waert,</l>
+<l n="775">Keerden sij al sonder beyden</l>
+<l>Tote Philipse ende seiden</l>
+<l>Hem al dese selve mare</l>
+<l>Ende dat die hertoge waere daere</l>
+<l>Metter scoenster batailgen die</l>
+<l n="780">Onder eenen heere wart gesien je</l>
+<l>Ende dat hem wel voegen soude,</l>
+<l>Dat hij trecke also houde</l>
+<l>Te sinen vianden, daer si</l>
+<l>Hem te velde lagen so bi</l>
+<l n="785">Gescaert in sijns selfs lande,</l>
+<l>Die hem also groeten scande</l>
+<l>Ende scade hadden gedaen,</l>
+<l>Ende woude hijt weder staen,</l>
+<l>Sij souden ter selver uren</l>
+<l n="790">Hair lijf met hem aventuren,</l>
+<l>Ende trocke hij oic des achter,</l>
+<l>Hij bleve ewelijc inden lachter,</l>
+<l>Want de viande waeren gescaert.</l>
+<l>Phylips antwerdde tervaert</l>
+<l n="795">Dat hij niet en woude so schiere</l>
+<l>Tere cansen wedden so diere</l>
+<l><milestone unit="fol" n="246vb"/> Ende dat hij die croene van Vrancrijke</l>
+<l>Niet en woude so haestelike</l>
+<l>Aventuren op eenre uren,</l>
+<l n="800">So mislijc vielen daventueren.</l>
+<l>Nu hoert hier eene edelhede</l>
+<l>Die coninc Eduwaert daer dede.</l>
+<l>Men brochte voir hem gevangen dan</l>
+<l>Enen Fransoys, enen wards man,</l>
+<l n="805">Die op ten velde quam gejaget.</l>
+<l>Ende als sij hem hadden gevraecht</l>
+<l>Al dat hij hem vragen woude,</l>
+<l>Gaf hij hem van sinen goude</l>
+<l>Ende daer toe een goet paert</l>
+<l n="810"><pb n="113"/> Dat vele gels was weert.</l>
+<l>Saert sprac hij: Segt uwen heere</l>
+<l>Dat mi vernoit harde seere</l>
+<l>Te liggene op deser heyden,</l>
+<l>Daer ic hebbe liggen beyden</l>
+<l n="815">Na hem van vroech mitten dage,</l>
+<l>Ende dat icken geerne sage</l>
+<l>Opden velde, mocht mi gescien.</l>
+<l>Die knape trac henen mittien</l>
+<l>Ende heeft sine bootscap wel gedaen.</l>
+<l n="820">Dus was mi seker doen verstaen.</l>
+<l>Doen sij daer dus mit gewelt</l>
+<l>Gelegen hadden op dat velt</l>
+<l>Met hongere in desen doene</l>
+<l>Tote lange over die noene,</l>
+<l n="825">Braken sij op mitter vaert</l>
+<l><milestone unit="fol" n="247ra"/> Ende elc trac ten sinen waert.</l>
+<l>Ende Eduwaert trac tAntwerpen waert</l>
+<l>Tsinen wive die hij hadde weert,</l>
+<l>Tsente Michiels in die abdie,</l>
+<l n="830">Daer sij lach mit haere partie,</l>
+<l>Daer sij van eenen sone genas,</l>
+<l>Die Lyoen daer geheeten was.</l>
+<l>Dit gesciede, dat es waer,</l>
+<l>Doen men screef xiij.c jaer</l>
+<l n="835">Ende xxxix, des zijt wijs,</l>
+<l>Omtrent ten dage Sinte Remijs,</l>
+<l>Op eenen saterdach alsict ontfinc.</l>
+<l>Nu hoert hier voert selsen dinc.</l>
+<l>Hier so moeghdi wonder hoeren.</l>
+<l n="840">In deser tijt ende daer te voeren</l>
+<l>So droech Vlaenderlant qualike</l>
+<l>Met haren grave Loduwike.</l>
+<l>So dat sij hem niet en getruden</l>
+<l>Ende sine wandelinge seere scuden,</l>
+<l n="845">Omdat hij altoos te rade ginc</l>
+<l>Philipse, den Vrancschen coninc,</l>
+<l>Ende sinen raed al gader dede,</l>
+<l>Dat hem dicke verginc te lede</l>
+<l>Also ghij nu hier na saen</l>
+<l n="850">In cortten woerde moeght verstaen.</l>
+<l><edition n="114"/>Die van Brugge sonder vermiden</l>
+<l>Quamen te Cortrike teenen tijden</l>
+<l>Ende vengen daer desen grave</l>
+<l>Ende sloegen hem oic daer ave</l>
+<l n="855"><milestone unit="fol" n="247rb"/> Voer siin oegen ter selver stonde</l>
+<l>Sinen maech, heere van Denremonde,</l>
+<l>Den heere van Nevle oic also</l>
+<l>Ende andre riddren daer toe,</l>
+<l>Die sij biden grave vonden.</l>
+<l n="860">Horen grave dat si bonden</l>
+<l>Op eenen wagen mitter vaert</l>
+<l>Ende voerdenen te Brugge waert</l>
+<l>Ende leydene met hoeden groot</l>
+<l>Ghevangen op haer bellefroet,</l>
+<l n="865">Daer hij lach lange stonde,</l>
+<l>Eer hij ute comen conde.</l>
+<l>Hier na moeste dicke gescien,</l>
+<l>Dat hij uut Vlaenderen moeste vlien</l>
+<l>Ende te Vrancrijke waert jagen,</l>
+<l n="870">Oft siin volc hadden verslagen.</l>
+<l>So ongemint was hij altoes</l>
+<l>Met sinen volke ende graciloes.</l>
+<l>Des men vele beteech doen</l>
+<l>Heren Willeme van Ausoen,</l>
+<l n="875">Was een clerc, een Borgelion.</l>
+<l>Hij was siin laten ende siin doen,</l>
+<l>Die mids Philipse van Vrancrike</l>
+<l>Bisscop tsint was tot Camerrike,</l>
+<l>Die vele discoerds brachte toe.</l>
+<l n="880">Eens so gevielt also,</l>
+<l>Dat die grave om siin ongevoech</l>
+<l>Met sinen volke so qualiken droech,</l>
+<l>Dat hij in Vrancrijcke quam gejaecht</l>
+<l>Van vreesen ende seere versaecht,</l>
+<l n="885"><milestone unit="fol" n="247va"/> Datten siin liede willen ontliven</l>
+<l>Ende dat hij dair nien dar bliven</l>
+<l>Om groote vreese vander doot.</l>
+<l>Philips met heere groot</l>
+<l>Gereedde hier omme sine vaert</l>
+<l n="890">Ende trac also te Vlaenderen waert.</l>
+<l>Onder Casselle so viel hij doen,</l>
+<l>Dair men sach menich pauwelioen.</l>
+<l><edition n="115"/>Nu hoert voert an dmeeste geninde,</l>
+<l>Dat ic ergen bescreven vinde.</l>
+<l n="895">Die Vleminge die in dien dagen</l>
+<l>Uten westen te Cassele lagen</l>
+<l>Ende alle die pauwelioene sagen,</l>
+<l>Begonst hem qualijc te behagen</l>
+<l>Ende hem die coninc oic benam,</l>
+<l n="900">Dat hem geen vitaelge en quam,</l>
+<l>Worden sij te rade in dien,</l>
+<l>Dat sijt den coninc wouden tien.</l>
+<l>Thien dusent waser of daeromtrent</l>
+<l>Uut Weest-Vlaenderen, want die van Gent</l>
+<l n="905">Ende van Brugge en waeren doe</l>
+<l>Noch ander steden niet comen toe.</l>
+<l>Dese setten al voer al</l>
+<l>Ende trecken neder sonder gescal</l>
+<l>Midden daigs wel gescaert</l>
+<l n="910">Ende trocken tconincs tenten waert</l>
+<l>Ende waeren tot daer bij comen.</l>
+<l>Ende hadde die grave niet vernomen</l>
+<l>Van Henegouwe dese dinc,</l>
+<l>Die hen den streke onderginc,</l>
+<l n="915"><milestone unit="fol" n="247vb"/> Si hadden claerlijc doen met allen</l>
+<l>In des coninc pauwelioen gevallen,</l>
+<l>Eer hijs hadde geweten yet.</l>
+<l>Selc genint es selden gesciet.</l>
+<l>Al viel hem daventuere swaer,</l>
+<l n="920">De grave hij bestoese daer</l>
+<l>Met een deel Brabantsoenen.</l>
+<l>Het was rechte voer der noenen.</l>
+<l>Daer versloochijse alle doot,</l>
+<l>Datter cume een ontscoot.</l>
+<l n="925">xiij.c een endertich ende acht</l>
+<l>Screefmen op Sinte Bartelmeus dach.</l>
+<l>Mids desen so ginc Vlaenderlant</l>
+<l>Sinen grave te male in hant.</l>
+<l>Die coninc trac weder thuis waert.</l>
+<l n="930">Die grave trac int lant ter vaert</l>
+<l>Ende ginc sieden ende braden,</l>
+<l>Blinden, hangen ende raden</l>
+<l>Te Brugge ende oec te Ghent</l>
+<l>Ende int lant daer omtrent</l>
+<l n="935"><pb n="116"/> Ende hadde siin lant wel in bedwange.</l>
+<l>Maer en geduerde hem niet lange.</l>
+<l>Doe Willam, grave van Henegouwe,</l>
+<l>Desen dienst scoen ende getrouwe</l>
+<l>Philipse van Vrancrijke hadde gedaen</l>
+<l n="940">Also ghij hier voeren hebt verstaen,</l>
+<l>So haddijs danc cume iet</l>
+<l>Van Philipse ofte niet.</l>
+<l>Van doen hij hadde vercregen</l>
+<l>Crevecuer ende Alut jegen</l>
+<l n="945"><milestone unit="fol" n="248ra"/> Eenen heere van Denremonde,</l>
+<l>Dies machtich was tier stonde,</l>
+<l>Ende wel betaelt mit sinen gelde,</l>
+<l>So onderginc hem mit gewelde</l>
+<l>Philips ende bleeffer heere ave,</l>
+<l n="950">Waest lief ofte leet den grave.</l>
+<l>Ende doen hij gewaere waert des,</l>
+<l>Dat al sinen dienst verloren was</l>
+<l>Ende dat Philips en dachte mere</l>
+<l>Op vromecheyt noch op eere,</l>
+<l n="955">Die enich goet man hadde verdient,</l>
+<l>Ende siin en woude niemans vrient</l>
+<l>Ende anders niet en gheerde</l>
+<l>Dan scat ende groete hoeverde,</l>
+<l>Dachte hij in sinen moede,</l>
+<l n="960">Hij soudt hem maken tontgoede.</l>
+<l>Want hij was wijs ende behindech</l>
+<l>Daertoe stoudt ende ghenindech,</l>
+<l>Ende ginc te hant informeren</l>
+<l>Deser werelt meeste heeren,</l>
+<l n="965">Dat was den keyser Loduwike,</l>
+<l>Den coninc van Engelant die gelike,</l>
+<l>Den grave van Gulke daertoe meer,</l>
+<l>Want hij was hoeren iij.er zweer,</l>
+<l>Ende ander heren daer toe met.</l>
+<l n="970">Dus ruerde tierst, dat ghijt wet,</l>
+<l>Dese grave voere siin doot</l>
+<l>Dorloge dat nu staet groot.</l>
+<l>Ende waere hij te live bleven,</l>
+<l>Hij hadt daer toe wel verdreven,</l>
+<l n="975"><milestone unit="fol" n="248rb"/> Dat die keyser al sine macht</l>
+<l><edition n="117"/>Met hem hadde neder bracht</l>
+<l>Ende dat oic dorloge sonder waen</l>
+<l>Vele bat hadde voert gegaen.</l>
+<l>Dat ic dese toewale dus segge</l>
+<l n="980">Ende mede in die geste legge</l>
+<l>Alse ghij wel hoert ende siet,</l>
+<l>Dat ne doe ic sonder sake niet.</l>
+<l>Want poeten ende cronisten,</l>
+<l>Die van dichtene wel wisten,</l>
+<l n="985">Plagens oic alsict verstae</l>
+<l>Ende heetent incidentia.</l>
+<l>Oec eest goet, alst mach gevallen,</l>
+<l>Dat men coute ende hoere van allen.</l>
+<l>Want hier en es geset niet,</l>
+<l n="990">En hoere te deser geesten iet.</l>
+<l>Des biddic hem diet selen lesen</l>
+<l>Dat sijt in goede laten wesen.</l>
+<l>Nu wart echt dese Loduwijc</l>
+<l>Grave van Vlaenderen qualijc</l>
+<l n="995">In siin lant onder siin liede</l>
+<l>Als hem menichwerf gesciede,</l>
+<l>So dat hij nam sine vaert</l>
+<l>Van vreesen te Vrancrike waert.</l>
+<l>Nu moechdi hoeren vrimde dinc,</l>
+<l n="1000">Hoet in Vlaenderen nu staen ginc.</l>
+<l>Binnen Ghent so was verhaven</l>
+<l>Een knape niet rike van haven</l>
+<l>Ende van gheenre grooter geboort.</l>
+<l>Doe so wart getogen voert</l>
+<l n="1005"><milestone unit="fol" n="248va"/> Dat al tlant an hem vel.</l>
+<l>Maer hij conste spreken wel</l>
+<l>Ende wart van groeter gewelde</l>
+<l>Ende hiet Jacob van Artenvelde,</l>
+<l>Daer al tlant an viel seere</l>
+<l n="1010">Jegen den grave, sinen heere.</l>
+<l>Dese Jacop ging nu poegen,</l>
+<l>Hoe hij hem soude mogen</l>
+<l>Jegen den grave bewaeren altoos</l>
+<l>Ende jegen Philipse van Valoes,</l>
+<l n="1015">Die hem haetten totter doot.</l>
+<l>Nu hoert hier wonder groot.</l>
+<l><edition n="118"/>Hij bracht daer toe dien stonden,</l>
+<l>Dat te samen worden verbonden</l>
+<l>Eduwaert, coninc van Engelant,</l>
+<l n="1020">Ende Vlaenderen ende Brabant</l>
+<l>Ende die grave van Hollant mede</l>
+<l>Met consente van elker stede.</l>
+<l>Die steden van Vlaenderen quamen</l>
+<l>Hier omme in Brabant te samen</l>
+<l n="1025">Ende die staden van Brabant</l>
+<l>Quamen weder in Vlaenderlant</l>
+<l>Om dat vaste te besaertereerne</l>
+<l>Ende mit zegulen te confirmeerne,</l>
+<l>Daer elc van hen soude wederstaen</l>
+<l n="1030">Donrecht dat hen worde gedaen</l>
+<l>Ende elc soude andren wale</l>
+<l>Helpen houden sine pale</l>
+<l>Ende al onrecht hulpen weren,</l>
+<l>Dat den anderen mochte deren,</l>
+<l n="1035"><milestone unit="fol" n="248vb"/> Jegen elc lant ende elken heere.</l>
+<l>Ende dit soude duren emmermeere</l>
+<l>Met vele vorweerden, des zijt vroet,</l>
+<l>Die oirboirlijc siin ende goet,</l>
+<l>Die ic niet vertrecken en can.</l>
+<l n="1040">Die heren zegelden voere dan,</l>
+<l>Baenrootsen ende riddren daerna</l>
+<l>Uut elken lande alsict versta,</l>
+<l>Ende dair na elke vrye stede</l>
+<l>In Brabant ende in Vlaenderen mede.</l>
+<l n="1045">Houdment wel, so eest goet,</l>
+<l>Ende houdtment qualijc, des zijt vroet,</l>
+<l>So en eest maer sceren ende scop.</l>
+<l>Hier staet hen wel te siene op,</l>
+<l>Want eens here onder der sonne,</l>
+<l n="1050">Die hen soude gederen connen,</l>
+<l>Op dat sij hem wel te samen binden,</l>
+<l>God en woudse selve schinden.</l>
+<l>Doe die coninc te Ghent in quam</l>
+<l>Om dit gebont alsic vernam,</l>
+<l n="1055">Brachte hij an wel gevisiert</l>
+<l>Vrancrike ende Engelant gequartiert</l>
+<l>Ende screef hem coninc van beiden dan</l>
+<l><edition n="119"/>Ende ontfingen den goeden man</l>
+<l>Over coninc van Vrancrike.</l>
+<l n="1060">Wie hoerde je des gelike?</l>
+<l>Doe dese dingen waeren gedaen,</l>
+<l>Es die coninc gevaren saen</l>
+<l>TEngelant waert om meer baten</l>
+<l>Ende heeft binnen Gent gelaten</l>
+<l n="1065"><milestone unit="fol" n="249ra"/> Siin wijf ende siin kindre mede.</l>
+<l>Oic gelach sij daer stede</l>
+<l>Van eenen sone, dat es waer.</l>
+<l>Ende die coninc geloefde daer</l>
+<l>Weder te comenne sekerlike,</l>
+<l n="1070">Onsts hem God van hemelrike,</l>
+<l>Alse die winter waere sier vaerde</l>
+<l>Ende men gras vonde op daerde.</l>
+<l>Dus heeft Jacob van Artenvelde</l>
+<l>Hem bewaert mit gewelde</l>
+<l n="1075">Met groeten heren also ghij</l>
+<l>Nu hebt horen seggen mi.</l>
+<l>Hoe die van Camerrike ute traeken</l>
+<l>Ende Haspre al gader ontstaken</l>
+<l>Ende andre dorpe also wale,</l>
+<l n="1080">Hoe die grave ten selven male</l>
+<l>Ende siin oem van Beamont</l>
+<l>Trocken ter selver stont</l>
+<l>In sconincs Philips lande</l>
+<l>Beide mit roeve ende mit brande,</l>
+<l n="1085">Dat willic desen tijden</l>
+<l>Al meest over lijden.</l>
+<l>In deser tijt geviel oic dat</l>
+<l>Die van Risele der stad</l>
+<l>Quamen in Vlaenderlant</l>
+<l n="1090">Ende stichten roof ende brant</l>
+<l>Ende een deel dorpe gedestrueert.</l>
+<l>Maer sij worden saen gekeert,</l>
+<l>Want Vlaminge ende Engelsce mede</l>
+<l>Jaeghdense weder in hair stede</l>
+<l n="1095"><milestone unit="fol" n="249rb"/> Te hoeren scaden ende scanden swaer.</l>
+<l>Maer ij. graven vingen sij daer</l>
+<l>Uut Engelant, geloevets mij,</l>
+<l>Van Soffolc ende van Sailgebery,</l>
+<l>Om dat sij te verre volchden na</l>
+<l n="1100"><pb n="120"/> Den vianden alsict versta,</l>
+<l>Diemen Philipse alte hant</l>
+<l>Teenen presente heeft gesant,</l>
+<l>De welke graven hij beyde</l>
+<l>In siin vaste hoede leyde.</l>
+<l n="1105">Tegen dat die zomer naken</l>
+<l>Soude, hadde Philips doen maken</l>
+<l>Een vlot van cc. scepen,</l>
+<l>Daer hij mit hadde begrepen</l>
+<l>Al tenen gader dat Swin,</l>
+<l n="1110">So datter engeen goet in</l>
+<l>Comen en mochte te Vlaenderen weert</l>
+<l>Noch te Brabant, en wart geweert.</l>
+<l>Oec was haer meninge mede,</l>
+<l>Waert dat Eduwaert over lede,</l>
+<l n="1115">Dat sine seker souden bestaen</l>
+<l>Ende dan vangen ofte verslaen.</l>
+<l>Dese scepe daden groeten pant</l>
+<l>Beyde in Vlaendren ende in Zeelant</l>
+<l>Ende in Brabant daer toe mede</l>
+<l n="1120">Al tote Antwerpen der stede.</l>
+<l>Want die mare liep openbair</l>
+<l>Dat sij souden comen daer</l>
+<l>Ende die stad daer bestriden.</l>
+<l>Antwerpen ten selven tiden</l>
+<l n="1125"><milestone unit="fol" n="249va"/> Bewaerde hem hier jegen wale</l>
+<l>Met meneger blijden ende springale.</l>
+<l>Oec was tier tijt ane geleyt</l>
+<l>Die torne aende visschemarc steit,</l>
+<l>Die starc, groot ende scone es.</l>
+<l n="1130">Doe schreefmen xl., sijs gewes.</l>
+<l>Een hooft roevere was dan</l>
+<l>Van desen scepen een voerman.</l>
+<l>Spoude Visch was siin toename,</l>
+<l>God ende menschen ombequame.</l>
+<l n="1135">Hier na seldi hoeren te samen</l>
+<l>Hoe so dat si ende namen.</l>
+<l>Doe die winter leden was</l>
+<l>Ende men hadde dnuwe gras,</l>
+<l>Quam mijn her Jan, Philips zone,</l>
+<l n="1140"><pb n="121"/> Die oirloegs nien was gewoene,</l>
+<l>Met vele volcx wel te gereke</l>
+<l>Ende viel doe voer Tuinliveke,</l>
+<l>Dat toe hoerde den bisscop.</l>
+<l>Maer daer so waeren op</l>
+<l n="1145">Sgraven liede van Henegouwe,</l>
+<l>Diet hielden alse lieden getrouwe.</l>
+<l>Want een riddre, een Henouwier,</l>
+<l>Hiet van Maeny her Wautier,</l>
+<l>Had thuis onder ronnen</l>
+<l n="1150">Sbysscops liede ende af gewonnen</l>
+<l>Ende siin partie daer op gedaen.</l>
+<l>Doe dit die grave hadde verstaen</l>
+<l>Van Henegouwe liet hijt te hant</l>
+<l>Den hertoge weten van Brabant</l>
+<l n="1155"><milestone unit="fol" n="249vb"/> Ende dien Vlaemingen daer toe,</l>
+<l>Die alle gader quamen doe.</l>
+<l>Die hertoge quam met groter machte,</l>
+<l>Want hij die gemeente met hem brachte</l>
+<l>Ende Jacop van Artenvelde</l>
+<l n="1160">Quam daer met groeter gewelde.</l>
+<l>Philips selve quam daer dan</l>
+<l>Bij sinen sone met menegen man.</l>
+<l>Maer sij lagen over eenen pas,</l>
+<l>Daer hij met wel bewaert was,</l>
+<l n="1165">So datmen hem en mochte doe</l>
+<l>Van gheenre zijden comen toe.</l>
+<l>De pas was wijt ende diep,</l>
+<l>Die tusschen beide die heren liep.</l>
+<l>Philips ende siin sone Jan</l>
+<l n="1170">Lagen in dander zijde dan.</l>
+<l>Henegouwe, Vlaenderen ende Brabant</l>
+<l>Lagen over anden anderen cant,</l>
+<l>So dat elc heere van daert lach</l>
+<l>In des anders heere wel sach.</l>
+<l n="1175">Nochtoe en hadmen niet vernomen,</l>
+<l>Oft Eduwaert over soude comen.</l>
+<l>Deen seide neen ende dander ja.</l>
+<l>Nu hoert voert alsict versta.</l>
+<l>Nochtan dat die pas was swaer,</l>
+<l n="1180">Si vonden oftan tghewat daer</l>
+<l>Vlaminge ende Brabantsoene,</l>
+<l><edition n="122"/>Die hem wouden maken coene,</l>
+<l>So dat sij dien pas som leden</l>
+<l>Ende metten vianden streden</l>
+<l n="1185"><milestone unit="fol" n="250ra"/> Ende scade daden ende scade namen</l>
+<l>Ende seere gequetsts weder quamen.</l>
+<l>Doe die heren sagen dat sij doe</l>
+<l>Philipse nien mochte comen toe</l>
+<l>Overmids den swaeren pas,</l>
+<l n="1190">Die tusschen hen beiden was,</l>
+<l>Ende dat hij oic mit siere gewelde</l>
+<l>Niet en soude topenen velde</l>
+<l>In gheer manieren comen,</l>
+<l>Hebben sij den raed genomen,</l>
+<l n="1195">Dat van Henegouwe die grave</l>
+<l>Sijne liede dede comen ave</l>
+<l>Ende stac int huus den brant</l>
+<l>Ende strueerdet tot int sant,</l>
+<l>Want thuus siins viands was,</l>
+<l n="1200">Des bisscops, alsic voren las.</l>
+<l>Dus keerden sij alle thuus waert.</l>
+<l>Si wisten cleene dat Eduwaert</l>
+<l>Der Sluus was comen so bi,</l>
+<l>Als ghij nu hoeren moeght van mi</l>
+<l n="1205">Doe dit voere Tuin gesciede,</l>
+<l>Quamen Eduwaert ende siin liede</l>
+<l>Getogen over die zee</l>
+<l>Mit ij.c. scepen of mee</l>
+<l>Alse die ghene die woude volstaen</l>
+<l n="1210">Int gelof dat hij hadde gedaen.</l>
+<l>Ende ten iersten dat hij vernam</l>
+<l>Dat hij bij tlant van Vlaenderen quam,</l>
+<l>Dede hi hem sonder letten</l>
+<l>Opt lant van Vlaenderen setten.</l>
+<l n="1215"><milestone unit="fol" n="250rb"/> Geloeft sij God, dat hij sprac.</l>
+<l>Doen ic uut desen lande trac,</l>
+<l>Geloefdic mitter trouwen mijn</l>
+<l>Dat ic hier weder soude siin</l>
+<l>Eer Sint Jans dach sonder waen</l>
+<l n="1220">Ende dat so hebbic gedaen,</l>
+<l>Want ic hier sta opt sant.</l>
+<l>Tsinen scepe trac hij te hant</l>
+<l><edition n="123"/>Ende rechte op Sinte Jans dach,</l>
+<l>Die in midden den somer lach,</l>
+<l n="1225">Omtrent der vespertide</l>
+<l>Bestoet hij mit scarpen stride</l>
+<l>Van Vrancrike Philips scepen,</l>
+<l>Die dat Swin hadden begrepen,</l>
+<l>Die menegen coopman beroeft</l>
+<l n="1230">Hadden ende oic onthoeft.</l>
+<l>Sonder voor raid ginghen si toe</l>
+<l>Met eenen hoefde, sine wisten hoe,</l>
+<l>Sonder avijs alsict versta.</l>
+<l>Deen quam voer ende dander na.</l>
+<l n="1235">Maer God sender sine genade,</l>
+<l>Om wech te doene die quade,</l>
+<l>Want hij haerer quader daden</l>
+<l>Niet langhre en woude gestaden.</l>
+<l>Die Fransoyse al ongelet</l>
+<l n="1240">Hebben hen ter were geset</l>
+<l>Stouteliken hoochs moods.</l>
+<l>Daer stortte men so vele bloots,</l>
+<l>Dat wonder was te scuwen an.</l>
+<l>Daer vochten sij aldus dan</l>
+<l n="1245">Van beyden zijden mit groter cracht,</l>
+<l><milestone unit="fol" n="250va"/> Tote dat hem benam die nacht.</l>
+<l>Des smorgens vroech echt alsoe</l>
+<l>Ginc die coninc weder toe</l>
+<l>Met geninde herde groot.</l>
+<l n="1250">Menich man so bleef daer doot,</l>
+<l>Ander verdroncken ende verslagen.</l>
+<l>Dit seiden sij diet wel sagen.</l>
+<l>Die coninc was, wien lief wien leet,</l>
+<l>Bijden iersten daer men street</l>
+<l n="1255">Ende vacht mitter hant so seere,</l>
+<l>Dat wonder was van selken heere.</l>
+<l>Die Fransoise mit groeten ghere</l>
+<l>Setten hen so seere ter weere,</l>
+<l>Dat wonder was te scouwen an.</l>
+<l n="1260">Daer moeste sterven menich man.</l>
+<l>Dus so stoet die starke strijt.</l>
+<l>Toter hooger prime tijt</l>
+<l>Dat sij streden ongeviert.</l>
+<l><edition n="124"/>Doe so worden gescouffiert</l>
+<l n="1265">Die Fransoise ende so begrepen,</l>
+<l>Dat sij sprongen uten scepen</l>
+<l>Ende verdroncken mit hoepen groet</l>
+<l>Ende vele bleeffer in die scepe doot,</l>
+<l>So datmen daer int dbloot</l>
+<l n="1270">Tote biden enkle woet.</l>
+<l>Die doode worden geworpen voort</l>
+<l>Inder zee over der scepe boert,</l>
+<l>Sodat dat water root stoet.</l>
+<l>So menichfuldich was dat bloet.</l>
+<l n="1275">Der Fransoisen bleven daer wale</l>
+<l><milestone unit="fol" n="250vb"/> Dertech duisent bi getale</l>
+<l>Ende der Engelschen, wien soes wondert,</l>
+<l>Also luttel alse ses hondert.</l>
+<l>Desen strijt geviel voer dat Swin,</l>
+<l n="1280">Doe men Gods jaer screef meer no min</l>
+<l>Derthien hondert ende veertach,</l>
+<l>Des men euweliken sal doen gewach.</l>
+<l>Dese Vrancrijcsche partien</l>
+<l>Waeren meest uut Normandien</l>
+<l n="1285">Ende van Kaleys uter stede.</l>
+<l>Oic so waeren daer mede</l>
+<l>Een deel Vlaminge te waeren,</l>
+<l>Die uten lande gebannen waeren.</l>
+<l>Oec was daer gevaen dan</l>
+<l n="1290">Vander Sluus een voerbaar man,</l>
+<l>Daer men voermaels vele hielt ave</l>
+<l>Ende was ute metten grave,</l>
+<l>Dairmen vele gouds om woude geven,</l>
+<l>Haddi behouden mogen tleven,</l>
+<l n="1295">Diemen Jan van Eyle hiet.</l>
+<l>Maer die van Brugge en woudens niet.</l>
+<l>Daer omme sloechmen hem af thooft</l>
+<l>Te Brugge voere dat belefroet.</l>
+<l>Maer Spaude Vischs als ic vernam</l>
+<l n="1300">Dede den raed dat hij henen quam,</l>
+<l>Want hij des nachts alsoe</l>
+<l>Wel met .x. scepen ontvloe.</l>
+<l>Van deser hoeger victorien,</l>
+<l>Die ewelijc blijft in memorien,</l>
+<l n="1305"><pb n="125"/> Worden blide ten selven male</l>
+<l><milestone unit="fol" n="251ra"/> Alle die spreken Dietsche tale.</l>
+<l>Want die zee, dat seggic u,</l>
+<l>Wart seere gesuvert nu</l>
+<l>Van den rovers, die daer voeren</l>
+<l n="1310">Den coepmannen daden toren.</l>
+<l>Ende Eduwaert bleef voert mee</l>
+<l>Vele bat heere vander zee.</l>
+<l>Nu siin die Vleminge mit allen</l>
+<l>An coninc Eduwaert gevallen</l>
+<l n="1315">Ende gereedden hoere vaert</l>
+<l>Met scepen te Vrancrike waert.</l>
+<l>Te rade worden sij alsoe,</l>
+<l>Dat sij voer Doornike vielen doe</l>
+<l>Van Henegouwe grave Willam</l>
+<l n="1320">Hollant ende Zeelant met hem.</l>
+<l>Die van Zeelant setten hoir vaert</l>
+<l>Met scepe te Vrancrike waert.</l>
+<l>Die hertoge hij quam na,</l>
+<l>Want also alsict versta</l>
+<l n="1325">Was siin gemeente so groot,</l>
+<l>Dat het hem dede den noot,</l>
+<l>Dat sij na moesten volgen.</l>
+<l>Des was die hertoghe zeere verbolgen,</l>
+<l>Dat sij so lange maecten dat.</l>
+<l n="1330">Dus viel die hertoghe voir die stad</l>
+<l>Metten scoensten heere dat vordien</l>
+<l>Uut enegen lande je wart gesien.</l>
+<l>Gelre ende Gulke quamen mede,</l>
+<l><milestone unit="fol" n="251rb"/> Die oic vielen voir die stede,</l>
+<l n="1335">Loen, Valkenborch ende Beamont</l>
+<l>Ende andre die mi nien siin cont.</l>
+<l>Dus es Doirnicke omlegen dan</l>
+<l>Met menegen vromen stouten man.</l>
+<l>Doe Eduwaert viel voer die stede,</l>
+<l n="1340">Dedi een groete edelhede,</l>
+<l>Want hij Philipse heeft gesant</l>
+<l>Een lettre ende dede hem dus bekant:</l>
+<l>Philips, neve, dits jammer groot,</l>
+<l>Dat so menich mensche blijft doot,</l>
+<l n="1345">Dier scout toe en hebben en gheen</l>
+<l><edition n="126"/>Om tocsuin van ons tween.</l>
+<l>Het waere beter dat wij quamen</l>
+<l>In eenen crite te samen</l>
+<l>Ende wijt becortten onder ons beyden</l>
+<l n="1350">Ende lieten Gode die sake sceiden.</l>
+<l>Oft en wilt di hier niet an,</l>
+<l>Neempt tote u c. riddren dan,</l>
+<l>Ic nemer c. oic daer toe,</l>
+<l>Ende latet ons becorten alsoe.</l>
+<l n="1355">Ende eest oic dat u en geen</l>
+<l>En genuecht van desen tween,</l>
+<l>So bringen wij ons volc te male</l>
+<l>Ende laet ons cortten dese quale.</l>
+<l>Die tvelt behoudt, hebbe deere</l>
+<l n="1360">Ende blive Vrancs coninc voirt</l>
+<l>Ende laet nu uwen wille saen</l>
+<l>Met desen selven bode verstaen.</l>
+<l>Dese lettre was ten selven male</l>
+<l><milestone unit="fol" n="251va"/> Open besegelt harde wale</l>
+<l n="1365">Met eenen groten zegel gequartiert</l>
+<l>Vrancrijke ende Engelant wel visiert.</l>
+<l>Philips marcte den segel wel</l>
+<l>Mit eenen ansichte stuer ende fel</l>
+<l>Ende sweech lange al stille.</l>
+<l n="1370">God wiste wel sinen wille.</l>
+<l>Doe dede Philips weder weten</l>
+<l>Dat hij die croene hadde beseten</l>
+<l>In goeden rusten vele jaere</l>
+<l>Ende datse siin recht erve waere,</l>
+<l n="1375">Van rechter geboert verstorven,</l>
+<l>Ende dat hij die hadde verworven</l>
+<l>Met consente gemeenlike</l>
+<l>Der genoeten van Vrancrijcke</l>
+<l>Ende dat hier nieman an en kinde</l>
+<l n="1380">Dan hem selven ene vinde</l>
+<l>Ende dat hij noch te desen tijden</l>
+<l>Daer omme niet en woude striden.</l>
+<l>Maer alst hem soude duncken tijt,</l>
+<l>So soudi hem leveren strijt</l>
+<l n="1385">Lichte eer hem lief soude wesen.</l>
+<l>Hier met latic van desen.</l>
+<l><edition n="127"/>Nu moeghdi hoeren openbaire</l>
+<l>Van dingen die haren tare</l>
+<l>In desen tijden siin gesciet</l>
+<l n="1390">Also men in orloige plecht.</l>
+<l>Het geviel in deser tijt</l>
+<l>Voire Arie oec enen strijt,</l>
+<l><milestone unit="fol" n="251vb"/> Daer her Robbrechts van Artoes</l>
+<l>Versloech soemenen Fransoys.</l>
+<l n="1395">Oec verloes hij der siere mede.</l>
+<l>Dandre jaeghdi in die stede.</l>
+<l>Men seyde dat al over waer,</l>
+<l>Dat Loduwijc selve was daer,</l>
+<l>Grave doen was van Vlaenderlant.</l>
+<l n="1400">Want hij was sijns lants viant</l>
+<l>Ende plach tArie tien tijden</l>
+<l>Tsine ende uut ende in te riden.</l>
+<l>Van Artoys dese her Robbrechts</l>
+<l>Wart verdreven jegen rechts</l>
+<l n="1405">Uten rijke van Vrancrijcke.</l>
+<l>Nochtan was hij sekerlike</l>
+<l>Een vry edel Fransoys</l>
+<l>Ende recht oer van Artoys</l>
+<l>Ende bat geboren, sijt seker das,</l>
+<l n="1410">Dan coninc Philips selve was.</l>
+<l>Maer die coninginne, Philips wijf,</l>
+<l>Was hem so swaer ende so stijf,</l>
+<l>Dat sine slants heeft verdreven</l>
+<l>Ende heeft dat graefscap gegheven</l>
+<l n="1415">Van Bourgnen haren broeder,</l>
+<l>Van haeren vader ende van moeder</l>
+<l>Ende hadden haeren man in dien,</l>
+<l>Dat hij al dit dede gescien.</l>
+<l>Maer sij toenderre redene ave,</l>
+<l n="1420">Die vray en was noch gave.</l>
+<l><milestone unit="fol" n="252ra"/> Hoe dit voere ende na geviel,</l>
+<l>Soudemen u vertrecken wel.</l>
+<l>Maer het soude te lanc gerecken.</l>
+<l>Oec soudemen u wel vertrecken,</l>
+<l n="1425">Hoe een wijf daertoe gehuert was,</l>
+<l>Dat si lijde, sijt seker das,</l>
+<l>Vore alle tvolc openbare,</l>
+<l>Dat her Robberechts sochte an haere,</l>
+<l><edition n="128"/>Woudsi den coninc vergeven</l>
+<l n="1430">Ende die coninginne, hij soude haer geven</l>
+<l>So vele, dat sij ewelike</l>
+<l>Daer na soude wesen rike.</l>
+<l>Oec lijde si meer saken,</l>
+<l>Dat her Robbrechts hadde doen maken</l>
+<l n="1435">Lettren valschs ende loes</l>
+<l>Opt graefscap van Artoes.</l>
+<l>Noch meer wonders si gewaechde,</l>
+<l>Want so wat datmen hair vraechde,</l>
+<l>Si lijde mede altoes das</l>
+<l n="1440">Also sij geinformeert was.</l>
+<l>Desen wive was doen verstaen</l>
+<l>Dat mense soude laten gaen,</l>
+<l>Alsij al hadde vollijt</l>
+<l>Ende dat sij al haeren tijt</l>
+<l n="1445">Bijder coninginnen siin soude</l>
+<l>Ende oic ewelijc rijc van goude.</l>
+<l>Dit wijf was seere bedrogen,</l>
+<l>Want doen sij al hadde gelogen,</l>
+<l>Datmen hair te liegene beval,</l>
+<l n="1450"><milestone unit="fol" n="252rb"/> En beidemen groot no smal,</l>
+<l>Men en warpse, des geloeft,</l>
+<l>In een vier tote over thoeft.</l>
+<l>Al en hadde hij sonder waen,</l>
+<l>Philips, noyt meer argers gedaen,</l>
+<l n="1455">Mochtene nochtan voirwaer geseit</l>
+<l>Scenden Gods gerechticheyt,</l>
+<l>Sonder tquade gelt dat hij slaen doet</l>
+<l>Ende oic der heyleger kerken goet,</l>
+<l>Daer af dat hij al geheel</l>
+<l n="1460">Jairlijcx in nempt thiendedeel,</l>
+<l>Des hem herde qualijc onnen</l>
+<l>Mate papen ende nonnen,</l>
+<l>Diet ute haeren live ontsparen.</l>
+<l>Daeromme dat sij te waeren</l>
+<l n="1465">Menegen vloec hem daeromme geven.</l>
+<l>Met rechte mochte hij des beven.</l>
+<l>Hets oic te dinckene sekerlike</l>
+<l>Dat hem God van hemelrike</l>
+<l>Dese plage aldus toesent,</l>
+<l n="1470">Om dat hij Hem nien bekent.</l>
+<l><edition n="129"/>Doe dese goede man her Robbrecht</l>
+<l>Verdreven dus was jegen recht,</l>
+<l>Es hij getogen altehant</l>
+<l>Tote sinen neve in Brabant,</l>
+<l n="1475">Den hertoge, dien wel ontfing</l>
+<l>Ende oic loefde hem dese dinc,</l>
+<l>Dat hij in sinen lande sate</l>
+<l>Ende om siin gelt dronc ende ate</l>
+<l><milestone unit="fol" n="252va"/> Ende uut ende in rede vroech ende spade</l>
+<l n="1480">Ende niemen arch no stade en dade.</l>
+<l>Nu alse Philips dit vernam,</l>
+<l>Wart hij opten hertoge gram</l>
+<l>Ende ontbooit hem handelinge</l>
+<l>Dat hij her Robbrechten vinge</l>
+<l n="1485">Ende dat hine hem haestelike</l>
+<l>Gevangen sende in Vrancrijcke.</l>
+<l>Om dat de hertoge, wats gesciet,</l>
+<l>Dese dinc en woude doen niet,</l>
+<l>So huirde Philips also houde</l>
+<l n="1490">Xvj. lants heren mit goude,</l>
+<l>Dat sij den hertoge souden bestaen</l>
+<l>Ende tallen sijden ane gaen</l>
+<l>Ende vanghene oft verslaen</l>
+<l>Ende voer hem bringen gevaen</l>
+<l n="1495">Ende mijn her Robbrecht mede,</l>
+<l>Daer elc heere siin macht toe dede</l>
+<l>Beyde mit stride ende mit brande</l>
+<l>Telker sijden vanden lande,</l>
+<l>Dat ix. maende duerde dan,</l>
+<l n="1500">Des die hertoge doe nochtan</l>
+<l>Wel ontstoet met groeter eeren</l>
+<l>Mitter hulpen Gods ons Heren.</l>
+<l>X.xxiij. screef men doen</l>
+<l>Ende xiij.c dcarnatioen.</l>
+<l n="1505">Nu nam her Robbrecht sine vaert</l>
+<l>Heymelike tEngelant waert</l>
+<l><milestone unit="fol" n="252vb"/> Te sinen neve Eduwaerde,</l>
+<l>Die tot hem nam goede waerde.</l>
+<l>Daer so bleef hij alsict vernam,</l>
+<l n="1510">Tote dat Eduwaert over quam.</l>
+<l>Voir tSwin, daer ic voeraf seide,</l>
+<l>Thoende hij sine vromichede</l>
+<l><edition n="130"/>Ende voer Arie als ghi hebt gehoert.</l>
+<l>Nu hoert vander geesten voert.</l>
+<l n="1515">Onlange na dat dit gevel,</l>
+<l>Quam her Robbrecht also wel</l>
+<l>Vore tSinthomaers die stede.</l>
+<l>Die van Ypere quamen mede</l>
+<l>Ende hebben vele volcx met hem bracht.</l>
+<l n="1520">De Fransoyse worden so bedacht,</l>
+<l>Dat sij ute quamen om striden.</l>
+<l>Her Robbrecht ten selven tiden</l>
+<l>Quam hen iegen also houde</l>
+<l>Ende alsmen vergaderen soude,</l>
+<l n="1525">Trocken die van Ypre achterwaert</l>
+<l>Also liede die siin vervaert,</l>
+<l>So dat her Robbrecht tachter was</l>
+<l>Ene stonde, sijt seker das.</l>
+<l>Maer daventure viel alsoe,</l>
+<l n="1530">Dattie van Brugge quamen toe</l>
+<l>Ende hebben al ongeviert</l>
+<l>De Fransoyse gescoffiert.</l>
+<l>Men street daer ten selven tijden</l>
+<l>Ridderlijc in beiden sijden.</l>
+<l n="1535">Die Fransoyse vloen ter stad waert</l>
+<l><milestone unit="fol" n="253ra"/> Daer so bleven in die vaert</l>
+<l>Omtrent xx. baenrathen doot,</l>
+<l>Die alle waeren heren groot,</l>
+<l>Edel ende van groeten aerde.</l>
+<l n="1540">Daer bleven oic voer den swairde</l>
+<l>.C. riddren ende xx. met</l>
+<l>Ende wel m. volcs, dat wet.</l>
+<l>Dus volchden die van Brugge naer</l>
+<l>Tote voere der steden porte daer.</l>
+<l n="1545">Men seide oic voer waer doen</l>
+<l>Dat die grave van Alisoen,</l>
+<l>Philips broeder, te dier tijt</l>
+<l>So gewont was in den strijt,</l>
+<l>Dat hij onlange daer na</l>
+<l n="1550">Opt bedde starf alsict versta</l>
+<l>Ende ander heren oic also</l>
+<l>Tote achte ofte to ix. toe.</l>
+<l>In deser tijt oic, dat</l>
+<l><edition n="131"/>Men Dornicke belach, die stad,</l>
+<l n="1555">Dede van Henegouwe die grave</l>
+<l>Sent Amants ende Orsijs ave</l>
+<l>Met brande ende mitten swaerde,</l>
+<l>Daermen man no wijf en spaerde.</l>
+<l>Binnen Orchijs op dien dach</l>
+<l n="1560">Een groete jaermarct gelach,</l>
+<l>Daermen so groot goet doe wan,</l>
+<l>Dat ment niet geseggen en can.</l>
+<l>Van daer voer die grave voert</l>
+<l>Ende wan Merchines die poert,</l>
+<l n="1565"><milestone unit="fol" n="253rb"/> Daer hij grote scade in dede</l>
+<l>Met roeve ende manslachte mede</l>
+<l>Ende al die dorpe die hij vant</l>
+<l>Keerdi algader inden brant.</l>
+<l>Aldus so ging die grave dan</l>
+<l n="1570">Sinen oeme swaerliken an.</l>
+<l>Nu mach wel comen siin die stonde,</l>
+<l>Die Christus sprac met sinen monde</l>
+<l>Dat noch soude comen die tijt,</l>
+<l>Dat in dese werelt wijt</l>
+<l n="1575">Volc iegen volc soude opstaen</l>
+<l>Ende een rike dander verslaen</l>
+<l>Ende dat volc soude warren algader,</l>
+<l>Tkint setten jegen den vader,</l>
+<l>De brueder jegen den broeder,</l>
+<l n="1580">De dochter jegen der moeder</l>
+<l>Ende die neve jegen den oem.</l>
+<l>Nu merct ende neempt goem,</l>
+<l>Oft dese tijt iet comen es.</l>
+<l>Ja hij nu, sijt seker des.</l>
+<l n="1585">Want tkerstenheit es gedeelt in ij.en.</l>
+<l>Die Walsche tongen die es een,</l>
+<l>Dandre die Dietsche algeheel.</l>
+<l>Nu siet hoe God siin oirdeel</l>
+<l>Op dit kerstenheyt verwect,</l>
+<l n="1590">Daer hij die sonden mede wrect.</l>
+<l>Doe Eduwaert hadde gelegen</l>
+<l>Voere die stad also heren plegen</l>
+<l>Omtrent eene maent ofte mere,</l>
+<l>Dede hij hem selven grote eere.</l>
+<l n="1595"><pb n="132"/><milestone unit="fol" n="253va"/> Een Minderbrueder quam gestreken</l>
+<l>Uter stad ende woude spreken</l>
+<l>Dien coninc van Engeland.</l>
+<l>Hij wart voere hem bracht te hant</l>
+<l>Ende sprac: Heere, hier benic gesint</l>
+<l n="1600">Van vrouwen die dragen kint,</l>
+<l>Die voerbaerste, weet wel dat,</l>
+<l>Die daer siin binnen der stad,</l>
+<l>Die den lost hebben so groot</l>
+<l>Na zeevischs, dats hen waere noot,</l>
+<l n="1605">Dat sijs hadden haer gehinct,</l>
+<l>Ende sonderlinge na harinc</l>
+<l>Al sulken alsmen nu veit</l>
+<l>Ende bidden doer uwer edelheyt</l>
+<l>Dat ghij hen wilt gehingen</l>
+<l n="1610">Datmens hen mocht brengen.</l>
+<l>Die coninc was corts beraden</l>
+<l>Ende dede ij. wagene laden</l>
+<l>Met heringe wel ter core</l>
+<l>Ende daer toe salm ende store</l>
+<l n="1615">Gelijc men vant aldoe.</l>
+<l>Dus sprac hij den bode toe:</l>
+<l>Segt den vrouwen vander stede</l>
+<l>Dat ict harde ghairne dede,</l>
+<l>Maer dat sij doen hair hoeschede</l>
+<l n="1620">Ende deylens maten vrouwen mede.</l>
+<l>Want ic en wille te ghenen dagen</l>
+<l>Op vrouwen veede dragen</l>
+<l>Ende en dade alleene dat</l>
+<l><milestone unit="fol" n="253vb"/> Miin viande des te bat</l>
+<l n="1625">Hebben souden te minen ontvromen,</l>
+<l>Ic soude hen genoech laten comen,</l>
+<l>Des sij begeerden spae ende vroe.</l>
+<l>Die bode woude betalen doe</l>
+<l>Ende die coninc en woude hem laten.</l>
+<l n="1630">Dus trac de bode siere straten</l>
+<l>Ende die vrouwen waeren vertroest.</l>
+<l>Ende uut haeren crieme verloest.</l>
+<l>Philips lach teser wilen</l>
+<l>Bij Dornike op .ij. milen</l>
+<l n="1635">Tusschen .ij. rivieren alsoe,</l>
+<l><edition n="133"/>Datmen hemme nie mochte comen toe,</l>
+<l>Daer hij dagelijcs sach de viande</l>
+<l>Beide met roeve ende mit brande,</l>
+<l>Dat hem die roec vloech over thoeft.</l>
+<l n="1640">Alse was hem die moet groot,</l>
+<l>Nochtan dat hij mit wijsheiden</l>
+<l>De dinc also dede beleyden,</l>
+<l>Dat hij wachten soude siin stade</l>
+<l>Den vianden te doene scade</l>
+<l n="1645">Ofte toete dat hise verduren soude</l>
+<l>Ende dat quame des winters coude</l>
+<l>Also hij voere hadde gedaen</l>
+<l>Als ghi hier voere hebt verstaen.</l>
+<l>Dicke saten optie waeren</l>
+<l n="1650">Jonge lieden die lustech waeren</l>
+<l>Ende bejagen wouden eere</l>
+<l>Beyde knapen ende bachelere</l>
+<l><milestone unit="fol" n="254ra"/> Tote .ijc. ofte drien</l>
+<l>Om tVrancsche here oversien,</l>
+<l n="1655">Die dicke brachten mare,</l>
+<l>Hoe dat daer gescepen waere,</l>
+<l>Die voere hem gevaen brochten dan,</l>
+<l>Dat sij vonden, waest goed of man.</l>
+<l>Eens worden sij omlegen.</l>
+<l n="1660">Daer so wart dootgeslegen</l>
+<l>Her Willam vanden Wikette dan,</l>
+<l>Een jonc riddre, een willich man,</l>
+<l>Ende een deel waser gevaen,</l>
+<l>Diemen op haer trouwe liet gaen.</l>
+<l n="1665">Des ende vele des gelike</l>
+<l>So geviel dagelike,</l>
+<l>Dat ic hier late achter bliven</l>
+<l>Ende wille ander dinc bescriven</l>
+<l>Also alsict best versinne.</l>
+<l n="1670">Van Henegouwe doude gravinne,</l>
+<l>Een goede godelike vrouwe,</l>
+<l>Sgraven moeder van Henegouwe,</l>
+<l>Philips suster van Vrancrike</l>
+<l>Ende Eduwaerts zweger waerlike,</l>
+<l n="1675">Pijnde om den pais seere</l>
+<l>Tusschen elken coninc ende heere</l>
+<l>Vroech ende spade al hair macht</l>
+<l><edition n="134"/>Ende, doet hair te doene ontsacht,</l>
+<l>Es si gekeert al te hant</l>
+<l n="1680">Toten hertoge van Brabant</l>
+<l>Ende vertrac daer al clare,</l>
+<l><milestone unit="fol" n="254rb"/> Alse waert dat hij viant waere,</l>
+<l>Dat hij met groeter eeren</l>
+<l>Daer toe hem wel mochte keeren,</l>
+<l n="1685">Dat hij omme den pais sprake</l>
+<l>Want verginge also die sake,</l>
+<l>Datmen daer omme strede,</l>
+<l>Sone soude dat kerstenhede</l>
+<l>De scade nemmermeer verwinnen</l>
+<l n="1690">Ende dat hij oic mochte versinnen,</l>
+<l>Wonnemen mit sturmen die stat</l>
+<l>Mit Engelschen ende Vlemingen, dat</l>
+<l>Men groot jammer soude scuwen</l>
+<l>Ane kinderen ende ane vrouwen</l>
+<l n="1695">Ende an jonge ende an oude,</l>
+<l>Wantmen niemenne sparen en soude</l>
+<l>No papen no nonnen mede,</l>
+<l>Diemen vonde in die stede,</l>
+<l>Ende soude voere dswert bliven doot</l>
+<l n="1700">Ende dat waere jammer groot</l>
+<l>Ende datmen jammer werken soude</l>
+<l>Ane vrouwen jonge ende oude,</l>
+<l>Ane maeghden, ane nonnen mede,</l>
+<l>Diemen vonde in die stede,</l>
+<l n="1705">Ende dat hij oic tallen stonden</l>
+<l>Van rechte daer toe waere gebonden,</l>
+<l>Want alle die heren te waeren</l>
+<l>In elke partie siin mage waeren,</l>
+<l>Ende consti doirloge gebreken,</l>
+<l n="1710">Men soude hem ewelijc eere spreken.</l>
+<l><milestone unit="fol" n="254va"/> Die hertoge die wel verstoet</l>
+<l>Dat die vrouwe was goet ende vroet,</l>
+<l>Want hij altoos vroech ende spade</l>
+<l>Geerne volchde goeden rade,</l>
+<l n="1715">Antwaerde der vrouwen ende seide,</l>
+<l>Waert dat die partien beyde</l>
+<l>Hem des wouden gehoeren dan,</l>
+<l>Hij souds geerne nemen an</l>
+<l>Ende daer toe doen met goeder onste,</l>
+<l n="1720"><pb n="135"/> Dat alre beste dat hij conste</l>
+<l>Om die eere van kerstenhede</l>
+<l>Ende om der vrouwen bede mede.</l>
+<l>Doe dit die vrouwe had gehoert,</l>
+<l>Hiltsij haere an tshertogen woert</l>
+<l n="1725">Ende sat op ende voer te hant,</l>
+<l>Daer sij haeren broeder vant</l>
+<l>Ende begonste hem te instrueren,</l>
+<l>Hoe hij daer met luttel eeren</l>
+<l>Tote noch hadde gelegen,</l>
+<l n="1730">Maer wouddi raids noch plegen,</l>
+<l>Men soude die stad harde saen</l>
+<l>Van dien groeten besitte ontslaen</l>
+<l>Ende dat hij oic wiste also</l>
+<l>Dat ne mochte niement bringen toe</l>
+<l n="1735">Dan die hertoge van Brabant.</l>
+<l>Ende al es hij u viant,</l>
+<l>Si hoepte wel nochtan</l>
+<l>Dat hijs hem soude nemen an,</l>
+<l>Eist dat ghijs an hem begheert</l>
+<l n="1740"><milestone unit="fol" n="254vb"/> Ende u es beter hoe dat wert</l>
+<l>Die minre dan die meerdre scande.</l>
+<l>Want sij hebben in uwen lande</l>
+<l>Seker so lange gelegen</l>
+<l>Sonder iet te doene jegen</l>
+<l n="1745">Ende in die stad es honger groot</l>
+<l>Ende eist, dat sij doir den noot</l>
+<l>Die stad op moeten geven,</l>
+<l>Ic duchte ghij wart verdreven</l>
+<l>Uwes lands ende uwer eeren mede,</l>
+<l n="1750">Want die beste van kerstenhede</l>
+<l>Siin sij die u versoecken nu.</l>
+<l>Daer bi, here, so biddic u</l>
+<l>Dat ghij u te tide beraedt,</l>
+<l>Eer ghij meer wart gescaedt.</l>
+<l n="1755">Doe die coninc hadde gehoert</l>
+<l>Ende verstaen sier suster woert,</l>
+<l>Antworde hij: hoe soudic mogen</l>
+<l>Mi selven daer toe gebogen,</l>
+<l>Dat ic soccoers soude soeken daer,</l>
+<l n="1760"><pb n="136"/> Men mijn viant es so swaer.</l>
+<l>Sone gesciede des gelike</l>
+<l>Noit conninge van Vrancrike.</l>
+<l>Ets waer, ic weet dat wel,</l>
+<l>Dat mi daventure es fel</l>
+<l n="1765">Ende dat mijn liede tallen lagen</l>
+<l>Gevaen worden ende verslaegen.</l>
+<l>Ooc siin mijn liede in groter noot</l>
+<l>Om die sterfte die hier es groot.</l>
+<l><milestone unit="fol" n="255ra"/> Aldus benic seere tachter.</l>
+<l n="1770">Mochtic sonder minen lachter</l>
+<l>Uut deser noot siin ontslagen,</l>
+<l>Ic soude al voere al waegen</l>
+<l>Met raide van minen lieden</l>
+<l>Ende doen dat si mi rieden.</l>
+<l n="1775">Doe sij liede dit vernamen,</l>
+<l>Quamen dedele liede te samen</l>
+<l>Mitten coninc van Behem,</l>
+<l>De bisscop van Ludicke met hem,</l>
+<l>Voere Philipse quamen sij</l>
+<l n="1780">Ende seiden hem dat hij</l>
+<l>Niet eerleec daer en lage,</l>
+<l>Daer hij siin viande dagelijcs sage</l>
+<l>Varen ende keren in sinen lande</l>
+<l>Beyde met roeven ende brande</l>
+<l n="1785">Ende dat sij van dage te dage</l>
+<l>Verloren vriende ende mage</l>
+<l>Onder verslagen ende gevaen.</l>
+<l>Nochtan waere sonder waen</l>
+<l>De sterfte daer so groot,</l>
+<l n="1790">Dat tvierdendeel volcs waer doot</l>
+<l>Ende dander vierdeel lage</l>
+<l>Van siecten swaer ende trage</l>
+<l>Ende dat oic sine viande</l>
+<l>Reden met roeve ende met brande</l>
+<l n="1795">In siin lant met groter werre</l>
+<l>Wel xv. milen verre,</l>
+<l>Also datmen daer int lant</l>
+<l><milestone unit="fol" n="255rb"/> Spise no forage en vant</l>
+<l>Ende dat hen oic dochte dat</l>
+<l n="1800">Hij nien soude mogen de stat</l>
+<l>Ontsetten metten sinen,</l>
+<l><edition n="137"/>Alse woude hijs hem pinen,</l>
+<l>Want die beste van kerstenheden</l>
+<l>Daer lagen voer siin stede,</l>
+<l n="1805">Die striden souden wale</l>
+<l>Jegen heydenesse te male,</l>
+<l>Dat hij wel sage ende vername</l>
+<l>Hoe hij eerlects van daer quame,</l>
+<l>Oft sij souden nemen haer vaert,</l>
+<l n="1810">So si ierst mochten thuus waert,</l>
+<l>Oft dat hij strede met geninde</l>
+<l>Ende maecte des oirlooegs een inde.</l>
+<l>Die coninc andwaerde dan</l>
+<l>Alse een seere bedruct man:</l>
+<l n="1815">Ghi heren, weet dat mi es leet,</l>
+<l>Dat ons sake niet bad en geet.</l>
+<l>Lichte ic hebbe verdient des,</l>
+<l>Dat mi daventure segen es.</l>
+<l>Ic wille nu gherne ane gaen,</l>
+<l n="1820">So wat u dunct best gedaen.</l>
+<l>Soe droechmen daer over een</l>
+<l>Metten rade al gemeen,</l>
+<l>Dat niemen daer toe en dochte</l>
+<l>Die vrede of pais maken mochte</l>
+<l n="1825">Dan die hertoge van Brabant</l>
+<l>Ende, alse waere hij viant,</l>
+<l>Hij souds hem wel onderwinden,</l>
+<l><milestone unit="fol" n="255va"/> Ende datmen aen hem soude sinden</l>
+<l>Janne, coninc van Behem,</l>
+<l n="1830">Den bisscop van Ludicke mit hem</l>
+<l>Om den orbore groot ende hoege</l>
+<l>Te doene ane den hertoge.</l>
+<l>Van Henegouwe die gravinne,</l>
+<l>Die seere wijs was van sinne,</l>
+<l n="1835">Es voert gekeert te hant</l>
+<l>Aen den coninc van Engelant,</l>
+<l>Die was haere dochter man,</l>
+<l>Ende ging hem wijslijc an</l>
+<l>Ende began hem seggen ende leeren,</l>
+<l n="1840">Woudijs hem ten hertoge keeren</l>
+<l>Alsoe haer broeder hadde gedaen,</l>
+<l>Hij soude scoene soene ontfaen,</l>
+<l><edition n="138"/>Want al dat goed dat te voeren</l>
+<l>Sijn vordren hadden verloren</l>
+<l n="1845">In Gasscoengen ende elre mede</l>
+<l>Also ment vonde ter waerhede,</l>
+<l>Dat soudi weder gewinnen</l>
+<l>Sonder oirloge met minnen.</l>
+<l>Die coninc dachte in sinen moet,</l>
+<l n="1850">Dat dese raet een deel waer goet,</l>
+<l>Want hine hadde silver no gout,</l>
+<l>Daer hij met mochte siin scout</l>
+<l>Sinen lieden betalen voert</l>
+<l>Also toten orloge hoirt.</l>
+<l n="1855">Want hem en quam goet en geen</l>
+<l>Uut sinen lande als hem wel scheen,</l>
+<l><milestone unit="fol" n="255vb"/> So datten die noot dwanc daer toe,</l>
+<l>Dat hij dit ane ginc also.</l>
+<l>In desen manieren so waert</l>
+<l n="1860">Hier toe geleyt een dachvairt</l>
+<l>In eene kerke die Esplesijn hiet,</l>
+<l>Die niet verre van Dornike en steet,</l>
+<l>Daermen helt dat parlement.</l>
+<l>Philips heeft aldaar gesent</l>
+<l n="1865">Den bisscop van Ludicke, dat wet,</l>
+<l>Ende den coninc van Byhem daer met</l>
+<l>Ende oec ij. graven also.</l>
+<l>Eduwaert sende daer toe</l>
+<l>Den bisscop van Lincole,</l>
+<l n="1870">Die ginc ter wiser scole,</l>
+<l>Ende ij. graven oic daer mede.</l>
+<l>Daer quam oec ter selver stede</l>
+<l>Die hertoge ende die gravinne,</l>
+<l>Die seere scarpten hair sinne,</l>
+<l n="1875">Hoe sij van dien groeten saken</l>
+<l>Een goet gevoech souden maken,</l>
+<l>Want mens hen betruwede best.</l>
+<l>Si brachtene daer toe int lest,</l>
+<l>Dat wesen soude een bestant</l>
+<l n="1880">Tusschen elken heere ende elc lant</l>
+<l>Tote op Sint Jans Baptisten dach,</l>
+<l>Die in midden den zomer lach,</l>
+<l>Ende men soude hier en binnen</l>
+<l><edition n="139"/>Ondersoeken ende bekinnen</l>
+<l n="1885"><milestone unit="fol" n="256ra"/> Alle die poenten die Eduwaert</l>
+<l>Te seggen hadde te Vrancrike waert</l>
+<l>Ende so wat men vonde clare</l>
+<l>Dat siin goed ende siin recht waere,</l>
+<l>Dat soude hem gescien te male.</l>
+<l n="1890">Ende om dit te gescienne wale</l>
+<l>Sonder enich meswenden,</l>
+<l>So soude Philips te gisele senden</l>
+<l>Janne, den coninc van Byhem,</l>
+<l>Den bisscop van Ludicke mit hem</l>
+<l n="1895">Ende ij. graven daer mede</l>
+<l>Tot Valenchen in die stede</l>
+<l>Ende van daer dan en keren niet,</l>
+<l>Voer dat Eduwaerde waere gesciet</l>
+<l>Siin vorwairde gelijc dat ghij</l>
+<l n="1900">Nu hier hoert vertrecken mi.</l>
+<l>Maer des incomens dair na</l>
+<l>Wart hem verlaten alsict versta.</l>
+<l>Ende hier met souden te waeren</l>
+<l>Alle heren thuuswert varen</l>
+<l n="1905">Ende die stad soude siin ontset,</l>
+<l>Dairmen voere lach, dat ghijt wet,</l>
+<l>Thien weken of also wel.</l>
+<l>Nu hoert voert wat gevel.</l>
+<l>Alse dit die Vlaminge hebben verstaen,</l>
+<l n="1910">En wouden sijs niet ane gaen,</l>
+<l>Si en haddender meer baten af,</l>
+<l>So dat hen Philips quite gaf</l>
+<l>De sententie die hij mochte</l>
+<l><milestone unit="fol" n="256rb"/> Op hen werpen, als hem dochte</l>
+<l n="1915">Dat sij in onrechten saken</l>
+<l>Op die Vrancsche crone staken</l>
+<l>Gelijc inden pais stoet bescreven,</l>
+<l>Die vore Risele was gegeven</l>
+<l>Also die paus Bonefacius</l>
+<l n="1920">Onder sine bulle ontgaf aldus,</l>
+<l>Doe groete Philips daer voere lach,</l>
+<l>Daer menich groot heere toe sach,</l>
+<l>Doemen screef openbaere</l>
+<l>Dertien hondert ende jaere.</l>
+<l n="1925"><pb n="140"/> Si hadden oic quite daer bi</l>
+<l>Alle die fayte, die sij</l>
+<l>Voer dien tijt hadden mesdaen</l>
+<l>Ende daer toe oic sonder waen</l>
+<l>Al dat ongelt groot ende swaer,</l>
+<l n="1930">Dat die Vlaminge menich jaer</l>
+<l>Van tribute moesten geven</l>
+<l>Alse inden pais was bescreven.</l>
+<l>Ende aldus, dat ghij dat wet,</l>
+<l>So wart Dornike ontset</l>
+<l n="1935">Ende Eduwaert nam sine vaert</l>
+<l>Te sinen wive te Ghent waert.</l>
+<l>Die grave quam in Vlaenderlant</l>
+<l>Ende sloech aen siin goed te hant</l>
+<l>Ende geloefde dat hij vort meere</l>
+<l n="1940">Wesen soude een goet heere</l>
+<l>Ende recht ende vonnesse doen int lant.</l>
+<l>Maer dat was omme niet gewant.</l>
+<l><milestone unit="fol" n="256va"/> Hine mochte emmer, wats gesciet,</l>
+<l>Tsier liede vriescap comen niet.</l>
+<l n="1945">Hier so meghdi wonder hoeren.</l>
+<l>Philips niet lange hier te voeren</l>
+<l>Hadde gehuert xvj. lantsheren,</l>
+<l>Dat sij Brabant souden strueeren,</l>
+<l>Daer elc toe dede sine macht,</l>
+<l n="1950">Al waest dat hen ontsacht.</l>
+<l>Des die hertoge, des sijt vroet,</l>
+<l>Met groeter eeren wel ontstoet,</l>
+<l>Waest lief of leet hen allen.</l>
+<l>Nu es dit contrare gevallen,</l>
+<l n="1955">Want Yngelant, Vlaenderen ende Brabant,</l>
+<l>Gulke, Gelre ende Hollant</l>
+<l>Ende uute Almaengen vele heren</l>
+<l>Wouden Philipse nu onteeren.</l>
+<l>Nu marct Gods recht vonnes.</l>
+<l n="1960">Soude hij ontslagen worden des.</l>
+<l>Dat moeste de hertoge setten voert</l>
+<l>Also ghij nu hier hebt gehoert.</l>
+<l>Hier bij es wel doen altoos goet.</l>
+<l>Want God can worpen onder voet</l>
+<l n="1965">Alle erdsche mogentheyt</l>
+<l>Alse hij wille, dats hem gereyt.</l>
+<l><edition n="141"/>Hier na omtrent Sinte Andries dach,</l>
+<l>Doe Eduwaert te Gent lach,</l>
+<l>Quam hem mare haestelike,</l>
+<l n="1970">Dat hij quame in siin rike,</l>
+<l><milestone unit="fol" n="256vb"/> Oft hij soude siin lant verliesen,</l>
+<l>Want siin liede wouden kiesen</l>
+<l>Tenen coninc sinen sone</l>
+<l>Ende hem op geven die croene</l>
+<l n="1975">Ende dat si hem selven souden</l>
+<l>Uten lande willen houden.</l>
+<l>Doe dit vernam Eduwaerd,</l>
+<l>Trac hij te hant Ter Sluus waert</l>
+<l>Metten grave van Noranthoen,</l>
+<l n="1980">Die bij hem daer was doen,</l>
+<l>Ende ginc te scepe al ombekint.</l>
+<l>Ende God gaf hem sulken wint,</l>
+<l>Dat hij sderde daigs ombekant</l>
+<l>Over was in Engelant.</l>
+<l n="1985">Ende eer hij daer was comen,</l>
+<l>Haddi in die zee vernomen</l>
+<l>Dach ende stede, waer sij souden</l>
+<l>Haer parlement te gader houden,</l>
+<l>Om dat sij dan in waeren saken</l>
+<l n="1990">Den sone wouden coninc maken.</l>
+<l>Ende te hant nam hij sine vaert</l>
+<l>Sonder merren daerwaert,</l>
+<l>Want en was niet verre van daer.</l>
+<l>Daer hij op ginc, dat es waer,</l>
+<l n="1995">Daer vant hijse tere roten</l>
+<l>In een huus alle besloten,</l>
+<l>Die twint en moedden dat hij</l>
+<l>Hem daer waere also bij.</l>
+<l>Want sij wouden weten claere,</l>
+<l n="2000"><milestone unit="fol" n="257ra"/> Dat hij over in Vlaenderen waere.</l>
+<l>Daer vinc hij ende die grave,</l>
+<l>Daer ic vore seide ave,</l>
+<l>Van Noranthon, ter selver stede</l>
+<l>Bisscoppe ende graven mede</l>
+<l n="2005">Ende ander heeren in desen doene,</l>
+<l>Die hij leide in vasten presoene,</l>
+<l>Daer af hij hadde groten scat,</l>
+<l>Des hem seere was te bat</l>
+<l><edition n="142"/>Ende die hem wel quam te staden,</l>
+<l n="2010">Want hij hadde hem seere geladen</l>
+<l>In de side dzees met groter scout,</l>
+<l>Die hij met desen goede gout.</l>
+<l>Sider was, dat ghij dat wet,</l>
+<l>Dat bestant ute geset</l>
+<l n="2015">Tote Sint Jans dage, des geloeft,</l>
+<l>Datmen hem af sloech dat hooft</l>
+<l>Ende van dat wart verlinct mede</l>
+<l>Al tote Chinxenen die vrede.</l>
+</text>
+<!--</ENTRY>
+--></TEI.2>

@@ -1,0 +1,169 @@
+<?xml version='1.0'?><!DOCTYPE TEI.2 PUBLIC '-//TEI P4//DTD Main Document Type//EN' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd' [<!ENTITY % TEI.prose 'INCLUDE'><!ENTITY % TEI.linking 'INCLUDE'><!ENTITY % TEI.figures 'INCLUDE'><!ENTITY % TEI.analysis 'INCLUDE'><!ENTITY % TEI.corpus 'INCLUDE'><!ENTITY % TEI.XML 'INCLUDE'><!NOTATION TEI-XML PUBLIC 'TEI P4' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd'><!-- internal INL dtd --><!ELEMENT b (#PCDATA)><!ELEMENT l (#PCDATA | b)*><!-- end of internal INL dtd -->]><TEI.2><!--<ENTRY id="i125"><teiHeader><fileDesc><titleStmt><title>Onge&iuml;dentificeerd fragment</title>
+</titleStmt>
+<interpGrp type="pubYear_from"><interp value="1380"/></interpGrp>
+<interpGrp type="witnessYear_from"><interp value="1380"/></interpGrp>
+<interpGrp type="pubYear_to"><interp value="1400"/></interpGrp>
+<interpGrp type="witnessYear_to"><interp value="1400"/></interpGrp>
+<TITEL>Onge&iuml;dentificeerd fragment</TITEL>
+<author>Onbekend</author>
+<AARD>Rijm</AARD>
+<BRON nr="D50">Brussel, Koninklijke Bibliotheek, 1950-53 (fragm.)</BRON>
+<DATUM>1380-1400</DATUM>
+<OMVANG>144 verzen</OMVANG>
+<BRON.OPM>Een enkel blad, 2 kolommen per bladzijde, 36 regels per kolom. Verwijs acht het niet onmogelijk dat het hier om een fragment van het Boec Exemplaer gaat.</BRON.OPM>
+<EDITIE>E. Verwijs (ed.): 'Een fragment van een verloren Mnl. leerdicht'. In: De taalen letterbode 3 (1872), 71-75 (72-75)</EDITIE>
+<STATUS>Kritisch</STATUS>
+<BRONMNW>1261.7</BRONMNW>
+<EDITIE.OPM>De gereconstrueerde woorden, in de ed.Verwijs cursief gedrukt, staan hier tussen [].</EDITIE.OPM>
+<BRONNEN>Brussel, Koninklijke Bibliotheek, 1950-53</BRONNEN>
+</fileDesc>
+</teiHeader>
+--><text>
+<l><pb n="72"/><milestone unit="fol" n="1ra"/> Die beter es dan al dat goet</l>
+<l>Dat men yemene besunder doet</l>
+<l>Ende dat eyscht gherechtecheit</l>
+<l>Ende die eeweghe Gods waerheit;</l>
+<l n="5">Want alle goede ghemeynheit</l>
+<l>Es gheliker der Godheit,</l>
+<l>Die na der heylegher screfturen</l>
+<l>Ghemeyne es allen creaturen,</l>
+<l>In regimente ende in onthoude,</l>
+<l n="10">In dien wesene daer sise in woude</l>
+<l>Sceppen, dan eeneghe sunderlingheheit,</l>
+<l>Die men verkiest na eyghenheit.</l>
+<l>Daerbi, die ghemeynen orbore</l>
+<l>Mint ende dien altoes set vore,</l>
+<l n="15">Es gheliker Gode in dien,</l>
+<l>Dan si die eyghen profijt aensien;</l>
+<l>Want willen wijt te rechte merken,</l>
+<l>Soe heeft in allen sinen werken</l>
+<l>Onse Here van beginne der tijt</l>
+<l n="20">Ghemeynt altoes ghemeyn profijt,</l>
+<l>Ende dat es oec groete edelheit,</l>
+<l>Doght, wijsheit ende profiteleecheit;</l>
+<l>Want men daer vercrighet mede</l>
+<l>Rijcheit, eere, macht ende vrede,</l>
+<l n="25">Al en dade ment om Gode niet,</l>
+<l>Alsoe alst dicwile es ghesciet.</l>
+<l>Ic late staen diet om Gode daden,</l>
+<l>Dat hem oec doen soude eeuwelec stade.</l>
+<l>Het scrivet sente Augustijn</l>
+<l n="30">In dat bescreven boec sijn,</l>
+<l><edition n="73"/>Dat die wile dat die Romeyne</l>
+<l>Voert setten haer ghemeyne,</l>
+<l>Ende en vochten om gheen goet,</l>
+<l>Dat der ghemeynheit niet en bestoet,</l>
+<l n="35">Noch en wouden gheens dincs pleghen,</l>
+<l>Dat der ghemeynheit mocht sijn jeghen,</l>
+<l><milestone unit="fol" n="1rb"/> Soe verwonnen si veel stride</l>
+<l>Ende regneerden verre ende wide</l>
+<l>Ende waren der werelt heren,</l>
+<l n="40">Groet van machte ende hoeghe van eren.</l>
+<l>Hi scrijft daer dat een, hiet dus,</l>
+<l>Lucius Valerius,</l>
+<l>Te Rome was prince ende here groet,</l>
+<l>Die vonden was in sine doet</l>
+<l n="45">Soe arm van wereleker haven,</l>
+<l>Dat die liede, soudemenne graven,</l>
+<l>Daertoe moesten aelmoesene gheven,</l>
+<l>Soe edeleec hadde hi bedreven</l>
+<l>Sijn eerscap na orbore</l>
+<l n="50">Der ghemeynheit, dat hi daervore</l>
+<l>En spaerde noch lijf noch goet</l>
+<l>Dat hem sunderlinghe bestoet.</l>
+<l>Een ander was daer, ende hiet aldus,</l>
+<l>Quintius Cincinnatus.</l>
+<l n="55">Hi was een aerm ackerman,</l>
+<l>Die sijn broet met aerbeide wan.</l>
+<l>Lant hadde hi wel iiij dachewant,</l>
+<l>Dat hi selve wan metter hant.</l>
+<l>Hi wart ghecoren prince ende here,</l>
+<l n="60">Hi vacht victorie ende wan groete eere,</l>
+<l>Ende verwan die Roemsche viande.</l>
+<l>Doe wart een ander van den lande</l>
+<l>Prince ghecoren; ende hi ghinc weder</l>
+<l>Sijn lant wennen, alsoe neder</l>
+<l n="65">Alse hi hadde gheweest te voren:</l>
+<l>Hi en was rikere niet een coren.</l>
+<l>Al was hi here vander stat</l>
+<l>Hi en gaderde gheenen scat;</l>
+<l>Maer hi besorghede soe sere tgemeyne,</l>
+<l n="70">Dat hi sijns sel&pound;s achtte cleyne.</l>
+<l><edition n="74"/>Te dier tijt waren die heren</l>
+<l>Rike van glorien ende van eeren;</l>
+<l><milestone unit="fol" n="1va"/> Die gemeynheit maecten si rike</l>
+<l>Van eertschen goede sonder ghelike;</l>
+<l n="75">Maer binnen huse wouden si sijn</l>
+<l>Soe arm, sprect Sente Augustijn,</l>
+<l>Dat daer was verworpen een</l>
+<l>Van den senatoerscape daer omme alleen,</l>
+<l>Om dat bi hem teenre stonden</l>
+<l n="80">Tien pont selvers waren vonden.</l>
+<l>Si wisten wel dat proper goet</l>
+<l>Soe sere ontkeert der heren moet,</l>
+<l>Dat si daerbi opt ghemeyne</l>
+<l>Achtinghe hebben harde cleyne.</l>
+<l n="85">Daer omme namaels, doe sunderlinghe</l>
+<l>Elc ghinc gaderen propere dinghe</l>
+<l>Ende si om minne ertscher haven</l>
+<l>Haer oude edele seden begaven,</l>
+<l>Doe quam die Roemsche staet beneden,</l>
+<l n="90">Soet scijnt op den dach van heden.</l>
+<l>Es dit, alst es seker waer,</l>
+<l>Soe eest ons een exemplaer,</l>
+<l>Waer omme soe sere es ghevallen</l>
+<l>Die staet der Kerstenheit met allen.</l>
+<l n="95">Wilen doe bruederlike minne</l>
+<l>Regneerde in den beghinne</l>
+<l>Der heilegher Kerstenheit,</l>
+<l>Ende waerheit ende gherechtecheit</l>
+<l>Ende men soe zere rochte tgemeyne,</l>
+<l n="100">Datmen op proper achtte cleyne,</l>
+<l>Ende in cloestere sunderlinghe</l>
+<l>Ghemeyne waren alle dinghe,</l>
+<l>Ende princen ende prelate</l>
+<l>Hadden soe groete caritate,</l>
+<l n="105">Wijsheit ende gherechtecheit,</l>
+<l>Dat si alre heylicheit</l>
+<l>Behuederen waren ende exemplare,</l>
+<l>Doe bloyde ende groyde langhe jare</l>
+<l><milestone unit="fol" n="1vb"/> Die staet der heylegher Kerstenheit;</l>
+<l n="110">Doe was trouwe ende vriendeleecheit</l>
+<l>Onder de Kerstenen ende goede seden</l>
+<l>Ende leefden underlinghe in vreden;</l>
+<l>Doe vant men Santen ende Santinnen,</l>
+<l>Die de heyleghe gheest van binnen</l>
+<l n="115">Soe hadde vervult, dat men mochte sien</l>
+<l>Meneghe miracle ghescien</l>
+<l><edition n="75"/>Maer sedert dat princen ende prelate</l>
+<l>Niet en achtten op caritate,</l>
+<l>Noch op bruederleke minne,</l>
+<l n="120">Daer alle waerheit geleght inne,</l>
+<l>Ende men proper te hebben begonste,</l>
+<l>Ende elc gaderde soe hy meest conste,</l>
+<l>Ende men tgemeyne niet en rochte,</l>
+<l>Voere alsoe alst varen mochte,</l>
+<l n="125">Te mids dat si mochten ghewerden,</l>
+<l>Alse met den scapen doen de herden,</l>
+<l>Diese scheren alsi willen,</l>
+<l>Ende diese oec alst hen goet dunct villen</l>
+<l>Ye seder soe es te dale</l>
+<l n="130">Die kersten staet ghegaen te male,</l>
+<l>Ende leecht welna onder [voet],</l>
+<l>Die in groeter hoecheit stoet;</l>
+<l>Want nu die subiecte leeren</l>
+<l>Aen haer prelate ende aen haer heren</l>
+<l n="135">Hoeverde ende giericheit,</l>
+<l>Ende alle onghewarecheit,</l>
+<l>Ende elc besorght nu sunderlinghe</l>
+<l>Sijn gherief ende sijns [selves dinghe].</l>
+<l>Vare alst mach dat goede ghemeyne,</l>
+<l n="140">Dies achtmen nu harde cleyne;</l>
+<l>Des es nu meer op desen dach</l>
+<l>Dan mens oyt te voren sach.</l>
+<l>Wel hem die sonder proper leeft,</l>
+<l>Ocht die dat selve, dat hi heeft</l>
+<l>......</l>
+</text>
+<!--</ENTRY>
+--></TEI.2>

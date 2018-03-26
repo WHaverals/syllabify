@@ -1,0 +1,815 @@
+<?xml version='1.0'?><!DOCTYPE TEI.2 PUBLIC '-//TEI P4//DTD Main Document Type//EN' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd' [<!ENTITY % TEI.prose 'INCLUDE'><!ENTITY % TEI.linking 'INCLUDE'><!ENTITY % TEI.figures 'INCLUDE'><!ENTITY % TEI.analysis 'INCLUDE'><!ENTITY % TEI.corpus 'INCLUDE'><!ENTITY % TEI.XML 'INCLUDE'><!NOTATION TEI-XML PUBLIC 'TEI P4' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd'><!-- internal INL dtd --><!ELEMENT b (#PCDATA)><!ELEMENT l (#PCDATA | b)*><!-- end of internal INL dtd -->]><TEI.2><!--<ENTRY id="i52"><teiHeader><fileDesc><titleStmt><title>Huge van Bordeeus</title>
+</titleStmt>
+<interpGrp type="pubYear_from"><interp value="1350"/></interpGrp>
+<interpGrp type="witnessYear_from"><interp value="1350"/></interpGrp>
+<interpGrp type="pubYear_to"><interp value="1400"/></interpGrp>
+<interpGrp type="witnessYear_to"><interp value="1400"/></interpGrp>
+<TITEL>Huge van Bordeeus</TITEL>
+<author>Onbekend</author>
+<AARD>Rijm</AARD>
+<BRON nr="K14">Middelburg, Stadsarchief, z.s. (fragm.) [verloren gegaan]</BRON>
+<DATUM>1350-1400</DATUM>
+<OMVANG>789 verzen</OMVANG>
+<BRON.OPM>Twee dubbelbladen die oorspronkelijk in elkaar hebben gelegen, waarbij fol. 1 en 2 en fol. 3 en 4 waarschijnlijk direct op elkaar aansloten. Ze zijn van boven en opzij wat, onderaan waarschijnlijk niet of nauwelijks besnoeid (oospronkelijk 50 regels per kolom). Van fol. 1 en 3 is overlangs een strook van ca. 30-45 mm afgesneden, waardoor van kol. rb het einde en van kol. va het begin van de verzen verloren is gegaan. De bladen werden gebruikt als omslag van het Register van daginghe der stadt Middelburg in Zeelant, beginnende Aprilis 1591, nr. 3. Bij het losmaken van dit register zijn onderaan uit elk vel 'trapezo&iuml;de stukken' gesneden, uit fol. 1 en 3 een en uit fol. 2 en 4 twee. Deze uitgesneden stukken zijn alle verschillend van afmeting, maar telkens ongeveer 60 mm diep. Waar de tekst had losgelaten heeft M. de Vries d.m.v. een reagens de tekst weer leesbaar proberen te maken. De fragmenten zelf zijn verloren gegaan, maar de BNM bezit een beschrijving van de hand van W. de Vreese, gemaakt 21/24-3-1937, alsook negatieffoto's. Bovendien heeft De Vreese in zijn exemplaar van de editie Kalff (1885), dat zich thans in de BNM bevindt, de tekst van de uitgave met het handschrift gecollationeerd.</BRON.OPM>
+<EDITIE>Afschrift J. Tersteeg</EDITIE>
+<STATUS>Diplomatisch</STATUS>
+<BRONMNW>715 </BRONMNW>
+<BRONNEN>Van vier handschriften zijn er fragmenten overgeleverd. Edities en afschriften (J. Tersteeg) zijn er van de volgende handschriften/fragmenten: - <x nr=K13>Leiden, Bibliotheek der Rijksuniversiteit, Ltk. 1352 (fragm.)</x>
+ - <x nr=K14>Middelburg, Stadsarchief, z.s. (fragm.) [verloren gegaan]</x>
+</BRONNEN>
+<HSDRUK>Historie van Hughe van Bordeus</HSDRUK>
+</fileDesc>
+</teiHeader>
+--><text>
+<l><milestone unit="fol" n="1ra"/> Saten zonder enich [......]</l>
+<l>Wel si xxx dat si [.....]</l>
+<l>Alle gader sterke man</l>
+<l>Ende goede wapene an</l>
+<l parse="ignore" n="5">Ende daden hem tdiere [.....]</l>
+<l parse="ignore">Daer si souden moeten liden</l>
+<l>Ende grimuwaert zijn sort</l>
+<l>Aldaer wierp rechte vort</l>
+<l>Daer bi dat guweles</l>
+<l n="10">Tzinen nette comen es</l>
+<l>Ende wert recht in dole</l>
+<l>Ende buten ziere mole</l>
+<l>Ende zine gezellen drie</l>
+<l>Cume so wisten zie</l>
+<l n="15">Weder si ghingen of reden</l>
+<l>Stappans datsi leden</l>
+<l>Enen doren groot ende breet</l>
+<l>Daer so was wel bereet</l>
+<l>Grimuwaert ende die zine</l>
+<l n="20">In vulre wapine</l>
+<l>Die so riepen met moede wreet</l>
+<l>Vastelijc nv beet nv beet</l>
+<l>Alle iiij ghi peilgrijn</l>
+<l>Ghi moet uwe arabijn</l>
+<l n="25">Hier laten ende v goet</l>
+<l>Ende blide zijn dat ghi te voet</l>
+<l>Van ons leuende moget geraken</l>
+<l>Dat so dochte qualijc smaken</l>
+<l>Den hertoge guweloen</l>
+<l n="30">Ende zeide ghi felloen</l>
+<l>Soudi ons willen rouen nv</l>
+<l>Kendi mi dat zecgic v</l>
+<l>Ghi sout arde node doen</l>
+<l>Ende ghi ne waert ooc niet so coen</l>
+<l n="35">Wie zidi dan sprac grimuwaert</l>
+<l>Dat wi van v veruaert</l>
+<l>Souden zijn gemeenlike</l>
+<l>Al waerdi die meeste van vrankerike</l>
+<l>Daer omme souden wi niet laten</l>
+<l n="40">Omme te zoukene onse baten</l>
+<l>Fellijc zeide guweloen</l>
+<l>Quaden ende moeti doen</l>
+<l>Soudic dor enen mordenare</l>
+<l>Moeten zecgen wie ic ware</l>
+<l n="45">Daer ic verholen wilde riden</l>
+<l>So addic tdezen tiden</l>
+<l>Danne geleeft lanc genouch</l>
+<l>Ic zal meere ongeuouch</l>
+<l>Eer ebben an mine lede</l>
+<l n="50">Doe trac hi een zwaert van goeder snede</l>
+<l><milestone unit="fol" n="1rb"/> Van onder die kneuele zijn</l>
+<l>Ende eene huue stalijn</l>
+<l>Addi onder zinen hoet</l>
+<l>Wel getempert ende goet</l>
+<l n="55">Ende zijn rudder mede</l>
+<l>Trac een zwaert vuter scede</l>
+<l parse="ignore">Die messagier was [.......]</l>
+<l parse="ignore">Ende noopte zijn paert</l>
+<l parse="ignore">Ende waende vlien daer</l>
+<l parse="ignore" n="60">Een rouer was hem te [....]</l>
+<l parse="ignore">Die ne slouch met [.........]</l>
+<l parse="ignore">Datti viel vanden paerde</l>
+<l parse="ignore">Een ander met ere aex</l>
+<l parse="ignore">Die slouchene aldaer doot</l>
+<l parse="ignore" n="65">Daer t guweloen ane zach</l>
+<l parse="ignore">Die hem gaf enen slach</l>
+<l parse="ignore">Den gonen met zulker [........]</l>
+<l parse="ignore">Diene vanden paerde velde</l>
+<l parse="ignore">Dat hem metten zeluen [.....]</l>
+<l parse="ignore" n="70">Thouet vlooch vander [.....]</l>
+<l parse="ignore">Ende den anderen diene [....]</l>
+<l parse="ignore">Slouch metter aex groot</l>
+<l parse="ignore">Dien so clouedi metten [......]</l>
+<l parse="ignore">Thouet dore toten tanden</l>
+<l n="75">Datti sturte onder voet</l>
+<l>Ende heersene ende bloet</l>
+<l>Hem te zamen vute ran</l>
+<l>Daer omme die ondadige man</l>
+<l parse="ignore">Rouers waren vuten [.....]</l>
+<l parse="ignore" n="80">Ende ghingen vp hem [........]</l>
+<l parse="ignore">Met zwaerden ende met [.....]</l>
+<l parse="ignore">Ende scoten tdiere wilen</l>
+<l parse="ignore">Met bogen ende gauerloot</l>
+<l parse="ignore">Guweloen die also [.....]</l>
+<l parse="ignore" n="85">Vp hem weder slouch die [.....]</l>
+<l parse="ignore">So datsi hem versagen</l>
+<l parse="ignore">Somige daer of begonden</l>
+<l parse="ignore">Daer omme wilden si tdiere [.......]</l>
+<l>Aldaer niet achter terden</l>
+<l n="90">Het began buten verden</l>
+<l>Onder hem te gane daer</l>
+<l>Grimuwaert die toueraer</l>
+<l parse="ignore">Was die stercste van hem [.....]</l>
+<l parse="ignore">Vanden paerde dedi vallen</l>
+<l parse="ignore" n="95">Guweloens rudder doot</l>
+<l parse="ignore">Die ander inden zwaren [.....]</l>
+<l>Moeste daer bliuen mede</l>
+<l>Ende grimuwaert die dede</l>
+<l parse="ignore">Guweloens paert stille [.....]</l>
+<l parse="ignore" n="100">Dat het niet [...............]</l>
+<l parse="ignore"><milestone unit="fol" n="1va"/> [............] enen voet</l>
+<l parse="ignore">[........] waert des vroet</l>
+<l parse="ignore">[...........] van zinen paerde</l>
+<l parse="ignore">[......] neder vp die aerde</l>
+<l parse="ignore" n="105">[..............] benam mede</l>
+<l parse="ignore">[..........] zwaerde die snede</l>
+<l parse="ignore">[........] die sterke heere</l>
+<l parse="ignore">[......] so slouch also zere</l>
+<l parse="ignore">[...............] aerde</l>
+<l parse="ignore" n="110">[...............] snede gehat</l>
+<l parse="ignore">[...............] nadat</l>
+<l parse="ignore">[...............] wort</l>
+<l parse="ignore">[...............] doot</l>
+<l parse="ignore">[...............] scoet</l>
+<l parse="ignore" n="115">[............]mme adde vaer</l>
+<l parse="ignore">[...........] wort gewaer</l>
+<l parse="ignore">[...............]touert was</l>
+<l parse="ignore">[............] met leden ras</l>
+<l parse="ignore">[........] dicke vanden risen</l>
+<l parse="ignore" n="120">[........] begonste bisen</l>
+<l parse="ignore">[.......] hi out hi was licht</l>
+<l parse="ignore">[..........] quade wicht</l>
+<l parse="ignore">[........] hem te volgene naer</l>
+<l parse="ignore">[........] an die paerde daer</l>
+<l parse="ignore" n="125">[........]ale ter vaert</l>
+<l parse="ignore">[........] lach vp een paert</l>
+<l parse="ignore">[........] vutermaten vast</l>
+<l parse="ignore">[.........] adde groten last</l>
+<l parse="ignore">[........] lieden wel behaechde</l>
+<l parse="ignore" n="130">[..........] die vraechde</l>
+<l parse="ignore">[....] dat houet zijn</l>
+<l parse="ignore">[...........] helm stalijn</l>
+<l parse="ignore">[.....] was hem vut gedaen</l>
+<l parse="ignore">[...........] began hi slaen</l>
+<l parse="ignore" n="135">[......] sprac gezelle mijn</l>
+<l parse="ignore">[.......] die sterke peilgrijn</l>
+<l parse="ignore">[.....] doot of geuaen</l>
+<l parse="ignore">[.....] ware gedaen</l>
+<l parse="ignore">[........] ende comen</l>
+<l parse="ignore" n="140">[..........] met genomen</l>
+<l parse="ignore">[...........] zine snede</l>
+<l parse="ignore">[..........] deen rouer zede</l>
+<l parse="ignore">[........] addi nv geraect</l>
+<l parse="ignore">[..........] ende gemaect</l>
+<l parse="ignore" n="145">[........] waert also geslagen</l>
+<l parse="ignore">[...........] die ons inder hagen</l>
+<l parse="ignore">[............] nu te voet</l>
+<l parse="ignore">[.......] paerden ende al zijn goet</l>
+<l parse="ignore"><milestone unit="fol" n="1vb"/> [...........] knapen mede</l>
+<l parse="ignore" n="150">[........] bleuen tdezer stede</l>
+<l parse="ignore">[..............] ontlopen</l>
+<l parse="ignore">[...........] die hage gecropen</l>
+<l parse="ignore">[...........] een wel edel diet</l>
+<l parse="ignore">[...........] hem te volgene niet</l>
+<l parse="ignore" n="155">[.............] es hi van liue</l>
+<l parse="ignore">[............] onser gezellen viue</l>
+<l parse="ignore">Allene doot metter hant</l>
+<l parse="ignore">[...............] brant</l>
+<l parse="ignore">[............] zine snede</l>
+<l parse="ignore" n="160">[...........] op die stede</l>
+<l parse="ignore">[............] gebleuen doot</l>
+<l parse="ignore">[............] dor die noot</l>
+<l parse="ignore">[............] onser vaerde</l>
+<l parse="ignore">Men zach grimuwaerde</l>
+<l n="165">Sijn bloet tdiere stonde</l>
+<l>Lopen vut nese ende vut monde</l>
+<l>Vanden slage die hi ontfinc</l>
+<l>Hi stont vp ende ghinc</l>
+<l>Daer hi staende vant zulc cruut</l>
+<l n="170">Dat in adde zulc virtuut</l>
+<l>Als hijt nutte ent ter herte</l>
+<l>Quam verloos hi alle smerte</l>
+<l>Quetsure ende zeerhede</l>
+<l>Ende van zinen gezellen mede</l>
+<l n="175">Die hi daer zach gewont</l>
+<l>Stac in elken inden mont</l>
+<l>Aldaer of het was gedaen</l>
+<l>Ende si genasen zaen</l>
+<l>Maer die dode bleuen doot</l>
+<l n="180">Si trecten met aesten groot</l>
+<l>Te zamen in hare duwiere</l>
+<l>Die dode grouuen si schiere</l>
+<l>Beder dander ende die hare</l>
+<l>Maer daden die dode dare</l>
+<l n="185">Wapene ende cleder vut</l>
+<l>Si die ghingen in dat cruut</l>
+<l>Ouer zien hare gewin</l>
+<l>Die paerden waren in</l>
+<l>Die duwiere geleet</l>
+<l n="190">Daer hem wel was gereet</l>
+<l>Hoy ende voeder coren</l>
+<l>Si bezagen tdier oren</l>
+<l>Die male daer si in vonden</l>
+<l>Arde vele diere ponden</l>
+<l n="195">In goude ende in zelvere claer</l>
+<l>Ende juwelen dierbaer</l>
+<l>Van mantel ende van clederen mede</l>
+<l>Daer si bi te dier stede</l>
+<l><milestone unit="fol" n="2ra"/> Bekenden die wareit das</l>
+<l n="200">Dat het een groot heere was</l>
+<l>Het ne dede clene man</l>
+<l>Nie zulke gewaden an</l>
+<l>Van gesteente ende van goude</l>
+<l>Beset arde menichfoude</l>
+<l n="205">Ende geuoedert met ermine</l>
+<l>Elc der auonture zine</l>
+<l>Dancte bouen maten zeere</l>
+<l>Maer si waren vuten kere</l>
+<l>Om hare gezellen doot</l>
+<l n="210">Maer mette goude root</l>
+<l>So waren si vergeten</l>
+<l>Si ghingen drinken ende eten</l>
+<l>Ende waren metten bliden</l>
+<l>Vp guweloene willic tiden</l>
+<l n="215">Die welke also lage sloop</l>
+<l>Ende ghinc ende croop</l>
+<l>Datti vuten woude quam</l>
+<l>Daer hi enen wech vernam</l>
+<l>Dies hi was zere blide</l>
+<l n="220">Ende trac an ere zide</l>
+<l>Ende hieu neuen der aerde</l>
+<l>Enen stoc met zinen zwaerde</l>
+<l>Die hi vp zine scoudere leide</l>
+<l>Ende stac tzwaert in de sceide</l>
+<l n="225">Ende trac den wech vortwaert</l>
+<l>Sere clagedi zijn paert</l>
+<l>Ende zine lieden mede</l>
+<l>Ende zine andere rijchede</l>
+<l>Hiet hi varen alte male</l>
+<l n="230">Ende sprac met hogh tale</l>
+<l>Jegen hem zeluen daer hi ghinc</l>
+<l>Biden hemelschen coninc</l>
+<l>Ware hi comen weder te lande</l>
+<l>Hi soude elken met enen bande</l>
+<l n="235">Vor dat wout hangen doen</l>
+<l>Van rouwen weende guweloen</l>
+<l parse="ignore">Dat hem bede zine magen</l>
+<l parse="ignore">[............] of geslagen</l>
+<l>Ende zine camerlingen</l>
+<l n="240">Die hi bouen allen dingen</l>
+<l parse="ignore">[..........] van liue van eeren</l>
+<l parse="ignore">[........] wilde niet weder keren</l>
+<l parse="ignore">[.........] wech was hi leden</l>
+<l parse="ignore">[........] was ouer reden</l>
+<l parse="ignore" n="245">[............] datti quam</l>
+<l parse="ignore">[...........] pas vernam</l>
+<l parse="ignore">[.........] stoeden in</l>
+<l parse="ignore">[..........] blide in zinen zin</l>
+<l><milestone unit="fol" n="2rb"/> Want hi was van gane moede</l>
+<l n="250">Hi adde in ziere hoede</l>
+<l>Noch peningen tdiere wilen</l>
+<l>Van goede daer hi c milen</l>
+<l>Mede soude ebben gegaen</l>
+<l>In ene herberge trac hi zaen</l>
+<l n="255">Hi die wiste wel die zeden</l>
+<l>Menich lant addi dor reden</l>
+<l>Heidin ende kerstijn</l>
+<l>Hi beghaerde een camerkijn</l>
+<l>Te ebbene daer allene</l>
+<l n="260">Met niemene wildi gemene</l>
+<l>Wesen te diere stont</l>
+<l>Omme dat niemene cont</l>
+<l>Soude wezen wie hi ware</l>
+<l>Arde wel hi hem dare</l>
+<l n="265">Dede dienen guweloen</l>
+<l>Ende dede comen doen</l>
+<l>Met hem eten blide van zinne</l>
+<l>Bede waert ende waerdinne</l>
+<l>Datsi arde ghaerne deden</l>
+<l n="270">Want hi sceen van goeder steden</l>
+<l>Dats te zecgene edel man</l>
+<l>Na maeltijt hi began</l>
+<l>Hem lieden vragen dare</l>
+<l>Hoe verre dat het ware</l>
+<l n="275">Van daer tote bordeeus der stede</l>
+<l>Vier dachuaerden die waert zede</l>
+<l>Maer si waren clene</l>
+<l>Si vraechden twi hi allene</l>
+<l>Daer so dorste achter wegen</l>
+<l n="280">Ende menich gerooft ende verslegen</l>
+<l>Was in twout daer hi bi quam</l>
+<l>Guweloen die tale an nam</l>
+<l>Ende zeide ic wasser nalinx met</l>
+<l>Al nv bleuen daer int net</l>
+<l n="285">Ic lieter lieden ende paerde</l>
+<l>Allene vlo ic mire vaerde</l>
+<l>Also men hier mach zien</l>
+<l>Segt her waert onder wien</l>
+<l parse="ignore">So es dit felle wout gestaen</l>
+<l n="290">Die waert [........] zaen</l>
+<l>Onder van [..........] ghibrecht</l>
+<l>Waer [........] een recht</l>
+<l>Ende [..............] alle</l>
+<l>[.............] in die valle</l>
+<l n="295">Hets [..............] heere</l>
+<l>Het [...............]</l>
+<l>Ende [...............]</l>
+<l>Die [...............]</l>
+<l><milestone unit="fol" n="2va"/> Die goede te bringene dan die quade</l>
+<l n="300">Die gast zeide dor ghenade</l>
+<l>O heere waert hoe mach dat zijn</l>
+<l>Sijnt niet goede kerstijn</l>
+<l>Danne die hem ane gaen</l>
+<l>Die waert zeide niet verstaen</l>
+<l n="305">Sone heb ic vander duecht</l>
+<l>Maer wel ghise kennen muecht</l>
+<l>Het zijn magen van guweloene</l>
+<l>Die altoes met haren traisoene</l>
+<l>Nacht ende dach omme bisen</l>
+<l n="310">Hoe si in eniger wisen</l>
+<l>Die goede mogen bederuen</l>
+<l>Ende ontgoeden ende ontheruen</l>
+<l>Kennesse adde an die wort</l>
+<l>Guweloen daer hise hort</l>
+<l n="315">Dat die waert ende waerdinne</l>
+<l>Adden arde clene minne</l>
+<l>An dat geslachte zijn</l>
+<l>Ende peinsde ten trouwen mijn</l>
+<l>Vp dat ic hier ware becant</l>
+<l n="320">Ic soude clene geuant</l>
+<l>Wezen van dezen man</l>
+<l>Hi souder litel winnen an</l>
+<l>Dat so peinsdi ooc mede</l>
+<l>Toten waert datti zede</l>
+<l n="325">Seker ghi zegt waer</l>
+<l>Bede verre ende naer</l>
+<l>Zinget men dat zelue liet</l>
+<l>Wist karel tvrome diet</l>
+<l>Van dezen heere dat hi</l>
+<l n="330">Sijn lant hout so onvri</l>
+<l>Hi die souden corrigieren</l>
+<l>Of hem zeluen calengieren</l>
+<l>Bede van liue ende van goede</l>
+<l>Heere waert waerdi zulc van moede</l>
+<l n="335">Dat ghi hem een brieuekijn</l>
+<l>Wilt geuen in die handen zijn</l>
+<l>Hi soude bin dagen drie</l>
+<l>Te niete doen al die quadie</l>
+<l parse="ignore">Dat in dezen woude leit</l>
+<l n="340">Ende eere ende [........]</l>
+<l>Souder v bi [........]</l>
+<l>Als hi den brief [........]</l>
+<l>Ende leent [...........]</l>
+<l><milestone unit="fol" n="2vb"/> Mare van coninc hugen bringen</l>
+<l n="345">Daer men arde vele dingen</l>
+<l>Aue zeit binnen parijs</l>
+<l>Die waert sprac dies benic wijs</l>
+<l>Want ic was te parijs int stede</l>
+<l>Daer ic al die warede</l>
+<l n="350">Den goede abt van clongi</l>
+<l>Horde van den coninc vri</l>
+<l>Zecgen vor die gemene stede</l>
+<l>Hoe hi karels boodscap dede</l>
+<l>Anden soudaen gaudijs</l>
+<l n="355">Dies men hem te vullen prijs</l>
+<l>Nemmermee geuen mach</l>
+<l>Tote anden domesdach</l>
+<l>Ende hi es weder in aragoen</l>
+<l>Comen die coninc coen</l>
+<l n="360">Daer hi crone heeft ontfaen</l>
+<l>Ende bringt geuangen den soudaen</l>
+<l>Ende menigen heidijn</l>
+<l>Gebenedijt so moeti zijn</l>
+<l>Ende alle die ne ebben lief</l>
+<l n="365">Ende toren ende grief</l>
+<l>Alle die gone diene haten</l>
+<l>Hi slacht wel bouen maten</l>
+<l>Sinen vader saiwine</l>
+<l>Guweloen dochte therte zine</l>
+<l n="370">Breken te dien male</l>
+<l>Datti horde zulke tale</l>
+<l>Maer hi louch ende volgde mede</l>
+<l>Al die tale die hi zede</l>
+<l>Lange zeere bouen maten</l>
+<l n="375">Si ouer tafle zaten</l>
+<l>Dat guweloen den waert vut aelde</l>
+<l>Ende zelue houeschelike taelde</l>
+<l>Ende so princelike zat</l>
+<l>Ouer tafle ende at</l>
+<l n="380">Al addi karel zelue gezijn</l>
+<l>Ende dede zine slavijn</l>
+<l>Vut doen scheen hi wel een heere</l>
+<l>Zijnde van groter eere</l>
+<l>Ende dedem ouer waer</l>
+<l n="385">Ooc dienen al daer</l>
+<l>Ende alst up was gedaen</l>
+<l>Ghinc guweloen also zaen</l>
+<l parse="ignore">Scriuen een brieuekijn</l>
+<l>An ghibrecht den neue [....]</l>
+<l n="390">Daer hi binnen heeft [........]</l>
+<l>Die doot van [...............]</l>
+<l>Dat so was een [........]</l>
+<l>Hi bezegeldet [........]</l>
+<l><milestone unit="fol" n="3ra"/> Tusschen bertaengen ende normendien</l>
+<l n="395">Niet vorder ne wilde hie</l>
+<l>Guweloen die felle baren</l>
+<l>Metten scepe te watre varen</l>
+<l>Maer hi zat vp zijn paert</l>
+<l>Ende reet te lande waert</l>
+<l n="400">Hemelijc ende allene</l>
+<l>Sine bliscap die was clene</l>
+<l>Omme dat hugelijn</l>
+<l>Adde behouden tleuen zijn</l>
+<l>Ende al die zine met</l>
+<l n="405">Nie waer heuet hi gelet</l>
+<l>Vor hi quam in henegouwen</l>
+<l>Hemelijc hi ziere vrouwen</l>
+<l>Omboot ende zine lieden</l>
+<l>Ende ghinc hem bedieden</l>
+<l n="410">Dat zine gezellen waren bleuen</l>
+<l>In spaengen ende lieten tleuen</l>
+<l>Ende hi zelue nauwe ontghinc</l>
+<l>Hi was tleuen metter dinc</l>
+<l>Te wets om ene luegen</l>
+<l n="415">Te vindene metter vluegen</l>
+<l>Of te eene mordaet</l>
+<l>Of enen valschen raet</l>
+<l>Te vindene vp ene stede</l>
+<l>Staende ouer warede</l>
+<l n="420">Hilden si zine wort</l>
+<l>Die hi al daer brochte vort</l>
+<l>Sine adden ooc verstaet tbediet</l>
+<l>Daer iegen dorren zecgen niet</l>
+<l>Al adt luegene gewesen</l>
+<l n="425">Ic die zwige vort van dezen</l>
+<l>Ende zecge v van gheraerde</l>
+<l>Ende vanden fellen ghibewaerde</l>
+<l>Elkerlijc van hem beden</l>
+<l>Adde therte vul droufeden</l>
+<l n="430">Ende vul der ongesonden</l>
+<l>Sine dorsten tdiere stonden</l>
+<l>Hem zeluen niet ziec maken</l>
+<l>Die herte in waren zaken</l>
+<l parse="ignore">Dochte hem beden scueren</l>
+<l n="435">Men die zach [...] zeere trueren</l>
+<l>Der felre [..........]</l>
+<l>Die gelijc der [..........]</l>
+<l>Binnen was [.............]</l>
+<l>Ende die felle [..........]</l>
+<l parse="ignore" n="440">Dede zenden na dat</l>
+<l>[......] kerken vander [....]</l>
+<l>Ende [......] cloosters [....]</l>
+<l>Ende [....] hem doen [......]</l>
+<l parse="ignore"><milestone unit="fol" n="3rb"/> Datti so zeere was bestaen</l>
+<l parse="ignore" n="445">Datti cume soude</l>
+<l parse="ignore">Ende hi adde int herte zine</l>
+<l parse="ignore">Groter rouwe om [........]</l>
+<l parse="ignore">Sinen lieuen broeder goet</l>
+<l parse="ignore">Daer men hem of maecte [.....]</l>
+<l parse="ignore" n="450">Datti comen was int lant</l>
+<l parse="ignore">Ende dat die vrome [......]</l>
+<l parse="ignore">Was vermoort ende verraden</l>
+<l parse="ignore">Ende vanden liue brocht in [......]</l>
+<l>Maer hine wiste van wien</l>
+<l n="455">Ende datti zinen broeder zien</l>
+<l parse="ignore">Niet soude vor zine doot</l>
+<l parse="ignore">Dies addi den rouwe [.....]</l>
+<l parse="ignore">Datti van rouwen steruen [......]</l>
+<l parse="ignore">Dies bat hi ende vermaende</l>
+<l n="460">Dat ionc ende daer toe oude</l>
+<l>Ouer hem bidden soude</l>
+<l parse="ignore">Ende ouer zinen broeder [....]</l>
+<l parse="ignore">Datti te ziere stede</l>
+<l>Met lieue moeste comen</l>
+<l n="465">Aldus so dedi nomen</l>
+<l>Sine bede dat zecgic v</l>
+<l>Ende hi maecte enen baeliu</l>
+<l>In die stede vanden doden</l>
+<l>Ende dede hem geboden</l>
+<l n="470">Te geuene tote dat</l>
+<l>Ruwaert te zine vander stat</l>
+<l parse="ignore">Tote hi genezen ware</l>
+<l parse="ignore">Of zijn broeder quame [....]</l>
+<l>Geheten was hi muelpas</l>
+<l n="475">Ne geen ouerdadigher was</l>
+<l parse="ignore">Binnen bordeeus der [.....]</l>
+<l parse="ignore">Noch geen aergher mede</l>
+<l parse="ignore">Ende verrader quaet ende [...]</l>
+<l parse="ignore">Sine warens niet te [...]</l>
+<l parse="ignore" n="480">Gepait die vander stede</l>
+<l parse="ignore">Sone waren si van geraerde [....]</l>
+<l>Die si geloofden cume</l>
+<l>Want men onder den dume</l>
+<l parse="ignore">Al hemelike zede</l>
+<l parse="ignore" n="485">Dat gheraert ende zijn zweer [....]</l>
+<l parse="ignore">Arde zere drouve [.....]</l>
+<l parse="ignore">Dat huge die vrome [.....]</l>
+<l>Soude te lande comen</l>
+<l>Nu so willic v nomen</l>
+<l parse="ignore" n="490">Vanden goeden vulcanuut</l>
+<l parse="ignore">Die niet was van zinne [....]</l>
+<l>Maer suptyl ende vroet</l>
+<l>Ende getrouwe ende goet</l>
+<l parse="ignore"><milestone unit="fol" n="3va"/> [....] zijn gezelle mede</l>
+<l parse="ignore" n="495">[.....] comen in die stede</l>
+<l parse="ignore">[...] Bordeeus hemelike</l>
+<l parse="ignore">[.....] dat die verrader rike</l>
+<l parse="ignore">[..........] was geuaen</l>
+<l parse="ignore">[............] adde gedaen</l>
+<l parse="ignore" n="500">[.............] peilgrijn</l>
+<l parse="ignore">[....] elc adde zinen slavijn</l>
+<l parse="ignore">[.........] om die dingen</l>
+<l parse="ignore">[...] cooplieden si ghingen</l>
+<l parse="ignore">[......] herberge binder stede</l>
+<l parse="ignore" n="505">[........] te gemake dede</l>
+<l parse="ignore">[........] na zijn geuouch</l>
+<l parse="ignore">[.......] adden ghelts genouch</l>
+<l parse="ignore">[......] ende lapidaren</l>
+<l parse="ignore">[......] si datsi waren</l>
+<l parse="ignore" n="510">[..........] hem alle bede</l>
+<l parse="ignore">[....] wel gehelpen mede</l>
+<l parse="ignore">[..............] bouen al</l>
+<l parse="ignore">[........] hoeden dat gescal</l>
+<l parse="ignore">[........] fellen palmenare</l>
+<l parse="ignore" n="515">[.........] dat ware</l>
+<l parse="ignore">[.....] van wanen hi was</l>
+<l parse="ignore">[.........] bout ende ras</l>
+<l parse="ignore">[..............] vroet</l>
+<l parse="ignore">[..........] wel verstoet</l>
+<l parse="ignore" n="520">[.........] hemelike zede</l>
+<l parse="ignore">[.........] in die stede</l>
+<l parse="ignore">[..............] Hugelijn</l>
+<l parse="ignore">[.........] broeder zijn</l>
+<l parse="ignore">[..............] zere</l>
+<l parse="ignore" n="525">[...............] here</l>
+<l parse="ignore">[...............] stede</l>
+<l parse="ignore">[..........] volke mede</l>
+<l parse="ignore">[...] doot lach vp die geronde</l>
+<l parse="ignore">[........] aue ne conde</l>
+<l parse="ignore" n="530">[..........] die warede</l>
+<l parse="ignore">[..........] binder stede</l>
+<l parse="ignore">[...........] vanden zinen</l>
+<l parse="ignore">[..........] was in pinen</l>
+<l parse="ignore">[.........] ende man</l>
+<l parse="ignore" n="535">[..............] heere</l>
+<l parse="ignore">[..............] zeere</l>
+<l parse="ignore">[.........] hem verstoet</l>
+<l parse="ignore">[.....] Heere waert maect mi vroet</l>
+<l parse="ignore">[.....] God eere moete geuen</l>
+<l parse="ignore" n="540">[.....] met hugen niet een steuen</l>
+<l parse="ignore">[........] drussate hiet</l>
+<l parse="ignore">[.......] vuter stede schiet</l>
+<l><milestone unit="fol" n="3vb"/> Ende addi niet een vader</l>
+<l>Ja bi vrient ende allegader</l>
+<l n="545">Die met hugen onzen heere</l>
+<l>Voeren ouer twilde mere</l>
+<l>Die so kendic alle wel</l>
+<l>Vrome rudders ende snel</l>
+<l>Ende die abt van clongi</l>
+<l n="550">Daer so wasser ooc die mi</l>
+<l>Bestoeden arde naer</l>
+<l>Vander hauene omaer</l>
+<l>Ende gontier vander geronden</l>
+<l>God vergeue hem alle zonden</l>
+<l n="555">Of si alle bede zijn doot</l>
+<l>Ende leuen si vuter noot</l>
+<l>Moetse bringen onse heere</l>
+<l>Want tvolc es vuten keere</l>
+<l>Dat zijn broeder gheraerdijn</l>
+<l n="560">Ouer den coninc hugelijn</l>
+<l>Den lieden doet doen gebede</l>
+<l>Ende ouer hem zeluen mede</l>
+<l>Want die menige die peinst</l>
+<l>Datti hem zeluen daerin veinst</l>
+<l n="565">Want zijn wijf ende zijn zweer</l>
+<l>Weten menigen lozen keer</l>
+<l>Ende so doet hi zelue mede</l>
+<l>Ende hi heuet in die stede</l>
+<l>Nu gemaect enen baeliu</l>
+<l n="570">Die es alre doget scu</l>
+<l>Ende vul alre quaetede</l>
+<l>Ende hi heeftene in zine stede</l>
+<l>Al met allen ooc gheset</l>
+<l>Hi es gheboren van tollet</l>
+<l n="575">Daer noit goed man geboren was</l>
+<l>Ende es geheten muelepas</l>
+<l>Vander felre verraders bloede</l>
+<l>God die gheeft ons te goede</l>
+<l>Ende zijn lieue moeder marie</l>
+<l n="580">Ene quade dachuaert dede hie</l>
+<l parse="ignore">[......] alre bouf gheraert</l>
+<l parse="ignore">[....] die dochter van ghibewaert</l>
+<l>Troude tenen wiue</l>
+<l>Hi die heeft bi haren live</l>
+<l n="585">[........] nv een kint</l>
+<l>[.......] duvel ane zint</l>
+<l>[........] dan enen man</l>
+<l>[............] zecgher van</l>
+<l>[.........] kersten doen</l>
+<l n="590">[.....] die dwerch guweloen</l>
+<l>[.....] rudders ordine mede</l>
+<l>[..........] zijn kerstinede</l>
+<l><milestone unit="fol" n="4ra"/> [........] hem al bescheet</l>
+<l>[..........] inden hals smeet</l>
+<l n="595">[..........] louch vulcanuut</l>
+<l>[........] dochten een goed druut</l>
+<l>[..........] die waert zijn</l>
+<l>[........] hi den coninc hugelijn</l>
+<l>[.....] lieuen gerechten heere</l>
+<l n="600">[.....] met herten zere</l>
+<l>Ende zeidi lieue heere waert</l>
+<l>Mi dinke dat ghi gerecht vaert</l>
+<l>Zijt in uwer herte gront</l>
+<l>Wildi te dezer stont</l>
+<l n="605">Also vele doen dor mi</l>
+<l>Als ic soude bidde di</l>
+<l>Ic wils verdienen ten trouwen mijn</l>
+<l>Ende ter eeren van hugelijn</l>
+<l>Want ic wel ende wee</l>
+<l n="610">Met hem doochde ouer zee</l>
+<l>Ende die gezelle mine</l>
+<l>Ende metten coninc hugeline</l>
+<l>Quamen wi ouer bede</l>
+<l>Dat ghi wout in die stede</l>
+<l n="615">Een ghedeel lieden mi</l>
+<l>Doen spreken die ghi</l>
+<l>Kent dat getrouwe zijn</l>
+<l>Den coninc hugelijn</l>
+<l>Ende die vrienden ende die magen</l>
+<l n="620">Die met hugen wilden wagen</l>
+<l>In dat lant van ouer zee</l>
+<l>Ic wilde hem een wort of twe</l>
+<l>Secgen van hugeline</l>
+<l>Ende vanden gezellen zine</l>
+<l n="625">Als die waert dat verstoet</l>
+<l>Diere om adde bliden moet</l>
+<l>Dat was hi die iacke hiet</l>
+<l>An vulcanute datti schiet</l>
+<l>Ende namen inden arme dare</l>
+<l n="630">Ende zeide wildi mie mare</l>
+<l>Secgen vanden here mijn</l>
+<l>Ic wille tuwen dienste zijn</l>
+<l>Ende doen dat ghi beghaert</l>
+<l>Jaic en trouwen lieuen heere waert</l>
+<l n="635">Doet ons die vrienden comen</l>
+<l>Vanden rudders die ic nomen</l>
+<l>V alle gader wille hier</l>
+<l>Voren die rudders fier</l>
+<l>Steuen ende gontiere</l>
+<l n="640">Ende omaer den ridder fiere</l>
+<l>Ende claroen den ridder fray</l>
+<l>Die men hiet van gournay</l>
+<l><milestone unit="fol" n="4rb"/> [............] palaise</l>
+<l>[............] Niclaise</l>
+<l n="645">[............] hede</l>
+<l>Ende [........] in die stede</l>
+<l>Die [...............]</l>
+<l>[..........] van hugeline</l>
+<l>Ende [...............]</l>
+<l n="650">Hugelijn [...............]</l>
+<l>Ende [...............]</l>
+<l>Bestaet die [.......] heet</l>
+<l>Wat [..............] gheet</l>
+<l parse="ignore">Ende [.............] si</l>
+<l parse="ignore" n="655">Dat so wilt doen spreken mi</l>
+<l>Hemelijc metter vaerde</l>
+<l>Maer den fellen gheraerde</l>
+<l>Sone willic spreken niet</l>
+<l>Help heere die hem crucen liet</l>
+<l n="660">Sprac iacke die goede man</l>
+<l>Hoe wel ken icse alle die an</l>
+<l>Dezen goeden lieden gaen</l>
+<l>V begheren wort wel gedaen</l>
+<l>Eer dat ic in enighen keren</l>
+<l n="665">Ete of drinke bi onzen heere</l>
+<l>Doet v te gemake wel</l>
+<l>Ic die zal mi maken snel</l>
+<l>Datsi cortelijc en trouwen</l>
+<l>V zullen comen anescouwen</l>
+<l n="670">Ende so hemelijc gedaen</l>
+<l>Dat niemene zal verstaen</l>
+<l>Die ons ende dezer mare</l>
+<l>Sal wezen contrare</l>
+<l>Ende mettien so ghinc hi</l>
+<l n="675">Zeere blide geloues mi</l>
+<l>Daer hi wiste der goenre magen</l>
+<l>Wies namen ghi horet gewagen</l>
+<l>Vaders broeders oome neuen</l>
+<l>Ende heeft hem te kennen gegeuen</l>
+<l n="680">Aldaer zonder letten mee</l>
+<l>Dat tzinen thuus waren si twee</l>
+<l>Die met hugen ouer quamen</l>
+<l>Ende diese alle te zamen</l>
+<l>Hemelijc gherne spraken</l>
+<l n="685">Ay god hoe wel si te gemaken</l>
+<l>Waren die goede lieden</l>
+<l>Alsi dat horden bedieden</l>
+<l>Ende quamen een ende een</l>
+<l>Te zamen dat ne gheen</l>
+<l n="690"><milestone unit="fol" n="4va"/> Ander daer [............]</l>
+<l>Ende in die [...........]</l>
+<l>Meest [..............]</l>
+<l>So dat al daer [..........]</l>
+<l>Verzamen na [...........]</l>
+<l n="695">Arde vele goed [...........]</l>
+<l>Ja die macht [............]</l>
+<l>Ende vele magen [.........]</l>
+<l parse="ignore">Vanden coninc [........]</l>
+<l parse="ignore">In ene camere si zijn</l>
+<l n="700">Alle te zamen gegaen</l>
+<l>Daer si wel ebben ontfaen</l>
+<l>Ende blidelike die twee</l>
+<l>Die welke van ouer zee</l>
+<l>Met hugeline quamen</l>
+<l n="705">Ende baden hem te zamen</l>
+<l>Dattem al die wareit</l>
+<l>Van hugen worde gezeit</l>
+<l>Ende van haren vrienden met</l>
+<l>Daeromme datsi ontset</l>
+<l n="710">Waren van herten zere</l>
+<l>Vulcanuut sprac bi onzen heere</l>
+<l>Dat so zal v gheschien</l>
+<l>Ende wilt dies gelouen mien</l>
+<l>Al die rechte wareit</l>
+<l n="715">Wort van mi gezeit</l>
+<l>Doe ontvielen hem die tranen</l>
+<l>Als hi begonste vermanen</l>
+<l>Van hugen ende dat hi</l>
+<l>Peinsde omme den coninc vri</l>
+<l n="720">Wies hem ouer was gegaen</l>
+<l>Der gelijc dat ghi verstaen</l>
+<l>Ebt die wareit min no mee</l>
+<l>Van dies hem ouer zee</l>
+<l>Was geuallen den heere vri</l>
+<l n="725">Ende daer si waren na ende bi</l>
+<l>Hi ende zine gezelle mede</l>
+<l>Die met hem vut kerstinede</l>
+<l>Trac ende met hem weder quam</l>
+<l>Tote dat die heere lofzam</l>
+<l n="730">Weder quam int casteel</l>
+<l>Dat welke die hangereel</l>
+<l>Maecte met touerien</l>
+<l>Omme datti den vrien</l>
+<l>Hugen bedriegen woude</l>
+<l n="735">Ende die minne ende die vroude</l>
+<l>Die welke hem gheraert</l>
+<l>Ende zijn zweer ghibewaert</l>
+<l>Toochden den coninc fiere</l>
+<l>Ende datti gaf gadifiere</l>
+<l parse="ignore" n="740"><milestone unit="fol" n="4vb"/> Sinen zone den casteel</l>
+<l parse="ignore">Twelke dat scoenste [......]</l>
+<l>Scheen vander werelt wijt</l>
+<l>Ende alst was slapens tijt</l>
+<l parse="ignore">Gauen si hem drinken [..........]</l>
+<l parse="ignore" n="745">Daer si mede eer iet lanc</l>
+<l>Verloren kennesse ende zin</l>
+<l>Alle die gone meer no min</l>
+<l>Die den dranc dronken daer</l>
+<l>Ende si waren daer naer</l>
+<l n="750">Geuoert henen of gedragen</l>
+<l>Maer wi die gone die lagen</l>
+<l>Biden paerden inden stal</l>
+<l>Vanden dranke waren wi al</l>
+<l>Vergeten si v verclaert</l>
+<l n="755">Ende die vij lupaert</l>
+<l>Die welke ons waren bi</l>
+<l>Ende smorgens als wi</l>
+<l>Onse ogen doe ondeden</l>
+<l>Vonden wi vpter heden</l>
+<l n="760">Ons metten hemele gedect</l>
+<l>Tcasteel was wech getrect</l>
+<l>Ende vrouwen ende heeren</l>
+<l>Kinderen maechden vul der eeren</l>
+<l>Ende scat ende paerden</l>
+<l n="765">Maer die vij lupaerden</l>
+<l>Die so waren ons allen bi</l>
+<l>Lx gezellen adden wi</l>
+<l>Maer wel vc der verrader</l>
+<l>Die so waren daer te gader</l>
+<l n="770">Onder rudders ende knecht</l>
+<l>Die wel wisten hoet berecht</l>
+<l>Adde die dief heinriet</l>
+<l>Die andere zeiden in dat net</l>
+<l>So waren si alle geuaen</l>
+<l n="775">Bescaemt waren wi ende ondaen</l>
+<l>Nochtan riepen wi alle gader</l>
+<l>Mordenaren ende verrader</l>
+<l>Waer so hebdi onze heren</l>
+<l>Vrouwen maechden vul der eeren</l>
+<l n="780">Om dezer nacht nv gedaen</l>
+<l>Si die begonsten vp ons slaen</l>
+<l>Ende scieten ende steken</l>
+<l>Daer wi arde zwaerleken</l>
+<l>So ons dochte waren an</l>
+<l n="785">Elc die weerde hem als een man</l>
+<l>So hi alre best conste</l>
+<l>Ende bider gods ionste</l>
+<l>Die ons dicken in staden</l>
+<l>Adde gestaen bi ziere genaden</l>
+</text>
+<!--</ENTRY>
+--></TEI.2>

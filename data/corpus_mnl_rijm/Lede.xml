@@ -1,0 +1,2160 @@
+<?xml version='1.0'?><!DOCTYPE TEI.2 PUBLIC '-//TEI P4//DTD Main Document Type//EN' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd' [<!ENTITY % TEI.prose 'INCLUDE'><!ENTITY % TEI.linking 'INCLUDE'><!ENTITY % TEI.figures 'INCLUDE'><!ENTITY % TEI.analysis 'INCLUDE'><!ENTITY % TEI.corpus 'INCLUDE'><!ENTITY % TEI.XML 'INCLUDE'><!NOTATION TEI-XML PUBLIC 'TEI P4' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd'><!-- internal INL dtd --><!ELEMENT b (#PCDATA)><!ELEMENT l (#PCDATA | b)*><!-- end of internal INL dtd -->]><TEI.2><!--<ENTRY id="i1004"><teiHeader><fileDesc><titleStmt><title>Van smeinscen lede</title>
+</titleStmt>
+<interpGrp type="pubYear_from"><interp value="1300"/></interpGrp>
+<interpGrp type="witnessYear_from"><interp value="1300"/></interpGrp>
+<interpGrp type="pubYear_to"><interp value="1400"/></interpGrp>
+<interpGrp type="witnessYear_to"><interp value="1400"/></interpGrp>
+<TITEL>Van smeinscen lede</TITEL>
+<author>Onbekend</author>
+<AARD>Rijm</AARD>
+<BRON nr="D11">Brussel, Koninklijke Bibliotheek, 19308</BRON>
+<DATUM>1300-1400</DATUM>
+<OMVANG>2027 verzen</OMVANG>
+<BRON.OPM>Handschrift van 39 bladen, 23 tot 27 regels (meestal 26) per bladzijde. Het hs. bevat uitsluitend Van smeinscen lede, een Middelnederlandse bewerking van het eerste boek uit Thomas van Cantimpr&eacute;'s De Natura Rerum.</BRON.OPM>
+<EDITIE>L. Elaut (ed.): Van smeinscen lede. Een Middelnederlands geneeskundig geschrift, zijn betekenis in het raam van de medische literatuur der dertiende eeuw. Sint Niklaas, 1956.</EDITIE>
+<STATUS>Kritisch</STATUS>
+<EDITIE.OPM>De enkele correcties uit de lijst met corrigenda (inlegvel bij de editie) zijn in de tekst verwerkt.</EDITIE.OPM>
+<BRONNEN>Brussel, Koninklijke Bibliotheek, 19308</BRONNEN>
+</fileDesc>
+</teiHeader>
+--><text>
+<div type="chapter"><head type="chapter comment"><pb n="85"/> PROLOOG</head>
+<l>Alle die willen wesen vroet</l>
+<l>Hoe elc meinsce leuen moet</l>
+<l>Die ghesont wille bliue,</l>
+<l>Besie wel wat ic hier scriue,</l>
+<l n="5">Want ic ne doere toe no af</l>
+<l>Anders dant aristotiles gaf,</l>
+<l>Ende zendet met groter eeren</l>
+<l>Alexanders, zinen heere.</l>
+<l>Hier zo muechdi vroetscip leren,</l>
+<l n="10">Eist dat ghire v toe wilt keren,</l>
+<l>Ende daer omme doen onderzouc,</l>
+<l>Als ons orcont desen bouc</l>
+<l>Daer ic v of doe beghin.</l>
+<l><edition n="86"/>Nu biddic gode meer no min,</l>
+<l n="15">Ende zire moeder vut vercoren,</l>
+<l>Ende alle gods heligen te voren,</l>
+<l>Datsi mi minen zin verlichten,</l>
+<l>Also dat ic moete gedichten</l>
+<l>Dat gods eere moete zijn.</l>
+<l n="20">Eer desen bouc nemet fijn,</l>
+<l>Suldi uele vroetscap horen,</l>
+<l>Die aristotiles brinct te uoren,</l>
+<l>Die de vroetste was, zonder blijf.</l>
+<l>Die oit van moeder ontfinc lijf.</l>
+<l n="25">Hier willic te deser stede</l>
+<l>Beghinnen van smeinscen lede.</l>
+</div>
+<div type="chapter"><head type="chapter comment">EERSTE DEEL</head>
+<div type="subchapter"><head type="subchapter comment">[Inleiding]</head>
+<l>Aristotiles doet uerstaen,</l>
+<l>Die vroet clerc was zonder waen,</l>
+<l>Dattie meinscelike leden</l>
+<l n="30">Gemaect zijn ende gezet mede,</l>
+<l>Na dordonnancie groot ende clene</l>
+<l>Vander werelt al gemene;</l>
+<l>Bedi heetmen in griexer tale</l>
+<l>Die minder werelt al gemene.</l>
+<l n="35">Dese maecte, nader scrifture,</l>
+<l><edition n="87"/>God naer alle creature</l>
+<l>Vp den vruidach, uander aerde.</l>
+<l>Bedi spreict van groter waerde</l>
+<l>Die wijse aristotiles,</l>
+<l n="40">Dat als die meinsce geboren es,</l>
+<l>Gaet hi vp handen ende vp uoete,</l>
+<l>Dan comt de iuecht met goeder moete,</l>
+<l>Diene up ende neder recht.</l>
+<l>Als het comt ter ouden echt,</l>
+<l n="45">So cromt hi ter aerden waert;</l>
+<l>Daer orcont hi ende openbaert</l>
+<l>Datti van aerden es genomen,</l>
+<l>Ende hi weder daer toe moet comen.</l>
+</div>
+<div type="subchapter"><head type="subchapter comment">I</head>
+<l>Dat hooft, spreict aristotiles,</l>
+<l n="50">Vanden mensce dat gemaect es,</l>
+<l>Dat hersenbeckin van harden beene;</l>
+<l>Daer gaen in uele naden cleene,</l>
+<l>Ende meest int hooft vanden man.</l>
+<l>Maer vanden wiue, merct hier an,</l>
+<l n="55">Gaet waer I naet, na zijn orconden,</l>
+<l>Ooc heiftmen somwile vonden</l>
+<l>Hersenbeckin sonder naet;</l>
+<l>Dat betekende, nu uerstaet,</l>
+<l>Die maniere van langen liue.</l>
+<l n="60">Na doude van manne ende van wiue,</l>
+<l><edition n="88"/>Dicke ende hart des, gelooft,</l>
+<l>Dat hersenbeckin vp thooft.</l>
+<l>Die kinderen van cleenre oude</l>
+<l>Hebbe bouen open de moude</l>
+<l n="65">Eer si rechte spreken beghinnen.</l>
+<l>Thersenbeckin heuet binnen</l>
+<l>Drie camerkine, als wijt horen:</l>
+<l>Ene bachten ende ene voren,</l>
+<l>Ende inde middenwaerden ene.</l>
+<l n="70">Die voorste heift de macht allene</l>
+<l>Die zoe mach int gepeins uisieren</l>
+<l>Saken van vele manieren;</l>
+<l>Die middelste heift de cracht,</l>
+<l>Datsoe de verstannesse wacht;</l>
+<l n="75">Die derde die bachten staet,</l>
+<l>Es die gedinkenesse ontfaet.</l>
+<l>Dus eist dattie vorste ontfaet,</l>
+<l>Die middelste besteet den raet,</l>
+<l>Dachterste onthoudet al.</l>
+<l n="80">Als een heift zulc ongeual,</l>
+<l>Datti int vorhooft wert dorwont,</l>
+<l>Hi verlieset in corter stont</l>
+<l><edition n="89"/>Van gepeinse dat uisieren;</l>
+<l>Wart hi in eniger manieren</l>
+<l n="85">Dur slegen bachten, hi verliest dan</l>
+<l>Datti onthouden niene can.</l>
+<l>Die hooft zwere machmen dus genesen;</l>
+<l>Eist vander zonnen, houti an desen:</l>
+<l>Met rosen watre zoutstuut dwaen</l>
+<l n="90">Ende saluent met polioene zaen,</l>
+<l>Ende ganc inde scade zitten</l>
+<l>Daert een deel wait, buuter hitten,</l>
+<l>Ende coele dijn hooft met stale;</l>
+<l>Sweert van coude, merct wale,</l>
+<l n="95">Dwaet met warmen watre lange,</l>
+<l>Ende salvent met galange,</l>
+<l>Ende met dielte ende met galigaen,</l>
+<l>Ende suwer lange, dus salt vergaen.</l>
+<l>Sweret bi naturen of van pinen,</l>
+<l n="100">Eit dickenter, het zal verdwinen,</l>
+<l>Met waermen watre zoutuut dwaen,</l>
+<l>Elx daechs ene musscate ontfaen,</l>
+<l>Garoffels nagel ter nesen hout,</l>
+<l>Ende slaept genouch, dats dijn behout.</l>
+<l n="105"><pb n="90"/> Comt van roke vander mage,</l>
+<l>Nem laxatijk, dats gene zage;</l>
+<l>Comt van winde, hier na gome,</l>
+<l>Neimt vrucht vanden genieuer bome,</l>
+<l>Ende wel gewreuen anijs;</l>
+<l n="110">Dits di best in alre wijs.</l>
+<l>Aristotiles die zeget,</l>
+<l>Die hersin die int beckin leget,</l>
+<l>Datsoe es van couden aerde,</l>
+<l>Gemaect van watre ende van aerden.</l>
+<l n="115">Galien seget ouer een,</l>
+<l>Datsoe gedeelt es in tween,</l>
+<l>Ten luchteren enten rechter waert,</l>
+<l>Ende datter ene line tussen vaert.</l>
+<l>Die hersine, die thooft heift inne,</l>
+<l n="120">Es gemaect van smeinsce beghinne;</l>
+<l>Die hersene heuet bloets min</l>
+<l>Dan ienich let dattie mensce heift in,</l>
+<l>Want mer geen bloet ne toghe;</l>
+<l>Hier bi es zoe een deel droghe,</l>
+<l n="125">Ende zonder adren ne ghene.</l>
+<l>Die meinsce heeft mee hersene allene</l>
+<l>Van zire grote, dan iet dat leift;</l>
+<l><edition n="91"/>Ooc leist men dattie man heift</l>
+<l>Meer hersenen dandie vrauwe.</l>
+<l n="130">Plunius scriuet, die getrauwe,</l>
+<l>Dat in alle hersenen zijn</l>
+<l>Some clene beinekin.</l>
+<l>Aristotiles die zeget</l>
+<l>Dattie hersene begaen leget</l>
+<l n="135">In II liesen; die biden bene</l>
+<l>De starct es, ende mach allene</l>
+<l>Gedogen datsoe es gewont;</l>
+<l>Dan mach dander in gere stont.</l>
+<l>Plinius seit: wat diere so leuet</l>
+<l n="140">Ende ni gene hersene heuet,</l>
+<l>Dat het no weder nacht no dach</l>
+<l>Altoos niet gerusten mach.</l>
+</div>
+<div type="subchapter"><head type="subchapter comment">II</head>
+<l>Thaer es comen, seit nature,</l>
+<l>Van grouuer, warmer humure;</l>
+<l n="145">Thaer wast, alst bescreuen staet,</l>
+<l>Als hitte bouen nature gaet.</l>
+<l>Breken van spisen doet thaer uallen,</l>
+<l>Ende uele humueren met allen,</l>
+<l>Alst anden lasersten gesciet,</l>
+<l n="150">Ende als men an de manne ziet;</l>
+<l><edition n="92"/>Den wiuen vallet in genen doene,</l>
+<l>Entie geboren zijn spadoene,</l>
+<l>Noch ooc niement, vor dien dach</l>
+<l>Datti wiues plegen mach;</l>
+<l n="155">Dat doet der naturen coude,</l>
+<l>Die thaer houdet met gewoude.</l>
+<l>Aristotiles die zeghet,</l>
+<l>Dat in couden lande leget</l>
+<l>Beede meinscen ende dieren</l>
+<l n="160">Hebben haer van heeter manieren,</l>
+<l>Ende dat stide, hart ende wit,</l>
+<l>Ende daer de landen zijn verhit</l>
+<l>Kersp ende bruun vintmense daer.</l>
+<l>Wat so leuet, ende uele heift haer,</l>
+<l n="165">Ende elc uogel van plumen groot,</l>
+<l>Es luxurieus vp zijn genoot.</l>
+<l>Niet dat leuet heift vp thooft</l>
+<l>So uele haers, dies gelooft,</l>
+<l>Als die meinsce, des heift noot</l>
+<l n="170">Om der hersenen nattheit groot,</l>
+<l>Datse dat haer met gewoude</l>
+<l><edition n="93"/>Bedecken van hitten ende van coude.</l>
+<l>Beneden der hersene, merct wale,</l>
+<l>Sone wordt negheen man cale.</l>
+<l n="175">Plinius scriuet, ouer waer,</l>
+<l>Dat dicwile wasset haer</l>
+<l>An oude lieden als zi zijn doot;</l>
+<l>Ende dit es een wonder groot.</l>
+</div>
+<div type="subchapter"><head type="subchapter comment">III</head>
+<l>Plinius scriuet ende bediet,</l>
+<l n="180">Dattie slaep nes anders niet</l>
+<l>Dan in hem zeluen ruste van zinne.</l>
+<l>Kinder, zeget hi, van beghinne</l>
+<l>Ne dromen in gheenre maniere,</l>
+<l>Eer zij out zijn III iaer of IIII.</l>
+<l n="185">Aristotiles orcont</l>
+<l>Dan men lieden in zulker stont</l>
+<l>Vonden heift diene droomde niet;</l>
+<l>Ende ooc vint men zomich diet</l>
+<l>Dat niene droomt, zine waren out;</l>
+<l n="190">Ende daer na comt met gewout</l>
+<l>Iof de doot iof ziecheit vele:</l>
+<l>Dit zijn der naturen spele.</l>
+</div>
+<div type="subchapter"><head type="subchapter comment">IV</head>
+<l>Vanden ogen heift plinius</l>
+<l>In zinen bouc bescreuen dus,</l>
+<l n="195"><pb n="94"/> Datsi zijn tedelste deel</l>
+<l>Vanden lichame geheel,</l>
+<l>Want bider claerheit die van hare geet</l>
+<l>So maken zij tondersceet</l>
+<l>Tusscen der doot ende tleuen.</l>
+<l n="200">Aristotiles heuet bescreuen</l>
+<l>Dat, bi naturen, des siens gewout</l>
+<l>Beede nat es ende cout;</l>
+<l>Bedi de ziene, weit vorwaer,</l>
+<l>Es van watre dat claer</l>
+<l n="205">Ende cout ende nat es bi naturen;</l>
+<l>Ende geen let, na der scrifturen,</l>
+<l>Nes bi naturen cout ende nat</l>
+<l>Dan die hersene, ende dat</l>
+<l>Die ziene es voren int hooft,</l>
+<l n="210">Subtijl zere, dies gelooft;</l>
+<l>Aldat leuet es sculdich des</l>
+<l>Te besiene dat uor hem es.</l>
+<l>Ene zenewe vanden ogen gaet</l>
+<l>Toter eersenen, dat verstaet,</l>
+<l n="215">Entie es hol ende ne geene el:</l>
+<l>Daer vp leget hi, weetmen wel.</l>
+<l>Niet dat leuet van zire grote</l>
+<l>Ne heuet dogen so na genote,</l>
+<l><edition n="95"/>So na staende als de mensce doet:</l>
+<l n="220">Als men dogen beede ondoet,</l>
+<l>Hare beeder ziene gaet ene vaert;</l>
+<l>Die ziene heuet zulken aert,</l>
+<l>Na des ghoens quade humuere</l>
+<l>Die hi heuet in zire nature,</l>
+<l n="225">Onzuuert hi daer hi vp ziet,</l>
+<l>Als men an wiue te merken pliet</l>
+<l>Die de menstrua gedoget:</l>
+<l>Als men haer den spegel toget</l>
+<l>Siet soere vp nerenstelike,</l>
+<l n="230">Soe ontreintene inder gelike</l>
+<l>Als offer ene rootheit in ware.</l>
+<l>Groot twifel neimt de ziene dare</l>
+<l>Als men mach merken an hare allen</l>
+<l>Die vanden groten euele uallen:</l>
+<l n="235">Ondaenre ogen ne ziensi niet.</l>
+<l>Van tituse horic bediet,</l>
+<l>Die keiser die ihrsalem brac</l>
+<l>Enten ioden dede ongemac,</l>
+<l>Des nachts, als hi de ogen ondede,</l>
+<l n="240">Sach hi zo clare, des wonderlichede,</l>
+<l>Als oft hadde gewesen dach.</l>
+<l>Maer cortelike, daer hi lach,</l>
+<l>Cam hem ene demsterhede</l>
+<l><edition n="96"/>Diet hem benam daer ter stede.</l>
+<l n="245">Sulc ziet verre, zulc onuerre,</l>
+<l>Maer die zonne maket erre</l>
+<l>Alle de ogen, zonder waen.</l>
+<l>An dogen mach men verstaen</l>
+<l>Goedertierheit, ontfarmichede,</l>
+<l n="250">Hate, minne ende zeerichede.</l>
+<l>Van VII vellen, seit constantijn,</l>
+<l>Dattie ogen gemaect zijn.</l>
+<l>In die middewaerden staet</l>
+<l>Die ziene diese alduere gaet;</l>
+<l n="255">Die sine es zo claer</l>
+<l>Ende zo subtijl, dats waer,</l>
+<l>Al es zoe vtermaeten clene,</l>
+<l>Dat an hem zeluen al gemene</l>
+<l>Daerin besiet; dies zidi vroet.</l>
+<l n="260">Al cout dinc es den ogen goet.</l>
+</div>
+<div type="subchapter"><head type="subchapter comment">V</head>
+<l>Doghenleden, spreict aristotiles,</l>
+<l>Ja datsi gemaect zijn dor des</l>
+<l>Datsi dogen van wat so leuet</l>
+<l>Decken, als men noot heuet</l>
+<l n="265">Ende rusten willen de creature,</l>
+<l><edition n="97"/>Ende omme dat, dat inder ure</l>
+<l>Van buten niene valle in dogen,</l>
+<l>Want zij lettel muegen gedogen;</l>
+<l>Dus zijnt tune die ogenleden</l>
+<l n="270">Ende maken den ogen vreden.</l>
+</div>
+<div type="subchapter"><head type="subchapter comment">VI</head>
+<l>Oren die zijn bi naturen</l>
+<l>Gaten, nader scrifturen,</l>
+<l>Ant hooft des meinscen, binnen crum;</l>
+<l>Dies herde vroede meesters sum</l>
+<l n="275">Porte zijn vanden gedochte.</l>
+<l>Tende daer of, als ict bezochte,</l>
+<l>Heuet eenrande sochthede</l>
+<l>Daer dat luud an comt mede;</l>
+<l>Van dane vaert ter hersene waert,</l>
+<l n="280">Ende gheen vutganc no weder vaert</l>
+<l>Ne gaet vanden ersenen ten horen.</l>
+<l>Twee aderen, alst wijt horen,</l>
+<l>Gaen vter horen ter hersene waert;</l>
+<l>Vp die aderen zo vaert</l>
+<l n="285">Dat instrument van beeden oren.</l>
+<l><edition n="98"/>Ende wat dat leuet, als wijt horen,</l>
+<l>Ende oren heuet, zonder de man,</l>
+<l>Dat machse porren, merct hier an.</l>
+<l>Aldus eist int achterste deel</l>
+<l n="290">Vanden houede, al geheel,</l>
+<l>Vanden horne dat instrument,</l>
+<l>Ende niet sonder bekent,</l>
+<l>Want bachten int hooft nes vleesch geen</l>
+<l>Noch hersene, maer al in een</l>
+<l n="295">So es het vul luchten daer;</l>
+<l>Ende men seget, ouer waer,</l>
+<l>Dat vanden horne dat instrument</l>
+<l>Vander lucht ons es gezent,</l>
+<l>Ende dat rieken ende dat horen</l>
+<l n="300">Hebben haren wech vercoren</l>
+<l>Metter gemeenre lucht van buuten,</l>
+<l>Dien de nature doet ontsluten</l>
+<l>Subtile adren, zonder waen,</l>
+<l>Die vander hersene ter herten gaen.</l>
+</div>
+<div type="subchapter"><head type="subchapter comment">VII</head>
+<l n="305">Nuese dats I instrument</l>
+<l>Van riekene, dits bekent,</l>
+<l>Ende als ons aristotiles zeget,</l>
+<l>Dats die wech die ooc pleget</l>
+<l>Die adem te lidene duere;</l>
+<l n="310"><pb n="99"/> Niesensnuuten heft nature</l>
+<l>Daertoe gemaect datsi duer liden,</l>
+<l>Alst geuallet tenigen tiden</l>
+<l>Dattie hersene wint ontfaet</l>
+<l>Daer die materie neder of slaet.</l>
+<l n="315">Trieken es metter lucht gemanc</l>
+<l>Alsic eerst sprac, eer jet lanc.</l>
+</div>
+<div type="subchapter"><head type="subchapter comment">VIII</head>
+<l>Baerd, onder de meinscelichede,</l>
+<l>Gheuet I litekin mede</l>
+<l>Welc I wijf zij of een man,</l>
+<l n="320">End comt alsic verstanden can</l>
+<l>Van eenre ouer uloiechede.</l>
+<l>Man met groten baerde mede</l>
+<l>Die es van naturen heet;</l>
+<l>Dies lettel heuet, es cout, godweet.</l>
+<l n="325">Sulke vrauwe heift bouenbaert,</l>
+<l>Dats tekin ter hitten waert.</l>
+<l>Spadoene hebben der barden niet;</l>
+<l>Gheuallet ooc dats gesciet</l>
+<l>Datmen vuerde enen man,</l>
+<l n="330">Sijn baert zoude vallen dan,</l>
+<l>Ende hi verliest manlic lijf</l>
+<l>Ende wart also bloot als twijf.</l>
+</div>
+<div type="subchapter"><head type="subchapter comment">IX</head>
+<l>Een instrument es de mont</l>
+<l>Van smaken, dats ons cont,</l>
+<l n="335">Want daer in de smake leget;</l>
+<l><edition n="100"/>Wat dinge so leuens pleget</l>
+<l>Ontfanget zijn voetsel der mede.</l>
+<l>Onder aldat leuet, dats waerhede,</l>
+<l>Van sijnre grote heuet de man</l>
+<l n="340">Den minsten mont; merct hier an</l>
+<l>Dattene nature wille daermede</l>
+<l>Castien vander ghierichede,</l>
+<l>Nochtan vecht hi iegen mate</l>
+<l>Met ouer dranke, met ouer ate.</l>
+<l n="345">Smaken, beseffen dese II zinne</l>
+<l>Sijn openbaerlijc, alsict kinne,</l>
+<l>Metter herten; dander drie</l>
+<l>Rusten int houet, dinke mie:</l>
+<l>Dats horen, rieken ende zien;</l>
+<l n="350">Thooft es hertoge vandesen drien.</l>
+</div>
+<div type="subchapter"><head type="subchapter comment">X</head>
+<l>Tanden zijn in alre wise</l>
+<l>Nuttelic te maelne de spise</l>
+<l>Die in waert ten liue gaet.</l>
+<l>Plinius zeit, nu uerstaet,</l>
+<l n="355">Datsi niet lichte in gere maniere</l>
+<l>Ne verbernen metten viere.</l>
+<l>Drie manieren zijn van tanden,</l>
+<l>Entie visieric v te handen:</l>
+<l>Some staen zij gelijc der zage,</l>
+<l n="360">Ende some effene, zome ragen.</l>
+<l>Sagende tanden zijn bekent</l>
+<l>In visch, in honden ende in serpent.</l>
+<l>Heffen tanden heuet de man,</l>
+<l><edition n="101"/>Siminkel ende dat paert nochtan,</l>
+<l n="365">Ende beesten die hoornen dragen;</l>
+<l>Eueren hebben tanden die ragen,</l>
+<l>Ende olifanten ende waterperden.</l>
+<l>Niet dat leuet vp der erden</l>
+<l>Ne laet twivout tanden vallen.</l>
+<l n="370">Vanden mensce horic callen</l>
+<l>Dat hem wassen ouer waer</l>
+<l>Dachterste tanden na XX iaer,</l>
+<l>Ende LXXX iaren zulken man.</l>
+<l>Wie zo in zine kintsceit dan</l>
+<l n="375">Die twiuout tanden niet wassen zaen,</l>
+<l>Alst tsire oude comt gegaen,</l>
+<l>So gesciet datsi hem uallen</l>
+<l>Ende weder wassen met allen.</l>
+<l>Mutiaen scriuet, ouer waer,</l>
+<l n="380">Dathi van C ende VII iaer</l>
+<l>Ene quene, daer soe lach,</l>
+<l>Hare twivout tande wassen zach.</l>
+<l>Die buc heift mee tanden dande gheet,</l>
+<l>Entie man dant wijf, alsic weet.</l>
+<l n="385">Die tanden zijn na tbeen gedaen,</l>
+<l>Dat muechdi anden moor verstaen:</l>
+<l>Si zijn zwert, hare tanden wit.</l>
+<l>Aristotiles scriuet dit:</l>
+<l><edition n="102"/>Dier gezagecant inden mont,</l>
+<l n="390">Dats vleesch gelijc den hont,</l>
+<l>Dat scept ooc metter tonge riuiere,</l>
+<l>Entie effentanden diere</l>
+<l>Drinken twater als die coe.</l>
+<l>Wat so leuet, nu merct hoe,</l>
+<l n="395">Ende dat uele tanden heuet,</l>
+<l>Dat seit men dat lange leuet,</l>
+<l>Ende dat lettel heift inden mont,</l>
+<l>Dat leuet onlange stont.</l>
+</div>
+<div type="subchapter"><head type="subchapter comment">XI</head>
+<l>Tonge dat es een let</l>
+<l n="400">Dat aldaer toe es geset</l>
+<l>Datsoe formeren zal de wort</l>
+<l>Die de meinsce brinct vort.</l>
+<l>Tongen zijn som groot, zom clene,</l>
+<l>Maer aristotiles prijst alleene</l>
+<l n="405">Die gone die de mate heuet</l>
+<l>Want soe de beste tale vut geuet.</l>
+<l>Dat eenes niet hare scout,</l>
+<l>Maer wat dat hi des horens gewout</l>
+<l>Verloren heift ende niet ne hoort,</l>
+<l n="410">Dies ne leert hi gene woort;</l>
+<l>Selden es zoe stom van hare,</l>
+<l>Ende alst zo comt, eist openbare</l>
+<l>Haers wortels scout, iof zomegher adere</l>
+<l>Diese beneden hout te gadre,</l>
+<l n="415"><pb n="103"/> Iof iuecht, iof ander ziechede</l>
+<l>Die comt in al zulke lede.</l>
+<l>Als alte dicke es die tonge</l>
+<l>Doet zoe lispen out ende ionge,</l>
+<l>Iof stameren; ende alsoe es dinne</l>
+<l n="420">So esmer ghaerne leuende inne.</l>
+<l>Onder alle dinc die leuet,</l>
+<l>So es allene de meinsce die heuet</l>
+<l>In hem begherte ongetelt:</l>
+<l>Dies moest wesen, met gewelt</l>
+<l n="425">Datti in ongetellede woort</l>
+<l>Conste ende mochte bringen voort</l>
+<l>Sine begherte ende zine maniere.</l>
+<l>Duuen ende uele ander diere</l>
+<l>Ineen versuchten, in eenluut</l>
+<l n="430">Bringen zi hare begherte huut,</l>
+<l>Want zij ne zijn niet menighertiere;</l>
+<l>Sine willen nemmee dan hare maniere,</l>
+</div>
+<div type="subchapter"><head type="subchapter comment">XII</head>
+<l>Die stemme, alsict bescreuen sach,</l>
+<l>Dats der lucht weder slach</l>
+<l n="435">Die men beseffen mach int horen;</l>
+<l>Menige es zoete ende vut vercoren.</l>
+<l>Die stemme, starc al openbare</l>
+<l>Alvoort vanden XIIII iare</l>
+<l>Toter oudoem inden man,</l>
+<l n="440">Ende danne mindertsoe weder dan.</l>
+<l><edition n="104"/>Luud ende ansichte, vandesen tween</l>
+<l>Siet men uele dragen ouer een,</l>
+<l>Want gelijc dat, bi naturen,</l>
+<l>In des ansichten figuren</l>
+<l n="445">In de werelt man no wijf</l>
+<l>Niement eens es, sonder blijf,</l>
+<l>Also nes al, vut ende vut,</l>
+<l>Niement ooc gelijc int luut:</l>
+<l>Elc meinsce heift, na minen wane,</l>
+<l n="450">Syn luut ende zine gedane.</l>
+</div>
+<div type="subchapter"><head type="subchapter comment">XIII</head>
+<l>Gula dat es een let</l>
+<l>Biden zwelge geset,</l>
+<l>Als ons scrijft aristotiles,</l>
+<l>Datter stemme nuttelic es</l>
+<l n="455">Als het niene es te groot.</l>
+<l>Maer welctijt sore in comt noot</l>
+<l>Ende zwellet, so versmort de man;</l>
+<l>So hete ment in dietsce den uf dan.</l>
+</div>
+<div type="subchapter"><head type="subchapter comment">XIV</head>
+<l>Epiglotus dats een instrument</l>
+<l n="460">Als I hudekin bekent</l>
+<l>Gelijc als es uwla,</l>
+<l><edition n="105"/>Den wertel vander tongen na.</l>
+<l>Dat bedect instrumenten twee,</l>
+<l>Maer niet te gader nemmermeer;</l>
+<l n="465">Dat een hiet ysofragus,</l>
+<l>Dat instrument dient ons dus</l>
+<l>Dat dranc ende spise die ons voet</l>
+<l>Neder zendt met groter spoet;</l>
+<l>Canne heet tander instrument,</l>
+<l n="470">Daer ons dadem dore es gezent;</l>
+<l>Als dat uel bedect canna</l>
+<l>Ysofragus dan opensta,</l>
+<l>Ende als es bedect ysofragus</l>
+<l>Canna es open, wi lesent dus.</l>
+</div>
+<div type="subchapter"><head type="subchapter comment">XV</head>
+<l n="475">Canna es dat instrument</l>
+<l>Dattie lucht vut ende in zent,</l>
+<l>Toter longere gaet neder</l>
+<l>Ende bouen der tongen wertel weder.</l>
+<l>Epiglotus dect dese canne</l>
+<l n="480">Datter niet in ne valle danne,</l>
+<l>Ende alst ooc alsoe gesciet</l>
+<l>Datter in valt van spisen iet,</l>
+<l>So moet eenhoesten ouer luut</l>
+<l>Tote diendat es weder huut;</l>
+<l n="485">Macht niet vut, dats een zwaer pant:</l>
+<l>Men sterfter somwile omme te hant.</l>
+<l>Talre beste, geloues mi,</l>
+<l>Dats dattie gone die bi hem zij,</l>
+<l>Dat hine inden hals sla zere</l>
+<l n="490"><pb n="106"/> En mach hem deeren nemmermere.</l>
+<l>Canna heift II telgen beneden;</l>
+<l>Daer wi de uogelkine ontleden</l>
+<l>Mogen wijs best worden geware:</l>
+<l>Dus est bescreuen vanhare.</l>
+</div>
+<div type="subchapter"><head type="subchapter comment">XVI</head>
+<l n="495">Guittur heet de sterte, ic wane;</l>
+<l>Toten vppersten ende recht daer ane</l>
+<l>Formeert men in worden tluut;</l>
+<l>Albouen daer zoe gaet vut</l>
+<l>Ende daersoe uergadert ant hooft</l>
+<l n="500">Heuet zoe ene mont, des gelooft,</l>
+<l>Die ter middel heift I gat</l>
+<l>Van croostele; es algader dat</l>
+<l>Bouen den andren gegraet,</l>
+<l>Daer des meinscen luut dore gaet,</l>
+<l n="505">Dat wart geformeert in zangen;</l>
+<l>Men leist datter dore gangen</l>
+<l>Lucht ende adem, die ooc geuen</l>
+<l>Voetsel an smeinscen leuen.</l>
+</div>
+<div type="subchapter"><head type="subchapter comment">XVII</head>
+<l>Hals es een let dat hout te zamen</l>
+<l n="510">Dat houet enten lichame:</l>
+<l>Van vleessce ende van crostele mede.</l>
+<l>Inden hals aldaer ter stede</l>
+<l>Vergaderen aderen herde vele,</l>
+<l>Dorder hoofscher naturen spele</l>
+<l n="515"><pb n="107"/> Vanden vijf zinnen duer gaen.</l>
+<l>Allene de mensce, zonder waen,</l>
+<l>Mach lettel bugen of doen liden</l>
+<l>Sinen hals dan an II ziden;</l>
+<l>Hine machene bugen in gere maniere</l>
+<l n="520">Achterwaert als ander dieren.</l>
+<l>Alle dieren bugene achter waert</l>
+<l>Sonder de wulf enne libaert,</l>
+<l>Ende dat diet hierna allene;</l>
+<l>So mogen ooc alle uogelen gemene.</l>
+</div>
+<div type="subchapter"><head type="subchapter comment">XVIII</head>
+<l n="525">Been es des lichame fondament</l>
+<l>Den aermen vleessce gezent</l>
+<l>Dat het daer bi moge gestaen;</l>
+<l>Inderre wijs, nu merct zaen,</l>
+<l>Dat een wech gemaect van aerden</l>
+<l n="530">Sonder staken niene mach gehaerden,</l>
+<l>Soe ne breict ende valt alte zamen,</l>
+<l>Also ne mochten die lichame</l>
+<l>Niet gedueren sonder been.</l>
+<l>Hart zijnder uele ouer een,</l>
+<l n="535">Ende binnen hol, wit in gedane,</l>
+<l>Starc iegen pine te wederstane.</l>
+<l><edition n="108"/>Mans benen zijn, sonder blijf,</l>
+<l>Starker uele dan die wijf,</l>
+<l>Sonder de wijf van amasone,</l>
+<l n="540">Die starcste wijfs onder den trone.</l>
+<l>Dat iacob scriuet, alsict las,</l>
+<l>Die bisscop takers was,</l>
+<l>Een vroet man ende leede goet leuen;</l>
+<l>Hi heuet vanden wiue bescreuen</l>
+<l n="545">Dat wonder es van hare cracht,</l>
+<l>Ende zij kerstin zijn geacht</l>
+<l>Ende vp die sarrasinen striden;</l>
+<l>Ooc geuelt in corten tiden,</l>
+<l>Dattie coneghinne van hem</l>
+<l n="550">Cam tote iherusalem,</l>
+<l>Tons heren graue doen haer gebede</l>
+<l>Enter tempel diende mede,</l>
+</div>
+<div type="subchapter"><head type="subchapter comment">XIX</head>
+<l>Maerch, dat ouer uloitheit van bloede</l>
+<l>Dat tbeen heuet in zine hoede;</l>
+<l n="555">Dat mach men zien andode kinder:</l>
+<l>Men breke haer been, men vint ghinder</l>
+<l>El niet in dan bloet root,</l>
+<l>Want hare hitte was niet zo groot</l>
+<l><edition n="109"/>Dat verzieden mochte zo zaen</l>
+<l n="560">Ende witheit van marge ontfaen.</l>
+<l>March voet de hartheit van beene,</l>
+<l>Ende men vint vissce ne geene,</l>
+<l>Als ons plinius doet verstaen,</l>
+<l>Die maerch hebben, sonder waen;</l>
+<l n="565">Diere van couder naturen</l>
+<l>Hebben meest maerchs, nader scrifturen.</l>
+</div>
+<div type="subchapter"><head type="subchapter comment">XX</head>
+<l>Crosteel es zochter danne steen,</l>
+<l>Ende harder danne vleesch ne gheen,</l>
+<l>Als ons galien seghet;</l>
+<l n="570">So es crostels uele dat pleget</l>
+<l>Van kinden te wordene been;</l>
+<l>Inde moude, ouer een,</l>
+<l>Ne vergaderde dat hooft,</l>
+<l>Ne dade tcrostel, des gelooft.</l>
+</div>
+<div type="subchapter"><head type="subchapter comment">XXI</head>
+<l n="575">Scouderen heift de mensce allene</l>
+<l>Meere dan ander diere gemene,</l>
+<l>Na zine grote, zuldijt verstaen,</l>
+<l>Om datti last sal mogen ontfaen.</l>
+<l>Die scouderen zijn van starken beene</l>
+<l n="580">Gheformeert, beede gemeene,</l>
+<l>Omte dragene zwaren last;</l>
+<l>Daer zijn de scouder bladen vast,</l>
+<l>Breed ende dinne, die de wide</l>
+<l>Ouer decken in elke zide</l>
+<l n="585">Entie tvleesch onthouden mede,</l>
+<l>Dat behoort te zulken lede.</l>
+</div>
+<div type="subchapter"><head type="subchapter comment"><pb n="110"/> XXII</head>
+<l>Bughende arme heift vorwaert</l>
+<l>De meinsce, als nature beghaert,</l>
+<l>Wel naer alle dander diere</l>
+<l n="590">Bugen achterwaert na haer maniere.</l>
+<l>Darme hebben in starke beene;</l>
+<l>Dat vorden ellenboge gemeene</l>
+<l>Heuet I clene been ende I groot,</l>
+<l>Darempistel een albloot.</l>
+<l n="595">Starc zijn de armen bi naturen,</l>
+<l>Datsi muegen in pinen geduren,</l>
+<l>Ende dapper ende bugende mede,</l>
+<l>Omme te zine in hebbelicheden.</l>
+<l>Starke zenewen zijnre ooc ynne,</l>
+<l n="600">Ende vele adren, alsict kinne,</l>
+<l>Daer fucisiene of zijn vroet,</l>
+<l>Daert best in laten doet,</l>
+<l>Als des lichames nature</l>
+<l>Heuet in te uele humure.</l>
+<l n="605">Inden armen es ene stede</l>
+<l>Dat men nomet de muus mede,</l>
+<l>Een lettel bouen den helleboge,</l>
+<l>Dat gene wonde mach gedogen,</l>
+<l>Men blijfter emmer omme doot;</l>
+<l n="610">Nochtan, seit de bouc albloot,</l>
+<l>Slaetmen den arm of altemale,</l>
+<l>Dat men tlijf ontdraget wale;</l>
+<l><edition n="111"/>Ooc seggen meesters menich een</l>
+<l>Dat zulke muus es inde been,</l>
+<l n="615">Maer men es zo zeker niet</l>
+<l>Dat zulke dinc daer of gesciet.</l>
+</div>
+<div type="subchapter"><head type="subchapter comment">XXIII</head>
+<l>Aristotiles doet uerstanden</l>
+<l>Vanden meinsceliken handen,</l>
+<l>Datsoe gemaect zijn ter stede</l>
+<l n="620">Dattie voorder voeten mede</l>
+<l>Sijn andie IIII voete diere;</l>
+<l>Maer die meinscelike maniere</l>
+<l>Es van vele meere zinne</l>
+<l>Dan al dat leuen heuet inne;</l>
+<l n="625">Dies bedaerf hem menichfout</l>
+<l>Instrumenten te zire gewout,</l>
+<l>Daer hi hem mede geneere;</l>
+<l>Handen heuet tsire were,</l>
+<l>Sijn lijf te bescermene mede,</l>
+<l n="630">Ende te menigher nuttelichede;</l>
+</div>
+<div type="subchapter"><head type="subchapter comment">XXIV</head>
+<l>Vingeren die zijn ande hant</l>
+<l>Te meniger nutscap becant,</l>
+<l>Zede te houdene ende ooc mede</l>
+<l>Te meniger behendichede.</l>
+<l n="635">Die dume es grouf, cort ende dicke,</l>
+<l>Ende cracht te doene gemicke,</l>
+<l>Ende hevet alsoe uele machten allene</l>
+<l><edition n="112"/>Als alle dandre gemeene.</l>
+</div>
+<div type="subchapter"><head type="subchapter comment">XXV</head>
+<l>Nagelen die zijn ouer een</l>
+<l n="640">Gemaect om tende vanden teen</l>
+<l>Te deckene ende vingeren mede.</l>
+<l>Nagelen hebben meere harthede</l>
+<l>An hem dant croostel ouer een,</l>
+<l>Ende minder vele dan dat been.</l>
+<l n="645">Nagelen verliesen hare gedane,</l>
+<l>Als het gaet den steruen ane</l>
+<l>Ende zomich euel mede.</l>
+<l>Beesten hebben dor haer wreethede</l>
+<l>Clawen daer onse nagelen staen,</l>
+<l n="650">Om haer biten om haer slaen.</l>
+<l>Nagelen van mannen ende wiue,</l>
+<l>Sijn meest gedaen na haren liue.</l>
+<l>Alle crumme clawede uogele mede</l>
+<l>Ne drinken niet, dats waerhede,</l>
+<l n="655">Om tnatte vleesch daer si bi leuen;</l>
+<l>Hem es ooc clare ziene gegeuen;</l>
+<l>Ende hoger vlucht proie te vane,</l>
+<l>Nature geuet hem, ic wane.</l>
+</div>
+<div type="subchapter"><head type="subchapter comment">XXVI</head>
+<l>Aderen zijn smeinscen riuieren</l>
+<l n="660">Daert bloet bi, na zire maniere,</l>
+<l>Tallen lede loopt wale;</l>
+<l>Ende diere zijn II principale,</l>
+<l><edition n="113"/>Die huuter herten gaen allene,</l>
+<l>Ene groote ende ene cleene.</l>
+<l n="665">Van desen II spreict plinius</l>
+<l>In zijne bouken zelue aldus:</l>
+<l>Dat vute breict menich adre</l>
+<l>Die den lichame duergaen algader;</l>
+<l>Dese II geuen ooc die vaert</l>
+<l n="670">Met aderen ter hersene waert;</l>
+<l>Van danen ten ogen enten oren,</l>
+<l>Ter nese, ter roeste, alst wijt horen,</l>
+<l>Dat elc zijn sins gebruken mach.</l>
+<l>Van danen, alsict bescreuen zach,</l>
+<l n="675">Leistmen dat tallen leden gaen</l>
+<l>Aderen die tallen tiden slaen.</l>
+<l>In haren slach, an haren ganc</l>
+<l>Togen zij, weder starc es of cranc</l>
+<l>Therte, of ziec, of gezont.</l>
+<l n="680">Dander adren dragen talre stont</l>
+<l>Tbloet achter leden harentare.</l>
+<l>Drie gaenre al openbare</l>
+<l>Dorde aermen, die wij meest laten</l>
+<l>Als wij meest noots hebben, der baten</l>
+<l n="685">Van herten, van leueren, des gelooft.</l>
+<l>Die derde neimt beghin ant hooft;</l>
+<l>Van danen gaen zij ter hersene waert,</l>
+<l>Ende van dane nemen zij de vaert</l>
+<l>Inden vede, dat daer bi</l>
+<l n="690">Des mans begherte bekennet zij</l>
+<l>Wat des mans herte begaert,</l>
+<l>Ende alle trecsi ten vede waert;</l>
+<l>Daderen, die hi heuet, de man,</l>
+<l><edition n="114"/>Dus vergadere menich an.</l>
+<l n="695">Daerbi wort het, dat kint</l>
+<l>Datmen biden vede wint,</l>
+<l>Dat het ontfaet die gelike</l>
+<l>Alder leden properlike.</l>
+<l>Ooc lopen toten voeten neder</l>
+<l n="700">Aderen vuter herten weder,</l>
+<l>Daert biden voeten comt in</l>
+<l>Waerhenen wille smeinscen zin.</l>
+</div>
+<div type="subchapter"><head type="subchapter comment">XXVII</head>
+<l>Zenewen houden te gader de beene;</l>
+<l>Der heift de lichame menich eene.</l>
+<l n="705">Int hooft nes zenewe en gheene</l>
+<l>Maer uele in uoeten, in handen, in beene.</l>
+<l>Men leset dat al zenewen heuet,</l>
+<l>Dat bloet heuet ende leuet.</l>
+<l>In daerme zijn zenewen starc ende groot,</l>
+<l n="710">Maer in de scijnkelen, weit albloot,</l>
+<l>Sijnsi starker ende meere mede.</l>
+<l>Zenewen als hem hare natheide</l>
+<l>Ghebreict, so cremken zij in den man,</l>
+<l>Ende dats hem grote pine dan;</l>
+<l n="715">Ne gheen vanden visscen gemene</l>
+<l>Ne heuet zenewen, groot no clene.</l>
+</div>
+<div type="subchapter"><head type="subchapter comment"><pb n="115"/> XXVIII</head>
+<l>Arterie zijn, zonder waen,</l>
+<l>wel naer als aderen gedaen,</l>
+<l>Ende zijn hol, ende haer ganc</l>
+<l n="720">Die es biden zenewen lanc;</l>
+<l>Vander herten es haer beghin.</l>
+<l>Galiens seget hier in</l>
+<l>Dat herte bi hem zuuert ooc</l>
+<l>Ende wech blaset zinen rooc,</l>
+<l n="725">Entie naturlike hitte mede</l>
+<l>Bi hem gedeelt wert in allen leden.</l>
+<l>Die vliegende dieren altegader</l>
+<l>Ne hebben arterie; no adre</l>
+<l>No zenewen, no arterien mede.</l>
+</div>
+<div type="subchapter"><head type="subchapter comment">XXIX</head>
+<l n="730">Sijn cordekine an smeinscen lede</l>
+<l>Die binnen duer dat uleesch gaen,</l>
+<l>Ende als zenewen zijn gedaen.</l>
+</div>
+<div type="subchapter"><head type="subchapter comment">XXX</head>
+<l>Ooc zijnre zenewen heeten banden,</l>
+<l>Harder dan zenewen onder tanden,</l>
+<l n="735"><pb n="116"/> Die teen been an tander binden;</l>
+<l>Daer die been enden, mach men vinden</l>
+<l>Als een pesekin vut gaen</l>
+<l>Dat an tander been hout zaen.</l>
+</div>
+<div type="subchapter"><head type="subchapter comment">XXXI</head>
+<l>Vleesch es sochte ende weldich cranc,</l>
+<l n="740">Ende lichte ter breclicheden ganc;</l>
+<l>Vleesch no te mager, no te vet</l>
+<l>Dat priset nature bet,</l>
+<l>Dat, na recht, veruult de lede</l>
+<l>Sonder oueruloiechede.</l>
+<l n="745">Vleesch heuet verwe menigertiere:</l>
+<l>In mammen wit, dats zine maniere,</l>
+<l>Inde longere als rosaet,</l>
+<l>Ter herten in roert, alst daertoe staet,</l>
+<l>Inde leuere purperin,</l>
+<l n="750">Swartachtich moet de milte zijn.</l>
+</div>
+<div type="subchapter"><head type="subchapter comment">XXXII</head>
+<l>Die huut es een decsel mede</l>
+<l>Ouer al des meinscen lede,</l>
+<l>Die de versaminge menichfout</l>
+<l>Aldect ende te gader hout.</l>
+<l n="755">Alre dinnest es smeinscen vel,</l>
+<l>Hem mach geen let gedogen wel,</l>
+<l><edition n="117"/>Want hets ombewist van goede hare.</l>
+<l>Galiens zeget openbare,</l>
+<l>Sulke huut es dicke, zulke dinne,</l>
+<l n="760">Die dinste heift meest haers inne,</l>
+<l>Ende soes scarp van naturen echt,</l>
+<l>Entie dicke zochte ende slecht.</l>
+<l>Menscen hebben witte huut</l>
+<l>Wel naer alde werelt vut,</l>
+<l n="765">Sonder allene daert uolc beronnen</l>
+<l>Metter cracht es vander zonnen,</l>
+<l>Als tuolc es in ethiophen;</l>
+<l>De wareit weten wi al hopen</l>
+<l>Dat adaem hare ende onse vader</l>
+<l n="770">Was, enter meinsceit algader;</l>
+<l>Maer weder zi zwart zijn bi naturen</l>
+<l>Of vander zonnen, twiuelen scrifturen.</l>
+</div>
+<div type="subchapter"><head type="subchapter comment">XXXIII</head>
+<l>Rigge beghinnet anden hals</l>
+<l>Ende gaet neder als ende als</l>
+<l n="775">Te gate, dat heet fondament.</l>
+<l>Van menigen sticke es dit bekent,</l>
+<l>Alle duergate; nu merct dan,</l>
+<l>Die rebben die zijn vast der an.</l>
+<l>Duer de gate vanden ricgebene</l>
+<l n="780">So gaet ene coorde alleene,</l>
+<l>Die nuicha heet in latijn;</l>
+<l><edition n="118"/>Daer of comt uele daer stidenessens in.</l>
+<l>De ric mach uele pinen dragen,</l>
+<l>Maer alst comt tenlangen dagen,</l>
+<l n="785">So bughet hi ende wart crom;</l>
+<l>Dit merct men ande oude zom.</l>
+</div>
+<div type="subchapter"><head type="subchapter comment">XXXIV</head>
+<l>Barst es anden meinsce I let</l>
+<l>Toter weldicheit gezet</l>
+<l>Dat wers mach gedogen pine</l>
+<l n="790">Sonder de mesquame zine;</l>
+<l>Dat doet therte datter inleit</l>
+<l>Ende ander zaken als men zeit.</l>
+<l>Die barst heuet, als men weet,</l>
+<l>Inde middel een been breet</l>
+<l n="795">Duergate, nu merct dan,</l>
+<l>Die rebben uergaderen daeran,</l>
+<l>Ende daer toe uele zenewen mede</l>
+<l>Die behoren ter meinscelichede.</l>
+<l>Daeronder risen altemale</l>
+<l n="800">Daderen die heeten principale,</l>
+<l>Die hem, gelijc tacken, mede</l>
+<l>Deelen in al smeinscen lede.</l>
+<l><edition n="119"/>Aristotiles zeit, diet weet,</l>
+<l>Dat niet dat leuet, heift zo breet</l>
+<l n="805">De barst, als de meinsce doet,</l>
+<l>Na zire grote, alsic verstoet;</l>
+<l>Nauwe hebse al ander dieren</l>
+<l>Ende smal, na hare maniere.</l>
+</div>
+<div type="subchapter"><head type="subchapter comment">XXXV</head>
+<l>Mammen of teten machment nomen,</l>
+<l n="810">Die zijn van zochter vleessce comen,</l>
+<l>Ende zijn, als aristotiles zeit,</l>
+<l>Instrumenten daer melc in leget</l>
+<l>Ende daer of comt meinscelic zaet.</l>
+<l>Melc es nattheit, dat verstaet,</l>
+<l n="815">Beede in meinscen ende in dieren</l>
+<l>Als zij vrucht dragen na haer manieren,</l>
+<l>Dat vanden vleessce hem sceed dan.</l>
+<l>Beter es de melc, merct hier an,</l>
+<l>Die tzwarte wijf geift dan de witte;</l>
+<l n="820">In gheeten faelgiert alditte.</l>
+<l>Bedi seget dattie melc</l>
+<l>Ende smeinscen zaet, dese II elc</l>
+<l>Hebben beghin van eenre stede;</l>
+<l>Die fisisiene liens mede.</l>
+<l n="825">Aristotiles seit datmen vint</l>
+<l>Somwile melc ant knechtkin kint.</l>
+<l>Gheen dier heuet de mammen voren</l>
+<l>Dan de meinsce, als wijt horen,</l>
+</div>
+<div type="subchapter"><head type="subchapter comment"><pb n="120"/> XXXVI</head>
+<l>Therte, als zeit aristotiles</l>
+<l n="830">Es tbeghin daer al roeren of es,</l>
+<l>Therte dats de kerse allene</l>
+<l>Vanden lichaeme gemene.</l>
+<l>De longere leget niet aldaer</l>
+<l>Daer therte leget; weit vor waer,</l>
+<l n="835">Die ademtucht comt van hare.</l>
+<l>Maerct, die nature al openbare</l>
+<l>Therte sette met groter waerde</l>
+<l>Indes lichaems middewaerde,</l>
+<l>Tedelste inde edelste stede.</l>
+<l n="840">Negheen bloet comt mede</l>
+<l>Van andren steden ter herten waert,</l>
+<l>Want soe es fontene daervute vaert</l>
+<l>Ende van alden bloede beghin;</l>
+<l>Van hare gaet tallen leden in</l>
+<l n="845">De ghifte van hare cracht.</l>
+<l>Therte es beghin gheacht</l>
+<l>Daer die begherte of comt, te waren,</l>
+<l>Van alre dinc die wij begaren.</l>
+<l>Dat bloet dat therte heuet inne,</l>
+<l n="850">Es subtijl, claer ende dinne.</l>
+<l>Die longere es bouen der herten gezet,</l>
+<l>Ende waer omme het es, dat merct bet:</l>
+<l>Die longere es zochte ende licht,</l>
+<l>Ende es als ene waie gesticht</l>
+<l n="855">Bouen der herten, merct ditte,</l>
+<l><edition n="121"/>Dattie herte van hare hitte</l>
+<l>Altegader niet worde uertaert.</l>
+<l>Tscarpe vander herten es vorwaert,</l>
+<l>Maer inden meinsce eist gekeert</l>
+<l n="860">Ter luchter barst, alsmen ons leert.</l>
+<l>In allen dieren vptie aerde</l>
+<l>Es therte inde middewaerde,</l>
+<l>Sonder inden meinsce allene,</l>
+<l>Daer eist ter luchter zide waert clene,</l>
+<l n="865">Anders zo waert alte cout</l>
+<l>De luchter zide anhare gewout.</l>
+<l>Na zine grote, onder ander diere,</l>
+<l>Heuet de meinsce uan meester maniere</l>
+<l>Therte, ende zulc meinsce leuet</l>
+<l n="870">Diese meere dan I ander heuet.</l>
+<l>Sulc herte es groot, zulc clene,</l>
+<l>Sulc hart, zulc zochte. Hort wat ic meene:</l>
+<l>Die therte heuet hart, es zonder zin,</l>
+<l>Want harde herten hebben die diere.</l>
+<l n="875">Grote herte, dats zine maniere,</l>
+<l>Eist in meinscen, eist in beesten,</l>
+<l>Die es bloot na desen ieesten,</l>
+<l>Ende des ne wanen niet leeke lieden.</l>
+<l>Hoort hoe ict prouue ende bediede:</l>
+<l n="880">Grote herte mach niet zo zaen</l>
+<l>Hare hitte durendure ontfaen</l>
+<l>Als die gemate, dus blijft soe cout,</l>
+<l><edition n="122"/>Ende coutheit beneimt tgewout</l>
+<l>Datmen niet coene mach zijn;</l>
+<l n="885">Merct dat een clene huusekin</l>
+<l>Van enen viere altemale</l>
+<l>Eer warrem es dan ene zale.</l>
+<l>Hasen ende herten die zijn bloot</l>
+<l>Entie hebben herten groot.</l>
+<l n="890">Therte ne mach min no mere</l>
+<l>Niet een twint gedogen van zere,</l>
+<l>No smerte, no ziechede,</l>
+<l>Ende dat muegen dander lede,</l>
+<l>Ende dits recht, want alst beghin</l>
+<l n="895">Yet onwillens comet in,</l>
+<l>So bliuet al zonder cracht</l>
+<l>Dat van hem ontfanget macht;</l>
+<l>Dits tekin dat in doot mans herte</l>
+<l>Noit man sach tekin der smerte,</l>
+<l n="900">Als men in dander leden ziet:</l>
+<l>Therte ne mach ombiden niet</l>
+<l>Dat het yet gequets zij,</l>
+<l>Maer eer hun comt de vreese bi,</l>
+<l>So comt de doot ende breket leuen</l>
+<l n="905">Eer soe quetsinge heuet beseuen.</l>
+<l>Men leist die steruen duer tvenijn</l>
+<l>Dat haer herten onuervuerlic zijn.</l>
+<l>Dattie lieden zijn goet van zeden,</l>
+<l>Milde of vrec, of van pijnlicheden,</l>
+<l n="910">Blide of zeerich, coene of bloot,</l>
+<l>Dat doet de herte cleine ende groot,</l>
+<l><edition n="123"/>Daer soe haer staen heift vercoren,</l>
+<l>Te uerre achter of uoren,</l>
+<l>Ter luchter of ter rechter stede,</l>
+<l n="915">Te hoge of te neder, mede</l>
+<l>Scoonheid ende leelichede.</l>
+</div>
+<div type="subchapter"><head type="subchapter comment">XXXVII</head>
+<l>Leuere es an de rechter hant</l>
+<l>Der herten, dits becant;</l>
+<l>De milte heift de luchter stede.</l>
+<l n="920">Aristotiles seit mede,</l>
+<l>Dat wonder ware menigertiere</l>
+<l>Vond ment anders in enigen diere.</l>
+<l>Die leuere es zoete menigertiere</l>
+<l>Es in hare, ende zoetichede.</l>
+<l n="925">Meinsce ende stieren hebben ront</l>
+<l>De leuere in alre stont.</l>
+<l>Sinte clement zeit, dat bidi</l>
+<l>Die leuere ant rechter zi,</l>
+<l><edition n="124"/>Dat die spise verduen doet</l>
+<l n="930">Ende vaerwet smeinscen bloet.</l>
+</div>
+<div type="subchapter"><head type="subchapter comment">XXXVIII</head>
+<l>Galle es der leuere bi:</l>
+<l>heet ende drooge, geloues mi,</l>
+<l>Ende dat es na galiene</l>
+<l>De maniere der caloriene.</l>
+<l n="935">God heiftse inde leuere gezet,</l>
+<l>Omhaer te helpene bet</l>
+<l>Omme te verziedene de spise.</l>
+<l>Vander gallen, seit de wise,</l>
+<l>So comt ongestadichede,</l>
+<l n="940">Gramcep ende subtijlhede,</l>
+<l>Scarpheit van zinne ende lustichede,</l>
+<l>Verheffinge ende coenhede,</l>
+<l>Ende begherte van wiue,</l>
+<l>Ghedinkenesse in desen liue,</l>
+<l n="945">Ende verandworden metter vaert;</l>
+<l>Alle die lichame ooc die waert</l>
+<l>Verhit ende verdroget vander gallen.</l>
+<l>Plinius horic callen</l>
+<l>Dat zulc meinsce ne heifter niet,</l>
+<l n="950">Dat cracht ende lange lijf bediet.</l>
+<l>Aristotiles seit zulc die leift</l>
+<l>Die galle bouender leuere heift,</l>
+<l>Entie zijn bi naturen wreet.</l>
+<l>Sulc man es die galle steet</l>
+<l n="955"><pb n="125"/> Vander leuere een deel bet of,</l>
+<l>Die hebben van omoeden lof;</l>
+<l>Maer goede merket dan</l>
+<l>Die zijn goet in elken man.</l>
+<l>Een vroet man, seit de scrifture,</l>
+<l n="960">Dat men ten besten buge nature;</l>
+<l>Dien I filosophien bezach</l>
+<l>Ende mercte dat an hem lach,</l>
+<l>Bi naturen, grote felhede,</l>
+<l>Doch vant hine zochte telker stede;</l>
+<l n="965">Ooc wijsdene zine nature dul,</l>
+<l>Ende in wanderen wijsheden vul;</l>
+<l>Ende dies hadde in wonder groot.</l>
+<l>Hier bi mach men merken al bloot</l>
+<l>Dat costume, des zijt gewes,</l>
+<l n="970">Ene andre nature es.</l>
+<l>Van socratese scrijft plinius</l>
+<l>Dathi genatuert es aldus:</l>
+<l>Altoos was hi eens gedaen,</l>
+<l>Goede costumen dedi, zonder waen;</l>
+<l n="975">Costumen brinct zulken in rade</l>
+<l>Ghelijc oft naturen dade.</l>
+<l>Aristotiles spreict wat zo leift</l>
+<l>Ende ne gheene galle heift,</l>
+<l>Als de hert, dat mach lancliuich zijn</l>
+<l n="980">Als dolifant, kemel ende dauphin.</l>
+</div>
+<div type="subchapter"><head type="subchapter comment"><pb n="126"/> XXXIX</head>
+<l>Longere dats een instrument</l>
+<l>Dattie lucht vut ende in zent,</l>
+<l>Bedi, seit aristotiles,</l>
+<l>Datsoe licht ende vul gaetkin es,</l>
+<l n="985">Ghelijc oft ene spoenge ware,</l>
+<l>Alsoe den wijnt trect te hare</l>
+<l>Wast soe, ende alsoene weder zent</l>
+<l>Mindert soe, dit es bekent.</l>
+<l>Dattie herte altoos slaet</l>
+<l n="990">Comt hier bi, dat uerstaet,</l>
+<l>Dattie meinsce hem ontsiet</l>
+<l>Iof hoopt altoos, ende anders niet.</l>
+<l>Wat zo wandert ende leift</l>
+<l>Ende ademt, weit dat longere heift</l>
+<l n="995">Omte vercoelne de hitte</l>
+<l>Vander herten, nu merct ditte.</l>
+<l>Maer beesten die zijn zonder bloet</l>
+<l>Ende zonder nattheit, alsic verstoet,</l>
+<l>Ne hebber wat doen, want haer geest</l>
+<l n="1000">Heuet der coutheden meest;</l>
+<l>Maer wat zo leuet, dat bekinnet,</l>
+<l>Ende dat zine gelike winnet,</l>
+<l>Heift longere ende bloet, nader scrifture,</l>
+<l>Om die hitte vander nature;</l>
+<l n="1005">Maer wat zo waert vanhem geboren</l>
+<l>Heuet droge longere, als wijt horen,</l>
+<l>Ende bedi ne darst hem niet</l>
+<l><edition n="127"/>Ende drinken zelden als men ziet,</l>
+<l>Want hare hitte nes niet groot.</l>
+<l n="1010">Bidesen zaken eist albloot</l>
+<l>Dat zij vanden lichame zijn clene,</l>
+<l>Want naturlike hitte allene</l>
+<l>Es van wasdomme zede,</l>
+<l>Ende vele bloets es tekin mede</l>
+<l n="1015">Van naturliker hitten echt.</l>
+<l>Ende hitte maect creaturen recht,</l>
+<l>Ende hier bi es de meinsce allene</l>
+<l>Van naturen recht, ende onder gemene</l>
+<l>Alre hande creaturen</l>
+<l n="1020">Van zire grote, bi naturen</l>
+<l>Heift hi meest bloets, weit ditte:</l>
+<l>Dats die zaken der hitte,</l>
+<l>Ende tvier wille vp waert ende niet weder;</l>
+<l>Dus gaet de meinsce vp ende neder.</l>
+<l n="1025">Plinius zeit vander longere mee:</l>
+<l>Longere van visscen vander zee,</l>
+<l>Men strijcse an houte, alsoe clare</l>
+<l>Barnet ioft geoliet ware,</l>
+<l>Ooc maect mer of olie claer.</l>
+<l n="1030">Dat sonder longere leuet vor waer,</l>
+<l>Heuet gheen luud, zeit aristotiles.</l>
+<l>Plinius zeit: zo soe minder es,</l>
+<l>So snelre zijn de creaturen</l>
+<l>Diese hebben bi naturen.</l>
+</div>
+<div type="subchapter"><head type="subchapter comment">XL</head>
+<l n="1035">Milte, scriuet aristotiles,</l>
+<l>Dat een let inden meinsce es,</l>
+<l>Lanc ende smal, also gedaen</l>
+<l><edition n="128"/>Als in een zwijn es, zonder waen,</l>
+<l>Ende andie luchter zide leget.</l>
+<l n="1040">Die milte, leist men, dat pleget</l>
+<l>Te purgierne tquade bloet.</l>
+<l>Es datsoe enen wee doet,</l>
+<l>So es tlaten ande luchter hant</l>
+<l>Of anden arem, best te hant.</l>
+<l n="1045">Mirthus es gagel, ic wane,</l>
+<l>Die vrucht die soe heueut ane,</l>
+<l>Ghezoden ende genut mede,</l>
+<l>Es goet iegen de moielichede</l>
+<l>Van leuere ende van milte mede.</l>
+<l n="1050">Melancolie heuet hare stede</l>
+<l>In de milte, seit galien:</l>
+<l>Dats bloet daermen of ziet gescien;</l>
+<l>Den man zijn drouue ende gherne allene,</l>
+<l>Swighende, peinsende ende in wene,</l>
+<l n="1055">Swaer ende traech, ende herde bloot,</l>
+<l>Sorgende ende ander quaetheit groot.</l>
+<l>Plinius seit: de milte belet</l>
+<l>Dat lopen meer dan enich let;</l>
+<l>Des salmen den lopers laten</l>
+<l n="1060">De milte adere, thare baten.</l>
+</div>
+<div type="subchapter"><head type="subchapter comment">XLI</head>
+<l>Bvuc es recht als I zac gescepen</l>
+<l>Daer die vitaelge ines begrepen;</l>
+<l>So wort hi somwile so groot</l>
+<l>Datter somwile of comt de doot.</l>
+<l n="1065"><pb n="129"/> Aldat leuet, draget sonderlingen</l>
+<l>Ouer een van enen dingen,</l>
+<l>Dat al buuc heuet, sonder waen,</l>
+<l>Daert voetsel in mach ontfaen,</l>
+<l>Ende enen huutganc, daert mede</l>
+<l n="1070">Vut werpt doueruloiechede;</l>
+<l>Al heueut blase dat buuc heuet,</l>
+<l>Sonder tuogelte dat leuet,</l>
+<l>Dat dranc ende spise te mate</l>
+<l>Vut laet naren tenen gate.</l>
+<l n="1075">Plinius bescriuet, de wise:</l>
+<l>Die gansich es van sire spise,</l>
+<l>Datti es van dulre maniere.</l>
+<l>Onuersadelic zijnde dieren</l>
+<l>Die recht tgedaremte neder uaert</l>
+<l n="1080">Enter kele ten fondemente waert:</l>
+<l>Dats die wulf, als ic can verstaen,</l>
+<l>Die dukere entie pellicaen.</l>
+</div>
+<div type="subchapter"><head type="subchapter comment">XLII</head>
+<l>Rebben zijn daer toe geset</l>
+<l>Datsi den buuc behouden bet,</l>
+<l n="1085">Want anders ware de huut te dinne</l>
+<l>Te bescermene dattie buuc heift inne.</l>
+<l>Achte heifter ande zide de man,</l>
+<l>Ende zulc tiene, daer es wonder an.</l>
+<l>Staercst zijn de rechtere, als wijt horen,</l>
+<l n="1090">Ende alle dander been te voren.</l>
+<l><edition n="130"/>XIII hebber gehorende diere,</l>
+<l>Ende hets der serpenten maniere</l>
+<l>Dat sire hebben XXX tsamen,</l>
+<l>Want zij zijn lanc van lichamen.</l>
+</div>
+<div type="subchapter"><head type="subchapter comment">XLIII</head>
+<l n="1095">Darmen, seit sinte clement,</l>
+<l>Es een bedarflic instrument;</l>
+<l>Den meinsce die heuet nature</l>
+<l>In also menighe figure</l>
+<l>Gekeert, datsi de verduwede spise</l>
+<l n="1100">Neder zenden na hare wise,</l>
+<l>Ende donuerduwede bouen laet,</l>
+<l>Datter andre niet ne staet,</l>
+<l>Entie spise alte zaen</l>
+<l>Vuten buuke niet wert gedaen;</l>
+<l n="1105">Bouen der mage es darem ghene</l>
+<l>Nu scriuic van hare allene.</l>
+</div>
+<div type="subchapter"><head type="subchapter comment">XLIV</head>
+<l>Maghe dat es een der lede</l>
+<l>Dat meest helpt der meinscelichede,</l>
+<l>Want soe es die de spise ontfaet</l>
+<l n="1110">Ende versiet, als daer toe staet,</l>
+<l>So datsoe verduwet es.</l>
+<l>Ons seit aristotiles</l>
+<l>Datsoe binnen rou ooc zij,</l>
+<l>Om te verwarmene daer bi</l>
+<l n="1115">Die spise, ende om te lettene mede</l>
+<l>Datsoe niet zaen rume de stede.</l>
+<l><edition n="131"/>Ene darme, zonder dander gemene,</l>
+<l>Comter vuter mage allene:</l>
+<l>Jeiunium es zine name.</l>
+<l n="1120">In hem ne gaet niet, hoet came,</l>
+<l>Ghene grouue spise, ne ware tnatte:</l>
+<l>Trucket vuter magen datte;</l>
+<l>Die groufheit vander spisen gaet</l>
+<l>Enen andrem wech, dat verstaet,</l>
+<l n="1125">Daert die nature weder vut driuet.</l>
+<l>Andie daermekine, zo men scriuet,</l>
+<l>Sijn vijf aderen die de vaert</l>
+<l>Nemen toter leuere waert;</l>
+<l>Daer vute trect zij dat natte</l>
+<l n="1130">Ende zenden der leuere datte,</l>
+<l>Die leuere verziedet dan,</l>
+<l>Ten nieren waert keret dan,</l>
+<l>Van danen comt ter blasen mede.</l>
+<l>Tupperste vander natthede</l>
+<l n="1135">Dat wort bi naturen bloet</l>
+<l>Dat alle die leden voet,</l>
+<l>Ende vanden bloede tupperste deel</l>
+<l>Keert ter herten waert geheel,</l>
+<l>Met aderen die de vaert</l>
+<l n="1140">Neimt vander leuere ter herten waert.</l>
+<l>Twee zaken si geuet ditte:</l>
+<l>Teen es naturlike hitte,</l>
+<l><edition n="132"/>Ende tander heet een geest</l>
+<l>Die inde herte, bi namen meest</l>
+<l n="1145">Leuen mach geheeten wesen;</l>
+<l>Ende inde leuere heet men desen</l>
+<l>Den geest bi namen der naturen;</l>
+<l>Indie hersene, nader scrifturen,</l>
+<l>Heet het des zinnes geest bi namen.</l>
+<l n="1150">Desen geest es een middel tsamen</l>
+<l>Ende een bant, alsic verheessche,</l>
+<l>Tusscen der ziele enten vleessche,</l>
+<l>Die niet ne mochten ouer een</l>
+<l>Ne dade een middel van hem tween,</l>
+<l n="1155">Want die ziele onuerderflic es,</l>
+<l>Menne zietse no tast, nu merke des,</l>
+<l>Ende dit vleesch es vander erden;</l>
+<l>Dus es de geest de middewerde.</l>
+</div>
+<div type="subchapter"><head type="subchapter comment">XLV</head>
+<l>Blase dats tnederste let</l>
+<l n="1160">binnen den meinsce gezet,</l>
+<l>Daerin word die orine ontfaen</l>
+<l>Die vander nieren comt gegaen;</l>
+<l>Haren crop die rect ooc mede</l>
+<l>Toter wertele vanden vede;</l>
+<l n="1165">Daer vute toget die orine</l>
+<l>Weder de meinsce heuet pine</l>
+<l>Binnen, ende oft hi heuet gezonde,</l>
+<l>Als men noch ziet te menigen stonden.</l>
+<l>Sonder blase es tgeuoghelte al,</l>
+<l n="1170"><pb n="133"/> Daeromme ne pissen zij groot no smal.</l>
+</div>
+<div type="subchapter"><head type="subchapter comment">XLVI</head>
+<l>Matrix es dat naturlike let</l>
+<l>an die vrouwe geset</l>
+<l>Als die vede es anden man;</l>
+<l>Matrix es properlike nochtan,</l>
+<l n="1175">Dat let dat een deel binnen staet</l>
+<l>Ende des mans zaet ontfaet</l>
+<l>Dat bider porten in wert gezent,</l>
+<l>Die elc meinsce bi namen kent;</l>
+<l>Die hout dat zaet in bi naturen</l>
+<l n="1180">Ende formeert tere creaturen,</l>
+<l>Ende zendet vut ter rechter tijt.</l>
+<l>Ooc willic dat ghijs zeker zijt</l>
+<l>Dat wijf ende mannen mede</l>
+<l>Al eens hebben alle lede,</l>
+<l n="1185">Sonder matrix entie vede;</l>
+<l>Aristotiles lyets mede.</l>
+<l>Te hare waert lopen adren vele</l>
+<l>Om de lust van naturliken spele;</l>
+<l>Haer wertele comt vander nauele zaen,</l>
+<l n="1190">Gheliker wijs als wij verstaen</l>
+<l>Dattie wertel vanden vede</l>
+<l>Van den nieren comt mede;</l>
+<l>Des es de niere in den man</l>
+<l>De stede van luxurien dan,</l>
+<l n="1195">Ende inde nauele, zonder blijf,</l>
+<l>So heuet licgende dat wijf.</l>
+<l>Somigen geuallet mede</l>
+<l><edition n="134"/>Datsi hebben bede dese lede,</l>
+<l>Bede lieden ende beesten,</l>
+<l n="1200">Als men leist in plinius ieeste.</l>
+</div>
+<div type="subchapter"><head type="subchapter comment">XLVII</head>
+<l>Vede, dats een instrument</l>
+<l>Daer men den man bi tusscen kent;</l>
+<l>Die wertel comt bi manieren,</l>
+<l>Als ic eerst zeide, vander nieren;</l>
+<l n="1205">Ende al daderen vanden lichame</l>
+<l>Houeden daer ante zamen.</l>
+<l>Bi naturen es die vede</l>
+<l>Vutganc der oueruloiechede</l>
+<l>Der nattheit, ende daer vte gaet</l>
+<l n="1210">Dat naturlike meinsce zaet.</l>
+<l>Gheformeert zo es die vede</l>
+<l>Van vleessce ende van crostele mede:</l>
+<l>Als hi bi naturen staet</l>
+<l>So toocht dat crostel zine daet,</l>
+<l n="1215">Want dan wast hi alre meest;</l>
+<l>Dat doet die leuenlike geest</l>
+<l>Die beroert wart bi manieren</l>
+<l>Met gepeinse ende met visieren.</l>
+<l>Somwile waert ooc die nature</l>
+<l n="1220">Allene beroert bi humure</l>
+<l>Van dranke ende van heeter spise:</l>
+<l>Dat doetene slapende risen.</l>
+</div>
+<div type="subchapter"><head type="subchapter comment">XLVIII</head>
+<l>Smeinscen niere zijn als der coe;</l>
+<l><edition n="135"/>aristotiles seget daer toe</l>
+<l n="1225">Dattie rechter niere hoger leget</l>
+<l>Dan die luchter te liggene pleget,</l>
+<l>Nochtan heift hi vetheden min;</l>
+<l>Luxurie die leichter in</l>
+<l>Vanden man; merct ende verstaet,</l>
+<l n="1230">Ene adere es die vander herten gaet</l>
+<l parse="ignore">Toter leuere bi hare nature,</l>
+<l>Want die leuere es stede van hitten,</l>
+<l>Daerin es der minnen zitten.</l>
+<l>Die zelue adere die gaet weder</l>
+<l n="1235">Vander leuere ten nieren neder</l>
+<l>Ende brinct met hare zaen</l>
+<l>Dinc die de herte heift uerstaen,</l>
+<l>Entie leuere minnet mede;</l>
+<l>Dus werden verwaremt daer ter stede</l>
+<l n="1240">Die niere daer de hitte vut gaet,</l>
+<l>Daer die vede mede staet;</l>
+<l>Dus vloeit de nattheit toten nieren,</l>
+<l>Ende tedel bloet daer bi manieren</l>
+<l>Die verstandelike cracht van minnen</l>
+<l n="1245">Wort geordonneert van binnen</l>
+<l>Sendt vut hemelike dat zaet</l>
+<l>Biden vede, daert dure gaet.</l>
+</div>
+<div type="subchapter"><head type="subchapter comment">XLIX</head>
+<l>Arsbillen heuet de man,</l>
+<l>Niet zonder redene; merct dan,</l>
+<l n="1250">Wel naer alle vieruoete diere</l>
+<l><edition n="136"/>Hebben sterten na haer maniere,</l>
+<l>Om te deckene die stede</l>
+<l>Daermen den buuc bi zuuert mede;</l>
+<l>Daer ouer, als die nature wille,</l>
+<l n="1255">So heuet de meinsce arsbille;</l>
+<l>Dat start wort in andre diere</l>
+<l>Wart uleesch anhem, na de maniere</l>
+<l>Daer hi die leelichede bi dect</l>
+<l>Der stede daer donsuuerheit toe trect.</l>
+</div>
+<div type="subchapter"><head type="subchapter comment">L</head>
+<l n="1260">Lanken nemen hare stede</l>
+<l>Omtrent leuere ende milte mede,</l>
+<l>Ende comen ande lendine gegaen;</l>
+<l>Lanken der wijf die ontfaen</l>
+<l>Die vrucht die men wint daerane,</l>
+<l n="1265">Ooc plegen zij mede tontfane</l>
+<l>Tversodene bloet van smeinscen lede</l>
+<l>Ende verkeerent in vetheiden.</l>
+<l>Lanken dogen pine ouermate</l>
+<l>Van ouerdranke, van ouerate,</l>
+<l n="1270">Ende meest van spisen daer rooc of comt:</l>
+<l>Dats datmen tlanc euel noemt.</l>
+</div>
+<div type="subchapter"><head type="subchapter comment">LI</head>
+<l>Lendine dats een let</l>
+<l>Daeronder die dien zijn gezet,</l>
+<l>Die knien daerna, ende scinkelen twee</l>
+<l n="1275">Als II colommen min no mee,</l>
+<l><edition n="137"/>Die dat werc van bouen al</l>
+<l>Algader dragen zonder ual.</l>
+<l>In dese scinkelen, in dese knien,</l>
+<l>Ende daer toe in dese dien,</l>
+<l n="1280">Sijn starke been ende zenewen mede,</l>
+<l>Die houden der meinscen lede</l>
+<l>Die neder toter planten gaen;</l>
+<l>Nederst zijn de voeten gestaen</l>
+<l>Als basen onder die colomme,</l>
+<l n="1285">Dese dragen alde somme;</l>
+<l>Vijf teen zijn daer huute geleet,</l>
+<l>Vooren met nagelen gecleet,</l>
+<l>Niet geclaewet als ander diere:</l>
+<l>Hier toget des meinscen maniere</l>
+<l n="1290">Datti zochte zoude wesen.</l>
+<l>Hielen menen, als wijt lesen,</l>
+<l>Dattie meinsce niet achterwaert valle;</l>
+<l>Vier voeten hebben gene alle.</l>
+<l>Planten van voeten heift zulc plat,</l>
+<l n="1295">Sulc man hol; best prist men dat,</l>
+<l>Dat meinsce hebben tusscen tween;</l>
+<l>De huut es daer harder ouer een,</l>
+<l>Ende harts an die baeruoet gaen;</l>
+<l>Ende dits wonder, zonder waen,</l>
+<l n="1300">Ende groot tekin der naturen:</l>
+<l>Yser ende stael mocht niet geduren</l>
+<l>Daer altoos des meinscen huut</l>
+<l>Ongescaet bliuet, vut ende vut.</l>
+</div>
+<div type="chapter"><head type="chapter comment"><pb n="138"/> TWEEDE DEEL</head>
+<l>Hoort hier vanden zade voort,</l>
+<l n="1305">Dat sperma heet in latine woort.</l>
+<l>Onder alle creaturen</l>
+<l>Heuet de meinsce bi naturen</l>
+<l>Meest zaeds, ende dit zijn de zaken</l>
+<l>Datti meest wiue mach genaken.</l>
+<l n="1310">Aldat es pijnt hem daer toe</l>
+<l>Sijn zaet te werpene in de zoe,</l>
+<l>Entie zoe werpet thare</l>
+<l>In hare matrice openbare.</l>
+<l>Aristotiles zeit te waren</l>
+<l n="1315">Dattie man tote LXX jaren</l>
+<l>Vrucht wint, ende zulc daernaer</l>
+<l>Seget tote XC iaer.</l>
+<l>Tote L jaren, als men vint,</l>
+<l>So mach de vrauwe dragen kint.</l>
+<l n="1320">Des mans zaet meent ende begaert,</l>
+<l>Alst vaert ter matricen waert,</l>
+<l>Dat formeert gelike des</l>
+<l>Daert of versceeden es,</l>
+<l>Want daer es in I naturlic geest</l>
+<l n="1325">Die dengenen gelijct meest</l>
+<l>Die de plante wassen doet;</l>
+<l>Alsoe begaert dat zaet albloot</l>
+<l>Dattie man vut geift naturlike,</l>
+<l>Dat vanhem wasse zijn gelike;</l>
+<l n="1330"><pb n="139"/> Maer des wijfs zaet, dat bekent,</l>
+<l>Es materie ende fundament</l>
+<l>Vante winne creaturen.</l>
+<l>Drierande lieden, bi naturen</l>
+<l>Verliesen des winnens gewout:</l>
+<l n="1335">Doude, want hi es te cout,</l>
+<l>Die zieke, want hi es te cranc,</l>
+<l>Kinder, want des zaets ganc</l>
+<l>Hem al in wasdome staet.</l>
+<l>Ontfanght een wijf smans zaet,</l>
+<l n="1340">Ende VII dagen bliuet in hare,</l>
+<l>Aristotiles zeit openbare</l>
+<l>Datsoe daer of, zonder waen,</l>
+<l>Emmer kint heuet ontfaen.</l>
+<l>Merct hoe wijf ontfanget kint,</l>
+<l n="1345">Ne let in hare niet I twint</l>
+<l>Dat kint te dragene verbiet</l>
+<l>Ende zoe danne mannes pliet,</l>
+<l>Ende getempert es dat zaet</l>
+<l>Van coude, van hitten, dat verstaet,</l>
+<l n="1350">Van natheden ende van droocheden;</l>
+<l>Datsoe daer ontfaet ter stede,</l>
+<l>So luuct die matrice na das,</l>
+<l>Also ons zeit ypocras,</l>
+<l>So uaste datter niet na dan</l>
+<l n="1355">Ene naelde in gecomen can;</l>
+<l>Want es tsaet ongetempert yet,</l>
+<l>Weit wel, soe ne ontfanget niet.</l>
+<l>Dies zeit zulc dat tsaet vanden man</l>
+<l>Allene, de vrucht winnen can,</l>
+<l n="1360"><pb n="140"/> Maer dats fauel ende gedwas.</l>
+<l>Ne geen dier, nu merct das,</l>
+<l>Ne laet zine hie totem gaen</l>
+<l>Nadien dathet heuet ontfaen,</l>
+<l>Sonder recht dat wijf allene;</l>
+<l n="1365">Dies nes te lachterne niet clene</l>
+<l>Die meinsce, die men heet zo vroet</l>
+<l>Ende redene weet, ende dus mesdoet.</l>
+<l>Als die wijf hebben ontfaen,</l>
+<l>Wert zij daer naer verzwaert zaen,</l>
+<l n="1370">Ende ooc ziet men vp haer ogen</l>
+<l>Ene donkerheit vertogen</l>
+<l>Ten tienden dage, ende anhem zomen</l>
+<l>Sietmense ooc bet spader comen.</l>
+<l>Jan seget, die philosophien,</l>
+<l n="1375">Ene dinc daerment ooc bi mach zien,</l>
+<l>Want als die vrouwen hebben ontfaen,</l>
+<l>Hem cesseert alsoe zaen</l>
+<l>Hare menstruum, dats dat bloet</l>
+<l>Dat elkenter maent baren moet.</l>
+<l n="1380">Hoort die redene twi het zij</l>
+<l>Elke heete vrauwe, gelouet mi,</l>
+<l>Es couder dan de coutste man</l>
+<l>Die noit ter werelt lijf gewan,</l>
+<l>Dies ne mach zoe gelijc den man</l>
+<l n="1385">Hare spise niet verduwen dan,</l>
+<l>Haer ne bliuet oueruloiende bloet,</l>
+<l>Daer soe haer telker maent of moet</l>
+<l><edition n="141"/>Purgieren ende dat niet mesquame,</l>
+<l>Ende dit heet menstruum bi name.</l>
+<l n="1390">Maer na tontfaen, merct ditte,</l>
+<l>So dobbeleert in hare de hitte</l>
+<l>Dattie vrucht in deser wise</l>
+<l>So verduwet in hare de spise;</l>
+<l>Ooc weit wel dat dat zelue bloet</l>
+<l n="1395">Dat kint inder moeder voet.</l>
+<l>Na dien dat matrix heuet ontfaen</l>
+<l>Dat zaet, ende zoe haer luuct toe zaen,</l>
+<l>Leget ter rechter zide dan,</l>
+<l>So bediet daer of een man,</l>
+<l n="1400">Want daer es de leuere naer,</l>
+<l>Daert of ontvanget de hitte daer;</l>
+<l>Eist datter luchter zide leget,</l>
+<l>So wart een wijf, als men zeget,</l>
+<l>Ende dat doet de coude stede</l>
+<l n="1405">Die verre es vander leuere mede;</l>
+<l>Eist ooc dat tsaet niet wel ne leget</l>
+<l>Ter rechter zide, maer dat dreget</l>
+<l>Meest ter rechter zide waert,</l>
+<l>So wert een bloot man ende veruaert;</l>
+<l n="1410">Ende dat zaet vander luchter zide,</l>
+<l>Eist datter rechter hant iet tide,</l>
+<l>So wart een manlic wijf ende stout.</l>
+<l>Als tsaet dus leicht in zijn gewout,</l>
+<l>Maect dicken die nature ditte,</l>
+<l n="1415">Ende dat bider matricen hitte;</l>
+<l>Ende zoe cledet tere somme</l>
+<l><edition n="142"/>Met ere liese, omme ende omme,</l>
+<l>Ende also bescermet tsaet</l>
+<l>Datter an minge geen quaet;</l>
+<l n="1420">Secondine heet dat bi namen</l>
+<l>Ende wast metten kinde tsamen,</l>
+<l>Ende als tkint wart geboren</l>
+<l>Comet mede, ende niet voren.</l>
+<l>Ten VII sten dage, bescriuet dus</l>
+<l n="1425">De vroede macrobius,</l>
+<l>Vertogen hem liesen van bloede</l>
+<l>Ant vel dat vanden zade es hoede,</l>
+<l>Die hem mingen metten zade</l>
+<l>Bider houesscer naturen rade</l>
+<l n="1430">Inden XXXI daghe.</l>
+<l>VII dagen daerna, dits gene zage,</l>
+<l>Wort het verstot bider nature</l>
+<l>Tusscen bloets ende vleeschs figure,</l>
+<l>Ende wart teenre massen, also</l>
+<l n="1435">Geformeert wort embrio.</l>
+<l>Dat embrio, hout v hier ane,</l>
+<l>Heuet noch geens kints gedane;</l>
+<l>Dat ghinder of es droge of cout,</l>
+<l>Dat verkeert in beens gewout;</l>
+<l n="1440">Dats cout ende nat bi naturen</l>
+<l><edition n="143"/>Wort longere na der scrifture,</l>
+<l>Ende datter droge es of heet</l>
+<l>Dat wert herte an datmen weet,</l>
+<l>Ende datter heet es ende nat</l>
+<l n="1445">Ter leueren verkeert hem dat</l>
+<l>Met zo wonderliker manieren</l>
+<l>Dat niement leuet diet can visieren.</l>
+<l>Dan comt die dorborende nature</l>
+<l>Die handen ende voeten geuet figure,</l>
+<l n="1450">Ende nuese gaten duerbort, ende horen,</l>
+<l>Ende ander gaten, als wijt horen,</l>
+<l>Ende aderen maket, datsoe bloet</l>
+<l>Achter die leden lopen doet.</l>
+<l>Als al vulmaect zijn de leden</l>
+<l n="1455">Bi ons heren muegenthede,</l>
+<l>Bi zire ghiften, verstaet dat,</l>
+<l>Wart de ziele gezent int vat;</l>
+<l>Ende danne beghint I domende rooc</l>
+<l>Te loopene achter daderen ooc,</l>
+<l n="1460">Ende geuet hem porringe ende leuen.</l>
+<l>Dese porringe, es bescreuen,</l>
+<l>Beghint des LXX daechs, ic wane,</l>
+<l>Vanden beghinne van zinen ontfane.</l>
+<l>Aristotiles heuet bescreuen</l>
+<l n="1465">Dattie ziele wart gegheuen</l>
+<l>Allene bider ghiften ons heren;</l>
+<l><edition n="144"/>Ooc mogen wijt verstaen ende leren</l>
+<l>Vanden goeden sent augustine,</l>
+<l>Die dus zeit inde worden zine:</l>
+<l n="1470">Die ziele, seit hi, wert puur ende rene</l>
+<l>Van gode int vat gestiert allene</l>
+<l>Ende insturtende geformeert.</l>
+<l>Nu merct danne ende deuiseert,</l>
+<l>Beede dat insturten ende tmaken</l>
+<l n="1475">Dat zijn euen oude zaken;</l>
+<l>Dus zendt de ziele god met vliten.</l>
+<l>Nochtan seget zulc erite,</l>
+<l>Ghelijc dat vleesch van vleessce comt</l>
+<l>Van manne, van wiue alst es vornomt,</l>
+<l n="1480">Secgen zij, comt ziele van ziele;</l>
+<l>Maer weit datsi in dhelle vielen</l>
+<l>Diet geloueden ende eerst screuen.</l>
+<l>Bedi willix begeuen.</l>
+<l>Daerna moet tkint voetsel ontfaen</l>
+<l n="1485">Dat ziele ende lijf heift zonder waen:</l>
+<l>Die tijt moet in hem geduren,</l>
+<l>In hem ende in alle creaturen</l>
+<l>Die leuen tote andes leuens ende.</l>
+<l>Nu merct hoe ic dit bekende</l>
+<l n="1490">Dat tkint inder moeder wert geuoet:</l>
+<l>Een daremkin gaet, alsict verstoet,</l>
+<l>Vter matrice vander vrauwe</l>
+<l>Ant kints nauele, mach men scauwen,</l>
+<l>Daerof comt dat rodende bloet</l>
+<l n="1495">Vander leuere, alsic verstoet;</l>
+<l>Dat bloet voeder ende geuet hem echt</l>
+<l>Cracht, na der naturen recht,</l>
+<l>Want dat bloet gezuuert es</l>
+<l><edition n="145"/>Bider leuere; nu merct des,</l>
+<l n="1500">Sone heuet geen noot daer ter stede</l>
+<l>Hem te purgierne beneden.</l>
+<l>Alle filosophen, ende niet zom,</l>
+<l>Secgen dat bi menstruum</l>
+<l>Dat kint inder moeder wert geuoet;</l>
+<l n="1505">Ende dats vtermaeten quaet bloet,</l>
+<l>Maer die heete leuere, die zoete,</l>
+<l>Die purgiert met goeder moete;</l>
+<l>Camt pur ten kinde, ende zonder hare,</l>
+<l>Het zoudt eer doden openbare</l>
+<l n="1510">Eer voeden, ende dat merct bet,</l>
+<l>Sulke lieden zijn besmet:</l>
+<l>Dat men heet honich mael of sproeten,</l>
+<l>Of vleesch mael, ende dat doet tonsoete</l>
+<l>Menstruum dat den kinde moiet,</l>
+<l n="1515">Dat somwile so ouer uloiet</l>
+<l>Dat het druupt vp die kinder;</l>
+<l>Ne ware de secondine niet ghinder,</l>
+<l>Dat vel dat tkint bescermet wale,</l>
+<l>Het duerviele tkint te male;</l>
+<l n="1520">Doch bliuet smitte, zonder waen,</l>
+<l>Die men mach nemmermeer of dwaen.</l>
+<l>Daer na, alst kint vuldragen es,</l>
+<l>Naect die gebornesse na des;</l>
+<l>Die termine als men waent</l>
+<l n="1525">Es de VII of negende maent;</l>
+<l>Ende twi het bet inde VIIste maent zij</l>
+<l>Dan in die achtste, dats bi di:</l>
+<l><edition n="146"/>Vor de zeuende maent ne mach</l>
+<l>Gheen kint ter werelt zien den dach</l>
+<l n="1530">Ende bi naturen leuen lanc,</l>
+<l>Want voor die tijt eist te cranc.</l>
+<l>Als de zeuende maent gewint,</l>
+<l>So wart zere roerende dat kint</l>
+<l>Ende maect hem besich bi naturen;</l>
+<l n="1535">Breict het dan ter zeluer vren</l>
+<l>Die zenewen diet met gewout</l>
+<l>Binnen inde matrice hout,</l>
+<l>So wort geboren ende comt vort,</l>
+<l>Ende starc genouch zo men hoort.</l>
+<l n="1540">In dachtende maent macht zijn geboren,</l>
+<l>Maer niet leuen, als wijt horen.</l>
+<l>Want zo vermoit es, als men waent,</l>
+<l>Van roerene in de zeuende maent,</l>
+<l>So vercranct ooc bi naturen</l>
+<l n="1545">Dat niet te liue mach geduren,</l>
+<l>Maer van zire pinen groot</l>
+<l>Heuet al die maent rustens noot</l>
+<l>Ende gemaex, ooc bi naturen.</l>
+<l>Ter negender maent, echt bi naturen,</l>
+<l n="1550">Wort het roerende ende bezich zere;</l>
+<l>So alst wille god onse here,</l>
+<l>Breict de zenewen ende comt vort</l>
+<l>Ende wenen es zijn eerste woort.</l>
+<l>Hort waerbi tes, ic maex v vroet:</l>
+<l n="1555">Die stede daert was geuoet</l>
+<l>Es bi naturen warem ende nat,</l>
+<l>Ende alst heuet geruumt tvat,</l>
+<l>Vint het buuten de lucht cout,</l>
+<l>Ende dit es des weenens scout:</l>
+<l n="1560"><pb n="147"/> Dus es rauwe ons eerste luut.</l>
+<l>Sulc kint ooc eert comt vut,</l>
+<l>Weent ende maect mesbaer,</l>
+<l>Want die gebornesse es zwaer,</l>
+<l>Ende dat merct ende verstaet ghi zomen.</l>
+<l n="1565">Es dat kint ter porten comen</l>
+<l>Sidelangen of ricgelange, of voeten voren,</l>
+<l>So eist vrese het ne mach zijn verloren</l>
+<l>Of der moeder costen tlijf;</l>
+<l>Maer die heifmoeder, tvroede wijf,</l>
+<l n="1570">Mochte haer met zinne doen groot goet.</l>
+<l>Maer arme! lettel zijnre vroet,</l>
+<l>Dies bliuet menich kint verloren;</l>
+<l>Ende want si niene werden geboren,</l>
+<l>Sone muegen zi niet genesen,</l>
+<l n="1575">Noch ter glorien comen bi desen;</l>
+<l>Ende dit claeget plinius, de vroede,</l>
+<l>Jamerlike met drouuen moede.</l>
+<l>Nv wie dit leist, neimt vor goet,</l>
+<l>Hets scamelic, maer dat wesen moet.</l>
+<l n="1580">Ic sal v wisen heifmoeder wesen,</l>
+<l>Also al wijt bescreuen lesen</l>
+<l>Van cleopatra, die wilde</l>
+<l><edition n="148"/>Dat mense ouer zo wijs hilde,</l>
+<l>Dat mense vander medicine tsamen</l>
+<l n="1585">Coneghinne hiete bi namen.</l>
+<l>Dus heift zoet hare dochter bescreuen:</l>
+<l>"Ghi vrauwen alst gaet an v leuen,</l>
+<l>Weist niet te scamel no te bloot,</l>
+<l>No ne belget, clene nog groot".</l>
+<l n="1590">Hets vrese, alst wijf es te smal,</l>
+<l>Of met smere geladen al,</l>
+<l>Of als de porte te nauwe es,</l>
+<l>Of verdrawen, nu merct des,</l>
+<l>Of alst kint thooft heift te groot,</l>
+<l n="1595">Of ter porten comt aldoot,</l>
+<l>Of bulrichde, of ongeformeert,</l>
+<l>Hoort ghi, heifmoeder, wien deert,</l>
+<l>Hoe ghi zult hier mede doen:</l>
+<l>Dits v een nuttelic sermoen.</l>
+<l n="1600">Comt metten hoofde int vutwaert tiden</l>
+<l>Ende dander leden gestrect ter ziden,</l>
+<l>Steict v hant ter porten inne</l>
+<l><edition n="149"/>Ende formeert zine leden met zinne</l>
+<l>Dat het rechte ter porten come.</l>
+<l n="1605">Met beeden voeten comen zi vort zome;</l>
+<l>Dan salse die heifmoeder houden</l>
+<l>Ende ne laten hem niet gewouden</l>
+<l>De handen te scedene tien tiden,</l>
+<l>Si mochten scueren der moeder ziden,</l>
+<l n="1610">Maer an skints zide darmen strecken,</l>
+<l>Ende dus zalment vort dan recken.</l>
+<l>Eist dat kint thooft heift te groot,</l>
+<l>Men salder moeder tsulker noot</l>
+<l>Maken I bedde dat hart zal wesen;</l>
+<l n="1615">Ooc moetse haer getroosten in desen,</l>
+<l>Ende zo sal houden, des gelooft,</l>
+<l>Ene ander vrauwen thooft,</l>
+<l>Entie heifmoeder sal</l>
+<l>Tkint mettenhanden voort halen al.</l>
+<l n="1620">Eist dat kint voort steict de hant,</l>
+<l>Die heifmoeder zal te hant</l>
+<l>Die hant weder doen keren al,</l>
+<l>Want het mochtse verliesen el;</l>
+<l>Maer sette de vingeren metter vaert</l>
+<l n="1625">Andie scouderen ende drijfse inwaert,</l>
+<l>Ende lecgen hem de hant ande zide,</l>
+<l>Ende dan brinct voort in corten tiden</l>
+<l>Metten houede, dat es goet.</l>
+<l>Steket voort den enen voet,</l>
+<l n="1630">Pinet vut te bringen nemmere,</l>
+<l>Maer met uwen vinger, alsic lere,</l>
+<l>Die zuldi an zine hersbillen zetten;</l>
+<l><edition n="150"/>Daermede zuldijt keren ende letten</l>
+<l>Tote dat ghi hebt den andren voet;</l>
+<l n="1635">Ordonneert danne ende doet,</l>
+<l>Of ghi muecht ten zeluen tiden,</l>
+<l>De handen strecken lancs der ziden;</l>
+<l>Dus mach ment best vut winnen.</l>
+<l>Heuet ooc bede de uoeten binnen</l>
+<l n="1640">Versceeden, zo steict in de hant,</l>
+<l>Ende vouchtse te zamen te hant,</l>
+<l>Ende bringet voort alst es geleert.</l>
+<l>Heuet thooft ooc verkeert,</l>
+<l>De heifmoeder zalt te rechte keren</l>
+<l n="1645">Ende biden scouderen, als wij leren,</l>
+<l>Ghemackelic tkint vuthalen,</l>
+<l>Dattie matrix altemale</l>
+<l>Niene volge no gequets ne zij.</l>
+<l>Toget eerst de knien, hoort na mi,</l>
+<l n="1650">Drivet weder in ende ordonneert</l>
+<l>De voeten, alst v es geleert,</l>
+<l>Ende bringet zo met zinne voort.</l>
+<l>Toget dersbillen eerst, zo hoort:</l>
+<l>Keert zochte ter ziden waert</l>
+<l n="1655">Ende ordonneert met groter vaert</l>
+<l>Dat thooft voren ter porten come.</l>
+<l>Esser mee dan I, als vrauwe zome</l>
+<l>Ghedragen hebben, ende zij te samen</l>
+<l>Danne vor de poorte quamen,</l>
+<l n="1660">Die heifmoeder zal tentiden</l>
+<l>Teen kint driuen teenre ziden</l>
+<l>Ende daer na tander bringen voort</l>
+<l>Ende wachten wel, na mine wort,</l>
+<l><edition n="151"/>Dat soe dit doe met zulken zinne</l>
+<l n="1665">Dat matrix, daer tkint es inne,</l>
+<l>Altoos niet gequets ne zij.</l>
+<l>Entie poorte, hoort na mi,</l>
+<l>Salmen beghieten ende dwaen</l>
+<l>Maer waermer olien, wildijt verstaen,</l>
+<l n="1670">Iof men zal maken den zieken</l>
+<l>Metten zappe van fenigrieken,</l>
+<l>Van malewen, ende van lijnzade,</l>
+<l>Te gader ghezoden bi rade,</l>
+<l>Ende daer mede de poorte dwaen</l>
+<l n="1675">Lichtelike ende herde zaen.</l>
+<l>So rusten die wijf na desen</l>
+<l>Alsi van kinde zijn genesen,</l>
+<l>Ja, als ons aristotiles seget,</l>
+<l>Dat waer die eens knechtkins leget,</l>
+<l n="1680">Maer vanden magedekine niet lichte.</l>
+<l>Bedi hebbic in mijn gedichte</l>
+<l>Dit ghezet, dat ic begheere</l>
+<l>Dat ment vroede wiuen leere,</l>
+<l>Ende zij daer bi helpen der cracht</l>
+<l n="1685">Die bi naturen gene macht</l>
+<l>Ne heuet, datsoe haer helpen mach.</l>
+<l>Alsoe alsic bescreuen zach,</l>
+<l>Hebbict gedicht geloues mi;</l>
+<l>Nu biddic dat uerholen zij.</l>
+<l parse="ignore"><edition n="152"/>DERDE DEEL</l>
+<l n="1690">Hier muechdi voort leren an</l>
+<l>Hoe dat daghelix de man</l>
+<l>Leuen sal, daerhi bi can,</l>
+<l>Vp dathem god der eren ian</l>
+<l>Sonder euel bi mach wesen.</l>
+<l n="1695">Aristotiles, als wij lesen,</l>
+<l>Screeft zinen discipel vut vercoren,</l>
+<l>Alexanders, als wijt horen,</l>
+<l>Ende noomde den bouc ooc mede:</l>
+<l>Bedect van alre hemelichede,</l>
+<l n="1700">Want hine node wilde openbaren.</l>
+<l>Sident vant men den bouc te waren</l>
+<l>In eens Jupiters outaer,</l>
+<l>Ende al ghescreuen, weit vor waer,</l>
+<l>Met letteren van finen goude.</l>
+<l n="1705">Dus screef aristotiles doude</l>
+<l>Tote alexander, zinen clerc,</l>
+<l>Doe hi beghinnen zoude twerc.</l>
+<l>Alexanders den coninc</l>
+<l>Send aristotiles dese dinc,</l>
+<l n="1710">Want dat vleesch bederflic es</l>
+<l>Ende hem bederuenesse, merct des,</l>
+<l>An leget biden humueren,</l>
+<l><edition n="153"/>Die in hem zijn bi naturen.</l>
+<l>Sone willic niet laten bliuen,</l>
+<l n="1715">In wille indit werc scriuen</l>
+<l>Some dinc die nuttelic es</l>
+<l>Ende orborlic; nu merke des,</l>
+<l>Vuter hemeliker medicine</l>
+<l>Salict nemen met mire pine;</l>
+<l n="1720">Beziestu desen exemplare wel</l>
+<l>Ende dudus leues, ende niet el,</l>
+<l>Dune heues wat doen van ficisiene,</l>
+<l>En zij van zaken die te gesciene</l>
+<l>Gezet zijn, die gheen man</l>
+<l n="1725">Met luste gescuwen can.</l>
+<l>Alexanders, nu onthout,</l>
+<l>Alstu vanslape vp staen zout,</l>
+<l>So zoutu een lettel wanderen,</l>
+<l>Ende effene recken elc let van andren,</l>
+<l n="1730">Ende danne cammen dijn houet,</l>
+<l>Bedi dat recken, des gelouet,</l>
+<l>Geuet den lichame cracht,</l>
+<l>Entie dome die alden nacht</l>
+<l>Vp waert inde hersene slaen</l>
+<l n="1735">Sullen metten cammene vut gaen.</l>
+<l>In zomer tide zalt zijn cout</l>
+<l>Daer dudijn houet mede dwaen zout,</l>
+<l>Ende warem in wintertijt.</l>
+<l>Want dat geuet apetijt</l>
+<l n="1740">Tetene, ende ooc heuet ditte</l>
+<l>Binnen des lichaamen hitte.</l>
+<l>Hier naer zoutu dan</l>
+<l>Doen zuuerlike cleder an,</l>
+<l><edition n="154"/>Niet vule, want dits delijt</l>
+<l n="1745">Daer smeinscen moet zere in verblijt</l>
+<l>Ende wart gestarct, ende ooc dat lijf</l>
+<l>Verblijt daer mede, zonder blijf.</l>
+<l>Danne dwach ogen, mont ende handen,</l>
+<l>Ende wrijf ooc dine tanden</l>
+<l n="1750">Met ene scortse die bitter es,</l>
+<l>Eist alrene of ander, merct des,</l>
+<l>Dat maect di zuuer tant ende mont;</l>
+<l>Danne neimt de flueme in corter stont,</l>
+<l>Het zuuert tonge ende sprake,</l>
+<l n="1755">Ende daer toe eist ene zake</l>
+<l>Die di geuet wille ter spise;</l>
+<l>Aldus zecgen ons de wise.</l>
+<l>Danne werpt specie inden viere,</l>
+<l>Ende ontfanc den rooc sciere,</l>
+<l n="1760">Maer dattie specie zij in saison</l>
+<l>Alsic di hier na cont sal doen,</l>
+<l>Dats ene dinc die nuttelic es.</l>
+<l>Soe ondoet, des zijt gewes,</l>
+<l>Die hersene ende ooc als ende als</l>
+<l n="1765">Maect so grouf arem ende hals;</l>
+<l>Ooc maect soe den meinsce vet</l>
+<l>Ende tansichte verclaert zoe bet,</l>
+<l>V zinnen maect soe starc ende claer</l>
+<l><edition n="155"/>Ende doet mersen tgraeuwe haer;</l>
+<l n="1770">Bestrijc di met specien dan,</l>
+<l>De beste die men vinden can</l>
+<l>Die in saisoene es ende riect wel,</l>
+<l>Want bigenen zaken el</l>
+<l>Sone wort de zieke geuoet,</l>
+<l n="1775">Sonder bider roken goet:</l>
+<l>Alle zoete roke es hare spise.</l>
+<l>Alsoe gevoet es derre wise</l>
+<l>So werter bi dat herte vro</l>
+<l>Entie lichame gestarct also,</l>
+<l n="1780">Ende tbloet loopt de aderen dure</l>
+<l>Onder zielen blide nature.</l>
+<l>Danne zoutstu nutten dese twee,</l>
+<l>Latuarie van aloe</l>
+<l>Ende van reubarbere, zeit tgedichte,</l>
+<l n="1785">Viere ingelsce penninc gewichte;</l>
+<l>Dat truct de flueme in corten dagen</l>
+<l>Vuten croppe vander magen,</l>
+<l>Ende wect de hitte des lichamen,</l>
+<l>Ende verdrijft de wijnden tsamen,</l>
+<l n="1790">Ende maket goeden mont.</l>
+<l>Danne ganc ter zeluer stont</l>
+<l>Met dinen vrienden die zijn vroet</l>
+<l>Sitten spreken, dats di goet,</l>
+<l>Van zaken daer redene an es.</l>
+<l n="1795">Alsti lust eten, merke des,</l>
+<l>Pine een lettel, gaende of ridende,</l>
+<l><edition n="156"/>Of tenigen ander dingen tidende,</l>
+<l>Ende dat sal di nuttelic wezen,</l>
+<l>Want die winde breken mettesen</l>
+<l n="1800">Het starct ende licht den lichame ditte,</l>
+<l>Ende het meerst der magen hitte,</l>
+<l>Het verdrijft de quade humure,</l>
+<l>Ende die spise vint ter cure</l>
+<l>De mage ontsteken ende heet.</l>
+<l n="1805">Danne zij dine spise gereet;</l>
+<l>So setse danne vor di, ende eit</l>
+<l>Van dat v genouget bet,</l>
+<l>Alsoe vele als het vouge di,</l>
+<l>Met broode dat wel geheuen zi;</l>
+<l n="1810">Ende danne hout I stic dine ruste,</l>
+<l>Onthier ende die echt etens luste</l>
+<l>Van andren gerechte daer naer;</l>
+<l>Want eist dat mens te vele ontfa</l>
+<l>Spisen, het breict barst ende zin</l>
+<l n="1815">Ende de mage verziedse te min,</l>
+<l>Dus bliuet soe min in haren gront.</l>
+<l>Wacht die mede talre stont</l>
+<l>Te drinkene vp dine spise</l>
+<l>Vele borrens in alre wise,</l>
+<l n="1820">Eer soe verduwet wel naer,</l>
+<l>Want dat water, dats waer,</l>
+<l><edition n="157"/>Als ment vul buucs drinct zere,</l>
+<l>Vercout de mage zo lanc zo mere,</l>
+<l>Ende niet nes argher den lichame.</l>
+<l n="1825">Waert ooc dat alsoe came</l>
+<l>Dat ment moeste drinken dor noot,</l>
+<l>Waert om hitte zwaer ende groot,</l>
+<l>Waert dattie mage ware verhit,</l>
+<l>So drinkets lettel, merct dit,</l>
+<l n="1830">Ende dat danne wel cout zij.</l>
+<l>Alstu hebs gheten, hore na mi,</l>
+<l>Daert sochte es nem dine ruste,</l>
+<l>Maer niet slaep vul dine ruste;</l>
+<l>Slaep eerst vp rechter zide,</l>
+<l n="1835">Onlange, ende in corten tide</l>
+<l>Keerdi ter luchter zide daer naer</l>
+<l>Ende vul maec dinen slaep daer;</l>
+<l>Ende dat zultu vorwaer weten</l>
+<l>Dat dat slapen vor dat eten</l>
+<l n="1840">Maghert ende drooght den lichame;</l>
+<l>Maer na male es slapens became,</l>
+<l>Want hi voet wel smeinscen lijf;</l>
+<l>Ende wacht di wel, sonder blijf,</l>
+<l>Tetene echt dune best zeker des</l>
+<l n="1845">Dattie mage geydelt es</l>
+<l>Ende gepurgiert vander eerster spise;</l>
+<l>Dat zoutstu kennen inder wise</l>
+<l>Als di lust etens, dits ene conde,</l>
+<l>Ende di claer spu comt te monde;</l>
+<l n="1850">Bedi teten es vrese groot</l>
+<l>Sonder lust ende zonder noot,</l>
+<l><edition n="158"/>Want teten vint de mage cout</l>
+<l>Ende zonder verziedens gewout;</l>
+<l>Maer als enen lust ende dan eit gereet,</l>
+<l n="1855">Danne vint de spise de mage heet.</l>
+<l>Weltijt zo di wel etens lust</l>
+<l>Ne leit niet langher no ne rust,</l>
+<l>Dune eits wel saen na desen,</l>
+<l>Die mage zal veruullet wesen</l>
+<l n="1860">Van vtermaten quader humuren</l>
+<l>Die so trect van slichamen naturen,</l>
+<l>Entie emmer zal destorberen</l>
+<l>Der hersene ende haer zere deren;</l>
+<l>Ende eitstu dan, dit mogestu kinnen,</l>
+<l n="1865">Die spise vint laeu de mage binnen</l>
+<l>Ende ne vroemt den lichame niet.</l>
+<l>Nu hoort wat men v hier bediet:</l>
+<l>Vier tiden telt men int iaer</l>
+<l>Die dus sceeden, horter naer,</l>
+<l n="1870">Te halfmarte comt lentin in</l>
+<l>Ende geduert, no mee no min,</l>
+<l>Danne tote alf wedemaent;</l>
+<l>Danne eist zomer, als men waent,</l>
+<l>Tote alf pietmaent recht an;</l>
+<l n="1875">Die herfst die comt dan</l>
+<l>Die tote december gaat;</l>
+<l>Dan comt winter, dat verstaet,</l>
+<l>Ende gaet tote alfmaerte voort.</l>
+<l>Nu merct wel vp dese woort</l>
+<l n="1880"><pb n="159"/> Ende wacht dese tide, ic radu dat,</l>
+<l>De lentin es warem ende nat,</l>
+<l>Entie lucht van temperingen goet,</l>
+<l>Danne verwect smeinscen bloet,</l>
+<l>Danne es goet getemperde spise</l>
+<l n="1885">Als dese, van deser wise:</l>
+<l>Hennen, kiekene, quackelen mede,</l>
+<l>Ende eieren, met genouchlicheden,</l>
+<l>Nemmee dan VI, na mijn eten;</l>
+<l>Wilde latue ende melc van gheten,</l>
+<l n="1890">Ooc nes ghene tijt zo goet</l>
+<l>Daer het beter vp baten doet,</l>
+<l>Hets goet bezich zijn in dat</l>
+<l>Enten lichame hebben gerat,</l>
+<l>Baden ende zweeten zijn in saison,</l>
+<l n="1895">Danne eist goed nemen pusoen</l>
+<l>Ende laxatiue spise ontfaen;</l>
+<l>Want zo int iaer es mesdaen</l>
+<l>In medicine in roukeloosheden,</l>
+<l>Ende ooc inden latene mede,</l>
+<l n="1900">Die tijt macht beteren dan.</l>
+<l>Dan comt die zomer daeran</l>
+<l>Die beede droge es ende heet;</l>
+<l>Houti dan na mijn geheet:</l>
+<l>Wacht di van dranke ende van ate</l>
+<l n="1905">Ende en eit niet tongemate</l>
+<l>Dattu niet verblus dine hitte;</l>
+<l><edition n="160"/>Ende coude spise, als es ditte,</l>
+<l>Caluerin vleesch met aisine</l>
+<l>Ende gemeste kiexkine</l>
+<l n="1910">Met gherstine mele gemest,</l>
+<l>Suere boom vrucht es best,</l>
+<l>Pume garnaten zijn dan goet;</l>
+<l>Die gehuwet es ende zo wesen moet</l>
+<l>Wachte hem zere van ouer spele;</l>
+<l n="1915">Niement ne late dan vele</l>
+<l>Ende doe de noot van bloede;</l>
+<l>Rust uele ende hef dijns lijfs hoede,</l>
+<l>Ende ne bade te dickent niet.</l>
+<l>Nu comt de herfst, ende dat beziet,</l>
+<l n="1920">Die tijt es cout ende droge;</l>
+<l>Danne pijndi ende poge</l>
+<l>Tetene dat van naturen es</l>
+<l>Warem ende nat, merct des:</l>
+<l>Kiekine, lammer, vrucht van wijnghaerde</l>
+<l n="1925">Die du vints van zoeten aerde;</l>
+<l>Drinc danne goeden wijn ende claer;</l>
+<l>Het betert danne, weit vor waer</l>
+<l>Pinen inden zomer es;</l>
+<l>Baden zijn goet, merke des,</l>
+<l n="1930">Purgatien zijn dan in saisoen.</l>
+<l>Daerna comt des wijnters doen;</l>
+<l>Die tijt es dan nat ende cout;</l>
+<l>Danne secghic dattu nutten zout</l>
+<l>Bede medicine ende spise</l>
+<l n="1935">Die du vints van heeter wise:</l>
+<l><edition n="161"/>Duue iongen ende wederin vleesch,</l>
+<l>Harsten ende alrande dat heesch;</l>
+<l>Et vigen, nueten, drinc goeden wijn,</l>
+<l>Den alre besten die mach zijn;</l>
+<l n="1940">Heete latuarie die et,</l>
+<l>Ende wacht di inden tiden bet</l>
+<l>Vardigh te zinen inden lichame,</l>
+<l>Endoe di grote mesquame;</l>
+<l>En doe noot, ne laet geen bloet;</l>
+<l n="1945">Warmen te viere es danne goet,</l>
+<l>Constu gewinnen oengement,</l>
+<l>Bestrike di daermede omtrent,</l>
+<l>Ende danne nes niet onbequame</l>
+<l>De roeringe inden lichame.</l>
+<l n="1950">Alexander, nu hout wel</l>
+<l>Ende merc dit diere bispel:</l>
+<l>Hout de hitte vander naturen</l>
+<l>Want also lange alsoe gedure</l>
+<l>Wel getempert inden man,</l>
+<l n="1955">Entie humuren mede dan</l>
+<l>Niet oueruloien, merc ditte,</l>
+<l>Want die humuren voeden de hitte,</l>
+<l>So heuet de man leuen gezont.</l>
+<l><edition n="162"/>Tweer sins, makic di cont,</l>
+<l n="1960">Gebreict de meinsce ende wert out:</l>
+<l>Eens, bider naturen gewout,</l>
+<l>Als de droochte inden meinsce comt</l>
+<l>Entie lichame breict ende verdomt;</l>
+<l>Andersins, bi quader hoede,</l>
+<l n="1965">Als men ziet an die onvroede</l>
+<l>Die hem veroukelosen met allen,</l>
+<l>Ende in qualen ende in euele vallen.</l>
+<l>Nu zie dit, ende merke bet,</l>
+<l>Dese dinc maect den meinsce vet:</l>
+<l n="1970">Ruste, dats zinnes zekerhede,</l>
+<l>Soete spisen heten mede,</l>
+<l>Gedronken warme zoete melc</l>
+<l>Ende zoete wijn, dit merke elc,</l>
+<l>Ende dat lopen na dat eten,</l>
+<l n="1975">In wacken steden, wilmen weten,</l>
+<l>Daer het niene zij te heet;</l>
+<l>Bade helpen mede gereet,</l>
+<l>Vp dat menre lange in zitte</l>
+<l>Dat niet dat water entie hitte</l>
+<l n="1980">Humuren vten lichame trecke,</l>
+<l>Maer na dattie lichame lecke</l>
+<l>Een deel vandes baeds wachede;</l>
+<l>Goede roke rieken mede</l>
+<l>Van goeden crude alretiere;</l>
+<l n="1985"><pb n="163"/> En ware indes zomers maniere</l>
+<l>Soude heete cruden nosen:</l>
+<l>Danne rieken violetten, rosen.</l>
+<l>In elker maent spuwe ene warf,</l>
+<l>Ende inden zomer alst bedarf,</l>
+<l n="1990">Bedi dat spuwen dat dwaet</l>
+<l>De mage van humuren quaet;</l>
+<l>Ende als de mage ghezuuert es</l>
+<l>Verwaremt zoe, des zijt gewes,</l>
+<l>Ende wort te verduwene heet,</l>
+<l n="1995">Dit sterct den lichame gereet.</l>
+<l>Van humuren ende van vetheden</l>
+<l>Houti wel na dese zede,</l>
+<l>So zoutu blide ende vro wesen.</l>
+<l>Hore genouchlike bouken lesen,</l>
+<l n="2000">Ende hore zingen zoeten zanc,</l>
+<l>Ende mit dine vrienden ganc.</l>
+<l>Hier ieget verdroget de lichame</l>
+<l>Ende vercrancse te samen</l>
+<l>Dat een alte lettel eit,</l>
+<l n="2005">Ende vele pinet ouer wet;</l>
+<l>Dicken vander zonne durscinen,</l>
+<l>Vele verwandelingen pinen,</l>
+<l>Vor maeltijt slapen, merct des,</l>
+<l>Vp een bedde dat hart es,</l>
+<l n="2010">In baden zitten ouerlanc</l>
+<l><edition n="164"/>Daer vulnesse in es ende stanc;</l>
+<l>Soute spise, bitter ende cout</l>
+<l>Dickent eten met gewout,</l>
+<l>Vele drinken ontvarweden wijn</l>
+<l n="2015">Ende ongansen, hoet mach zijn,</l>
+<l>Menisoen dicke ende vtermate,</l>
+<l>Ende ooc alte dicken laten,</l>
+<l>Vele met wiue te zine mede,</l>
+<l>Sorge ende zerichede,</l>
+<l n="2020">Maer met ander quade gepeinsen,</l>
+<l>Die dicwile de lieden veinsen,</l>
+<l>Dit magert ende verteert den man;</l>
+<l>Wie zo mach, hi scuwet dan.</l>
+<l>Nu late ons god alle dinc scuwen,</l>
+<l n="2025">Daer quade dingen in vernuwen,</l>
+<l>Ende moet ons bringen zonder sneuen,</l>
+<l>Daer wij ewelike leuen.</l>
+<l parse="ignore">amen.</l>
+</text>
+<!--</ENTRY>
+--></TEI.2>

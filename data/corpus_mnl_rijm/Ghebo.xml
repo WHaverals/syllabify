@@ -1,0 +1,134 @@
+<?xml version='1.0'?><!DOCTYPE TEI.2 PUBLIC '-//TEI P4//DTD Main Document Type//EN' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd' [<!ENTITY % TEI.prose 'INCLUDE'><!ENTITY % TEI.linking 'INCLUDE'><!ENTITY % TEI.figures 'INCLUDE'><!ENTITY % TEI.analysis 'INCLUDE'><!ENTITY % TEI.corpus 'INCLUDE'><!ENTITY % TEI.XML 'INCLUDE'><!NOTATION TEI-XML PUBLIC 'TEI P4' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd'><!-- internal INL dtd --><!ELEMENT b (#PCDATA)><!ELEMENT l (#PCDATA | b)*><!-- end of internal INL dtd -->]><TEI.2><!--<ENTRY id="i591"><teiHeader><fileDesc><titleStmt><title>Noch die tien ghebode</title>
+</titleStmt>
+<interpGrp type="pubYear_from"><interp value="1390"/></interpGrp>
+<interpGrp type="witnessYear_from"><interp value="1390"/></interpGrp>
+<interpGrp type="pubYear_to"><interp value="1410"/></interpGrp>
+<interpGrp type="witnessYear_to"><interp value="1410"/></interpGrp>
+<TITEL>Noch die tien ghebode</TITEL>
+<author>Onbekend</author>
+<AARD>Rijm</AARD>
+<BRON nr="D39">Oxford, Bodleian Library, Marshall 29</BRON>
+<DATUM>1390-1410</DATUM>
+<OMVANG>110 verzen</OMVANG>
+<BRON.OPM>Het handschrift telt 102 bladen, per blad 2 kolommen, 49 regels per kolom. Noch die tien ghebode bevindt zich op fol. 101r-v. De codex bevat achtereenvolgens: Melibeus (fol. 1-22r), Jans teesteye (fol. 24v-45v), Noch meer van wiven (fol. 45v-46r), Van ghevene (fol. 46r-46v), het Boec vander wraken (fol. 48r-78v), Van Maskeroen (fol. 80r-86v), Van Saladijn (fol. 86v-88r), de Tien plaghen ende die tien ghebode (fol. 88v-101r), Noch die tien ghebode (fol. 101r-v) en Noch van Salladine (fol. 101v-102r).</BRON.OPM>
+<EDITIE>F.A. Snellaert (ed.): Nederlandsche gedichten uit de veertiende eeuw van Jan van Boendale, Hein van Aken en anderen. Naar het Oxfordsche handschrift uitgegeven. Brussel, 1869, 635-638</EDITIE>
+<STATUS>Kritisch</STATUS>
+<BRONMNW>934.9</BRONMNW>
+<BRONNEN>Oxford, Bodleian Library, Marshall 29</BRONNEN>
+</fileDesc>
+</teiHeader>
+--><text>
+<head type="title"><i>Dit sijn noch die .X. ghebode.</i> </head>
+<l>Mensche / hoor ende merct aen mi /</l>
+<l>Dese .X. ghebode lere ic di</l>
+<l>Met eenre corter lere /</l>
+<l>Die saltu emmermere</l>
+<l n="5">Draghen inder herten dijn /</l>
+<l>Wildi erve des hemels sijn.</l>
+<l>Nu hoort hier dat eerste ghebot:</l>
+<l>Vrucht ende vlee ende min God</l>
+<l>Ende gheloeft dat Hi allene si</l>
+<l n="10">Ghewarich God / ende staet Hem bi.</l>
+<l>Dat ander: En neemt in dinen mont</l>
+<l>Onnuttelijc Hem in gheenre stont;</l>
+<l>Dattu meyneeden niet en zweers /</l>
+<l>Daer du dijn ziele mede verseers.</l>
+<l n="15">Dat derde: Hout dijn vierte weert</l>
+<l>Des sondaghes / dats dat God begeert;</l>
+<l>Daer aen suldi uwen arbeyt sparen /</l>
+<l>Ende u met goeder daet bewaren.</l>
+<l>Dat vierde du wel merken sout:</l>
+<l n="20">Eert vader ende moeder / ende sijt hen hout /</l>
+<l>Soe datmen trouwe aen di spore;</l>
+<l>Arbeyt hen in haer oudere vore.</l>
+<l>Dat vijfte onthout / het es noot:</l>
+<l><edition n="636"/>Dune salt nyemene slaen ter doot /</l>
+<l n="25">Weest oec ter volleest niet bewant /</l>
+<l>Dijn raede en moerde noch dijn hant.</l>
+<l>Dat seste: Du salt cuusch wesen /</l>
+<l>Oftu voor Gode wils ghenesen;</l>
+<l>Sijt cuusch met al dijnre daet /</l>
+<l n="30">Soe wert wel dijnre zielen raedt.</l>
+<l>Dat sevende: En sijt gheen dief /</l>
+<l>Ende en laet di nemmer sijn lief</l>
+<l>Eens anders goet / want di niet en teemt /</l>
+<l>Daer omme die duvel dijn ziele neemt.</l>
+<l n="35">Dat achste: En wes gheen valsch ghetuuch /</l>
+<l>Dune saelt niet lieghen / no en bedriech</l>
+<l>Niemene / want het wert di goet:</l>
+<l>Hi es salich die dese lere doet.</l>
+<l>Dat neghende ghi wel onthouden selt:</l>
+<l n="40">Ghine sult begheren met ghewelt</l>
+<l>Noch tonrechte nyements scat /</l>
+<l>Noch met rove noch met vorsat.</l>
+<l>Dat tiende in dijn herte schrijf:</l>
+<l>Dune salt begheren nyemens wijf /</l>
+<l n="45">Noch dat wijf nyemens man;</l>
+<l>Want grote sunde leeght daer an /</l>
+<l parse="ignore">Ende si verdienen den ewighen ban.</l>
+<l>Mensche / dit sijn die .X. ghebode /</l>
+<l>Die di van Onsen Here Gode</l>
+<l n="50">Ghegheven te houdene sijn dijn leven;</l>
+<l>Dien saltu also sijn beneven /</l>
+<l>Dattu die ziele alsoe bewaers /</l>
+<l>Dattu den duvel ontfaers;</l>
+<l><edition n="637"/>Dit hout vaste in dinen sinne:</l>
+<l n="55">Gode vrucht / vleyt ende minne /</l>
+<l>Ende zweer bi Hem gheen meynede;</l>
+<l>Eert vader ende moeder beyde /</l>
+<l>Houdt dijn vierte waer du macht /</l>
+<l>Ende huedt di voor manslacht.</l>
+<l n="60">Sijt reyne ende hebt cuuscheyt lief;</l>
+<l>Daer toe en sijt oec gheen dief;</l>
+<l>Voor valsch ghetughe wes behoet /</l>
+<l>Ende begheer tonrechte nyements goet.</l>
+<l>Ende brec oec niet dijn huwelic orden.</l>
+<l n="65">Dese .X. dit sijn Gods worden.</l>
+<l>Nu hebt lief dese .X. gebode /</l>
+<l>Die ons beval Onse Here Gode /</l>
+<l>Ende nader leren doet die daet.</l>
+<l>Wat helpt die lere diemen haet /</l>
+<l n="70">Daermen die werke niet en doet?</l>
+<l>Mensche / wildi sijn behoedt</l>
+<l>Vander hellen gloede /</l>
+<l>Soe neemt in dinen moede</l>
+<l>Van mi dese lere /</l>
+<l n="75">Ende behoutse emmermere</l>
+<l>Besloten inder herten dijn /</l>
+<l>Ende doet met uwen werken aenscijn /</l>
+<l>Soe blijfdi vander hellen vri /</l>
+<l>Ende die duvel vliet van di /</l>
+<l n="80">Die / leyder! op dit heeft ghezworen;</l>
+<l>Want du beste ter hemelscher vrouden vercoren /</l>
+<l parse="ignore">Die hi door hoverde heeft verloren.</l>
+<l>Van plompen sinne hebbic nu</l>
+<l>Wel cume bracht dit boecsken toe.</l>
+<l n="85"><pb n="638"/> Vorwaer sijn sin es mi te sterc /</l>
+<l>Maer ic voer bi des waters merc /</l>
+<l>Aenden oevere mijn scep ran.</l>
+<l>Aergere diepte ic mi versan /</l>
+<l>Leyder! mijn scep was te cranc /</l>
+<l n="90">Haten moestic diepen ganc.</l>
+<l>Dieper redene mijdic doe /</l>
+<l>Droeghes oevers was ic vroe /</l>
+<l>Hulpe nam ic by mi waer</l>
+<l>Aen Gode / een licht der werelt claer /</l>
+<l n="95">Die reyne es alles wandels vry.</l>
+<l>Recht es Di dit wonder bi</l>
+<l>Vader / Sone ende Heilighe Gheest /</l>
+<l>Die .iij. personen in een Du dreechst /</l>
+<l>Sus es dijn wonder alte groot.</l>
+<l n="100">Siet / God / met minen sinnen bloet</l>
+<l>Vaer ic minen meester nae:</l>
+<l>Van verren sueckic / maer doch ic ga.</l>
+<l>Ach / God! mijn dicht es als een droem.</l>
+<l>Leght aen die spotters dinen toem!</l>
+<l n="105">Dies baedic vore / noch bidicx na.</l>
+<l>Helpt mi dat nuttelijc besta /</l>
+<l>Soe dat siere bi verbetert sijn</l>
+<l>Diet horen aen dit boekelkijn.</l>
+<l>Edele God / doer dine drie namen</l>
+<l n="110">Verlicht onsen noot. Nu sprect Amen.</l>
+</text>
+<!--</ENTRY>
+--></TEI.2>

@@ -1,0 +1,123 @@
+<?xml version='1.0'?><!DOCTYPE TEI.2 PUBLIC '-//TEI P4//DTD Main Document Type//EN' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd' [<!ENTITY % TEI.prose 'INCLUDE'><!ENTITY % TEI.linking 'INCLUDE'><!ENTITY % TEI.figures 'INCLUDE'><!ENTITY % TEI.analysis 'INCLUDE'><!ENTITY % TEI.corpus 'INCLUDE'><!ENTITY % TEI.XML 'INCLUDE'><!NOTATION TEI-XML PUBLIC 'TEI P4' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd'><!-- internal INL dtd --><!ELEMENT b (#PCDATA)><!ELEMENT l (#PCDATA | b)*><!-- end of internal INL dtd -->]><TEI.2><!--<ENTRY id="i82"><teiHeader><fileDesc><titleStmt><title>Borchgrave van Couchi</title>
+</titleStmt>
+<interpGrp type="pubYear_from"><interp value="1300"/></interpGrp>
+<interpGrp type="witnessYear_from"><interp value="1300"/></interpGrp>
+<interpGrp type="pubYear_to"><interp value="1325"/></interpGrp>
+<interpGrp type="witnessYear_to"><interp value="1325"/></interpGrp>
+<TITEL>Borchgrave van Couchi</TITEL>
+<author>Onbekend</author>
+<AARD>Rijm</AARD>
+<BRON nr="K24">Brussel, Koninklijke Bibliotheek, 19577 (fragm.)</BRON>
+<DATUM>1300-1325</DATUM>
+<OMVANG>96 verzen</OMVANG>
+<BRON.OPM>Waarschijnlijk het bovenste deel van een blad, waarvan bovenaan niet veel meer dan de bovenmarge is afgesneden. Per bladzijde zijn er twee kolommen; het oorspronkelijke aantal regels per kolom is onbekend. De betreffende passage volgt in het verhaal na de tekst van de Atrechtse fragmenten. Betreffende de transcriptie: 'nemmeer' (regel 49) moet mogelijk gelezen worden als 'nemmermeer' (indien de afkortingstekens zijn afgesneden)</BRON.OPM>
+<EDITIE>H. Kienhorst en J. Tersteeg: 'Een handschriftfragment van de Middelnederlandse "Borchgrave van Couchi"'. In: E. Cockx-Indestege en F. Hendrickx (red.): Opstellen voor Dr. J. Deschamps ter gelegenheid van zijn zeventigste verjaardag. Dl. 2. Leuven, 1987. (Miscellanea Neerlandica, 2), 199-220 (210-213).</EDITIE>
+<STATUS>Diplomatisch</STATUS>
+<EDITIE.OPM>In de editie wordt gebruik gemaakt van ronde haken voor onzekere lezingen; deze zijn hier niet gehandhaafd.</EDITIE.OPM>
+<BRONNEN>Van drie handschriften zijn er fragmenten overgeleverd. Edities en/of afschriften (J. Tersteeg) zijn er van de volgende handschriften/fragmenten: Hs. I, zie: - <x nr=K21>Arras, Biblioth&egrave;que Municipale, z.s. (fragm.) [zoek]</x>
+ - <x nr=K22>Leiden, Bibliotheek der Rijksuniversiteit, Ltk. 1024 (fragm.)</x>
+ Hs. II, zie: - <x nr=K23>Fragmenten De Pauw (fragm.) [zoek]</x>
+ Hs. III, zie: - <x nr=K24>Brussel, Koninklijke Bibliotheek, 19577 (fragm.)</x>
+</BRONNEN>
+</fileDesc>
+</teiHeader>
+--><text>
+<l parse="ignore" n="1"><pb n="210"/><milestone unit="fol" n="ra"/> Dat [.....] was [...]omen</l>
+<l parse="ignore">Zine moeten dus te crite comen</l>
+<l>Men sette hem dach ende vre</l>
+<l>Wanneer si die auonture</l>
+<l n="5">Aldus bestaen souden voert</l>
+<l>Dat desen twe kempen toe behoert</l>
+<l>Ende doense leren tot parijs</l>
+<l>Die coninc was gher[e]chtich ende wijs</l>
+<l>Dat is nu siere zielen becant</l>
+<l n="10">Voer gode want hi is verheuen sant</l>
+<l>Hi sprac ic wils bat nemen goem</l>
+<l>Eer ic den here ende den oem</l>
+<l>Dus laet c[o]men int verdriet</l>
+<l>Ic wilt weten eert gheschiet</l>
+<l n="15">Wat zaken hoe ende waer bi</l>
+<l>Hi dede den [h]ere va[n co]etsi</l>
+<l>Te hem[.......]doe vraechde</l>
+<l>Twi [...............]laechde</l>
+<l>Ic bi[............]hte waer</l>
+<l n="20">Sprac die[.....da]er naer</l>
+<l parse="ignore">Heeft hi gh[......]aert heimelike</l>
+<l parse="ignore">Aldus den coninc lodewike</l>
+<l>Here sprac hi bi uwer ghenaden</l>
+<l>Ic wil mi ieghen v ontladen</l>
+<l n="25"><milestone unit="fol" n="rb"/> [...............]</l>
+<l>Hine seecht die dinc also ghesc[ie]t</l>
+<l>Hi dacht hine sout te quader hebben [niet]</l>
+<l>Van hem. des antwarde die coninc doe</l>
+<l>Ghi hebt soe vele misdaden toe</l>
+<l n="30">Ic hoert wel here an uwer spraken</l>
+<l>Ghi hebt misuaren in deser saken</l>
+<l>Doch wilic den borchgraue spreken</l>
+<l>Ende sien of iet can ghebreken</l>
+<l>Vaert leren dat v staet te doene</l>
+<l n="35"><pb n="211"/> Oft ons iet faelgier[d]e tseyzoene</l>
+<l>Gherne here hier mede hi sciet</l>
+<l>Vanden coninc die te hant ontbiet</l>
+<l>Den borchgraue dat hi come ter vaert</l>
+<l>Ten coninc want hi sijns begaert</l>
+<l n="40">E[........]e also ende quam gherne</l>
+<l>Di[.......sp]rac om v te derne</l>
+<l>Bero[.........]seindic niet om v</l>
+<l>Mer ic bid[... da]t ghi mi nv</l>
+<l>Zegt. wat v an uwen oem let</l>
+<l n="45">Dat ghine aldus te campe set</l>
+<l>Here dat weet hi selue wel</l>
+<l>Ic ben die[t] hem d[o]en li[en sel]</l>
+<l parse="ignore">Alsic mi hebbe vermeten</l>
+<l parse="ignore"><milestone unit="fol" n="va"/> [...]e nemmeer dit woert</l>
+<l parse="ignore" n="50">Daer ic aldus in ben ghestoert</l>
+<l>Die coninc vant den ridder wel</l>
+<l>Ghetruwe van herten ende niet fel</l>
+<l>Ende om dat hine in trouwen cant</l>
+<l>Ghenuechde hem dat hine in trouwen onderuant</l>
+<l n="55">&para; Die goede coninc wijs ende rike</l>
+<l>Nam doe den ridder heimelike</l>
+<l>Ende sprac ghetrouwe ridder vri</l>
+<l>Ghine dorft niet helen ieghen mi</l>
+<l>Ic weet al die rechte waerheit</l>
+<l n="60">Aldus heeft mi v oem gheseit</l>
+<l>Laet mi [w]reken na uwen rade</l>
+<l>Ghi crighes v roem ende hi den scade</l>
+<l>Ende als die ridder dus bi liste</l>
+<l>Hoerde dat hijt wel wiste</l>
+<l n="65">Antwarde hi hem onuersaecht</l>
+<l>Ay here dit si v gheclaecht</l>
+<l>Ende ghi sijt sculdich te wreken</l>
+<l>Nu ghijt hem seluen hebt horen spreken</l>
+<l>Zo is hi een dobbel verrader</l>
+<l n="70"><pb n="213"/> Here hi heeft v algader</l>
+<l>Gheseecht ouer sinen eet</l>
+<l>Mer god ende al dat hem besteet</l>
+<l parse="ignore"><milestone unit="fol" n="vb"/> Visiert selue hier op ene[n] raet</l>
+<l parse="ignore">Eest alsoe dat hi mi ontuecht</l>
+<l parse="ignore" n="75">Dat elkerlike bliue an sijn recht</l>
+<l>Here seide die ridder wildijt horen</l>
+<l>Ic legghe v een reden te voren</l>
+<l>Daer mi niet alle die leuen</l>
+<l>Anderen raet toe en mochten gheuen</l>
+<l n="80">Dats dat hi mi met ganser truwen</l>
+<l>Versoene ieghen miere vrowen</l>
+<l>Ende dat si mi al zonder miskief</l>
+<l>Met goeder herten heb alsoe lief</l>
+<l>Als zi mi noyt hier vormaels ghewan</l>
+<l n="85">Ziet here aldaer houdix mi an</l>
+<l>Alle die leuen oec wats ghesciet</l>
+<l>En mochtens nare comen niet</l>
+<l><b>D</b>Oe sprac die coninc ende luech</l>
+<l>Kursen ridder dats een gheuoech</l>
+<l n="90">Ic sal v wanic zijn goet bode</l>
+<l>Gheloeft mi dan ende rijt te gode</l>
+<l>Gherne here siets mijn trouwe alhier</l>
+<l>Dus wart die coninc messelier</l>
+<l>Mittien die ridder orlof nam</l>
+<l n="95">Ende dede[n] leren danen hi quam</l>
+<l parse="ignore">&para; Die coninc maecte cont den sinen</l>
+</text>
+<!--</ENTRY>
+--></TEI.2>

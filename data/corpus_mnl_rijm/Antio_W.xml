@@ -1,0 +1,98 @@
+<?xml version='1.0'?><!DOCTYPE TEI.2 PUBLIC '-//TEI P4//DTD Main Document Type//EN' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd' [<!ENTITY % TEI.prose 'INCLUDE'><!ENTITY % TEI.linking 'INCLUDE'><!ENTITY % TEI.figures 'INCLUDE'><!ENTITY % TEI.analysis 'INCLUDE'><!ENTITY % TEI.corpus 'INCLUDE'><!ENTITY % TEI.XML 'INCLUDE'><!NOTATION TEI-XML PUBLIC 'TEI P4' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd'><!-- internal INL dtd --><!ELEMENT b (#PCDATA)><!ELEMENT l (#PCDATA | b)*><!-- end of internal INL dtd -->]><TEI.2><!--<ENTRY id="i14"><teiHeader><fileDesc><titleStmt><title>Roman van Antiochi&euml;</title>
+</titleStmt>
+<interpGrp type="pubYear_from"><interp value="1300"/></interpGrp>
+<interpGrp type="witnessYear_from"><interp value="1300"/></interpGrp>
+<interpGrp type="pubYear_to"><interp value="1350"/></interpGrp>
+<interpGrp type="witnessYear_to"><interp value="1350"/></interpGrp>
+<TITEL>Roman van Antiochi&euml;</TITEL>
+<author>Onbekend</author>
+<AARD>Rijm</AARD>
+<BRON nr="K4">Wenen, &Ouml;sterreichische Nationalbibliothek, 15393 (fragm.)</BRON>
+<DATUM>1300-1350</DATUM>
+<OMVANG>67 verzen</OMVANG>
+<BRON.OPM>De Weense fragmenten bestaan uit vier stroken, die horizontaal midden uit verschillende bladen gesneden zijn. Per bladzijde zijn er twee kolommen en een kolom telde oorspronkelijk 46 tot 50 regels. De fragmenten 1 en 2 sluiten in de breedte op elkaar aan en bevatten een gedeelte uit Godevaerts kintshede. De fragmenten 3 en 4 zijn restanten van de Roman van Antiochi&euml;. Fragment 3 telt nu nog negen regels per kolom en fragment 4 nog ca. acht. Mogelijk is strook 3 uit het voorste en strook 4 uit het achterste blad van hetzelfde bifolium afkomstig.</BRON.OPM>
+<VERWIJZING>Gent, Bibliotheek der Rijksuniversiteit, 1647 (fragm.), Brussel, Koninklijke Bibliotheek, IV 209,10 (fragm.), Leuven, Coll.-J. Deschamps, z.s. (fragm.)</VERWIJZING>
+<EDITIE>G.H.M. Claassens: De Middelnederlandse kruisvaartromans. Amsterdam, 1993. Diss. Nijmegen, 108-159 (144-152).</EDITIE>
+<STATUS>Diplomatisch</STATUS>
+<BRONMNW>411.13 (andere editie)</BRONMNW>
+<BRONMNW>1261.1 (andere editie)</BRONMNW>
+<EDITIE.OPM>Claassens geeft behalve de diplomatische ook de kritische editie (naast elkaar op de linker- en de rechterpagina). Voorts heeft hij onzekere lezingen tussen ronde haken geplaatst en conjecturen tussen rechthoekige haken, terwijl ze hier beide tussen rechthoekige haken zijn gezet. De punctus elevatus in de editie Claassens is hier weergegeven als punt. In de editie Claassens worden alle fragmenten van de tekst niet apart, maar gezamenlijk en in de juiste volgorde uitgegeven; daarbij wordt gebruik gemaakt van een doorlopende regelnummering. Hier echter wordt de tekst van de verschillende fragmenten afzonderlijk gepresenteerd (m.u.v. het Gentse en Brusselse fragment; zie bij het Gentse fragment) en zijn alle fragmenten van een eigen regelnummering voorzien.</EDITIE.OPM>
+<BRONNEN>Van &eacute;&eacute;n handschrift zijn er fragmenten overgeleverd, die in vier verschillende collecties worden bewaard: - <x nr=K4>Wenen, &Ouml;sterreichische Nationalbibliothek, 15393 (fragm.)</x>
+ - <x nr=K5>Gent, Bibliotheek der Rijksuniversiteit, 1647 (fragm.)</x>
+ - <x nr=K6>Brussel, Koninklijke Bibliotheek, IV 209,10 (fragm.)</x>
+ - <x nr=K7>Leuven, Coll.-J. Deschamps, z.s. (fragm.)</x>
+</BRONNEN>
+<HSDRUK>Historie vanden ridder metter swane, Helias ridder metter swane</HSDRUK>
+</fileDesc>
+</teiHeader>
+--><text>
+<l><milestone unit="fol" n="3ra"/> God hebs danc sprac hi doe</l>
+<l>Ghi hebbet becocht al brochtijt toe</l>
+<l>Ghi ne sullets niet ontgaen</l>
+<l>Om desen vant verstaen</l>
+<l n="5">Sloughen toe al die payen</l>
+<l>Een camer vut al dien</l>
+<l><edition n="146"/>Dwers slaende vp die heide</l>
+<l>Vp den koenen tangreide</l>
+<l>Di[eh............]</l>
+<l n="10"><milestone unit="fol" n="3rb"/> Ghe[r]ijn de[d]e vut ghe[l]e[is]en</l>
+<l>Sine warens niet gheneisen</l>
+<l>Ende ons heren ghenaden goed</l>
+<l>Bede water ende bloet</l>
+<l>Zweetten die andere van pine</l>
+<l n="15">Ende die andere kerstinen</l>
+<l>Waren vp .ij. waghenen bi namen</l>
+<l>Vp elken .xi. tesamen</l>
+<l>Dies hadd[en sijt de s....]</l>
+<l><milestone unit="fol" n="3va"/> En[de] ran voort tier vre</l>
+<l n="20">Den goeden alsberch dure</l>
+<l>Maer god wildene voorsien</l>
+<l>Tspere van den payen</l>
+<l>Dede onse here tier tyde</l>
+<l><edition n="148"/>Bryemonde gaen ande side</l>
+<l n="25">Datter die helt name cont</l>
+<l>Bi bleef goddanc onghewont</l>
+<l>[<b>M</b>A.......] als die [...]en</l>
+<l><milestone unit="fol" n="3vb"/> En[de] daer naer verhief hijt weder</l>
+<l>Den gonen diere lach ter neder</l>
+<l n="30">Slouch hi so dies ghelooft</l>
+<l>Dat hem spranc van den buke thooft</l>
+<l>Payenen saghen vp hem als doren</l>
+<l>Hi cloueder toten oren</l>
+<l>Te voet staende .iiij. of viue</l>
+<l n="35">Daer na spranc hi met coenen liue</l>
+<l>[V..............]</l>
+<l><milestone unit="fol" n="4ra"/> Daer maecte in die bataelie</l>
+<l>So datter menech speelde ter faelie</l>
+<l>Die wel waende hebben verwonnen</l>
+<l n="40">Tghetal soudic v niet connen</l>
+<l>Wel ghenomen daer men zien</l>
+<l>Daer steruen mochte der payen</l>
+<l>Men slouchse bi hopen doot</l>
+<l><edition n="150"/>[D]aer mochtemen sien ghecarem gr[oot]</l>
+<l n="45"><milestone unit="fol" n="4rb"/> Ende slouch slaghen vut ghele[s]en</l>
+<l>Negheen payen moc[h]te gh[enes]en</l>
+<l>Van der ontseggheliker mo[o]rt</l>
+<l>Men dreefse voort ende voort</l>
+<l>So dat sire bleuen al hadder [ni]e[t meer]</l>
+<l n="50">Ghewesen. si quamen an po[r]t de fee[r]</l>
+<l parse="ignore">Al driuende met groten sla[gh]en</l>
+<l parse="ignore">[Als die van an.........]</l>
+<l><milestone unit="fol" n="4va"/> V[u]t lant versleghen ende in de grachte[n]</l>
+<l>Ver[dro]nken. datter hare crachten</l>
+<l n="55">Van jamere vele verloren</l>
+<l>Ende vielen neder. so ghi moghet horen</l>
+<l><edition n="152"/><b>L</b>Anghe [m]ochtemen hier of tellen</l>
+<l>Die stoute kerstine ghesellen</l>
+<l parse="ignore">[J]agheden s[l]aende die sarragoene</l>
+<l n="60"><milestone unit="fol" n="4vb"/> E[n]de eu[st]aes ende baudewijn</l>
+<l>Ende alle dandere die met hem sij[n]</l>
+<l>Alreande volc als ic verstont</l>
+<l>Waren mede comen doe ic v cont</l>
+<l>Dies dede mense nv te werke</l>
+<l n="65">In den berech dalf men sterke</l>
+<l>Fondement te soukene in liege v niet</l>
+<l>[M]aer [eer] si camen spade diep</l>
+</text>
+<!--</ENTRY>
+--></TEI.2>

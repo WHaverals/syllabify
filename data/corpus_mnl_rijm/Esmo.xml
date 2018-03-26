@@ -1,0 +1,1285 @@
+<?xml version='1.0'?><!DOCTYPE TEI.2 PUBLIC '-//TEI P4//DTD Main Document Type//EN' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd' [<!ENTITY % TEI.prose 'INCLUDE'><!ENTITY % TEI.linking 'INCLUDE'><!ENTITY % TEI.figures 'INCLUDE'><!ENTITY % TEI.analysis 'INCLUDE'><!ENTITY % TEI.corpus 'INCLUDE'><!ENTITY % TEI.XML 'INCLUDE'><!NOTATION TEI-XML PUBLIC 'TEI P4' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd'><!-- internal INL dtd --><!ELEMENT b (#PCDATA)><!ELEMENT l (#PCDATA | b)*><!-- end of internal INL dtd -->]><TEI.2><!--<ENTRY id="i122"><teiHeader><fileDesc><titleStmt><title>Esmoreit, Abele spelen</title>
+</titleStmt>
+<interpGrp type="pubYear_from"><interp value="1400"/></interpGrp>
+<interpGrp type="witnessYear_from"><interp value="1400"/></interpGrp>
+<interpGrp type="pubYear_to"><interp value="1420"/></interpGrp>
+<interpGrp type="witnessYear_to"><interp value="1420"/></interpGrp>
+<TITEL>Esmoreit</TITEL>
+<TITEL>Abele spelen</TITEL>
+<author>Onbekend</author>
+<AARD>Rijm</AARD>
+<BRON nr="K183">Brussel, Koninklijke Bibliotheek, 15589-623</BRON>
+<DATUM>1400-1420</DATUM>
+<OMVANG>1018 verzen</OMVANG>
+<BRON.OPM>De codex staat bekend als het Hulthemse handschrift. Hij bevat in totaal 241 bladen (oorspronkelijk 250 of meer) en per bladzijde 2 kolommen van 46-47 regels. De Esmoreit, een van de abele spelen in dit handschrift, bevindt zich op fol. 170vb-178rb. De andere abele spelen zijn: Gloriant (fol. 213ra221rb), Lanseloet van Denemerken (fol. 223rb-230ra) en Vanden winter ende vanden somer, (fol. 235va239vb). Daarnaast komen in het handschrift ook zes sotternie&euml;n voor: Lippijn (fol. 178rb-180ra), de Buskenblazer (fol. 221rb-223rb), de Hexe (fol. 230ra-230vb), Drie daghe here (fol. 231vb-234vb; slot ontbreekt), Truwanten (fol. 235ra-235va; begin ontbreekt), en Rubben (fol. 239vb-241vb). Voorts bevat de codex o.a. (excerpten uit) de volgende teksten: de Brandaen (fol. 1ra-10ra), de Borch van Vroudenrijc (fol. 51vb-52vb), de Korte kroniek van Brabant (korte versie 1) (fol. 82vb-84va), de Historie van Troyen (fol.118rb-136va), Borchgravinne van Vergi (1) (fol. 158va-164vb), Vander rijcheit ende vander doot (fol. 182va-183ra), Theophilus (fol. 196va-206va).</BRON.OPM>
+<EDITIE>P. Leendertz jr.: Middelnederlandsche dramatische po&euml;zie. Leiden, 1897. (Bibliotheek van Middelnederlandsche Letterkunde), 1-30.</EDITIE>
+<STATUS>Kritisch</STATUS>
+<BRONMNW>377.1</BRONMNW>
+<BRONMNW>87.3.47 (andere editie)</BRONMNW>
+<BRONMNW>415 (andere editie)</BRONMNW>
+<EDITIE.OPM>De gedachtestreepjes in de tekst zijn hier niet overgenomen. Dit geldt ook voor de opmerkingen, aantekeningen en andere lezingen die aan de voet van de bladzijde vermeld staan. Wel in de tekst verwerkt zijn de lezingen die genoemd worden in de lijst "Verbeteringen en toevoegsels" (pag. 693-696).</EDITIE.OPM>
+<BRONNEN>Brussel, Koninklijke Bibliotheek, 15589-623</BRONNEN>
+</fileDesc>
+</teiHeader>
+--><text>
+<head type="group">EEN ABEL SPEL VAN ESMOREIT, SCONINCX SONE VAN CECILI&Euml;N, ENDE ENE SOTTERNIE DAER NA VOLGHENDE.</head>
+<text><sp><l><milestone unit="fol" n="170vb"/>                 God, die vander maghet was gheboren,</l>
+<l>Om dat hi niet en woude laten verloren</l>
+<l>Dat hi met sinen handen hadde gemaect,</l>
+<l>Soe woude hi al moeder naect</l>
+<l n="5">Die doet sterven in rechter trouwen.</l>
+<l>Nu biddic u, heren ende vrouwen,</l>
+<l>Dat ghi wilt swighen ende hoeren.</l>
+<l>                Het was een coninc hier te voren,</l>
+<l>In Sesili&euml;n was hi gheseten,</l>
+<l n="10">Verstaet, soe moghdi wonder weten,</l>
+<l>Ende ghecreech een kint bi sijn wijf.</l>
+<l>Maer bi hem hielt hi enen keitijf,</l>
+<l>Sijns broeder sone, hiet Robrecht,</l>
+<l>Die dat conincrike na recht</l>
+<l n="15">Alte male soude hebben verworven,</l>
+<l>Hadde die coninc sonder oer ghestorven.</l>
+<l>Maer nu wert daer een knecht geboren,</l>
+<l>Dies Robbrecht hadde groten toren</l>
+<l>Ende int herte groten nijt.</l>
+<l n="20">Nu seldi hier sien in corter tijt,</l>
+<l>Wat dat den jonghelinc es ghesciet,</l>
+<l>Hoe hem Robrecht bracht in swer verdriet,</l>
+<l>Ende enen Sarrasijn heft vercocht,</l>
+<l>Ende in groten elende brocht,</l>
+<l n="25">Ende oec die moeder, diene droech,</l>
+<l>Dat si daer na noit en loech</l>
+<l>In twintich jaren daer si lach,</l>
+<l>Ende noit sonne noch mane en sach:</l>
+<l>Dat beriet haer Robrecht al.</l>
+<l n="30">Nu swijt, ende merct hoet begennen sal.</l>
+</sp>
+<sp><speaker><pb n="2"/>                 <i>Robberecht</i>.</speaker>
+<l>Ay mi! ay mi der leider gheboert,</l>
+<l>Die hier nu es comen voert</l>
+<l><milestone unit="fol" n="171ra"/> Van Esmoreit, den neve mijn!</l>
+<l>Ic waende wel coninc hebben ghesijn,</l>
+<l n="35">Als mijn oem hadde ghelaten dlijf</l>
+<l>Nu heeft hi al bi sijn wijf</l>
+<l>Een kint gecreghen, die oude viliaert.</l>
+<l>O Sesili&euml;n, edel bogaert,</l>
+<l>Edel foreest, edel rijc,</l>
+<l n="40">Ic moet bliven ewelijc,</l>
+<l>Edel foreest, van di bastaert;</l>
+<l>Dies mijn herte alsoe beswaert,</l>
+<l>Dat mi inbringhen sal de doot.</l>
+<l>Maer bi den here die mi gheboet,</l>
+<l n="45">Ic sal daer omme pinen nacht ende dach,</l>
+<l>Hoe ic dat wecht verderven mach;</l>
+<l>Ic saelt versmoren oft verdrincken;</l>
+<l>Daer salic nacht ende dach om dincken,</l>
+<l>Al soudic daer omme liden pijn.</l>
+<l n="50">Ic sal noch selve de coninc sijn</l>
+<l>Van Sesili&euml;n, den hoghen lande.</l>
+<l>Ic sal oec pinen om haer scande,</l>
+<l>Der coninghinnen, mijns oems wijf,</l>
+<l>Dat hi nemmermeer sijn lijf</l>
+<l n="55">Met haer en sal delen, die wigant.</l>
+<l>Aldus soe sal mi bliven dlant,</l>
+<l>Machic volbringhen dese dinc.</l>
+</sp>
+<sp><speaker>                <i>Meester</i>.</speaker>
+<l>Waer sidi, hoghe gheboren coninc,</l>
+<l>Van Damast gheweldich heer?</l>
+<l n="60">Mijn herte es mi van rouwen seer,</l>
+<l>Van saken, die ic hebbe ghesien.</l>
+</sp>
+<sp><speaker>                <i>De coninc</i>.</speaker>
+<l>Platus meester, wat sal ghescien,</l>
+<l>Daer ghi aldus om tachter sijt?</l>
+</sp>
+<sp><speaker>                <i>Meester</i>.</speaker>
+<l>Her coninc, te nacht te metten tijt</l>
+<l n="65"><pb n="3"/> Was ic daer buten op dat velt;</l>
+<l>Daer sach ic die locht alsoe ghestelt</l>
+<l>Ende die planeten ant fiermament,</l>
+<l>Dat in kerstenrijc een kint</l>
+<l>Gheboren es van hogher weerde,</l>
+<l n="70"><milestone unit="fol" n="171rb"/> Dat u sal dooden metten sweerde,</l>
+<l>Her coninc here, ende nemen dlijf,</l>
+<l>Ende u dochter sal sijn sijn wijf,</l>
+<l>Ende kerstenheit sal si ontfaen.</l>
+</sp>
+<sp><speaker>                <i>De coninc</i>.</speaker>
+<l>Meester, nu doet mi verstaen,</l>
+<l n="75">Wanneer soe was dat kint gheboren?</l>
+</sp>
+<sp><speaker>                <i>Meester</i>.</speaker>
+<l>Te nacht, her coninc, als ghi mocht horen,</l>
+<l>Soe wort gheboren dat jonghelinc.</l>
+<l>Sijn vader es een hoghe coninc</l>
+<l>Van Sesili&euml;n in kersten lant.</l>
+</sp>
+<sp><speaker>                <i>De coninc</i>.</speaker>
+<l n="80">Meester, nu soe doet mi bekant,</l>
+<l>Selen dese saken moeten zijn?</l>
+</sp>
+<sp><speaker>                <i>Meester</i>.</speaker>
+<l>Jaes, her coninc, bi Apolijn,</l>
+<l>Ofte en doe cracht van groter hoeden.</l>
+<l>Maer wildi werken na den vroeden,</l>
+<l n="85">Ic sal u enen raet visieren,</l>
+<l>Hoe ende in wat manieren</l>
+<l>Dat ghi selt bliven in uwen staet,</l>
+<l>Want enen goeden scarpen raet</l>
+<l>Waer hier goet toe gheoerdeneert.</l>
+</sp>
+<sp><speaker>                <i>De coninc</i>.</speaker>
+<l n="90">Ay, nu soe benic ghescofeert!</l>
+<l>Vander saken, die ghi mi telt</l>
+<l>Es mijn herte alsoe ontstelt,</l>
+<l>Dat ic mi niet gheraden en can.</l>
+<l>Maer ghi sijt soe wisen man,</l>
+<l n="95">Platus meester, lieve vrient,</l>
+<l>Ende hebdt mi langhe met trouwen ghedient</l>
+<l><edition n="4"/>Ende meneghen wisen raet ghegheven,</l>
+<l>Dat ic in eren altoes ben bleven;</l>
+<l>Nu biddic u, meester ghetrouwe ende goet,</l>
+<l n="100">Dat ghi al metter spoet</l>
+<l><milestone unit="fol" n="171va"/> Wilt hulpen vinden enen raet,</l>
+<l>Soe dat ic blive in minen staet</l>
+<l>Ende vanden jonghelinc onghequelt,</l>
+<l>Daer ghi mi dus vele af telt,</l>
+<l n="105">Dat ic sijns mach wesen vri.</l>
+</sp>
+<sp><speaker>                <i>Meester</i>.</speaker>
+<l>Her coninc here, soe hoert na mi:</l>
+<l>Edel baroen, edel wigant,</l>
+<l>Ghi selt mi gheven alte hant</l>
+<l>Enen scat met mi te voeren,</l>
+<l n="110">Ende ic sal in corten uren</l>
+<l>Daer waert riden onghespaert.</l>
+<l>Den jonghelinc van hogher aert</l>
+<l>Sal ic ghecrighen met miere const.</l>
+<l>Ic bidde Mamette om sine onst,</l>
+<l n="115">Dat icken ghewinnen moet met eren,</l>
+<l>Want nemmermeer en meinic te keren,</l>
+<l>In salne u bringhen in uwer ghewout.</l>
+<l>Daer omme seldi mi selver ende gout,</l>
+<l>Her coninc, gheven in miere ghewelt.</l>
+<l n="120">Ic salne stelen of copen om ghelt</l>
+<l>Ofte ghecrighen met enegher list,</l>
+<l>(Aldus hebbic den raet ghegist)</l>
+<l>Dan sal hi u vri eyghen sijn,</l>
+<l>Hi sal werden een goet payijn,</l>
+<l n="125">Na onser wet selen wine leren:</l>
+<l>Aldus soe seldi bliven in eren.</l>
+<l>Hi sal wenen dat ghi sijn vader sijt.</l>
+<l>Nu lichtelijc, hets meer dan tijt,</l>
+<l>Ic wil gaen varen metter spoet.</l>
+</sp>
+<sp><speaker>                <i>De coninc</i>.</speaker>
+<l n="130">Platus meester, desen raet es goet.</l>
+<l>Gaet henen ende haest u metter vaert,</l>
+<l>Ic wille dat ghi niet en spaert.</l>
+<l>Nemt scats ghenoech in uwer ghewelt</l>
+<l>Metter gisschen onghetelt,</l>
+<l n="135">Ende brinct mi den jonghelinc,</l>
+<l>Dies biddic u boven alle dinc,</l>
+<l><edition n="5"/>Ende en spaert daer ane ghenen cost,</l>
+<l>Want ic hebbe soe groten lost</l>
+<l>Dat ic den jonghelinc soude bescouwen.</l>
+</sp>
+<sp><speaker><milestone unit="fol" n="171vb"/>                 <i>Meester</i>.</speaker>
+<l n="140">Her coninc here, in rechter trouwen,</l>
+<l>Ic sal daer omme pinen dach ende nacht.</l>
+</sp>
+<sp><speaker>                <i>Robbrecht</i>.</speaker>
+<l>En trouwen, ic hebbe soe lange gewacht,</l>
+<l>Dat ic ghecreghen hebbe mijn begheert.</l>
+<l>Dese jonghelinc die es soe weert</l>
+<l n="145">Met minen oem, den ouden grisen,</l>
+<l>Ende metter moeder, dien soe prisen,</l>
+<l>Dat si nie scoender kint en saghen;</l>
+<l>Dese blisscap salic hen verjaghen,</l>
+<l>Want het gheeft mijnder herten pijn.</l>
+<l n="150">Vermalendijdt moestu sijn</l>
+<l>Ende die u oec ter werelt bracht,</l>
+<l>Want ic nie sent dach noch nacht</l>
+<l>Blisscap int herte en conde gewinnen.</l>
+<l>Al souden si beide daer omme ontsinnen,</l>
+<l n="155">Dijn lijf dat heeftu nu verloren;</l>
+<l>Ic sal di in enen put versmoren</l>
+<l>Ofte sterven doen een ergher doot.</l>
+</sp>
+<sp><speaker>                <i>Meester</i>.</speaker>
+<l>O vrient, dat ware jammer groet:</l>
+<l>Het dunct mi sijn soe scone kint.</l>
+<l n="160">Ghi sijt emmer te male ontsint,</l>
+<l>Dat ghi wilt doden dese jonge geboert.</l>
+<l>Maer ghi sijt daer op ghestoert,</l>
+<l>Dat hoeric wel ane u ghelaet.</l>
+<l>Ic bidde u, vertrect mi uwen staet:</l>
+<l n="165">Waer omme sidi daer op soe gram?</l>
+</sp>
+<sp><speaker>                <i>Robbrecht</i>.</speaker>
+<l>Vrient, doen hi ter werelt quam</l>
+<l>Ende van sijnder moeder wert gheboren,</l>
+<l>Quam mi in minen slape te voren,</l>
+<l>Dat hi mi nemen soude mijn leven.</l>
+<l n="170">Dies benic in sorghen bleven,</l>
+<l><edition n="6"/>Dat ic noit sint en conste gedueren,</l>
+<l>Ende ic hebbe ghewacht van uren turen</l>
+<l>Ende hebben gestolen der moeder sijn.</l>
+<l><milestone unit="fol" n="172ra"/> Ic meine dat ic nu sinen fijn</l>
+<l n="175">Doen sal, eer hi mi ontgaet.</l>
+</sp>
+<sp><speaker>                <i>Meester</i>.</speaker>
+<l>Vrient, ic sal u beteren raet</l>
+<l>Gheven, wildi na mi hoeren.</l>
+<l>Segt mi: wanen es hi gheboren?</l>
+<l>Dies biddic u doer Apolijn.</l>
+<l n="180">Hi mochte van selker gheboerten sijn,</l>
+<l>Ic salne copen alte hande</l>
+<l>Ende voerene met mi uten lande</l>
+<l>In heydenesse, dies sijt wijs,</l>
+<l>In ene stat, het Balderijs,</l>
+<l n="185">Die doer Turki&euml;n es gheleghen.</l>
+</sp>
+<sp><speaker>                   <i>Robbrecht</i>.</speaker>
+<l>Vrient, wildi den jonghen deghen</l>
+<l>Copen, ic sal u segghen dan,</l>
+<l>Wiene droech, ende wiene wan,</l>
+<l>Sal ic u segghen alte gader:</l>
+<l n="190">Die coninc van Cecili&euml;n es sijn vader,</l>
+<l>Een wigant hoghe gheboren,</l>
+<l>Ende sijn moeder, als ghi moget hoeren,</l>
+<l>Es conincx dochter van Hongheri&euml;n.</l>
+</sp>
+<sp><speaker>                <i>Meester</i>.</speaker>
+<l>Vrient, es hi van dier paerti&euml;n,</l>
+<l n="195">Soe es die jonghelinc mijn gerief;</l>
+<l>Ic salne copen, eest u lief.</l>
+<l>Nu sprect op, hoe gheefdine mi?</l>
+</sp>
+<sp><speaker>                <i>Robbrecht</i>.</speaker>
+<l>Vrient, dies moghdi wesen vri</l>
+<l>Om dusent pont van goude ghetelt.</l>
+</sp>
+<sp><speaker>                <i>Meester</i>.</speaker>
+<l n="200">Houdt, vrient, daer es gelt,</l>
+<l>Ende gheeft mi den jonghelinc.</l>
+<l>Maer berecht mi ene dinc:</l>
+<l>Hoe es sijn name? doet mi bekant.</l>
+<sp><speaker> <edition n="7"/>                <i>Robbrecht</i>.</speaker>
+<l><milestone unit="fol" n="172rb"/> Esmoreyt het die jonghe wigant,</l>
+<l n="205">Alsoe es die name sijn.</l>
+</sp>
+<sp><speaker>                <i>Meester</i>.</speaker>
+<l>Soe sal hi ewelijc payijn,</l>
+<l>Bliven, dies moghdi wesen vroet.</l>
+<l>Mamet die mi bewaren moet,</l>
+<l>Ende ic vare wech met minen gast.</l>
+</sp>
+<sp><speaker>                <i>Robbrecht</i>.</speaker>
+<l n="210">En trouwen, nu es mijn herte ontlast</l>
+<l>Van dies ic stont in groter sorghen,</l>
+<l>Want ewelijc blijft hi verborghen</l>
+<l>In heydenesse, dies benic wijs,</l>
+<l>Want die stede van Balderijs</l>
+<l n="215">Leghet doer Turkien in verren lande.</l>
+<l>God die moet hem gheven scande!</l>
+<l>Hoe sere hadde hi mi ontstelt!</l>
+<l>Nu willic gaen ende doen dit gelt</l>
+<l>Heimelijc in miere ghewout,</l>
+<l n="220">Want het es al edel gout.</l>
+<l>Al en bleve mi nemmermeer</l>
+<l>Dlantscap, nochtan waric een heer</l>
+<l>Met desen gelde, dat ic hebbe ontfaen.</l>
+<l>Ic hebt na minen wille wel gedaen,</l>
+<l n="225">Want oec sal mi nu bliven dlant.</l>
+</sp>
+<sp><speaker>                <i>Meester</i>.</speaker>
+<l>Waer sidi, hoghe gheborne wigant,</l>
+<l>Van Damast gheweldich coninc?</l>
+<l>Nu comt ende siet den jonghelinc,</l>
+<l>Die gheboren es van edelen bloede.</l>
+</sp>
+<sp><speaker>                <i>De coninc</i>.</speaker>
+<l n="230">Nu en was mi nie soe wel te moede,</l>
+<l>Alst es van desen hoghen prosent.</l>
+<l>Ic salne ophouden voor mijn kint;</l>
+<l>Mine dochter salicken bevelen.</l>
+</sp>
+<sp><speaker><pb n="8"/>                 <i>Meester</i>.</speaker>
+<l>Wattan, her coninc, ghi selt helen</l>
+<l n="235"><milestone unit="fol" n="172va"/> Voer uwe dochter al gader,</l>
+<l>Wie sijn moeder es ende sijn vader;</l>
+<l>Dat en seldi haer vertrecken niet,</l>
+<l>Want u mochte daer af verdriet</l>
+<l>Comen hier namaels over lanc,</l>
+<l n="240">Want vrouwen sijn van herten wanc.</l>
+<l>Seidi hare sijn hoghe gheslachte,</l>
+<l>Ende dan Venus in haer wrachte,</l>
+<l>Ende worde minnende den jongen man,</l>
+<l>Soe mochte si hem segghen dan</l>
+<l n="245">Hoe dat hi ware comen hier;</l>
+<l>Want, her coninc, der minnen vier</l>
+<l>Mochte in uwer dochter openbaren,</l>
+<l>Als hi ware comen te sinen jaren.</l>
+<l>Daer omme en segt haer ghene dinc</l>
+<l n="250">Dan dat hi es een vondelinc:</l>
+<l>Te men soe salder haer gheliggen an.</l>
+</sp>
+<sp><speaker>                <i>De coninc</i>.</speaker>
+<l>Platus, Platus, bi Tervogant,</l>
+<l>Het dunct mi goet dat ghi mi segt.</l>
+<l>Laet ons dit ewelijc ghedect</l>
+<l n="255">Sijn, dese sake, voer die dochter mijn,</l>
+<l>So magicx in vreden sijn.</l>
+<l>Waer sidi, dochter Dami&euml;t?</l>
+<l>Comt tot mi onghelet,</l>
+<l>Ic moet u spreken, bi Mahoen!</l>
+</sp>
+<sp><speaker>                <i>Damiet</i>.</speaker>
+<l n="260">Vader, dat willic gherne doen.</l>
+<l>Nu segt mi, wats u ghebot?</l>
+</sp>
+<sp><speaker>                <i>De coninc</i>.</speaker>
+<l>Dami&euml;t, bi minen god,</l>
+<l>Anesiet hier desen roeden mont,</l>
+<l>Desen jonghelinc, dit es een vont,</l>
+<l n="265">Mamet heeften mi verleent.</l>
+<l>Ic hoerden daer hi hadde gheweent:</l>
+<l>Daer ic in die boegaert wandelen ginc,</l>
+<l>Daer vandic desen jonghelinc</l>
+<l><edition n="9"/>Onder enen cederenboem.</l>
+<l n="270">Dami&euml;t, nu nemes goem</l>
+<l>Ende houtten op als uwen broeder;</l>
+<l><milestone unit="fol" n="172vb"/> Ghi moet sijn suster ende moeder,</l>
+<l>Esmoreyt het dese jonghen man.</l>
+</sp>
+<sp><speaker>                <i>Damiet</i>.</speaker>
+<l>Vader here, bi Tervogant,</l>
+<l n="275">Noit en sach ic scoender kint.</l>
+<l>Heeften ons Mamet ghesent,</l>
+<l>Dies willic hem dancken ende Apolijn;</l>
+<l>Ic wil gerne suster ende moeder sijn.</l>
+<l>O uutvercoren jonghe figuere,</l>
+<l n="280">Du best die scoenste criatuere,</l>
+<l>Die ic met oghen nie ghesach.</l>
+<l>Met rechten ic Mamet dancken mach,</l>
+<l>Dat ic sal hebben enen broeder;</l>
+<l>Ic wil gerne sijn suster ende moeder.</l>
+<l n="285">O Esmoreit, wel scone jonghelinc,</l>
+<l>Hoe sere verwondert mi dese dinc,</l>
+<l>Dat ghi waert vonden sonder hoede,</l>
+<l>Want ghi dunct mi van edelen bloede</l>
+<l>Bi den ghewaden die ghi hebt an.</l>
+<l n="290">Nu comt met mi, wel scoene man,</l>
+<l>Ic sal u als minen broeder doen.</l>
+</sp>
+<sp><speaker>                <i>De kersten coninc</i>.</speaker>
+<l>Waer sidi, Robberecht, neve coen?</l>
+<l>Comt tot mi, ic moet u spreken.</l>
+<l>Mi dunct dat mi mijn herte sal breken</l>
+<l n="295">Van groten rouwe die mi gaet an.</l>
+</sp>
+<sp><speaker>                <i>Robbrecht</i>.</speaker>
+<l>Ay oem, hoghe gheboren man,</l>
+<l>Waer bi sidi al dus ontstelt?</l>
+</sp>
+<sp><speaker>                <i>De coninc</i>.</speaker>
+<l>Van rouwen benic alsoe ghequelt,</l>
+<l>Dat ic duchte dat mi mijn herte sal scoeren:</l>
+<l n="300">Mijn scoene kint hebbic verloren,</l>
+<l><edition n="10"/>Esmoreyt den sone mijn!</l>
+<l>Ay, ic en mochte niet droever sijn,</l>
+<l>Al haddic verloren in dier ghelijc</l>
+<l>Mijn goet ende oec mijn conincrijc,</l>
+<l n="305">Daer omme en woudic droeven twint,</l>
+<l><milestone unit="fol" n="173ra"/> Haddic behouden mijn scoene kint.</l>
+<l>Ay mi! ay mi! den bitteren rouwe,</l>
+<l>Die ic nu lide ende oec mijn vrouwe!</l>
+<l>Ic duchte, het sal mi costen dlijf</l>
+<l n="310">Ochte mijn vrouwe, dat edel wijf;</l>
+<l>Si heeften rouwe int herte soe groet.</l>
+<l>Mi dunct, ic ware mi liever doot</l>
+<l>Dan ic soude liden dit torment.</l>
+</sp>
+<sp><speaker>                <i>Robbrecht</i>.</speaker>
+<l>Ay! edel oem, wide bekint,</l>
+<l n="315">Nu en wilt u aldus niet mesbaren.</l>
+<l>Ic weet wel hoe daer es ghevaren:</l>
+<l>Al drijft mijn moeye den rouwe soe groot,</l>
+<l>Sine heeft daer af ghene noet;</l>
+<l>Dat weet ic te voren wel.</l>
+<l n="320">Haer herte dat es tuwaert fel,</l>
+<l>Om dat ghi out sijt van daghen.</l>
+<l>Ic hebt haer dic wel hoeren claghen,</l>
+<l>Dat si van mi niet en wijst.</l>
+<l>Ic duchte, si u noch met haerre list,</l>
+<l n="325">Her coninc oem, sal nemen dleven.</l>
+<l>Si sal u seker noch vergheven;</l>
+<l>Dat weet ic te voren wale.</l>
+<l>Ic hebbe soe menechwerf haer tale</l>
+<l>Ghehoert in heimeliker stont;</l>
+<l n="330">Nochtan en ghewoeghs nie mijn mont</l>
+<l>Meer dan u te deser ure.</l>
+<l>Ic weet wel, si heeft die creatuere</l>
+<l>Selve ter doot brocht,</l>
+<l>Want si u noit wel en mocht,</l>
+<l n="335">Om dat ghi hebt enen grauwen baert.</l>
+<l>Si es op ene ander vaert,</l>
+<l>Si mint seker enen jonghen man.</l>
+</sp>
+<sp><speaker>                <i>De coninc</i>.</speaker>
+<l>Bi den vader die mi ghewan,</l>
+<l><edition n="11"/>Robbrecht neve, wistic dat,</l>
+<l n="340">Haer en soude ghehulpen bede no scat,</l>
+<l>Ic en soudse doeden, dat felle wijf.</l>
+</sp>
+<sp><speaker>                <i>Robbrecht</i>.</speaker>
+<l>Oem, daer settic vore mijn lijf,</l>
+<l><milestone unit="fol" n="173rb"/> Dat ic u segghe en eest niet waer.</l>
+<l>Ic hebt gheweten over menech jaer,</l>
+<l n="345">Dat si u niet en es van herten vrient.</l>
+</sp>
+<sp><speaker>                <i>De coninc</i>.</speaker>
+<l>O wi! ende waer hebbic dies verdient?</l>
+<l>Met rechte ic dat wel claghen mach.</l>
+<l>Mi dochte dat ic enen ingel sach,</l>
+<l>Als ic anesach haer edel lijf;</l>
+<l n="350">Ende es soe wreet dat felle wijf?</l>
+<l>Seker, neve, dat wondert mi.</l>
+<l>Nu gaet henen ende haeltse mi,</l>
+<l>Ic moetse emmer spreken hoeren.</l>
+</sp>
+<sp><speaker>                <i>Robbrecht</i>.</speaker>
+<l>Waer sidi, vrouwe hoghe gheboren?</l>
+<l n="355">Comt toten coninc minen oem!</l>
+<l>Och edel vrouwe, nemt sijns goem,</l>
+<l>Want hi staet al buten kere.</l>
+</sp>
+<sp><speaker>                <i>De vrouwe</i>.</speaker>
+<l>Ay her coninc, edel here,</l>
+<l>Wie sal ons nu hulpen claghen</l>
+<l n="360">Den bitteren rouwe die wi draghen,</l>
+<l>Dat wi hebben verloren ons kint!</l>
+</sp>
+<sp><speaker>                <i>De coninc</i>.</speaker>
+<l>Swijt, van gode soe moetti sijn ghescint,</l>
+<l>Felle pute, quade vrouwe,</l>
+<l>Al den druc ende den rouwe</l>
+<l n="365">Dat hebdi mi alte male ghedaen;</l>
+<l>Dat sal u te quade vergaen,</l>
+<l>Want ict al gader hebbe vernomen,</l>
+<l>Hoe die saken toe sijn comen:</l>
+<l>Ghi hebdt die moert allene ghewracht,</l>
+<l n="370">Mijn scoene kint hebdi versmacht;</l>
+<l><edition n="12"/>Dat sal u seker costen dlijf.</l>
+<l>Ghi sijt wel dat quaetste wijf,</l>
+<l>Die nie ter werelt lijf ontfinc.</l>
+</sp>
+<sp><speaker>                <i>De vrouwe</i>.</speaker>
+<l>Och edel here, edel coninc,</l>
+<l n="375"><milestone unit="fol" n="173va"/> Hoe soudic dat vinden in mijn herte,</l>
+<l>Dat ic hem doen soude eneghe smerte,</l>
+<l>Die ic te mijnder herten droech?</l>
+</sp>
+<sp><speaker>                <i>De coninc</i>.</speaker>
+<l>Swijt, quade vrouwe, hets ghenoech</l>
+<l>Ghesproken, ic en wils nemmeer hoeren.</l>
+<l n="380">Ic sal u in enen put versmoren.</l>
+<l>Robbrecht, leitse mi ghevaen!</l>
+</sp>
+<sp><speaker>                <i>De vrouwe</i>.</speaker>
+<l>God die hem ane ene cruce liet slaen,</l>
+<l>Die soe moet mi nu verdinghen</l>
+<l>Ende te mijnder ontscout bringhen,</l>
+<l n="385">Want ic hier af niet en weet.</l>
+</sp>
+<sp><speaker>                <i>Robbrecht</i>.</speaker>
+<l>Seker, vrouwe, hets mi leet.</l>
+</sp>
+<sp><speaker>                <i>De vrouwe</i>.</speaker>
+<l>Ay god, ontfermt u dit swaer torment,</l>
+<l>Daer ic in ben, want ic hebbe mijn kint</l>
+<l>Verloren, ende men tijcht mi ane die daet.</l>
+<l n="390">Ay, gheweldich god, daer al an staet,</l>
+<l>Ghi waert sonder verdiente ende sonder scout</l>
+<l>Vaste ghenaghelt ane ene hout,</l>
+<l>Oetmoedech god, met naghelen dri,</l>
+<l>Ontfermhertich god, nu biddic di,</l>
+<l n="395">Dat die waerheit noch werde vernomen</l>
+<l>Ende ic te mijnder ontscout noch moet comen:</l>
+<l>Dies biddic u, hemelsche coninghinne.</l>
+<l>Ay, salic nu in minen sinne</l>
+<l>Bliven, dat sal wonder sijn.</l>
+<l n="400">Ay god, wie heeft sijn venijn</l>
+<l><edition n="13"/>Aldus swaerlike op mi ghescoten?</l>
+<l>Ay god, uut u soe comt ghevloten</l>
+<l>Alle recht ende alle waerheit:</l>
+<l>Nu hulpt mi noch te minen besceit,</l>
+<l n="405">Dat ic ontsculdich moet vonden sijn.</l>
+</sp>
+<sp><speaker>                <i>De jonghelinc</i>.</speaker>
+<l>O Tervogant ende Apolijn,</l>
+<l><milestone unit="fol" n="173vb"/> Hoe mach mijn suster, dat edel wijf,</l>
+<l>Ghehebben alsoe reine lijf,</l>
+<l>Dat si ghenen man en mint</l>
+<l n="410">Noch in heydenesse ne genen en kint,</l>
+<l>Die si woude hebben tot enen man?</l>
+<l>Bi minen god Tervogan,</l>
+<l>Si heeft emmer een edel natuere,</l>
+<l>Ofte si mint ene creatuere</l>
+<l n="415">Heimelike, daer ic niet af en weet;</l>
+<l>Want si en es emmer niet bereet</l>
+<l>Tot eneghe man die nu leeft.</l>
+<l>Ic waent haer Mamet al ingheeft,</l>
+<l>Dat si heeft soe edelen aert.</l>
+<l n="420">Dit es mijnder liever suster bogaert,</l>
+<l>Hier plecht haer wandelinghe te sijn.</l>
+<l>Bi minen god Apolijn,</l>
+<l>Ic wilder mi oec in vermeiden gaen,</l>
+<l>Want die vaec comt mi aen;</l>
+<l n="425">Ic wil hier slapen ende nemen rast.</l>
+</sp>
+<sp><speaker>                <i>De jonge vrouwe Dami&euml;t</i>.</speaker>
+<l>Ay mi, ay mi, hoe groten last</l>
+<l>Dragic al stille int herte binnen!</l>
+<l>Ic ben bevaen met sterker minnen,</l>
+<l>Die ic heimelijc in mijn herte draghe.</l>
+<l n="430">O Apolijn, ic u dat claghe,</l>
+<l>Dat mijn herte enen man soe mint,</l>
+<l>Nochtan dat sijs niet en kint</l>
+<l>Sijn gheboerte noch sijn gheslacht;</l>
+<l>Maer het doet der minnen cracht:</l>
+<l n="435">Si heeft mi vast in haerren bant.</l>
+<l>Ay, doene mijn vader vant</l>
+<l><edition n="14"/>Ende bracht mi den jonghelinc</l>
+<l>Ende gaffen mi als vondelinc,</l>
+<l>Dat ic soude sijn suster ende moeder</l>
+<l n="440">Hi waent dat hi es mijn broeder,</l>
+<l>Maer hi en bestaet mi twint.</l>
+<l>Nochtan hebbickenne ghemint</l>
+<l>Boven alle creatueren,</l>
+<l>Want hi es edel van natueren</l>
+<l n="445">Ende oec van enen hoghen moede;</l>
+<l>Hi es coenlijc, van edelen bloede,</l>
+<l>Al was hi te vondelinghe gheleit;</l>
+<l>Mijn herte mi van binnen seit,</l>
+<l>Dat hi es hoghe gheboren.</l>
+<l n="450"><milestone unit="fol" n="174ra"/> O Esmoreit uutvercoren,</l>
+<l>Edel ende vroem, scoene wigant,</l>
+<l>Doen u mijn lieve vader vant,</l>
+<l>Dies es leden bi ghetale</l>
+<l>Achtien jaer, dat weet ic wale,</l>
+<l n="455">Hebdi gheweest mijn minnekijn.</l>
+<l>O uutvercoren deghen fijn,</l>
+<l>Ewelijc blivic in dit verdriet,</l>
+<l>Want ic en wils u ghewaghen niet;</l>
+<l>Dadict, mijn vader name mi dlijf.</l>
+</sp>
+<sp><speaker>                <i>De jonghelinc</i>.</speaker>
+<l n="460">O uutvercoren edel wijf,</l>
+<l>Ende benic dan een vondelinc?</l>
+<l>Ic waende mijn here de coninc,</l>
+<l>Edel wijf, hadde ghesijn mijn vader</l>
+<l>Ende ghi mijn suster, dat wendic al gader,</l>
+<l n="465">Ende beide gheweest van enen bloede.</l>
+<l>Ay! mi es nu alsoe wee te moede!</l>
+<l>Bi minen gode Tervogan,</l>
+<l>Ic ben wel die druefste man,</l>
+<l>Die nie ter werelt lijf ontfinc.</l>
+<l n="470">Ay mi, benic dan een vondelinc?</l>
+<l>Op erde nie droever man en waert.</l>
+<l>Ic waende sijn gheboren van hoger aert,</l>
+<l>Maer mi dunct ic ben een vont.</l>
+<l>Nu biddic u, edel roede mont,</l>
+<l n="475">Dat ghi mi al gader segt</l>
+<l>Van inde toerde en al ontdect,</l>
+<l>Hoe dat mi u vader vant.</l>
+</sp>
+<sp><speaker><pb n="15"/>                 <i>De jonghe joncfrou Dami&euml;t</i>.</speaker>
+<l>O Esmoreit, wel scoene wigant,</l>
+<l>Nu benic wel alsoe droeve als ghi.</l>
+<l n="480">Ic en wijst niet dat ghi mi waert so bi,</l>
+<l>Doen ic sprac die droeve tale.</l>
+<l>O edel wigant, nu nemet wale:</l>
+<l>Het quam mi uut groter minnen vloet.</l>
+</sp>
+<sp><speaker>                <i>De jonghelinc</i>.</speaker>
+<l>O edel wijf, nu maect mi vroet,</l>
+<l n="485">Hoe die saken comen sijn.</l>
+<l>Ic plach te segghen: "suster mijn",</l>
+<l><milestone unit="fol" n="174rb"/> Maer dat moetic nu verkeren.</l>
+<l>Enen anderen sanc moetic nu leren,</l>
+<l>Edel wijf, ende spreken u an</l>
+<l n="490">Ghelijc enen vremden man.</l>
+<l>Nochtan soe moetic ewelijc bliven</l>
+<l>U vrient ende ghetrouwe boven allen wiven,</l>
+<l>Die op der erden sijn gheboren.</l>
+<l>Och edel wijf, nu laet mi hoeren</l>
+<l n="495">Ende segt mi waer ic vonden waert.</l>
+</sp>
+<sp><speaker>                <i>De jonghe joncfrou Dami&euml;t</i>.</speaker>
+<l>Och edel jonghelinc van hogher aert,</l>
+<l>Na dien dat ghi hebt ghehoert,</l>
+<l>Soe willict u vertrecken voert,</l>
+<l>Waer dat u mijn vader vant:</l>
+<l n="500">In sinen boegaert, scoene wigant,</l>
+<l>Daer hi hem verwandelen ginc.</l>
+</sp>
+<sp><speaker>                <i>De jonghelinc</i>.</speaker>
+<l>Och edel wijf, berecht mi ene dinc:</l>
+<l>En hoerdi daer na noit ghewaghen</l>
+<l>Vrouwen oft joncfrouwen in horen claghen,</l>
+<l n="505">Dat iement een kint hadde verloren?</l>
+</sp>
+<sp><speaker>                <i>De jonghe joncfrou Dami&euml;t</i>.</speaker>
+<l>O edel jonghelinc uutvercoren,</l>
+<l>Daer af en hebbic niet ghehoert.</l>
+</sp>
+<sp><speaker>                <i>De jonghelinc</i>.</speaker>
+<l>Ay! soe ben ic van cleinder gheboert,</l>
+<l><edition n="16"/>Dat duchtic, ofte uut verren lande.</l>
+<l n="510">Mamet laete mi noch die scande</l>
+<l>Verwinnen, dat ic weten moet,</l>
+<l>Wie mi desen lachter doet,</l>
+<l>Dat ic te vondelinghe was bracht.</l>
+<l>Nu en willic nemmermeer van enen nacht</l>
+<l n="515">Ten anderen verbeiden, ic en hebbe vernomen,</l>
+<l>Van wat gheslachte dat ic ben comen</l>
+<l>Ende wie dat mijn vader si.</l>
+</sp>
+<sp><speaker>                <i>De jonge joncfrou Dami&euml;t</i>.</speaker>
+<l>O Esmoreit, nu blijft bi mi!</l>
+<l><milestone unit="fol" n="174va"/> Ic bids u in die ere van allen vrouwen.</l>
+<l n="520">Storve mijn vader, ic soude u trouwen,</l>
+<l>Edel wigant, tot enen man,</l>
+<l>Esmoreit, so moghdi dan</l>
+<l>Sijn van Damast gheweldich here.</l>
+</sp>
+<sp><speaker>                <i>De jonghelinc</i>.</speaker>
+<l>O edel vrouwe, die onnere</l>
+<l n="525">En sal u nemmermeer ghescien;</l>
+<l>Dien lachter moet verre van u vlien,</l>
+<l>Dat ghi sout nemen enen vondelinc.</l>
+<l>U vader es een hoghe coninc</l>
+<l>Ende daer toe sidi soe scoene;</l>
+<l n="530">Ghi mocht met rechten draghen croene</l>
+<l>Voer elken man die nu leeft.</l>
+<l>Mijn herte van groten scaemde beeft,</l>
+<l>Dat ic al dus hebbe ghevaren.</l>
+</sp>
+<sp><speaker>                <i>De jonge joncfrou Dami&euml;t</i>.</speaker>
+<l>O Esmoreit, laet u mesbaren!</l>
+<l n="535">Dies biddic u, edel wigant.</l>
+<l>Al waest dat u mijn vader vant,</l>
+<l>Dan werd u nemmermeer verweten.</l>
+<l>Met groten vrouden onghemeten</l>
+<l>Selen wi leven, ic ende ghi.</l>
+</sp>
+<sp><speaker>                <i>De jonghelinc</i>.</speaker>
+<l n="540">O edel wijf, dies moetic mi</l>
+<l>Ewelijc van u beloven.</l>
+<l>Maer nemmermee en willic hoven</l>
+<l>Met eneghe wive, die nu leeft</l>
+<l>Ofte die de werelt binnen heeft,</l>
+<l n="545"><pb n="17"/> Ic en sal tierst, bi Tervogan,</l>
+<l>Den vader kinnen, die mi wan,</l>
+<l>Ende oec die moeder, die mi droech.</l>
+<l>O roede mont, ic hebbe ghenoech</l>
+<l>Hier ghelet, ic wille gaen varen.</l>
+</sp>
+<sp><speaker>                <i>De jonge joncfrou Dami&euml;t</i>.</speaker>
+<l n="550">O wi! nu machic wel mesbaren:</l>
+<l>Ic blive allene in dit verdriet.</l>
+<l><milestone unit="fol" n="174vb"/> Vele spreken en doech emmer niet,</l>
+<l>Dat soe hebbic ondervonden;</l>
+<l>Vele spreken heeft in meneghen stonden</l>
+<l n="555">Dicwile beraden toren;</l>
+<l>Bi vele spreken es die menege verloren.</l>
+<l>Haddic ghesweghen al stillekijn,</l>
+<l>Soe haddic in vrouden moghen sijn</l>
+<l>Bi Esmoreit al mijn leven,</l>
+<l n="560">Dien ic met spreken hebbe verdreven.</l>
+<l>Met rechte machic roepen: "olas,</l>
+<l>O wi, dat ic niet stom en was,</l>
+<l>Doen ic sprac dit droeve woert."</l>
+</sp>
+<sp><speaker>                <i>De jonghelinc</i>.</speaker>
+<l>O edel wijf, nu willic voert.</l>
+<l n="565">Mamet beware u reine lijf!</l>
+<l>Nu biddic u, wel edel wijf,</l>
+<l>Groet mi den coninc minen here,</l>
+<l>Want ic en sal keren nemmermere,</l>
+<l>Ic en hebbe vonden mijn gheslacht</l>
+<l n="570">Ende oec den ghenen, die mi bracht</l>
+<l>Daer ic te vondelinghe was gheleit.</l>
+</sp>
+<sp><speaker>                <i>De jonge joncfrou Dami&euml;t</i>.</speaker>
+<l>O scoene jonghelinc Esmoreit,</l>
+<l>Nu biddic u doer oetmoet,</l>
+<l>Als ghi van uwer saken sijt vroet,</l>
+<l n="575">Dat ghi dan wederkeert tot mi.</l>
+</sp>
+<sp><speaker>                <i>De jonghelinc</i>.</speaker>
+<l>O scoene joncfrouwe van herten vri,</l>
+<l>Dan salic laten nemmermeer,</l>
+<l>Ic en sal met enen corten keer,</l>
+<l><edition n="18"/>Edel wijf, tot u comen,</l>
+<l n="580">Als ic die waerheit hebbe vernomen,</l>
+<l>Bi minen god Tervogant.</l>
+</sp>
+<sp><speaker>                <i>De jonge joncfrou Dami&euml;t</i>.</speaker>
+<l>O Esmoreit, nemet desen bant;</l>
+<l>Hier in soe waerdi ghewonden,</l>
+<l>Esmoreit, doen ghi waert vonden;</l>
+<l n="585"><milestone unit="fol" n="175ra"/> Edel jonghelinc, dies gheloeft.</l>
+<l>Ghi selten winden omtrent u hoeft,</l>
+<l>Ende voerten alsoe openbaer</l>
+<l>Op avontuere, of iement waer</l>
+<l>Die u kinnen mochte daer an,</l>
+<l n="590">Ende peinst om mi, wel scoene man,</l>
+<l>Want ic blive in groter sorghen.</l>
+</sp>
+<sp><speaker>                <i>De jonghelinc</i>.</speaker>
+<l>Mijn god, die niet en es verborghen,</l>
+<l>Die moet nu mijn troester sijn!</l>
+<l>O Mamet ende Apolijn,</l>
+<l n="595">Mahoen ende Tervogan,</l>
+<l>Dese scoene wapen die hier staen an,</l>
+<l>Mochten si toe behoren mi,</l>
+<l>Soe waer ic int herte wel vri,</l>
+<l>Dat ic ware van edelen bloede.</l>
+<l n="600">Mi es emmer alsoe te moede,</l>
+<l>Om dat ic lach daer in ghewonden,</l>
+<l>Doen ic te vondelinghe was vonden,</l>
+<l>Ic bender seker af gheboren;</l>
+<l>Mijn herte seghet mi te voren,</l>
+<l n="605">Want ic daer in ghewonden lach.</l>
+<l>Ic nemmermeer vroude ghewinnen en mach,</l>
+<l>Ic en hebbe vonden mijn gheslachte;</l>
+<l>Ende die mi oec te vondelinghe brachte,</l>
+<l>Ic souts hem danken, bi Apolijn.</l>
+<l n="610">Ay, mochtic noch vader ende moeder mijn</l>
+<l>Scouwen, soe waer mi therte verclaert;</l>
+<l>Ende waren si dan van hogher aert,</l>
+<l>Soe waer ic te male van sorgen vri.</l>
+</sp>
+<sp><speaker>                <i>Sine moeder</i>.</speaker>
+<l>O edel jonghelinc, nu comt tot mi</l>
+<l n="615"><pb n="19"/> Ende sprect jeghen mi een woert,</l>
+<l>Want ic hebbe u van verre ghehoert</l>
+<l>Jammerlijc claghen u verdriet.</l>
+</sp>
+<sp><speaker>                <i>De jonghelinc</i>.</speaker>
+<l>O scoene vrouwe, wats u ghesciet,</l>
+<l>Dat ghi al dus lict in dit prisoen?</l>
+</sp>
+<sp><speaker>                <i>Sine moeder</i>.</speaker>
+<l n="620"><milestone unit="fol" n="175rb"/> O edel jonghelinc van herten coen,</l>
+<l>Aldus moetic ligghen ghevaen,</l>
+<l>Nochtan en hebbic niet mesdaen,</l>
+<l>Dant mi verraderen al doet.</l>
+<l>O scoene kint, nu maect mi vroet:</l>
+<l n="625">Hoe sidi comen in dit lant</l>
+<l>Ende wie gaf u dien bant?</l>
+<l>Berecht mi dat, wel scoene jonchere.</l>
+</sp>
+<sp><speaker>                <i>De jonghelinc</i>.</speaker>
+<l>Bi Mamet minen here,</l>
+<l>Vrouwe, dan sal ic u weigheren niet.</l>
+<l n="630">Wi moghen mallec anderen ons verdriet</l>
+<l>Claghen, want ghi sijt ghevaen,</l>
+<l>Ende groet verdriet es mi ghedaen,</l>
+<l>Want ic te vondelinghe was gheleit,</l>
+<l>Ende desen bant in gherechter waerheit</l>
+<l n="635">Daer soe lachic in ghewonden,</l>
+<l>Lieve vrouwe, doen ic was vonden,</l>
+<l>Ende voeren al dus openbaer</l>
+<l>Op avontuere, oft iement waer,</l>
+<l>Die mi kinnen mochte daer an.</l>
+</sp>
+<sp><speaker>                <i>Sine moeder</i>.</speaker>
+<l n="640">Nu segt mi, wel scoene man,</l>
+<l>Wetti iet, waer ghi vonden waert?</l>
+</sp>
+<sp><speaker>                <i>De jonghelinc</i>.</speaker>
+<l>O lieve vrouwe, in enen boegaert</l>
+<l>Te Damast in ware dinc,</l>
+<l>Daer soe vant mi die coninc,</l>
+<l n="645">Die mi opghehouden heeft.</l>
+</sp>
+<sp><speaker>                <i>Sine moeder</i>.</speaker>
+<l>Ay god die alle doeghden gheeft,</l>
+<l><edition n="20"/>Die moet sijn ghebenedijt!</l>
+<l>Van herten benic nu verblijdt,</l>
+<l>Dat ic gheleeft hebbe den dach,</l>
+<l n="650">Dat ic mijn kint anescouwen mach.</l>
+<l>Mijn herte mochte wel van vrouden breken:</l>
+<l>Ic sie mijn kint ende ic hoert spreken,</l>
+<l>Daer ic om lide dit swaer tormint.</l>
+<l><milestone unit="fol" n="175va"/> Sijt willecome, wel lieve kint,</l>
+<l n="655">Esmoreit, ic ben u moeder</l>
+<l>Ende ghi mijn kint, dies sijt vroeder,</l>
+<l>Want ic maecte metter hant,</l>
+<l>Esmoreit, selve dien bant;</l>
+<l>Daer in soe haddic u ghewonden,</l>
+<l n="660">Esmoreit, doen ghi waert vonden</l>
+<l>Ende ghi mi ghenomen waert.</l>
+</sp>
+<sp><speaker>                <i>De jonghelinc</i>.</speaker>
+<l>O lieve moeder, segt mi ter vaert,</l>
+<l>Hoe heet die vader, die mi wan?</l>
+</sp>
+<sp><speaker>                <i>Sine moeder</i>.</speaker>
+<l>Dats van Cecili&euml;n die hoghe man</l>
+<l n="665">Es u vader, scoene jonghelinc,</l>
+<l>Ende van Hongheri&euml;n die coninc</l>
+<l>Es die lieve vader mijn;</l>
+<l>Ghi en mocht niet hogher gheboren sijn</l>
+<l>Int kerstenrijc verre noch bi.</l>
+</sp>
+<sp><speaker>                <i>De jonghelinc</i>.</speaker>
+<l n="670">O lieve moeder, nu segt mi,</l>
+<l>Waer omme lighdi al dus ghevaen?</l>
+</sp>
+<sp><speaker>                <i>Sine moeder</i>.</speaker>
+<l>O lieve kint, dat heeft ghedaen</l>
+<l>Een verrader valsch ende quaet,</l>
+<l>Die uwen vader gaf den raet,</l>
+<l n="675">Dat ic u selve hadde versmoert.</l>
+</sp>
+<sp><speaker>                <i>De jonghelinc</i>.</speaker>
+<l>O wi der jammerliker moert!</l>
+<l>Die dat mijn vader den coninc riet,</l>
+<l>Bracht mi oec in dit verdriet,</l>
+<l>Dat ic te vondelinghe was gheleit.</l>
+<l n="680">Ay, ende of ic die waerheit</l>
+<l><edition n="21"/>Wijste, wie dat hadde ghedaen,</l>
+<l>Die doot soude hi daer omme ontfaen,</l>
+<l>Bi minen god Apolijn.</l>
+<l><milestone unit="fol" n="175vb"/> Ay lieve moeder mijn,</l>
+<l n="685">Nu en willic langer beiden niet,</l>
+<l>Ic wil u corten dit verdriet.</l>
+<l>Aen minen vader den hogen baroen,</l>
+<l>Dat hi u bringhe uut desen prisoen,</l>
+<l>Dat sal mine ierste bede sijn.</l>
+<l n="690">Danc hebbe Mamet ende Apolijn,</l>
+<l>Ende die sceppere, die mi gewrachte,</l>
+<l>Dat ic hebbe vonden mijn gheslachte</l>
+<l>Ende oec die moeder, die mi droech.</l>
+<l>Mijn herte met rechte in vrouden loech,</l>
+<l n="695">Doen ic anesach die moeder mijn.</l>
+</sp>
+<sp><speaker>                <i>Sine moeder</i>.</speaker>
+<l>Oetmoedech god, nu moetti sijn</l>
+<l>Gheloeft, ghedanct in allen stonden</l>
+<l>Mijn lieve kint hebbic nu vonden,</l>
+<l>Die mi nu verloesten sal</l>
+<l n="700">Want die vroude es sonder ghetal,</l>
+<l>Die nu mijn herte van binnen drijft.</l>
+</sp>
+<sp><speaker>                   <i>Robbrecht</i>.</speaker>
+<l>O wi, enen dief, die men ontlijft,</l>
+<l>En mochte niet soe droeve ghesijn</l>
+<l>Als ic nu ben int herte mijn,</l>
+<l n="705">Want ic duchte grote scanden.</l>
+<l>Haddickene doot met minen handen,</l>
+<l>Doen ickenne vercocht, soe waer hi doot.</l>
+<l>Ay! ic hebbe den anxt soe groet,</l>
+<l>Dat mi daer af sal comen toren,</l>
+<l n="710">Want comet uut, ic ben verloren,</l>
+<l>Dat icken vercochte den Sarrasijn.</l>
+</sp>
+<sp><speaker>                <i>De kersten coninc</i>.</speaker>
+<l>Gaet henen, Robberecht neve mijn,</l>
+<l>Tot mijnder vrouwen, der coninghinnen,</l>
+<l>Die ic ewelijc met herten moet minnen</l>
+<l n="715"><pb n="22"/> Ende oec bliven onderdaen,</l>
+<l>Want icxse ghehouden hebbe ghevaen</l>
+<l>Sonder verdiente ende buten scout;</l>
+<l>Dat rout mijnder herten menichfout,</l>
+<l>Dat ic haer hebbe gheweest soe wreet.</l>
+<l n="720"><milestone unit="fol" n="176ra"/> Gaet henen ende haeltse mi ghereet,</l>
+<l>Ende laetse haer scoene kint anscouwen.</l>
+</sp>
+<sp><speaker>                <i>Robbrecht</i>.</speaker>
+<l>Her coninc here, in rechter trouwen,</l>
+<l>Dat willic alte gherne doen.</l>
+<l>Comt, edel vrouwe, uut desen prisoen,</l>
+<l n="725">Daer ghi dus langhe in hebt gelegen.</l>
+<l>Ghi selt anesien den jonghen degen,</l>
+<l>Esmoreit den jonghelinc.</l>
+<l>Mijn herte van binnen vroude ontfinc,</l>
+<l>Doen ic anesach den scoenen wigant.</l>
+</sp>
+<sp><speaker>                <i>De kersten coninc</i>.</speaker>
+<l n="730">O edele vrouwe, gheeft mi u hant</l>
+<l>Ende wilt mi dese mesdaet vergheven,</l>
+<l>Want ic ewelijc al mijn leven</l>
+<l>Soe willic u dienere sijn,</l>
+<l>Want die scouden die sijn mijn;</l>
+<l n="735">Dat hebbic nu wel vernomen,</l>
+<l>Want Esmoreit ons kint es comen,</l>
+<l>Een scoen volwassen jonghelinc.</l>
+<l>Ic bidde u om gode, die ontfinc</l>
+<l>Die doot van minnen, vergevet mi.</l>
+</sp>
+<sp><speaker>                <i>De vrouwe</i>.</speaker>
+<l n="740">O edel here van herten vri,</l>
+<l>Ic wils u al te gherne vergheven,</l>
+<l>Want alle minen druc es achterbleven</l>
+<l>Ende al mijn toren ende al mijn leit.</l>
+<l>Waer es mijn lieve kint Esmoreit?</l>
+<l n="745">Roepten mi voert ende laetten mi sien.</l>
+</sp>
+<sp><speaker>                <i>Robbrecht</i>.</speaker>
+<l>Och edel vrouwe, dat sal u ghescien.</l>
+<l>Waer sidi, Esmoreit, neve mijn?</l>
+</sp>
+<sp><speaker><pb n="23"/>                 <i>De jonghelinc</i>.</speaker>
+<l>Ic ben hier, bi Apolijn.</l>
+<l>O Mamet ende Mahoen,</l>
+<l n="750">Lieve vader, hoghe baroen,</l>
+<l>Die moet u gheven goeden dach</l>
+<l><milestone unit="fol" n="176rb"/> Ende oec mijnder moeder, die ic noit en sach</l>
+<l>Meer dan nu te deser tijt.</l>
+<l>Ic ben al mijnder droefheit quijt,</l>
+<l n="755">Die ic in mijn herte ontfinc.</l>
+<l>Doen ic vernam dat ic een vondelinc</l>
+<l>Was, doen waert ic die droefste man,</l>
+<l>Die nie ter werelt lijf ghewan,</l>
+<l>Maer het es mi al ten besten vergaen.</l>
+</sp>
+<sp><speaker>                <i>De kersten coninc, sijn vader</i>.</speaker>
+<l n="760">O Esmoreit, doet mi nu verstaen</l>
+<l>Ende segt mi, waer hebdi ghewoent?</l>
+</sp>
+<sp><speaker>                <i>De jonghelinc</i>.</speaker>
+<l>Met enen coninc, die es ghecroent</l>
+<l>Te Damast, her vader mijn.</l>
+<l>Hi es een edel Sarrasijn,</l>
+<l n="765">Die vant mi in sinen bogaert,</l>
+<l>Ende hi heeft een dochter van hoger aert,</l>
+<l>Die mi soe blidelijc ontfinc.</l>
+<l>Doen mi haer vader die coninc</l>
+<l>Vant, doen wert si mijn moeder</l>
+<l n="770">Ende hielt mi op als haren broeder,</l>
+<l>Daer icxse ewelijc om minnen moet.</l>
+<l>Die heeft mi al ghemaect vroet,</l>
+<l>Hoe dat mi haer vader vant,</l>
+<l>Ende dat ic lach in desen bant,</l>
+<l n="775">Doen haer vader mi haer brachte.</l>
+</sp>
+<sp><speaker>                <i>De vrouwe</i>.</speaker>
+<l>Dits die bant, die ic selve wrachte,</l>
+<l>Esmoreit, wel scoene man.</l>
+<l>Ic setter uus vader wapen an,</l>
+<l>Men macht noch sien in drie paerti&euml;n,</l>
+<l n="780">Ende oec die wapen van Hongheri&euml;n,</l>
+<l>Om dat ghi daer uut sijt gheboren.</l>
+<l>Soe haddic u soe uut vercoren,</l>
+<l>Dat icken maecte tuwer eren,</l>
+<l>Dat mi ter droefheit moeste verkeren,</l>
+<l n="785"><pb n="24"/> Esmoreit, doen ic u verloes.</l>
+<l>Ic bidde gode, die sijn cruce coes,</l>
+<l>Dat hijt hem te recht wille vergheven,</l>
+<l>Die mi anedede dat bitter leven,</l>
+<l>Daer ic soe langhe in hebbe ghesijn.</l>
+</sp>
+<sp><speaker><milestone unit="fol" n="176va"/>                 <i>De jonghelinc</i>.</speaker>
+<l n="790">O lieve moeder, bi Apolijn,</l>
+<l>En was nie ondaet noch moert,</l>
+<l>Si en moeten comen voert,</l>
+<l>Ende in dinde werden si gheloent.</l>
+</sp>
+<sp><speaker>                <i>Robbrecht</i>.</speaker>
+<l>Bi den here, die was ghecroent</l>
+<l n="795">Met eenre croenen van doerijn,</l>
+<l>Esmoreit neve mijn,</l>
+<l>Wistict wie dat hadde ghedaen,</l>
+<l>Die doot soude hi daer omme ontfaen,</l>
+<l>Ofte hi ontsoncke mi in die eerde;</l>
+<l n="800">Ic soudene seker met minen sweerde</l>
+<l>Dooden ofte nemen dlijf.</l>
+<l>Ay mi, oft ic den keytijf</l>
+<l>Wiste, die u den lachter dede,</l>
+<l>Hi en soude mi niet in kerstenhede</l>
+<l n="805">Ontsitten, hi ware seker doot.</l>
+</sp>
+<sp><speaker>                <i>De vrouwe</i>.</speaker>
+<l>Nu willen wi leven in vrouden groet</l>
+<l>Ende alle droefheit willen wi vergheten,</l>
+<l>Want met vrouden onghemeten</l>
+<l>Soe es mijn herte nu bevaen.</l>
+</sp>
+<sp><speaker>                <i>De coninc</i>.</speaker>
+<l n="810">Esmoreit sone, nu laet ons gaen</l>
+<l>Ende laet ons met vrouden sijn.</l>
+<l>Maer Mamet ende Apolijn,</l>
+<l>Die soe moetti nu verti&euml;n,</l>
+<l>Ende ghelove ane Mari&euml;n</l>
+<l n="815">Ende ane god den oversten vader,</l>
+<l>Die ons ghemaect heeft alle gader,</l>
+<l>Ende al dat in die werelt leeft</l>
+<l>Met sijnre const ghemaect heeft;</l>
+<l><edition n="25"/>Die sonne ende mane, dach ende nacht</l>
+<l n="820">Heeft ghemaect met sijnder cracht</l>
+<l>Ende oec hemel ende ertrijc</l>
+<l>Ende loef ende gras in dier ghelijc;</l>
+<l>Daer soe moetti gheloven an.</l>
+</sp>
+<sp><speaker><milestone unit="fol" n="176vb"/>                 <i>De jonghelinc</i>.</speaker>
+<l>Vader here, soe biddic hem dan,</l>
+<l n="825">Den oversten god van den troene,</l>
+<l>Dat hi Dami&euml;t die scoene</l>
+<l>Beware boven al dat leeft,</l>
+<l>Want si mi opghehouden heeft;</l>
+<l>Daer omme eest recht, dat icse minne,</l>
+<l n="830">Van Damast die jonghe coninghinne,</l>
+<l>Dami&euml;t dat edel wijf.</l>
+<l>Ay god, bewaert haer reine lijf,</l>
+<l>Want si es noyael ende goet.</l>
+<l>Met rechten dat icse minnen moet</l>
+<l n="835">Boven alle die leven op eertrijc;</l>
+<l>En dadicx niet, soe haddic onghelijc,</l>
+<l>Want si es mi van herten vrient.</l>
+</sp>
+<sp><speaker>                <i>Robbrecht</i>.</speaker>
+<l>Esmoreit neve, dats goet verdient.</l>
+<l>Nu willen wi alle droefheit vergheten.</l>
+<l n="840">Met bliden moede willen wi gaen eten,</l>
+<l>Want die tafel es bereit.</l>
+</sp>
+<sp><speaker>                <i>De jonge joncfrou Dami&euml;t</i>.</speaker>
+<l>Ay, ende waer mach Esmoreit</l>
+<l>Merren, dat hi niet en comt?</l>
+<l>Ic duchte, dat hi es verdoemt</l>
+<l n="845">Ochte ghestorven quader doot,</l>
+<l>Ofte hi es in vrouden groet,</l>
+<l>Dat hi mi dus heeft vergheten.</l>
+<l>Ic sal nochtan die waerheit weten,</l>
+<l>Hoe die saken met hem staen,</l>
+<l n="850">Al soudic daer om die werelt doer gaen.</l>
+<l>Waer sidi, Platus, meester vroet?</l>
+</sp>
+<sp><speaker>                <i>De meester</i>.</speaker>
+<l>Edel vrouwe, ghetrouwe ende goet,</l>
+<l>Tot uwen dienste ben ic bereit.</l>
+</sp>
+<sp><speaker><pb n="26"/>                 <i>De jonge joncfrou Dami&euml;t</i>.</speaker>
+<l>Meester, nu willic Esmoreit</l>
+<l n="855">Gaen soeken van lande te lande,</l>
+<l><milestone unit="fol" n="177ra"/> Al soudic daer omme liden scande</l>
+<l>Ende hongher ende dorst ende jeghenspoet.</l>
+<l>Het es ene dinc dat wesen moet:</l>
+<l>Gherechte minne dwinct mi daer tu.</l>
+<l n="860">Lieve meester, nu biddic u,</l>
+<l>Dat ghijs mi niet af en gaet,</l>
+<l>Ghi en blijft bi mi ende gheeft mi raet,</l>
+<l>Hoe dat wine vinden moghen.</l>
+</sp>
+<sp><speaker>                <i>De meester</i>.</speaker>
+<l>Vrouwe, nu sijt in goeden hoghen;</l>
+<l n="865">Na dien dat ghijs begheert</l>
+<l>Ende ghi den jonghelinc hebdt soe weert,</l>
+<l>Soe willen wi soeken den hoeghen man.</l>
+</sp>
+<sp><speaker>                <i>De jonge joncfrou Dami&euml;t</i>.</speaker>
+<l>Platus meester, gawi dan</l>
+<l>Ghelijc of wi waren pilgherijm.</l>
+<l n="870">Ay, en sal hier iement sijn</l>
+<l>Die ons beiden iet sal gheven:</l>
+<l>Twe pilgherijms, die sijn verdreven</l>
+<l>Ende vanden roevers afgheset?</l>
+</sp>
+<sp><speaker>                <i>De jonghelinc</i>.</speaker>
+<l>Ay, daer hoeric Dami&euml;t</l>
+<l n="875">Spreken. Hoerdicse nie?</l>
+<l>O weerde maghet sente Marie,</l>
+<l>Ende hoe ghelijc soe sprect si hare,</l>
+<l>Dami&euml;t der scoender care,</l>
+<l>Van Damast die scoene coninghinne,</l>
+<l n="880">Die ic boven alle vrouwen minne,</l>
+<l>Die op der eerden sijn gheboren.</l>
+<l>Nu sprect op ende laet mi hoeren,</l>
+<l>Ghi sprect haer boven maten ghelijc.</l>
+</sp>
+<sp><speaker>                <i>De jonge joncfrou Dami&euml;t</i>.</speaker>
+<l>Waer ic te Damast int conincrijc,</l>
+<l n="885">Esmoreit wel scoene man,</l>
+<l><edition n="27"/>Soe soudic haer bat gheliken dan,</l>
+<l>Maer nu sta ic als een pilgherijm.</l>
+</sp>
+<sp><speaker><milestone unit="fol" n="177rb"/>                 <i>De jonghelinc</i>.</speaker>
+<l>O Dami&euml;t, vrouwe mijn,</l>
+<l>Ende sidi dit, wel edel wijf?</l>
+<l n="890">Mijn herte, mijn ziele ende mijn lijf</l>
+<l>Met rechten in vrouden leven mach,</l>
+<l>Want ic nie liever gast en sach,</l>
+<l>Die noit op eertrike was gheboren.</l>
+<l>Och edel wijf, nu laet mi hoeren:</l>
+<l n="895">Hoe sidi comen in dit lant?</l>
+</sp>
+<sp><speaker>                <i>De jonge joncfrou Dami&euml;t</i>.</speaker>
+<l>O Esmoreit, wel scoene wigant,</l>
+<l>Mi dochte ic hadde u gherne gesien,</l>
+<l>Maer en mochte mi niet ghescien,</l>
+<l>Ic en moeste daer omme liden pijn.</l>
+<l n="900">Doen maectic mi als een pilgherijm</l>
+<l>Ende come al dus ghedoelt doer dlant,</l>
+<l>Ende nam Platus metter hant,</l>
+<l>Dat hi soude mijn behoeder sijn.</l>
+</sp>
+<sp><speaker>                <i>De jonghelinc</i>.</speaker>
+<l>Waer sidi, lieve vader mijn?</l>
+<l n="905">Comt tot hier, ghi moetse scouwen,</l>
+<l>Die vol minnen ende vol trouwen</l>
+<l>Haer herte tote miwaert draecht.</l>
+<l>Het es recht dat si mi behaecht:</l>
+<l>Si heeft soe vele doer mi ghedaen.</l>
+</sp>
+<sp><speaker>                <i>De coninc</i>.</speaker>
+<l n="910">Soe willicse met blider herten ontfaen.</l>
+<l>Sijt willecome, Dami&euml;te wel scoene,</l>
+<l>Ghi selt in Cecili&euml;n crone</l>
+<l>Draghen boven al die leven.</l>
+<l>Ic salse minen sone opgheven,</l>
+<l n="915">Ende ghi selt seker werden sijn wijf,</l>
+<l>Want ic hebbe soe ouden lijf,</l>
+<l>Dat icse nemmeer ghedragen en can.</l>
+</sp>
+<sp><speaker>                <i>Robbrecht</i>.</speaker>
+<l>Her coninc oem, bi sente Jan,</l>
+<l>Esmoreit hi es wel weert,</l>
+<l n="920"><pb n="28"/><milestone unit="fol" n="177va"/> Hi wert een ridder wide vermeert</l>
+<l>Ende die de wapene wel hantiert.</l>
+<l>Desen raet dunct mi goet gevisiert,</l>
+<l>Dat hi die crone van u ontfa.</l>
+<l>Dami&euml;t, nu comt hier na,</l>
+<l n="925">Ghi selt werden jonge coninghinne.</l>
+</sp>
+<sp><speaker>                <i>De meester</i>.</speaker>
+<l>Hulpt Mamet, dat ic niet uut minen sinne</l>
+<l>En come, dat verwondert mi.</l>
+<l>O Esmoreit, edel ridder vri,</l>
+<l>Die man brachte u in al dit verdriet.</l>
+<l n="930">Wat hi u seght, hine meines niet,</l>
+<l>Hi hevet tuweert al valschen gront.</l>
+<l>Ic cochte u jeghen hem om dusent pont</l>
+<l>Van finen goude, die ic hem gaf.</l>
+</sp>
+<sp><speaker>                <i>De jonghelinc</i>.</speaker>
+<l>Meester, nu segt mi daer af,</l>
+<l n="935">Hoe die saken gheleghen sijn.</l>
+</sp>
+<sp><speaker>                <i>De meester</i>.</speaker>
+<l>O Esmoreit, bi Apolijn,</l>
+<l>Dies es leden achtien jaer,</l>
+<l>Dat ic quam ghereden daer,</l>
+<l>Esmoreit, op die selve stede.</l>
+<l n="940">Nu hoert, wat die keitijf dede:</l>
+<l>Daer soude hi u seker hebben versmoert,</l>
+<l>Hi sprac tot u soe felle woert,</l>
+<l>Dat ghi hem sijn rike sout ondergaen;</l>
+<l>Ghi moeste hem emmer iet bestaen,</l>
+<l n="945">Dat hoerdic wel an sijn ghelaet.</l>
+</sp>
+<sp><speaker>                <i>De jonghelinc</i>.</speaker>
+<l>Meester, vertrect mi alden staet,</l>
+<l>Dies biddic u uuter maten sere,</l>
+<l>Want ic sta al buten kere,</l>
+<l>Dat ic die waerheit niet en weet,</l>
+<l n="950">Die mijnre moeder dat groete leet</l>
+<l>Ende mi dien lachter mocht anedoen.</l>
+</sp>
+<sp><speaker>                <i>De meester</i>.</speaker>
+<l><milestone unit="fol" n="177vb"/> O Esmoreit, bi Mahoen,</l>
+<l>Het heeft ghedaen die selve man.</l>
+<l><edition n="29"/>Bi minen god Tervogan,</l>
+<l n="955">Hi soude u hebben ghenomen dlijf,</l>
+<l>Want hi vermaets hem die keitijf.</l>
+<l>Ic hoeret ende sprac hem aen</l>
+<l>Ende seide hem, het ware quaet ghedaen,</l>
+<l>Dat hi soude dooden den jongen voeght,</l>
+<l n="960">Alsoe dat ic u jeghen hem cocht</l>
+<l>Om dusent pont van goude roet.</l>
+</sp>
+<sp><speaker>                <i>De jonghelinc</i>.</speaker>
+<l>Bi den here die mi gheboet,</l>
+<l>Die ondaet sal ghewroken sijn,</l>
+<l>Eer ic sal eten of drincken wijn.</l>
+<l n="965">Nu moetti uwen indach doen.</l>
+<l>Waer sidi vader, hoghe baroen,</l>
+<l>Ende Robberecht die mordenaer?</l>
+</sp>
+<sp><speaker>                <i>Robbrecht</i>.</speaker>
+<l>Bi desen here, dan es niet waer!</l>
+<l>Esmoreit, neve mijn,</l>
+<l n="970">Ic hebbe oit goet ende getrouwe gesijn,</l>
+<l>In was noit moerdenaer no verrader.</l>
+</sp>
+<sp><speaker>                <i>De jonghelinc</i>.</speaker>
+<l>Swijt, pute soene, het es noch quader</l>
+<l>Die ondaet, die ghi hebdt gewracht.</l>
+<l>Hoe quam dat nie in u ghedacht</l>
+<l n="975">Te vercopen uwes selfs geboren bloet,</l>
+<l>Ende maket minen vader vroet,</l>
+<l>Dat mijn moeder hadde ghedaen?</l>
+</sp>
+<sp><speaker>                <i>Robbrecht</i>.</speaker>
+<l>Daer willic in een crijt voer gaen,</l>
+<l>Esmoreit wel coene wigant,</l>
+<l n="980">Es hier enech man int dlant,</l>
+<l>Die mi dat wilt ti&euml;n an.</l>
+</sp>
+<sp><speaker>                <i>De meester</i>.</speaker>
+<l>Swijt al stille, quaet tieran,</l>
+<l><milestone unit="fol" n="178ra"/> Ghi soutten hebben doot ghesteken,</l>
+<l>En haddi mi niet hoeren spreken,</l>
+<l n="985">Daer ic ten aenganghe quam gereden.</l>
+<l><edition n="30"/>Ic en was nie soe wel te vreden</l>
+<l>Als dat icken jeghen u cochte om gelt.</l>
+<l>Ic gaeft u al onghetelt</l>
+<l>In een foertsier, was yvorijn.</l>
+<l n="990">Noch soude ment vinden in uwe scrijn,</l>
+<l>Daer willic onder setten mijn lijf.</l>
+</sp>
+<sp><speaker>                <i>De jonghelinc</i>.</speaker>
+<l>Ay mi, Robberecht, fel keitijf!</l>
+<l>Met rechten ic u wel haten mach.</l>
+<l>Ghi selt nu hebben uwen doemsdach,</l>
+<l n="995">Al die werelt en holpe u niet.</l>
+</sp>
+<stage><i>Robbrecht hanct men hier</i>.</stage>
+<sp><speaker>                <i>De jonghelinc noch</i>.</speaker>
+<l>Aldus eest menechwerf gesciet:</l>
+<l>Quade werken comen te quaden loene,</l>
+<l>Maer reine herten spannen croene,</l>
+<l>Die vol doeghden sijn ende vol trouwen.</l>
+<l n="1000">Daer omme radic, heren ende vrouwen,</l>
+<l>Dat ghi u herte in doeghden stelt,</l>
+<l>Soe werdi in dinde met gode verselt</l>
+<l>Daer boven in den hoghen troene,</l>
+<l>Daer die ingelen singhen scoene.</l>
+<l n="1005">Dies onne ons die hemelsche vader!</l>
+<l>Nu segt Amen alle gader.</l>
+<l parse="ignore">                <i>Amen</i>.</l>
+</sp>
+<p>.X&supc;. viij. V&sups;.</p>
+<sp><speaker>                <i>De meester</i>.</speaker>
+<l>God, die neme ons allen in hoeden.</l>
+<l>Nu hoert, ghi wise ende ghi vroede;</l>
+<l>Hier soe moghdi merken ende verstaen,</l>
+<l n="1010">Hoe Esmoreit ene wrake heeft gedaen</l>
+<l>Over Robbrecht sinen neve al hier ter stede.</l>
+<l>Elc blive sittene in sinen vrede,</l>
+<l>Niemen en wille thuusweert gaen;</l>
+<l>Ene sotheit sal men u spelen gaen,</l>
+<l n="1015"><milestone unit="fol" n="178rb"/> Die cort sal sijn, doe ic u weten.</l>
+<l>Wie hongher heeft, hi mach gaen eten;</l>
+<l>Ende gaet alle dien graet neder.</l>
+<l>Ghenoeghet u, soe comt alle mergen weder.</l>
+</sp>
+</text>
+<!--</ENTRY>
+--></TEI.2>

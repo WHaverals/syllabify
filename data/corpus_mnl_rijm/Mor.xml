@@ -1,0 +1,4742 @@
+<?xml version='1.0'?><!DOCTYPE TEI.2 PUBLIC '-//TEI P4//DTD Main Document Type//EN' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd' [<!ENTITY % TEI.prose 'INCLUDE'><!ENTITY % TEI.linking 'INCLUDE'><!ENTITY % TEI.figures 'INCLUDE'><!ENTITY % TEI.analysis 'INCLUDE'><!ENTITY % TEI.corpus 'INCLUDE'><!ENTITY % TEI.XML 'INCLUDE'><!NOTATION TEI-XML PUBLIC 'TEI P4' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd'><!-- internal INL dtd --><!ELEMENT b (#PCDATA)><!ELEMENT l (#PCDATA | b)*><!-- end of internal INL dtd -->]><TEI.2><!--<ENTRY id="i582"><teiHeader><fileDesc><titleStmt><title>Roman van Moriaen</title>
+</titleStmt>
+<interpGrp type="pubYear_from"><interp value="1300"/></interpGrp>
+<interpGrp type="witnessYear_from"><interp value="1300"/></interpGrp>
+<interpGrp type="pubYear_to"><interp value="1350"/></interpGrp>
+<interpGrp type="witnessYear_to"><interp value="1350"/></interpGrp>
+<TITEL>Roman van Moriaen</TITEL>
+<author>Onbekend</author>
+<AARD>Rijm</AARD>
+<BRON nr="K87">'s-Gravenhage, Koninklijke Bibliotheek, 129 A 10</BRON>
+<DATUM>1300-1350</DATUM>
+<OMVANG>4716 verzen</OMVANG>
+<BRON.OPM>Het handschrift staat bekend als de zgn. Haagse Lancelot-codex. Deze bevat in totaal 2+241+2 bladen en per blad 3 kolommen. Het totaal aantal verzen bedraagt 87296. De Roman van Moriaen bevindt zich op fol. 116-128. De codex bevat achtereenvolgens: Boek II: het vervolg van de Roman van Lancelot (fol. 1-99, vs. 1-36947), Roman van Perchevael (fol. 100-115, vs. 36951-42546), Roman van Moriaen (fol. 116-128, vs. 42547-47262); Boek III: Queeste van den Grale (fol. 129-158vc, vs. 1-11160), Wrake van Ragisel (verkorte versie) (fol. 158vc-166, vs. 11161-14580), Roman van den riddere metter mouwen (verkorte versie) (fol. 167-177, vs. 14581-18602), Walewein ende Keye (fol. 178-187, vs. 18603-22270), Lanceloet en het hert met de witte voet (fol. 188-190rb, vs. 22271-23126), Roman van Torec (fol. 190rc-200, vs. 23127-26980); Boek IV: Arturs doet (fol. 201-238, vs. 1-13054). Boek I met het begin van de Roman van Lancelot is verloren gegaan.</BRON.OPM>
+<EDITIE>W.J.A. Jonckbloet (ed.): Roman van Lancelot, (XIIIe eeuw). Naar het (eenig-bekende) handschrift der Koninklijke Bibliotheek, op gezag van het gouvernement uitgegeven. 's-Gravenhage, 1846-1849. dl. 1, 284-316.</EDITIE>
+<STATUS>Kritisch</STATUS>
+<BRONMNW>797</BRONMNW>
+<BRONMNW>919 (andere editie)</BRONMNW>
+<EDITIE.OPM>Er is gebruik gemaakt van de gedigitaliseerde versie van Jonckbloets uitgave die tot stand kwam aan de KU Nijmegen. Deze elektronische versie bevat enkele kleine verschillen met de editie van Jonckbloet. Niet overgenomen werden: het trema, het uitroepteken, de clausstreep en het commentaar "(sic)"; voorts springt de tekst nergens in. </EDITIE.OPM>
+<BRONNEN>'s-Gravenhage, Koninklijke Bibliotheek, 129 A 10</BRONNEN>
+</fileDesc>
+</teiHeader>
+--><text>
+<l><edition n="284"/>Ons maect cont die aventure</l>
+<l>Van enen riddere nu ter ure,</l>
+<l>Die Moriaen was geheten.</l>
+<l>42550 Som die boeke doen ons weten</l>
+<l>Dat hi Perchevals sone was,</l>
+<l>Ende som boke secgen oec das,</l>
+<l>Dat hi was Acglavaels soene,</l>
+<l>Perchevaels broder was die goene,</l>
+<l>42555 Ende so was hi Perchevaels broder kint;</l>
+<l><edition n="285"/>Want men wel ter waerheit vint</l>
+<l>Dat Perchevael ende mede Galaet</l>
+<l>Beide bleven, dat wel verstaet,</l>
+<l>Maget doet biden grale.</l>
+<l>42560 Om dit secgic van Perchevale,</l>
+<l>Dat sijn sone nine mach wesen;</l>
+<l>Maer ic hebbe in boken gelesen</l>
+<l>Dat Moriaen was sijns broder sone.</l>
+<l>Ende an ene morinne was die gone</l>
+<l>42565 Gewonnen; ende oec ten selven tide</l>
+<l>Dat Acglavael sochte wide ende side</l>
+<l>Lancelote, die verloren was,</l>
+<l>Alsmen hier te voren las.</l>
+<l>Ic wane die gene di Lancelote maecte,</l>
+<l>42570 Dat hem in sijn dichten vaecte,</l>
+<l>Dat hi vergat ende achterliet</l>
+<l>Van Moriane dat scone bediet.</l>
+<l>Mi wondert wies si hen onderwinden</l>
+<l>Die dichten wilt ende rimen vinden,</l>
+<l>42575 Sine volbrachten daer af die tale.</l>
+<l>Die coninc Artur sat tenen male</l>
+<l>In Bertangen ende hilt hof</l>
+<l>Om te merre sinen lof;</l>
+<l>Ende daer die hoge liede saten</l>
+<l>42580 Over die tafle ende aten</l>
+<l>Quam een riddere in gereden.</l>
+<l>Het was in Arturs tiden seden</l>
+<l>Datmen gene porte sloet</l>
+<l>Noch weder cleine no groet;</l>
+<l>42585 Waer so die coninc hilt hof</l>
+<l>Wie so wilde ginc in ende of.</l>
+<l>Dus quam die riddere in gevaren</l>
+<l>Daer die hoge liede waren.</l>
+<l>Al woude hi beetten hine mochte,</l>
+<l>42590 Hi was gewont so onsochte.</l>
+<l>Het stont den riddere herde onsiene;</l>
+<l>Hi hadde wonden meer dan tiene:</l>
+<l>Vander minstere en soude wesen</l>
+<l>Te rechte en geen man genesen.</l>
+<l>42595 Dus quam die riddere beraden</l>
+<l>Sine wapine ende sine gewaden,</l>
+<l>Ende sijn ors scone ende groet,</l>
+<l>Dat was al beverwet roet</l>
+<l>Algader met sijns selfs blode.</l>
+<l>42600 Den riddere was wee te mode,</l>
+<l>Ende hi was gewont onsochte;</l>
+<l>Nochtan groetti so hi best mochte</l>
+<l>Alle die heren vander zalen,</l>
+<l>Maer heme gebrac daer der talen:</l>
+<l>42605 Dat dede hem die sware smerte</l>
+<l>Vanden lede van sire herte.</l>
+<l>Ende min her Walewein, die dede</l>
+<l>Dicke menege hoveschede,</l>
+<l>Want hijs al sijn leven plach,</l>
+<l>42610 Tirst dat hi den ridder sach</l>
+<l>Spranc hi op al sonder beide</l>
+<l>Ende hivene uten gereide</l>
+<l>Ende setten vanden orsse op deerde,</l>
+<l>Den riddere dien so vele deerde.</l>
+<l>42615 Hine mochte sitten no gaen,</l>
+<l>Noch op sine vote gestaen.</l>
+<l>Doe dedene Walewein dragen,</l>
+<l>Daerne die hoge liede sagen,</l>
+<l>An dene side vander zale</l>
+<l>42620 Om te verhorne die tale</l>
+<l>Op ene coetse herde sochte.</l>
+<l>Doe hi met pinen spreken mochte</l>
+<l>Hiet hi datmen hem dade uut</l>
+<l>Al dat hi hadde, toter huut,</l>
+<l>42625 Ende datmenne warme decke</l>
+<l>Ende bereide ende berecke,</l>
+<l>Ende gave hem soppen in wijn claer.</l>
+<l>Her Walewein soude hem daer naer</l>
+<l>Begaden alsmen pleget wonden;</l>
+<l>42630 Men hadde niet te dien stonden</l>
+<l>Arsatere vonden alsoe goet,</l>
+<l>Alse verre als God de sonne scinen doet:</l>
+<l>Van dat hi hem wilde onderwinden</l>
+<l>Ende daer hi dlijf an conste vinden,</l>
+<l>42635 Dat en mochte niet bederven</l>
+<l>Noch van genen wonden sterven.</l>
+<l>Doe seide di riddere dire lach:</l>
+<l>"Wacharme. ende ic en mach</l>
+<l>Noch weder eten no drinken:</l>
+<l>42640 Di herte begint mi ontsinken,</l>
+<l>Di ogen beginnen mi vergaen.</l>
+<l>Ic vruchte ic sal sterven saen;</l>
+<l>Maer haddic gemogen leven,</l>
+<l>Ende mi God hadde gegeven</l>
+<l>42645 Soe dat sijt alle hadden geweten</l>
+<l>Die bi mi nu sijn geseten,</l>
+<l>Ic hadde gerne mine gedochte</l>
+<l>Geseit den coninc, daer icken om sochte</l>
+<l>Al ut ende ut, van inde torde,</l>
+<l>42650 Dat ic nine loge van enen worde</l>
+<l>Alsic best conde genomen.</l>
+<l>Noetsake dede mi hier comen."</l>
+<l>Doe seide Walewein die gode:</l>
+<l>"Her riddere, nu sijt al sonder hoede</l>
+<l>42655 Vander doet op desen tijt:</l>
+<l>Ic hope gi hebben selt respijt,</l>
+<l>Want ic salu hulpen sciere</l>
+<l>Doe trac hi ut sire aluwire</l>
+<l>Een cruet, dat was also goed,</l>
+<l>42660 Dattet stelpte mans bloet</l>
+<l>Ende verlichte al ongesonde.</l>
+<l>Hi staecs den riddere inden monde</l>
+<l>Ende deets hem eten allettelkijn.</l>
+<l>Doe verlichte therte sijn</l>
+<l>42665 Ende begonste drinken ende eten</l>
+<l>Ende sijns leets vele vergeten.</l>
+<l>Tirst dattie dinst was gedaen</l>
+<l>Quam die coninc Artur gegaen</l>
+<l>Toten riddere daer hi lach,</l>
+<l>42670 Ende seide: "God geve u goden dach,</l>
+<l>Live her riddere; maect mi cont,</l>
+<l>Wie heeft u dus sere gewont?</l>
+<l>Ende quaemt bi uwen scouden?</l>
+<l>Ende bleeft den riddere onvergouden,</l>
+<l>42675 Die u dede dit sware verdriet,</l>
+<l>Doe hi achters van u sciet?"</l>
+<l>Die riddere seide: "Ic maecs u vroet,"</l>
+<l>Toten coninc, die vor hem stoet.</l>
+<l>"Ic hebt gesekert ende gesworen:</l>
+<l>42680 Mijn eet en blieft niet verloren:</l>
+<l>Ic saelt u secgen over waer.</l>
+<l>Dies es leden seven jaer</l>
+<l>Dat ic onderginc van gode:</l>
+<l>Doe dwanc mi so deermode</l>
+<l>42685 Dat ic ne wiste wat verteren.</l>
+<l>Doe moestic mi met rove generen;</l>
+<l>Mine tienden waren vercocht,</l>
+<l>Ic hadde min goet al over brocht</l>
+<l>Ende min erve ende min leen,</l>
+<l>42690 Soe dat mi en bleef ne geen</l>
+<l>Van al dat mi min vader liet</l>
+<l>Doe hi vander werelt sciet.</l>
+<l>Mi en was een twint niet bleven:</l>
+<l>Ic hads vele dor Gode gegeven,</l>
+<l>42695 Want ic harde lange stonde</l>
+<l>Tornoye ende tafelronde,</l>
+<l>Daer ic min goet al verteerde.</l>
+<l>Wie soe smijns iet begerde,</l>
+<l>Waest dor dere, waest dor Gode,</l>
+<l>42700 Was hi knape, was hi bode,</l>
+<l>Hine keerde niet omberaden,</l>
+<l>In stont heme in staden</l>
+<l>Die iwent ane mi sochte,</l>
+<l>Tes ic min goet over brochte.</l>
+<l>42705 Doe moestic varen achter lande</l>
+<l><edition n="286"/>Ic moets lien, al eest scande,</l>
+<l>Wie so quam in min gemoet,</l>
+<l>Vordi penninge of ander goet,</l>
+<l>Waest pelegrim oft coepman,</l>
+<l>42710 Ic dede den raet dat ict gewan.</l>
+<l>Mi mochte lettel goeds ontgaen:</l>
+<l>Ic hebbe menege ondaet gedaen.</l>
+<l>Nu es leden die derde dach</l>
+<l>Dat ic voer om min bejach:</l>
+<l>42715 Een riddere quam in min gemoet.</l>
+<l>Sijn ors docht mi wesen goet,</l>
+<l>Dat ict begeerde vor alle dinc;</l>
+<l>Ende daer ic naden breidel vinc,</l>
+<l>Ende icken beten hiet op deerde,</l>
+<l>42720 Was hi gereet met sinen swerde,</l>
+<l>Ende gout mi so met enen slage,</l>
+<l>Dat ic vergat al mire mage</l>
+<l>Ende al dat mi nie toeginc,</l>
+<l>Sulc was di slach die ic ontfinc.</l>
+<l>42725 Wat ic mi keerde ter were</l>
+<l>En besloet mi niet ene pere,</l>
+<l>Sine slage waren so groet</l>
+<l>En wogen seerre dan loet.</l>
+<l>Hi dorsloech mi mine wapine,</l>
+<l>42730 Dats ter meneger stat in scine,</l>
+<l>Dor min lijf ende dor min been:</l>
+<l>Van mi ne droech hi slach ne geen,</l>
+<l>Die hem comen mochte te deren.</l>
+<l>Daer moestic hem sekeren ende sweren</l>
+<l>42735 Ende oec min trouwe geven,</l>
+<l>Om te lingene min leven,</l>
+<l>Dat ic tot u hier comen soude</l>
+<l>Also scire also houde</l>
+<l>Alsickere mochte geriden,</l>
+<l>42740 Ende langer niet ontbiden,</l>
+<l>Ende leveren mi u gevaen.</l>
+<l>Ende ic hebt also gedaen,</l>
+<l>Want ic come u te genaden</l>
+<l>Van allen minen mesdaden,</l>
+<l>42745 Die ic ter werelt nie gewrachte,</l>
+<l>Waest in daden, waest in gedochte."</l>
+<l>Doe seide die coninc: "Weetti iet</l>
+<l>Wie hi was, ende hoe hi hiet,</l>
+<l>Die u nu sinde hareward,</l>
+<l>42750 Ende hoe gedaen was sijn part,</l>
+<l>Oft wat tekene hi draget?"</l>
+<l>Die riddere seide: "Des gi mi vraget</l>
+<l>En canic u niet gemaken vroet;</l>
+<l>Maer hets al roet als een bloet,</l>
+<l>42755 Des ridders ors ende sine wapine;</l>
+<l>Ende hi es een Waloes in scine</l>
+<l>Bi sire talen ende bi al dien</l>
+<l>Dat icker ane conde gesien.</l>
+<l>Daer toe es sine macht so groet,</l>
+<l>42760 Ic waen men nigeren sine genoet</l>
+<l>Ne soude vinden in kerstenhede,</l>
+<l>Noch so goden riddere mede;</l>
+<l>Dat magic arme secgen wel,</l>
+<l>Dat mi dongeval gevel,</l>
+<l>42765 Dat ic quam in sijn gemoet</l>
+<l>Dor ander sake dan dor goet."</l>
+<l>Doe seide di coninc Artur voren</l>
+<l>Dat sijt alle mochten horen,</l>
+<l>Dat min her Perchevael ware.</l>
+<l>42770 Hi nam hem selven biden hare</l>
+<l>Ende traect sere van evelen moede,</l>
+<l>Ende sprac: "Al benic here van goede,</l>
+<l>Ic mach secgen vrindeloes.</l>
+<l>Sint ic Perchevallen verloes,</l>
+<l>42775 Dat magic secgen harde wel,</l>
+<l>Ende mi dongeval gevel</l>
+<l>Dat hi wille hadde ende gere</l>
+<l>Te sokene tgrael ende spere,</l>
+<l>Dat hi vinden nine can,</l>
+<l>42780 Heeft hi mi menegen ondegen man</l>
+<l>Te minen hove gesint gevaen</l>
+<l>Dor ondaet, dise hadden gedaen,</l>
+<l>Ende die hi met sire cracht dwanc;</l>
+<l>Nember moesten sijs hebben danc.</l>
+<l>42785 Nu ne hebbic ridder so gedaen,</l>
+<l>Die dor mi nu dar bestaen,</l>
+<l>Dat hi mi Perchevale sochte</l>
+<l>Ende te minen hove brochte.</l>
+<l>Ic benre sere gecrinct of</l>
+<l>42790 Ende min lant ende min hof,</l>
+<l>Dat ic sijns hebbe gedeert</l>
+<l>So lange: ic benre bi onteert.</l>
+<l>Dies benic oec boven mate</l>
+<l>Drove. "Doe sprac die drossate,</l>
+<l>42795 Her Keye: "Ic salne halen, Godweet,</l>
+<l>Wedert Perchevale si lief oft leet,</l>
+<l>Ende bringen hier tuwen hove,</l>
+<l>Dien gi priest van selken love.</l>
+<l>Nu geloves mire tale,</l>
+<l>42800 Al ware hi gegoten van metale</l>
+<l>Ic bringene levende ofte doet.</l>
+<l>Biden here die mi geboet.</l>
+<l>Her coninc, es dit u nu gnoech?"</l>
+<l>Doe stont Artur ende loech,</l>
+<l>42805 Ende alle die ridders, die horden</l>
+<l>Keyen secgen dese worden.</l>
+<l>Doe seide die coninc weder:</l>
+<l>"Her Keye, legt dese tale neder:</l>
+<l>Gi sout u scamen te rechte altoes</l>
+<l>42810 Daer gi horet nomen den Walois.</l>
+<l>Hebdi nu al rene vergeten</l>
+<l>Des gi u hier vore had vermeten,</l>
+<l>Gelijc dat gi hier nu doet,</l>
+<l>Ende gi quaemt in Perchevaels gemoet,</l>
+<l>42815 Doe gine een stic had gesocht?</l>
+<l>Dies waerdi harde ombedocht;</l>
+<l>Gi wanettene bringen jegen danc:</l>
+<l>Die riddere hine was niet so cranc,</l>
+<l>Hine stac u, dat u wel sceen</l>
+<l>42820 Dat gi braect u canefbeen,</l>
+<l>Ende dede u oec met onneren</l>
+<l>Beide die vote opwerd keren.</l>
+<l>Haddi gewilt, hi had u doet.</l>
+<l>Idel beroem es scande groet.</l>
+<l>42825 Ende hordic u meer gewagen</l>
+<l>Dat gi naden riddere jagen</l>
+<l>Wout, ic sout u weten ondanc.</l>
+<l>Hi acht luttel op u bedwanc:</l>
+<l>Daer moet een ander ombe riden,</l>
+<l>42830 Salic getroest werden ten tiden</l>
+<l>Van desen riddere nu ten dage."</l>
+<l>Her Walewein sprac: "Het scient ene sage,</l>
+<l>Her Keye, dat gi ons gewaget.</l>
+<l>Wanner dat een man daget</l>
+<l>42835 Ende dattene God so lange spart</l>
+<l>Dat gaet ten hondert jaren ward,</l>
+<l>So werd hi een deel onvroet.</l>
+<l>Also donct mi dat gi doet.</l>
+<l>Nu geloves mire tale:</l>
+<l>42840 Quaemdi noch an Perchevale,</l>
+<l>Ende leidi hem iet te voren</l>
+<l>Anders dan hi wilde horen,</l>
+<l>Biden here vanden trone,</l>
+<l>Gine dorstet willen om conincs crone,</l>
+<l>42845 Die hier here es vanden lande,</l>
+<l>Hi soude u doen so grote scande.</l>
+<l>Ic kinne so wale sine seden,</l>
+<l>Dies es lange wile leden:</l>
+<l>Wanneer hi es wel gemoet,</l>
+<l>42850 Ende men belgen nine doet,</l>
+<l>Soe es hi sachte als een lam;</l>
+<l>Maer alse menne maket gram</l>
+<l>Dan es hi tfreesselijcste diet,</l>
+<l>Dat God nie gewerden liet:</l>
+<l>42855 Dus gedaen sijn sine maniren.</l>
+<l><edition n="287"/>Hi es hovesch ende godertiren,</l>
+<l>Jegen arme ende jegen rike</l>
+<l>Ende jegen die werelt gemeinlike,</l>
+<l>Alsmenne belgen nine doet;</l>
+<l>42860 Maer alsmen verwandelt sinen moet</l>
+<l>Sone vondemen nigeren sine genoet."</l>
+<l>Alt selve seide her Lanceloet;</l>
+<l>Ende alle die waren in die zale</l>
+<l>Volgeden heren Waleweins tale</l>
+<l>42865 Ende gaven Perchevale lof.</l>
+<l>Daer was menech drove int hof</l>
+<l>Omden coninc haren here,</l>
+<l>Omdat hi hem mesliet so sere.</l>
+<l>Doe seide der aventuren vader:</l>
+<l>42870 "Bi ons heren macht algader,</l>
+<l>Ende bi hem selven namelike,</l>
+<l>Die here es in hemelrike,</l>
+<l>Nu ne licgic nembermee</l>
+<l>Boven enen nacht of twee,</l>
+<l>42875 In sal riden toten stonden</l>
+<l>Dat ic Perchevale hebbe vonden,</l>
+<l>Ofte dat ic hore enege niemare</l>
+<l>Waer dat hi becomen ware;</l>
+<l>Ende ic salne te hove bringen,</l>
+<l>42880 Welt hijs mi dan gehingen</l>
+<l>Ende hire met mi wille comen.</l>
+<l>In wille mi vorder niet beromen."</l>
+<l>Doe seide Artur: "Godeweet,</l>
+<l>Dits mi beide lief ende leet.</l>
+<l>42885 Gerne soudic Perchevale sien,</l>
+<l>Mochte mi tgeluc gescien;</l>
+<l>Ende qualike magic uwes ontberen.</l>
+<l>Dus hebbic bliscap ende deren;</l>
+<l>Maer trouwen, neve, dats mi leet,</l>
+<l>42890 Soudi breken uwen eet.</l>
+<l>Nu gereit u dor u doget,</l>
+<l>Ende rijt wech so gi irst moget,</l>
+<l>Ende soeket mi Perchivale."</l>
+<l>Doe spranc op met deser tale</l>
+<l>42895 Mijn her Lanceloet van Lac:</l>
+<l>Hi quam doe vort ende sprac,</l>
+<l>Ende seide hi sout aventuren</l>
+<l>Ende nemen dats hem mochte geburen,</l>
+<l>Ende Perchevale soeken varen</l>
+<l>42900 In allen landen harentaren;</l>
+<l>"Ende magic gevinden den ridder fier,</l>
+<l>Opdat ic mach, ic bringen hier.</l>
+<l>Ic sal mi gereiden ende henen riden:</l>
+<l>Ic wille langer niet ontbiden;</l>
+<l>42905 Mi donct ane des conincs tale,</l>
+<l>Hine hebbe Perchevale</l>
+<l>Hi sal werden uten kere.</l>
+<l>Ic sal wech riden dor sine ere."</l>
+<l>Doe seide Artur die coninc:</l>
+<l>42910 "Her Lanceloet, van derre dinc</l>
+<l>Soe waent u bat beraden.</l>
+<l>Het mochte mi lichte sere scaden</l>
+<l>Souden mi mine ridders ontriden,</l>
+<l>Ende quamic in orlogen ende in striden,</l>
+<l>42915 Alsic dicke hebbe gedaen,</l>
+<l>Het mochte mi lichte te quade vergaen.</l>
+<l>Ic hadde lant ende crone verloren</l>
+<l>Over menegen dach te voren,</l>
+<l>En hadden mine ridders gewesen:</l>
+<l>42920 Bi hen benic al genesen."</l>
+<l>Doe seide min her Lanceloet:</l>
+<l>"Biden here, die mi geboet,</l>
+<l>Ende ten joncsten dage sal domen,</l>
+<l>Come datter af mach comen,</l>
+<l>42925 Sint dat Walewein henen rijt,</l>
+<l>Ic ben die na hem niet ontbijt;</l>
+<l>Ic sal proven omme geval</l>
+<l>Ende aventuren al jegen al</l>
+<l>Wat dat ic van Gode houde,</l>
+<l>42930 Want hi sochte mi met gewoude</l>
+<l>Doe ic was in hemeliker stede,</l>
+<l>Ende brachte mi te hove oec mede.</l>
+<l>Om dat benic hen sculdech trowe."</l>
+<l>Het weende al, vrowe ende joncfrowe</l>
+<l>42935 Ende ridderen ende knapen tien tiden,</l>
+<l>Om dat Lanceloet wech wilde riden.</l>
+<l>Her Walewein die ne vergat niet</l>
+<l>Dat hi den gewonden riddere behiet,</l>
+<l>Dat hine wel soude genesen;</l>
+<l>42940 Ende ginc daer hi lach mettesen,</l>
+<l>Ende verbant hem al sine wonden,</l>
+<l>Ende begadese soe tien stonden,</l>
+<l>Dat si genasen eer iet lanc.</l>
+<l>Het moeste genesen an sinen danc</l>
+<l>42945 Daer hi die hant ane dede.</l>
+<l>Alle die vanden hove mede</l>
+<l>Waren drove om haer vermeten.</l>
+<l>Daer was des avons lettel geten</l>
+<l>Om die heren, die tien tiden</l>
+<l>42950 Smargens wilden henen riden.</l>
+<l>Nu selewi swigen van deser clagen</l>
+<l>Ende van Waleweine vort sagen,</l>
+<l>Ende van Lancelote nu ter steden,</l>
+<l>Die nu beide en wege reden.</l>
+<l>42955 Daventure doet ons gewach:</l>
+<l>Des margens alst was dach</l>
+<l>Voren si wech alle beide</l>
+<l>Menege wustine, menege heide</l>
+<l>Ende hoge berge ende dale</l>
+<l>42960 Om te vindene Perchevale;</l>
+<l>Maer dats pine jegen spoet:</l>
+<l>Sine mochtens niet wesen vroet.</l>
+<l>Des hadden si menech swaer verdach.</l>
+<l>Ende recht opten negenden dach</l>
+<l>42965 Quam een ridder jegen hen gereden</l>
+<l>Op een ors van sconen leden,</l>
+<l>Ende wel gewapent daer toe.</l>
+<l>Hi was al sward, ic segt u hoe:</l>
+<l>Sijn hoeft, lichame ende hande</l>
+<l>42970 Was al sward, sonder sine tande;</l>
+<l>Ende wapine ende scilt, sekerlijc,</l>
+<l>Was al enen moer gelijc,</l>
+<l>Ende alse sward alse een raven.</l>
+<l>Hi dede sijn ors serre draven</l>
+<l>42975 Ende lopen sere mettien.</l>
+<l>Doen hi die ridders hadde versien,</l>
+<l>Tirst dat hise hadde gemoet,</l>
+<l>Ende deen den andere gegroet,</l>
+<l>Sprac hi te Lancelote saen:</l>
+<l>42980 "Riddere, nu doet mi verstaen</l>
+<l>Van ere dinc, die ic begere,</l>
+<l>Oft wacht u jegen min spere;</l>
+<l>Ic wille weten die waerhede.</l>
+<l>Ic sal u secgen minen sede:</l>
+<l>42985 Wat riddere daer ic come an,</l>
+<l>Al ware hi starker dan vif man,</l>
+<l>Ende ict wiste wel te voren,</l>
+<l>In liet dor vaer no dor toren,</l>
+<l>In soude jegen hem vechten,</l>
+<l>42990 Ofte hi soude mi berechten.</l>
+<l>Bericht mi, ridder, bi uwer trouwen,</l>
+<l>Anders maget u wel berouwen,</l>
+<l>Die beste waerheit die gi wet,</l>
+<l>Dat ic u sal vragen, ende nine let."</l>
+<l>42995 Doe seide min her Lanceloet:</l>
+<l>"Ic ware mi vele liver doet</l>
+<l>Dan mi een ridder dwingen soude</l>
+<l>Van dies ic doen nine woude.</l>
+<l>Die lachter en gesciet mi heden:</l>
+<l>43000 Oft gi wilt, volget uwer seden,</l>
+<l>Ic vechte houder dan ict late</l>
+<l>Om te vellen uwe onmate;</l>
+<l>Want ic begere niet den vrede.</l>
+<l>Ic wille noch heden u onsede</l>
+<l>43005 Vellen, oftic sterve inden wille."</l>
+<l><edition n="288"/>Die swerte hi en hilt niet stille,</l>
+<l>Die op Lancelote was erre:</l>
+<l>Hi omhaelde sinen loep verre</l>
+<l>Ende verrechte sijn spere,</l>
+<l>43010 Alse die te vechten hevet gere.</l>
+<l>Mijn her Walewein hilt besiden</l>
+<l>Daer die andere souden striden,</l>
+<l>Ende pensde in sinen moet,</l>
+<l>Alse die hovesch was ende vroet,</l>
+<l>43015 Dattet ware dorperhede</l>
+<l>Ende geens goeds ridders sede</l>
+<l>Datmen enen ridder verlode</l>
+<l>Ende meer dan een man bestode,</l>
+<l>Hine sage dat an sijn leven ginge:</l>
+<l>43020 Dan ward tijt dat hijt anevinge</l>
+<l>Ende stonde sinen vrient te staden,</l>
+<l>Oft hine te sere sage verladen.</l>
+<l>Hier bi hilt Walewein al stille</l>
+<l>Als een di vechten nine wille</l>
+<l>43025 Noch breken die gerechte wet;</l>
+<l>Nochtan waende Walewein bet</l>
+<l>Dat ware die duvel dan een man</l>
+<l>Daer si waren comen an,</l>
+<l>Maer dat hine horde nomen Gode</l>
+<l>43030 Men had hem niet mogen ontstriden ode</l>
+<l>Hine ware di duvel oft sijn geselle</l>
+<l>Ende ware comen uter hellen,</l>
+<l>Omdat sijn ors was so groet,</l>
+<l>Ende hi was merre dan Lanceloet,</l>
+<l>43035 Ende daertoe sward, alsict seide.</l>
+<l>Dus quamen si te gadere beide,</l>
+<l>Die riddere ende her Lanceloet.</l>
+<l>Manlijc hadde een spere groet:</l>
+<l>Si brakense ontwe alse riet,</l>
+<l>43040 Maer manlijc en velde anderen niet.</l>
+<l>Si bleven op harre orsse beide:</l>
+<l>Elc trac tswerd uter sceide,</l>
+<l>Ende gingen hen daer onderslaen.</l>
+<l>En had God selve niet gedaen,</l>
+<l>43045 Si waren scire bleven doet,</l>
+<l>Haer slage waren soe groet,</l>
+<l>Te rechte souts geen man genesen.</l>
+<l>Al had middernacht gewesen</l>
+<l>Ende alse donker alst noit was,</l>
+<l>43050 Men mochte blomen ende gras</l>
+<l>Hebben bekint vanden lichte:</l>
+<l>Die sparken vlogen so bedichte</l>
+<l>Uten helmen ende uten swerden,</l>
+<l>Ende vilen neder opter eerden.</l>
+<l>43055 Die smet di hare wapine wrochte,</l>
+<l>Ic secge hise nine mescochte,</l>
+<l>Hi verdiender meer goets an</l>
+<l>Dan Artur nie gewan</l>
+<l>Elken man talselker noet.</l>
+<l>43060 Die riddere ende her Lanceloet</l>
+<l>Deen wilde den anderen wiken niet</l>
+<l>Toter wilen datse sciet</l>
+<l>Her Walewein met sire bede,</l>
+<l>Ende hi elken achter trecken dede;</l>
+<l>43065 Want hem dochte jamber groet,</l>
+<l>Soude daer deen ontfaen di doet.</l>
+<l>Ende hi saget te voren wel;</l>
+<l>Hare slage waren so fel,</l>
+<l>Die si slogen met groten nide,</l>
+<l>43070 Het hadde geduert onlange tide</l>
+<l>Sine hadden sulke wonden ontfaen</l>
+<l>Dat over den enen hadde gegaen</l>
+<l>Ende lichte over hen beiden.</l>
+<l>Doense Walewein hadde gesceiden,</l>
+<l>43075 Diese beide moede gnoech sach,</l>
+<l>Hi spac an so hi irsten mach</l>
+<l>Toten swerten: "Hets onsede</l>
+<l>Dat gi pleget ende doet mede:</l>
+<l>Gi sijt hier af nu ontweget;</l>
+<l>43080 Haddi hoveschelike gevreget</l>
+<l>Daer u die sin toe hadde gedragen,</l>
+<l>Die riddere hads u gewagen</l>
+<l>Ende hads u bericht geerne,</l>
+<l>Dat wetic wel, ende niet te seerne.</l>
+<l>43085 Gi sijt dul ende oec ries,</l>
+<l>Ende deen sal bliven int verlies</l>
+<l>Van u beiden, gi ofte hi.</l>
+<l>Van desen soe ontsie ic mi,</l>
+<l>Gine toenter ander redene toe,"</l>
+<l>43090 Die swarte riddere antwerde: "Hoe</l>
+<l>Sprecti dus te mi ward?</l>
+<l>Waendi dat ic ben vervard</l>
+<l>Te vechtene jegen u beden,</l>
+<l>Al hebdi noch gesijn versceden</l>
+<l>43095 Dor die vrese vander doet?</l>
+<l>Al ware die een her Lanceloet</l>
+<l>Ende dander Arturs suster sone,</l>
+<l>(Dese twe di sijn gewone</l>
+<l>Te hebbene prijs ende lof</l>
+<l>43100 Boven alle die sijn in Arturs hof,</l>
+<l>Dies hebbic dicke horen gewach,</l>
+<l>Maer ic ben dise noit ne sach),</l>
+<l>In vloe hen beiden niet enen voet."</l>
+<l>Doe pensde Walewein in sinen moet:</l>
+<l>43105 "Wi waren dul ende onwijs,</l>
+<l>Die ons geeft so groten prijs,</l>
+<l>Wine daden onse hoveschede</l>
+<l>Al hier jegen hem ter stede."</l>
+<l>Maer mijn here her Lanceloet,</l>
+<l>43110 Hi hadde ember wille groet</l>
+<l>Te verwinnen die battaelge</l>
+<l>Ofte te speelne ter faelge;</l>
+<l>Ende Walewein, diet wel bekint,</l>
+<l>Bat Lancelote, oft hine mint</l>
+<l>43115 Ende den coninc sinen here,</l>
+<l>Dat hijt dade dor hare ere,</l>
+<l>Ende hilde daer allettel stille</l>
+<l>Ende lite hem secgen sinen wille.</l>
+<l>"Ende ic maens u bider trouwen,</l>
+<l>43120 Die gi sijt sculdech mire vrowen,</l>
+<l>Die mins oems wijf es."</l>
+<l>Her Lanceloet seide: "sijt gewes,</l>
+<l>En haddi mi niet dus dire gemaent,</l>
+<l>Des sijt seker ende nine waent,</l>
+<l>43125 Ic soude mi wreken of bliven doet,</l>
+<l>Dat mi dese riddere sonder noet</l>
+<l>Met eenwige dus bestoet</l>
+<l>Ende met slagen overloet;</l>
+<l>Maer omdat gi mi so dire besweert</l>
+<l>43130 Ic ben die hem nine deert</l>
+<l>Dor goet datmen mi geven mochte,</l>
+<l>En ware oft hi mi irst besochte.</l>
+<l>Ende alst u selven donct tijt</l>
+<l>Lecgic den eenwijch in respijt.</l>
+<l>43135 Also mote mi God beraden</l>
+<l>Ende bringen ter genaden,</l>
+<l>Dat ict nine doe dor bloethede</l>
+<l>Maer dore u ende dor u bede,"</l>
+<l>Dus warense alle .iij. int plein.</l>
+<l>43140 Echt spac min her Walewein</l>
+<l>Toten swerten: "Gi sijt onvroet</l>
+<l>Dat gi sulke sake doet.</l>
+<l>Al eest u noch ons vergaen,</l>
+<l>Gi moget lichte dat bestaen,</l>
+<l>43145 Het sal u costen u leven.</l>
+<l>Ic sal u goden raet geven:</l>
+<l>Secget mi u noetsaken.</l>
+<l>Magic, ic sal u vroet maken</l>
+<l>Des gi den riddere sout hebben gevraget,</l>
+<l>43150 Die noit dor man so was versaget</l>
+<l>Die hi van sinen orsse vel,"</l>
+<l>Die swarte sprac: "Gi segt wel.</l>
+<l>Nu manic u bi aldien</l>
+<l>Die ridderscaeps nu plien,</l>
+<l>43155 Ende bi Waleweine oec te voren,</l>
+<l><edition n="289"/>Die de beste es utevercoren,</l>
+<l>Hi ende mijn her Lanceloet,</l>
+<l>Waer soet es, in elke noet,</l>
+<l>Diemen in die werelt weet</l>
+<l>43160 Over lanc ende over breet,</l>
+<l>Dies hebbense over al den lof;</l>
+<l>In weter anders niet of;</l>
+<l>Danics hebbe gehort tale:</l>
+<l>Kindi iet her Acglavale,</l>
+<l>43165 Perchevaels broder des Waloes?</l>
+<l>Om hem hebbic gevraget altoes,</l>
+<l>Dies es lange wile leden.</l>
+<l>Ic hebbe harentare gereden</l>
+<l>Binnen desen halven jare,</l>
+<l>43170 Ende soekene harentare.</l>
+<l>Ic hebber om gedoget menge noet:</l>
+<l>Ic sal hier bliven ter stede doet,</l>
+<l>Oft gi sult mi beide berichten,</l>
+<l>In vrinscapen oft in gevechten,</l>
+<l>43175 Oft gi iet wet van Acglavale.</l>
+<l>Nu laet ons corten dese tale;</l>
+<l>Het es hedemeer wel tijt,</l>
+<l>Oft beginnewi weder den strijt,</l>
+<l>Ende siet welc es u genoech."</l>
+<l>43180 Dit horde Walewein ende loech</l>
+<l>Om des swerds ridders seden.</l>
+<l>Hi seide, bi sire man waerheden,</l>
+<l>"Maect mi vroet wat gi eescht</l>
+<l>Acglavale daer gi om vreescht,</l>
+<l>43185 Ic salre af secgen dat ic weet,"</l>
+<l>Die swerte antwerde hem wel gereet:</l>
+<l>"Soe willics u berichten algader.</l>
+<l>Acglavael dat es min vader;</l>
+<l>Hi wan mi an mire moder.</l>
+<l>43190 Noch salics u maken vroder:</l>
+<l>Het geviel hier te voren,</l>
+<l>Alse gi nu moget horen,</l>
+<l>Dat hi quam in Moriane;</l>
+<l>Dor sine utvercorne gedane</l>
+<l>43195 Vermindene daer ene joncfrowe:</l>
+<l>Dat was min moder, bi mier trowe.</l>
+<l>Ende so vort lipen die saken</l>
+<l>Bi harre beider spraken,</l>
+<l>Dat si sinen wille dede</l>
+<l>43200 Dor sine grote hoveschede,</l>
+<l>Ende om dat hi was so scone.</l>
+<l>Des viel si in cranken lone</l>
+<l>Ende dogeder omme groten rouwe.</l>
+<l>Manlijc gaf anderen trouwe</l>
+<l>43205 Eer si viel in sire genaden:</l>
+<l>Dies was si harde omberaden,</l>
+<l>Want hi hare ontfor daer naer,</l>
+<l>Dies es wel leden .xiiij. jaer.</l>
+<l>Ende doe hi daer van hare sciet</l>
+<l>43210 Droech si mi, ende hine wist niet.</l>
+<l>Hi seide hare sine noetsake</l>
+<l>Daer hi af was doe tongemake.</l>
+<l>Ende wi hi quam oec daer ane</l>
+<l>Dat hi van mire moder vor dane,</l>
+<l>43215 Dat magic u nu tellen hier.</l>
+<l>Mijn vader sochte enen ridder fier,</l>
+<l>Die te dien tiden verloren was,</l>
+<l>Ende Lanceloet hiet, sijt seker das.</l>
+<l>Ic saels u noch maken vroder:</l>
+<l>43220 Hi vertelde doe mire moder</l>
+<l>Dat hi ende vele andere gesellen</l>
+<l>Hadden gesworen, als wi tellen,</l>
+<l>Ende gedaen enen groten eet,</l>
+<l>Lancelote te soekene, Godeweet;</l>
+<l>43225 Ende niet en souden wederkeren</l>
+<l>In twe jaren oft in meren,</l>
+<l>Oft sine soudene vinden dan</l>
+<l>Ofte iewent gevreiscen daer an;</l>
+<l>Ende nigerinc oec dagen souden,</l>
+<l>43230 Noch in geen lant stille houden</l>
+<l>Achter enen nacht oft twee.</l>
+<l>Dit dede minen vader soe wee,</l>
+<l>Dat hi om dese sake, Godweet,</l>
+<l>Om te behoudene sinen eet,</l>
+<l>43235 An mire moder orlof nam.</l>
+<l>Maer eert hier toe oec quam</l>
+<l>Geloefdi haer te keerne saen,</l>
+<l>Alse hi sine queste hadde gedaen;</l>
+<l>Maer hine dede niet sijn belof.</l>
+<l>43240 Ic hebbene gesocht in menech hof.</l>
+<l>Al dit dede mi verstaen min vrowe</l>
+<l>Mijn moder; ende oec vander trowe</l>
+<l>Dies bringic een goet littekijn</l>
+<l>Dat hi min vader soude sijn</l>
+<l>43245 Ende dat hi hare sijn trowe gaf</l>
+<l>Doe hi achters sciet daer af,</l>
+<l>Ende tharre vromen ende tharen eren</l>
+<l>Tote hare weder soude keren.</l>
+<l>Ende leeft hi, God geefs hem spoet,</l>
+<l>43250 Dies biddic Gode dor oetmoet;</l>
+<l>Ende eest dat hi doet es bleven,</l>
+<l>God moet hem sine sonden vergeven.</l>
+<l>Ic ende min moder sijn onteerft,</l>
+<l>Om dat wi sijns hebben gedeerft,</l>
+<l>43255 Van groten gode ende van lene,</l>
+<l>Dat hebwi verloren al gemene,</l>
+<l>Dat haer verstarf van haren vader;</l>
+<l>Het es ons ontwijst algader</l>
+<l>Bider wet vanden lande.</l>
+<l>43260 Daertoe haddic grote scande</l>
+<l>Dat ic daer vaderloes hiet,</l>
+<l>Ende inne const getonen niet</l>
+<l>Noch nieman gemaken te vroder</l>
+<l>Wie mi wan an mire moder</l>
+<l>43265 Om dat min vader dus was gevloen.</l>
+<l>Ende sint dedic mi riddere doen,</l>
+<l>Ende swoer enen swaren eet,</l>
+<l>Brakicne het ware mi leet,</l>
+<l>Dat ic nembermer ne quame</l>
+<l>43270 Daer ic enegen riddere vername,</l>
+<l>In soude jegen hem vechten</l>
+<l>Oft hi soude mi berechten</l>
+<l>Oft hi iet bi eneger liste</l>
+<l>Van minen vader te secgen wiste</l>
+<l>43275 Dies ic ware iet te vroder.</l>
+<l>Al gemoettic minen broder</l>
+<l>Ic en brake niet minen eet</l>
+<l>Noch min gelof, Godeweet;</l>
+<l>Ende noch hebbict wel gehouden</l>
+<l>43280 Ende niet te broken bi minen scouden.</l>
+<l>Ende noch biddic hier u beiden,</l>
+<l>Oft gi met minnen van mi wilt sceiden,</l>
+<l>Dat gire mi af segt dat gi wet</l>
+<l>Al ut ende ute bi uwer wet,</l>
+<l>43285 Ende indet nu hier dese sprake;</l>
+<l>Oft laet ons corten dese sake</l>
+<l>Also als wi heden begonnen.</l>
+<l>En leeft riddere onder der sonnen</l>
+<l>Daer ic om brake minen eet,</l>
+<l>43290 Gevals mi lief ofte leet."</l>
+<l>Doen ne waser har negeen</l>
+<l>Van dire waren onder hen tween,</l>
+<l>Noch Walewein noch Lanceloet,</l>
+<l>Hen ne lipen die trane groet</l>
+<l>43295 Nederward ut haren ogen</l>
+<l>Doe die tale horden togen</l>
+<l>Dat dien riddere so comen was.</l>
+<l>Hen ontfermde sere das:</l>
+<l>Si worden bleec ende roet,</l>
+<l>43300 Ende ontecten haer ansichte bloet</l>
+<l>Doe si horden tridders clage.</l>
+<l>Lanceloet sprac: "Biden goden dage,</l>
+<l>In wil u nembermer wanconnen</l>
+<l>Noch nijt dragen noch wanconnen</l>
+<l>43305 Van en genen evelen mode.</l>
+<l><edition n="290"/>Sijt jegen mi sonder hoede:</l>
+<l>Mijn herte en es niet tuward fel,</l>
+<l>Ende wi selen u berichten wel."</l>
+<l>Doe was die swarte ridder blide</l>
+<l>43310 Ende scoet ane Lanceloets side</l>
+<l>Ende ontecte sijn hoeft aldaer,</l>
+<l>Dat pec sward was oppenbaer;</l>
+<l>Het was die sede vanden lande:</l>
+<l>More sijn sward alse brande.</l>
+<l>43315 Maer datmen an ridders soude prisen</l>
+<l>Haddi also scone na sire wisen.</l>
+<l>Al was hi sward, wat scaetde dat?</l>
+<l>An hem was sake die hem messat;</l>
+<l>Ende hi was langer een halven voet</l>
+<l>43320 Dan enech ridder bi hem stoet,</l>
+<l>Nochtan was hi van kinscen dagen.</l>
+<l>Hem begonst so wel behagen</l>
+<l>Doe hi horde hare tale,</l>
+<l>Dat si spraken van Acglavale,</l>
+<l>43325 Dat hi knilde ter eerden neder;</l>
+<l>Ende Walewein hiven op weder,</l>
+<l>Ende seide hem die niemare</l>
+<l>Dat haer gelijc een bode ware,</l>
+<l>Ende behorden tArturs hove,</l>
+<l>43330 Di werd van groten love;</l>
+<l>Ende si voren beide te male</l>
+<l>Perchevale soeken met Acglavale,</l>
+<l>Die de coninc beide begeert;</l>
+<l>"Ende sinen sin daer ombe verteert</l>
+<l>43335 Om hen te sprekene ende te sine.</l>
+<l>Mochtewi bi enegen engiene</l>
+<l>Beriden die edele heren,</l>
+<l>Wi soudense sconincs hove doen keren</l>
+<l>Indien dat sire wilden comen:</l>
+<l>43340 (Wine willens ons vorder niet beromen</l>
+<l>Dor onsen wille en dor haer doget,)</l>
+<l>Ende si den coninc daer mede verhoget.</l>
+<l>Si behoren ter tavelronden,</l>
+<l>Ende hebben gedaen lange stonden:</l>
+<l>43345 Si sijn beide vans conincs hove,</l>
+<l>Ende sijn oec van groten love.</l>
+<l>Ende oft gi werken wilt bi rade</l>
+<l>Ende scuwen wilt uwe scade,</l>
+<l>Soe sit op ende rijt</l>
+<l>43350 TArturs hove, ende nine bijt.</l>
+<l>Ic hope an Gode hi salre comen,</l>
+<l>Acglavael, diwi hier nomen,</l>
+<l>Oft gi sult daer horen niemare</l>
+<l>Waer dat hi becomen ware;</l>
+<l>43355 Daer comen dicke niemaren van verren.</l>
+<l>Vart te hove sonder merren:</l>
+<l>Die coninc sal u wel ontfaen.</l>
+<l>Segt hem ende doet verstaen</l>
+<l>Wie gi sijt ende wanen gi comt,</l>
+<l>43360 Ende alle uwe noetsaken nomt,</l>
+<l>Hine laet u niet danen sceden</l>
+<l>Vor wi comen onder ons beden</l>
+<l>Ende wi uwen vader bringen,</l>
+<l>Wille ons God dies gehingen.</l>
+<l>43365 Soudi dus achter lande riden</l>
+<l>Ende jegen elken riddere striden,</l>
+<l>Die comen soude in u gemoet,</l>
+<l>Gi moest hebben geluc groet</l>
+<l>Soudise verwinnen dus al</l>
+<l>43370 Sonder ramp ende ongeval.</l>
+<l>Die gene die ember wilt striden</l>
+<l>Ende heme dies niet vermiden,</l>
+<l>Selen sijs langen tijt plegen,</l>
+<l>Bi wilen selen si ontwegen,</l>
+<l>43375 Ende oec haren meester vinden,</l>
+<l>Die hen dies willen bewinden.</l>
+<l>Nu doet, riddere, onse bede</l>
+<l>Dor uwes selfs vromechede,</l>
+<l>Ende rijt te hove op desen tijt,</l>
+<l>43380 Live here, gewerd dijt;</l>
+<l>Want eer gi daer iet lange ontbijt</l>
+<l>Hopic dat gi sult sijn verblijt</l>
+<l>Ofte horen niemare daerof:</l>
+<l>Tot dire wilen blijft int hof.</l>
+<l>43385 Gi sult wesen wel te gemake</l>
+<l>Van wel menegerhande saken.</l>
+<l>Ende geloeft ons des algader:</l>
+<l>Wi selen soeken uwen vader,</l>
+<l>Ende mogewire comen an,</l>
+<l>43390 Ende God ons der eren an,</l>
+<l>Wi selen keren soe wi irst mogen</l>
+<l>Ende u ende den coninc verhogen."</l>
+<l>Alse dit di swerte ridder horde</l>
+<l>Sijn herte loech hem vanden worde,</l>
+<l>43395 Ende sijn mont op dien tijt:</l>
+<l>Sine tande waren wit alse crijt,</l>
+<l>Anders was hi sward algader.</l>
+<l>Hi seide: "God, onser alre vader,</l>
+<l>Mote u lonen, edele heren,</l>
+<l>43400 Al dies goets ende al der eren,</l>
+<l>Ende oec dire groter doecht</l>
+<l>Dat gi min herte hebt verhoecht,</l>
+<l>Die lange heeft gesijn beswaerd.</l>
+<l>Mi en gebreke mijn part,</l>
+<l>43405 Ic sal riden daer gi mi wiest,</l>
+<l>Ten coninc, dien gi mi so priest."</l>
+<l>Hi boet den heren sine hande</l>
+<l>Ende sijn ridderscap te pande,</l>
+<l>Ende daertoe onsen here Gode,</l>
+<l>43410 Dat hi staen soude tharen gebode</l>
+<l>Alse lange alsi mochte leven,</l>
+<l>Getrouwelike, sonder begeven.</l>
+<l>Doe seide mijn her Lanceloet:</l>
+<l>"Riddere, oft u gevile noet,</l>
+<l>43415 Ende gi quaemt in Arturs lant,</l>
+<l>Ic waent u es al onbecant,</l>
+<l>Lijt op ons tween die gi hier siet,</l>
+<l>Men sal u anders doen niet</l>
+<l>Dan ere ende hoveschede</l>
+<l>43420 Waer gi comt, telker stede,</l>
+<l>In dien dat gi onsen name noemt.</l>
+<l>Ende alse gi ten coninc coemt,</l>
+<l>Segt dat gi ons spraect ende saecht,</l>
+<l>Eer gi anders iet gewacht,</l>
+<l>43425 Gi sulter wesen wel ontfaen,</l>
+<l>Dit secgic u al sonder waen."</l>
+<l>Die swerte sprac: "Dits wel geseit;</l>
+<l>God lone u deser hovescheit.</l>
+<l>Maer wistic uwer beider name,</l>
+<l>43430 Ende u wille ware ende bequame,</l>
+<l>Ic waers te blider, sonder waen."</l>
+<l>Her Walewein seide hem saen</l>
+<l>Hoe si hiten ende wie si waren.</l>
+<l>Done waser geen langer sparen,</l>
+<l>43435 Die swerte en knilde ter eerden neder.</l>
+<l>Her Walewein hiven op weder.</l>
+<l>Echt leide di swerte sine hande te gader</l>
+<l>Ende seide: "God, onser alre vader,</l>
+<l>Die es der werelt toeverlaet,</l>
+<l>43440 Die late mi noch mine mesdaet</l>
+<l>Gebeteren noch tuwer ere.</l>
+<l>Her Lanceloet, wel live here,</l>
+<l>Ic kinne mi selven sculdech wel</l>
+<l>Dat ic quaet dede ende niet el."</l>
+<l>43445 Her Walewein seide: "En acht niet</l>
+<l>Wat saken dat hier es gesciet,</l>
+<l>U ne gesciets niet te wors."</l>
+<l>Her Walewein sat doe op sijn ors</l>
+<l>Ende her Lanceloet op dat sine.</l>
+<l>43450 Die swerde sprac: "Hets verloerne pine,</l>
+<l>Soe gode ridders alse gi sijt,</l>
+<l>Nadien dat gi op desen tijt</l>
+<l>Vart om te sokene minen vader,</l>
+<l>Bi ons heren macht algader,</l>
+<l>43455 In bliefs oec heden achter,</l>
+<l><edition n="291"/>Dadict oec, het ware lachter,</l>
+<l>In sal met u beiden riden."</l>
+<l>Her Walewein sprac: "So moetti vermiden</l>
+<l>Van uwer groter onmaten,</l>
+<l>43460 Ende riden wech uwer straten;</l>
+<l>Ende wat riddere die u gemoet,</l>
+<l>Ende u hovescelike groet,</l>
+<l>Groetten weder ende laten liden</l>
+<l>Sonder vechten ende striden,</l>
+<l>43465 Ende blijft sijn gestade vrient,</l>
+<l>Hine hadde quaets jegen u verdient:</l>
+<l>Dit radic u harde wel.</l>
+<l>Ende die ondadech es ende fel</l>
+<l>Jegen u oft jegen anderen man,</l>
+<l>43470 Proeft uwe macht daer an</l>
+<l>Ende velt sijn ondaet oft gi moecht;</l>
+<l>Ende alle vrouwen verhoecht,</l>
+<l>Ende bewerd haren lachter</l>
+<l>Daer gi moget eer ende achter.</l>
+<l>43475 Sijt hovesch ende godertieren</l>
+<l>Jegen die gi vint van goder manieren;</l>
+<l>Ende die der doget nine begeert</l>
+<l>Jegen hem en spard niet u sweerd</l>
+<l>Noch u spere, no uwen scilt."</l>
+<l>43480 Die swerte sprac: "Sint dat gijt wilt</l>
+<l>Ic saelt dor uwen wille ontberen;</l>
+<l>Nochtan so motic mi versweren.</l>
+<l>God moets mi genadech wesen."</l>
+<l>Doe reden si alle wech mettesen</l>
+<l>43485 Toter wilen ende toter stonden</l>
+<l>Dat si ene wegescede vonden,</l>
+<l>Daer een scone cruce stoet,</l>
+<l>Ende letteren daer an roet alse bloet.</l>
+<l>Walewein was van clergien vroet:</l>
+<l>43490 Hi las die lettere dire an stoet,</l>
+<l>Dat daer Arturs lant sciede,</l>
+<l>Ende elc man hem wel beride,</l>
+<l>Die daer toten cruce quame</l>
+<l>Ende die hadde ridders name,</l>
+<l>43495 Dat hi soude onverre riden</l>
+<l>Sonder vechten ende striden</l>
+<l>Ende te vindene aventuren,</l>
+<l>Die hen werden souden te suren,</l>
+<l>Ende lichte laten dlijf daer mede:</l>
+<l>43500 Dlant was van so fellen sede.</l>
+<l>Dit telde Walewein hen beden.</l>
+<l>Doe sagen si bider wegesceden</l>
+<l>Ene cluse wel gewracht;</l>
+<l>Doe worden die heren dies bedacht,</l>
+<l>43505 Dat sire voren onder hen drien</l>
+<l>Om horen ende om sien,</l>
+<l>Ende om te wetene wiet daer ware.</l>
+<l>Doe sagen si den clusenare,</l>
+<l>Die wel goet man was in scine.</l>
+<l>43510 Si beetten tsinen vinsterkine,</l>
+<l>Ende vrachden hem om niemare,</l>
+<l>Ofter enech ridder leden ware</l>
+<l>Die rode wapine hadde an.</l>
+<l>Doe antwerde die gode man</l>
+<l>43515 Ende seide dat hire .ij. liden sach</l>
+<l>Des ander dages vor middach,</l>
+<l>Die harde gelijc scenen beide.</l>
+<l>"Oec docht mi, na die waerheide,</l>
+<l>In gelate ende in gebaren</l>
+<l>43520 Alse oft si gebrodere waren.</l>
+<l>Haer ors scenen mode buten mate.</l>
+<l>Si quamen al die selve strate</l>
+<l>Die vanden lande werd coemt</l>
+<l>Dat men hier Bertaengen noemt.</l>
+<l>43525 Si waren beide starc in scine.</l>
+<l>Des eens ors ende wapine</l>
+<l>Dat was roet alse een bloet.</l>
+<l>Si beetten beide daer te voet</l>
+<l>Te desen cruce dat gi daer siet,</l>
+<l>43530 Daer menech rechtenesse gesciet;</l>
+<l>Daer verloes een riddere dlijf,</l>
+<l>Beide hi ende sijn wijf,</l>
+<l>Die des wel hadde verdient</l>
+<l>Jegen alle ons heren vrient,</l>
+<l>43535 Dattie zile met rechte si verhoget;</l>
+<l>Want si storven in groter doget.</l>
+<l>Si hadden enen sant versocht,</l>
+<l>Ende penninge ende perde brocht,</l>
+<l>Daer toe andertiren goet,</l>
+<l>43540 Alse hogen lieden wel bestoet.</l>
+<l>Doe quamen si in ere scaren</l>
+<l>Van quaden scakers gevaren.</l>
+<l>Si doetden den goden man</l>
+<l>Ende namen dat hi hadde an,</l>
+<l>43545 Ende sijn part ende sijn goet.</l>
+<l>Dies hadde die vrowe droven moet,</l>
+<l>Dat haer van rouwen ende vander smerte</l>
+<l>Breken moeste ontwe di herte.</l>
+<l>Dus moesten si hier sterven bede</l>
+<l>43550 Teser gerechter wegescede,</l>
+<l>Daer gi dit scone cruce siet,</l>
+<l>Ende daer menech gerechte gesciet.</l>
+<l>Het was dor sridders wille gemaect.</l>
+<l>Sulke liede comen hier naect</l>
+<l>43555 In haer broec, sonder scoen,</l>
+<l>Die haer pelegrimage doen,</l>
+<l>Die met evele sijn bevaen;</l>
+<l>Ende die hier riden ende gaen</l>
+<l>Hebben daer menege bate bejaget.</l>
+<l>43560 Die ridderen daer gi na vraget,</l>
+<l>Si daden daer hare orisone,</l>
+<l>Alse hen wel stont te done;</l>
+<l>Maer in can u berechten niet</l>
+<l>Waerward dat elc henen sciet;</l>
+<l>43565 In leider ane genen sin,</l>
+<l>Ic seide min getide hier in,</l>
+<l>Daer ic besech over sat,</l>
+<l>Daer ic haers bi al vergat.</l>
+<l>Maer si waren starc ende groet,</l>
+<l>43570 Ende seens wapine waren roet;</l>
+<l>Ende oec voerde di ander man</l>
+<l>Des conincs Arturs teken an."</l>
+<l>Doe worden die heren in dole,</l>
+<l>Ende si ontstaken als een cole</l>
+<l>43575 Van rouwen, dat si nine wisten</l>
+<l>Met en gerehande listen</l>
+<l>Werward dat si henen reden.</l>
+<l>Doe vrachden si na slans seden,</l>
+<l>Ende te wat landewerd si lagen,</l>
+<l>43580 Die straten, die si daer sagen.</l>
+<l>Doe antwerde di gode man:</l>
+<l>"Ic salt u secgen so ic best can.</l>
+<l>Die strate die gi sijt comen,</l>
+<l>Daer af hebdi den wech vernomen;</l>
+<l>43585 Ende die strate die daer bi vort gaet</l>
+<l>Scuwet die, dats min raet;</l>
+<l>Hets een lant van groter onreden</l>
+<l>Ende daer men pleget quader seden:</l>
+<l>Dire best mach doeter wors.</l>
+<l>43590 Oft elc behouden wilt sijn ors</l>
+<l>Ende sine wapine ende sijn leven,</l>
+<l>Soe suldi dien wech begeven.</l>
+<l>Ende die strate ter rechter hant</l>
+<l>Gaet in een wel wilt lant,</l>
+<l>43595 Daer nieman en woent in;</l>
+<l>In can gepensen in minen sin</l>
+<l>Dat ic man oft wijf gesach,</l>
+<l>Dies leden es jaer ende dach,</l>
+<l>Dat ic sach comen van daer ward.</l>
+<l>43600 Ende gevalt dat gire vard,</l>
+<l>Gi sulter sulc wonder vinden,</l>
+<l>Wildi u dies onderwinden</l>
+<l>Te berechtene die onsede,</l>
+<l>Het sal u costen lijf ende lede,</l>
+<l>43605 Dat vorsecgic u al hier.</l>
+<l><edition n="292"/>Gi sulter vinden tfelste dier</l>
+<l>Daer noit man af horde lesen:</l>
+<l>Nu vorwacht u van desen:</l>
+<l>Hets die duvel, wetic wel,</l>
+<l>43610 Ende loept in ere beesten vel.</l>
+<l>Jegen hem ne diet geen were;</l>
+<l>En was nie so scarp spere</l>
+<l>Noch swerd van so goden snede,</l>
+<l>Dies wetic wel die waerhede,</l>
+<l>43615 Dat dien duvel mochte scinden,</l>
+<l>En moeste breken oft wederwinden:</l>
+<l>Dits dicke geproeft hier te voren.</l>
+<l>Nu hevet sine woninge vercoren</l>
+<l>In een cleine foreestkijn:</l>
+<l>43620 Daer willet alle nachte sijn;</l>
+<l>Dages lopet allombe</l>
+<l>Die rechte wege enti crombe.</l>
+<l>Het et die beesten metten lieden:</l>
+<l>In mochte u niet wel bediden</l>
+<l>43625 Dwonder dat icker af weet.</l>
+<l>Het heeft verwoest een lant breet,</l>
+<l>Ende dlantvolc al verdreven,</l>
+<l>Datter nieman in es bleven.</l>
+<l>Nu hebbic u die waerheit</l>
+<l>43630 Vanden tween straten geseit,</l>
+<l>Ende watter u af mach comen;</l>
+<l>Nu willic u die derde nomen:</l>
+<l>Die gaet hier bi toter zee;</l>
+<l>In wister u af wat secgen mee."</l>
+<l>43635 Doe seide mijn her Lanceloet:</l>
+<l>"Bi den here die mi geboet,</l>
+<l>Her Walewein, wi moten sceden</l>
+<l>Op desen tijt onder ons beden,</l>
+<l>Selewi dese ridders vinden.</l>
+<l>43640 Ende ic wille mi onderwinden</l>
+<l>Vander felster aventuren.</l>
+<l>Gi selt riden ter goder uren</l>
+<l>Welke straten gi wilt kisen,</l>
+<l>Oft wi selen daer bi verlisen</l>
+<l>43645 Die ridders die hier sijn leden,</l>
+<l>Sine sijn noch verre gereden:</l>
+<l>Ende eest dat gire comt ane,</l>
+<l>Soe biddic u ende vermane</l>
+<l>Dor minen wille ende dor u doget,</l>
+<l>43650 Brincse vor u, oft gi moget,</l>
+<l>Ende keert weder hier ter stede.</l>
+<l>Dit doet, here, dor mine bede.</l>
+<l>Ende doet desen clusenare verstaen</l>
+<l>Hoe uwe saken sijn vergaen,</l>
+<l>43655 Op aventure oft ic hier come,</l>
+<l>Dat hijs mi die waerheit nome.</l>
+<l>Ende dese ridder sal met u varen,</l>
+<l>Daer God u beiden mote bewaren,</l>
+<l>Daer wi nu sijn comen an.</l>
+<l>43660 Doet hem ere als een goden man,</l>
+<l>Dies biddic u dor uwe doget,</l>
+<l>In allen steden daer gi moget."</l>
+<l>Her Walewein antwerde hem</l>
+<l>Ende seide: "Live here, ic bem</l>
+<l>43665 Gereet te done uwe bede:</l>
+<l>Nu mote ons God lijf ende lede</l>
+<l>Behoeden ende onse werelt ere.</l>
+<l>Nu kiest voren, live here,</l>
+<l>Welke strate gi wilt riden;</l>
+<l>43670 Hier nes geen langer biden."</l>
+<l>Doe seide min her Lanceloet:</l>
+<l>"Ic wane dattie meeste noet</l>
+<l>Jegen dat dier te vechten leecht,</l>
+<l>Daer ons die gode man af seecht;</l>
+<l>43675 Mi donct goet dat icker vare."</l>
+<l>Doe antwerde hem die clusenare:</l>
+<l>"Acharme, here, gi sijt so scone,</l>
+<l>Ic wane men niet onder den trone</l>
+<l>Uwe gelike soude vinden;</l>
+<l>43680 Ende wies wildi u bewinden</l>
+<l>Te doene dat nieman can gedoen?</l>
+<l>Tfolc es uten lande gevloen:</l>
+<l>Nieman en caens hem verrechten;</l>
+<l>En vlogen nie so felle scechten</l>
+<l>43685 Alset sciet sijn venijn</l>
+<l>Optie gene die bi hem sijn.</l>
+<l>Ende dient geraect, ende daert op vliecht.</l>
+<l>Ic ben die u nine liecht,</l>
+<l>Hi sterft binnen derden dage</l>
+<l>43690 Al ne haddi anders gene plage.</l>
+<l>Des es den mengen te wors;</l>
+<l>Ende hets merre dan een ors,</l>
+<l>Ende loept serre dan een ors doet.</l>
+<l>Scuwet den duvel so sidi vroet,</l>
+<l>43695 Dit versecgic u te voren.</l>
+<l>En had niet die warande vercoren,</l>
+<l>Ent lipe achter lande, alst wel mochte,</l>
+<l>Biden here die ons gewrochte,</l>
+<l>Het soude di werelt noch onteren.</l>
+<l>43700 Ende daetdi wel, gi sout keren"</l>
+<l>Maer dat was pine jegen spoet:</l>
+<l>Al haddemen hem gegeven alt goet</l>
+<l>Datten coninc Arture toe horde,</l>
+<l>Hine hadde niet sine vorworde</l>
+<l>43705 Gelogen noch sine tale,</l>
+<l>Hine sout besoken nu te male,</l>
+<l>Dan lite hi dor en genen vaer.</l>
+<l>Doe namen die heren orlof daer</l>
+<l>Onderlinge ende souden sceden.</l>
+<l>43710 Die swerte sprac tote hen beden:</l>
+<l>"Over wat houdi mi dan?</l>
+<l>Benic minder of cranker man</l>
+<l>Dan die een van u beden,</l>
+<l>Dat mi Walewein soude geleden?</l>
+<l>43715 In waens niet hebben te doene.</l>
+<l>En es ridder geen soe coene</l>
+<l>Inne darne wel anevaen,</l>
+<l>Canicker ondaet ane verstaen.</l>
+<l>Nu siet waer gi u wilt bewinden,</l>
+<l>43720 Ende welke strate gi mi wilt sinden:</l>
+<l>Ic derse anevangen wel,</l>
+<l>Al waer si noch also fel.</l>
+<l>Bi ridderscape ende bi al dien</l>
+<l>Die nu kerstendoems plien.</l>
+<l>43725 Ic sal mi allene aventuren</l>
+<l>Ende nemen dats mi mach geburen."</l>
+<l>Doe seide her Walewein: "Mi es leet</l>
+<l>Dat gi sword desen eet;</l>
+<l>Maer sider dat ember wesen moet,</l>
+<l>43730 So rijt en wech, dat donct mi goet,</l>
+<l>Die strate ter zee ward</l>
+<l>Hastelike, ende nine spard,</l>
+<l>Om te sokene uwen vader;</l>
+<l>Ende doet dat ic u rade algader:</l>
+<l>43735 Soe wien dat gi gemoet,</l>
+<l>Als gine hoveschlijc hebt gegroet,</l>
+<l>So vracht hem oft hi iet sach riden</l>
+<l>Iwerincs ofte ontbiden</l>
+<l>Twe ridders: ende die een man</l>
+<l>43740 Die hadde rode wapine an,</l>
+<l>Ende dander die voerd Arturs teken.</l>
+<l>Aldus seldi irstwerf smeken.</l>
+<l>Ten passagen waer gi coemt,</l>
+<l>Bid datmen u di waerheit noemt:</l>
+<l>43745 Opti zee vrachter ombe mede,</l>
+<l>Waer gi comt, in elke stede.</l>
+<l>Ende en condire niet af verstaen,</l>
+<l>Soe comt te derre stede saen,</l>
+<l>Ende volget der straten die ic sal riden,</l>
+<l>43750 Haestelike, sonder ontbiden;</l>
+<l>Wi mochten sceden wel so verre</l>
+<l>Dat wijs mochten werden erre.</l>
+<l>Ende volget mi na, ende niet te spade,</l>
+<l>Ende werct bi minen rade,</l>
+<l>43755 Dan mach u niet scaden, secgic nu."</l>
+<l><edition n="293"/>Die swerte sprac: "Here, God loens u."</l>
+<l>Dus namen si orlof ende scieden.</l>
+<l>Nu willic u van Waleweine bedieden.</l>
+<l>Nu seget ons vort die aventure,</l>
+<l>43760 Dat Walewein quam nu ter ure</l>
+<l>Op ene rivire diep ende wijt</l>
+<l>En lettel nader primtijt.</l>
+<l>Si was groet ende oec diep,</l>
+<l>Ende dat water sere te dale liep</l>
+<l>43765 Crachtelike, ende die stroem.</l>
+<l>Daer mercte Walewein ende nam goem</l>
+<l>Banderside ane dander lant,</l>
+<l>Dat hem was harde ombecant,</l>
+<l>Hoe een riddere quam gereden</l>
+<l>43770 Op een ors van sconen leden,</l>
+<l>Ende gewapent als om sijn leven.</l>
+<l>Hi brachte ene joncfrouwe gedreven</l>
+<l>Vore heme, die hi hadde gevaen.</l>
+<l>Walewein hi sachse heme slaen</l>
+<l>43775 Dickewile, slach in slach,</l>
+<l>Metter vust, die sere wach</l>
+<l>Vanden wapinen die hire an droech;</l>
+<l>Ende dede hare leets gnoech</l>
+<l>Omdat si met heme nine wilde.</l>
+<l>43780 Hi stacse dicke metten scilde</l>
+<l>Weder ende vort harde onsochte,</l>
+<l>Daer hise irst geraken mochte,</l>
+<l>Dat hem niet en stont te done.</l>
+<l>Die joncfrouwe hadde an pellen grone,</l>
+<l>43785 Dat was gescort ter meneger stede,</l>
+<l>Dat hare die felle riddere dede.</l>
+<l>Si quam op een rosside al baer,</l>
+<l>Ende hare utevercorne haer,</l>
+<l>Dat gelu was gelijc der zide,</l>
+<l>43790 Hinc haer achter op dat rosside,</l>
+<l>Maer si had wel half verloren,</l>
+<l>Dat haer die felle riddere te voren</l>
+<l>Hadde getrect uten hovede.</l>
+<l>Hine leeft niet die gelovede</l>
+<l>43795 Wie hare die joncfrouwe mesliet</l>
+<l>Om haren rouwe, om haer verdriet,</l>
+<l>Ende hoe qualike sijt verdroech</l>
+<l>Datse die felle riddere sloech.</l>
+<l>Si weende ende wranc haer hande.</l>
+<l>43800 Dit sach Walewein ende docht hem scande</l>
+<l>Hine wrake nu haren toren.</l>
+<l>Hi sach achter ende oec voren,</l>
+<l>Hine sach daer brucge ne gene,</l>
+<l>No weder grote no clene,</l>
+<l>43805 Daermen over mochte varen;</l>
+<l>Noch hine sager moderbaren</l>
+<l>Dire hire omme mochte vragen.</l>
+<l>Done was daer geen langer dagen;</l>
+<l>Hi warp omme sinen toem,</l>
+<l>43810 Ende liet den orsse nemen goem</l>
+<l>Vanden watere vander rivire;</l>
+<l>Hi nopet metten spore sciere,</l>
+<l>Ende spranc tot bider middeward.</l>
+<l>Doe ginc swimmen tgode part</l>
+<l>43815 In die rivire, soet best mochte,</l>
+<l>Soe dat sinen here over brochte;</l>
+<l>Dat was wonder harde groet</l>
+<l>Sine waren beide bleven doet,</l>
+<l>Want die rivire, si was diep,</l>
+<l>43820 Ende die stroem daer sere liep.</l>
+<l>Doe Walewein quam banderside</l>
+<l>Dire riviren diep ende wide</l>
+<l>Sach hi volc bi groten scaren</l>
+<l>Naden riddere comen gevaren</l>
+<l>43825 Die dese joncfrouwe ontscaecte</l>
+<l>Met crachte ende sere mesmaecte;</l>
+<l>Maer Walewein ne was niet vroet</l>
+<l>Oftet was dore tridders goet</l>
+<l>Dat si heme dus volgeden achter,</l>
+<l>43830 Soet was om sinen lachter.</l>
+<l>Hi sager comen menegen man,</l>
+<l>Die hadden alle halsberge an.</l>
+<l>Si waren hem na binnen ere milen.</l>
+<l>Walewein porde ter goder wilen</l>
+<l>43835 Na die joncfrouwe, die was voren,</l>
+<l>Om te vellen haren toren,</l>
+<l>Die de riddere soe mesmaecte.</l>
+<l>Ende als min her Waleweine naecte</l>
+<l>Der joncfrouwen, dat sine sach,</l>
+<l>43840 Doe ginc si slaen slach in slach</l>
+<l>Haer hande meer dan te voren.</l>
+<l>Doense Walewein hadde vercoren</l>
+<l>Riep si: "Riddere, edel here,</l>
+<l>Loest mi dor alre vrowen ere.</l>
+<l>43845 Men doet mi lachter onverdient.</l>
+<l>Quame enech Gods vrient,</l>
+<l>Die mi holpe ut deser noet,</l>
+<l>Al haddi sinen vader doet</l>
+<l>God hi sout hem vergeven."</l>
+<l>43850 Haer sere versuchten ende haer beven,</l>
+<l>Haer clagen ende haer carmen</l>
+<l>Mochte elken man ontfarmen.</l>
+<l>Si riep dicke op Waleweine,</l>
+<l>Die quam gereden inden pleine,</l>
+<l>43855 Dat hi hare stonde te staden</l>
+<l>Ende velde tridders ongenaden.</l>
+<l>Alse dit min her Walewein horde</l>
+<l>Docht hem dat sijn herte scorde</l>
+<l>Van jammerheden ende van sere,</l>
+<l>43860 En sprac toten fellen here:</l>
+<l>"Her riddere, het es dorperhede,</l>
+<l>Dat wetti wel, ende onsede</l>
+<l>Dat gi derre joncfrouwen doet.</l>
+<l>Gi soudes ontberen, waerdi vroet:</l>
+<l>43865 Al hadde die joncfrouwe mesdaen,</l>
+<l>Men soutse hovescelike vaen,</l>
+<l>Want daer leget lettel eren ane</l>
+<l>Ene joncfrouwe dus te slane."</l>
+<l>Doe seide di felle ridder saen:</l>
+<l>43870 "Om u, dorpere ende corliaen,</l>
+<l>Oft gi riddere nine ward,</l>
+<l>Dor u en wardse niet gespart;</l>
+<l>Ic sal haer doen dor uwen toren</l>
+<l>Lachters meer dan te voren;</l>
+<l>43875 Ende wildire oec een wort toe spreken,</l>
+<l>Ic sal u mettesen spere steken</l>
+<l>Van uwen orsse averrecht."</l>
+<l>Mijn her Walewein antwerde echt:</l>
+<l>"Her riddere, so waric dan te voet.</l>
+<l>43880 Noch radic u, oft gi sijt vroet,</l>
+<l>Dat gi die joncfrouwe verdraget;</l>
+<l>Gine vint mi heden so versaget,</l>
+<l>En si dat gise laet gehermen,</l>
+<l>In salse al nu bescermen</l>
+<l>43885 Ende sal minderen haren toren,</l>
+<l>Oft ic settere dleven voren.</l>
+<l>Maer, riddere, doet mi ene bede</l>
+<l>Dor Gode ende dor u edelhede,</l>
+<l>Ende dore alre ridders ere."</l>
+<l>43890 Doe antwerde die felle here</l>
+<l>Ende seide hine daets niet.</l>
+<l>"Gine maect u henen ende vliet,</l>
+<l>Bi al dat God geleesten mach,</l>
+<l>Dit sal sijn uwe domesdach.</l>
+<l>43895 In hebbe wat doen van uwen sermone."</l>
+<l>Walewein seide: "Oft gi sijt soe cone,</l>
+<l>Soe doet noch an hare u hant,</l>
+<l>Ic souts nemen so swaren pant,</l>
+<l>Wistijt, u soude therte beven,</l>
+<l>43900 Oft het cost mi min leven.</l>
+<l>Laet die joncfrouwe met goede</l>
+<l>Ofte sijt in uwer hoede,</l>
+<l>Oft wacht u jegen min spere;</l>
+<l>Want ic hebbe uwes gere."</l>
+<l>43905 Die gene hadde den moet so groet</l>
+<l><edition n="294"/>Dat hem Walewein tspere boet,</l>
+<l>Hem dochte die herte breken;</l>
+<l>Ende gereide hem ter steken,</l>
+<l>Ende min her Walewein banderside,</l>
+<l>43910 Ende quamen te samen met selken nide,</l>
+<l>Dat harre beider speren braken:</l>
+<l>Men mochse verre horen craken.</l>
+<l>Si quamen te samen met selker porse,</l>
+<l>Dattie riddere viel vanden orsse</l>
+<l>43915 Uten sadele optie eerde;</l>
+<l>Ende viel soe sere, dat hem deerde</l>
+<l>In alle die lede toter herten,</l>
+<l>Ende lach in dole vander smerten.</l>
+<l>Hi lach gestrect op dat lant.</l>
+<l>43920 Mijn her Walewein hi geprant</l>
+<l>Dors daer dander op hadde geseten;</l>
+<l>Hine hadde sire hovescheit niet vergeten:</l>
+<l>Hi gaeft der joncfrouwen in die hant,</l>
+<l>Ende toech ter vart sinen brant.</l>
+<l>43925 Binnen desen was becomen</l>
+<l>Die riddere, ende hadde sijn sward genomen,</l>
+<l>Ende stont op alsi best mochte.</l>
+<l>Het was quaet dat hi dochte,</l>
+<l>Ende seide: "Hoe waerdi nie so coene,</l>
+<l>43930 Vasseel, dat gi bestont te doene</l>
+<l>Mi dese smerte ende dese scande:</l>
+<l>Mijn vader es here van desen lande,</l>
+<l>Ende na hem saelt mine wesen.</l>
+<l>Gine sulles niet genesen:</l>
+<l>43935 Hets dompheit dat gi jaecht.</l>
+<l>Gi werd noch heden so versaecht</l>
+<l>Vanden genen die mi volgen,</l>
+<l>Ende soe sere selen sijn verbolgen,</l>
+<l>Gine wondet om sconincs Arturs goet</l>
+<l>43940 Ende om al dat hem nie bestoet.</l>
+<l>Si selen hier sciere wesen:</l>
+<l>Gine selets niet genesen:</l>
+<l>Jegen mi heeft hier nieman macht</l>
+<l>In dit lant, noch oec cracht."</l>
+<l>43945 Walewein sprac: "Dies gelovic wel,</l>
+<l>Hierop sidi ondadich ende fel.</l>
+<l>Dat edel man ende rike mede</l>
+<l>Hevet herte van valschede,</l>
+<l>Bi mire wet, dats jamber groet;</l>
+<l>43950 Si bringen menegen inder noet.</l>
+<l>Nu ne sijt niet soe uten gelaten,</l>
+<l>Ic sal u harde wel gematen</l>
+<l>Eer gi van mi sult sceden,</l>
+<l>Alse mi donct, dat gi noch heden</l>
+<l>43955 Sult lien dat gi quaet doet.</l>
+<l>Ende noch radic u, sidi vroet,</l>
+<l>Dat gi mi segt ende doet verstaen</l>
+<l>Wat u die joncfrouwe heeft mesdaen.</l>
+<l>Heeft sijs verdient wel</l>
+<l>43960 Dat gi hare sijt dus fel,</l>
+<l>Wel gewerts hare ende u,</l>
+<l>In onderwints mi niet vorder nu.</l>
+<l>Ende heves die joncfrouwe niet verdient,</l>
+<l>Staets af, ende blieft min vrient,</l>
+<l>43965 Anders hebdi dlijf verloren,</l>
+<l>Al waerdi noch alse wel geboren;</l>
+<l>Ic wille die joncfrouwe met mi leden</l>
+<l>Alsic van henen sal sceden."</l>
+<l>Die gene en wouts niet gehoren,</l>
+<l>43970 Ende die joncfrouwe sprac voren:</l>
+<l>"Edel riddere, ic maecs u vroet</l>
+<l>Twi hi mi desen toren doet.</l>
+<l>Hi wilt mi hebben tere amien:</l>
+<l>Salic u der waerheit lien?</l>
+<l>43975 Dies es leden menech dach</l>
+<l>Dat hijs mi tirst dede gewach;</l>
+<l>Maer in wouts niet gehoren</l>
+<l>Ic hebbe al anderen toren:</l>
+<l>Die haveloesheit doet mi wee;</l>
+<l>43980 Nochtan doet mi vele mee,</l>
+<l>Dat ic wel gesecgen can.</l>
+<l>Mijn vader was riddere ende goet man</l>
+<l>Ende wel geboren vanden lande.</l>
+<l>Ic moet secgen, al eest scande,</l>
+<l>43985 Live here riddere, al onverholen,</l>
+<l>Mijn vader heeft .vij. jaer gequolen</l>
+<l>Ende es onder gegaen van gode,</l>
+<l>Ende leget in sware ermode;</l>
+<l>Hine mach riden no gaen,</l>
+<l>43990 Noch over sine vote gestaen:</l>
+<l>Hi doget swaren arbeit.</l>
+<l>Ic hebben geheven ende geleit,</l>
+<l>Ende also minen vader gedient:</l>
+<l>Hi hevet anders lettel vrient.</l>
+<l>43995 Nu waric gerne met hem bleven</l>
+<l>Ende hem gehouden al min leven</l>
+<l>Na mine macht te sinen besten;</l>
+<l>Heden quam dese riddere binnen onser vesten,</l>
+<l>Die sere te valle es ente broken,</l>
+<l>44000 Ende heeft onrecht an mi gewroken.</l>
+<l>Hi vorde mi danen met crachte</l>
+<l>Eer dat ics mi verwachte;</l>
+<l>Hine liet dor Gode no dor man.</l>
+<l>Aldus vordi mi van dan</l>
+<l>44005 Ende doet mi desen lachter.</l>
+<l>Hi liet sine liede achter,</l>
+<l>Die min vrient soude beweren</l>
+<l>Oft si hem volchden om sijn deren.</l>
+<l>Ic vruchte si selen hier sire wesen.</l>
+<l>44010 Gine sullets niet genesen</l>
+<l>Eest dat si u hier bevaren.</l>
+<l>Ende oft gi wilt u leven sparen,</l>
+<l>Soe cort, here, desen strijt.</l>
+<l>Ic vruchte het gaet al over tijt;</l>
+<l>44015 Oft gi mi staen wilt in staden</l>
+<l>Dore ons liefs heren genaden,</l>
+<l>Soe siet, here, wat gi doet."</l>
+<l>Her Walewein sprac: "Oft gi sijt vroet,</l>
+<l>Her riddere, sprect ut uwen monde;</l>
+<l>44020 In wille hier niet wesen langer stonde,</l>
+<l>Wildi dese joncfrouwe berechten,</l>
+<l>Oft van hare sceden, oft jegen mi vechten,</l>
+<l>Deen oft dander doe doet.</l>
+<l>Wildi, ic bete met u te voet,</l>
+<l>44025 Oft sit weder op u part,</l>
+<l>Indien dat gi mi niet ontfart,</l>
+<l>Noch ontvliet, noch ontrijt,</l>
+<l>Ende gi uwer aventuren ontbijt."</l>
+<l>Die riddere antwerde over lanc:</l>
+<l>44030 "Nu houdi mi over harde cranc,</l>
+<l>Dat ic dus wiken soude.</l>
+<l>Doet wel, ende beet ter moude</l>
+<l>Oft gi ember vechten wilt."</l>
+<l>Hi decte hem onder sinen scilt</l>
+<l>44035 Ende trac sijn sward uten scoe.</l>
+<l>Mijn her Walewein beette doe,</l>
+<l>Geviels hem wel oft wors,</l>
+<l>Ende liet bi hem staen sijn ors,</l>
+<l>Datmen hiet dat Gringalet,</l>
+<l>44040 Dat node verporren soude een let</l>
+<l>Sijn here en warre toe comen</l>
+<l>Ende hijt weder hadde genomen.</l>
+<l>Doe gingen si slaen ende nemen,</l>
+<l>Ende deen den anderen lemen</l>
+<l>44045 Met groten slagen ende sure,</l>
+<l>Dat si haer bloet sagen dure</l>
+<l>Tallen maelgen dringen uut;</l>
+<l>Ende die sparken sprongen uut</l>
+<l>Doe si die helme gerochten,</l>
+<l>44050 Dat si enen bernen dochten</l>
+<l>Gelijc dat heet yser doet</l>
+<l>Datmen steket in die gloet</l>
+<l>Ende vanden vire werdet roet.</l>
+<l>Haer slage waren so groet,</l>
+<l>44055 Daer hem elc met crachte weerde.</l>
+<l><edition n="295"/>Dat haren Waleweine meest deerde</l>
+<l>Dat was om dat sijn swerd</l>
+<l>Nine sceen .iiij. denieren werd;</l>
+<l>Tridders wapine waren so goet,</l>
+<l>44060 Dat Waleweins swerd daer op wederstoet.</l>
+<l>Al sachmer bloet drinken dore,</l>
+<l>Sijn halsberch ontfinc gene score.</l>
+<l>Dit dochte Waleweine wonder;</l>
+<l>Doch brachti enen slach van onder,</l>
+<l>44065 Ende sloech den riddere als ende als</l>
+<l>Boven den helme inden hals</l>
+<l>Toter middelt vander kele.</l>
+<l>Doe ginct met hem al uten spele.</l>
+<l>Dat hoeft hinc hem sonder vorst</l>
+<l>44070 Tote biden navele vor di borst.</l>
+<l>Hi viel neder metten slage.</l>
+<l>Sine vrient ende sine mage</l>
+<l>Si hebben hem te lange gemert,</l>
+<l>Ende quamen mettien sere verert</l>
+<l>44075 Ende verbolgen ende uten kere</l>
+<l>Doen si sagen haren here</l>
+<l>Doet licgen optie moude.</l>
+<l>Walewein die gode entie boude</l>
+<l>Sat doe weder op Gringalette,</l>
+<l>44080 Daer hi noit ane vant smette:</l>
+<l>Het was so starc ende so groet,</l>
+<l>Ende als sijn here hadde noet</l>
+<l>Wachtet heme van sire lede</l>
+<l>Gelijc dat sijn here dede.</l>
+<l>44085 Die gene dire comen waren</l>
+<l>Ende heren Waleweine hadden bevaren</l>
+<l>Altehans metten verschen daden,</l>
+<l>Si worden daer also beraden,</l>
+<l>Dat sine bestonden achter ende voren</l>
+<l>44090 Alse vanden live te done toren,</l>
+<l>Beide tors ende te voet.</l>
+<l>Ende Walewein, die dit verstoet</l>
+<l>Dat hi sere was verladen,</l>
+<l>Hi hilt hem an die Gods genaden</l>
+<l>44095 Met goder herten herde vaste,</l>
+<l>Ende ginc onthalen sine gaste</l>
+<l>Metten swerde dat hi droech.</l>
+<l>Telken slage dat hi sloech</l>
+<l>Verleemdire enen ofte twee</l>
+<l>44100 Ende dede daer menegen wee.</l>
+<l>Nieman mochte an hem genesten</l>
+<l>Dat hem vergaen mochte ten besten,</l>
+<l>Hine bleef doet oft so gewont,</l>
+<l>Dat hi meer ward gesont.</l>
+<l>44105 Ende Walewein, der aventuren vader,</l>
+<l>Versagetse soe daer allegader</l>
+<l>Metten slagen die hi sloech,</l>
+<l>Datter menech achter droech</l>
+<l>Ende keerde vanden stride</l>
+<l>44110 Met dipen wonden ende wide.</l>
+<l>Het was goet dat Walewein sochte</l>
+<l>Ende dat hi geerde ende rochte,</l>
+<l>Bedie gevielt hem te bet.</l>
+<l>Hi brachter menegen onder dnet,</l>
+<l>44115 Sulc vanden live, sulc vanden leden.</l>
+<l>Binnen dien quam ene scare gereden</l>
+<l>Vander joncfrouwen lieden achter,</l>
+<l>Die gerne wraken haren lachter;</l>
+<l>Ende tirst dat sise bekinde</l>
+<l>44120 Ende hare quamen so gehinde</l>
+<l>Was si vroe ende blide,</l>
+<l>Ende trac hare uten stride</l>
+<l>Daer min her Walewein in dede</l>
+<l>Harde grote manlijchede.</l>
+<l>44125 Die joncfrouwe trac onder die hare,</l>
+<l>Ende keerde metter selver scare</l>
+<l>Weder tote haren vader.</l>
+<l>Si waren blide allegader</l>
+<l>Dat sise hadden in haer gewelt,</l>
+<l>44130 Ende liten Waleweine op dat velt,</l>
+<l>Daer hi sere was verladen.</l>
+<l>Sine dorsten hem niet staen in staden</l>
+<l>Jegen haren overhere:</l>
+<l>Si ontsagen sijn geslechte sere.</l>
+<l>44135 Maer Walewein, dies nine ontsach,</l>
+<l>Ginc slaen slach in slach</l>
+<l>Op wat hem was gehinde,</l>
+<l>Dat hise soe sere verblinde</l>
+<l>Ende met slagen achter dreef,</l>
+<l>44140 Dat hem tfelt allene bleef.</l>
+<l>Si waren so mode ende soe mat,</l>
+<l>Dat si achter die wege al plat</l>
+<l>Gescoffirt lagen opter eerden,</l>
+<l>Alse die dat rusten sere begerden.</l>
+<l>44145 Daer waser lettel goet gesont,</l>
+<l>Walewein en hadse so gewont,</l>
+<l>Datmer wel af spreken mach</l>
+<l>Van nu tot anden domedach.</l>
+<l>Doe pinsde Walewein in sinen moet,</l>
+<l>44150 Hen ware gene dinc soe goet</l>
+<l>Hi hadde met wapinen vele gedaen:</l>
+<l>Ende done nieman dorste bestaen,</l>
+<l>Dat hi vore sire straten.</l>
+<l>Hi dancte Gode utermaten</l>
+<l>44155 Der eren die heme gescieden</l>
+<l>Onder die ondadege lieden,</l>
+<l>Dat hi behouden hadde sijn leven</l>
+<l>Ende was sonder doetwonde bleven,</l>
+<l>Beide hi ende sijn part;</l>
+<l>44160 Ende datten God hadde gespart.</l>
+<l>Men seget dicke, ende hets waer,</l>
+<l>Dat was wel in scine daer:</l>
+<l>Die gene di hem nine gemaet,</l>
+<l>Ende doet datten die werelt haet</l>
+<l>44165 Ende onse herre God te voren,</l>
+<l>Hi was ter quader tijt geboren.</l>
+<l>Ende alse Walewein hadde verwonnen,</l>
+<l>Ende hem God hadde geonnen</l>
+<l>Bi ridderscepe ende bi gevalle</l>
+<l>44170 Sine wedersaken alle,</l>
+<l>Ginc die dach achter none,</l>
+<l>Ende min her Walewein, die cone,</l>
+<l>Hine hadde gedronken no geten,</l>
+<l>Noch en geens goet ontbeten</l>
+<l>44175 Dan gevochten inden dage</l>
+<l>Ende ontfangen grote slage.</l>
+<l>Hi voer en wech vermoit sere,</l>
+<l>Ende was algader uten kere</l>
+<l>Van gemake op dien dach.</l>
+<l>44180 So lange voer hi, dat hi sach</l>
+<l>Dattet dien avonde naecte.</l>
+<l>Binnen dien Walewein geraecte</l>
+<l>Daer hi vant enen casteel.</l>
+<l>Sijn herte was sonder riveel</l>
+<l>44185 Van groten hongere ende van dorste</l>
+<l>Ende van swarre borste.</l>
+<l>Hi pensde in sinen moet,</l>
+<l>Hem ne ware gene dinc so goet</l>
+<l>Als dat hi vore daer binnen</l>
+<l>44190 Ende sage oft hi mochte gewinnen</l>
+<l>Herberge op dien nacht.</l>
+<l>Hi vant optie borchgracht</l>
+<l>Dien here vanden castele,</l>
+<l>Ende sire liede oec vele.</l>
+<l>44195 Hi groettene ende dat met hem was</l>
+<l>Doe hi gebeet was int gras.</l>
+<l>Die here seide: "Dat lone u God."</l>
+<l>Walewein seide: "Waerd u gebot</l>
+<l>Ende uwe wille, ende bequame,</l>
+<l>44200 Hoe gerne ic herberge name</l>
+<l>Tavont meer met u hier binnen.</l>
+<l>In wiste anders hoe gewinnen.</l>
+<l>Ic hebbe gereden al desen dach,</l>
+<l>Dat ic anders niet en sach</l>
+<l>44205 Dan wildernesse ende woest lant,</l>
+<l><edition n="296"/>Ende daer ic niemene ne vant</l>
+<l>Daer ic trameer mochte bliven.</l>
+<l>Die werd seide: "Also mote mi becliven</l>
+<l>Goet ane die siele ende ane dleven</l>
+<l>44210 Alsic u vrindelijc sal geven</l>
+<l>Also verre ende alsoe vort</l>
+<l>Alse ten avonde toe behort;</l>
+<l>Ende sal u te gemake doen,</l>
+<l>Ende geven u tam ende venisoen.</l>
+<l>44215 Mine herberge is altoes gereit</l>
+<l>Elken riddere, ende niet ontseit,</l>
+<l>Die begert te wesene min gast:</l>
+<l>Hi heeft geleide goet ende vast</l>
+<l>Jegen al dat hi in min lant vint,</l>
+<l>44220 Al waerd jegen min live kint,</l>
+<l>Dat ic minne vor alle dien</l>
+<l>Die nu ridderscaps mogen plien.</l>
+<l>Mijn geleide es soe vast gestade,</l>
+<l>Wie minen gast iet misdade</l>
+<l>44225 Het soude hem costen lijf ende al,</l>
+<l>Hine hadde meer dan goet geval,</l>
+<l>Bi ridderscepe ende bi trouwen,</l>
+<l>Ende bider maget, onser vrouwen."</l>
+<l>Hier af en wiste niet algader</l>
+<l>44230 Walewein, der aventuren vader,</l>
+<l>Die meneger eren was gewone,</l>
+<l>Dattie riddere was theren soene,</l>
+<l>Dien hi geslegen hadde te voren.</l>
+<l>Nu alre irst so mogedi horen</l>
+<l>44235 Ute nemende aventuren,</l>
+<l>Some soete ende some suren.</l>
+<l>Walewein was comen int strec,</l>
+<l>Die wel waent wesen op sijn berec</l>
+<l>Van goder herbergen optien nacht;</l>
+<l>44240 Hine hadde hem niet verwacht</l>
+<l>Van sinen swaren meskive.</l>
+<l>Die ward, di Waleweine wilde doen live</l>
+<l>Nam heren Waleweine bider hant</l>
+<l>Ende leidene daer hijt scone vant,</l>
+<l>44245 Dor drie porten in eene sale;</l>
+<l>Ende was ontfaen met sconre tale.</l>
+<l>Men ontwapende Waleweine saen:</l>
+<l>Sijn ors was te gemake gedaen.</l>
+<l>Doen dede dragen die ward</l>
+<l>44250 Waleweins wapine ende sijn sward</l>
+<l>Daert hem sint was te verre.</l>
+<l>Daer omme was hi drove ende erre,</l>
+<l>Ende ne wout niet om sheren zale,</l>
+<l>Al ware si gulden altemale;</l>
+<l>44255 Want doen si over tafle saten</l>
+<l>Ende si dronken ende aten</l>
+<l>Ende hadden alles dies genoech</l>
+<l>Dies die eerde nie gedroech,</l>
+<l>Des men drinken mochte ende eten,</l>
+<l>44260 Ende alles leets daer bi vergeten,</l>
+<l>Horden si sere clagen ende wenen,</l>
+<l>(Sine wisten wat mochte menen)</l>
+<l>Ende hande te gadere slaen;</l>
+<l>Si horden volc daer buten staen</l>
+<l>44265 Vor die porte ende buten mure:</l>
+<l>Si ripen dicke ter meneger ure:</l>
+<l>"Owi, laesse, ontoet, laet in."</l>
+<l>Waleweine verwandelde doe sijn sin;</l>
+<l>Sijn herte seide hem wel te voren</l>
+<l>44270 Dat hem naecte leet ende toren:</l>
+<l>Hi vervarwede ende ward roet.</l>
+<l>Die here van daer in hi geboet</l>
+<l>Datmen gevreisce om die niemare,</l>
+<l>Wat horeeste daer buten ware.</l>
+<l>44275 Men liep ute ende ontsloet</l>
+<l>Die porte, alst die here geboet.</l>
+<l>Doe quamen si in met ere baren,</l>
+<l>Die gene die daer buten waren,</l>
+<l>Al drivende so groet mesbaer,</l>
+<l>44280 Datmen horde verre ende naer</l>
+<l>Dore die porten altemale.</l>
+<l>Doe si quamen in die zale</l>
+<l>Daer was volcs harde vele,</l>
+<l>Ende ripen alle met luder kele</l>
+<l>44285 Opten here vander veste:</l>
+<l>"Acharme, here, hier leget die beste</l>
+<l>Doet, dats u live kint,</l>
+<l>Diemen in die werelt vint.</l>
+<l>Nu nes niweren ertrike</l>
+<l>44290 Bleven des ridders gelike,</l>
+<l>Noch so starc, no soe coene,</l>
+<l>No soe volmaect in allen done."</l>
+<l>Die borch verstormde algader,</l>
+<l>Ende die ward, des ridders vader</l>
+<l>44295 Die daer lach optie bare doet,</l>
+<l>Sijn herte in sinen buc verscoet.</l>
+<l>Hi mochte met pinen te worde comen</l>
+<l>Ende seide: "Wie heeft hem dlijf genomen</l>
+<l>Minen alten liven kinde,</l>
+<l>44300 Dat ic vor al die werelt minde?</l>
+<l>Was hem dus sine doet gehouden?</l>
+<l>Ic vruchte het quam bi sinen scouden;</l>
+<l>Ic bekint selve dat wel,</l>
+<l>Dat hi was herten fel,</l>
+<l>44305 Hine sparde viant no vrient;</l>
+<l>Ic vruchte hi heeft der doet verdient.</l>
+<l>Nu bemanic u allengader</l>
+<l>Bi Gode, onsen gerechten vader,"</l>
+<l>Sprac die here van daer binnen,</l>
+<l>44310 "Dat gi mi secgt ende laet bekinnen</l>
+<l>Die rechte waerheit: ic wilt horen,</l>
+<l>Hoe hi heeft sijn lijf verloren</l>
+<l>Mijn live soene die hier leecht,</l>
+<l>Die mire herten sere weecht."</l>
+<l>44315 Doen seiden si alle overwaer</l>
+<l>Die den doden brachten daer,</l>
+<l>Dat een vremt riddere dede</l>
+<l>Met sire groter manlichede,</l>
+<l>"Diewi noit sagen met ogen;</l>
+<l>44320 Nochtan mogewi wel betogen</l>
+<l>Ons volcs doet, ende soe gewont,</l>
+<l>Dat si meer en werden gesont:</l>
+<l>Men mochte weten niet tgeval,</l>
+<l>Dat dede die vreemde ridder al,</l>
+<l>44325 Die uwen sone nam sijn lijf,</l>
+<l>Der bester een [die] hadde lijf,</l>
+<l>Ende die wi noit consten bekinnen."</l>
+<l>Maer Walewein, die was daer binnen</l>
+<l>Ende hem selven sculdech wiste,</l>
+<l>44330 Ende hi wel sach dat hi met liste</l>
+<l>Noch met crachte mochte ontgaen,</l>
+<l>Dat hi sine wapine hadde af gedaen</l>
+<l>Ende bloet in sine cleder stoet,</l>
+<l>Dies was hi drove in sinen moet.</l>
+<l>44335 Met dat si stonden in dese tale</l>
+<l>Sagen si lopen achter die zale</l>
+<l>Dat bloet versch ende bloet</l>
+<l>Vanden riddere die daer lach doet,</l>
+<l>Ende die gestelpt was te voren.</l>
+<l>44340 Binnen desen hadden si vercoren</l>
+<l>Waleweine, dies heren gast,</l>
+<l>Ende seiden alle over vast</l>
+<l>Die daer waren in die zale,</l>
+<l>(Deen volgede des anders tale)</l>
+<l>44345 Dattie gene ware daer binnen,</l>
+<l>Dat mocht men wel bekinnen,</l>
+<l>Die den riddere nam sijn leven,</l>
+<l>Die sijns blodens hadde begeven</l>
+<l>Van en lettel na middach,</l>
+<l>44350 Ende menne noit sint bloden sach;</l>
+<l>Dat was kinlijc ende oppenbaer,</l>
+<l>Dattie gene ware daer,</l>
+<l>Die de mort hadde gewracht.</l>
+<l>Dies waren si alle bedacht,</l>
+<l>44355 Ende drogen des over een,</l>
+<l><edition n="297"/>Die daer waren in den steen.</l>
+<l>Doen sagen si daer allegader</l>
+<l>Op Waleweine, der aventuren vader,</l>
+<l>Met harden fellen ogen.</l>
+<l>44360 Walewein hi sach hen togen</l>
+<l>Te hemwaerd menege suer ansichte.</l>
+<l>Si baden den here harde bedichte</l>
+<l>Dat hi hen den riddere late bekinnen,</l>
+<l>Ende hoe hi es comen daer binnen,</l>
+<l>44365 Ende wie hi ware, ende wanen hi quame,</l>
+<l>Ende waer hi wilde, ende sinen name.</l>
+<l>Doe seide die here: "Hets min gast,</l>
+<l>Ende hevet geleide goet ende vast</l>
+<l>Alse lange als hi hier binnen es;</l>
+<l>44370 Ende sijt seker ende gewes,</l>
+<l>Die hem messeide oft mesdade,</l>
+<l>Hi souts comen in sulke scade,</l>
+<l>Het soude hem costen goet ende lijf.</l>
+<l>Dit en verbade mi man no wijf;</l>
+<l>44375 Mijn geleide es soe vast,</l>
+<l>Die ic wille houden elken gast,</l>
+<l>Dat si niet en werd te broken</l>
+<l>Ende dat icker toe hebbe gesproken,</l>
+<l>Na min weten ende na minen wille.</l>
+<l>44380 Gedoget u, ende sweget stille,</l>
+<l>Op u lijf ende op uwe goet.</l>
+<l>Ic sal scire wesen vroet</l>
+<l>Wie sculdech es van deser daet;</l>
+<l>Ic weet daer op soe goden raet."</l>
+<l>44385 Hi riep sine liede altemale</l>
+<l>Ane dene side vander zale</l>
+<l>Te sinen rade, ende seide</l>
+<l>Dat sijn gelof ende sijn geleide</l>
+<l>Nine mochte sijn te broken,</l>
+<l>44390 Ende sijn sone ware qualijc gewroken;</l>
+<l>Soe goden riddere als hi was,</l>
+<l>Heme mochte wel berouwen das,</l>
+<l>Sloge hi sinen gast te doet,</l>
+<l>Hi souts hebben lachter groet</l>
+<l>44395 Alse verre alsmer af soude spreken.</l>
+<l>"Ic salle behindeliker wreken,</l>
+<l>Canic die waerheit wel verstaen</l>
+<l>Dat min gast hevet gedaen</l>
+<l>Die grote ondaet ende die mort."</l>
+<l>44400 Hi sprac te sinen lieden vort:</l>
+<l>"Nu volget alle mire tale:</l>
+<l>Gi sult hier bliven binnen der zale,</l>
+<l>Nieman en volge mi enen voet;</l>
+<l>Ende dat ic u hete dat doet.</l>
+<l>44405 Ic sal minen gast leiden daer buten:</l>
+<l>Men sal die dore na ons sluten,</l>
+<l>Ende laet die dode dan sijn bloden,</l>
+<l>So mogewi ons alle wel bevroden</l>
+<l>Dat hi sculdech es der daet:</l>
+<l>44410 Ic salre dan op hebben raet</l>
+<l>Eer ic minen sone wreke</l>
+<l>Sonder lachter behindeleke."</l>
+<l>Si hilden alle an sine tale:</l>
+<l>Si waren stille in die zale.</l>
+<l>44415 Ende die here quam gegaen</l>
+<l>Daer hi heren Waleweine sach staen,</l>
+<l>Ende seide: "Riddere, en belget u niet</l>
+<l>Dat men uwes niet bat en pliet;</l>
+<l>Wi hebben rouwe, als gi moget sien,</l>
+<l>44420 Ende uwes es te wors geplien.</l>
+<l>Wat hier ane es mesdaen,</l>
+<l>Gi selt nu met mi gaen,</l>
+<l>Ic saelt beteren, want mine liede</l>
+<l>Driven rouwe ende min meisniede,</l>
+<l>44425 Ende ic mede, alse gi siet.</l>
+<l>Nu comt met mi ende let niet;</l>
+<l>Ic sal u leiden na dese sake</l>
+<l>Daer gi sult sijn nu te gemake</l>
+<l>Ende sachte slapen toten dage.</l>
+<l>44430 Wi moten hier driven onse clage."</l>
+<l>Her Walewein pensde in sinen sin:</l>
+<l>Hi was vermant sere daer in,</l>
+<l>Ende die van wapinen es bloet:</l>
+<l>Dats een swaer slach ter noet.</l>
+<l>44435 Ende hi ward geware wel</l>
+<l>Datmen was te hemward fel,</l>
+<l>Ende datter nieman ne was binnen,</l>
+<l>Men mocht wel an hem bekinnen;</l>
+<l>Ende pensde doe in sinen moet,</l>
+<l>44440 Hem ne ware geen raet soe goet</l>
+<l>Alse hi ginge ins heren genaden,</l>
+<l>Ende dade dat hi heme bade.</l>
+<l>Hine hadde gene wapine an:</l>
+<l>Daer waren wel vif hondert man</l>
+<l>44445 Vans heren lieden daer binnen,</l>
+<l>Daermen wapine an mochte kinnen.</l>
+<l>Dus ginc wech metten werd,</l>
+<l>In aventuren oft hulpt, oft deert.</l>
+<l>Hi leitdene daer uter dore:</l>
+<l>44450 Men loecse daer die ward ginc vore.</l>
+<l>Doe seide di here van daer binnen:</l>
+<l>"Her riddere, ic wille dat gi met minnen</l>
+<l>Trameer weest, live gast."</l>
+<l>Hi leidene in enen toren vast,</l>
+<l>44455 Daer scone bedden in lagen.</l>
+<l>Hi dede kerssen na hem dragen,</l>
+<l>Ende alles dies dat hi wiste</l>
+<l>Ende gepensen conste bi liste</l>
+<l>Dat Waleweine sijn gast behovede.</l>
+<l>44460 Die werd, die sere drovede,</l>
+<l>Hi dede hem scinken wijn claer,</l>
+<l>Ende een scone bedde maken daer,</l>
+<l>Daer hi op doe slapen soude</l>
+<l>Als hem vaecte ende hi woude.</l>
+<l>44465 Hi liet met hem knapen een deel</l>
+<l>Ende keerde weder inden casteel.</l>
+<l>Doe drogense den doden vander stede:</l>
+<l>Hi ward gestelpt an al die lede,</l>
+<l>Hine bloetde groet no clene:</l>
+<l>44470 Sine wonden waren gestelpt rene.</l>
+<l>Doe seiden si alle die dit sagen,</l>
+<l>Men dorste nembermer niet vragen</l>
+<l>Na anderen man, si warens vast,</l>
+<l>Dine doetde dat was haer gast.</l>
+<l>44475 Dit seiden si alle op ende neder;</l>
+<l>Ende die here keerde weder</l>
+<l>Te sinen gast in dier gebare</l>
+<l>Alse oft hier af nine ware.</l>
+<l>Hine liets hem niet bekinnen;</l>
+<l>44480 Maer hi dedene sluten daer binnen</l>
+<l>In den tor so overvaste,</l>
+<l>Dat nieman mochte tsinen gaste</l>
+<l>Comen, noch quaet beraden,</l>
+<l>Noch vermannen, no verladen,</l>
+<l>44485 Soe vaste was hi in sire gewelt.</l>
+<l>Oec secgic u, dat hi selve helt</l>
+<l>Die slotele vanden torre vast,</l>
+<l>Daer binnen besloten was die gast.</l>
+<l>Hi wilde hem harde wel bedinken,</l>
+<l>44490 Eer hine lite slaen oft minken,</l>
+<l>Wat hem daer af ware dbeste.</l>
+<l>Dus hilt hine binnen sire veste.</l>
+<l>Wat wildi dat Walewein dade?</l>
+<l>Hi moeste geniten sire scade:</l>
+<l>44495 Hi was daer comen alse gast,</l>
+<l>Ende besloten in enen torre vast,</l>
+<l>Ende daertoe binnen ere porten mede,</l>
+<l>Ende oec in ene vremde stede.</l>
+<l>Hi was van wapinen ombereet;</l>
+<l>44500 Ende haddi hem selven ontect</l>
+<l>Ende om sine wapine geheerst,</l>
+<l>Ende si dat hadden gevreest,</l>
+<l>Men hadder hem niet gegeven;</l>
+<l>Maer si hadden hem genomen dleven,</l>
+<l>44505 Haddi hem selven sculdech gemaect,</l>
+<l><edition n="298"/>God en hadde vor hem gewaect.</l>
+<l>Dus was Walewein gevaen:</l>
+<l>Hine wiste wat anegaen.</l>
+<l>Dor den ramp ende dor bedwanc</l>
+<l>44510 Die nacht dochte hem lanc:</l>
+<l>Heme ne vaecte niet vele:</l>
+<l>Het ginc met hem uten spele.</l>
+<l>Hi wiste wel datmen hem wanonste</l>
+<l>Ende nijt droech ende wanconste</l>
+<l>44515 Vanden doden, die daer lach,</l>
+<l>Ende om datmenne bloden sach,</l>
+<l>Ende mens daer bi ward geware.</l>
+<l>Dus was sijn herte in groten vare.</l>
+<l>Van Waleweine latic die tale.</l>
+<l>44520 Die here was binnen der zale</l>
+<l>Met sinen lieden toten dage.</l>
+<l>Met groten rouwe, met groter clage</l>
+<l>Waren si dien nacht al dure,</l>
+<l>Ende clageden haer sware aventure;</l>
+<l>44525 Al hadde die riddere wel verdient</l>
+<l>Der doet, hi hadde daer menegen vrient,</l>
+<l>Die sere clageden haren toren</l>
+<l>Dat sine also hadden verloren.</l>
+<l>Sine wouden niet bekinnen wel</l>
+<l>44530 Dat hi was ondadech ende fel.</l>
+<l>Ende tirst datmen sach</l>
+<l>Verbaren den sconen dach</l>
+<l>Ginc die here met sinen lieden</l>
+<l>Te rade, daer si hen beriden</l>
+<l>44535 Bi wat saken ende bi wat treken</l>
+<l>Dat si hen scoenst mochten wreken</l>
+<l>Van haren groten sere.</l>
+<l>Doe seide die waerd, haer here:</l>
+<l>Lite hi sinen gast gaen,</l>
+<l>44540 Dien hi daer binnen hadde gevaen</l>
+<l>Ende sinen soene sloech te doet,</l>
+<l>"Men soude secgen ic ware bloet,</l>
+<l>Ende ict niet dorste wreken:</l>
+<l>Men souts mi groten lachter spreken;</l>
+<l>44545 Het heeft so menech wel verstaen</l>
+<l>Hoe die saken sijn vergaen,</l>
+<l>En mochte niet verholen bliven.</l>
+<l>Ende soudic minen gast ontliven</l>
+<l>Men souts mi spreken grote scande</l>
+<l>44550 Weder ende vort in elken lande</l>
+<l>Waerment gevreiscen mochte."</l>
+<l>Dus was hi in meneger gedochte,</l>
+<l>Ende pensde in sinen moet,</l>
+<l>Hem ware gene dinc so goet</l>
+<l>44555 Alse hi den riddere late gaen</l>
+<l>Tirst dat hi op ware gestaen,</l>
+<l>Sonder te doene enege dere,</l>
+<l>Also gewapent ende inder were</l>
+<l>Alse hijt beste mochte bekinnen,</l>
+<l>44560 Gelijc dat hi quam daer binnen,</l>
+<l>Om te bevredene merre scande;</l>
+<l>Ende hine bringe buten sire warande</l>
+<l>Ongescint van allen man;</l>
+<l>Ende hi hem orlof geve dan,</l>
+<l>44565 Ende kere weder ende laten gaen,</l>
+<l>Ende sire dan die hande an slaen</l>
+<l>Ende bewachtene ende belagen,</l>
+<l>Sine vrient, die gerne wrake sagen,</l>
+<l>Ende doenre haren wille mede,</l>
+<l>44570 Ende slaen hem af sine leden,</l>
+<l>Ofte dat si den riddere vaen,</l>
+<l>Wat hen best donct gedaen,</l>
+<l>Ofte berne[ne] in ene gloet,</l>
+<l>Om te coelne haren moet,</l>
+<l>44575 Oft brekene op een rat,</l>
+<l>Daert hen best voget teneger stat.</l>
+<l>"Dus so stel ict al van mi,</l>
+<l>Datmens mi verre noch bi</l>
+<l>Ne spreke ne genen lachter,</l>
+<l>44580 No weder vore noch achter.</l>
+<l>Dit donct mi di beste raet</l>
+<l>Van deser dinc, hoe soet staet."</l>
+<l>Doe maectijs sinen lieden vroet.</l>
+<l>Het dochte hen allengaderen goet,</l>
+<l>44585 Ende spraken alle met enen monde</l>
+<l>Dat hi dbeste hadde vonden.</l>
+<l>Sine wilden sinen raet niet verhoren:</l>
+<l>Si wapenden hen som ende reden voren,</l>
+<l>Alse die Waleweine wilden bestaen</l>
+<l>44590 Alsene die here liete gaen.</l>
+<l>Dus voer daer ene scare groet,</l>
+<l>Die niet en was van wapinen bloet,</l>
+<l>Willechlike ende sere verbolgen.</l>
+<l>Ende die here, die hen wilde volgen,</l>
+<l>44595 Riep doe sinen drossate,</l>
+<l>Die fel was ende ongemate,</l>
+<l>Ende hiet dat hi sinen gast hale</l>
+<l>Sine wapine altemale,</l>
+<l>Ende geefse hem alsi wilde riden,</l>
+<l>44600 Ende niet langer wilde ontbiden,</l>
+<l>Tirst dat hi es op gestaen.</l>
+<l>Mettien es die drossate gegaen</l>
+<l>In ene scone kemenade,</l>
+<l>(Nu hort van enen fellen rade)</l>
+<l>44605 Daer hi Waleweins wapine vant</l>
+<l>Ende sijn goet ridders gewant.</l>
+<l>Hi stal Waleweine sijn gode swaerd:</l>
+<l>En was niet twe penninge waerd</l>
+<l>Dat hi stac weder in die scede;</l>
+<l>44610 Ende hi sneet die riemen bede;</l>
+<l>Ontwe tot in die middeward,</l>
+<l>Ende maecter in enen groten scard,</l>
+<l>In Waleweins stegereep, met liste,</l>
+<l>Daer mens nine sach no wiste</l>
+<l>44615 Onder die coverture vanden gereide;</l>
+<l>Ende sine daregarden beide</l>
+<l>Fronseerde die scalc soe,</l>
+<l>Dats Walewein sider ward onvroe</l>
+<l>Eer hi quam over ene mile,</l>
+<l>44620 Hine wout niet op selke wile</l>
+<l>Om al sconincs Arturs rike</l>
+<l>Dat mogedi horen haestelike.</l>
+<l>Alse die drossate hadde bracht,</l>
+<l>Die dese ondaet hadde gewracht,</l>
+<l>44625 Waleweins wapine ende sijn part,</l>
+<l>Dat dies nachs was wel beward,</l>
+<l>Sij waenden datter soude sijn bleven:</l>
+<l>Het was starc ende wel op heven,</l>
+<l>Ende dede hem geven gnoech.</l>
+<l>44630 Si waender af hebben haer gevoech.</l>
+<l>Die here dede den tor ontsluten</l>
+<l>Ende Waleweins ors houden daer buten.</l>
+<l>Sijn gereide waser op geleit,</l>
+<l>Daer ic u af hebbe geseit</l>
+<l>44635 Dat gevalst was so sere:</l>
+<l>Doe quam vort Walewein die here</l>
+<l>Uten torre, ende was op gestaen.</l>
+<l>Hi hadde scone cleder an gedaen</l>
+<l>Ende daelde neder genen graet.</l>
+<l>44640 Hine pensde niet om sulc beraet</l>
+<l>Alse hi cortelike daer vant.</l>
+<l>Die drossate hilt in sine hant</l>
+<l>Dat quade suard, dat hi decte:</l>
+<l>Die wile dat hem Walewein berecte</l>
+<l>44645 Gordijt hem an sine side:</l>
+<l>Dies ward sint Walewein onblide.</l>
+<l>Doemenne gereide tsinen besten</l>
+<l>Doe quam die here vander vesten</l>
+<l>Tote heren Waleweine gegaen</l>
+<l>44650 Ende seide, "Wel sijt op gestaen.</l>
+<l>Riddere, hoe comt dat gi sijt</l>
+<l>Dus haestech op desen tijt?</l>
+<l>Twi ne haddi geslapen ende ontbeden</l>
+<l>Eer gi wech waerd gereden,</l>
+<l>44655 Ende had ontbeten ende messe gehort</l>
+<l><edition n="299"/>Eer gi waerd gereden vort?"</l>
+<l>Her Walewein sprac: "Live her werd,</l>
+<l>Mi es leet dat u iet deert,</l>
+<l>Alse mote mi God beraden</l>
+<l>44660 Ende bringen tsinen genaden</l>
+<l>Wanneer dat ic sterven sal:</l>
+<l>Mi rouwet sere u mesfal.</l>
+<l>Ic wilt noch ware te doene,"</l>
+<l>Sprac min her Walewein die coene,</l>
+<l>44665 "Ende icker omme seven jaer,</l>
+<l>Al waerd mi te doene swaer,</l>
+<l>Dragen soude di scarpe hare</l>
+<l>Naest minen live, waer ic ware,</l>
+<l>Om dat gi mi hebt so wel ontfaen.</l>
+<l>44670 Nochtan sijt seker, sonder waen,</l>
+<l>In laet heden dor man</l>
+<l>Die so grote cracht heeft an.</l>
+<l>In saelt secgen, ende al waer,</l>
+<l>Ende dor en genen anderen vaer,</l>
+<l>44675 Wie soet hort, viant oft vrient;</l>
+<l>U sone hadde der doet verdient</l>
+<l>Dicke ende oec menechwarf</l>
+<l>Eer die wile quam dat hi starf.</l>
+<l>Nu moets God genadech wesen.</l>
+<l>44680 Ende God lone u van desen</l>
+<l>Groten gode ende der eren</l>
+<l>Die gi mi doet alle, gi heren,</l>
+<l>Ende dat ics des uwes hebbe verteert."</l>
+<l>Doe bedroefde hem die werd</l>
+<l>44685 Ende sprac: "Ic en doe u niet</l>
+<l>Dor sake die u gesciet,</l>
+<l>Nochtan es hier menech man,</l>
+<l>Die u vele quaets an;</l>
+<l>Maer ic segt u, in wille niet</l>
+<l>44690 Die sake die hier es gesciet,</l>
+<l>Noch min vrede si te broken,</l>
+<l>Noch gene dinc an u gewroken.</l>
+<l>Ic sal met u henen gaen</l>
+<l>Als gi den wech wilt bestaen,</l>
+<l>44695 Ende geleiden u soe verre,</l>
+<l>Dat gi niet sult werden erre</l>
+<l>Van niemanne dire blivet achter:</l>
+<l>Mi ware leet gescide u lachter."</l>
+<l>Walewein sprac: "Dit lone u God,</l>
+<l>44700 Die over die werelt heeft gebot."</l>
+<l>Hi nam den breidel in die hant</l>
+<l>Die hi an sijn ors vant:</l>
+<l>Hi ginc vore, die here naer:</l>
+<l>Hi ginc bi sire siden daer</l>
+<l>44705 Dine verraden hadde te voren.</l>
+<l>Nu naect Waleweine groten toren.</l>
+<l>Hi waende hebben goet geleide:</l>
+<l>Hi hadde verloren ut sire sceide</l>
+<l>Sijn sward, dat hem verstolen was,</l>
+<l>44710 Ende het was broescher dan glas</l>
+<l>Datter die drossate in stac</l>
+<l>Doe hi tgode swaerd ut trac:</l>
+<l>Daertoe haddi vanden gereide</l>
+<l>Stegereep ende daregerde beide</l>
+<l>44715 Valscelijk begaet met liste,</l>
+<l>Dats min her Walewein nine wiste;</l>
+<l>Ende die here vander veste</l>
+<l>Hadde die starcste entie beste</l>
+<l>Van sinen lieden gesint voren,</l>
+<l>44720 Waleweine te beradene toren,</l>
+<l>Alse te nemene sijn leven.</l>
+<l>Elken man mochte therte beven</l>
+<l>Van anxte ende van groten vare</l>
+<l>Dient also comen ware</l>
+<l>44725 Ende niet en mochte ontgaen met liste.</l>
+<l>Ende Walewein, dire niet af wiste</l>
+<l>Van desen treken, van desen kere,</l>
+<l>Ginc al sprekende jegen den here</l>
+<l>Van meneger sticken, van menger saken,</l>
+<l>44730 Onthier ende si begonden naken</l>
+<l>Ter stat daer sine viande lagen,</l>
+<l>Die daer lagen inder hagen,</l>
+<l>Die Waleweine wilden verslaen.</l>
+<l>Alsire bi quamen gegaen</l>
+<l>44735 Doe nam die here orlof</l>
+<l>An Waleweine ende scieder of,</l>
+<l>Ende kerde te sinen castele ward.</l>
+<l>Her Walewein die sat op sijn part</l>
+<l>Ende waende wel danen riden</l>
+<l>44740 Sonder vechten ende striden.</l>
+<l>Alsi an die artsone dede di hant,</l>
+<l>Ende sinen voet inden stegebant,</l>
+<l>Ende waende hem lichten in sijn gereide</l>
+<l>Braken die daregarden beide:</l>
+<l>44745 Over den luchteren stegebant</l>
+<l>Die sadel onder dors want,</l>
+<l>Ende hi bleef staende al daer.</l>
+<l>Doe sach min her Walewein daer naer</l>
+<l>Menegen man ut comen gesprongen,</l>
+<l>44750 Die te hem ward quamen gedrongen</l>
+<l>Met algader haren machten.</l>
+<l>Selke quamen uten grachten</l>
+<l>Daer si verholenlike in lagen,</l>
+<l>Sulc ut bosche, sulc ut hagen,</l>
+<l>44755 Ende sulke quamen ut holen straten.</l>
+<l>Verraderen mote God verwaten</l>
+<l>Die hen beteren nine wille.</l>
+<l>Her Walewein en stont niet stille:</l>
+<l>Hi sach wel dat hi was verraden</l>
+<l>44760 Ende met volke sere verladen:</l>
+<l>Hi trac ut sire sceide tswaerd,</l>
+<l>Dat lettel haven was waerd,</l>
+<l>Ende waender hem met verweren</l>
+<l>Jegen di hem wilden deren,</l>
+<l>44765 Als hi dicke hadde gedaen.</l>
+<l>Eer hi drie slage conde geslaen</l>
+<l>Brac dat swaerd alst ware tin,</l>
+<l>Dit was hem een quaet begin,</l>
+<l>Enen man te sinen live ward.</l>
+<l>44770 Dit sach Walewein ende was vervard:</l>
+<l>Hi wiste wel dat hi es verraden.</l>
+<l>Die gene dine wilden scaden</l>
+<l>Si quamen van vore ende van besiden</l>
+<l>Met groten scaren ende met widen,</l>
+<l>44775 Die alle Waleweins lijf begerden.</l>
+<l>Daer was groet geclanc van swerden:</l>
+<l>Si staken op hem met speren.</l>
+<l>Sijn sward besloet hem niet .ij. peren.</l>
+<l>Diet hem gaf, God geve hem wee.</l>
+<l>44780 Het brac vor di hilte ontwee</l>
+<l>Ende viel neder inden sande.</l>
+<l>Walewein stont al idelre hande,</l>
+<l>Dies hi qualijc mochte gewesen,</l>
+<l>Ende die gene waren utgelesen</l>
+<l>44785 Overstarc ende overfel,</l>
+<l>Dat was dicke geproeft wel.</l>
+<l>Die daer Waleweine bestonden.</l>
+<l>Gelijc een ever vor di honden</l>
+<l>Hem verwerd, daer hise hem volgen siet,</l>
+<l>44790 Weerden Walewein; maer en holp niet.</l>
+<l>Dine van verren staken met speren</l>
+<l>Si daden hem die meeste deren</l>
+<l>Om te coelne haren moet.</l>
+<l>Daer ne was sward geen so goet,</l>
+<l>44795 Al had Walewein gecregen,</l>
+<l>Ende haddire drie slage met geslegen</l>
+<l>Als hi metten sinen dede</l>
+<l>Dicwile ter meneger stede,</l>
+<l>Het ware te broken oft so gebogen,</l>
+<l>44800 Dat hem nine hadde gedogen.</l>
+<l>Dat hem best stont te staden</l>
+<l>Dicwile alse hi was verladen</l>
+<l>Daer te voren in meneger noet,</l>
+<l>Dies was hi nu worden bloet,</l>
+<l>44805 Dat was sijn ors ende sijn sward,</l>
+<l><edition n="300"/>Dat vele haven was ward.</l>
+<l>Dus moeste Walewein gaen onder;</l>
+<l>Ende dat en donct mi geen wonder:</l>
+<l>En es oec so starc man geen</l>
+<l>44810 Onder gode nember een,</l>
+<l>Men mochten dicwile met scampe</l>
+<l>Verwinnen wel, ende bi campe.</l>
+<l>Walewein moeste gaen in hant.</l>
+<l>Hi ward gevelt daer int sant;</l>
+<l>44815 Nochtan costet sulken dleven</l>
+<l>Eer hem Walewein op wilde geven.</l>
+<l>Selken costet een let oft twee,</l>
+<l>Dat wel en heilde nembermee:</l>
+<l>Ende selve was hi soe bereet,</l>
+<l>44820 Wat hi hadde ane gecleet,</l>
+<l>Beide wapine ende ander waden</l>
+<l>Was gescort ter meneger staden</l>
+<l>Dat hem dlijf daer dore sceen.</l>
+<l>En leefde ertsce man ne geen,</l>
+<l>44825 Die also ware nu beraden,</l>
+<l>Dat hem man mochte staen in staden,</l>
+<l>Noch arsatere oec genesen.</l>
+<l>Nu wouts God, hi sal gewesen</l>
+<l>Van sire smerte, van sire scande.</l>
+<l>44830 Si bonden Waleweine sine hande,</l>
+<l>Ende settene op een cranc rosside,</l>
+<l>Ende daden leiden bi sire side</l>
+<l>Gringalette dor sinen toren,</l>
+<l>Dat sijn ors was te voren,</l>
+<l>44835 Ende dats sire herten soude sijn wors</l>
+<l>Alse hi sage op sijn ors,</l>
+<l>Dat hi daer nu hadde verloren,</l>
+<l>Ende sijns selfs lijf te voren,</l>
+<l>Dies si hem wilden doen derven</l>
+<l>44840 Ende lachterlike doen sterven,</l>
+<l>Verbernen oft op een rat breken:</l>
+<l>Aldus wilden sijt hem wreken.</l>
+<l>Daer waren ridders ende seriande,</l>
+<l>Naest den here vanden lande</l>
+<l>44845 Die rijcste ende best geboren,</l>
+<l>Ende hadden alle over een gesworen</l>
+<l>Dat si Waleweine souden leiden</l>
+<l>Toter gerechter wegesceiden</l>
+<l>Int inde van haren lande,</l>
+<l>44850 Dor alle der gerre scande</l>
+<l>Die tArturs hove behorden.</l>
+<l>Dies worden si in vorworden</l>
+<l>Dat si daer nu souden ontliven</l>
+<l>Waleweine, dat ne soude niet bliven;</l>
+<l>44855 En ware dat hen ware scame</l>
+<l>Omdat hi hadde ridders name,</l>
+<l>Ent hen lachter ware te vele</l>
+<l>Si souden hangen bider kele</l>
+<l>Int sceden vanden tween landen</l>
+<l>44860 Den coninc Arture te scanden,</l>
+<l>Dat alle dine souden sien</l>
+<l>Ende ridderscaeps daer plien,</l>
+<l>Ende behorden ten coninc Arture,</l>
+<l>Ende sochten daer dan aventuren,</l>
+<l>44865 Souden scuwen te varne vort</l>
+<l>Alsi die niemare daer hadden verhort,</l>
+<l>Daermen sulke wrake name</l>
+<l>Op elken riddere die daer quame</l>
+<l>Ende dire aventuren sochte.</l>
+<l>44870 Dus gevielt datmen daer brochte</l>
+<l>Waleweine op een rosside geleit,</l>
+<l>Sere gewont ende mesreit,</l>
+<l>Binnen ere halver milen gehinde,</l>
+<l>Soe dat here Walewein bekinde</l>
+<l>44875 Dat daer woende die clusenare,</l>
+<l>Die hi gevraget hadde om niemare</l>
+<l>Al toter selver wegesceden</l>
+<l>Van sconincs Arturs geleden</l>
+<l>Ende vanden quaden fellen lande,</l>
+<l>44880 Daer menech haelde grote scande.</l>
+<l>Nu waren die gene des bedocht,</l>
+<l>Die Waleweine daer hadden brocht,</l>
+<l>Datsi een rat souden doen maken</l>
+<l>Ende Waleweine daer op raetbraken</l>
+<l>44885 Ter crucen enter wegesceide,</l>
+<l>Daer ic te voren af seide.</l>
+<l>Ic late hier af nu di sprake</l>
+<l>Van deser dinc, van deser sake,</l>
+<l>Tes icker weder come toe;</l>
+<l>44890 Ende ic sal u vort secgen hoe</l>
+<l>Dat Moriaen heeft gevaren</l>
+<l>Doe si alle drie gesceden waren,</l>
+<l>Alsic u hebbe doen verstaen,</l>
+<l>Mijn her Walewein ende Moriaen,</l>
+<l>44895 Ende Lanceloet, die was die derde,</l>
+<l>Die gerne wilde maken verde</l>
+<l>Vanden dire ende vander niemare</l>
+<l>Dat hem seide die clusenare;</l>
+<l>Ic sal u tellen van Moriane</l>
+<l>44900 Eric van Waleweine doe te verstane.</l>
+<l>Nu telt die aventure hier</l>
+<l>Dat Moriaen, die ridder fier,</l>
+<l>Reet die strate ter zee ward,</l>
+<l>Ende quam tere passagen ter vard,</l>
+<l>44905 Daer hi opter zee bi quam.</l>
+<l>Ende inden dage hi nieman vernam</l>
+<l>Die hi vrachde na sinen vader.</l>
+<l>Hi verloes sine pine algader;</l>
+<l>Si scuetdene alle dine sagen:</l>
+<l>44910 Hem half lettel goet sijn vragen;</l>
+<l>Die hem mochte ontgaen oft riden</l>
+<l>En wilde sijns niet ontbiden;</l>
+<l>Maer hi sach daer hoefslagen</l>
+<l>Van orssen, die vor hem lagen,</l>
+<l>44915 Ende onlange waren gereden:</l>
+<l>Bedie pensdi dat daer was leden</l>
+<l>Sijn vader in corten dagen.</l>
+<l>Hi volgede den voetslagen</l>
+<l>Al toter passagen toe.</l>
+<l>44920 Hine hadde snachts raste no roe,</l>
+<l>Noch hine vant niweren daer hi mochte</l>
+<l>Herbergen, daer hem selven dochte</l>
+<l>Dat hire gecrigen mochte gemac,</l>
+<l>Daer hi binnen mochte onder dac.</l>
+<l>44925 Des margens vroe alst dagede,</l>
+<l>Dies hem harde wel behagede,</l>
+<l>Ende menne sach scone ende claer,</l>
+<l>Quam hi recht gereden daer</l>
+<l>Daer men over soude varen;</l>
+<l>44930 Maer hine sager moederbaren</l>
+<l>Nieweren wonen daer omtrent:</l>
+<l>Die scakers hadden daer al gescent</l>
+<l>Ende verslegen ende verdreven,</l>
+<l>Datter nieman ne was bleven.</l>
+<l>44935 Het was al heide ende sant:</l>
+<l>Hine vant daer anders geen lant;</l>
+<l>Daer ne wies gers no coren.</l>
+<l>Hine mochter nieman sien no horen,</l>
+<l>Noch liede keren noch gaen;</l>
+<l>44940 Maer hi sagere scepe staen,</l>
+<l>Daer scepliede binnen lagen,</l>
+<l>Diet folc over te vorne plagen</l>
+<l>Die wouden wesen in Yrlant.</l>
+<l>Moriaen quam gereden int sant,</l>
+<l>44945 Ende riep lude int begin</l>
+<l>Te scepe ward: "Wie es daer in,</l>
+<l>Bericht mi dies ic u vrage,</l>
+<l>Dor dere vanden goden dage</l>
+<l>Ende om een deel van minen gode,</l>
+<l>44950 Alsoe dat ics mi bevrode,</l>
+<l>Oft hier enech ridder leet</l>
+<l>Over dwater, dart ieman weet,</l>
+<l>Binnen corten dagen harward?"</l>
+<l>Si worden alle soe vervard</l>
+<l>44955 Van hem, allen die int scepe lagen,</l>
+<l><edition n="301"/>Doen si Moriane sagen,</l>
+<l>Die sinen helm hadde af gedaen,</l>
+<l>Hine mochte horen no verstaen</l>
+<l>Noch tale noch wedertale.</l>
+<l>44960 Si vervarden hen altemale</l>
+<l>Om dat hi was sward ende groet.</l>
+<l>Elc stac ter zee ward sinen boet</l>
+<l>Ende ruemden die marine;</l>
+<l>Want Moriaen was in scine</l>
+<l>44965 Als hi uter helle ware comen.</l>
+<l>Si waenden den duvel hebben vernomen,</l>
+<l>Dise wilde daer verleden:</l>
+<l>Die tirst van hen mochte sceden</l>
+<l>Hine wilde sanders niet ontbiden.</l>
+<l>44970 Doe wilde Moriaen weder riden:</l>
+<l>Nieman ne horde na sine sprake,</l>
+<l>Noch berichte van sire sake;</l>
+<l>Si waenden allegader wel</l>
+<l>Dat ware di duvel ende niemen el</l>
+<l>44975 Die daer quamen opten sande.</l>
+<l>Si togen alle vanden lande.</l>
+<l>Moriaen sach wel te voren</l>
+<l>Dattie pine was verloren:</l>
+<l>Al wildi die passage liden</l>
+<l>44980 Sijns en wilde nieman ontbiden,</l>
+<l>Dine name in sinen boet.</l>
+<l>Dus moesti keren dor die noet;</l>
+<l>Dies dreef hi menegerhande clage.</l>
+<l>Ende hi sach die hoefslage</l>
+<l>44985 Daer twee ors hadden gelopen,</l>
+<l>Ende was ember dies in hopen</l>
+<l>Dat daer sijn vader hadde gereden</l>
+<l>Ende ware die passage leden;</l>
+<l>Maer hi pensde in sinen moet:</l>
+<l>44990 "Wat hulpet dat een man doet</l>
+<l>Pine, die hi verloren siet?</l>
+<l>Men vorde mi daer over niet</l>
+<l>Om dat ic ben van Moriane,</l>
+<l>Ende ic hebbe andere gedane</l>
+<l>44995 Dan die hier te lande behoren.</l>
+<l>Ic hebbe dese vart verloren;</l>
+<l>Mi en es niet beter dan ic kere</l>
+<l>Ten clusenare, den goden here,</l>
+<l>Daer ic van minen gesellen sciet."</l>
+<l>45000 Hine at no hine dranc niet</l>
+<l>Sider dat hi danen voer.</l>
+<l>Sijn hoeft verwermdem ende swoer:</l>
+<l>Dat dede di honger ende di toren.</l>
+<l>Hine sach achter no voren</l>
+<l>45005 Daer hi toe comen mochte,</l>
+<l>Daermen enege spise vercochte,</l>
+<l>Noch daer hi sach man no wijf,</l>
+<l>Noch creature di hadde lijf</l>
+<l>In die marine vander zee.</l>
+<l>45010 Hi sporslaechde ilanc so mee</l>
+<l>Den rechten wech dien hi vernam,</l>
+<l>Tes hi ter wegesceden quam.</l>
+<l>Daer vant hi timmerliede staen</l>
+<l>Beide houwen ende sere slaen,</l>
+<l>45015 Ende hadden een rat gemaect.</l>
+<l>Hi sach enen riddere sitten al naect,</l>
+<l>Beverwet met blode roet,</l>
+<l>Optie eerde in groter noet:</l>
+<l>Hi was daer bracht op dat,</l>
+<l>45020 Datmenne daer breken soude opt rat,</l>
+<l>Tirst dat daer gemaect ware.</l>
+<l>Met rechte was sijn herte in vare.</l>
+<l>Ende hi sach ende vernam,</l>
+<l>Moriaen, die daer nu quam,</l>
+<l>45025 Blicken menegen halsberch claer,</l>
+<l>Ende vele gewapender liede daer.</l>
+<l>Hi sager selken qualijc bereet,</l>
+<l>Die waren ontwapent ende ontcleet,</l>
+<l>Die daer hadden ongesonden,</l>
+<l>45030 Ende haer lede oec gebonden:</l>
+<l>Sulc haer arme, sulc haer been,</l>
+<l>Sulc haer hoeft, daer bloet dor sceen.</l>
+<l>Ende min her Walewein, die daer sat</l>
+<l>Sere mesmaect, bekinde dat:</l>
+<l>45035 Nu daer quam her Moriaen</l>
+<l>Hi riep, dat menech mochte verstaen:</l>
+<l>"Live geselle, sijt willecome.</l>
+<l>Onse here God geefs mi vrome</l>
+<l>Dat gi sijt comen in dit plein.</l>
+<l>45040 Ic ben u geselle Walewein.</l>
+<l>Om desen ramp en pensdic niet</l>
+<l>Doe ic hier achters van u sciet</l>
+<l>Ende gi van mi, te derre stede.</l>
+<l>Ontferme u mire ellendechede</l>
+<l>45045 Die gi ane mi moget merken.</l>
+<l>God hi mach u wel gesterken,</l>
+<l>Die boven ons allen hevet macht,</l>
+<l>Woudi hier baren sine cracht."</l>
+<l>Alse dit horde Moriaen,</l>
+<l>45050 Die harde scire was bestaen</l>
+<l>Vanden genen die daer lagen,</l>
+<l>Van soe vresseliken slagen</l>
+<l>En horde noit man lesen no singen</l>
+<l>Datse ieman mochte volbringen,</l>
+<l>45055 Die slage die Moriaen sloech</l>
+<l>Metten swerde dat hi droech.</l>
+<l>Soe wat so hi gerochte</l>
+<l>Metten swarde dat hi brochte,</l>
+<l>En ontfinc noit vlecge no scard:</l>
+<l>45060 Hi sloecht tot over die middeward.</l>
+<l>Daer ne was wapine gene so goet</l>
+<l>Dat dat sward iet wederstoet:</l>
+<l>Dat dede sine grote cracht,</l>
+<l>Dat hi soe anxtelike vacht</l>
+<l>45065 Optie gene dine bestonden,</l>
+<l>Ende sloech so vresselike wonden,</l>
+<l>Die nembermer ne mochten genesen</l>
+<l>Noch en dorsten gesalft wesen</l>
+<l>Van en geen arsaters handen.</l>
+<l>45070 Hi cloef daer menegen toten tanden</l>
+<l>Dor die coyfie ende dor al,</l>
+<l>Soe dat si vilen in dat dal.</l>
+<l>Telken dathi sijn ogen om sloech</l>
+<l>Ende hise te Waleweine ward droech,</l>
+<l>45075 Die comen was in sware noet,</l>
+<l>Verhief hem sijn moet soe groet,</l>
+<l>Ware die duvel vor hem comen</l>
+<l>Hi mochte hem dleven hebben genomen</l>
+<l>Gelijc enen man, als hem dochte;</l>
+<l>45080 Indien dat hi sterven mochte</l>
+<l>Soe haddi sijn lijf daer gelaten.</l>
+<l>Walewein sat binnen der herstraten</l>
+<l>In wel swaren ongesonden:</l>
+<l>Hi hadde sine hande gebonden.</l>
+<l>45085 Maer die gode riddere Moriaen,</l>
+<l>Hi deetse bat achter gaen,</l>
+<l>Die gene dine daer brochten,</l>
+<l>Dat si lettel om heme dochten.</l>
+<l>Hi verweerde hem soe wel</l>
+<l>45090 Met sinen slagen, die waren fel,</l>
+<l>Hem ne mochte niet meschien;</l>
+<l>Hi deetse vallen bi tween, bi drien:</l>
+<l>Sulc onder haer perde, sulc besiden.</l>
+<l>Dat parc begonste sere widen</l>
+<l>45095 Om Waleweine ende om Moriane:</l>
+<l>Si waren alle daer in wane</l>
+<l>Dat hi uter hellen quame</l>
+<l>Ende hadde des duvels name,</l>
+<l>Dise daer alsoe bedwelde</l>
+<l>45100 Ende onder die voete velde,</l>
+<l>Datter menech meer en sprac.</l>
+<l>Datmen op hem sloech ende stac</l>
+<l>Dat en dietde niet algader:</l>
+<l>Daer af slachti sinen vader,</l>
+<l>45105 Den edelen riddere Acglavale.</l>
+<l><edition n="302"/>Hine hilt jegen nieman tale,</l>
+<l>Maer hi sloech ember slach in slach</l>
+<l>Op dat heme gehinde lach.</l>
+<l>Sine slage waren so groet,</l>
+<l>45110 Wie een spere te hemward boet</l>
+<l>Om hem te done enege dere,</l>
+<l>En besloet hem niet ene pere,</l>
+<l>Hi sloecht ontwe alst ware een riet:</l>
+<l>Vor hem mochte geduren niet.</l>
+<l>45115 Hi hadde enen halsberch an,</l>
+<l>Die overstarke coene man,</l>
+<l>Daer hi niet sere met was geladen:</l>
+<l>Nieman ne mochte hem gescaden</l>
+<l>Met wapinen die hi brachte daer.</l>
+<l>45120 Men sach dat bloet lopen claer</l>
+<l>Optie eerde te dale ward;</l>
+<l>Daer ne was gespard man no pard</l>
+<l>Van des goeds ridders brande.</l>
+<l>Men sager lichgen hoefde ende hande,</l>
+<l>45125 Ende daertoe arme ende been,</l>
+<l>Sulc af geslegen, sulc in tween.</l>
+<l>Die der doet mochte ontflien</l>
+<l>Hem ne mochte niet bat gescien,</l>
+<l>Want si worden segeloes,</l>
+<l>45130 Ende menech daer sijn inde coes.</l>
+<l>Die tirst mochte comen te stride</l>
+<l>Ende ontflien, hi was blide,</l>
+<l>Ende hine ontbeide sanders niet</l>
+<l>Die hi in die battalge liet.</l>
+<l>45135 Ende met dat si dus worden versaecht</l>
+<l>Ende doet geslegen ende verjaecht</l>
+<l>Oft ongeweldech van sinen leden,</l>
+<l>Sulke quamen daer gereden</l>
+<l>Die hadden verloren hare perde</l>
+<l>45140 Ende moesten rutsen harre verde:</l>
+<l>Sine wisten wat riden, si moesten gaen.</l>
+<l>Doe beette neder Moriaen</l>
+<l>Ende nam Waleweine in sine arme</l>
+<l>Ende seide dicke: "O wacharme,</l>
+<l>45145 Geselle hoe sidi dus beraden?</l>
+<l>Ic vruchte u ne sal staen te staden</l>
+<l>Ersatere ter werelt nembermeer,</l>
+<l>U lede dunken mi so seer,</l>
+<l>Ende hebben soe vele wonden."</l>
+<l>45150 Hi hadde hem sine hande ontbonden.</l>
+<l>Walewein seide: "In hebbe gene noet."</l>
+<l>Hi dancte Gode dine geboet,</l>
+<l>Ende Moriane hondertvout mede,</l>
+<l>Dat hi was bracht ut sinen lede</l>
+<l>45155 Ende hi vertroest also was daer.</l>
+<l>Sijn herte was licht ende claer;</l>
+<l>Ende seide hi soude wel genesen</l>
+<l>Mocht hi twe dage stille wesen</l>
+<l>Sonder gaen en sonder riden,</l>
+<l>45160 Dat hi niwer af dorste miden,</l>
+<l>Bider hulpen van Gode ende bi liste,</l>
+<l>Ende met sulken crude dat hi wiste;</l>
+<l>Ende weder hebben al sine gewelt.</l>
+<l>Ende daer was bleven opt velt</l>
+<l>45165 Gringalet ende andere peerde,</l>
+<l>Daer die heren af harre veerde</l>
+<l>Waren gevaren, ende some doet.</l>
+<l>Gringalet ginc al bloet:</l>
+<l>Het hadde sinen sadel verloren,</l>
+<l>45170 Alse gi horet hier te voren:</l>
+<l>Daerne hadde nieman op geseten.</l>
+<l>Hi had daer opt velt vergeten,</l>
+<l>Die gene diet daer hadde brocht:</l>
+<l>Hi hadde den wech te dire becocht</l>
+<l>45175 Ende lach daer doet int grone gras.</l>
+<l>Ende Walewein, diest te voren was,</l>
+<l>Hi stont op van daer hi sat,</l>
+<l>Hem dochte dat hi al leets vergat,</l>
+<l>Ende ginc en wech sine verde</l>
+<l>45180 Tes hi naecte sinen perde;</l>
+<l>Ende als hijt sach met sinen ogen</l>
+<l>Sijn herte begonste hem soe verhogen,</l>
+<l>Hem dochte dat hi al genas.</l>
+<l>Also bereit alsi daer was</l>
+<l>45185 Nochtan kindene Gringalet,</l>
+<l>Dat nine woude porren een let</l>
+<l>En quame vorder tsinen here.</l>
+<l>Dat part namene biden gere</l>
+<l>(Van vrinscepen) metten monde.</l>
+<l>45190 Daer ne was gelet gene stonde:</l>
+<l>Si gingen toten clusenare,</l>
+<l>Die sere hadde geweest in vare</l>
+<l>Om dat hise horde ende sach,</l>
+<l>Tenen vensterkine daer hi lach.</l>
+<l>45195 Hi kinde die twe ridders wale</l>
+<l>Doe hi horde hare tale,</l>
+<l>Ende dat si die gene waren</l>
+<l>Die daer achterst quamen gevaren.</l>
+<l>Hi sprac toter aventuren vader:</l>
+<l>45200 "Dit haddic u geseit algader</l>
+<l>Doen gi te lande ward reed</l>
+<l>Ende ic u bat dat gi ontbeed,</l>
+<l>Ende gi en woudes doen niet.</l>
+<l>Hier bi es u aldaer mesciet.</l>
+<l>45205 Die gerne werken buten rade</l>
+<l>Dicwile hebben sijs scade.</l>
+<l>Maer na dien dat u es comen</l>
+<l>So penst om uwes selfs vromen,</l>
+<l>Ende blieft trameer met mi hier binnen;</l>
+<l>45210 In weet waer gi mocht gewinnen</l>
+<l>Herberge, voerdi van hier.</l>
+<l>Dat wel ondadege dier,</l>
+<l>Daer ic af seide doe gi hier waerd,</l>
+<l>Heeft so gebloet hier den aerd,</l>
+<l>45215 Dat hier nieman woent bi.</l>
+<l>Al wonic hier, dats bedi</l>
+<l>Ic ben niet sculdech te vline</l>
+<l>Noch gene doet tontsine</l>
+<l>Wanneer dat min dach coemt</l>
+<l>45220 Die mi es versproken ende genoemt,</l>
+<l>Want ic brake mine ordine.</l>
+<l>Lange tale dat es pine:</l>
+<l>In wil u vermoyen niet;</l>
+<l>Maer siet dat gi uwes gemaecs pliet.</l>
+<l>45225 Gi sult uwe orsse stellen;</l>
+<l>Ende sijt trameer binnen mire capellen.</l>
+<l>Dies ic hebbe salic u geven</l>
+<l>Dor Gode, die ons gaf dit leven,</l>
+<l>Ende dor alre ridders ere."</l>
+<l>45230 Walewein dankes hem sere</l>
+<l>Ende Moriaen sijn geselle.</l>
+<l>Doe gingen si in die capelle</l>
+<l>Ende waren daer in den dach aldure.</l>
+<l>Elc telde anderen sine aventure</l>
+<l>45235 Min noch meer dan si gevel.</l>
+<l>Die clusenare begaetde dorsse wel</l>
+<l>Van al dien dat hen bedorste,</l>
+<l>Ende dede hen halen sonder vorste</l>
+<l>Enen garsoen, die hen diende,</l>
+<l>45240 Alse goet man doet sine vriende,</l>
+<l>Van dies hi mochte gewinnen</l>
+<l>Ende van dies hi hadde daer binnen;</l>
+<l>Ende dede halen ter riviere</l>
+<l>Borne, ende warmen sciere</l>
+<l>45245 Na Waleweins wille, na sijn gevoech,</l>
+<l>Daermen hem sine lede met dwoech</l>
+<l>Vanden blode, suver ende rene.</l>
+<l>Hine hadde doetwonde ne gene:</l>
+<l>Dat daden sine wapine vast;</l>
+<l>45250 Anders waer hi sijns lives gast</l>
+<l>Vanden slagen die hi ontfinc.</l>
+<l>Doe quam gegaen metteser dinc</l>
+<l>Die clusenare binnen der capellen,</l>
+<l>Ende seide hen ende ginc tellen</l>
+<l>45255 Wie hi hadde gehort niemaren</l>
+<l><edition n="303"/>Van pelegrimen, die daer waren,</l>
+<l>Dattie rode riddere was leden,</l>
+<l>Ende sijn geselle, die strate gereden</l>
+<l>Die daer bi der zeeward lach:</l>
+<l>45260 Al quaemt so dat hise nine sach,</l>
+<l>Het was hem gisteren doen verstaen.</l>
+<l>Doe seide die riddere Moriaen,</l>
+<l>Ende seide: Biden goden dage,</l>
+<l>Dat hi volgede die hoefslage</l>
+<l>45265 Vanden orssen, dire waren leden,</l>
+<l>Tes hi quam ter passagen gereden</l>
+<l>Daermen met scepen over voer;</l>
+<l>"Ende daer verlosic al dat boer</l>
+<l>Vanden spore, waert voert liep;</l>
+<l>45270 Maer wat ic bat ende riep</l>
+<l>Optie gene die daer lagen</l>
+<l>In haer scepe, alsi mi sagen</l>
+<l>Si waren vervard als een hase:</l>
+<l>Sine berichten mi niet, die dwase,</l>
+<l>45275 Van al dien dat ic hen vrachde.</l>
+<l>Daer ne was nieman hine versachde</l>
+<l>Ende trac bat in ter zee ward.</l>
+<l>Mi dochte si waren van mi vervard;</l>
+<l>Maer bi alsulker trouwen</l>
+<l>45280 Alsic ben sculdech onser vrowen</l>
+<l>Ende ridderscap ende oec Gode,</l>
+<l>Si mochtent mi ontsecgen node;</l>
+<l>Ic sal van henen weder keren</l>
+<l>Ende anderwerf den wech verleren;</l>
+<l>45285 Ende magicker enen opt lant bevaren</l>
+<l>Vanden genen die daer waren</l>
+<l>Ende die ter scepingen behoren,</l>
+<l>Hi was ter quader tijt geboren.</l>
+<l>Ende vort hi mi niet over tvere,</l>
+<l>45290 Ic dorstekene met minen spere,</l>
+<l>Oft slane so met minen swerde</l>
+<l>Dat hi valt doet optie eerde.</l>
+<l>Mijn herte vorseit mi algader</l>
+<l>Dat daer leden was min vader;</l>
+<l>45295 Maer in gemote moderbaren</l>
+<l>Alsic al hadde gevaren,</l>
+<l>Dinicker omme mochte vragen.</l>
+<l>Doe begonstic mi versagen,</l>
+<l>Want die honger ginc mi an,</l>
+<l>45300 Ende inne vant wijf no man</l>
+<l>Dan heide ende woest lant,</l>
+<l>Daert mi was harde onbecant;</l>
+<l>In conster nieman gesien no horen:</l>
+<l>Daer ne wast gers no coren;</l>
+<l>45305 Ic segt u waer nu van desen,</l>
+<l>Daerne comt nieman hine wilre wesen</l>
+<l>Banderside den watre breet</l>
+<l>Ter scepingen die daer was gereet.</l>
+<l>Dus dogedic pine om niet.</l>
+<l>45310 Maer soe wat dat mins gesciet,</l>
+<l>Na dien dat ic verhoren can</l>
+<l>An onsen ward, den goden man,</l>
+<l>Dat min vader voer al daer,</l>
+<l>Ic sal hem echter volgen naer,</l>
+<l>45315 Sien oftic over comen mach,</l>
+<l>Gebidic morgen den dach.</l>
+<l>Na dien dat icker af hebbe gehort</l>
+<l>Hine es noch niet so verre vort</l>
+<l>In waenne achterhalen wel,</l>
+<l>45320 Mine gebreke min ors snel,</l>
+<l>Dat soe starc es, so goet."</l>
+<l>Her Walewein seide: "God geefs u spoet."</l>
+<l>Maer selve was hi tenden rade,</l>
+<l>Ende clagede sere sine scade.</l>
+<l>45325 En was hem niet comen ten besten:</l>
+<l>Hem was verstolen binnen der vesten</l>
+<l>Verradelijc sijn gode swerd,</l>
+<l>Daer hi hem met soude hebben verwerd.</l>
+<l>Diet hem nam, God geve hem scande.</l>
+<l>45330 Sine daregerden, sine stegebande</l>
+<l>Waren hem gesneden te middeward:</l>
+<l>Als hi waende sitten op sijn part</l>
+<l>So braken si altemale in tween;</l>
+<l>Hi bleef staende op sine been.</l>
+<l>45335 Dit vertelde Walewein daer vort,</l>
+<l>Alse gi hier vore hebt gehort.</l>
+<l>Al was hem sijn herte swaer,</l>
+<l>Die dus was te gereke daer,</l>
+<l>Dan was wonder no vremthede.</l>
+<l>45340 Men dwoech Waleweine sine lede,</l>
+<l>Ende hi begaetde sine wonden.</l>
+<l>Men hadde soe goeden meester vonden,</l>
+<l>Daer nie moder ave genas,</l>
+<l>Alse her Walewein selve was:</l>
+<l>45345 Soe wat wonden Walewein plach,</l>
+<l>Si heilden daermen toe gesach.</l>
+<l>Dien nacht hadden si alder genaden</l>
+<l>Die hen die clusenare mochte beraden</l>
+<l>Toter wilen datmen sach</l>
+<l>45350 Verbaren den sconen dach,</l>
+<l>Ende die sonne begonde scinen.</l>
+<l>Her Walewein was een deel in pinen,</l>
+<l>Want sine wapine ende sine gewaden</l>
+<l>Waren harde omberaden;</l>
+<l>45355 Nochtan deerde hem vele meer</l>
+<l>Sine wonden, di waren seer.</l>
+<l>Ende daer ne woende nieman gehinde</l>
+<l>Daer hi heme ane bekinde,</l>
+<l>Noch die mochte beteren sine noet.</l>
+<l>45360 Sine hadden wijn, vleesch no broet:</l>
+<l>Den clusenare was niet bleven,</l>
+<l>Hine had den heren al gegeven.</l>
+<l>Ende Moriaens herte was algader</l>
+<l>Om te volgene sinen vader;</l>
+<l>45365 Ende Walewein was ember in dien</l>
+<l>Dat hi wilde varen besien</l>
+<l>Hoe Lanceloet hadde gevaren.</l>
+<l>Hem was leet soudi iet sparen</l>
+<l>Ofte ontbeiden, ofte dagen;</l>
+<l>45370 Om hem wildi varen vragen</l>
+<l>In dien dat hi mochte riden;</l>
+<l>Maer hi moeste enen dach ontbiden</l>
+<l>Eer hi gesate in sijn gereide,</l>
+<l>Sulc waren sine arbeide</l>
+<l>45375 Vander smerten die hi ontfinc,</l>
+<l>Ende wonder waest dat hijs ontginc.</l>
+<l>Ende nu gebrac hen lijfnere,</l>
+<l>Ende dat was oec ene sware dere.</l>
+<l>Al hadden si penninge oft pande,</l>
+<l>45380 Daer ne woende nieman inden lande</l>
+<l>An dene side, wisten si wel,</l>
+<l>Sonder hare viande fel,</l>
+<l>Die hen gerne beriden wee;</l>
+<l>Ende het was .vij. milen ende mee</l>
+<l>45385 Te ridene rechte vort</l>
+<l>Eermen vant dorp oft port</l>
+<l>Tes conincs Arturs lande ward:</l>
+<l>Hier omme was Walewein vervard.</l>
+<l>Hine mochte wel riden no gaen</l>
+<l>45390 Dat hem te staden mochte staen.</l>
+<l>Dus sijn si tongemake beide</l>
+<l>Ende bevaen met swaren leide.</l>
+<l>Moriaen woude node ontbiden:</l>
+<l>Oec scaemdi hem, soudi ontriden</l>
+<l>45395 Waleweine aldus, sinen geselle,</l>
+<l>Ende bleef met hem in die capelle.</l>
+<l>Doe dochte Moriane in scine,</l>
+<l>Daer hi stont tenen vensterkine,</l>
+<l>Dat een riddere quam gereden</l>
+<l>45400 Met harder groter haestecheden</l>
+<l>Op een ors groet ende snel;</l>
+<l>Ende hi was gewapent wel,</l>
+<l>Ende sceen een starc riddere sijn.</l>
+<l>Moriaen seide: "Wat mach dat sijn?"</l>
+<l>45405 Tot heren Waleweine, daer hi lach.</l>
+<l><edition n="304"/>Hi seide dat hi enen riddere sach,</l>
+<l>"Ende inne [weet] waer hi wille."</l>
+<l>Her Walewein en lach niet stille:</l>
+<l>Hi ginc ter vensteren soe hi best mochte.</l>
+<l>45410 Hi sach den riddere ende hem dochte</l>
+<l>Bi sinen wapinen en bi al</l>
+<l>Daer men man bi merken sal,</l>
+<l>Dat ware Gariet sijn broder,</l>
+<l>Sijns vader kint ende sire moder.</l>
+<l>45415 Ende hi quam die selve strate</l>
+<l>Gereden sere boven maten,</l>
+<l>Die te Bertangen ward gelach.</l>
+<l>Te met dat Walewein op hem sach,</l>
+<l>Te meer docht hem dat hine kinde.</l>
+<l>45420 Doe hi hem was bat gehinde</l>
+<l>Kindi die wapine die hi droech:</l>
+<l>Het was heren Waleweine gevoech,</l>
+<l>Bat den ic vertellen mochte;</l>
+<l>Want her Gariet hi brochte,</l>
+<l>45425 Die starke riddere ende die coene,</l>
+<l>Dies si wel hadden te doene,</l>
+<l>Dat was vleesch ende broet,</l>
+<l>Dat hen wel quam ter noet;</l>
+<l>Ende wijn verchs ende claer.</l>
+<l>45430 Noetsaken brachten nu daer,</l>
+<l>Alse gi hier nu sult horen.</l>
+<l>Die van Bertangen hadden verloren</l>
+<l>Den coninc Arture haren here,</l>
+<l>Ende waren in aventuren sere</l>
+<l>45435 Te verlisene al haer lant,</l>
+<l>Ende hadden Gariette gesant</l>
+<l>Na Waleweine ende na Lancelote;</l>
+<l>Dese waren sonder genote</l>
+<l>Vans conincs hove ute gelesen:</l>
+<l>45440 Perchevael mochte wel die derde wesen,</l>
+<l>Maer hi anteerde ridderscap niet lange;</l>
+<l>Nochtan brachti menegen in bedwange,</l>
+<l>Gelijc datmen heeft gehort.</l>
+<l>Doen her Gariet bat vort</l>
+<l>45445 Was comen vor die cluse gereden,</l>
+<l>Walewein quam met haestecheden</l>
+<l>Uter capellen opter straten,</l>
+<l>Alse die blide was utermaten</l>
+<l>Doen hi sinen broder sach,</l>
+<l>45450 Ende seide: "God geve u goeden dach</l>
+<l>Die hier comt ende die ic sie.</l>
+<l>Nu en wasic so blide nie</l>
+<l>Sint dat ic geboren was."</l>
+<l>Ende Gariet hi beette int gras</l>
+<l>45455 Doe hi sinen broder kinde.</l>
+<l>Alsi hem bat quam gehinde</l>
+<l>Nam hine in sinen arme</l>
+<l>Ende seide: "Owi, wacharme.</l>
+<l>Broder, hoe eest u dus comen?</l>
+<l>45460 Mi donke gi hebt scade genomen</l>
+<l>Ende in battalgen so gewesen,</l>
+<l>Hets aventure suldi genesen</l>
+<l>Ende metten live ontgaen,</l>
+<l>Gi donct mi so ongedaen."</l>
+<l>45465 Dit seide daer her Gariet.</l>
+<l>Walewein seide: "Ic hebbe niet een let</l>
+<l>In hebber wonde an ende smerte;</l>
+<l>Maer ic hebbe gesont die herte,</l>
+<l>Ende sal mi selven wel genesen;</l>
+<l>45470 Maer hier af laet die tale wesen,</l>
+<l>Ende segt mi ende maect mi vroet</l>
+<l>Wat noetsaken dat u doet</l>
+<l>Dat gi hier nu comt gereden;</l>
+<l>Ic wiste gerne die waerheden."</l>
+<l>45475 Gariet seide: "Ic saelt u tellen."</l>
+<l>Doe gingen si inder capellen,</l>
+<l>Daer si vonden Moriane,</l>
+<l>Die sward was van alre gedane,</l>
+<l>Ende den goeden man, den clusenare.</l>
+<l>45480 Een deel was Gariet in vare</l>
+<l>Doe hine sach also gedaen</l>
+<l>Ende also groet vor hem staen.</l>
+<l>Dit verstont wel sijn broder</l>
+<l>Walewein ende makes hem vroder</l>
+<l>45485 Vanden riddere ende van sinen name,</l>
+<l>Ende wie hi ware ende wanen hi quame,</l>
+<l>Eer hi hem anders iet vrachde;</l>
+<l>Hi sach wel dats hem wanhachde</l>
+<l>Doe hi sach van sulker gedane</l>
+<l>45490 Den goeden riddere Moriane.</l>
+<l>Doe saten si neder mettesen:</l>
+<l>Deen hiet den anderen willecome wesen</l>
+<l>Ende dreven onderlingen feesten.</l>
+<l>Maer Walewein hadde den meesten</l>
+<l>45495 Gere te wesene vroder</l>
+<l>Wanen dat quam Gariet sijn broder,</l>
+<l>Dan ic u gesecgen mochte,</l>
+<l>Onthier ende hine daertoe brochte</l>
+<l>Dat hi die waerheit begonste nomen</l>
+<l>45500 Hoet met Arture nu es comen</l>
+<l>Ende al ten argesten nu vergaen.</l>
+<l>"Die coninc Artur es gevaen</l>
+<l>Daer hi voer op enen dach</l>
+<l>Jagen, des hi gerne plach,</l>
+<l>45505 Binnen enen groten foreeste,</l>
+<l>Daer quam in ene die meeste</l>
+<l>Scare van gewapenden lieden</l>
+<l>Dan ic u mochte wel bediden</l>
+<l>Al ute ende ut in corten worden,</l>
+<l>45510 Die den coninc van Sassen toe horden.</l>
+<l>Si hadden daer soe grote macht</l>
+<l>Ende vingen Arture met harre cracht,</l>
+<l>Die hem lettel dies bedachte,</l>
+<l>Ende gene macht met hem brachte,</l>
+<l>45515 Daer hi voer ter jacht ward.</l>
+<l>Dus sijn sine liede sere besward,</l>
+<l>Ende boven al die coninginne,</l>
+<l>Die waende werden buten sinne</l>
+<l>Om dattie coninc es ongereet,</l>
+<l>45520 Ende si die waerheit nine weet</l>
+<l>Waer sine vorden ende hebben gedaen,</l>
+<l>Dine int foreest hebben gevaen.</l>
+<l>Des es nu meneger herten wee.</l>
+<l>Dat foreest staet optie zee,</l>
+<l>45525 Daer die gene ane quamen,</l>
+<l>Die den coninc met crachte namen</l>
+<l>Ende vordene daert hen goet dochte:</l>
+<l>Dat volc dat Artur met hem brochte</l>
+<l>Dat was ontwapent ende sonder were:</l>
+<l>45530 Haer cracht en besloet niet ene pere.</l>
+<l>Noch hebbewi enen anderen pant:</l>
+<l>Die Yrsche coninc es comen int lant</l>
+<l>Ende heeft orloge begonnen;</l>
+<l>Ende ene stat op ons gewonnen,</l>
+<l>45535 Ende ene andere met beseten.</l>
+<l>Die coninc hevet hem vermeten,</l>
+<l>Hi sal Arturs lant winnen al,</l>
+<l>Beide berch ende dal,</l>
+<l>Entie castele metten staden,</l>
+<l>45540 Dies so es hi al beraden,</l>
+<l>Ende bekeren te sire hant</l>
+<l>Eer hi rumen sal dat lant.</l>
+<l>Dies es die coninginne in vare,</l>
+<l>Ende die gene die sijn met hare</l>
+<l>45545 Sine wanens nembermeer genesen;</l>
+<l>Ende haddi, broder, int lant gewesen</l>
+<l>Ende Perchevael ende Lanceloet,</l>
+<l>Sone warewi niet in deser noet;</l>
+<l>En leeft man en geen so coene</l>
+<l>45550 Die hadde dorren bestaen te doene</l>
+<l>Op aventure dese daet.</l>
+<l>Nu droech so mire vrowen raet</l>
+<l>Dat si heeft boden ut gesant</l>
+<l>Verre ende na in elc lant</l>
+<l>45555 Om u ende oec om Lanceloet,</l>
+<l><edition n="305"/>Dat doet hare noetsake groet.</l>
+<l>Ende ic ben vanden boden een,</l>
+<l>Ende hebbe gereden dat ic en feen,</l>
+<l>Van Arturs hove hareward,</l>
+<l>45560 Wat gedragen mach min part,</l>
+<l>Ende hebbe so lange om u geheist,</l>
+<l>Datmen mi seide, ende hebbe gevreist</l>
+<l>Dat gi ward leden onder u beden</l>
+<l>Te desen cruse, te deser wegesceden;</l>
+<l>45565 Ende men seide mi banderside</l>
+<l>Dat ic hadde te ridene wide</l>
+<l>Selke strate, mochtic varen,</l>
+<l>Eric vonde moderbaren,</l>
+<l>Weder man ofte wijf</l>
+<l>45570 Die kerstendom hadde oft lijf.</l>
+<l>Nu hebbic mi dies vorwacht</l>
+<l>Ende hebbe spise met mi bracht,</l>
+<l>Beide vleesch ende broet,</l>
+<l>Ofts mi gevile oec noet,</l>
+<l>45575 Ende colen claren wijn</l>
+<l>In twe butsele, die hier sijn</l>
+<l>Ane min gereide gehangen,</l>
+<l>Dat icker toe mochte vangen</l>
+<l>Wanneer dat ics hadde te done."</l>
+<l>45580 Doe loech Walewein, die coene,</l>
+<l>Alsi die spise horde nomen,</l>
+<l>Ende seide dat si te tide was comen,</l>
+<l>Want sine hadden vitalge ne gene,</l>
+<l>No weder groet noch clene,</l>
+<l>45585 Noch van drinken daer binnen,</l>
+<l>Noch en wistent waer gewinnen</l>
+<l>En haddi daer en gene brocht.</l>
+<l>God hadde haers te tide gedocht</l>
+<l>Ende Maria sijn edel moder.</l>
+<l>45590 Doe seide Gariet sijn broder:</l>
+<l>"Laet ons eten ende drinken gaen</l>
+<l>Ende den maeltijt anevaen,</l>
+<l>Dies es te doene ende noet.</l>
+<l>Ende waer es her Lanceloet,</l>
+<l>45595 Dat icken hier nine sie,</l>
+<l>Broder, her Walewein, dat segt mie:</l>
+<l>Ic soude gerne di waerheit horen."</l>
+<l>Walewein seide: "Hi voer hier voren</l>
+<l>Om te soekene Perchevaele."</l>
+<l>45600 Gariet antwerde nader tale</l>
+<l>Ende seide: "Dat hine soect ende pine doet</l>
+<l>Dats altemale jegen spoet;</l>
+<l>Ons es te hove comen niemare</l>
+<l>Dat Perchevael hermite ware</l>
+<l>45605 Ende doget carine om sine sonden.</l>
+<l>Hi heeft di waerheit ondervonden;</l>
+<l>Al sochti tot opten domesdach</l>
+<l>Tspere, dat hi te soekene plach,</l>
+<l>Ende tgrael, dat hijs nine vonde,</l>
+<l>45610 Dat comt algader bider sonde</l>
+<l>Die hi an sire moder dede</l>
+<l>Ter selver wilen ende ter stede</l>
+<l>Daer hise int foreest liet</l>
+<l>Doe hi achterst van hare sciet,</l>
+<l>45615 Ende nine woude bliven metter vrowen:</l>
+<l>Doen bleef si doet van rouwen.</l>
+<l>Die sonden hebbent hem benomen,</l>
+<l>Al was hire enewarf op comen,</l>
+<l>Te vindene tspere ende tgrael;</l>
+<l>45620 Hi moet sijn suver ende noyael</l>
+<l>Van allen smetten, van allen sonden,</l>
+<l>Dies es die waerheit ondervonden,</l>
+<l>Die gene die hebben sal tgeval</l>
+<l>Dat hi tspere rasteren sal</l>
+<l>45625 Na sinen wille, ende dat grael.</l>
+<l>Om desen rouwe es Perchevael</l>
+<l>In die hermitage gevaren,</l>
+<l>Des sijn te hove comen niemaren,</l>
+<l>Ende hi hevet daer laten weten wale;</l>
+<l>45630 Ende van sinen broder Acglavale</l>
+<l>Daer af ontboet hi ons mede</l>
+<l>Dat hi leget daer ter stede</l>
+<l>Biden oem sere gewont;</l>
+<l>Maer die bode maecte ons cont</l>
+<l>45635 Dat hi ane die bate es nu,</l>
+<l>Her Walewein, dat secgic u.</l>
+<l>Nu laet ons eten ende keren</l>
+<l>Ter coninginnen ward met eren,</l>
+<l>Dat ontbiet u nu min vrowe,</l>
+<l>45640 Ende Lancelote oec, op rechte trouwe:</l>
+<l>Maer ic ben drove ende mi es leet</l>
+<l>Dat hi mi es dus ongereet."</l>
+<l>Alse dese redene hadde verstaen</l>
+<l>Acglavaels sone Moriaen,</l>
+<l>45645 Ende dese redene hadde gehort,</l>
+<l>Vrachdi om niemare vort</l>
+<l>Ofte daer ieman ware binnen</l>
+<l>Die hem mochte laten bekinnen,</l>
+<l>Ende die rechte waerheit wiste</l>
+<l>45650 Ende hem gewisen mochte bi liste</l>
+<l>Waer die hermitage stoet,</l>
+<l>Hi souts gerne wesen vroet,</l>
+<l>Daer sijn oem begeven ware ter stont</l>
+<l>Ende sijn vader lage gewont.</l>
+<l>45655 Die clusenare seide lude ende stille:</l>
+<l>"Die scepinge hadde tsinen wille</l>
+<l>Ende den wint, dat si u cont,</l>
+<l>Hi souder comen eer avont."</l>
+<l>Hi seide dat hi den hermite cande;</l>
+<l>45660 "Ende onder te watere ende te lande</l>
+<l>Soe [est] .xv. milen tot daer,</l>
+<l>Dat wetic wel over waer;</l>
+<l>Ic hebber so dicke gehort af</l>
+<l>Sint dat ic mi hier begaf.</l>
+<l>45665 Nu hort wies [ic] u vermane,"</l>
+<l>Sprac hi tote Moriane:</l>
+<l>"Over den arm vander zee</l>
+<l>Daer gi toe vard min no mee,</l>
+<l>Banderside optie marine</l>
+<l>45670 Hets een foreest: het es in scine</l>
+<l>Dat alre meeste datmen weet,</l>
+<l>Ende dwilste, ende lanc ende breet;</l>
+<l>Maer alsemer comet in,</l>
+<l>An dene side int begin</l>
+<l>45675 Mogen si die hermitage vinden,</l>
+<l>Die gene dies hen willen bewinden,</l>
+<l>Binnen also corter wile</l>
+<l>Alse te ridene ene mile,</l>
+<l>Dies sijt seker, sonder waen."</l>
+<l>45680 "Alse hulp mi God," sprac Moriaen,</l>
+<l>"Daer salic noch tavont sijn,</l>
+<l>Gaet naden wille mijn.</l>
+<l>Mochtic minen vader sien</l>
+<l>Ende mi tgeluc mochte gescien,</l>
+<l>45685 In coerre vore gene have,</l>
+<l>Al vondic man dise mi gave.</l>
+<l>Hi sal oec houden sijn belof,</l>
+<l>Eric sceden sal daer of,</l>
+<l>Dat hi mire moder behiet</l>
+<l>45690 Doe hi achterst van haer sciet,</l>
+<l>Ende lietse met groten rouwen,</l>
+<l>Dat was dat hise soude trowen</l>
+<l>Ende nemen oec tenen wive.</l>
+<l>Maer met enen scarpen knive</l>
+<l>45695 Motic noch tavont gehert wesen</l>
+<l>Oftic achter blive van desen:</l>
+<l>Al ware hi noch enewarf min vader,</l>
+<l>Hine volbringe sijn gelof algader,</l>
+<l>Hine vare met mi in Moriane,</l>
+<l>45700 Hi mach der doet wel sijn in wane."</l>
+<l>Ende hi begonste hem gereiden,</l>
+<l>Alse die danen wilde sceiden.</l>
+<l>Doe seide min her Gariet:</l>
+<l>"Oft God wilt, het sal comen bet</l>
+<l>45705 Tuschen u ende uwen vader</l>
+<l><edition n="306"/>Dan gi hier segt algader.</l>
+<l>Wi selen hier eten ende drinken,</l>
+<l>Ende gi sult u bat bedinken,</l>
+<l>Dat radic u, sidi vroet,</l>
+<l>45710 Uwen vader anders te done dan goet;</l>
+<l>Ende ic mane u bider trouwen</l>
+<l>Die gi sculdech sijt onser vrowen,</l>
+<l>Ende bi ridderscepe oec mede,</l>
+<l>Dat gi mi doet ende bede</l>
+<l>45715 Ende penst omt gode ende niet omt quade,</l>
+<l>Ende werct bi heren Waleweins rade:</l>
+<l>Daer af en gesciet u nember quaet;</l>
+<l>Hi sal u geven den besten raet."</l>
+<l>Doe antwerde Moriaen:</l>
+<l>45720 Hi sout gerne nu anegaen.</l>
+<l>Mettien liet hi dese tale,</l>
+<l>Ende Gariet brachte ut ere male</l>
+<l>Ene dwale cleine ende wit,</l>
+<l>Die vor gode liede wel sit,</l>
+<l>45725 Die wel werdech sijn der eren,</l>
+<l>Ende spreidese vor die heren.</l>
+<l>Hi trac vort uter male</l>
+<l>Meer dan .vij. bi getale</l>
+<l>Credemicken wit alse een snee,</l>
+<l>45730 Die hi daer hadde: ic segs u mee</l>
+<l>Dat hise leide altemale</l>
+<l>Vor die here optie dwale.</l>
+<l>Hi reicte tam ende venisoen,</l>
+<l>Dat hi hadde gereiden doen</l>
+<l>45735 Daer hi snachs hadde gelegen,</l>
+<l>Ende enen harts onderregen,</l>
+<l>Om datmen hem vroet maecte</l>
+<l>Dat hi den wildernesse naecte,</l>
+<l>Om dat daer die ridderen leden</l>
+<l>45740 Die hi sochte ende vor hem reden:</l>
+<l>Om dat hi was op hare slage</l>
+<l>Pordi lange vorden dage</l>
+<l>Ende quam metter sonne opgane daer.</l>
+<l>Hi reicte nu wijn claer,</l>
+<l>45745 Twe goede butsele vul.</l>
+<l>Hine was niet algader dul</l>
+<l>Dat hi des heme bedochte</l>
+<l>Dat hijt daer met hem brochte</l>
+<l>Op aventure waer hi quame.</l>
+<l>45750 Die iet heeft hets altoes gename.</l>
+<l>Ende om dese gode lijfnere</l>
+<l>Vergaten si sere harre dere</l>
+<l>Daer si dronken ende aten.</l>
+<l>Si waren blide utermaten,</l>
+<l>45755 Die drie ridders, daer ter stede,</l>
+<l>Ende die clusenare mede,</l>
+<l>Dies si node souden vergeten</l>
+<l>Hine hadde met gedronken ende geten.</l>
+<l>Ende doe dat eten was gedaen</l>
+<l>45760 Wilde wech riden Moriaen.</l>
+<l>Doe seide die here her Gariet:</l>
+<l>"Her riddere, gi ontbeidet bet</l>
+<l>Dan gi nu dus haestech sijt;</l>
+<l>Gi sout hebben in corter tijt</l>
+<l>45765 Comber te vindene uwen vader.</l>
+<l>Werct bi onsen rade algader:</l>
+<l>Hets vanden dage vele leden,</l>
+<l>Al waerdi toter scepingen gereden,</l>
+<l>Eer gi quaemt banderside</l>
+<l>45770 Gi had cort gnoech tgetide."</l>
+<l>Doe seide Walewein sijn broder,</l>
+<l>Alse die was vele vroder:</l>
+<l>"riddere, ic segt u wat gi doet.</l>
+<l>Van haestecheiden comt selden goet</l>
+<l>45775 Dat u in eren moet becliven,</l>
+<l>Soe biddic u trameer om bliven;</l>
+<l>Gine mocht den wech niet gestrecken,</l>
+<l>Ende ic sal mine wapine berecken</l>
+<l>Ten siensten na mine macht;</l>
+<l>45780 Ende in hebbe noch niet die cracht</l>
+<l>Te ridene daer ic wille wesen</l>
+<l>Eric werde bat genesen.</l>
+<l>Margen salic vromer sijn.</l>
+<l>Dan selewi porren sonder fijn</l>
+<l>45785 Recht alst begint dagen.</l>
+<l>Oft God wilt, mi sals bat behagen</l>
+<l>In alle die lede ende ter herten,</l>
+<l>Ende sal hebben minder smerten</l>
+<l>Dan ic doe op dese wile nu.</l>
+<l>45790 In wille niet bliven achter u,</l>
+<l>Noch letten noch oec ontbiden</l>
+<l>Wanneer gi henen sult riden,</l>
+<l>Op aventure, wie mi kinde</l>
+<l>Ic hebbe hier viande gehinde,</l>
+<l>45795 Die mi beraden hadden wee,</l>
+<l>Ende gerne doen souden mee</l>
+<l>Wisten si mi al hier ter stede."</l>
+<l>Doe dede Moraen sine bede,</l>
+<l>Ende bleef den nacht daer al dure,</l>
+<l>45800 Ende telde hen daer sinen aventure.</l>
+<l>Ende her Walewein die dede gereden</l>
+<l>Sine wapine ende cleden,</l>
+<l>Ende verscuren ende verclaren,</l>
+<l>Ende versachse daer si gearget waren;</l>
+<l>45805 Maer dat heme meest deerde</l>
+<l>Dat was die rouwe van sinen swerde,</l>
+<l>Dat hijt soe hadde verloren:</l>
+<l>Het was boven menech utvercoren;</l>
+<l>Wat holpt dat ict maecte lanc?</l>
+<l>45810 Des smargens als die dach ontspranc</l>
+<l>Ende scone verbarde over al</l>
+<l>Opten berch ende in dat dal,</l>
+<l>Doe gereiden si hen allegader,</l>
+<l>Ende Walewein der aventuren vader,</l>
+<l>45815 Alse die danen wilde riden</l>
+<l>Ende daer langer niet ontbiden.</l>
+<l>Sine wilden hen nember sparen.</l>
+<l>Doe seide Walewein: hi wilde varen</l>
+<l>Om Lancelote, die met hem sciet</l>
+<l>45820 Van hove, daer hi Arture liet;</l>
+<l>Hine mochte niet wel weder keren</l>
+<l>Sonder hem met eneger eren.</l>
+<l>Ende hine wiste niet hoet hem stoet:</l>
+<l>Hi souts gerne wesen vroet</l>
+<l>45825 Hoe hem vergaen sine aventuren,</l>
+<l>Ende dan keren in corter uren,</l>
+<l>Wouts hem God also gehingen,</l>
+<l>Ende Lancelote met hem bringen,</l>
+<l>Ende staen der coninginnen in staden.</l>
+<l>45830 Hier af so was hi beraden,</l>
+<l>Ende dat hijs anders nine dade</l>
+<l>Dor iemans bede, dies hem bade.</l>
+<l>Hier omme was drove Gariet,</l>
+<l>Ende seide dat Walewein keerde bet,</l>
+<l>45835 Ende stonde te staden sinen oem,</l>
+<l>Ende name van sinen lande goem</l>
+<l>Ende vertroeste daer sine lieden.</l>
+<l>Maer dit ne mochte niet bediden</l>
+<l>Dat sijs hem baden, dire waren,</l>
+<l>45840 Hine wilt eer te Lancelote varen</l>
+<l>Ende weten oft heme iet deert.</l>
+<l>Her Gariet gaf hem sijn swerd,</l>
+<l>Dat goet was ende claer,</l>
+<l>Doe si orlof namen daer</l>
+<l>45845 Onderlinge onder die heren;</l>
+<l>Want Walewein wilde niet keren</l>
+<l>Eer hi Lancelote hadde gesproken,</l>
+<l>Ende seide: bi hem soude niet sijn te broken</l>
+<l>Tgode geselscap van hen beiden.</l>
+<l>45850 Hi seide hi souden weder leiden</l>
+<l>Ten hove daer Artur toe behorde,</l>
+<l>Ende houden sine vorworde.</l>
+<l>Alsi daertoe waren gereedt</l>
+<l>Ende gewapent ende gecleedt</l>
+<l>45855 Saten si op hare paerde,</l>
+<l><edition n="307"/>Alse te varne harre vaerde.</l>
+<l>Si namen orlof anden goden man.</l>
+<l>Aldus so porden si van dan.</l>
+<l>Walewein hadde den wech bestaen,</l>
+<l>45860 Ende Gariet ende her Moriaen</l>
+<l>Geleidene ene corte wile</l>
+<l>Om die mate van ere mile.</l>
+<l>Elc seide anderen sijn gedochte.</l>
+<l>Walewein sprac: soe hi irst mochte</l>
+<l>45865 Soudi met Lancelote keren,</l>
+<l>Mochti, ende die gene onneren</l>
+<l>Die sinen oem hadden gevaen;</l>
+<l>Ende seide: "Broder, dit doet verstaen</l>
+<l>Der coninginnen mire vrouwen,</l>
+<l>45870 Ende groetse mi met goder trowen;</l>
+<l>In wil niet dat gi vorder rijt,</l>
+<l>Noch langer hier met mi ontbijt,</l>
+<l>Want u en wars niet te bet."</l>
+<l>Doe kerde weder her Gariet</l>
+<l>45875 Ende her Moriaen: hi beval</l>
+<l>Gode ende sinen heilegen al</l>
+<l>Waleweine, ende hi hem weder.</l>
+<l>Elc sach anderen die trane neder</l>
+<l>Uten ogen lopen ter vart</l>
+<l>45880 Over mont ende over bart</l>
+<l>Doe si daer van een scieden.</l>
+<l>In mocht u wel niet bediden</l>
+<l>Wie dipelike ende hoe sere</l>
+<l>Waleweine dancte alre ere</l>
+<l>45885 Moriaene, dat hi hem behelt</l>
+<l>Sanderdages dlijf opt felt,</l>
+<l>Daer hi dleven hadde verloren</l>
+<l>En ware hi ende God te voren.</l>
+<l>Van Waleweine latic hier bliven</l>
+<l>45890 Ende sal van Moriaene scriven.</l>
+<l>Daventure doet ons verstaen,</l>
+<l>Alse gesceden was Moriaen</l>
+<l>Ende Gariet, si reden bede</l>
+<l>Weder toter wegescede.</l>
+<l>45895 Si drogen over een onder hen beiden</l>
+<l>Datsi niet ne souden sceiden</l>
+<l>Vore si quamen te sinen vader.</l>
+<l>Dus so voren si beide gader,</l>
+<l>Want Moriaen hem doe swoer,</l>
+<l>45900 Omdat Gariet met hem voer,</l>
+<l>Mochtijt sinen oem geraden</l>
+<l>Ende sinen vader, si souden in staden</l>
+<l>Varen Arturs wijf der coninginnen</l>
+<l>Ende hulpen haer weder dlant winnen.</l>
+<l>45905 Om dit belof, op dit beheet</l>
+<l>Voer Gariet met hem gereet,</l>
+<l>Ende soude Moriaene gebringen.</l>
+<l>Doe si quamen ter scepingen</l>
+<l>Vertelde hem daer Moriaen</l>
+<l>45910 Hoet hem te voren was vergaen</l>
+<l>Doe hi daer over waende varen;</l>
+<l>Ende seide hine vant moderbaren,</l>
+<l>Van allen die hi hadde vernomen,</l>
+<l>Dine in sijn scep liet comen,</l>
+<l>45915 Dor dies wille dat hi sceen</l>
+<l>Soe groet, so sward over een.</l>
+<l>"Sine waendens niet genesen,</l>
+<l>Ende vruchten dat di duvel had gewesen.</l>
+<l>Si waren alle van mi vervard</l>
+<l>45920 Ende togen bat in ter zee ward.</l>
+<l>Nu siet, her Gariet, wat gi raedt,</l>
+<l>Ende hoemen dese dinc begaedt,</l>
+<l>Dat wi dwater moge liden;</l>
+<l>Daer nes geen wederstriden,</l>
+<l>45925 Es dat sake dat si mi sien</l>
+<l>Die daer sijn selen vlien</l>
+<l>Ter zeeward, hebben si mi vernomen.</l>
+<l>Ic vruchte wine selen niet over comen."</l>
+<l>Doe seide min her Gariet:</l>
+<l>45930 "Soe donct mi gedaen bet,</l>
+<l>Nadien dat ic can verhoren,</l>
+<l>Dat ic selve vare voren,</l>
+<l>Ende ic een scip vore hure:</l>
+<l>Gi sult mi volgen nu ter ure;</l>
+<l>45935 Ende eest dat icker come binnen</l>
+<l>Ende min ors in mach gewinnen</l>
+<l>Ende daer mede den verman,</l>
+<l>In laten niet sceden van dan</l>
+<l>Toter wilen dat gi sijt comen.</l>
+<l>45940 Ende God hi mote mi verdomen,"</l>
+<l>Sprac die here, her Gariet,</l>
+<l>"Al soudi werden uter wet</l>
+<l>Tirsten dat hi u siet,</l>
+<l>Oftics heme verlate iet,</l>
+<l>45945 Hine sal ons voren an dander lant,</l>
+<l>Oft ic sals nemen soe swaren pant,</l>
+<l>Hem ware beter waer hi versonken</l>
+<l>Ende in des zewes gront verdronken."</l>
+<l>Doen antwerde Moriaen:</l>
+<l>45950 "Gi hebt den besten raet anevaen</l>
+<l>Diemen mochte gevisieren:</l>
+<l>Nu rijt henen sonder finiren</l>
+<l>Tes gi gebuert enen boet</l>
+<l>Dien gi vint vast ende groet,</l>
+<l>45955 Ende die ons mach over dwater leiden.</l>
+<l>Ic sal achter bliven ende ontbeiden</l>
+<l>Tes gi hebt u dinc begaet.</l>
+<l>Ic wille doen dat gi mi raet."</l>
+<l>Dus sciden si onder hen tween,</l>
+<l>45960 Ende Gariet reet al in een</l>
+<l>Tes hi ter scepingen quam,</l>
+<l>Daer hi enen boet vernam</l>
+<l>Die wel was sijn gevoech.</l>
+<l>Hi boet heme goeds gnoech</l>
+<l>45965 Dat hine maer banderside</l>
+<l>Ende hi langer niet ontbide.</l>
+<l>Hi leide den verman tgelt in di hant,</l>
+<l>Ende hi gereide sijn gewant.</l>
+<l>Dat seil ende sijn getouwe mede,</l>
+<l>45970 Dies hem berau scire ter stede.</l>
+<l>Doe gescepet was sijn part</l>
+<l>Ende hi gereet was op sijne vard</l>
+<l>Quam daer Moriaen gevaren</l>
+<l>Swarter dan nie moderbaren</l>
+<l>45975 Die kersten man hadde gesien;</l>
+<l>Ende die verman wilde vlien</l>
+<l>Tirst dat hi Moriane bekinde,</l>
+<l>Ende hi hem quam so gehinde,</l>
+<l>(Hi hadden gesien anderwarf)</l>
+<l>45980 Hem dochte dat hi van vare starf.</l>
+<l>Hine conde beroren niet een let.</l>
+<l>Doe vragede hem her Gariet:</l>
+<l>"Her verman, wat es u gesciet?</l>
+<l>Bi Gode het es om niet,</l>
+<l>45985 Gi selt ons over voren sciere.</l>
+<l>Nu en maket ons niet te dire</l>
+<l>Ofte dit wert u leste dach.</l>
+<l>Bi onsen here die vele mach,</l>
+<l>Waer af eest dat gi u ontsiet?</l>
+<l>45990 Dit en es die duvel niet;</l>
+<l>Hine sach noch nie die helle.</l>
+<l>Laetten in, hets min geselle,</l>
+<l>Dat radic u, wel gereet."</l>
+<l>Doe moestijt doen, al waest hem leet;</l>
+<l>45995 Hi sach hine mochte bat gescien,</l>
+<l>Hine mochte ontlopen no ontflien.</l>
+<l>Ende als hine hadde in sinen boet,</l>
+<l>Moriaene, die was harde groet,</l>
+<l>Daer hi sere af was vervaert,</l>
+<l>46000 Ende hi gesceept hadde sijn paert,</l>
+<l>Dat harde starc was in scine,</l>
+<l>Staken si tscep vander marine</l>
+<l>Ende seilden in ter zee ward.</l>
+<l>Die verman was sere vervard,</l>
+<l>46005 Alse die waende sijn verbeten.</l>
+<l><edition n="308"/>Alse Moriaen was geseten</l>
+<l>Dedi af sinen stalijn hoet:</l>
+<l>Doe waende die verman wesen doet,</l>
+<l>Ende versuchte harde gedichte;</l>
+<l>46010 Doe hi sach Moriaens ansichte</l>
+<l>Waendi dat geen kersten ware.</l>
+<l>Gariet vrachdem doe om niemare,</l>
+<l>Ofte daer ridders waren leden,</l>
+<l>Daer die een af hadde bescreden</l>
+<l>46015 Een roet ors, ende rode wapine,</l>
+<l>Ende een ander die hadde in scine</l>
+<l>Des conincs Arturs teken an;</l>
+<l>Oft hijs iet berechten can,</l>
+<l>Dat hijt doe dor sine bede,</l>
+<l>46020 Oft hire iet sach oft ne dede,</l>
+<l>Hi souts hem weten groten danc.</l>
+<l>Die verman seide: "En es niet lanc</l>
+<l>Dat icse hadde in minen boet:</l>
+<l>Die een riddere hadde wapine roet</l>
+<l>46025 Ende een roet ors oec mede,</l>
+<l>Ende dander was gewont ter stede,</l>
+<l>Ende hadde oec Arturs teken an;</l>
+<l>Ende ic kinne wel," seide di verman,</l>
+<l>"Die ridders die getekent sijn</l>
+<l>46030 Met Arturs tekene: gi sijt in scijn</l>
+<l>Oec sijn riddere, donct mi an desen.</l>
+<l>Si wilden beide over wesen,</l>
+<l>Ende ic vorese ane dander lant,</l>
+<l>Dat hen was wel ombecant,</l>
+<l>46035 Dat hordic wel an hare sprake;</l>
+<l>Ende si dochten mi tongemake</l>
+<l>Harde sere; in weet wat meende.</l>
+<l>Ic sach dat die een weende</l>
+<l>Dat hem di trane wel gedichte</l>
+<l>46040 Lipen over sijn ansichte.</l>
+<l>Ende doe icse brachte banderside,</l>
+<l>Die riddere dire was om blide</l>
+<l>Vrachde mi oftic iet ware vroet</l>
+<l>Waer daer ene hermitage stoet</l>
+<l>46045 Daer een hermite woende in?</l>
+<l>Doe wijsdict hem mer no min."</l>
+<l>Dus voren si met deser tale</l>
+<l>Sprekende van hen beiden wale,</l>
+<l>Toter wilen ende ter stonden</l>
+<l>46050 Dat si dat sant vonden.</l>
+<l>Doe wiesde hen die verman</l>
+<l>Dien wech te vaerne van dan</l>
+<l>Al daer die hermitage stoet,</l>
+<l>Ende maecte hen des weges vroet.</l>
+<l>46055 Dus liten si den verman bliven,</l>
+<l>Die grote bliscap ginc driven</l>
+<l>Dat hire quite was met eren.</l>
+<l>Dus voren wech die heren</l>
+<l>Toter wilen dat si geraecten</l>
+<l>46060 Daersi der hermitagen genaecten.</l>
+<l>Si quamen daer sise staende vonden:</l>
+<l>Si beetten neder ende bonden</l>
+<l>Haer orsse alle beide daer voren,</l>
+<l>Ende ripen datment mochte horen:</l>
+<l>46065 "Laet in. ter goder wilen ontoe."</l>
+<l>Die garsoen quam ter porten doe</l>
+<l>Ende vrachde hen wies si begerden,</l>
+<l>Ende oft hen enege saken deerden</l>
+<l>Dies si berecht wilden wesen?</l>
+<l>46070 Her Gariet sprac binnen desen</l>
+<l>Ende bat den knape dor genade</l>
+<l>Datmen heme spreken dade</l>
+<l>Den hermite ende Acglavale.</l>
+<l>Die bode keerde metter tale</l>
+<l>46075 Daer hi den hermite ende Acglavale vant,</l>
+<l>Ende seide hen daer altehant</l>
+<l>Dat hi twee ridders hadde vernomen,</l>
+<l>Die daer waren ter porten comen:</l>
+<l>"Deen was een scone man,</l>
+<l>46080 Ende die wapine die hi droech an;</l>
+<l>Ende also was die ander mede,</l>
+<l>Maer sine wapine ende sine lede</l>
+<l>Ende dat icker an gemerken mochte</l>
+<l>Was vele swarter, dat mi dochte,</l>
+<l>46085 Dan enig roet oft atrament.</l>
+<l>In weet niet oft gine kent</l>
+<l>Oft iet wet van haren saken.</l>
+<l>Si seiden dat si u gerne spraken:</l>
+<l>Si baden mi sere alle beide</l>
+<l>46090 Dat ic hier quame ende u seide."</l>
+<l>Acglavale, diet wonder dochte,</l>
+<l>Ginc ter porten so hi best mochte,</l>
+<l>Ende sijn oem, die clusenare,</l>
+<l>Die hem volgede oppenbare.</l>
+<l>46095 Acglavael sach ut ten wikette,</l>
+<l>Ende ward geware van Gariette,</l>
+<l>Die heren Waleweins broder was;</l>
+<l>Ende hi bedachte hem wel das,</l>
+<l>Dat hi behorde tArturs hove;</l>
+<l>46100 Ende hi werdech was van groten love;</l>
+<l>Al was hi niet so wel becant</l>
+<l>Alse Walewein, sijn broder, achter dlant,</l>
+<l>Hi ware starc riddere ende coene</l>
+<l>Ende vernaemt van groten doene.</l>
+<l>46105 Deen groette den anderen als hine sach.</l>
+<l>Her Gariet sprac: "Die vele mach,</l>
+<l>Here, moet u eren ende minnen</l>
+<l>Ende alle die met u sijn daer binnen."</l>
+<l>Acglavael sach op Moriane</l>
+<l>46110 Ende mercte sere sine gedane,</l>
+<l>Ende pensde sere in sijn gedochte</l>
+<l>Wat riddere dat wesen mochte</l>
+<l>Om dat hi was also gedaen.</l>
+<l>Ende Moriaen ginc bi hem staen</l>
+<l>46115 Ende vrachde hem oft hem iet gedochte</l>
+<l>Dat hi heren Lancelote sochte,</l>
+<l>Ende dat hi in Moriane quam,</l>
+<l>Daer hi ene joncfrouwe vernam,</l>
+<l>Dier hi gaf sine trouwe,</l>
+<l>46120 Ende hadde te done metter joncfrouwe,</l>
+<l>Ende dat hi omt soeken van haer sciet?</l>
+<l>Hi vrachde ofts hem gedochte iet,</l>
+<l>Ende gaf haer sine trowe te pande</l>
+<l>Ende voer alsoe uten lande</l>
+<l>46125 Ende seide hi soude wederkeren</l>
+<l>Tharen vromen, tharen eren,</l>
+<l>In Moriane, soe hi irst mochte?</l>
+<l>Echt vrachdi oft hem gedochte?</l>
+<l>Acglavael die antwerde hem</l>
+<l>46130 Ende seide: "Her riddere, ic ne bem</l>
+<l>Die gene niet dies loechenen wille;</l>
+<l>Maer ic hebbe selden geweest stille.</l>
+<l>Ic sochte Lancelote enen tijt:</l>
+<l>Daer na haddic onlange respijt</l>
+<l>46135 Doen ic minen broder brachte te hove,</l>
+<l>Daer hi in ward van groten love;</l>
+<l>Ende doen hi riddere was gedaen</l>
+<l>Moestic met hem ene vart bestaen,</l>
+<l>Dier hi niet wilde laten achter;</l>
+<l>46140 Want hi wilde wreken den lachter</l>
+<l>Die onsen vader was gedaen</l>
+<l>Over menech jaer, seldi verstaen.</l>
+<l>Minen broder was doen weten</l>
+<l>Dat onse viande hadden beseten</l>
+<l>46145 Ons erve, dat ons soude sijn bleven,</l>
+<l>Daer si onsen vader ute verdreven:</l>
+<l>Dit wildi wreken ende sparen niet,</l>
+<l>Ende hier ombe haddewi menech verdriet</l>
+<l>Eer wijt weder conden ontfaen;</l>
+<l>46150 Doch hebwi soe vele gedaen</l>
+<l>Dat wijt weder hebben vercregen,</l>
+<l>Ende hebbense alle doet geslegen</l>
+<l>Die onse lant hadden beseten.</l>
+<l>Maer dat ic der joncfrouwen hebbe beheten</l>
+<l>46155 Daer af sijn leden vele der jare</l>
+<l><edition n="309"/>Dat ic geloefde te comene thare,</l>
+<l>Dat heeft mi noetsake gedaen.</l>
+<l>Nu eest mi an min oude gegaen,</l>
+<l>Ende hadde noet dat ic mi bedochte</l>
+<l>46160 Vort meer ende bi rade wrochte;</l>
+<l>Ende ic ben die gene die nine weet,</l>
+<l>Ende mi es die waerheit ongereet</l>
+<l>Oft si leeft ofte ne doet,</l>
+<l>Daer gi af sprect, ic bens niet vroet."</l>
+<l>46165 Doen antwerde heme Moriaen:</l>
+<l>"Ic salre u meer af doen verstaen;</l>
+<l>Si es min moder, ende noch leeft</l>
+<l>Die gene die uwe trowe heeft;</l>
+<l>Ende gi, here, sijt mijn vader.</l>
+<l>46170 Wildi hier af lien algader</l>
+<l>Dor [haer] ende dor mine bede</l>
+<l>So dodi wel ende hoveschede.</l>
+<l>Gi wont mi met uwen live</l>
+<l>An hare, die gi sout hebben te wive</l>
+<l>46175 Haddi gehouden uwe gelof.</l>
+<l>Nu sijt wel bedacht hier of,</l>
+<l>Oft gijs wilt lien ofte ne doet;</l>
+<l>Ende maect mi der talen vroet.</l>
+<l>Doe gi sciet van mire moder,</l>
+<l>46180 (Noch salics u maken vroder)</l>
+<l>Si droech mi, al ne wist sijs niet.</l>
+<l>Dus sijn here, die saken gesciet."</l>
+<l>Acglavael antwerde doe hem:</l>
+<l>"Bi Gode, her riddere, ic bem</l>
+<l>46185 Die wel geloeft dat gi sprect;</l>
+<l>Ende datter joncfrouwen an mi gebrect;</l>
+<l>Dat icse hebbe dus bedrogen</l>
+<l>Ende mine vorwerden gelogen,</l>
+<l>Hieraf willic minen mesdade</l>
+<l>46190 Noch beteren bider Gods genade.</l>
+<l>Ic sal noch haer hulde gewinnen:</l>
+<l>Gi sult comen met mi hier binnen</l>
+<l>Met minen oem ende minen broder.</l>
+<l>Si selen ons des wel maken vroder</l>
+<l>46195 Alsi horen onser beider sprake.</l>
+<l>Wi selen wesen wel te gemake."</l>
+<l>Doen ontede hi dat wiket.</l>
+<l>Elker herten mochte sijn te bet,</l>
+<l>Die de redene hadde verstaen</l>
+<l>46200 Hoe Acglavael ende Moriaen</l>
+<l>Hen onderhelsden ende custen;</l>
+<l>Elker herten mochs te bat lusten,</l>
+<l>Die hadde gesien ende gehort</l>
+<l>Hare [tale] ende hare word;</l>
+<l>46205 Ende ho vrindelijc met minnen</l>
+<l>Si alle drie gingen daer binnen,</l>
+<l>Daer men hars nam gode ware.</l>
+<l>Acglavael vertelde daer nare</l>
+<l>Sinen oem ende Perchevale</l>
+<l>46210 Altemale in warre tale</l>
+<l>Sine dinge, ende gincse nomen,</l>
+<l>Ende hoe dat daer sijn sone es comen.</l>
+<l>Alse dit Perchevael hadde verstaen</l>
+<l>Men sach [nie] soe blidelike ontfaen</l>
+<l>46215 Enen riddere alse Perchevael dede</l>
+<l>Sinen neve aldaer ter stede,</l>
+<l>Ende die clusenare also wale.</l>
+<l>Die bliscap entie scone tale,</l>
+<l>Diemen daer den riddere togede,</l>
+<l>46220 Ende hoemen om haer gemac pogede</l>
+<l>Ende om hen te doenne te danke</l>
+<l>Van sulken ate van sulken dranke</l>
+<l>Alsi daer consten doe gewinnen,</l>
+<l>Ende diesmen vinden mochte daer binnen.</l>
+<l>46225 Dies avons ende waser niet el</l>
+<l>Dan grote bliscap ende spel,</l>
+<l>Die deen vanden anderen maecte.</l>
+<l>Ende tirst datten heren vaecte</l>
+<l>Gingen si slapen, alsmen daer plach,</l>
+<l>46230 Tot datmen verbaren sach den dach,</l>
+<l>Ende tes die sonne scone sceen.</l>
+<l>Die ridders lagen onder hen tween</l>
+<l>Langer dan dermite dede,</l>
+<l>Die sine getide ende sine gebede</l>
+<l>46235 Hadde gelesen ende gesongen</l>
+<l>Van dat die dach was ontsprongen</l>
+<l>Tot dat die heren op waren gestaen</l>
+<l>Ende hadden haer cleder ane gedaen.</l>
+<l>Doe sprac Moriaen tsinen vader,</l>
+<l>46240 Als gi moget horen allegader,</l>
+<l>Ende seide: hi wilde danen riden,</l>
+<l>Ende gerne wist hi, sonder striden,</l>
+<l>Oft hi wilde comen tsire moder,</l>
+<l>(Dies so wildi wesen vroder)</l>
+<l>46245 Ende doen al dat hi hare behiet,</l>
+<l>Doen hi achters van haer sciet,</l>
+<l>Dor Gode ende dor sine doget;</l>
+<l>Ende hi hem daer mede verhoget.</l>
+<l>Hi telde hoe si moesten derven</l>
+<l>46250 Van haren lene, van harre erven,</l>
+<l>Dat haer quam van haren vader:</l>
+<l>"Het was hare ontwiest algader</l>
+<l>Bider wet vandien lande;</l>
+<l>Nochtan was haer meer di scande</l>
+<l>46255 Dan die scade die si coes,</l>
+<l>Dat haer sone hiet vaderloes,</l>
+<l>Ende si niet en conde betogen</l>
+<l>Noch gebringen vor ogen</l>
+<l>Dien rechten barsculdegen man,</l>
+<l>46260 Die mi an haren liven wan."</l>
+<l>Doen seide acglavael, sijn vader:</l>
+<l>"Ic sal u berechten al tenegader</l>
+<l>Al ut ende ut hoet met mi staet,</l>
+<l>Ende secgen u al minen raet.</l>
+<l>46265 Nu geloeft mi wel van desen,</l>
+<l>U en sal niet gelogen wesen</l>
+<l>Alse velen alse van enen worde."</l>
+<l>Alse Moriaen di tale horde</l>
+<l>Antwerdi weder sinen vader:</l>
+<l>46270 Hi lovet wel also algader.</l>
+<l>Dus bleven daer alle met vlite</l>
+<l>Ende dageden metten hermite.</l>
+<l>Doe di dinst was gedaen</l>
+<l>Si waren vele bat ontfaen</l>
+<l>46275 Van al datmen volbringen mochte,</l>
+<l>Al leidicker an mine gedochte,</l>
+<l>Dan ic u wel gesecgen can.</l>
+<l>Moriaen sprac sinen vader an:</l>
+<l>Hine wilde achterlaten niet</l>
+<l>46280 Dat heme sijn vader behiet</l>
+<l>Dat hine berichten soude</l>
+<l>Van dat hi begerde ende woude;</l>
+<l>Ende vermanes echt sinen vader,</l>
+<l>Dies hem vroet maecte algader,</l>
+<l>46285 Ende seide dat hem te voren quam</l>
+<l>In enen droem, daer hijt vernam,</l>
+<l>Dat hi reet al enen dach</l>
+<l>Dat hi anders nine sach</l>
+<l>Dan wildernisse ende wout</l>
+<l>46290 Ende scone bome menechfout.</l>
+<l>Bi wilen so docht hem mee</l>
+<l>Ondertiden hagel ende snee;</l>
+<l>Bi wilen docht hem dages heet,</l>
+<l>Soe dat hi hadde menech leet;</l>
+<l>46295 Bi wilen sach hi sonnescijn claer:</l>
+<l>Bi willen demsterheit daer naer.</l>
+<l>Ende hi sach achter dien foreesten</l>
+<l>Lopen alretiren beesten.</l>
+<l>Ende liede oec, jonc ende out,</l>
+<l>46300 Sach hi gaen achter dwout.</l>
+<l>Dit dochte hem in drome al.</l>
+<l>Maer hine hadde niet tgeval</l>
+<l>Dat hi iweren ware comen</l>
+<l>Daer hi herberge hadde genomen</l>
+<l>46305 Binnen algader deser stonde.</l>
+<l><edition n="310"/>Tirst dat naecte den avonde</l>
+<l>Doen dochte hem dat hi sach,</l>
+<l>Doe hem verdonkerde die dach,</l>
+<l>Enen toren staen gewracht,</l>
+<l>46310 Diemen met en gere cracht</l>
+<l>Lichte niet mochte gewinnen;</l>
+<l>Maer hine mochter geen dore an kinnen</l>
+<l>Alse ane andere torre staet.</l>
+<l>Binnen desen sach hi enen graet</l>
+<l>46315 Harde hoge opward gaen,</l>
+<l>Ende ene dore daer tenden staen:</l>
+<l>Alse hoge alse ene kerke,</l>
+<l>Ende van harden diren gewerke</l>
+<l>Dochte hem die dore wesen.</l>
+<l>46320 Al ware een siec, hi mochte genesen</l>
+<l>Vander claerheit van daer binnen,</l>
+<l>Diemen daer sach ende mochte bekinnen,</l>
+<l>Die dochte hem hemelrijcs genoet.</l>
+<l>Ende elke trappe was gulden roet</l>
+<l>46325 Die daer ane den graet stoet.</l>
+<l>Doe pensdi in sinen moet,</l>
+<l>Op dattie trappen waren so goet,</l>
+<l>Hi souder op setten sinen voet,</l>
+<l>Ende soutse tellen altemale,</l>
+<l>46330 Hoe vele datter ware bi getale,</l>
+<l>Dat hi daerna versecgen mach</l>
+<l>Dat hi dat grote wonder sach.</l>
+<l>Doe hire sestech was leden</l>
+<l>Ende hi op dandere soude sijn getreden</l>
+<l>46335 Doe en sach hire ene niet</l>
+<l>Van allen die hi beneden liet,</l>
+<l>Sonder die gene daer hi op stoet,</l>
+<l>Ende die hi hadde onder den voet;</l>
+<l>Ende boven sach hi ne gene.</l>
+<l>46340 Doe docht hem di dore vanden stene</l>
+<l>Wel wesen vort alse hoge</l>
+<l>Alsmen scieten mochte met enen boge.</l>
+<l>Dus mocht hi vort no weder.</l>
+<l>Doe sach hi vor hem ter eerden neder</l>
+<l>46345 Staen serpente ende wilde beren,</l>
+<l>Gelijc oft sine wilden verteren,</l>
+<l>Ende hadden die kele wide ontaen,</l>
+<l>Gelijc oft sine souden ontfaen,</l>
+<l>Ende gaepten wide metten monde</l>
+<l>46350 Oft sine gerne hadden verslonden.</l>
+<l>Si dochten hem na heme haken.</l>
+<l>Hi sager slangen ende draken,</l>
+<l>Die alle sagen opward.</l>
+<l>"Met dat ic dus ward vervard</l>
+<l>46355 Gebrac mi die trappe mede,</l>
+<l>Ende ic viel neder daer ter stede,"</l>
+<l>Daer hi sach onder gene draken;</l>
+<l>Ende vanden groten ongemaken</l>
+<l>Ward hi ontwake ende sliep nemme.</l>
+<l>46360 Die droem dede hem herde wee,</l>
+<l>Daer heme dit te voren quam.</l>
+<l>Doe was hi erre ende gram,</l>
+<l>Ende hine wiste wat dat spelde</l>
+<l>Den droem die hem vertelde;</l>
+<l>46365 Maer sijn herte seide hem te voren</l>
+<l>Dat hem smerte ende groten toren</l>
+<l>Ende daertoe groet arbeit naecte.</l>
+<l>Sint geviel dat hi geraecte</l>
+<l>Daer hi vant enen vroden clerc,</l>
+<l>46370 Ende hi vertelde hem dit werc</l>
+<l>Dat hem te voren was comen.</l>
+<l>Ende alsi die redene hadde vernomen</l>
+<l>Ende verstaen oec harde wale,</l>
+<l>Soe verteldi heme altemale</l>
+<l>46375 "Van onsen lande clein ende groet:</l>
+<l>Dat wi daer omme in groter noet</l>
+<l>Ende in vresen souden wesen</l>
+<l>Eer wi weder quamen te desen;</l>
+<l>Want die borge starc waren sere</l>
+<l>46380 Ende machtech was elc here,</l>
+<l>Daeromme seidi ons die dinge,</l>
+<l>Dat mi ende minen broder sonderlinge</l>
+<l>Dese dinc souden werden te sure.</l>
+<l>Oec seidi ene andere aventure</l>
+<l>46385 Van minen broder Perchevale</l>
+<l>Ende vanden spere ende vanden grale;</l>
+<l>Dat die guldine trappe al daer</l>
+<l>Theilege grael ware vorwaer,</l>
+<l>Ende dat Perchevael dat soude hulpen winnen,</l>
+<l>46390 Ende sterven soude dan daer binnen.</l>
+<l>Dus maecte hijs mi vroet.</l>
+<l>Ende die dore die daer stoet;</l>
+<l>Ende die graet desgelike,</l>
+<l>Dat betekent oec hemelrike;</l>
+<l>46395 Ende dlicht datter was binnen,</l>
+<l>Daer met mochtment bekinnen.</l>
+<l>Ende die trappen die daer lagen</l>
+<l>Betekenden Perchevaels dagen,</l>
+<l>"Dat secgic u hier sekerlike,</l>
+<l>46400 Elke enen dach, oft ene weke,</l>
+<l>Oft int inde ene maent:</l>
+<l>Dies sijt seker ende nine waent,</l>
+<l>Also lange sal hi leven</l>
+<l>Ende dan sal hi slives begeven;</l>
+<l>46405 Ende dat u die trappen gebraken</l>
+<l>Dor uwe sondelike saken:</l>
+<l>Gi ward wel na over comen</l>
+<l>En had u sonde niet genomen.</l>
+<l>Ende die beren ende die draken</l>
+<l>46410 Ende die slangen die daer haken,</l>
+<l>Dat was teken, wetet wel,</l>
+<l>Sekerlike ende niwent el,</l>
+<l>Die duvle waenden u hebben vonden</l>
+<l>Tharen dele in uwen stonden</l>
+<l>46415 Ende gevoert ter eweliker hellen."</l>
+<l>Dus ginct die meester vertellen</l>
+<l>Hem algader sinen droem,</l>
+<l>Ende hiter hem op nemen goem</l>
+<l>Ende werken bi vroden rade,</l>
+<l>46420 Haestelike ende niet te spade;</l>
+<l>Hi soude hier onlange sijn,</l>
+<l>Want het naecte sinen fijn.</l>
+<l>"Live soene," seide Acglavael,</l>
+<l>"Doe liet min broder tspere ende tgrael</l>
+<l>46425 Ende die aventuren die hi sochte,</l>
+<l>Ende quam hier so hi irst mochte</l>
+<l>Te minen oem den hermite,</l>
+<l>Ende cleetde hem met sinen abite</l>
+<l>Dor dat mi die clerc dit seide.</l>
+<l>46430 Dus siwi hier nu allebeide,</l>
+<l>Ende min broder heeft hem begeven</l>
+<l>Om te beterne sijn leven;</l>
+<l>Ende ic ben oec nu ongesont,</l>
+<l>Want ic was toter doet gewont</l>
+<l>46435 Ende gequetst ende gefrotsiert,</l>
+<l>Soe dat mi die macht falgiert,</l>
+<l>Ende gaet mi nu an min gesonde.</l>
+<l>Dus blevic hier nu ter stonde</l>
+<l>Met minen broder, met minen oem,</l>
+<l>46440 Om dat si mins souden nemen goem,</l>
+<l>Ende ic min ziele met hen beware.</l>
+<l>Ende gi wilt datic met u vare</l>
+<l>Tuwer moder in Moriane?</l>
+<l>Nu benic wel in enen wane</l>
+<l>46445 Daer te varne, waer ic genesen.</l>
+<l>Ander sake en es te desen,</l>
+<l>Ic vorne gerne met u daer,</l>
+<l>Dat mogedi weten overwaer,</l>
+<l>Om u ere ende te beterne u scame,</l>
+<l>46450 En ware datic die doet nine name;</l>
+<l>Maer ic hebbe tgelove soe goet</l>
+<l>Op minen oem, die es soe vroet,</l>
+<l>Dat hi mi vor Gode sal verdingen,</l>
+<l>Ende te sire bliscap bringen.</l>
+<l>46455 Nu merct sone onser beider vromen</l>
+<l><edition n="311"/>Nadien dat mi nu es comen</l>
+<l>Ende na dat gi cont verhoren,</l>
+<l>Gelijc dat ic u seide te voren.</l>
+<l>Geraet mi dbeste nu algader:</l>
+<l>46460 Nadien dat ic ben u vader</l>
+<l>Soe sidijt sculdech te done wel,</l>
+<l>Soe wie die sake vore gevel</l>
+<l>Tuscen mi ende uwer moder."</l>
+<l>Moriaen seide doe: "Waric vroder</l>
+<l>46465 Dan gi, ic rider toe geerne;</l>
+<l>Maer mi staet wel tontberne</l>
+<l>Dat uwen live mochte deren ende scaden.</l>
+<l>In can u anders niet geraden</l>
+<l>Dan gi hier blieft toter stonde</l>
+<l>46470 Dat gi hebt weder u gesonde.</l>
+<l>Die coninc Artur es gevaen,</l>
+<l>Ende sijn lant es bestaen</l>
+<l>Ende sere bracht onder dnet:</l>
+<l>Hier es sijn neve her Gariet,</l>
+<l>46475 Die met mi al hier es comen,</l>
+<l>Ende daer ic die waerheit an hebbe vernomen,</l>
+<l>Ic sal met hem te hove riden</l>
+<l>Dor sine ere, ende daer ontbiden</l>
+<l>Tot dat gi sijt gans ende gesont,</l>
+<l>46480 Ende sal weder keren hier ter stont</l>
+<l>Alsic wane dat gi genesen sijt daer of</l>
+<l>Ende hout mire moder haer belof,</l>
+<l>Dats u God danke ende ment u prijst:</l>
+<l>So worde mire moder weder gewijst</l>
+<l>46485 Tgoet dies si es onteerft,</l>
+<l>Ende des si lange heeft gederft.</l>
+<l>Ic sal varen ende gi sult bliven</l>
+<l>Daer u al goet mote becliven.</l>
+<l>Ic sal hulpen der coninginnen.</l>
+<l>46490 God late mi sulken lof gewinnen,</l>
+<l>Dat hare te baten moet comen</l>
+<l>Ende mi teren ende te vromen.</l>
+<l>Ic sal keren, des sijt gewes,</l>
+<l>Alsic wane dat tijt es,</l>
+<l>46495 Ende uwes gedinken alse mins vader."</l>
+<l>Des dancten si Moriane algader.</l>
+<l>Hen dochte doe die beste raet</l>
+<l>Dien hire to gaf na dien dat staet.</l>
+<l>Gariet ende oec Moriaen</l>
+<l>46500 Baden Perchevale, sonder waen,</l>
+<l>Dat hi mede mochte varen</l>
+<l>Die coninginne hulpen bewaren</l>
+<l>Ende den coninc Arture verloesten,</l>
+<l>Ende sijn lant hulpen vertroesten.</l>
+<l>46505 Hi dede hen daeraf doe een belof,</l>
+<l>Wils hem sijn oem geven orlof.</l>
+<l>Doen baden sijs den oem al daer,</l>
+<l>Ende Acglavael baets oec daer naer</l>
+<l>Soe vele, dattie oem dede.</l>
+<l>46510 Done sachmen nie te gere stede</l>
+<l>Blider liede dan si waren,</l>
+<l>Dat Perchevael mede soude varen.</l>
+<l>Dus namsi orlof ende voren danen.</l>
+<l>Nu latic dese ende sal vermanen</l>
+<l>46515 Hoet met Lancelote es vergaen,</l>
+<l>Die dat dier wilde doet slaen.</l>
+<l>Nu maect ons daventure cont,</l>
+<l>Dat Lanceloet reet ter selver stont,</l>
+<l>Doe hi van Waleweine sciet</l>
+<l>46520 Ter wegesceden, ende lette niet</l>
+<l>Eer hi quam int woste lant,</l>
+<l>Daert dat dier al hadde gescant.</l>
+<l>Nu woende daer ene joncfrouwe binnen,</l>
+<l>Die wide ende side dede bekinnen</l>
+<l>46525 Wie dat dier gedoden conde,</l>
+<l>Dat sine soude nemen optie stonde</l>
+<l>Tenen man al haer lijf.</l>
+<l>Men sach nie so sconen wijf,</l>
+<l>Ende dat lant was hare algader.</l>
+<l>46530 Nu woende daer bi een verrader,</l>
+<l>Een riddere dise minde sere,</l>
+<l>Ende die wachte in allen kere</l>
+<l>Na dat dier, oft ieman quame,</l>
+<l>Die hem daer sijn leven name,</l>
+<l>46535 Dat hi dien verraden mochte</l>
+<l>Dat hijt metten live becochte,</l>
+<l>Ende hi dan hemelijc dade verstaen</l>
+<l>Dat hijt gedoet hadde, sonder waen.</l>
+<l>Dus voer Lanceloet soe verre vort,</l>
+<l>46540 Dat hi es comen daer hi verhort</l>
+<l>Heeft dat vresselike dier,</l>
+<l>Dat in sine warande lach ongehier.</l>
+<l>Lanceloet sach daer helme ende speren</l>
+<l>Ende wapine (hi mocht hem ververen)</l>
+<l>46545 Van menegen riddere diet hadde doet;</l>
+<l>Ende die bene, die daer lagen bloet,</l>
+<l>Daert dat vleesch af hadde geten.</l>
+<l>Tirst dat Lanceloet conde geweten</l>
+<l>Waer dat dier te licgene plach,</l>
+<l>46550 Ginc hi darward dat hi mach;</l>
+<l>Ende doen dat dier ward sijns geware,</l>
+<l>Quam[t] gevlogen in dier gebare</l>
+<l>Oft die duvel hadde gewesen,</l>
+<l>Ende aneverde Lancelote binnen desen.</l>
+<l>46555 En ontsach swaerd no spere,</l>
+<l>Noch gene cracht, no gene were.</l>
+<l>Ende Lanceloet opt dier stac,</l>
+<l>Dat sijn spere ontwe brac,</l>
+<l>Nochtan en quetstijt niet een scelle,</l>
+<l>46560 Noch en ginc hem inden velle.</l>
+<l>Doe trac Lanceloet sijn sward</l>
+<l>Ende sloech dat dier met groter vard;</l>
+<l>Maer en scaedde hem niet een twint,</l>
+<l>Ende scoet Lancelote daer omtrent</l>
+<l>46565 An die kele, ende scordene soe,</l>
+<l>Dats Lanceloet ward harde onvroe,</l>
+<l>Want hi trac hem den halsberch dore</l>
+<l>Ende maecte hem ene grote score</l>
+<l>Recht al toten live toe;</l>
+<l>46570 Ende hi wondene mede daertoe.</l>
+<l>Anderwerf scoet hi hem an,</l>
+<l>Ende sloech op hem, maer het ne can</l>
+<l>Hem een twint niet gederen.</l>
+<l>Doe ginct op Lancelote soe geberen,</l>
+<l>46575 Ende scordene toten voten daer naer,</l>
+<l>Ende gaf hem menege wonde daer,</l>
+<l>Ende blies op hem sijn venijn.</l>
+<l>En had gedaen een vingerlijn,</l>
+<l>Dat Lanceloet hadde an sine hant,</l>
+<l>46580 Hi waer daer vanden venine thant</l>
+<l>Doet bleven opter stede.</l>
+<l>Doe quam dat dier gesprongen mede,</l>
+<l>Gapende so wide oft met geninden</l>
+<l>Lancelote soude altemale verslinden;</l>
+<l>46585 Ende Lanceloet wachtet daer ter stont,</l>
+<l>Ende stac hem tsward inden mont,</l>
+<l>Ende croet in toter herten toe.</l>
+<l>Dat dier creet so vresselijc doe,</l>
+<l>Datment horde wel twee milen.</l>
+<l>46590 Ende die verradere, die tier wilen</l>
+<l>Al dese dinc hadde bespiet,</l>
+<l>Doe hi den crete horde letti niet,</l>
+<l>Ende reet vaste ter waranden ward;</l>
+<l>Want hi horde wel an die gebard</l>
+<l>46595 Dat gene dier doet es bleven.</l>
+<l>Doe hi daer quam vant hire beneven</l>
+<l>Lancelote sitten, die tien stonden</l>
+<l>Verbant daer sine grote wonden,</l>
+<l>Dier hi menege hadde ontfaen.</l>
+<l>46600 Die riddere begonsten te clagen saen,</l>
+<l>Ende ginc bi hem ende seide daer naer</l>
+<l>Dat hi hem sal verbinden daer</l>
+<l>Sine wonden harde wel.</l>
+<l>Die ondedege ridder ende fel</l>
+<l>46605 Quam tote bi Lanceloets side</l>
+<l><edition n="312"/>Ende stal hem sijn sward ter selver tide,</l>
+<l>Ende spranc van hem ende gingen slaen,</l>
+<l>Ende wondene daer so, sonder waen,</l>
+<l>Dat hi neder viel alse doet.</l>
+<l>46610 Doen dit sach die verradere groet</l>
+<l>Waendi dat hi doet ware</l>
+<l>Ende liten licgen, ende ginc daer nare</l>
+<l>Daer dat dier gelegen was,</l>
+<l>Ende sloech hem af daer na das</l>
+<l>46615 Den rechten voet, ende souden dragen</l>
+<l>Der joncfrouwen daer ic af hebbe gewagen;</l>
+<l>Die hi waende hier met winnen.</l>
+<l>Ende her Walewein, die hierenbinnen</l>
+<l>Soe verre was comen nu ter stede</l>
+<l>46620 Dat hi vernomen hadde die waerhede,</l>
+<l>Dat Lanceloet dat dier hadde vonden,</l>
+<l>Quam hem gevolget nu ter stonden</l>
+<l>Rechte binnen dire waranden,</l>
+<l>Daer die verradere alte handen</l>
+<l>46625 Lancelote hadde alsoe gewont</l>
+<l>Ende den voet genomen nu ter stont,</l>
+<l>Ende was op Lanceloets ors geseten,</l>
+<l>Dat Walewein wel kinde, die here vermeten.</l>
+<l>Doen hijt den genen riden sach</l>
+<l>46630 Ende Lancelote, die gewont daer lach,</l>
+<l>Reet hi vaste ten genen ward,</l>
+<l>Ende heeft getrect sijn gode sward,</l>
+<l>Ende seide: "Her mordere, gi blivet hier.</l>
+<l>Gi hebt verslagen om dit dier</l>
+<l>46635 Minen geselle, dat sie ic wel."</l>
+<l>Dic onda[de]ge ridder ende fel</l>
+<l>Hadde gerne ontreden daer,</l>
+<l>Maer Walewein was hem soe naer</l>
+<l>Dat hi nine conde ontgaen,</l>
+<l>46640 Ende ginc daer op hem soe slaen,</l>
+<l>Dattie ander moeste beiden.</l>
+<l>Hi ginckene daer also bereiden</l>
+<l>Dat hi bidden moeste genade.</l>
+<l>Walewein ward doe also te rade,</l>
+<l>46645 Dat hine vor Lancelote wille bringen</l>
+<l>Eer hine daer wilt laten verdingen.</l>
+<l>Dus sijn si daer comen allebeide,</l>
+<l>Ende Lanceloet, die vanden leide</l>
+<l>Becomen was, vander ommachte,</l>
+<l>46650 Daer hi in gelegen hadde onsachte,</l>
+<l>Ende hi Waleweine ward geware,</l>
+<l>Riep hi over den mordenare,</l>
+<l>Dine daer gemort heeft al bloet:</l>
+<l>"Live geselle, slatene doet.</l>
+<l>46655 Wetic dat hi doet si nu</l>
+<l>Ic saels te saechter sterven, secgic u."</l>
+<l>Doe Lanceloet dese sprake seide</l>
+<l>En was daer gene langer beide,</l>
+<l>Walewein en sloech hem ave thoeft.</l>
+<l>46660 Doe ginc hi clagen, dies geloeft,</l>
+<l>Sinen geselle, ende seide: "Here,</l>
+<l>Mogedi genesen nembermere,</l>
+<l>Dat laet mi nu al hier verstaen?</l>
+<l>Ic sal u wel in staden staen."</l>
+<l>46665 Lanceloet seide ende dede verstaen</l>
+<l>Hoe hi den dire was ontstaen,</l>
+<l>Ende hone na die verradere wonde.</l>
+<l>"Dat nemt mi meest mine gesonde;</l>
+<l>Maer mochtic igeren te rasten wesen,</l>
+<l>46670 Mi donct ic soude wel genesen."</l>
+<l>Doe was Walewein harde blide,</l>
+<l>Ende bant hem sine wonden tien tide,</l>
+<l>Met selken crude die daer toe dochten,</l>
+<l>Dat si niet bloden mochten;</l>
+<l>46675 Ende nam Lancelote ende setten op sijn part,</l>
+<l>Ende keerden omme ten clusenare ward,</l>
+<l>Soe si best comen mochten.</l>
+<l>Si waren doe in dire gedochten,</l>
+<l>Mochten si daer comen tier stont,</l>
+<l>46680 Datten Walewein soude maken gesont.</l>
+<l>Dus reden si tot dier stonden</l>
+<l>Dat si die cluse hebben vonden.</l>
+<l>Niet lange sone sijn si daer comen,</l>
+<l>Sine hebben Moriane vernomen</l>
+<l>46685 Ende Gariette ende Perchevale,</l>
+<l>Die daer quamen nu ten male.</l>
+<l>Doe was daer bliscap menechfout.</l>
+<l>Die clusenare dede met gewout</l>
+<l>Spise gereiden te sinen gasten.</l>
+<l>46690 Si daden Lancelote daer te rasten</l>
+<l>Soe si best mochten ende conden:</l>
+<l>Elc vertelde anderen tien stonden</l>
+<l>Hoe sine dinge sijn vergaen;</l>
+<l>Ende Moriaen dede oec verstaen</l>
+<l>46695 Van sinen vader sine saken.</l>
+<l>Dien nacht waren [si] met gemaken</l>
+<l>Tes clusenaren, dat si u cont.</l>
+<l>Des anderdages doe Lanceloet verstont</l>
+<l>Hoet metter coninginnen es comen,</l>
+<l>46700 Al sout hem al die werelt vromen,</l>
+<l>Hine ware daer langer bleven niet,</l>
+<l>Noch om wonde no om verdriet;</l>
+<l>Want hi seide hi ware genesen,</l>
+<l>Ende hi wilde ember te stride wesen.</l>
+<l>46705 Dus moesten si riden ember doe,</l>
+<l>Waest lief oft leet, smargens vroe.</l>
+<l>Sine sparden doe genen dach.</l>
+<l>Al ridende Walewein ten wonde sach.</l>
+<l>Aldus redense al saechte vort,</l>
+<l>46710 Tessi niemare hebben verhort</l>
+<l>Van harre vrowen der coninginnen,</l>
+<l>Die was beseten in allen sinnen</l>
+<l>Vanden coninc van Yrlant.</l>
+<l>Hi hadde verw[oe]st ende verbrant</l>
+<l>46715 Soe vele, men mochs niet geweten;</l>
+<l>Haer selven hadde hi beseten</l>
+<l>In enen casteel daer hi lach voren.</l>
+<l>Hi hadde in diren ede gesworen,</l>
+<l>En gaf si haer niet op met minnen,</l>
+<l>46720 Ende mochti den casteel gewinnen,</l>
+<l>Hine souder nieman sparen,</l>
+<l>Van allen dire binnen waren,</l>
+<l>Te done soe groten lachter,</l>
+<l>Men souder spreken omme hier achter;</l>
+<l>46725 Ende haer selven als te voren.</l>
+<l>Dit hadde die coninc daer gesworen</l>
+<l>Bi sire crone ende bi al</l>
+<l>Daermen coninc bi geloven sal,</l>
+<l>Ende hen te doene sware scande.</l>
+<l>46730 Doe si quamen in Arturs lande,</l>
+<l>Die heren daer ic af doe verstaen,</l>
+<l>Sagense enen casteel, sonder waen,</l>
+<l>Daer een water ombe liep,</l>
+<l>Dat harde breet was ende diep:</l>
+<l>46735 Dine dede maken was wel bedocht.</l>
+<l>Die casteel was wel gewrocht</l>
+<l>Uten gronde van grauwen stene.</l>
+<l>Die coninc Artur hadde borch negene</l>
+<l>Daer hi hem op meer verliet;</l>
+<l>46740 Ende dine was noch verloren niet.</l>
+<l>Maer en hadde niet langer dach</l>
+<l>Tfolc datter binnen lach,</l>
+<l>Dan sire bi dage ute varen;</l>
+<l>Ende diemen daerna mochte bevaren.</l>
+<l>46745 Daer waren anders an gene genaden,</l>
+<l>Men daetse siden oft braden:</l>
+<l>Dit haddi coninc daer gesworen,</l>
+<l>Die sanderdages soude comen daer voren,</l>
+<l>Ende die dlant hadde gesaect</l>
+<l>46750 An hem, ende godeloes gemaect,</l>
+<l>Ende menege weduwe ende wese.</l>
+<l>Dlant was in groter vrese</l>
+<l>Bider scaden die si nu namen.</l>
+<l>Doe sagen die heren die daer quamen</l>
+<l>46755 Dat volc vlien ende vluchten</l>
+<l><edition n="313"/>Haer goet, alse die vruchten:</l>
+<l>Het ginc met hen al uten spele.</l>
+<l>Si gemoetten volx vele;</l>
+<l>Beide man, wijf ende kinder,</l>
+<l>46760 Die dat lant ruemden ginder.</l>
+<l>Si dreven die beeste, si drogen tgoet,</l>
+<l>Sulke gereden, sulke te voet:</l>
+<l>Hen dochte sine mochten niet bet.</l>
+<l>Doen vrachde her Gariet</l>
+<l>46765 Enen man dien hi gemoette,</l>
+<l>Ende dien hi hoveschelijc groette,</l>
+<l>Om dat lant ende om niemare,</l>
+<l>Ende wat daer den volke ware</l>
+<l>Dat si daer dus sere vlien?</l>
+<l>46770 Die gode man antwerde mettien:</l>
+<l>"Si wanen hebben al verloren;</l>
+<l>Die coninc sal hier comen voren</l>
+<l>Te desen castele die hier staet:</l>
+<l>Die liede en weten genen raet;</l>
+<l>46775 Si verlisen goet ende al.</l>
+<l>Hier es gesciet groet ongeval:</l>
+<l>Dordeel es over ons gegaen;</l>
+<l>Die coninc Artur es gevaen,</l>
+<l>Wine weten in wat staden.</l>
+<l>46780 Hi was belegen ende verraden</l>
+<l>In een foreest daer hi voer jagen,</l>
+<l>Daer waest dat wine achters sagen.</l>
+<l>Ende die coninc van Yrlant</l>
+<l>Saect al dit rike tsire hant.</l>
+<l>46785 Het moet hem al opgeven</l>
+<l>Dat behouden wilt sijn leven,</l>
+<l>Want hi heeft een crachtech here,</l>
+<l>Ende onse volc es sonder were.</l>
+<l>Wi sijn alle sonder geleide.</l>
+<l>46790 Her Walewein ende Lanceloet beide</l>
+<l>Si sijn gevaren uten lande,</l>
+<l>Dat es ons comen ter groter scande.</l>
+<l>Wi sijn alle sonder toverlaet</l>
+<l>Ende leitsman ende raet."</l>
+<l>46795 Doen seide daer toe Moriaen:</l>
+<l>"In desen casteel die hier es gestaen</l>
+<l>Es daer binnen ieman nu?"</l>
+<l>Die gode man seide: "Ic sect u:</l>
+<l>Daer sijn binnen ridders tiene,</l>
+<l>46800 (Haer doet staet hen wel tontsiene)</l>
+<l>Ende soudire een groet getal.</l>
+<l>Nu vruchten si dat ongeval</l>
+<l>Dat hier achter dlant deert.</l>
+<l>Si hadden den casteel wel verweerd,</l>
+<l>46805 Hi es so vast, dit naeste jaer;</l>
+<l>Want si hebben binnen daer</l>
+<l>Wapine ende lijfnere</l>
+<l>Ende volcs gnoech ter were</l>
+<l>Hen tonthoudene daer binnen;</l>
+<l>46810 Men mochtse lichte niet winnen</l>
+<l>Met crachte in gere wise</l>
+<l>Alse lange alsi hebben spise;</l>
+<l>Maer ember sout tenen inde comen.</l>
+<l>Mi donct God wil ons verdomen.</l>
+<l>46815 Die coninc heeft so dire gesworen,</l>
+<l>Al soudire .vij. jaer licgen voren,</l>
+<l>Si hebben alle dlijf verloren</l>
+<l>Die hire in vint als hire comt voren,</l>
+<l>Die hem jegen hem vermeten;</l>
+<l>46820 Dit heeft hi hen laten weten;</l>
+<l>Ende haer kindere en haer wijf,</l>
+<l>Al mochten die verdingen dlijf,</l>
+<l>Si selen nochtan moten darven</l>
+<l>Hars goets ende harre arven.</l>
+<l>46825 Ende wine hopen gere baten,</l>
+<l>Dus moetwi den casteel laten</l>
+<l>Ende vlien ende laten staen."</l>
+<l>Doe seide her Walewein saen:</l>
+<l>"Live vrient, God lone u,</l>
+<l>46830 Dat gi ons hebt bericht nu."</l>
+<l>Doen dochte Waleweine dbeste</l>
+<l>Dat si voren binnen der veste,</l>
+<l>Die scone was ende herde vaste,</l>
+<l>Ende si daer groetten die gaste</l>
+<l>46835 Ende die heren dire waren binnen,</l>
+<l>Datse God moeste minnen</l>
+<l>Ende haer dinc ten besten laten gaen.</l>
+<l>Die ridders waren daer wel ontfaen,</l>
+<l>Want si kindense alle wale.</l>
+<l>46840 Daer was bliscap in die zale</l>
+<l>Om Waleweine ende Lancelote.</l>
+<l>Walewein vertelde onder die genote</l>
+<l>Vanden goden riddere Moriaen,</l>
+<l>Wat hi dor hem daer hadde gedaen,</l>
+<l>46845 Ende dat hi ware der bester een</l>
+<l>Die de sonne die besceen.</l>
+<l>Dit dede Walewein daer verstaen.</l>
+<l>Nu sprac vord her Moriaen:</l>
+<l>"Hets goet dat wi hier binnen duren,</l>
+<l>46850 Ende laet ons nu hier aventuren</l>
+<l>Dor den coninc uwer alre here.</l>
+<l>Het ware sonde ende onnere</l>
+<l>Soudewi den casteel opgeven,</l>
+<l>Wine souden eer aventuren onse leven</l>
+<l>46855 Ende wachten der aventuren bloet."</l>
+<l>Walewein volgets ende Lanceloet,</l>
+<l>Ende seiden: "Die sinen here gebrect,</l>
+<l>Hets recht datmens hem lachter sprect</l>
+<l>Weder ende vort die werelt dure.</l>
+<l>46860 Waendi geniten der aventure,</l>
+<l>Wi selen nu des geninden,</l>
+<l>Ende God sal ons sine hulpe sinden,</l>
+<l>Dat hopic, in corten dagen.</l>
+<l>Wi mogen hier wel prijs bejagen</l>
+<l>46865 Ende den coninc onsen here</l>
+<l>Behouden oec wel sine ere;</l>
+<l>Al es [hi] aldus nu gevaen,</l>
+<l>Oft God wilt, hi sal ontgaen.</l>
+<l>Mijn herte seitmi ende min sin,</l>
+<l>46870 Willewi geduren hier in,</l>
+<l>Wi selen prijs bejagen nu."</l>
+<l>Dus ginc hen ane, dat secgic u,</l>
+<l>Her Walewein ende Moriaen;</l>
+<l>Ende doen si sine word hadden verstaen,</l>
+<l>46875 Die gene die daer binnen waren</l>
+<l>Ende en wech souden sijn gevaren,</l>
+<l>Doen si bekinden der heren sin,</l>
+<l>Sone was daer ne geen ridder in</l>
+<l>Noch oec soudier noch seriant,</l>
+<l>46880 Dat hi wilde gaen in hant,</l>
+<l>Noch rumen die gode veste.</l>
+<l>Moriaens raet dochte hen dbeste;</l>
+<l>Ende omdat hi soe onsienlijc sceen;</l>
+<l>Daer hi stont op sine been</l>
+<l>46885 Sceen hi dat hi een here al</l>
+<l>Scoffiren soude, haddi geval.</l>
+<l>Elc gaf daer sine sekerhede</l>
+<l>Met hem te blivene daer ter stede</l>
+<l>Ende den anderen niet te begevene</l>
+<l>46890 [Dan] dor te darvene vanden levene,</l>
+<l>Si selen eer ander niemare horen.</l>
+<l>Doen die ede waren gesworen</l>
+<l>Ende die sekerhede gedaen</l>
+<l>Gingen si vaste sluten saen</l>
+<l>46895 Haer porten, ende daer binnen</l>
+<l>Haer hulpe die si mochten gewinnen,</l>
+<l>Ende daertoe alle die lijfnere</l>
+<l>Jegen den coninc ende sijn here,</l>
+<l>Die daer wel gehinde lach.</l>
+<l>46900 Eer hem verdonkerde die dach</l>
+<l>Quam die coninc selve serre verbolgen,</l>
+<l>Ende dede hem menegen ridder volgen,</l>
+<l>Die behorden tsire maisniden,</l>
+<l>Ende daertoe vele van anderen lieden,</l>
+<l>46905 Die harde werechtech waren,</l>
+<l><edition n="314"/>Ende quamen vorden casteel gevaren.</l>
+<l>Doe dede die coninc vragen</l>
+<l>Den genen die daer binnen lagen</l>
+<l>Oft si den casteel op wilden geven</l>
+<l>46910 Ende verdingen alle haer leven?</l>
+<l>Doe antwerden die van binnen:</l>
+<l>Sine liten hen niet winnen</l>
+<l>Alse lange alsi mochten leven,</l>
+<l>Noch haren rechten here begeven.</l>
+<l>46915 Doe swoer die coninc enen eet,</l>
+<l>Sine gaven hen op gereet,</l>
+<l>Hine lietse nembermer verdingen</l>
+<l>Om al dat si mochten volbringen.</l>
+<l>Maer sine haddens genen gere</l>
+<l>46920 Ende gereiden hen ter were.</l>
+<l>Si souden bliven optie cantele,</l>
+<l>Ende worpen ute ten castele</l>
+<l>Stene groet ende swaer,</l>
+<l>Ende dreven den coninc achter daer</l>
+<l>46925 Van dien castele opt velt,</l>
+<l>Daer si slogen haer getelt.</l>
+<l>Binnen dien ginc die nacht in hant;</l>
+<l>Ende die daer comen waren int lant</l>
+<l>Si slogen tenten ende paulione</l>
+<l>46930 Ende logierden in dat grone.</l>
+<l>Alse dat die van binnen sagen</l>
+<l>Gingen si over een dragen,</l>
+<l>Ware dat leden si die nacht,</l>
+<l>Die coninc soude meerre cracht</l>
+<l>46935 Bejagen van ridders ende van lieden,</l>
+<l>Ende een crachtech here ontbiden,</l>
+<l>Ende beter es dat sijt nu aventuren</l>
+<l>Ende riden daer buten den muren</l>
+<l>Dan si meer worden verladen.</l>
+<l>46940 Hier af worden si scire beraden</l>
+<l>Eer hem noch come toe.</l>
+<l>Dit viseerde Lanceloet doe:</l>
+<l>"Wine mogen niet ontflien,</l>
+<l>Wine dorven om gene hulpe sien,</l>
+<l>46945 Noch wine mogen rumen den casteel;</l>
+<l>Bedi so eest bat onse vordeel."</l>
+<l>Dus waren si snachs inden casteel</l>
+<l>Sonder spel ende enech riveel.</l>
+<l>Si hilden hen te gadere vaste</l>
+<l>46950 Alse vrome liede ende gode gaste.</l>
+<l>Si aten ende dronken dat hen bequam.</l>
+<l>Ende talre irst dat men vernam</l>
+<l>Dat der dageraet naecte,</l>
+<l>Daer ne was nieman die vaecte.</l>
+<l>46955 Si wilden grote dinc bestaen.</l>
+<l>Si gingen hen alle wapinen saen,</l>
+<l>Elkerlike om sijn leven.</l>
+<l>Si daden ors coren geven.</l>
+<l>Wat holpt dat ict maecte lanc?</l>
+<l>46960 Tirst dattie dach ontspranc</l>
+<l>Si waren binnen wel gereden,</l>
+<l>Ende hadden starke orsse bescreden</l>
+<l>Ende wapine goet ter cure.</l>
+<l>Si porden ute ter goder ure:</l>
+<l>46965 Si daden hen die porte ontsluten.</l>
+<l>Dus voren die van binnen buten</l>
+<l>Met algader harre crachte.</l>
+<l>Die daer daden die sciltwachte</l>
+<l>Si worden der andere geware</l>
+<l>46970 Ende voer hen ane met haerre scare,</l>
+<l>Maer dat en besloet hen niet een bast.</l>
+<l>Moriaens wapine waren so vast:</l>
+<l>Hi dede doe die vorebetaelge:</l>
+<l>Hine gaver niet omme ene maelge</l>
+<l>46975 Dat hi den strijt daer began.</l>
+<l>Men sach nie eertscen man</l>
+<l>Slaen soe vreesselike slage.</l>
+<l>Si dorvochten gene lage.</l>
+<l>Walewein, Perchevael ende Lanceloet</l>
+<l>46980 Slogen daer nu menegen doet,</l>
+<l>Ende sijn tes conincs tente comen,</l>
+<l>Ende hebben haer wapine genomen</l>
+<l>Ende haer scilde ende hare speren</l>
+<l>Eer si comen conden ter weren:</l>
+<l>46985 Sine wisten wat hen was gesciet.</l>
+<l>Daer ne was gespaert niet.</l>
+<l>Si slipen vaste in haren rinc,</l>
+<l>Dire waren metten coninc;</l>
+<l>Si begonden sere versagen</l>
+<l>46990 Doe si dandere gewapent sagen,</l>
+<l>Dise bestonden met felre herte.</l>
+<l>Daer dogede die menege smerte</l>
+<l>Eer si geruemden dat velt.</l>
+<l>Si vingen den coninc met gewelt:</l>
+<l>46995 Daer ne was nieman an sine side</l>
+<l>Hine was vroe ende blide</l>
+<l>Mochte hi ontragen sijn leven.</l>
+<l>Die coninc moeste hem opgeven,</l>
+<l>Daertoe dwangene die noet,</l>
+<l>47000 Anders hadden sine geslegen doet,</l>
+<l>Ende sijn volc oec altemale.</l>
+<l>Si vorden den coninc binnen der zale</l>
+<l>Ende leidene in enen torre vast:</l>
+<l>Sine hadden nie so liven gast</l>
+<l>47005 Noch daer si soe blide af waren.</l>
+<l>Die vanden velde mochte ontfaren</l>
+<l>Hi achte lettel op dat hire brochte:</l>
+<l>Daer mochte winnen wie dats rochte.</l>
+<l>Alse die battalge was gedaen</l>
+<l>47010 Si hadden volcs vele gevaen</l>
+<l>Ende den coninc van Yrlant;</l>
+<l>Het was hen wel gegaen in hant.</l>
+<l>Si haelden daer binnen dat hen dochte,</l>
+<l>Dat daer menech dire becochte,</l>
+<l>47015 Dire noit gelt ave ne coes,</l>
+<l>Ende nie en wiste ho hijt verloes:</l>
+<l>Dat dede die anxt die si sagen</l>
+<l>Van Moriaens groten slagen</l>
+<l>Ende van Lanceloete ende van Waleweine</l>
+<l>47020 Ende van Perchevale, die opten pleine</l>
+<l>Menegen brachten in anxte groet</l>
+<l>Ende in vresen vander doet.</l>
+<l>Si brachten binnen mure die gaste,</l>
+<l>Ende sloten hare porten vaste,</l>
+<l>47025 Ende hingen doe ute hare scilde,</l>
+<l>Alse volc dat hen weren wilde.</l>
+<l>Doemen Waleweins teken bekinde</l>
+<l>Ende Lanceloets banire hem gehinde,</l>
+<l>Doe liep die niemare harde wide</l>
+<l>47030 Achter lande vanden stride.</l>
+<l>Des conincs volc dat daer lach,</l>
+<l>Si haddens herde swaer verdrach.</l>
+<l>Tirst datment hen liet weten,</l>
+<l>Die de coninginne hadden beseten,</l>
+<l>47035 Si trocken achter; ende al die gene</l>
+<l>Die den coninc dienden gemene</l>
+<l>Ende die met hem quamen inden lande</l>
+<l>Duchten sere hare scande,</l>
+<l>Ende vernamen an Waleweine die sake</l>
+<l>47040 Hoemen mochte die soene gemaken.</l>
+<l>Walewein wils hem beraden daer.</l>
+<l>Haer raet droech over een daer naer,</l>
+<l>Dat si den coninc Arture souden bringen</l>
+<l>Daer vore ogen eer si verdingen</l>
+<l>47045 Mochten haren here den coninc.</l>
+<l>"Dan selewi hebben op dese dinc</l>
+<l>Goden raet van allen saken</l>
+<l>Daermen soene bi moge maken."</l>
+<l>Wat hulpt dat ict make lanc?</l>
+<l>47050 Si moesten Arture an haren danc</l>
+<l>Halen ende bringen daer ter stede,</l>
+<l>Ende haer here verdingen daer mede.</l>
+<l>Doen die niemare liep int lant,</l>
+<l>Dat gevaen die coninc van Yrlant</l>
+<l>47055 Ende Artur was bracht daer te gedinge,</l>
+<l><edition n="315"/>Ward daer soe grote vergaderinge</l>
+<l>Vanden Bertoenen, dat ter steden</l>
+<l>Arture hebben onreden</l>
+<l>Ende genomen dien van Yrlant,</l>
+<l>47060 Ende brachtene met gewapender hant</l>
+<l>Inden casteel, ondancs hen allen.</l>
+<l>Dus eest Arture scone gevallen,</l>
+<l>Dat hi aldus es ontgaen,</l>
+<l>Ende den coninc heeft gevaen</l>
+<l>47065 Die hem hadde gevaen te voren.</l>
+<l>Nu seldi vanden coninc horen,</l>
+<l>Van Yrlant, die daer gevaen lach.</l>
+<l>Alse hi wiste ende alsi sach</l>
+<l>Dattie coninc Artur was uut,</l>
+<l>47070 Ginc hi in hant al over luut</l>
+<l>Ende boet scat ende oec have</l>
+<l>In dien datmen hem orlof gave;</l>
+<l>Ende oec te werdene sconincs man</l>
+<l>Van al sinen lande vort an,</l>
+<l>47075 Ende te rumene Arturs rike</l>
+<l>Met al sinen volke gemeinlike.</l>
+<l>Dus moeste die coninc, di was gevaen,</l>
+<l>Arture te sinen dienste staen</l>
+<l>Van sulken rentsone alsi bespraken.</l>
+<l>47080 Van hen latic staen die saken.</l>
+<l>Ende Artur was so blide daer of,</l>
+<l>Dat hi dede beropen hof,</l>
+<l>Ende wilde dat tsijns verteerden</l>
+<l>Al die gene dies begeerden.</l>
+<l>47085 Daer quam menech tsinen hove;</l>
+<l>Daer was nieman van sulken love,</l>
+<l>Noch diet so wel hadde gedaen</l>
+<l>Alse Perchevael ende Moriaen:</l>
+<l>Den loen dies hen Artur boet</l>
+<l>47090 Die was ongemate groet.</l>
+<l>Walewein seide den coninc algader</l>
+<l>Van Moriane ende sinen vader,</l>
+<l>Ende die aventuren die hen gescieden</l>
+<l>Teldi daer voer al die lieden.</l>
+<l>47095 Dies was hi daer sere besien.</l>
+<l>Nu latic die tale hier van dien</l>
+<l>Ende sal u tellen vorward saen</l>
+<l>Hoe tsinen vader voer Moriaen,</l>
+<l>Daer hi met sinen oem siec lach,</l>
+<l>47100 Dies ic u hier vore dede gewach.</l>
+<l>Daventure maect ons bekint,</l>
+<l>Doen dit orloge was al gehint,</l>
+<l>Ende Arturs lant te paise bracht,</l>
+<l>Ward Moriaen alsoe bedacht,</l>
+<l>47105 Dat hi wilde doen ondertrouwe</l>
+<l>Sinen vader sire moder, der vrowe.</l>
+<l>Den oem bat hi oft hi woude</l>
+<l>Dat hi met hem varen soude,</l>
+<l>Diet gerne dede, ic maecs u vroet.</l>
+<l>47110 Doe seide Walewein ende Lanceloet,</l>
+<l>Si wilden met hem mede varen</l>
+<l>Om sire eren wille, twaren,</l>
+<l>Ende om geselscap vanden here.</l>
+<l>Dies dancte hen Moriaen sere.</l>
+<l>47115 Doe gereiden si hare vart,</l>
+<l>Ende voren met hem ten clusenare ward.</l>
+<l>Si voren blidelike onder hen[lieden];</l>
+<l>Si telden van dingen die gesciden</l>
+<l>Ginder ende hier menegertire,</l>
+<l>47120 Onthier ende si quamen ter rivire</l>
+<l>Daer si sceepten ende over reden.</l>
+<l>Ende alsi dwater waren leden</l>
+<l>Quamen si scire te Perchevaels oem,</l>
+<l>Die hars nam daer goeden goem.</l>
+<l>47125 Ende Acglavael was al genesen,</l>
+<l>Die gewont hadde gewesen.</l>
+<l>Ende Moriaen vrachde hem daer nare</l>
+<l>Oft hi al genesen ware,</l>
+<l>Ende oft hi wilde doen daer of</l>
+<l>47130 Van sire moder sijn belof?</l>
+<l>Hi seide dat hi gereet ware,</l>
+<l>Ende wel genesen oppenbare;</l>
+<l>"Ende die trouwe willic anegaen</l>
+<l>Die ic uwer moder hebbe gedaen,</l>
+<l>47135 Weltijt gi wilt, Godeweet:</l>
+<l>Ic beent altoes te doene gereet."</l>
+<l>Perchevael seide: "Wat lettewi dan?</l>
+<l>U soene es soe goeden man</l>
+<l>Ende soe vrome ende so stout,</l>
+<l>47140 Gi moges Gode danken menechfout</l>
+<l>Dat gine hebt gewonnen nu.</l>
+<l>Gereit u vaste, wi varen met u.</l>
+<l>Her Walewein ende her Lanceloet</l>
+<l>Sijn met hem comen om trouwe groet,</l>
+<l>47145 Ende selen met ons in Moriane varen."</l>
+<l>Doen en werd daer geen langer sparen,</l>
+<l>Sine gereiden hare vart</l>
+<l>Ende reden met Moriane darward,</l>
+<l>Die den wech conste bat gerede</l>
+<l>47150 Dan ieman van hen allen dede.</l>
+<l>Si reden so lange, dat sire quamen.</l>
+<l>Ende alse die vanden lande vernamen</l>
+<l>Dat Moriaen brachte sinen vader,</l>
+<l>Trocken die heren derward algader:</l>
+<l>47155 Ende wildent som wedersecgen daer</l>
+<l>Omt goet te behoudene, wet vor waer.</l>
+<l>Doe dit Moriaen vernam</l>
+<l>Wart hi so tornech ende so gram,</l>
+<l>Dat hi trac sijn sward al bloet</l>
+<l>47160 Ende reet in dat meeste conroet,</l>
+<l>Ende sloger daer doet .xv. der heren,</l>
+<l>Die hem sijn goet wilden ontkeren.</l>
+<l>Alse dit die andere hebben vernomen</l>
+<l>Sijn [si] daer te genaden comen,</l>
+<l>47165 Ende kinden hem algader sijn lant,</l>
+<l>Ende gavent sire moder op te hant,</l>
+<l>Ende ontfingent van haer weder,</l>
+<l>Ende worden haer man daer af seder.</l>
+<l>Doe dese dinge waren gehint,</l>
+<l>47170 Ende si vrowe was bekint</l>
+<l>In alt lant, suldi verstaen,</l>
+<l>Doe maectmen daer di brullocht saen</l>
+<l>Van Acglovale ende vander vrouwe:</l>
+<l>Deen dede den anderen ondertrouwe.</l>
+<l>47175 Daer ward bliscap ende groet spel:</l>
+<l>Die brullocht duerde also wel</l>
+<l>.xiiij. dage al even groet,</l>
+<l>Datmen daer gene porten sloet.</l>
+<l>Daer was feeste ende groet spel:</l>
+<l>47180 Daer was hen allen gedient wel</l>
+<l>Van alles dies wies optie eerde.</l>
+<l>Daer worden gegeven gode peerde,</l>
+<l>Cledere grau ende oec bont:</l>
+<l>Menegen scellinc, menech pont,</l>
+<l>47185 Menech scoenheit was daer gegeven</l>
+<l>Om datmen te blideliker soude leven.</l>
+<l>Menestrele ende yraude mede</l>
+<l>Ward daer gegeven grote rijchede,</l>
+<l>Want daer was goets genoech.</l>
+<l>47190 Elc hadde daer wel sijn gevoech.</l>
+<l>Daer moesten bliven die heren nu,</l>
+<l>Walewein ende Lanceloet, secgic u,</l>
+<l>Tot dattie feeste leden was.</l>
+<l>Perchevael bat hen, sijt seker das,</l>
+<l>47195 Ende Acglavael de brodegoem,</l>
+<l>Dat si der brullocht namen goem.</l>
+<l>Dat daden si wel eerlike:</l>
+<l>Daer ne was nieman, arm no rike,</l>
+<l>Hine hadde gnoech ende planteit.</l>
+<l>47200 Wat hulpt hier af vele geseit?</l>
+<l>Doen die feeste daer was leden,</l>
+<l>Ende die heren sijn gesceden,</l>
+<l>Ende alle orlof hebben genomen,</l>
+<l>Es Walewein ende Lanceloet comen</l>
+<l>47205 Ende Perchevael, dese heren, twaren,</l>
+<l><edition n="316"/>Wilden tes conincs Arturs hove varen;</l>
+<l>Want het was den sinxenen na,</l>
+<l>Ende die coninc, alsict versta,</l>
+<l>Soude hof houden, sijt seker das,</l>
+<l>47210 Den meeste die nie gehouden was,</l>
+<l>Dor Galaats wille, Lanceloets sone;</l>
+<l>Want te hove soude comen di gone,</l>
+<l>Ende soude riddere werden also wale.</l>
+<l>Hier af liep groet die tale,</l>
+<l>47215 Dat hi dat grael winnen sal,</l>
+<l>Ende daventuren groet ende smal</l>
+<l>Die ter tafelronden behoren toe.</l>
+<l>Hi soude oec sitten seidemen doe</l>
+<l>Int vresselijc sitten, wetet dan,</l>
+<l>47220 Daer noit in dorste sitten man.</l>
+<l>Om dit te siene, hebbic vernomen,</l>
+<l>Sal menech man te hove comen;</l>
+<l>Want die coninc had doen gebieden</l>
+<l>Den hogen ende den riken lieden,</l>
+<l>47225 Dat si comen souden te hove.</l>
+<l>Dus quam daer menech man van love.</l>
+<l>Ende om dit sone wilde Lanceloet</l>
+<l>Niet langer bliven daer al bloet,</l>
+<l>Noch Walewein noch Perchevale,</l>
+<l>47230 Ende namen orlof an Acglavale</l>
+<l>Ende an Moriane oec mede,</l>
+<l>Ende an sire moder daer ter stede;</l>
+<l>Ende reden so lange dat si quamen</l>
+<l>Daer si den coninc Artur vernamen</l>
+<l>47235 Te Karmeloet, daer hi lach,</l>
+<l>Daer hi gerne te sine plach</l>
+<l>Als hi stille wilde wesen.</l>
+<l>Doe die coninc vernam van desen</l>
+<l>Dat Walewein ende Lanceloet</l>
+<l>47240 Ende Perchevael oec mede al bloet</l>
+<l>Comen waren, was hi tien tide</l>
+<l>Harre comst harde blide.</l>
+<l>Ende doe hi vernam van Acglavale,</l>
+<l>Ende si hem seiden altemale</l>
+<l>47245 Hoe die brullocht is vergaen,</l>
+<l>Ende van Moriane oec deden verstaen,</l>
+<l>Sine coenheit ende sine vromechede,</l>
+<l>Die hi daer inden lande dede,</l>
+<l>Was die coninc ende die coninginne</l>
+<l>47250 Harde blide in haren sinne.</l>
+<l>Hieraf latic nu die tale</l>
+<l>Ende sal vort spreken vanden grale;</l>
+<l>Hoet gewonnen was, Godweet,</l>
+<l>Dat suldi vinden wel gereet</l>
+<l>47255 In dit boec dat volget hier na.</l>
+<l>Die ander pertie, alsict versta,</l>
+<l>Van Lancelote gaet hier uut.</l>
+<l>Nu biddic Gode al over luut,</l>
+<l>Dat hi mins ontfermen moete</l>
+<l>47260 Alse mins lijfs sal werden bote,</l>
+<l>Ende mote mine ziele bringen</l>
+<l>Te sinen rike ende dies gehingen.</l>
+<l parse="ignore">Amen.</l>
+</text>
+<!--</ENTRY>
+--></TEI.2>

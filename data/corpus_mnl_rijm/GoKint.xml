@@ -1,0 +1,87 @@
+<?xml version='1.0'?><!DOCTYPE TEI.2 PUBLIC '-//TEI P4//DTD Main Document Type//EN' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd' [<!ENTITY % TEI.prose 'INCLUDE'><!ENTITY % TEI.linking 'INCLUDE'><!ENTITY % TEI.figures 'INCLUDE'><!ENTITY % TEI.analysis 'INCLUDE'><!ENTITY % TEI.corpus 'INCLUDE'><!ENTITY % TEI.XML 'INCLUDE'><!NOTATION TEI-XML PUBLIC 'TEI P4' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd'><!-- internal INL dtd --><!ELEMENT b (#PCDATA)><!ELEMENT l (#PCDATA | b)*><!-- end of internal INL dtd -->]><TEI.2><!--<ENTRY id="i150"><teiHeader><fileDesc><titleStmt><title>Godevaerts kintshede</title>
+</titleStmt>
+<interpGrp type="pubYear_from"><interp value="1300"/></interpGrp>
+<interpGrp type="witnessYear_from"><interp value="1300"/></interpGrp>
+<interpGrp type="pubYear_to"><interp value="1350"/></interpGrp>
+<interpGrp type="witnessYear_to"><interp value="1350"/></interpGrp>
+<TITEL>Godevaerts kintshede</TITEL>
+<author>Onbekend</author>
+<AARD>Rijm</AARD>
+<BRON nr="K36">Wenen, &Ouml;sterreichische Nationalbibliothek, 15393 (fragm.)</BRON>
+<DATUM>1300-1350</DATUM>
+<OMVANG>60 verzen</OMVANG>
+<BRON.OPM>De Weense fragmenten bestaan uit vier stroken, die horizontaal midden uit verschillende bladen gesneden zijn. Per bladzijde zijn er twee kolommen en een kolom telde oorspronkelijk 46 tot 50 regels. De fragmenten 1 en 2 sluiten in de breedte op elkaar aan en bevatten een gedeelte uit Godevaerts kintshede. Te oordelen naar de lijngaatjes in de buitenrand zijn ze zodanig ingebonden, dat de recto- en versozijde verwisseld zijn. Met de binnenmarge zijn ook de beginletters van de verzen van kolom ra weggesneden. Bij elkaar tellen de twee stroken nog ca. 15 regels per kolom. De fragmenten 3 en 4 zijn restanten van de Roman van Antiochi&euml;. Tot hetzelfde handschrift behoorden ook de volgende fragmenten: Gent, Bibliotheek der Rijksuniversiteit, 1647; Brussel, Koninklijke Bibliotheek, IV 209,10; Leuven, Coll.-J. Deschamps, z.s. Deze fragmenten bevatten net als de Weense fragmenten 3 en 4 gedeelten uit de Roman van Antiochi&euml;.</BRON.OPM>
+<EDITIE>G.H.M. Claassens: De Middelnederlandse kruisvaartromans. Amsterdam, 1993. Diss. Nijmegen, 108-139 (132-138).</EDITIE>
+<STATUS>Diplomatisch</STATUS>
+<BRONMNW>411.13 (andere editie)</BRONMNW>
+<BRONMNW>1261</BRONMNW>
+<BRONMNW>1 (andere editie)</BRONMNW>
+<EDITIE.OPM>Claassens geeft behalve de diplomatische ook de kritische editie (naast elkaar op de linker- en de rechterpagina). Voorts heeft Claassens onzekere lezingen tussen ronde haken geplaatst en conjecturen tussen rechthoekige haken, terwijl ze hier beide tussen rechthoekige haken zijn gezet.</EDITIE.OPM>
+<BRONNEN>Wenen, &Ouml;sterreichische Nationalbibliothek, 15393 (fragm.)</BRONNEN>
+<HSDRUK>Historie vanden ridder metter swane, Helias ridder metter swane</HSDRUK>
+</fileDesc>
+</teiHeader>
+--><text>
+<l><pb n="132"/><milestone unit="fol" n="ra"/> [D]ie wae[r] hi [rijt met h....]</l>
+<l>[V]an alden gonen diere riden</l>
+<l>[N]e voerer gheen vergoud ghesmide</l>
+<l>[S]i voerent alle wit van tinne</l>
+<l n="5">[G]hi sult andere chierheit bekinne</l>
+<l>[B]i mire wet ne twifelets niet</l>
+<l>[E]er ghi den hertoghe siet</l>
+<l>[D]en eidelen jonchere wel gheboren</l>
+<l>[A]ls dat die conijnc began horen</l>
+<l n="10">[S]prac hi bi mamette ic bems vroet</l>
+<l>[U] here es een eidel bloet</l>
+<l>[S]int hi onthout dustane partye</l>
+<l>[D]ie conijnc tybaut van arabye</l>
+<l>[D]ie welke den berech van goude</l>
+<l n="15">[I]n sijn lijf hadde in sire ghewoude</l>
+<l><pb n="134"/><milestone unit="fol" n="rb"/> [...............]</l>
+<l>viij&supm;. ridders ghewapent wel</l>
+<l>Elc heift bescreden .j. ors snel</l>
+<l>Het es werd wel .C. pont</l>
+<l n="20">Ende bin der seluer stont</l>
+<l>So es die scare leiden</l>
+<l>Ende die derde cam ghereiden</l>
+<l>Doe wonderets den conijnc mere</l>
+<l>Want waren dene ghetoomt zere</l>
+<l n="25">Dese waren ghetoomt meer</l>
+<l>Doe sprac hi ten abt geheer</l>
+<l>Dat v mamet lonen moete</l>
+<l>Salic den hertoghe nv ghemoeten</l>
+<l><b>R</b>Echte waerheit in warer dijnc</l>
+<l n="30">Sal ic v segghen here conijnc</l>
+<l>[.............]en</l>
+<l><milestone unit="fol" n="va"/> Waren hier wel .x&supm;. vieliaerden leden</l>
+<l>So soude mijn here comen ghereden</l>
+<l>Die es gheprijst bouen allen prenchen</l>
+<l n="35">Want hi es de preutste mensche</l>
+<l>Die men nv ter tijt</l>
+<l>Soude vinden in de werelt wijt</l>
+<l>Bin dat si dese tale seiden</l>
+<l>So sijn die vieliaerden leiden</l>
+<l n="40"><pb n="136"/> Ende daer naer camen gheuaren</l>
+<l>Wel .lx. jongher riddaren</l>
+<l>Die hem voeren onderstek[end]e</l>
+<l>Mallijc vp anderen sprekende</l>
+<l>In tekenessen doe ic v weten</l>
+<l n="45">Datter hem dhertoghe [b]i soude vergheten</l>
+<l><milestone unit="fol" n="vb"/> [............w..wij.]</l>
+<l>Want met gode was hi vercoren</l>
+<l>Eer noit sijn moeder was gebore[n]</l>
+<l>Sonder galle es hi ende sonder smet[te]</l>
+<l n="50">Cornubrant sprac bi mamette</l>
+<l>Here abt ghi prijstene zere</l>
+<l>Ende in wister ooc min no mere</l>
+<l>Waer vinden te lachterne an</l>
+<l>Maer bi den voghet tieruogan</l>
+<l n="55">Ic wilt hem ware lief</l>
+<l>Dat icken sonder mijn grief</l>
+<l>Spreken moeste minen kies</l>
+<l><edition n="138"/>Ende ic hem soude dies</l>
+<l>Berecht doen vppenbare</l>
+<l n="60">Al vte ende vute wie ic ware</l>
+</text>
+<!--</ENTRY>
+--></TEI.2>

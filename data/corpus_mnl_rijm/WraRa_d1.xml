@@ -1,0 +1,141 @@
+<?xml version='1.0'?><!DOCTYPE TEI.2 PUBLIC '-//TEI P4//DTD Main Document Type//EN' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd' [<!ENTITY % TEI.prose 'INCLUDE'><!ENTITY % TEI.linking 'INCLUDE'><!ENTITY % TEI.figures 'INCLUDE'><!ENTITY % TEI.analysis 'INCLUDE'><!ENTITY % TEI.corpus 'INCLUDE'><!ENTITY % TEI.XML 'INCLUDE'><!NOTATION TEI-XML PUBLIC 'TEI P4' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd'><!-- internal INL dtd --><!ELEMENT b (#PCDATA)><!ELEMENT l (#PCDATA | b)*><!-- end of internal INL dtd -->]><TEI.2><!--<ENTRY id="i1029"><teiHeader><fileDesc><titleStmt><title>Wrake van Ragisel</title>
+</titleStmt>
+<interpGrp type="pubYear_from"><interp value="1340"/></interpGrp>
+<interpGrp type="witnessYear_from"><interp value="1340"/></interpGrp>
+<interpGrp type="pubYear_to"><interp value="1360"/></interpGrp>
+<interpGrp type="witnessYear_to"><interp value="1360"/></interpGrp>
+<TITEL>Wrake van Ragisel</TITEL>
+<author>Onbekend</author>
+<AARD>Rijm</AARD>
+<BRON nr="K127">D&uuml;sseldorf, Universit&auml;tsbibliothek, Dauerleihgabe der Stadt D&uuml;sseldorf, F 26,a (fragm.)</BRON>
+<DATUM>1340-1360</DATUM>
+<OMVANG>107 verzen</OMVANG>
+<BRON.OPM>Bovenste deel van een dubbelblad; aan de zijkanten zodanig besnoeid, dat van kolom 2rb het einde en van kolom 2va het begin van de versregels ontbreekt. Per bladzijde 2 kolommen en per kolom nu nog 12-14 regels (oorspronkelijk 39-40 regels). Volgens Gerritsen (1963), 291, betreft het hier het binnenste diploma van een katern.</BRON.OPM>
+<EDITIE>W.P. Gerritsen: Die Wrake van Ragisel. Onderzoekingen over de Middelnederlandse bewerkingen van de Vengeance Raguidel, gevolgd door een uitgave van de Wrake-teksten. Assen, 1963. Diss. Utrecht. 2 dln., 310-321.</EDITIE>
+<STATUS>Kritisch</STATUS>
+<BRONMNW>797 (andere versie)</BRONMNW>
+<BRONMNW>914.B.V.3 (andere editie)</BRONMNW>
+<BRONMNW>1276.14 (andere editie)</BRONMNW>
+<BRONMNW>1495 (andere editie)</BRONMNW>
+<EDITIE.OPM>De wijze waarop de tekst van de fragmenten in de editie Gerritsen wordt gepresenteerd, is op een aantal punten afwijkend. In de eerste plaats geeft Gerritsen in de rechtermarge ook de versnummering volgens de editie te Winkel (zie J. te Winkel: 'De Wrake van Ragisel'. In: TNTL 13 (1894), 116-129). In dezelfde marge verwijst hij ook naar de corresponderende verzen van de verkorte versie van de tekst in zijn eigen uitgave. Verder heeft Gerritsen de tekst verdeeld in acht tekstblokjes: Ba t/m Bh; dit zijn in feite de resterende stukken van de acht kolommen (1ra-2vb) van het dubbelblad. Bij elk tekstblokje geeft hij bovendien een korte aanduiding van de inhoud en tussen de tekstblokjes heeft hij aangegeven hoeveel regels er zijn weggevallen. Afwijkend is ook dat Gerritsen de hier besproken fragmenten afwisselt met de overige fragmenten die van dezelfde tekst bewaard zijn, waarbij de volgorde is bepaald door de loop van het verhaal. Andere punten van verschil: de enkele aanhalingstekens voor de directe rede zijn hier vervangen door dubbele en het soms aangebrachte verticale streepje ter aanduiding van het zinseinde (om verlezing te voorkomen) is hier weggelaten. De tekstblokjes corresponderen als volgt met de tekst van de verkorte versie in de editie Jonckbloet (1846-1849): Ba = Jonckbloet Bk. III, vs. 12241-12244; Bb: vs. 12263-12266; Bc: 12284-12289; Bd: geen corresponderend gedeelte; Be: 12305-12306. De fragmenten Bf, Bg en Bh dekken gedeelten van de fragmenten Leiden, Bibliotheek der Rijksuniversiteit, B.P.L. 3085.</EDITIE.OPM>
+<BRONNEN>Van de tekst bestaan een lange versie en een (ver)korte versie. De lange versie is alleen fragmentarisch overgeleverd. Er zijn fragmenten van een tweetal handschriften: Hs. I: - <x nr=K127>D&uuml;sseldorf, Universit&auml;tsbibliothek, Dauerleihgabe der Stadt D&uuml;sseldorf, F 26,a (fragm.)</x>
+ Hs. II: - <x nr=K134>D&uuml;sseldorf, Universit&auml;tsbibliothek, Dauerleihgabe der Stadt D&uuml;sseldorf, F 26,b (fragm.)</x>
+ - <x nr=K135>Leiden, Bibliotheek der Rijksuniversiteit, B.P.L. 3085 (fragm.)</x>
+ De (ver)korte versie is volledig overgeleverd en maakt deel uit van de zogenaamde Haagse <i>Lancelot</i>-codex: - <x nr=K126>'s-Gravenhage, Koninklijke Bibliotheek, 129 A 10, fol. 158v-166</x>
+</BRONNEN>
+</fileDesc>
+</teiHeader>
+--><text>
+<lg><l><pb n="310"/><milestone unit="fol" n="1ra"/> Dar so menich coen degen</l>
+<l>So cortelike wart verslegen</l>
+<l>Alse nu hier dat wetic wale</l>
+<l>Her Wallewein was harde fel</l>
+<l n="5">Hi v[u]lder menegen van den orse</l>
+<l>Want hi stont in die meeste porse</l>
+<l>Altoes ende deedese vor hem wiken</l>
+<l>Datmen te rechte mach geliken</l>
+<l>Die lewe die di scape jaget</l>
+<l n="10">Dar wart menich ridder versaget</l>
+<l>Als hi quam in sijn gemoet</l>
+<l>Die nochtan stout ende goet</l>
+<l parse="ignore">Mijn her Wallewein heeft so gevaren</l>
+<l parse="ignore">[........ die] daer waren</l>
+<l parse="ignore" n="15"><milestone unit="fol" n="1rb"/> Hine hadde niet van enen cave</l>
+<l>Ontfaen te scaden in den stri[de]</l>
+<l>Hi was in hoghen ende bli[de]</l>
+<l>Ende sat onder sine gesellen</l>
+<l>Die al laggende vertellen</l>
+<l n="20">Wien daer gevalle of ongeval</l>
+<l>Was gesciet. ende wien men sal</l>
+<l>Met rechte loven ende prisen</l>
+<l><edition n="311"/>Dus saten si in deser wisen</l>
+<l>Met groter joien in die zale</l>
+<l n="25">Nu willic u van hem die tale</l>
+<l>Laten bliven ende seggen vort</l>
+<l>Ene aventure die men hort</l>
+<l parse="ignore">Gerne lesen in walsche tale</l>
+<l parse="ignore">[........ w]ale</l>
+<l n="30"><milestone unit="fol" n="1va"/> Van den wapenen die hier an droech</l>
+<l>Hi dede haer ovels me dan genoech</l>
+<l>Want hi sl[oec]hse met onwerden</l>
+<l>Over die [hei]de daer jegen werden</l>
+<l>Her Walewein ende sijn broder quamen</l>
+<l n="35">D[oe si] dat sagen ende vernamen</l>
+<l>[Docht] hem utermaten naer</l>
+<l>Her Walewein sprac "ay riddere waer</l>
+<l>Mo[gedij]t vinden in u herte</l>
+<l>Dat gi dus ongevoe[ge] smerte</l>
+<l n="40">Der joffrouwen dogen doet</l>
+<l>Gi sl[aic]se waer di vroet</l>
+<l>Gine onderwondes niet mee"</l>
+<l>"[I]nne laets dor u niet een slee</l>
+<l parse="ignore">Waer salic [........]</l>
+<l parse="ignore" n="45"><pb n="312"/><milestone unit="fol" n="1vb"/> "Doe verwarf ic datmen sochte</l>
+<l>An desen riddre enen vrede</l>
+<l>Te [m]ine behoef hort wat hi dede</l>
+<l parse="ignore">Hi gavene gerne ende blidelike</l>
+<l parse="ignore">Doe waendic [...] behoudelike</l>
+<l n="50">Varen ende [keren] over al</l>
+<l>Nu merct [here] mijn groet ongeval</l>
+<l>Hier na up den derden dach</l>
+<l>Voer ic mi meyen want ic sach</l>
+<l>Dat weder scone ende blide</l>
+<l n="55">Ende dese riddre die van nide</l>
+<l>Vol sijn ende van overdade</l>
+<l>Quamen hier met valschen rade</l>
+<l parse="ignore">Ende slogen [........]</l>
+<l parse="ignore"><milestone unit="fol" n="2ra"/> "Laet hem hebben sine amie</l>
+<l parse="ignore" n="60">Al doet hi haer nu dorpernie</l>
+<l>Si heves lich wel verdient</l>
+<l>Ende hi sal morgen bat haer vrient</l>
+<l>Wesen ende versoent al"</l>
+<l>"M[i]n her Walewein" sprac hi "sal</l>
+<l n="65"><pb n="313"/> De[s]e joffrouwe staen te staden</l>
+<l>Want sij[s] nu bide dor genade</l>
+<l>Inne quam noit te gere stad</l>
+<l>Dat mi joffrouwe genade bat</l>
+<l>Dat ic hare minen dienst onseide</l>
+<l n="70">Broder het waer dorperheide"</l>
+<!--
+<l><pb n="315"/><milestone unit="fol" n="2rb"/> Mijn her Walewein sprac "dat [...]</l>
+<l><b>D</b>Ie twe en consten n[u...]</l>
+<l>So den vrede dese ne [...]</l>
+<l>Ende verwerden vele mee[...]</l>
+<l n="75">Met haren talen dander t[...]</l>
+<l>Want elc die joffrouwe hebben [...]</l>
+<l>Dus sijn si met spere ende [...]</l>
+<l>Elc van andren een deel [...]</l>
+<l>Doe wast hadde narnst [...]</l>
+<l n="80">Te justeerne ridderlike [...]</l>
+<l>Si hilden wel ende getog[...]</l>
+<l>Vor hen die sc[il]de ende dede [...]</l>
+<l><pb n="317"/><milestone unit="fol" n="2va"/> [...] groter cracht onthouden</l>
+<l>[... d]ie orse keren souden</l>
+<l n="85">[...]adren metten sweerde</l>
+<l>[...e]ren ende na overdade</l>
+<l>[...] oetmoedelike genade</l>
+<l>[...c] "ay rider edel here</l>
+<l>[...]c ben gequetst harde sere</l>
+<l n="90">[...] mi heden up desen dach</l>
+<l>[...]t mi here oft wesen mach</l>
+<l>[...]ame in hovescheden</l>
+<l>[...]t gijs mi hebt gebeden</l>
+<l>[...]lic dat u cont si</l>
+-->
+<l n="95"><pb n="319"/><milestone unit="fol" n="2vb"/> "Of dan neen hoet u van mi"</l>
+<l>Die ridder sprac "ic scelse vri</l>
+<l>Neemtse ende voertse dart u voget"</l>
+<l>Doe sprac her Walewein "mi gevoget</l>
+<l>Uwe name te wetene dien segt mi</l>
+<l n="100">Eer wi sceden" "here dat si</l>
+<l>Ic hete te berge ende te dale</l>
+<l>Licoridoen" met dere tale</l>
+<l>Sijn si bede dan gesceden</l>
+<l>Ende lieten hebben ende geleden</l>
+<l n="105"><pb n="321"/> Die aer hi wilde die joffrouwe</l>
+<l>Die quijt was van groten rouwe</l>
+<l parse="ignore">Ende [.............] waren</l>
+</lg>
+</text>
+<!--</ENTRY>
+--></TEI.2>

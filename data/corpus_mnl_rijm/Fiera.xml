@@ -1,0 +1,397 @@
+<?xml version='1.0'?><!DOCTYPE TEI.2 PUBLIC '-//TEI P4//DTD Main Document Type//EN' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd' [<!ENTITY % TEI.prose 'INCLUDE'><!ENTITY % TEI.linking 'INCLUDE'><!ENTITY % TEI.figures 'INCLUDE'><!ENTITY % TEI.analysis 'INCLUDE'><!ENTITY % TEI.corpus 'INCLUDE'><!ENTITY % TEI.XML 'INCLUDE'><!NOTATION TEI-XML PUBLIC 'TEI P4' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd'><!-- internal INL dtd --><!ELEMENT b (#PCDATA)><!ELEMENT l (#PCDATA | b)*><!-- end of internal INL dtd -->]><TEI.2><!--<ENTRY id="i132"><teiHeader><fileDesc><titleStmt><title>Fierabras, Doon de Mayence, Jan van Lacviden</title>
+</titleStmt>
+<interpGrp type="pubYear_from"><interp value="1340"/></interpGrp>
+<interpGrp type="witnessYear_from"><interp value="1340"/></interpGrp>
+<interpGrp type="pubYear_to"><interp value="1360"/></interpGrp>
+<interpGrp type="witnessYear_to"><interp value="1360"/></interpGrp>
+<TITEL>Fierabras</TITEL>
+<TITEL>Doon de Mayence</TITEL>
+<TITEL>Jan van Lacviden</TITEL>
+<author>Onbekend</author>
+<AARD>Rijm</AARD>
+<BRON nr="K27">Bourbourg, Archives Municipales, z.s. (fragm.) [zoek?]</BRON>
+<DATUM>1340-1360</DATUM>
+<OMVANG>371 verzen</OMVANG>
+<BRON.OPM>E&eacute;n blad; per bladzijde 3 kolommen en per kolom 62 regels. Het fragment is thans zoek. Hierbij dient te worden aangetekend dat het 'Fonds ancien de la Biblioth&egrave;que Municipale' al sedert vele jaren niet meer beheerd wordt en dat van de hierin ondergebrachte stukken geen overzicht voorhanden is.</BRON.OPM>
+<EDITIE>G. Kalff: Middelnederlandsche epische fragmenten, met aanteekeningen. Groningen, 1885, 168-179 (170-179).</EDITIE>
+<STATUS>Kritisch</STATUS>
+<BRONMNW>411.9</BRONMNW>
+<EDITIE.OPM>Vanaf regel 215 loopt de versnummering niet meer synchroon met die van de editie Kalff, waarin regel 214 per abuis als 215 genummerd is.</EDITIE.OPM>
+<BRONNEN>Bourbourg, Archives Municipales, z.s. (fragm.) [zoek?]</BRONNEN>
+</fileDesc>
+</teiHeader>
+--><text>
+<l><edition n="170"/>"Ten es wonder boven der aerde,</l>
+<l>"Dat hem so groot ye verbaerde,</l>
+<l>"Dat men met wapinen mochte vellen,</l>
+<l>"Of met consten, verstaet mijn tellen,</l>
+<l n="5">"Sine soudent tonder doen,</l>
+<l>"Fierabras, Elegast ende Myloen."</l>
+<l>"Die ander seiden: "dat es waer."</l>
+<l>Do slougen si met speren daer</l>
+<l>Die felle leewen, die daer hingen;</l>
+<l n="10">Robbrecht beghanre oec na springen,</l>
+<l>Ende slouchen se metter hacx van stale:</l>
+<l>Als dieze vellen wilde te dale;</l>
+<l>Maer dat was dinc, dat niet besloot.</l>
+<l>Doe reden vorwaert die genoot.</l>
+<l n="15">De leewen bleven hangende daer</l>
+<l>Also lange, dat es waer,</l>
+<l>Dat se de lucht al verterde,</l>
+<l>Ende die vrome heren vermerde</l>
+<l>Sijn te Rozenborch comen;</l>
+<l n="20">Also Sansun heeft vernomen,</l>
+<l>Ontfinchize met blider chiere;</l>
+<l>Doe reden si dor die duwiere,</l>
+<l>So dat si quamen te Vauclere.</l>
+<l>Nu eist tijt, dat ic kere</l>
+<l n="25">Toet Fierabras ende toet Elegaste,</l>
+<l>Ende te Mylen, die altoes vaste</l>
+<l>Ende ghenendelike jaghen;</l>
+<l>Een somerpaert const cume gedragen</l>
+<l>Twilt, dat si hadden gevaen;</l>
+<l n="30">Doe lieten si haer jagen staen.</l>
+<l>Si wilden riden te Vauclere</l>
+<l>Doe sagen si met groten ghere</l>
+<l>Drie coninge comen ghereden</l>
+<l>Spelen met solaesliicheden,</l>
+<l n="35">Ongewapent, dat es ware;</l>
+<l>Maer elc hadde enen sporeware</l>
+<l>Staende friscelijc up sijn hant.</l>
+<l><edition n="171"/>Men hadde vonden in geen lant</l>
+<l>Vromer payene dan si waren.</l>
+<l n="40">Haer namen sal ic u verclaren:</l>
+<l>Deen was coninc van Slavenyen,</l>
+<l>Ende die ander in Tarteryen,</l>
+<l>Ende die derde Putagor</l>
+<l>Van Antioetsen; herde dor</l>
+<l n="45">Waren deze coninge drye.</l>
+<l>Het sachse comen, geloves mye,</l>
+<l>Fierabras, Elegast ende Myle.</l>
+<l>Doe drougen si over een ter wile,</l>
+<l>Dat sise zeker souden vaen;</l>
+<l n="50">Metten worden reden si hem aen.</l>
+<l>Doe seiden die vrome ridders [wigants?] fier:</l>
+<l>"Here payene putertier,</l>
+<l>Ghi sijt gevaen sonder liegen,</l>
+<l>Ter armen tijt so voerdi vliegen;</l>
+<l n="55">Dat suldi seggen tuwen bouf."</l>
+<l>Susas doe die tale up houf:</l>
+<l>"Trouwen, ghi heren, dies es gheen noot,</l>
+<l>Al sijn wi van wapinen bloot,</l>
+<l>Men mochte ons niet so lichte ringen;</l>
+<l n="60">Ende dat ghijt daer toe sout bringen,</l>
+<l>Het soudu werden zere te sure;</l>
+<l>Maer hort, ic sal u setten cure:</l>
+<l>Ic kenne u wel alle drye,</l>
+<l>Ghi sijt die ghene, geloves mye,</l>
+<l n="65">Die te Vauclere sonder lette</l>
+<l>Bootscap brochten van Mamette,</l>
+<l>Dat al gader was truffernye;</l>
+<l>Gi daet met uwer gokelrie</l>
+<l>Ons allen royen in een boot,</l>
+<l n="70">Ende Habigant den here groot</l>
+<l>Dadi wezen vogelare.</l>
+<l>Nu hoer, wies ic u verclare:</l>
+<l><edition n="172"/>Ghi sijt kerstijn alle drye,</l>
+<l>Ende wi loven die Mamettrye.</l>
+<l n="75">Hets waer, wi haddent hier te quaet,</l>
+<l>Na dat de dinc gescepen staet,</l>
+<l>Wildi ons emmer beraden noot;</l>
+<l>Ghij sijt ghewapent ende wi bloot,</l>
+<l>Wi waren varinc te ghenaden,</l>
+<l n="80">Na dat ghi heet van vromen daden.</l>
+<l>Wildi ene dinc bestaen,</l>
+<l>Die ic u sal leggen aen,</l>
+<l>So prisic uwe vromichede:</l>
+<l>Dat ghi laet wapinen onze lede</l>
+<l n="85">Ende nemen scilt ende spere;</l>
+<l>Wi sullen comen te Vauclere,</l>
+<l>Alle drie, bi Tervogant!</l>
+<l>Buten daer staet een heylant</l>
+<l>In die riviere onder die muer;</l>
+<l n="90">Wi sullen daer sijn u gebuer,</l>
+<l>Ende met u vechten onder ons drien.</l>
+<l>Die daer mach tgeluck gescien,</l>
+<l>Dat hi den anderen matteert,</l>
+<l>Ende doet lyen vor sijn zweert,</l>
+<l n="95">Hi sal moeten, sonder waen,</l>
+<l>Te sinen reymersoene staen,</l>
+<l>Up dat hi niet ne blivet doot."</l>
+<l>"Bi den here, die mi geboot,"</l>
+<l>Sprac die stoute Fierebras,</l>
+<l n="100">"Willen uwe gezellen das</l>
+<l>Consenteren, wi sullent doen."</l>
+<l>"Jawi," seiden Saragoen,</l>
+<l>Bi den voget Tervogant."</l>
+<l>Doe clopten si an haren tant,</l>
+<l n="105">Dat was vaster dan gesworen,</l>
+<l>Ende die ridders welgeboren</l>
+<l>Hilden hem wel gepayt daer aen.</l>
+<l><edition n="173"/>Elegast sprac: "Doet ons verstaen</l>
+<l>Den tijt, dat wi u zullen sien."</l>
+<l n="110">Doe sprac Gherdiflant, die payen:</l>
+<l>"Morgen metter zonnen upghange."</l>
+<l>Doe ne letten si niet lange,</l>
+<l>Sine staken metten sporen;</l>
+<l>Maer onze ridders huutvercoren</l>
+<l n="115">Beeten alle drie ter erde,</l>
+<l>Ende vergorden hare perde,</l>
+<l>Ende hingen te pointe hare scilde.</l>
+<l>Den sterken zomer metten wilde</l>
+<l>Dreven si vor hem te diere tijt;</l>
+<l n="120">Elc up sine stegebande rijt</l>
+<l>Den rechten wech te Vauclere,</l>
+<l>So lange dat si sagen there,</l>
+<l parse="ignore">Daer Susas of was rewaert.</l>
+<l parse="ignore">Die heren [.....] vermaert</l>
+<l n="125">Reden daer in ter zelver stont.</l>
+<l>"Monyoie!" roupen si, si u cont,</l>
+<l>Ende slougent al onder voet,</l>
+<l>So wat quam in haer gemoet.</l>
+<l>Si slougen ontwee der tenten corden,</l>
+<l n="130">Mengen Torc dat si vermorden:</l>
+<l>Peyene vloen gelike sporewen;</l>
+<l>Maer recht oft waren wilde leewen</l>
+<l>Verslougen si die Torkiene.</l>
+<l>Der tenten seven werven tiene</l>
+<l n="135">Velden si, geloeft mi das,</l>
+<l>Doe so reden si over tpas,</l>
+<l>Als die waren onvervaert;</l>
+<l>Emmer wachten si tsomerpaert,</l>
+<l>Dat hem niewer ontsapperde</l>
+<l n="140">Aldus voeren die heren gherde</l>
+<l>Int ander here van Habigante,</l>
+<l>Ende quamen daer recht als die Persante</l>
+<l>Ter maeltijt saten, geloves myen</l>
+<l>Die felle Soudaen Calistyen</l>
+<l n="145">Ende Habigant ende alle de zine</l>
+<l>Saten in die tente zidine,</l>
+<l>Die was des soudaens van Persi.</l>
+<l><edition n="174"/>In al die werelt, geloves mi,</l>
+<l>Ne hadde men vonden sulc juweel:</l>
+<l n="150">Groene side ende root fluweel,</l>
+<l>Daer af was so ondersneden,</l>
+<l>Daer in gewrocht bi suptiilheden</l>
+<l parse="ignore">Diveerse beestkine bi [.....] lyen,</l>
+<l parse="ignore">Tghelove al haerre mamettryen</l>
+<l parse="ignore" n="155">Stont daer in ghemagineert,</l>
+<l parse="ignore">Van finen goude gepol [.....]</l>
+<l>Alle die wapine van hedenesse</l>
+<l>Stont daer ane, sijt gewesse,</l>
+<l parse="ignore">Ende alle die wige van [.....]</l>
+<l parse="ignore" n="160">Die oyt waren boven der erde,</l>
+<l>Van Troyen of dieregelike</l>
+<l>Stont daer an so rikelike,</l>
+<l>Dat men nyet negenen gewrochte</l>
+<l>Rikeliker pensen mochte.</l>
+<l n="165">Tgesteente, dat daer an stont,</l>
+<l>Maket also overclaer,</l>
+<l>Dat mer ter midder nach (sic) bi zach,</l>
+<l>Al hadt gewezen scone dach. &raquo;</l>
+<l>Up vijf maste dat sy stont,</l>
+<l n="170">Ende die waren even ront;</l>
+<l>Die hoeftmast, verstaet wael,</l>
+<l>Was altemale van cristael</l>
+<l>Wel beslegen, geloves myen,</l>
+<l>Van finen goude huut Arabyen.</l>
+<l n="175">Die een vanden andren vieren</l>
+<l>Was, also ic u sal versieren,</l>
+<l parse="ignore">Al van claren cassydere [.....]</l>
+<l parse="ignore">Die ander van albaester was</l>
+<l parse="ignore">Ende die derde van elphant [.....]</l>
+<l parse="ignore" n="180">Die vierde van yvore rene,</l>
+<l>Ende daer an, also men woude,</l>
+<l>Grote spaengen van finen goude,</l>
+<l parse="ignore">Suverlike ende wel gep [.....]</l>
+<l parse="ignore">Die corden waren, ic wale [.....]</l>
+<l parse="ignore" n="185">Ghevlochten alle [.....]</l>
+<l parse="ignore">Van groenre zide [.....]</l>
+<l parse="ignore"><edition n="175"/>Elkerlike met drie stringen;</l>
+<l parse="ignore">Ende die [....] ken in waren dingen</l>
+<l>Waren zelverin in dezer wize,</l>
+<l n="190">Elc in gedrayt met eere vize,</l>
+<l>Dat mense niet huut mochte trecken,</l>
+<l>Men mochter met avize up mecken.</l>
+<l>Den appel van der tente boven</l>
+<l>Mochte men wel te rechte loven;</l>
+<l n="195">Want tgraefscap, als ic verstoet,</l>
+<l>Was nouwelike also goet</l>
+<l parse="ignore">[.......] wiste hoe [...] herden gront</l>
+<l parse="ignore">[..............]teneger stont</l>
+<l parse="ignore">[......] pateren die dierbaerheyt</l>
+<l parse="ignore" n="200">[.............] appel vas geleyt</l>
+<l parse="ignore">[.................] die dies ave</l>
+<l parse="ignore">Elegast [........] ende Myle die grave</l>
+<l>Ende Fierabras, die damoyseel,</l>
+<l>Dreven herde groet chembeel</l>
+<l n="205">Alsi dor dat here voeren;</l>
+<l>Clocke werden alle in roeren,</l>
+<l parse="ignore">[......] der mortyrien die si dreven;</l>
+<l parse="ignore">Ten mochte niet lichte sijn bescreven</l>
+<l parse="ignore">[.......] er die si van wapinen daden:</l>
+<l parse="ignore" n="210">Die zwerden daden si dicke baden</l>
+<l>Den Sarasinen doer den tanden;</l>
+<l>Ghene riepen up Tervoganden</l>
+<l parse="ignore">Ende liepen vaste haer hande slaende.</l>
+<l parse="ignore">Ende die [......] heren [......] staende</l>
+<l n="215">[.....................] oe stegebande</l>
+<l>[.....................] haer hande</l>
+<l>[.....................] quam die goede</l>
+<l>[..............................] fiere</l>
+<l>[....................................]</l>
+<l n="220">[......................] ten saten</l>
+<l>[...................] en ende aten</l>
+<l>[............] soudane [...] amyrale</l>
+<l>[.............]si met luder tale</l>
+<l parse="ignore">[.....] ten wapinen roupen vaste.</l>
+<l parse="ignore" n="225">Doe scoten up die felle gaste</l>
+<l parse="ignore">Om te weten, wat daer ware</l>
+<l parse="ignore"><edition n="176"/>[..............] die edel bare</l>
+<l>[..............] ter tente comen</l>
+<l>[........................] genomen</l>
+<l parse="ignore" n="230">Ende slougen die corden al ontwee</l>
+<l>[.......................] tren mee</l>
+<l>[.................] der up die stede</l>
+<l>[.................] aren was sijn bede</l>
+<l>Sose de maste geraecten daer,</l>
+<l n="235">Die van den goude waren zwaer;</l>
+<l>Thoeftmast, die quam gevallen,</l>
+<l>Die tafle, die al met allen</l>
+<l>[.............] moeste van der wagen</l>
+<l>[.............] felen ende scragen</l>
+<l n="240">[.............] alle in stickinen</l>
+<l>[.............] die nappe met wine</l>
+<l>[........] gen si, wer hier, wer daer</l>
+<l>[........] den plateelen swaer naer,</l>
+<l>[........] ende [........] des sijt vroet,</l>
+<l n="245">[........] al dat up die tafel stoet</l>
+<l>[....................] in gaisemente</l>
+<l>[...........] die lagen onder die tente</l>
+<l>Ende onder die maste sonder waen</l>
+<l>Recht als vogel, die gevaen</l>
+<l n="250">Sijn ende liggen onder tnet;</l>
+<l>Sine mochten verporren met</l>
+<l>So die tente, dat es waer,</l>
+<l>Van den goude was so zwaer.</l>
+<l>Payene lagen ende pepen;</l>
+<l n="255">Ende die heren die begrepen</l>
+<l>Waren in eenen hogen moede,</l>
+<l>Als die waren van edelen bloede,</l>
+<l>Ende negeen begrip ontsagen,</l>
+<l>Daer men eere an mochte beiagen</l>
+<l parse="ignore" n="260">Om te [................] die doot</l>
+<l parse="ignore">Ne consten hare herte groot</l>
+<l>Niet bedwingen noch haren moet,</l>
+<l>So dat rudderlike bloet</l>
+<l>In hem selven began vermaken;</l>
+<l n="265">Si velden tenten ende staken</l>
+<l>Masten ende daertoe corden.</l>
+<l>Mengen payen si vermorden</l>
+<l><edition n="177"/>Al haddent gedaen Vm lieden,</l>
+<l>Men sout te wonder mogen bedieden</l>
+<l parse="ignore" n="270">Tgrote [.....] dat si daer daden,</l>
+<l parse="ignore">Huer hoge moet const niet verzaden;</l>
+<l>Die vele heeft, wille emmer bet.</l>
+<l>So lange vochten si, dat wet,</l>
+<l>Dat their wert verstrooyt al;</l>
+<l n="275">Doe so was daer groot gheschal.</l>
+<l>Men blies daer trompen ende nakaren,</l>
+<l>Recht of die werelt soude vervaren,</l>
+<l parse="ignore">So helden daer die grote bazinen,</l>
+<l parse="ignore">Ende die horne van goeder [.....]</l>
+<l parse="ignore" n="280">[.....] op berch ende dal.</l>
+<l parse="ignore">Tfolc vergaderde overal,</l>
+<l>Ende begonsten hem battaelgieren.</l>
+<l>Doe begonsten hem temayeren</l>
+<l>Onze Ridders, preus van aerde,</l>
+<l n="285">Ende reden metter vaerde,</l>
+<l>Als die meenden in der steden</l>
+<l>Te vaerne; die hem onderreden</l>
+<l>Aldoe, was met groter druust</l>
+<l>Van payene wel XX duust.</l>
+<l n="290">Doe so rees daer groot gescal;</l>
+<l>D'onze aventurdent al,</l>
+<l>Als die goene, in waren zaken,</l>
+<l>Die daer haer kerchof wilden maken,</l>
+<l>Ende reden in die Saragoene.</l>
+<l n="295">Elc hadde een spere met enen pongoene,</l>
+<l>Dat si hute Vauclere voerden;</l>
+<l>Hare sporen dat si roerden</l>
+<l>In die lanken hare [acatoene]</l>
+<l>Fierabras, die ridder coene,</l>
+<l n="300">Noepte sinen drommedarijs.</l>
+<l>Die ridder, van naturen wijs</l>
+<l>Warp die lanse onder den arem,</l>
+<l>[Van tornemoede was hi warem,</l>
+<l>Dat hem die stede wert benomen]</l>
+<l n="305">Sinen spiet so ver ghedromen</l>
+<l>Een payen in sijn lijf</l>
+<l><edition n="178"/>Die glavie was daer lanc ende stijf</l>
+<l parse="ignore">Dat so node wilde breken,</l>
+<l parse="ignore">[.........] was ghesteken</l>
+<l parse="ignore" n="310">[............] hant</l>
+<l parse="ignore">Eenen andren Turkant</l>
+<l parse="ignore">Liep so [.....] in die borst,</l>
+<l parse="ignore">Hi moeste storten sonder vorst</l>
+<l>Up die erde al steendoot.</l>
+<l n="315">Fierebras, wies moet was groot,</l>
+<l parse="ignore">Dromde den spiet altoes vorwaert,</l>
+<l parse="ignore">Dat hi den andren [.....] paert</l>
+<l>Verre dor den rugge leet,</l>
+<l>Doe zwanc hise van den orse gereet;</l>
+<l n="320">Daer bleven si liggende te dier tijt,</l>
+<l>An die glavye beede gerijt,</l>
+<l>Ghespeet gelijc den capoene.</l>
+<l>Die jonge, moedige ridder coene</l>
+<l>Trac den scarpen helmstaert;</l>
+<l n="325">Niemen wert van hem gespaert;</l>
+<l>Sone waest van Elegaste,</l>
+<l>Die met sporen noepte vaste</l>
+<l>Ende stac te diere hure</l>
+<l>Enen payen durenture;</l>
+<l n="330">Mettien sine glavye brac.</l>
+<l>Mile oec enen payen stac,</l>
+<l>Dat hi dorreden viel int sant;</l>
+<l>Doe so trac hi sinen brant</l>
+<l>Ende hi riep met luder voes:</l>
+<l n="335">"Hier comt die jonge grave van Bloes,</l>
+<l>Die dor die vreeze van den payen</l>
+<l>Niet eenen voet mach achter vlyen,</l>
+<l>Of sine wapine ne waren verloren,</l>
+<l>Die Partenoples was hier te voren</l>
+<l n="340">Upden coninc Noblioen;</l>
+<l>Al so hortem die lyoen</l>
+<l parse="ignore">Toe, die ic mijn levedagen</l>
+<l parse="ignore">In eeren hope [.....] dragen,</l>
+<l>Of ic blive inden wille doot."</l>
+<l n="345">Hi seide waer, die genoot;</l>
+<l>Hi hiltse in eeren, si u bekant.</l>
+<l>So dede sijn sone, die grave Roelant,</l>
+<l><edition n="179"/>Die welke was een ridder rene,</l>
+<l>Den roden leen eist dat ic mene,</l>
+<l n="350">Die int gout stoet rampant;</l>
+<l>Hine was noyt so vaeliant,</l>
+<l>Noch van herten also coene,</l>
+<l>Hine hadder genouch an te doene</l>
+<l>Soude hize dragen na haer recht.</l>
+<l n="355">Nu keric weder int gevecht,</l>
+<l>Daer die drie mids hare pine</l>
+<l>Doorbraken alle die Sarazine,</l>
+<l>Ende behilden haer venisoen.</l>
+<l>Ten es ter werelt man so coen,</l>
+<l n="360">Hem ne souds gruwen, up dat hijt sage,</l>
+<l>Der vreezelike grote slage,</l>
+<l>Die si slougen alle drie.</l>
+<l>So vele daden si, geloves mie,</l>
+<l>Dat si hare acatoen,</l>
+<l n="365">Daer up lach haer venisoen,</l>
+<l>Bonden an der porten rinc;</l>
+<l>Doe keerde elc, dats ware dinc,</l>
+<l>Tanscijn ten ten vianden waert;</l>
+<l>Menich scilt ende menich daert</l>
+<l parse="ignore" n="370">Was aldaer up hem gescoten,</l>
+<l>Si zwe [.....] weder zulke noten</l>
+</text>
+<!--</ENTRY>
+--></TEI.2>

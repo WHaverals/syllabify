@@ -1,0 +1,144 @@
+<?xml version='1.0'?><!DOCTYPE TEI.2 PUBLIC '-//TEI P4//DTD Main Document Type//EN' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd' [<!ENTITY % TEI.prose 'INCLUDE'><!ENTITY % TEI.linking 'INCLUDE'><!ENTITY % TEI.figures 'INCLUDE'><!ENTITY % TEI.analysis 'INCLUDE'><!ENTITY % TEI.corpus 'INCLUDE'><!ENTITY % TEI.XML 'INCLUDE'><!NOTATION TEI-XML PUBLIC 'TEI P4' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd'><!-- internal INL dtd --><!ELEMENT b (#PCDATA)><!ELEMENT l (#PCDATA | b)*><!-- end of internal INL dtd -->]><TEI.2><!--<ENTRY id="i999"><teiHeader><fileDesc><titleStmt><title>Van ghevene</title>
+</titleStmt>
+<interpGrp type="pubYear_from"><interp value="1390"/></interpGrp>
+<interpGrp type="witnessYear_from"><interp value="1390"/></interpGrp>
+<interpGrp type="pubYear_to"><interp value="1410"/></interpGrp>
+<interpGrp type="witnessYear_to"><interp value="1410"/></interpGrp>
+<TITEL>Van ghevene</TITEL>
+<author>Onbekend</author>
+<AARD>Rijm</AARD>
+<BRON nr="D20">Oxford, Bodleian Library, Marshall 29</BRON>
+<DATUM>1390-1410</DATUM>
+<OMVANG>118 verzen</OMVANG>
+<BRON.OPM>Het handschrift telt 102 bladen, per blad 2 kolommen, 49 regels per kolom. Van ghevene bevindt zich op fol. 46. De codex bevat achtereenvolgens: Melibeus (fol. 1-22r), Jans teesteye (fol. 24v-45v), Noch meer van wiven (fol. 45v-46r), Van ghevene (fol. 46r-46v), het Boec vander wraken (fol. 48r-78v), Van Maskeroen (fol. 80r-86v), Van Saladijn (fol. 86v-88r), de Tien plaghen ende die tien ghebode (fol. 88v-101r), Noch die tien ghebode (fol. 101r-v) en Noch van Salladine (fol. 101v-102r).</BRON.OPM>
+<EDITIE>F.A. Snellaert (ed.): Nederlandsche gedichten uit de veertiende eeuw van Jan van Boendale, Hein van Aken en anderen. Naar het Oxfordsche handschrift uitgegeven. Brussel, 1869, 280-284.</EDITIE>
+<STATUS>Kritisch</STATUS>
+<BRONMNW>1306 </BRONMNW>
+<EDITIE.OPM>De gothische hoofdletter J, in Snellaerts editie zowel gebruikt voor de huidige I als voor J, werd hier steeds als I overgenomen.</EDITIE.OPM>
+<BRONNEN>Oxford, Bodleian Library, Marshall 29</BRONNEN>
+</fileDesc>
+</teiHeader>
+--><text>
+<head type="title"><pb n="280"/> <i>Dit es van ghevene.</i> </head>
+<l>GOd die was voor alle beghen /</l>
+<l>Voor alle beghen stont Hem sijn sen</l>
+<l>Op gheven / ende segghe u wel waer bi.</l>
+<l>Hemel ende eerde maecte Hi /</l>
+<l n="5">Ende daer toe menighe creature /</l>
+<l>Ende daertoe menighe figure.</l>
+<l>Daer nae soe maecte Hi den mensche</l>
+<l>Ende alle dinc na sinen wensche.</l>
+<l>Des sijn wi Hem sculdich te dancken daer af</l>
+<l n="10">Van dat wi hebben; want Hijt ons gaf.</l>
+<l>Noch gheeft ons daghelix emmer voort.</l>
+<l>Een here woende te Rome in die poort</l>
+<l>Die Gods gheven wel verstont /</l>
+<l>Dies gaf hi dor Hem menich pont /</l>
+<l n="15">Datment cume tellen mochte</l>
+<l>Dwonder datti met ghevene wrochte.</l>
+<l>In midden sire salen stont</l>
+<l>Een pileer groot ende ront</l>
+<l>Dien haddi doen maken hol</l>
+<l n="20">Ende haddene gouts doen ghieten vol.</l>
+<l>Dit hadhi heymeliken bedreven /</l>
+<l>Ende buten al omme stoet ghescreven</l>
+<l>Met guldenen letteren dus daer an:</l>
+<l>"Ghef! God gaf den ghevenden man."</l>
+<l n="25">Doe woude God sijn gheven lonen</l>
+<l>Ende in sijn hemelrike cronen /</l>
+<l>Ende eweliken daer inne erven.</l>
+<l><edition n="281"/>Doe bleef hi siec ligghende opt sterven:</l>
+<l>Hi ontboot enen jonghelinc /</l>
+<l n="30">Sinen sone / die voor hem ghinc.</l>
+<l>"Sone / seiti / hout den zede;</l>
+<l>Want du saechs dat ict dede /</l>
+<l>Ende lees tghescrefte aen den pilaer:</l>
+<l>"Ghef! God sal di gheven naer.</l>
+<l n="35">Die goede man sciet van eertrike /</l>
+<l>Ende sijn sone gaf mildelike.</l>
+<l>Soe langhe dedi dit ende bedreef</l>
+<l>Dat hem herde lettel bleef:</l>
+<l>Hi versette lant / huse ende borghe /</l>
+<l n="40">Hem wies ane commer ende sorghe.</l>
+<l>Eens quam hi in huus ghegaen</l>
+<l>Ende sach tghescrefte ghender staen /</l>
+<l>Dat God den ghevenden man gave.</l>
+<l>Doen zwoer hi hi sout doen ave /</l>
+<l n="45">Bedi het had hem gheloghen</l>
+<l>Ende hi waerre mede bedroghen /</l>
+<l>Ende het hadden levende doot.</l>
+<l>Hi nam enen hamer groot</l>
+<l>Ende sloech daer op met grammen sinne.</l>
+<l n="50">Die steen brac / want hi was dinne /</l>
+<l>Ende dat gout quam wte gheronnen.</l>
+<l>Sijn gheven heeft hem dit ghewonnen;</l>
+<l>Bedi en haddi niet ghegheven /</l>
+<l>Het waerre in verborghen bleven.</l>
+<l n="55">Doen danctijs Gode / ende seide hi soude</l>
+<l>Gheven / altoes hi gheven woude /</l>
+<l>Want hem niet en mochte ghebreken.</l>
+<l><edition n="282"/>Nu wil ic voort van gheven spreken.</l>
+<l>Gheven es dat hoochste goet /</l>
+<l n="60">Gheven brac tsfader torenmoet /</l>
+<l>Ende dede Hem sinen hemel scoren /</l>
+<l>Daer noyt man in quam te voren.</l>
+<l>Gheven dede Hem storten sijn bloet;</l>
+<l>Gheven bluschte die helsche gloet /</l>
+<l n="65">Daer wi toe waren vercoren:</l>
+<l>En dade God wi waren verloren.</l>
+<l parse="ignore">Nemmermeer en sal gheven enden;</l>
+<l parse="ignore">Gheven maect dingle u ghebuere /</l>
+<l parse="ignore">Ende den duvel cant verblenden;</l>
+<l parse="ignore" n="70">Gheven can die helle vermueren</l>
+<l parse="ignore">Ende den hemel ontglenden;</l>
+<l parse="ignore">Gheven sal sine creaturen</l>
+<l>Te Gode inden hemel senden /</l>
+<l>Van daer si nemmermeer en wenden.</l>
+<l parse="ignore" n="75">Gheven doet voor u inden trone</l>
+<l parse="ignore">Die inghelen bidden allegader;</l>
+<l parse="ignore">Gheven doet papen singhen scone /</l>
+<l parse="ignore">Gheven es der sunden ontlader;</l>
+<l parse="ignore">Gheven es der sielen crone /</l>
+<l parse="ignore" n="80">Hier es gheven alberader /</l>
+<l parse="ignore">Gheven es God selve in loene:</l>
+<l parse="ignore">Hets Gods kint / Hi es ghevens vader.</l>
+<l parse="ignore">Gheven dat wast wt soe hoghen</l>
+<l parse="ignore">Dat nieman verbeteren en can;</l>
+<l parse="ignore" n="85">Gheven steet voor Gods oghen /</l>
+<l parse="ignore"><edition n="283"/>Ende bidt altoes voor den man;</l>
+<l parse="ignore">Gheven doet alle bliscap toghen /</l>
+<l parse="ignore">Ende het es alre droefheden ban;</l>
+<l parse="ignore">Wie gheven mach / hi mach poeghen</l>
+<l parse="ignore" n="90">Datmen ontseeght den vrecken man.</l>
+<l parse="ignore">Gheven gheeft den dief sijn ere /</l>
+<l parse="ignore">Ende den vrueden stoppet den mont;</l>
+<l parse="ignore">Gheven stect den cleerc buten kere</l>
+<l parse="ignore">Ende seghet: hem en es gheen wijsheit cont.</l>
+<l parse="ignore" n="95">Gheven verheft den dommen sere</l>
+<l parse="ignore">Ende gheeft hem rente ende menich pont /</l>
+<l parse="ignore">Gheven es algaeder here ende here:</l>
+<l parse="ignore">En vant nyeman soe hoghen vont.</l>
+<l parse="ignore">Gheven gheeft den ridderen seghe /</l>
+<l parse="ignore" n="100">Daer si comen inden wighe;</l>
+<l parse="ignore">Gheven leert mi alle weghe</l>
+<l parse="ignore">Hoe ic mach mijn lief ghecrighen;</l>
+<l parse="ignore">Gheven es goet als ics pleghe /</l>
+<l parse="ignore">Het doet mi dienen ende nighen;</l>
+<l parse="ignore" n="105">Gheven / in wient es becleven /</l>
+<l parse="ignore">Ghene doghet en selmen van hem zwigen.</l>
+<l parse="ignore">Vanden ghevene hebdi ghehoort /</l>
+<l parse="ignore">Van dat u God gheeft des gheest voert /</l>
+<l parse="ignore">Ghi coemter met inde hemelsche poort /</l>
+<l parse="ignore" n="110">Of ghine vint ghinder niet een oert.</l>
+<l parse="ignore">Heeft u die ghiericheyt verdoort /</l>
+<l parse="ignore">Soe werdi in die helle versmoert;</l>
+<l parse="ignore">Want vrecheyt is voor Gode moort.</l>
+<l parse="ignore">Hier omme werct nae mine woort</l>
+<l parse="ignore" n="115"><pb n="284"/> Ende wilt altenen gheven /</l>
+<l parse="ignore">Soe moeghdi comen onghestoort</l>
+<l>In dat eweghe leven.</l>
+<l>Daer moeten wi comen sonder sneven!</l>
+<l parse="ignore">Amen</l>
+</text>
+<!--</ENTRY>
+--></TEI.2>

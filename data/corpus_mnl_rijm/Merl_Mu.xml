@@ -1,0 +1,1044 @@
+<?xml version='1.0'?><!DOCTYPE TEI.2 PUBLIC '-//TEI P4//DTD Main Document Type//EN' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd' [<!ENTITY % TEI.prose 'INCLUDE'><!ENTITY % TEI.linking 'INCLUDE'><!ENTITY % TEI.figures 'INCLUDE'><!ENTITY % TEI.analysis 'INCLUDE'><!ENTITY % TEI.corpus 'INCLUDE'><!ENTITY % TEI.XML 'INCLUDE'><!NOTATION TEI-XML PUBLIC 'TEI P4' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd'><!-- internal INL dtd --><!ELEMENT b (#PCDATA)><!ELEMENT l (#PCDATA | b)*><!-- end of internal INL dtd -->]><TEI.2><!--<ENTRY id="i570"><teiHeader><fileDesc><titleStmt><title>Merlijn-continuatie, Boec van coninc Artur</title>
+</titleStmt>
+<interpGrp type="pubYear_from"><interp value="1300"/></interpGrp>
+<interpGrp type="witnessYear_from"><interp value="1300"/></interpGrp>
+<interpGrp type="pubYear_to"><interp value="1350"/></interpGrp>
+<interpGrp type="witnessYear_to"><interp value="1350"/></interpGrp>
+<TITEL>Merlijn-continuatie</TITEL>
+<TITEL>Boec van coninc Artur</TITEL>
+<author>Lodewijk van Velthem</author>
+<AARD>Rijm</AARD>
+<BRON nr="K86">M&uuml;nster, Nordrhein-Westf&auml;lisches Staatsarchiv, Depositum Landsberg-Velen (fragm.)</BRON>
+<DATUM>1300-1350</DATUM>
+<OMVANG>1010 verzen</OMVANG>
+<BRON.OPM>In totaal vier bladen; per bladzijde 3 kolommen en per kolom 56 regels. Het eerste blad bevat een gedeelte uit Merlijns boec en de resterende drie bladen een gedeelte uit de Merlijn-continuatie. De tekst van het eerste fragment is hier niet weergegeven; zie daarvoor Merlijns boec. </BRON.OPM>
+<EDITIE>Timothy Sodmann: 'Die M&uuml;nsterschen Fragmente von Lodewijk van Velthems "Boec van coninc Artur"'. In: Niederdeutsches Wort 39-81 (51-81).</EDITIE>
+<STATUS>Diplomatisch</STATUS>
+<BRONMNW>904 (ander handschrift)</BRONMNW>
+<BRONMNW>905 (andere editie)</BRONMNW>
+<EDITIE.OPM>Voor de drie bladen (fol. 2-4v; zie hiervoor) waarvan hier de tekst wordt gepresenteerd, is de foliering van Sodmann aangehouden, d.w.z. dat het fragment van de Merlijn-continuatie begint op fol. 1 en eindigt op fol. 3v. Bij fol. 1v en 2v (foli&euml;ring volgens Sodmann) gaat het om de laatste bladzijde van een katern. In de editie Sodmann correspondeert fol. 1 met de regels 13023-357, fol. 2 met de regels 16368-704 en fol. 3 met de regels 18707-19040 in de uitgave van Van Vloten uit 1880. In navolging van Sodmann is hier de regelnummering van Van Vloten overgenomen. In afwijking van de editie Sodmann staan de hoofdletters waarmee de verzen beginnen niet in een aparte kolom. Lacunes in de tekst zijn aangevuld (tussen rechthoekige haken) op basis van het kritisch apparaat (meestal volgens het hs. uit Burgsteinfurt). De paragraaftekens zijn bij Sodmann anders weergegeven en staan links in de marge; hier zijn ze links in de tekstkolommen geplaatst.</EDITIE.OPM>
+<BRONNEN>Van in totaal drie handschriften zijn er fragmenten overgeleverd: - <x nr=K84>Leiden, Bibliotheek der Rijksuniversiteit, Ltk. 1107 (fragm.)</x>
+ - <x nr=K85>Maastricht, Rijksarchief in Limburg, 167 III 10 (fragm.)</x>
+ - <x nr=K86>M&uuml;nster, NordrheinWestf&auml;lisches Staatsarchiv, Depositum Landsberg-Velen (fragm.)</x>
+ De volledige tekst is overgeleverd in een Middelnederduitse 'Umschreibung' in het hs. Burgsteinfurt, F&uuml;rst zu Bentheimsche Schlossbibliothek, B 37, fol. 62v-229r (editie (hertaling naar het Middelnederlands): J. van Vloten (ed.): <i>Jacob van Maerlant: Merlijn</i>. Naar het enig bekende Steinforter handschrift uitgegeven. Leiden, 1880, vs. 10399-36218).</BRONNEN>
+<HSDRUK>Historie van den wonderlicken Merlijn</HSDRUK>
+</fileDesc>
+</teiHeader>
+--><text>
+<l><pb n="51"/><milestone unit="fol" n="1ra"/> So wetic wel dan ouer waer</l>
+<l>Dat gi nembermeer heer daernaer</l>
+<l>13025 V lant ne hilt vort met geninde</l>
+<l>Gine sout altoes orloge vinden</l>
+<l>Alse lange alsi leefden nv</l>
+<l>Her coninc artur dat segic v</l>
+<l>Ende dadent oec die van der tauelronde</l>
+<l>13030 Die coninc soude onlange stonden</l>
+<l>Jegen die gygante hem verweren</l>
+<l>Daer ombe so radic v gi heren</l>
+<l>Dat gi daer vaert onder v</l>
+<l>Alse soudire hem dienen nv</l>
+<l>13035 Een jaer oft twe omtrent</l>
+<l>Tot dat gi met hem sijt bekent</l>
+<l>Ende gine sult oec niet lange na desen</l>
+<l>Daer dinen gine sult daer wesen</l>
+<l>Van hem bat ende weerder met</l>
+<l>13040 Dan ieman in sijn lant dat wet</l>
+<l>Ende ic weet wel dat hi den coninc arture</l>
+<l>Bidden sal dat hi ter vre</l>
+<l>Sire dochter neme tenen wiue daer</l>
+<l>Ende als hi se gecroent heft vorwaer</l>
+<l>13045 Selent die gygante weten saen</l>
+<l>Ende dan en selense sonder waen</l>
+<l>Niet langer dorren bliuen dan</l>
+<l>Noch in ere haluer dachvaert an</l>
+<l>&para; Doe antwerde merline de coninc ban</l>
+<l>13050 Ende seide oft wi dus voren van dan</l>
+<l>Wat soude van onsen lande gescien</l>
+<l>Dat wi noch qualike hebben versien</l>
+<l>Ende wi hebben harde felle geburen</l>
+<l>Die ons op lopen tallen vren</l>
+<l>13055 Ende onse lant woesten ende branden</l>
+<l>Oec heft de coninc artur nv te handen</l>
+<l>Menigen viant om hem geseten</l>
+<l>Die dit scire souden weten</l>
+<l>Dat wi vten lande waren</l>
+<l>13060 <pb n="52"/> Oec dochte mi grote doerhede twaren</l>
+<l>Vore wi ander lant bescudden nv</l>
+<l>Ende donse in auenturen lieten segic v</l>
+<l>&para; Here here seide merlijn doe</l>
+<l>Gi segt harde wale nv toe</l>
+<l>13065 Maer het doet goet achterwart gaen</l>
+<l>Om vorder te springene sonder waen</l>
+<l>Ende wet dat wel jegen .i. penninc</l>
+<l>Dan gi hier verliesen sult her coninc</l>
+<l>Gi sulter .ij. hondert winnen daer</l>
+<l>13070 Ende ic segt v al openbaer</l>
+<l>Gine sulter hier verliesen borch no stene</l>
+<l>No stat no dorp no veste ne gene</l>
+<l>Ende gi sult winnen .i. conincrike</l>
+<l>Dat bescermen sal ewelike</l>
+<l>13075 Dit lant ende verweren al</l>
+<l>Alse lange alse artur leuen sal</l>
+<l>Doe seide echt de coninc ban</l>
+<l>Merlijn gi sijt vroeder daeran</l>
+<l><milestone unit="fol" n="1rb"/> Dan wi alle sijn wetic wel</l>
+<l>13080 Ende als gijt ons raet sone es niet el</l>
+<l>Hier toe te doen dan wi ons saen</l>
+<l>Gereiden ende die dinc ane vaen</l>
+<l>Nu besiet wanneer dat wi</l>
+<l>Willen porren doe seide hi</l>
+<l>13085 Te half vasten sonder beiden</l>
+<l>Ende daer binnen seldi v bereiden</l>
+<l>Maer eer gi daerwart vart wet wel</l>
+<l>Suldi hebben .i. batalie fel</l>
+<l>Jegen die baroene segic v</l>
+<l>13090 Die hem gederen al dat si mogen nv</l>
+<l>Ende met alder macht di si mogen</l>
+<l>Vercrigen sellense v orlogen</l>
+<l>Ende gi sult ontbiden wet vorwaer</l>
+<l>Die gi hebben moget verre ende naer</l>
+<l>13095 Ende heimelijc suldi logiren dan</l>
+<l>Jn dat foreest van bedigan</l>
+<l>Ende ontsiet v niet want si</l>
+<l>Selen meer scaden hebben dan gi</l>
+<l><edition n="53"/>&para; Merlijn seide doe de coninc ban</l>
+<l>13100 Ende oftic ende mijn broeder dan</l>
+<l>Om hulpe senden souden si</l>
+<l>Jet te tide comen doe seidi</l>
+<l>Ja se here ende wie machse dan</l>
+<l>Halen seide doe de coninc ban</l>
+<l>13105 Jc sal die boetscap doen seide merlijn</l>
+<l>Ende oec salic eer comen sijn</l>
+<l>Dan een ander dat segic v</l>
+<l>Ende oec est te doene nv</l>
+<l>Want die strijt sal sijn gewesse</l>
+<l>13110 Te sente marien lichtmisse</l>
+<l>Jnde plaetse van bedegan</l>
+<l>Ende vwen lieden wet vortan</l>
+<l>Staet te riden dach ende n[ac]ht</l>
+<l>Oec wet wel dat ic hebbe geacht</l>
+<l>13115 Dat ic margen nauont sal wesen</l>
+<l>Te gannes doe si horden van desen</l>
+<l>Dat merlijn seide daer ter stede</l>
+<l>Hen wonderes sere ende logen mede</l>
+<l>Si helsden merline ende daden hem daer</l>
+<l>13120 Grote feeste wet vor waer</l>
+<l>&para; Dus nam merlijn orlof segic v</l>
+<l>Ende seide hine hadde wat lettere nv</l>
+<l>Ontbiet ridderen ende seriante here</l>
+<l>Alse vele als gi moget nembermere</l>
+<l>13125 Ende so gi heimelijcs moget met</l>
+<l>Ende gi selt doen voren ongelet</l>
+<l>Spise ende vitaelge genoech daeran</l>
+<l>Jn dat dal van bedegan</l>
+<l>Ende alse die vitaelge es comen daer</l>
+<l>13130 So doetse deilen wel naer</l>
+<l>Alden volke want ic segt v</l>
+<l>Daer sals wel te doene sijn nv</l>
+<l>Geft hem te .xv. dagen spise</l>
+<l>Goet gesouten vleesch van prise</l>
+<l>13135 <pb n="54"/><milestone unit="fol" n="1rc"/> Doet hem dit geuen sonder meer daeran</l>
+<l>Ende doet hem keyen deilen dan</l>
+<l>Ende bretelle ende griflette</l>
+<l>Ende vlfine ende lucamme sonder lette</l>
+<l>Dit doet so gi heimelijcst cont</l>
+<l>13140 Doen eyschedi tfingerlijn ter stont</l>
+<l>Dat hi hadde an sine hant</l>
+<l>Dat ict mach tonen in v lant</l>
+<l>Leoncen van parnen vwen vrient</l>
+<l>Ende pharine die v oec dient</l>
+<l>13145 Tenen litteken dat si na dat</l>
+<l>Mi selen gelouen oec te bat</l>
+<l>Alsict hem tonen sal aldaer</l>
+<l>Si worden te barenteert daernaer</l>
+<l>Doe si dit horden ende hen wonderets sere</l>
+<l>13150 Want si waenden dat nieman mere</l>
+<l>Dit ne hadde geweten segic v</l>
+<l>Dan si .ij. entie gene nv</l>
+<l>Die hi daer noemde leonce ende pharijn</l>
+<l>Dit dochten dmeeste wonder sijn</l>
+<l>13155 &para; Doe seide die coninc artur en sijt niet</l>
+<l>Tontrasten van al dat gi hem doen siet</l>
+<l>Want al dat men penst god weet</l>
+<l>Weet hi op dat men wilt gereet</l>
+<l>Do seide de .ij. coninge nv</l>
+<l>13160 So laetten dan gewerden met v</l>
+<l>Sint dat hi so vroet nv es</l>
+<l>Ende ons donct oec wel die waerhede des</l>
+<l>Dat hi v bouen al die werelt mint</l>
+<l>Gi seles te bat hebben dat gijt kint</l>
+<l>13165 So sere dat gijs noch menich werf</l>
+<l>Gewaer sult werden als v bederf</l>
+<l>Doe gaf hem die coninc van tfingerlijn</l>
+<l><edition n="55"/>Ende doe sciet van hem merlijn</l>
+<l>Ende al dat hi hem dus dede verstaen</l>
+<l>13170 Van haerre heimelijchede heeft hi gedaen</l>
+<l>Ende dat hi daermet beiagen wille</l>
+<l>Hare beider vrienscap lude ende stille</l>
+<l>&para; Doe voer merlijn te blasijs wart</l>
+<l>Te sinen meester ende seidem ter vart</l>
+<l>13175 Alle die dinge groet ende clene</l>
+<l>Die onder hem gesciet sijn gemene</l>
+<l>Daer na teldi hem hoe hi sal varen</l>
+<l>Ene boetscap doen sonder sparen</l>
+<l>Jn cleine bertangen ende toendem daer</l>
+<l>13180 Dat vingerlijn ende seide daernaer</l>
+<l>Dat sijn littekijn soude wesen</l>
+<l>Doe screeft blasijs al na desen</l>
+<l>Gelijc dat hem merlijn seide</l>
+<l>Doen sciet merlijn sonder beide</l>
+<l>13185 Van blasise vroe ende blide</l>
+<l>Ende des ander dages te primtide</l>
+<l>Was hi te gannes in de stat</l>
+<l>Ende seide leonces ende pharijn dat</l>
+<l>Hen de coninge ontboden nv</l>
+<l>13190 Al dat ic hier sal seggen v</l>
+<l><milestone unit="fol" n="1va"/> Dat gijs mi selt gelouen mede</l>
+<l>Hi toendem tfingerlijn daer ter stede</l>
+<l>Ende doen si sagen tfingerlijn</l>
+<l>Geloefden si al der talen fijn</l>
+<l>13195 Die hi hem seide clein ende groet</l>
+<l>Gelijc dat men hem ontboet</l>
+<l>Doen si dit horden ontboden si</l>
+<l>Alle die liede so dat si daer bi</l>
+<l>Vergaderden .xv. dusent man daernaer</l>
+<l>13200 Ende wel gewapent wet vorwaer</l>
+<l>Dese quamen alle te benewijc</l>
+<l>Viij. dage vore kerst dage sekerlijc</l>
+<l>Ende leonce ende pharijn mede</l>
+<l>Setten doe hoede in elke stede</l>
+<l>13205 Ende in de borge die hem goet dochten</l>
+<l>Daer si tlant met verweren mochten</l>
+<l>Ende hieraf een lambegijs</l>
+<l><edition n="56"/>Die stout was ende hadde groten prijs</l>
+<l>Desen settense in de fortreetse met</l>
+<l>13210 Van gannes om dat hijt bet</l>
+<l>Ende stoutelike hoeden soude daer</l>
+<l>Dan een ander hem bat daernaer</l>
+<l>Pharijn sijn oem dat hijt nv</l>
+<l>Wel hoede. gerne oem dat segic v</l>
+<l>13215 Jc saelt so hoeden oft god welt</l>
+<l>Dat gire gene scade of hebben selt</l>
+<l>&para; Ende inde fortreetse van benewijc</l>
+<l>Settense graciane des gelijc</l>
+<l>Den here vanden hogen mure</l>
+<l>13220 Ende beualent hem ter vre</l>
+<l>Hi was vrome ende getrouwe met</l>
+<l>Ende opten casteel van trebet</l>
+<l>Daden se graciaens sone hier</l>
+<l>Die geheten was banier</l>
+<l>13225 Hi was coninc bans petrijn</l>
+<l>Ende beide die coninge fijn</l>
+<l>Waren in den casteel sijt seker das</l>
+<l>Om dat hi van den lande de vaste was</l>
+<l>Ende ins coninc bohortes casteel so es</l>
+<l>13230 Geset te hoedene placides</l>
+<l>Leonces neue de getrouwe was</l>
+<l>Ende sere vrome sijt seker das</l>
+<l>Ende dese casteel heet mouleer</l>
+<l>Aldus besetten si dat lant eer</l>
+<l>13235 Eer si sceden wilden van daer</l>
+<l>Alst wel beset was daernaer</l>
+<l>Doe voren si henen nacht ende dach</l>
+<l>Wat dat elc geriden mach</l>
+<l>Want die mane scone sceen</l>
+<l>13240 &para; Ende merlijn voer voren al in een</l>
+<l>Die dat here leide vorwaer</l>
+<l>Van den quaden passagen daer</l>
+<l><edition n="57"/>Toter zee daer si doe op quamen</l>
+<l>Daer si alle sceepten te samen</l>
+<l>13245 &para; Ende de coninc artur bander side</l>
+<l>Gereidem sere de wile te stride</l>
+<l><milestone unit="fol" n="1vb"/> Gelijc dat hem merlijn beual</l>
+<l>So dedi sine sticken al</l>
+<l>Hi ontboet alle degene nv</l>
+<l>13250 Die hi verbidden mochte segic v</l>
+<l>Daer quamer harde vele ter stede</l>
+<l>Ende meer dan hi waende mede</l>
+<l>Die van logres quamen daer</l>
+<l>Om die grote gichten vorwaer</l>
+<l>13255 Die hem de coninc hadde gegeuen</l>
+<l>Selke quamen hem oec beneuen</l>
+<l>Om den coninc te kennen ende oec mede</l>
+<l>Om sine doget de hi dede</l>
+<l>Daer si dicke af hebben gehort</l>
+<l>13260 Ende alsi alle waren comen vort</l>
+<l>So waren daer wel .x. dusent man</l>
+<l>Wel tors ende wapine an</l>
+<l>Ende voet liede en wildi gene</l>
+<l>Ende dat karijn al gemene</l>
+<l>13265 Daer men de spise op voerde also</l>
+<l>Dedi met nachte al varen doe</l>
+<l>Om dat hem merlijn hadde geraden</l>
+<l>Dat hijt heimelijc soude begaden</l>
+<l>Tote opten plein van be[de]gan</l>
+<l>13270 Ende als daer comen waren sine man</l>
+<l>Jnt foreest daert heimelijc was</l>
+<l>Sloegen si haer tenten daerin na das</l>
+<l>Ende dit plein was de heimelijcste stat</l>
+<l>Die men iewerinc wiste vor dat</l>
+<l>13275 Ende alsi gelogiert nv daer waren</l>
+<l>En conste nieman geweten twaren</l>
+<l>Waer si waren geuaren nv</l>
+<l>Ende bander side dat segic v</l>
+<l>So dede die coninc artur ene dinc</l>
+<l>13280 <pb n="58"/> Die hem doe riet ban die coninc</l>
+<l>D[.]e merlijn sere prijsde daernaer</l>
+<l>Want hi wiste vele openbaer</l>
+<l>Van orlogene dies riet hi</l>
+<l>Den coninc artur dat hi daerbi</l>
+<l>13285 Op alle straten van sinen lande</l>
+<l>Wardeine soude setten menigerhande</l>
+<l>Waer datter iemen doer lede</l>
+<l>Dat menne vaen soude ter stede</l>
+<l>Ende senden den coninc nadien</l>
+<l>13290 Dit was om dat men niet soude spien</l>
+<l>Waerwart dat si henen waren</l>
+<l>Oec dedi verbidden daernaren</l>
+<l>Dat nieman en soude in sijn lant</l>
+<l>Riden niegeren si v becant</l>
+<l>13295 Vor dat onser vrouwen dach leden si</l>
+<l>Dat men kerssen draget ende daerbi</l>
+<l>Diet dade conde ment geweten nv</l>
+<l>Men souden ontliuen segic v</l>
+<l>&para; Dus hilt hem dat volc stille daer</l>
+<l>13300 Ende hen wonderde sere daernaer</l>
+<l>Wat dit dieden mochten doe</l>
+<l>Dattie coninc mochte gebieden soe</l>
+<l parse="ignore"><milestone unit="fol" n="1vc"/> Ende hier bi was sine chiuaetsie</l>
+<l parse="ignore">So wel verholen in sijn[...] p[ar]tie</l>
+<l>13305 Dat nieman conste geweten twaren</l>
+<l>Waerwart dat si geuaren waren</l>
+<l>Sonder die gene die waren nv</l>
+<l>Vans conincs rade dat segic v</l>
+<l>Nu swiget de boec van desen</l>
+<l>13310 Ende sal van den .vi. coningen lesen</l>
+<l>Die waren gesconfiert te karlioen</l>
+<l>Dat si met pinen daer ontfloen</l>
+<l></l>
+<l>Hoe nu .X. coninge ende .i hertoge</l>
+<l>arture willen bestriden .vi.</l>
+<l></l>
+<l><edition n="59"/><b>D</b>Je boec seit ons nv twaren</l>
+<l>Dat dese coninge erre waren</l>
+<l>13315 Om dat se gesconfiert waren doen</l>
+<l>Van karlion dat si ontfloen</l>
+<l>Daer si al haer hernasch verloren</l>
+<l>Des hadden si groten toren</l>
+<l>Datse nembermere worden blide</l>
+<l>13320 Sine haddent gewroken nu ten tide</l>
+<l>Opten coninc arture ende oec mede</l>
+<l>Op sinen touerere. de ons dat dede</l>
+<l>Aldus sciedense van karlion nv</l>
+<l>Gewont ende serich segic v</l>
+<l>13325 Som mostense op .i. leitire</l>
+<l>Licgen daer mense op hene droech scire</l>
+<l>Om dat si waren so gewont</l>
+<l>Si voeren cleine dachvart tier stont</l>
+<l>So lange dat si quamen daernaer</l>
+<l>13330 Jn haer lant daer daechden si vorwaer</l>
+<l>So lange dat si genesen ware[n]</l>
+<l>Ten inde van der maent daernare[n]</l>
+<l>Hadden s[i een] groet parlement</l>
+<l>Tusche[n dat lant] van gorre omt[rent]</l>
+<l>13335 Ende tlant van scotlant mede</l>
+<l>Ende tparlement inde daer ter stede</l>
+<l>So dat elc daer ontbiden soude</l>
+<l>Sine mage ende sine vriende also [houde]</l>
+<l>Als hi se vercrige[n] moge dat wet</l>
+<l>13340 Ende de hi hebben moge oec met</l>
+<l>Ende alse wi alle vergadert sijn ter u[re]</l>
+<l>Sele wi varen opten coninc arture</l>
+<l>Ende selen hem nemen tlant</l>
+<l>Oft wi sellent verbernen te hant</l>
+<l>13345 Ofte wi selen daer vte verjagen</l>
+<l><edition n="60"/>Ondancs allen sinen magen</l>
+<l>Doe namen si dach dat si wouden</l>
+<l>Dat haer liede vergaderen souden</l>
+<l>Jnde prayerie wete dan</l>
+<l>13350 Onder dien casteel van bedigan</l>
+<l>&para; Doe sciet onder hem dat parlement</l>
+<l>Ende elc ontboet sinen vrient omtrent</l>
+<l>Ende alle de hi hebben conde</l>
+<l>Daer quam de hertoge eschans ter stonde</l>
+<l>13355 Van cambenijc wel thernasch</l>
+<l>Met .vi. dusent mans rasch</l>
+<l>Ende wel tors ende [elc mede]</l>
+<l><milestone unit="fol" n="2ra"/> Ende nu groenheiden al bespreet</l>
+<l>Ende die erde doet verbaren</l>
+<l>16370 Die vruchte die bedwongen waren</l>
+<l>Ende aldertiren dinc comt vort</l>
+<l>Dat tote noch lach al versmort</l>
+<l>Die die soete lucht doet baren</l>
+<l>Ende die tide van den jaren</l>
+<l>16375 Ende als die neuwe soete minne</l>
+<l>Die de jonge harte heft inne</l>
+<l>Vanden sconen jongen joncfrouwen</l>
+<l>Ende vanden houeschen geraecte vrouwen</l>
+<l>Ende van den jongelingen daeran</l>
+<l>16380 Ende van menigen gehuweden man</l>
+<l>Die tharte behagel hebben ende jolijt</l>
+<l>Dorden soeten neuwen tijt</l>
+<l>Die dan es anegegaen</l>
+<l>Jn desen tide hebic verstaen</l>
+<l>16385 So geuiel dat walewein</l>
+<l>Ende garies ende egrawein</l>
+<l><edition n="61"/>Ende guerries. ende galescins twaren</l>
+<l>Ende de in haer geselscap waren</l>
+<l>Wouden varen ten coninc arture</l>
+<l>16390 Ende als v sal tellen die auonture</l>
+<l>Want al dese kindere segic v</l>
+<l>Waren arturs suster kinder nv</l>
+<l>Want ygerne. coninc arturs moeder</l>
+<l>Alsic v sal maken vroeder</l>
+<l>16395 Hadde .ij. dochteren van haren man</l>
+<l>Den hertoge entie .i. daeran</l>
+<l>Hadde te wiue den coninc neutres</l>
+<l>Daer ane wan hi .i. sone na des</l>
+<l>Die galescins waert geheten</l>
+<l>16400 Die sider waert een ridder vermeten</l>
+<l>Als gi wel horet selt hier na</l>
+<l>Entie coninc lot alsict versta</l>
+<l>Hadde de ander dochter te wiue</l>
+<l>Ende hi wan an haren liue</l>
+<l>16405 Vier sonen. entie een heet walewein</l>
+<l>Dander gurries. de derde egravein</l>
+<l>Ende die vierde hiet garies</l>
+<l>Si waren scone sijt seker des</l>
+<l>Ende vrome alle te wapine daernaer</l>
+<l>16410 Doe si op quamen wet vorwaer</l>
+<l>&para; Nu horde galescins coninc neutres sone</l>
+<l>Sijn moeder secgen dicke natgone</l>
+<l>Dattie coninc artur waer sijn oem</l>
+<l>Doe nam hi des an haer goem</l>
+<l>16415 Ende sochte .i. bode de hi sinde</l>
+<l>An waleweine sinen neue met geninde</l>
+<l>Ende an sine broedere wet vorwaer</l>
+<l>Dat hine quame spreken daernaer</l>
+<l>Ter neuwer ferteit in broserant</l>
+<l>16420 Ende dat hi quame daer te hant</l>
+<l>So hi alre heimelijcst can</l>
+<l>Ende dade ember den raet daeran</l>
+<l>Dat hi porre oft hi mach</l>
+<l><pb n="62"/><milestone unit="fol" n="2rb"/> Des derden dages na paesdach</l>
+<l>16425 Dus reet die bode wech segic v</l>
+<l>So lange dat hi te gales quam nv</l>
+<l>Jn de stat daer die kinder waren</l>
+<l>Metter moeder. maer de vader twaren</l>
+<l>Was te hanterinne in de stat</l>
+<l>16430 Daer die seynen lagen bi dat</l>
+<l>Alse de bode te gales quam</l>
+<l>Ende hi waleweine vernam</l>
+<l>Dedi den raet dat hine sprac daer</l>
+<l>Ende seidem dattene ontbode daernaer</l>
+<l>16435 Galescins v neue ende oec wet</l>
+<l>Dat gi v broedere bringet met</l>
+<l>Ende coemt ter neuwer fer[te]it inne</l>
+<l>Alse lief alse gi hebt sine minne</l>
+<l>Hi sal daer ember jegen v wesen</l>
+<l>16440 Ende port des paesdages na desen</l>
+<l>Opten derden dach na dien</l>
+<l>Doen die kinder hord[en v]an dien</l>
+<l>Warens sijs blide ende seiden doe</l>
+<l>Si souden daer alle comen alsoe</l>
+<l>16445 Want si wisten wel sijt seker das</l>
+<l>Dat sonder orbaer niet en was</l>
+<l>Dat hise so haestelijc ontbode daer</l>
+<l>Walewein gaf een ors daernaer</l>
+<l>Den bode ende hiet hem also houde</l>
+<l>16450 Dat hi hem sinen neue groten soude</l>
+<l>Die bode seide hi sout doen vorwaer</l>
+<l>Ende es nv gescieden van daer</l>
+<l>Ende voer so lange doe na das</l>
+<l>Dat hi quam daer galescins was</l>
+<l>16455 Ende doe hi quam te sinen jonchere</l>
+<l>Grote hine van waleweins haluen sere</l>
+<l>Ende seide dat hi hem geloefde nv</l>
+<l>Ende sine broedere mede segic v</l>
+<l><edition n="63"/>Dat si sellen ter neuwer ferteit al</l>
+<l>16460 Comen hebben si geual</l>
+<l>Opten dach dat gi se ter stede</l>
+<l>Comen hiet sonder enige bede</l>
+<l>&para; Doe ginc hem galescins gereiden</l>
+<l>Met sinen gesellen sonder beiden</l>
+<l>16465 Ende voer ter neuwer ferteit daernaer</l>
+<l>Ende quam opten paesdach daer</l>
+<l>Ende ontbeide daer sire neuen nv</l>
+<l>So lange datse quamen segic v</l>
+<l>Daer dede deen den andren feeste groet</l>
+<l>16470 Doe vraechde walewein twi hine ontboet</l>
+<l>So haestelic dat soudic nv</l>
+<l>Gerne weten hier van nv</l>
+<l>Want en hadde v boetscap gedaen</l>
+<l>Wi waren nv elre sonder waen</l>
+<l>16475 Daer wi nu begeren te sine</l>
+<l>Heimelike ende oec stillekine</l>
+<l>Alst galescins horde doe seidi</l>
+<l>Neue waer wildi varen sonder mi</l>
+<l>Gine sout met rechte gene dinge</l>
+<l>16480 <milestone unit="fol" n="2rc"/> Doen sonder mi sonderlinge</l>
+<l>Segt mi waer gi varen wilt nv</l>
+<l>Dan salic mijn gepens secgen v</l>
+<l>Ende twi ic v hier nv ontboet</l>
+<l>Salic v secgen clein ende groet</l>
+<l>16485 Walewein seide doe bi onsen here</l>
+<l>Jc wille varen nv vort mere</l>
+<l>Dinen .i. den enen alre besten man</l>
+<l>Den soetsten enten miltsten daeran</l>
+<l>Den goedertiersten den vroemsten mede</l>
+<l>16490 Den edelsten van al kerstijnhede</l>
+<l>Ende daer ic meer dogeden met</l>
+<l>Af hebbe gehort bi mire wet</l>
+<l><edition n="64"/>Dan ic nie secgen horde</l>
+<l>Van enigen man in waren worden</l>
+<l>16495 Deus seide galescins nv mere</l>
+<l>Wie mach dit sijn god here</l>
+<l>So moeti geuen dat moete wesen</l>
+<l>Daer ic v om ontboet vor desen</l>
+<l>Bi gode seide walewein vort an</l>
+<l>16500 Men soude niet verswigen selken man</l>
+<l>Maer hi soude genoemt sijn gereet</l>
+<l>Vore alle goede liede god weet</l>
+<l>Hi es geheten die coninc arture</l>
+<l>Ende es v oem. ende donse ter vre</l>
+<l>16505 Maer met groten onrechte sekerlike</l>
+<l>Orlogen de barone van den rike</l>
+<l>Dine met rechte minnen souden sere</l>
+<l>Ende dat kinne god donse ter vre</l>
+<l>Dat ic swaert ne gorde nembermeer</l>
+<l>16510 Hine hebt mi selue gegort eer</l>
+<l>&para; Ende alse galescins dit verhorde</l>
+<l>En was he noit so blide van worde</l>
+<l>Ende gegreep waleweine in sijn arm doe</l>
+<l>Ende helsden van bliscapen alsoe</l>
+<l>16515 Ende seidem dat hine mede</l>
+<l>Niegerent om els ontboet ter stede</l>
+<l>Dan ombe dese sticken openbaer</l>
+<l>Ende doen seidi hem daernaer</l>
+<l>Dat hi oit sint dat sijn vader</l>
+<l>16520 Vander bataelgen comen was te gader</l>
+<l>Daer hi hier vore gesconfiert in was</l>
+<l>Wille oit sint hadde sijt seker das</l>
+<l>Dat hi ten coninc artur varen woude</l>
+<l>Walewein seide doe also houde</l>
+<l>16525 <pb n="65"/> Dat hijt heft horen secgen al</l>
+<l>Hoet daer gesciede groet ende smal</l>
+<l>Ende mijn moeder seit oec mi</l>
+<l>Hoe alle die dinge gesciet si</l>
+<l>&para; Doen si lange hadden al daer</l>
+<l>16530 Gesproken doe viserden si daernaer</l>
+<l>Weltijt dat si porren wouden</l>
+<l>Si drogen overeen dat si souden</l>
+<l>Binnen .xiiij. nachten porren met</l>
+<l>Dus scieden si daer ongelet</l>
+<l>16535 Ende elc voer thuswart hem gereiden</l>
+<l><milestone unit="fol" n="2va"/> Al heimelijc al sonder beiden</l>
+<l>Van orssen van gereiden vorwaer</l>
+<l>Van paruren scoen ende claer</l>
+<l>Ende van wapine mede nv</l>
+<l>16540 Alse hem betaemde segic v</l>
+<l>Galescijns nam met hem daernaer</l>
+<l>Cc. gesellen vroem ende openbaer</l>
+<l>Wel gereden ende wel thernas</l>
+<l>Entie beste mede sijt seker das</l>
+<l>16545 Die in al sijn rike waren</l>
+<l>Ende es so heimelijc wech gevaren</l>
+<l>Dat sijn vader niet wiste nv</l>
+<l>Ende quam ter neuwer ferteit segic v</l>
+<l>Ende bleef daer so lange mede</l>
+<l>16550 Dat walewein quam daer ter stede</l>
+<l>Ende sine broeder die brachten daer</l>
+<l>V. hondert man dapper ende openbaer</l>
+<l>Ende wel gereden ende thernas</l>
+<l>Ende wale alle sijt seker das</l>
+<l>16555 Hoger liede kinder ridder ende knapen</l>
+<l>Die wel dinen conden met wapen</l>
+<l>Maer vanden .v. hondert waser .lx. wel</l>
+<l>Ridderen dapper ende snel</l>
+<l>Ende van dien galescins brachte daer</l>
+<l>16560 <pb n="66"/> En waser .xx. riddere maer</l>
+<l>&para; Doe si dus vergadert waren</l>
+<l>Hadden si grote feeste twaren</l>
+<l>Ende bereiden hem daer ter stede</l>
+<l>Daer droegense over een oec mede</l>
+<l>16565 Dat si trecken willen te logres</l>
+<l>Jn bertangen toe sijt seker des</l>
+<l>Daer souden si irst vernemen nv</l>
+<l>Waer haer oem es segic v</l>
+<l>&para; Dus es walewein ende gueries</l>
+<l>16570 Ende acgrauein ende garies</l>
+<l>Ende galescins met haren lieden</l>
+<l>Ende met al haer maisnieden</l>
+<l>Vander neuwer ferteit gesceden</l>
+<l>Ende te bertangen wart gereden</l>
+<l>16575 Ende voeren .iiij. dage also</l>
+<l>Des viften dages stondense op vroe</l>
+<l>Om der hitten wille dor das</l>
+<l>Die in midden den dach was</l>
+<l>Dus redense in de coelhede</l>
+<l>16580 Des margens doent scone was mede</l>
+<l>Si minden seer den soeten tijt</l>
+<l>Alse die jonc waren ende jolijt</l>
+<l>Si waren noch weet te doene met</l>
+<l>Grote pine si waren dat wet</l>
+<l>16585 Wel gewapent alse knapen doe</l>
+<l>Plagen te sine ic seg v hoe</l>
+<l>Elc hadde .i. yserinen hoet</l>
+<l>Op sijn hoeft vaste ende goet</l>
+<l>Ende haer swaerde hingen doen</l>
+<l>16590 Ant gereide ant artsoen</l>
+<l>Want tlant en was niet alsoe</l>
+<l><milestone unit="fol" n="2vb"/> Seker om d[er] seynen [willen doe]</l>
+<l><edition n="67"/>Ende [.]et was een [vol lan]t</l>
+<l>Van [all]en goede dat [m]en [vant]</l>
+<l>16595 [Ende w]as scade sijt seker das</l>
+<l>Dat al sulc lant gedestruert was</l>
+<l>So [lange] tijt ende m[et onrec]hte</l>
+<l>De[se k]inder daer [ic] v af berechte</l>
+<l>[Reden te] logres wart al h[aren] pas</l>
+<l>16600 Ende onder wegen sijt seker das</l>
+<l>Vondense den coninc g[wine]ebante</l>
+<l>Ende den coninc wale[brone ende modelan]te</l>
+<l>En[de den] coninc sorn[agut ende sor]ingrante</l>
+<l>En[de den] coninc ky[vehante]</l>
+<l>16605 D[ese h]adden tlant [van log]res</l>
+<l>Gedestruert sijt [seker de]s</l>
+<l>Ende geroeft ende [voerden] daer</l>
+<l>Grote spise met hem vorwaer</l>
+<l>So vele hadden genomen si</l>
+<l>16610 Dat [la]nge haer liede mochten daerbi</l>
+<l>Genoech hebben gehad daer [mede]</l>
+<l>Vleesch broet wijn gerede</l>
+<l>Want si hadden ger[ove]t tien stonden</l>
+<l>Die hauen daer [groet goet inne] vonden</l>
+<l>16615 Want si vonden se al [vol ter stede]</l>
+<l><edition n="68"/>Van vitaelgien ende van comenscap mede</l>
+<l>So datse .vij. dusent somer al daer</l>
+<l>Ende .v. hondert wagen daernaer</l>
+<l>Ende .v. hondert [kerren] l[o]den met</l>
+<l>16620 Dat [karren] was so groet dat wet</l>
+<l>Dat onvertellet te secgen es</l>
+<l>Ende aldaer si voren sijt seker des</l>
+<l>Stoef die moude ongehier</l>
+<l>Ende si maecten so groet vier</l>
+<l>16625 Jn die dorpen die die seynen</l>
+<l>Ontstaken daer si voren heinen</l>
+<l>Dat ment wale mochte sien</l>
+<l>Ene halue mile van dien</l>
+<l>Waerwart dat si voeren met desen</l>
+<l>16630 Alse die kinder naecten den resen</l>
+<l>Ende hoerden dat hulp geroep mede</l>
+<l>Van den lant liede ter steden</l>
+<l>Om datse die seynen roefden daer</l>
+<l>Ende vervoeren. oec wet vor waer</l>
+<l>16635 Datter daer wel .x. dusent was</l>
+<l>Sonder tfoetvolc dat na das</l>
+<l>Jnt lant liep ende roefdent al</l>
+<l>Doe die kinder horden dat gescal</l>
+<l>Ende die vernoye die daer gescieden</l>
+<l>16640 Doe vrachden de kinder den dorplieden</l>
+<l>Waer die coninc artur es</l>
+<l>Die dorp liede seiden na des</l>
+<l>Dat hi te camelide waer nv</l>
+<l>Ende te half vasten segwi v</l>
+<l>16645 Voer hi rechte daerwaert</l>
+<l>Ende hi heft hier also bewaert</l>
+<l>Sine borge ende sine stade</l>
+<l><milestone unit="fol" n="2vc"/> Dat hem nieman en can doen scade</l>
+<l>Des sijn die seynen so erre</l>
+<l>16650 Dat sijt al strueren bi ende verre</l>
+<l><edition n="69"/>Ende rouen tlant als gi siet</l>
+<l>Als die kinder horen dattie coninc niet</l>
+<l>Jnt lant en es doe seiden si</l>
+<l>Dat si wilden calengiren daerbi</l>
+<l>16655 Den roef. ende tlant houden daernaer</l>
+<l>Tot dat haer oem comen waer</l>
+<l>&para; Als die dorp liede horden de wort</l>
+<l>Vraechdense wie si waren vort</l>
+<l>Doe seiden hem die kinder daernaer</l>
+<l>16660 Wie si waren dies waren daer</l>
+<l>Die dorp liede harde blide seer</l>
+<l>Want si hoepten dat sine eer</l>
+<l>Die coninc soude behouden thant</l>
+<l>Overmids hem ende oec sijn lant</l>
+<l>16665 Ende van den coningen overmid[s em]</l>
+<l>Pensden si daer in haren sin</l>
+<l>Vrientscap soude werden eer iet lanc</l>
+<l>Si wistens den kinderen groten danc</l>
+<l>Ende prijsdense harde seer daer</l>
+<l>16670 Ende si daden hen oec daernaer</l>
+<l>Jn haer geselscap ende reden mede</l>
+<l>Daer die kinder reden ter stede</l>
+<l>&para; Ende den kinderen wie[s] haer harte</l>
+<l>Van den verdrite ende van der smarte</l>
+<l>16675 Die die seynen daer daden int lant</l>
+<l>Ende riepen op haer liede te hant</l>
+<l>Gi edele baroene bereit v</l>
+<l>Laet ons dese proye bescudden nv</l>
+<l>Die dese quade seynen voren</l>
+<l>16680 Laet sien wie sal hem wel roren</l>
+<l>Doe vergorden si haer orsse al daer</l>
+<l>Ende satener op ende daernaer</l>
+<l>Ordenerden die ridders haer scaren</l>
+<l>Diere daer wel .lxxx. waren</l>
+<l>16685 Die vrome waren ende getrouw[en]</l>
+<l>Ende alse die lant liede dat scouwen</l>
+<l>Traken daer an hem des sijt vroet</l>
+<l>Wel .v. hondert tors ende te voet</l>
+<l><edition n="70"/>Ende alsi dus vergadert waren</l>
+<l>16690 Voeren si allegader daernaren</l>
+<l>Ende ontmoeten tkarijn ter stede</l>
+<l>Ende hem .iiij. dusent oec daer mede</l>
+<l>Die dat karijn geleiden daer</l>
+<l>Ende het was none dages vorwaer</l>
+<l>16695 Ende was oec vtermatene heet</l>
+<l>Ende die moude stoef gereet</l>
+<l>Daer si nv henen lieten drauen</l>
+<l>Daer die viande voer scauen</l>
+<l>Daer slogen si in met geroechte groet</l>
+<l>16700 Ende wondense ende sloegense doet</l>
+<l>Walewein doetdere so vele daer nv</l>
+<l>Dat hi bebloet was segic v</l>
+<l>Van bouen tote beneden toe</l>
+<l>Daer ne sloeger ni[man] doe</l>
+<l><milestone unit="fol" n="3ra"/> Ende noch meer wet vorwaer</l>
+<l>Waser die hem tsens gauen daer</l>
+<l>Ende daer toe oec tot al desen</l>
+<l>18710 Wildi so groten here wesen</l>
+<l>Dat hi al die werelt wilde duingen</l>
+<l>Entie seynen de hi hadde doen bringen</l>
+<l>Die hi in allen lande hadde gesent</l>
+<l>Die daer die lande roefden omtrent</l>
+<l>18715 Dat was om dattie barone</l>
+<l>Vanden lande soude hebben te doene</l>
+<l>Genoech met hem seluen segic v</l>
+<l>Enten coninc leodegan niet hulpen nv</l>
+<l>Om dit haddise over al gesent</l>
+<l>18720 Dat si die lande roefden omtrent</l>
+<l>Ende si haddens oec wel de macht</l>
+<l>Elken lande te doene cracht</l>
+<l>&para; Niet lanc daerna dattie coninc rion ontboet</l>
+<l>Sine heren te comene ende sine genoet</l>
+<l>18725 <pb n="71"/> Vt allen sinen landen wet vorwaer</l>
+<l>Eer iet lanc so quamer daer</l>
+<l>Dat hire hadde tors ende te voet</l>
+<l>CC. dusent ende .l. des sijt vroet</l>
+<l>Vore die stat te deneblase nv</l>
+<l>18730 Ende daer waren mede d[a]t segic v</l>
+<l>xx. gecroende coninge dat wet</l>
+<l>Ende hi was die .xxi.ste met</l>
+<l>Ende si hadden bracht so vele spisen</l>
+<l>Dat si ne dorsten ingere wisen</l>
+<l>18735 Jn meniger tijt om vitalie varen</l>
+<l>So vol planteit hadden sire twaren</l>
+<l>Met hen bracht vt .xx. conincriken</l>
+<l>Daer was so goet tijt sekerliken</l>
+<l>Dats niemen nv gelouen soude</l>
+<l>18740 Menigen weruen met groten gewoude</l>
+<l>So dede prouen de coninc rioen</l>
+<l>Oft hi de stat conde onder gedoen</l>
+<l>Maer hine conste niet .i. blase</l>
+<l>Gederen der stat van deneblase</l>
+<l>18745 Si was so vast in allen sinnen</l>
+<l>Alse lange alsi tetene hadde binnen</l>
+<l>Sone hadden si geen ruwaert daeran</l>
+<l>Si hadden den coninc leodegan</l>
+<l>Dicke ontboden dat hi quame daer</l>
+<l>18750 Ende hise bescudde. want si vaer</l>
+<l>Ende menigen anxt hadden groet</l>
+<l>Ende die coninc hen weder ontboet</l>
+<l>Dat hi nv genoech hadde te doene</l>
+<l>Maer waer hi verledicht hi soude na tgone</l>
+<l>18755 <pb n="72"/> Comen ende hem in staden staen</l>
+<l>Ende die stat ontsetten condi saen</l>
+<l>Hier swiget de boec van den coninc rioene</l>
+<l>Ende van al gader sinen doene</l>
+<l>Ende sal v secgen vort ter vre</l>
+<l>18760 Vanden coninc arture</l>
+<l parse="ignore"></l>
+<l parse="ignore">Hoe die coninc arture ende jenoure</l>
+<l parse="ignore">Hem irstwerf onderminden .xiij.</l>
+<l parse="ignore"></l>
+<l><milestone unit="fol" n="3rb"/> <b>H</b>ier seget de [auen]ture twaren</l>
+<l>Dattie van der stat blide waren</l>
+<l>Om dattie seynen waren doe</l>
+<l>Verslegen ende verdreuen toe</l>
+<l>18765 Ende der hare in der noet</l>
+<l>So lettel goet waren bleuen doet</l>
+<l>Ende dat si dus oec waren gesconfiert</l>
+<l>Dede merlijn met dat hi visiert</l>
+<l>Ende die .xlij. met ter stonden</l>
+<l>18770 Ende die ridders vander tafelronden</l>
+<l>Nu seget die boec hier ter stede</l>
+<l>Doen si alle veriaget waren mede</l>
+<l>Keerden si met bliscapen in de stat</l>
+<l>Doe die coninc leodegan vernam dat</l>
+<l>18775 Quam hi jegen die .xlij. daer</l>
+<l>Ende dedem grote feeste daernaer</l>
+<l>Ende doen si alle vergadert waren</l>
+<l>Dede die coninc presenteren daernaren</l>
+<l>Den .xlij. soudiren sijt seker das</l>
+<l>18780 <pb n="73"/> Alt goet dat daer gewonnen was</l>
+<l parse="ignore">Ende seide het was haer met rechte</l>
+<l parse="ignore">Si hadden[t ..]ennen met gevechte</l>
+<l>Wine heb[bent] gewonnen clein no groet</l>
+<l>Oec hebdi mi vander doet</l>
+<l>18785 Bescud ende van gevancnessen mede</l>
+<l>Si danctens den coninc daer ter stede</l>
+<l>Ende seiden sine wildens niet ontvaen</l>
+<l>Het coemt noch tijt genoech sonder waen</l>
+<l>Dat wi gichten sellen nemen</l>
+<l>18790 Maer geuet nv elre na v betemen</l>
+<l>&para; Doe seide die coninc leodegan</l>
+<l>Sint mere dat gijs niet vortan</l>
+<l>Nemen en wilt so nemet gi</l>
+<l>Ende deilet waer dat v wille si</l>
+<l>18795 Merlijn seide ten .iij. coningen doe</l>
+<l>Dat si dat goet namen alsoe</l>
+<l>Doe namen sijt ende deildent daer</l>
+<l>Na merlijns rade weet vorwaer</l>
+<l>So dats hem seluen enbleef niet</l>
+<l>18800 Dat eens pennincs waert was iet</l>
+<l>Des waren si geprijst sere</l>
+<l>Si bejageden daer so groet ere</l>
+<l>Jn alden lande daer ter stede</l>
+<l>Om haer grote daet ende om haer milthede</l>
+<l>18805 Dat men nieweren af sprac vorwaer</l>
+<l>Dan van hem lieden openbaer</l>
+<l>Si deden so bi merlijns rade nv</l>
+<l><pb n="74"/> Dats elc moeste prisen segic v</l>
+<l>Ende artur gaf sinen werd mede</l>
+<l>18810 Ende sire werdinnen daer ter stede</l>
+<l>So vele goets dat si daernaren</l>
+<l>Altoes rike liede waren</l>
+<l>Doen dit gewin gedeilt was</l>
+<l>Seide die coninc leodegan na das</l>
+<l>18815 Toten .xlij. soudiren</l>
+<l>Dat hi en woude in genre maniren</l>
+<l><milestone unit="fol" n="3rc"/> Vort meer sine souden bliuen nv</l>
+<l>Jn sine herberge segic v</l>
+<l>Ende gesellen wesen vort ter stonde</l>
+<l>18820 Der heren vander tafelronden</l>
+<l>Dus waren si daer nv ontfaen</l>
+<l>Men dede die heren ontwapen saen</l>
+<l>Doe hiet die coninc leodegan daer</l>
+<l>Sire dochter dat si ginge daernaer</l>
+<l>18825 Ende pareerde ende name vortan</l>
+<l>Twe seluerine beckijn ende ginge dan</l>
+<l>Ende wies die heren met warmen borre</l>
+<l>Si was daerwart saen in porre</l>
+<l>Maer die coninc artur en woude niet</l>
+<l>18830 Dat sine nv dwoege wats gesciet</l>
+<l>Vore dat leodegan. ende merlijn daer</l>
+<l>Beide hem hieten doen daernaer</l>
+<l>Ginc si hem wassen den hals sijn</l>
+<l><edition n="75"/>Ende oec mede sijn anscijn</l>
+<l>18835 Ende droget met ere scoenre dwale</l>
+<l>Daer na ginc si wasscen wale</l>
+<l>Die andere coninge wet vor waer</l>
+<l>Ende die ander jenoure die was daer</l>
+<l>Des drossaten wijfs dochter mede</l>
+<l>18840 Si dwoech der ander heren ter stede</l>
+<l>Ende haren vader den coninc met</l>
+<l>Doe ginc die andre jenoure dat wet</l>
+<l>De des coninc leodegans dochter was</l>
+<l>Van sinen wiue ende nam na das</l>
+<l>18845 Drie mantele ende hincse daernaer</l>
+<l>Den .iij. coningen om den hals daer</l>
+<l>Doe was de coninc artur vortan</l>
+<l>Een vtermaten scone man</l>
+<l>Ende jenoure besagen seer daer bi</l>
+<l>18850 Ende hi haer. weder doen seide si</l>
+<l>Onder haer tande der joncfrouwen</l>
+<l>Mach wel te moede sijn bi mire trouwen</l>
+<l>Daer sulc een ridder begerte hadde inne</l>
+<l>Dat hi an haer wilde soeken minne</l>
+<l>18855 Ende met rechte mochtsi oec mede</l>
+<l>Bliscap driuen in elke stede</l>
+<l>Die minnen wilde alsulc .i. man</l>
+<l>Ende met rechte soudene vort an</l>
+<l>Vermaledien god entie werelt mede</l>
+<l>18860 Die sulken man minne ontsede</l>
+<l>Ende nembermeer waer hi eren waert</l>
+<l>Dine om minne iet beswaert</l>
+<l>Mettien waren die taflen geleit</l>
+<l><edition n="76"/>Ende dat eten was al bereit</l>
+<l>18865 Doe dede die coninc ban sitten gaen</l>
+<l>Den coninc artur vor hem saen</l>
+<l>Tuscen hem ende sinen broeder nv</l>
+<l>Want si daden hem daer dat segic v</l>
+<l>Al die ere die si mochten daeran</l>
+<l>18870 Dit mercte die goede leodegan</l>
+<l>Die daer ter seluer taflen sat</l>
+<l>Bider eren die si hem daden ter stat</l>
+<l><milestone unit="fol" n="3va"/> Pensdi dat haer alre here was</l>
+<l>Ende hem wonderde oec seer na das</l>
+<l>18875 Wie die here mochte sijn</l>
+<l>Hier ombe haddi groten fijn</l>
+<l>Dat hijt wiste wie hi waer</l>
+<l>Ende sine gesellen oec daernaer</l>
+<l>Die liet hi hem costen vele ter stonde</l>
+<l>18880 Doe gingen sitten die van der tafelronde</l>
+<l>Neuen die saudire. want in een</l>
+<l>Droegen si van vrienscapen onder hem tween</l>
+<l>&para; Die coninc leodegan pensde doe</l>
+<l>God here seiti ofte mochte sijn alsoe</l>
+<l>18885 Dat dese scone vrome jonge man</l>
+<l>Dien si daer alle dienen vort an</l>
+<l>Mire dochter getrout hadde ter stede</l>
+<l>Want ic wet wel die waerhede</l>
+<l>Dat in so jongen man als hi es</l>
+<l>18890 Niet mochte sijn des binic gewes</l>
+<l>Also vele groter vromecheden</l>
+<l>Alsic an hem gesien hebbe heden</l>
+<l>En waer hi van groten conne niet</l>
+<l>Oft hets een geest als men siet</l>
+<l>18895 Dien god hier gesint heft mede</l>
+<l>Ende sine gesellen oec ter stede</l>
+<l><edition n="77"/>Om dit lant te bescermene met</l>
+<l>Ende te sterkene gods wet</l>
+<l>Doe pinsdi om twonder dat hi dede</l>
+<l>18900 Ende alle sine gesellen oec mede</l>
+<l>Hi pinsde hoe hi vter porten reet doe</l>
+<l>Die vaste stoet besloten toe</l>
+<l>Hi pensde vort sonder waen</l>
+<l>Hoe hine verloeste daer hi was geuaen</l>
+<l>18905 Hem .xlij. jegen .v. dusent man</l>
+<l>Ende daerna alden dach vort an</l>
+<l>Anxtelike sere gestreden heft</l>
+<l>Dus pinsdi hier ombe dat hi begeft</l>
+<l>Al sijn eten ende sire gaste mede</l>
+<l>18910 Ende bleef sittende also ter stede</l>
+<l>&para; Dit mercte herui van riueel daer</l>
+<l>Dient leet was ende daernaer</l>
+<l>Stont hi op ende ginc ten coninc</l>
+<l>Ende seidem heimelijc dese dinc</l>
+<l>18915 Here seidi in sach v noit eer</l>
+<l>Mesgripen an gene dinc so seer</l>
+<l>Als gi v nv ter wilen doet</l>
+<l>Gi sout nu maken blide gemoet</l>
+<l>Dese heren maer gi sittet nv</l>
+<l>18920 Oft gi sliept ende droemde v</l>
+<l>Gine sout v dus niet gelaten</l>
+<l>Herui seide doe bi karitaten</l>
+<l>Jc pensde om den edelsten sijt seker des</l>
+<l>Ende den besten die in de werelt es</l>
+<l>18925 Ende den vroemsten. ende in conste mi</l>
+<l>Niet onthouden in moester bi</l>
+<l><edition n="78"/>Pensen. ende om dese dinc segic v</l>
+<l>En soudemen mi niet blameren nv</l>
+<l><milestone unit="fol" n="3vb"/> Herui sei[d]et mach wel wesen</l>
+<l>18930 Maer pinster om genoech na desen</l>
+<l>Als gijs stade hebt ende resp[ij]t</l>
+<l>Maer nv en est geens pensens tijt</l>
+<l>Doet feeste ende joie desen heren</l>
+<l>Die wel waert sijn alre eren</l>
+<l>18935 &para; Dus liet die coninc tgepens varen</l>
+<l>Ende sijn dochter jenoure twaren</l>
+<l>Diende vor artur ende scinctem nv</l>
+<l>Ende knielde vor hem segic v</l>
+<l>Die wile dat hi drinken soude</l>
+<l>18940 Ende hi sach op haer also houde</l>
+<l>Met vriendeliken ogen te hant</l>
+<l>Si was die scoenste die men vant</l>
+<l>Si stoet in haren roc al bloet</l>
+<l>Ende .i. hoet op haren hoet</l>
+<l>18945 Daer menich dire steen an stont</l>
+<l>Si hadde .i. hals scone ende ront</l>
+<l>Ende de scoenste vlechten mede</l>
+<l>Die haer sloegen daer ter stede</l>
+<l>Toten gordel neder waert</l>
+<l>18950 Haer anscijn dat [w]as so verclaert</l>
+<l>Rodelijc. [mynlic] met witten gemene</l>
+<l>Geminct dat nature ne gene</l>
+<l>Daeran gebrac noch an haer lede</l>
+<l>An hande an voete an vinger mede</l>
+<l>18955 <edition n = "79"/> Noch an licham wat helpt messaect</l>
+<l>Sone sachmen nie gene bat gemaect</l>
+<l>Jn can haer scoenhede niet volprisen</l>
+<l>Nochtan was si in alre wisen</l>
+<l>Ember also volcomen ende also volmaect</l>
+<l>18960 Jn houescheden ende so wel geraect</l>
+<l>Jn goedertierheden ende in miltheden</l>
+<l>Jn doechgeden ende in soeticheden</l>
+<l>Ende in gestadicheden van sinne</l>
+<l>Dit ende meer hadsi al inne</l>
+<l>18965 Dat ict al niet gesecgen can</l>
+<l>&para; Die coninc artur sachse doe an</l>
+<l>Die niet scoenre mochte wesen</l>
+<l>Gelijc als wi van haer nu lesen</l>
+<l>Haer borstekine waren ront e[nde] clene</l>
+<l>18970 Als .ij. apelkine gemene</l>
+<l>Ende haer lijf was witter dan .i. snee</l>
+<l>Wat magic an haer prisen mee</l>
+<l>Sine was te mager no te vet</l>
+<l>Maer tuscen beiden dat best set</l>
+<l>18975 Doe coninc merketse doe harde sere</l>
+<l>Ende pensde om haer ie lanc so mere</l>
+<l>Hi pinsde so vele om haer na dat</l>
+<l>Dat hi sijns etens al vergat</l>
+<l>Maer hi kerde sine ogen van haer</l>
+<l>18980 Dats nieman soude werden gewaer</l>
+<l>Die joncfrouwe nam doe den nap god weet</l>
+<l>Ende seide jonchere drinct gereet</l>
+<l><edition n="80"/>Wistic nv wel hoe gi hiet</l>
+<l>Jc noemde v also ende anders niet</l>
+<l>18985 <milestone unit="fol" n="3vc"/> Drinct ende ne scaemt v twent</l>
+<l>Ende ne sijt niet te barenteert omtrent</l>
+<l>Want bi gode ten wapenen ne sidi</l>
+<l>Een twint niet te barenteert donct mi</l>
+<l>Dat sceen wel heden segic nv</l>
+<l>18990 Daer si .v. dusent sagen na v</l>
+<l>Joncfrouwe seithi gi segt vwen wille</l>
+<l>Van derre dinc swigic stille</l>
+<l>Maer ic drinke gerne scone maget vri</l>
+<l>Van vwer hant ende god late mi</l>
+<l>18995 Des verdienen sonder vwen noet</l>
+<l>Dat gi mi desen dienst nu doet</l>
+<l>Here seitsi gine hebts noch niet</l>
+<l>Te beginnen oft gijt gebiet</l>
+<l>Maer gi hebt mi hondert werf vortan</l>
+<l>19000 Meer vergouden dan ic v can</l>
+<l>Want daer vergoudijt wale sonder waen</l>
+<l>Daer mijn vader was gevaen</l>
+<l>Ende gine verlosset vter noet</l>
+<l>Ende tere ander stat daer gi staect doet</l>
+<l>19005 Die minen vader hadde ter eerde</l>
+<l>Gesteken met sinen perde</l>
+<l>Daer gi v ombe auenturet sere</l>
+<l>Eer g[i] gemonteert minen here</l>
+<l>Daer daetdi here met wapinen soe</l>
+<l>19010 Dat al dat here voer v vloe</l>
+<l><edition n="81"/>Ay wie sach noit so jongen man</l>
+<l>Als gi sijt diet dorste vangen an</l>
+<l>Dat gi daer vinget an gerede</l>
+<l>Die coninc artur liet haer ter stede</l>
+<l>19015 Secgen van desen al dat si wille</l>
+<l>Ende sach vor hem ende sweech stille</l>
+<l>Ende nam den cop ende dranc alsoe</l>
+<l>Ende seide joncfrouwe staet op haer doe</l>
+<l>Gi hebt lange genoech gedient nv</l>
+<l>19020 Gaet sitten joncfrouwe des bidic v</l>
+<l>Haer vader seide dan sal niet wesen</l>
+<l>Dus diende si vort na desen</l>
+<l>Van menigen gerechte dat daer quam</l>
+<l>&para; Ende doen die etentijt inde nam</l>
+<l>19025 Ende die amlaken op sijn gedaen</l>
+<l>Doe sprac die coninc ban saen</l>
+<l>Toten coninc leodegan daer hi sat nv</l>
+<l>Here mi wondert sere van v</l>
+<l>Want men hout over herde vroet</l>
+<l>19030 Dat gi v dochter niet huwen doet</l>
+<l>Die groet ende scone es mede</l>
+<l>Dat gi se nu nine geft nv ter stede</l>
+<l>Enen vromen machtigen man</l>
+<l>Die v holpe bescermen vortan</l>
+<l>19035 V lant jegen vwe viande nv</l>
+<l>Want mi donct wel te horne an v</l>
+<l>Dat gi nember kindere hoet gaet</l>
+<l>En hebt daerop te bliuen staet</l>
+<l>Dit lant dan haer allene</l>
+<l>19040 Die coninc leodegan sprac na tgene</l>
+</text>
+<!--</ENTRY>
+--></TEI.2>

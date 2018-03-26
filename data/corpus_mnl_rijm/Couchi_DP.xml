@@ -1,0 +1,616 @@
+<?xml version='1.0'?><!DOCTYPE TEI.2 PUBLIC '-//TEI P4//DTD Main Document Type//EN' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd' [<!ENTITY % TEI.prose 'INCLUDE'><!ENTITY % TEI.linking 'INCLUDE'><!ENTITY % TEI.figures 'INCLUDE'><!ENTITY % TEI.analysis 'INCLUDE'><!ENTITY % TEI.corpus 'INCLUDE'><!ENTITY % TEI.XML 'INCLUDE'><!NOTATION TEI-XML PUBLIC 'TEI P4' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd'><!-- internal INL dtd --><!ELEMENT b (#PCDATA)><!ELEMENT l (#PCDATA | b)*><!-- end of internal INL dtd -->]><TEI.2><!--<ENTRY id="i81"><teiHeader><fileDesc><titleStmt><title>Borchgrave van Couchi</title>
+</titleStmt>
+<TITEL>Borchgrave van Couchi</TITEL>
+<author>Onbekend</author>
+<AARD>Rijm</AARD>
+<BRON nr="K23">Fragmenten De Pauw (fragm.) [zoek]</BRON>
+<DATUM>Onbekend</DATUM>
+<OMVANG>592 verzen</OMVANG>
+<BRON.OPM>De tekst is alleen bekend uit het afschrift van een Duits geleerde, dat in het bezit was van W.J.A. Jonckbloet. Deze kende het reeds in 1868, want hij vermeldt er verzen uit in zijn Geschiedenis der Nederlandsche Letterkunde. Via G. Penon kwam het in 1887, na de dood van Jonckbloet, in handen van M. de Vries. Deze zond het afschrift met een kopie en verbeteringen van zijn hand op 20 september 1890 voor een uitgave aan N. de Pauw (huidige bewaarplaats: Gent, Stadsarchief, fonds Napoleon de Pauw 107, doos 1). In de editie De Pauw (N. de Pauw: Middelnederlandsche gedichten en fragmenten. Dl. 2. Gent, 1903, 23-42) worden de dubbelbladen Aa en Bb genoemd. De fragmenten zijn uitgegeven in de volgorde: Aa p.3-4, Bb p.1-4, Aa p.1-2. Alleen Bb p.2 en 3 sluiten niet op elkaar aan. Hier zijn de bladen gefolieerd, waarbij de volgorde van de editie De Pauw is aangehouden. Ook de versnummering is overgenomen uit deze editie.</BRON.OPM>
+<EDITIE>Afschrift J. Tersteeg</EDITIE>
+<STATUS>Diplomatisch</STATUS>
+<BRONMNW>914.B.II (andere editie)</BRONMNW>
+<BRONNEN>Van drie handschriften zijn er fragmenten overgeleverd. Edities en/of afschriften (J. Tersteeg) zijn er van de volgende handschriften/fragmenten: Hs. I, zie: - <x nr=K21>Arras, Biblioth&egrave;que Municipale, z.s. (fragm.) [zoek]</x>
+ - <x nr=K22>Leiden, Bibliotheek der Rijksuniversiteit, Ltk. 1024 (fragm.)</x>
+ Hs. II, zie: - <x nr=K23>Fragmenten De Pauw (fragm.) [zoek]</x>
+ Hs. III, zie: - <x nr=K24>Brussel, Koninklijke Bibliotheek, 19577 (fragm.)</x>
+</BRONNEN>
+</fileDesc>
+</teiHeader>
+--><text>
+<l parse="ignore" n="1"><milestone unit="fol" n="1ra"/> Dat ter werelt goet dochte</l>
+<l>Mach lichte het sal haer comen ten oren</l>
+<l>Haddi vromich gheweest te voren</l>
+<l>Nu hantteerde hi dor haer ere</l>
+<l n="5">Vromichede veel te mere</l>
+<l>Hi wart milde hovesch ende wijs</l>
+<l>Ende verdiende so groten prijs</l>
+<l>Jeghen alle dies werdich waren</l>
+<l>Sodat men sijns in groter maren</l>
+<l n="10">Dicken te menigher steden gewoech</l>
+<l>Mer altoes doghede hi onghevoech</l>
+<l>Stille int herte ende zware verdrach</l>
+<l>Dat hi die scone so selden sach</l>
+<l>Tehant vant hi in sinen sinne</l>
+<l n="15">Bi venus rade der godinne</l>
+<l>Wanti wient zwaerlike van minnen staet</l>
+<l>Hi vint bi wilen nauweren raet</l>
+<l>Dan hi emmer meer ghevonde</l>
+<l>En dade bedwanc der minnen wonde</l>
+<l n="20">Hi nam enen sire zuster zoen</l>
+<l>Een arm ridder was diegoen</l>
+<l>Ende seide neve ic wil u goeden</l>
+<l>Ic heb een borch seldi behoeden</l>
+<l>Int lant van faeljuwele staende</l>
+<l n="25">Ende hi sprac oem doen hijs vermaende</l>
+<l>God moet u lonen derre eren</l>
+<l>Want ic mi altoes gherne sal keren</l>
+<l>Tot uwen dienst sowaer ic mach</l>
+<l>Ende ic heb oec menigen dach</l>
+<l n="30">Ghehoept dat ghi mi soudt versien</l>
+<l>God danc dat nu sal ghescien</l>
+<l>Die here sprac doen openbaer</l>
+<l>Neve ic wil dat ghi vaert daer</l>
+<l>Ende sijt vromich ende faeljant</l>
+<l n="35">Ic verleen u hier al tlant</l>
+<l>Stede borch bosch ende pleyn</l>
+<l>Ende sijt voert maer mijn casteleyn</l>
+<l><milestone unit="fol" n="1rb"/> Doen riepen si alle diere stonden bi</l>
+<l>Oy ha baetchelaer van coetchi</l>
+<l n="40">Borchgrave van coetchi here</l>
+<l>God ghestarke u vorwart mere</l>
+<l>Dit ghecri ginc den jongen man</l>
+<l>Vrolijc int herte ende began</l>
+<l>Volghen der eren na dien dach</l>
+<l n="45">Dat hi verrees daer men toe sach</l>
+<l>Hi voer int lant van faeljuwele</l>
+<l>Ende vercierde so dien castele</l>
+<l>Met al datter toebehoerde</l>
+<l>Dat hi sijns vader viande stoerde</l>
+<l n="50">Die hem dicke dar te voren</l>
+<l>Scade hadden ghedaen ende toren</l>
+<l>Dit behaechde harde wel den oem</l>
+<l>Dat hi dus nam der eren goem</l>
+<l>Ende peynsde du moghes met eren</l>
+<l n="55">In dat lant varen ende keren</l>
+<l>Ende sijn die scone dagheraet</l>
+<l>Daer al dijn welvart aen staet</l>
+<l>Hi tijdde derwert ende vant</l>
+<l>Den neve machtich ende faeljant</l>
+<l n="60">Van live van herten ende van goede</l>
+<l>Noch vint men se als ic bevroede</l>
+<l>Dat hem selc moet laten genoegen</l>
+<l>Die hem sere wel souden connen voegen</l>
+<l>In eren groet met coste fier</l>
+<l n="65">Ja wilde iement blasen tfier</l>
+<l>Daer waer speels vele aen belanc</l>
+<l>Nochtan wiste hem dese here danc</l>
+<l>Dat hi hem so gelaten dorste</l>
+<l>Hi seide neve hier woent een vorste</l>
+<l n="70">Die ons wel gan in minen besten</l>
+<l>Willen wi varen tot sire vesten</l>
+<l>Hi sal ons hopic gherne sien</l>
+<l>Ja wi here ende mettien</l>
+<l>Sijn si vrolijc opgheseten</l>
+<l n="75"><milestone unit="fol" n="1va"/> Ende quamen daer recht vor den eten</l>
+<l>Ten here die se ontfinc vrolike</l>
+<l>Ende die vrouwe in vrouden [ghelike]</l>
+<l>Dat se die here [thuis] dus sochte</l>
+<l>Die lultel peinsde om sijn ghedochte</l>
+<l n="80">Ende ginghen dwaen ende darnae eten</l>
+<l>Ende die vrouwe dede vergeten</l>
+<l>Hem alle droefheit die daer waren</l>
+<l>So vrolijc conste si haer gebaren</l>
+<l>Si boet haren dienst den here</l>
+<l n="85">Van coetchi dies begheerde zere</l>
+<l>Anders dan hijt int herte meende</l>
+<l>Ende den borchgreve dien hi verleende</l>
+<l>Dor haer dat goet al en wistijs niet</l>
+<l>Hi h[ee]ft oec harde nauwe [bespiet]</l>
+<l n="90">Der scoenre vrowen figure</l>
+<l>Ende peinsde dese creature</l>
+<l>[En] heeft seker gheen gelike</l>
+<l>Van scoenheiden in al ertrike</l>
+<l>Wat mochtijs dan dat hi so dochte</l>
+<l n="95">Want en was nieman die se mochte</l>
+<l>Wel te punte aen scouwen</l>
+<l>Hi ne vergater bi sijne rouwen</l>
+<l>Wat holpt dat ic vele dichte</l>
+<l>Van hare doghet die ic niet lichte</l>
+<l n="100">Ter waerheit en can bescriven</l>
+<l>Scoene bloem van aertschen wiven</l>
+<l>In suverheiden van aensci[ne]</l>
+<l>In dogheden ende in milde [te sine]</l>
+<l>In rechter trouwen in oe[tmoet]</l>
+<l n="105">Ende in gelaet sowel behoet</l>
+<l>Dat ghene dinc haer mi[ss]at</l>
+<l>Die nature en mocht se niet bat</l>
+<l>Volmaect hebben in minen waen</l>
+<l>So gratiose was haer gedaen</l>
+<l n="110">Doe waest also gevoege ten eten</l>
+<l>Dat si so na waren geseten</l>
+<l><milestone unit="fol" n="1vb"/> Die here van coetchi entie vrouwe</l>
+<l>Dat hi haer bat op rechte trouwen</l>
+<l>Dat si hem goetlijc onderspraken</l>
+<l n="115">D[li]ef in hemeliken saken</l>
+<l>Ende alse die vrouwe dat verhoerde</l>
+<l>Gaf si ghetogheliken antwoerde</l>
+<l>Uwen willen here sprect ende ghebiet</l>
+<l>Te mi wert ende let u yet</l>
+<l n="120">Aen minen here ocht aen die mine</l>
+<l>Ic betert mag ic sprac die fine</l>
+<l>Die here sprac vrowe weert also</l>
+<l>Laet here maect u anders vro</l>
+<l>Dus spraken voert ende weder</l>
+<l n="125">Hi began ende leide dan neder</l>
+<l>Doer noet die hi int herte droech</l>
+<l>Int leste hi solanghe gewoech</l>
+<l>Bedectelike so hi beste mochte</l>
+<l>Dattie vrouwe sijn gedochte</l>
+<l n="130">Ter waerheit wel onderwant</l>
+<l>Datten die bant van minnen bant</l>
+<l>Ende tiersten dat sijs die waerheit wiste</l>
+<l>Antwerde si met soeten liste</l>
+<l>Here dats bliscap ende jolijt</l>
+<l n="135">So vromen ridder alse ghi sijt</l>
+<l>So riken ende so hoghen gheboren</l>
+<l>Dat ghi duesen hebt vercoren</l>
+<l>Daer noyt ridder in en bedarf</l>
+<l>Oec heb ic harde menichwarf</l>
+<l n="140">Ghehoert in walsche ende in latijn</l>
+<l>Dat sijs alle verbetert sijn</l>
+<l>Die gherechte minne draghen</l>
+<l>Hierbi so ne sal u niet mishaghen</l>
+<l>Ende hopen altoes te ghewinnen</l>
+<l n="145">Hulpe ende troest van uwer minnen</l>
+<l>Hiermede liet hi hem ghepayt</l>
+<l>Ende dese werde worden gesayt</l>
+<l>Onder hare met sulken liste</l>
+<l><milestone unit="fol" n="2ra"/> Datter nieman meer af en wiste</l>
+<l n="150">Na desen wert daer opghedaen</l>
+<l>Ende ghedwoghen darna saen</l>
+<l>Ende ghinghen hare meyhen lancs der zale</l>
+<l>Ende hadden menigherhande tale</l>
+<l>So van desen so van dien</l>
+<l n="155">Ende alse hi hem heeft versien</l>
+<l>Nam hi orlof an den here</l>
+<l>Van faeljuwele ende dancte hem sere</l>
+<l>Der groter eren die hi hem dede</l>
+<l>Ende boet hem aldaer ter stede</l>
+<l n="160">Sinen dienst so werwaert dat hi mochte</l>
+<l>Waert dat hine aen hem zochte</l>
+<l>Die here dancte hem ende seide</l>
+<l>Dat hi voer in gods gheleyde</l>
+<l>Ende emmer derwert ghebode</l>
+<l n="165">Doen beval hi die vrouwe te gode</l>
+<l>Die scone was ende bi hem stont</l>
+<l>Ende si hieten riden ghesont</l>
+<l>In desen sat hi op ter vaert</l>
+<l>Ende reet vaste te lande waert</l>
+<l n="170">Met sinen neve die luttel wiste</l>
+<l>Dat sijn herte bleef in twiste</l>
+<l>Van der scoener vrowen goet</l>
+<l>Mer die altoes sinen moet</l>
+<l>Hadde in goeden gedachte vri</l>
+<l n="175">Dat was die here van coetchi</l>
+<l>Die gherne hem sette te selken dingen</l>
+<l>Dat hi troest van lieve ontfinge</l>
+<l>Te sinen neve sprac hi ter tijt</l>
+<l>Borchgreve mi dunct goet dat ghi rijt</l>
+<l n="180">Tuwen lande ic heb te doene</l>
+<l>In ardenne tenen saysoene</l>
+<l>Daer ic haesteliken vare</l>
+<l>Of ghi moget so volget mi nare</l>
+<l>Gherne oem sprac hi mettien</l>
+<l n="185">Nu rijt ghesont ghi selt mi sien</l>
+<l><milestone unit="fol" n="2rb"/> Tuwen dienst altoes bereet</l>
+<l>Mi ne lette dinc die ic niene weet</l>
+<l>Dus sciet die borchgreve van sinen here</l>
+<l>Die peynsde mochti emmermeer</l>
+<l n="190">Ter werelt sulc geluc gescien</l>
+<l>Dattic dese vrowe noch mochte sien</l>
+<l>Die ons dus blidelijc ontfinc</l>
+<l>Dat waer di ene salige dinc</l>
+<l>Sijs so scone ende so volmaect</l>
+<l n="195">Ende in alre doghet sowel geraect</l>
+<l>Hoe mach mi enich dinc verdrieten</l>
+<l>Ic salt noch in dat vat geghieten</l>
+<l>Daer ic bi sal scouwen ane</l>
+<l>Haer scone gratiose ghedane</l>
+<l n="200">In dit gedachte wert hi began</l>
+<l>Ende bleef altoes dese jonge man</l>
+<l>Nu hadde die here van faeljuwele</l>
+<l>Een orloghe op ende die castele</l>
+<l>Die die borchgreve hadde in die hant</l>
+<l n="205">Lach tusschen deser heren lant</l>
+<l>Ende het ghinc buten der vorwerde</l>
+<l>Sodat deen den anderen daerde</l>
+<l>Aen live an goede sowaer hi mochte</l>
+<l>Dat dede den borchgreven harde sochte</l>
+<l n="210">Want hi ne beghert el gheen goet</l>
+<l>Dan hi den enen helpen moet</l>
+<l>Maer an welken hi hem wil [gade]</l>
+<l>Dies vermaet ic mi wel te rade</l>
+<l>Hi was dapper ende snel</l>
+<l n="215">Ende sijn leven stont hem wel</l>
+<l>Hi was jonc ende welgewrocht</l>
+<l>Suverlijc ende sijn ghedocht</l>
+<l>Was so groet ter vrouwen waert</l>
+<l>Dat hi hem niemans en vervaert</l>
+<l n="220">Hi peinsde waerwaert mag ic tiden</l>
+<l>Ic wil och god wilt leren striden</l>
+<l>Alhier nu met desen heren</l>
+<l><milestone unit="fol" n="2va"/> Dat ic mi echt mach bekeren</l>
+<l>Te bat in stride comicker toe</l>
+<l n="225">Nu sach hi waer eens merghens vroe</l>
+<l>Vele volcs versament was</l>
+<l>Een stic van daer op enen pas</l>
+<l>Ende ghereiden hem te stride</l>
+<l>Nu ist tijt sprac hi dat ic ride</l>
+<l n="230">Ende lere metten zweerde houwen</l>
+<l>Opten troest dat ic sal scouwen</l>
+<l>Die scone die mi so wel behaget</l>
+<l>Hi reet derwaert al onversaget</l>
+<l>Ende vant se met stride ghemene</l>
+<l n="235">Hi sloech met sporen in allene</l>
+<l>Als ene die heeft met groten nide</l>
+<l>Thant vercoren die ene side</l>
+<l>Dat was der scoenre vrouwen man</l>
+<l>Dien hi aldaer helpen began</l>
+<l n="240">Ter noet daer hi ne sach verladen</l>
+<l>Stont hi den groten here in staden</l>
+<l>Vromelijc als een ridder vri</l>
+<l>Doen waert daer geroepen coetchi</l>
+<l>Danc hebt here der groter wardicheden</l>
+<l n="245">Dat ghi dus quaemt al ongebeden</l>
+<l>Hi liet crayeren so wie so wilde</l>
+<l>Maer selve wart hi daer so milde</l>
+<l>Met vromer hant met groten slagen</l>
+<l>Datter menich man began vraghen</l>
+<l n="250">Wie hi was of wanne hi quam</l>
+<l>Die des strijds sovele op hem nam</l>
+<l>Die aventure die veel can werken</l>
+<l>Heeft den ridder daer doen merken</l>
+<l>In groter eren tot diere tijt</l>
+<l n="255">Want hi verwan aldaer den strijt</l>
+<l>Dies dancte hem die here groet</l>
+<l>Van faeljuwele die hem boet</l>
+<l>Sinen dienst waer hijt vermochte</l>
+<l>Want hi sijns daer ter noet gedochte</l>
+<l n="260"><milestone unit="fol" n="2vb"/> Hi sprac here ghi sult verstaen</l>
+<l>Dat ic dit gherne heb gedaen</l>
+<l>Dor u ende sal altoes na desen dach</l>
+<l>Altoes u dienen waer dat ic mach</l>
+<l>Dese mare liep achter lande</l>
+<l n="265">Van messelgieren menigherande</l>
+<l>Datten borchgreve van coetchi</l>
+<l>Dese ere gevallen was ende hi</l>
+<l>Die here daer hijt om bestont</l>
+<l>Es thuus comen ende maket cont</l>
+<l n="270">Der scoenre vrouwen alst ghevel</l>
+<l>Ende seide vrouwe een ridder snel</l>
+<l>Die edel borchgreve van coetchi</l>
+<l>Stont ons so trouweliken bi</l>
+<l>In der alremeester noet</l>
+<l n="275">Dat wi daer alle weren bleven doet</l>
+<l>Sekerlijc in mijn verstaen</l>
+<l>En hadde sijn manlijcheit gedaen</l>
+<l>Die wise vrouwe antwerde here</l>
+<l>Dies ghedenct dats wel u ere</l>
+<l n="280">Want daer mocht men an hem sien</l>
+<l>Dat hem leet was u misscien</l>
+<l>Bi waerheiden vrouwe ghi segt waer</l>
+<l>Moetic leven ic dencker naer</l>
+<l>Also dats hem sal sijn te bat</l>
+<l n="285">Mer hiermede hijs niene vergat</l>
+<l>Die borchgreve die daer was sijn vrient</l>
+<l>Hi seide also dat hi dient</l>
+<l>Sowaer hi mach spade ende vroe</l>
+<l>Alle die den here horen toe</l>
+<l n="290">Oude jonge armen ende riken</l>
+<l>Ende doet also willichliken</l>
+<l>Dat sijs hem alle spreken lof</l>
+<l>Die ghenaken des heren hof</l>
+<l>Van faeljuwele ende der vrouwen</l>
+<l n="295">Die hem alle doghet betrouwen</l>
+<l parse="ignore">Want si vindene altoes bereet</l>
+<l parse="ignore">[...............]</l>
+<l parse="ignore"><milestone unit="fol" n="3ra"/> Dat ghi sijt alleen hier comen</l>
+<l>Vrouwe sprac hi neenic ende zuchte</l>
+<l>Van den anxte dien hi huden duchte</l>
+<l>Beefde hi zere ende was in vare</l>
+<l n="5">Dus stoet hi ende sach op hare</l>
+<l>Als ene die sprake heeft verloren</l>
+<l>Cume mochte hi sien of horen</l>
+<l>Dus was hi langhe sonder spreken</l>
+<l>Die vrouwe sach hem dicke ghebreken</l>
+<l n="10">Van varwen die hem overstreec</l>
+<l>Biwilen roet biwilen bleec</l>
+<l>Biwilen heet ende daerna cout</l>
+<l>Doen sprac die vrouwe ridder hout</l>
+<l>U herte segt mi in welker zake</l>
+<l n="15">Dat ghi sijt dus tonghemake</l>
+<l>Ghi staet ende dunct mi al versteeft</l>
+<l>Ende tiersten dat hi die vrouwe heeft</l>
+<l>In deser tale dus vernomen</l>
+<l>Is hi tot hemselven comen</l>
+<l n="20">Ende sprac aldus te halver tale</l>
+<l>Bi uwen orlove ic dwale</l>
+<l>Wel lieve vrouwe ende hoe</l>
+<l>Eest u dus galinghe comen toe</l>
+<l>Het is al seker van den bloede</l>
+<l n="25">Neen vrouwe mi is anders te moede</l>
+<l>Waeraf segt mi hoet u steet</l>
+<l>Bi gode vrouwe inne weet</l>
+<l>Doch let u siecheit of anders yet</l>
+<l>Dat doet vrouwe swaer verdriet</l>
+<l n="30">Soe segt mi dan in wat manieren</l>
+<l>Mijn here is wijs hi sal visieren</l>
+<l>Tot uwer ziecten goeden raet</l>
+<l>Neen vrouwe die meesterie staet</l>
+<l>Aen anderen meesters dan an hem</l>
+<l n="35">Die mi dus neemt hert ende sen</l>
+<l>Hoe sijn meesters dan niet vroet</l>
+<l>Ja si scone vrouwe goet</l>
+<l><milestone unit="fol" n="3rb"/> Van dingen daer si hem op verstaen</l>
+<l>Hoe waerwaert sal dese redene gaen</l>
+<l n="40">Daer ghi af sijt in deser noet</l>
+<l>Nerghen vrouwe dan ter doet</l>
+<l>En trouwen ridder dat is pine</l>
+<l>Wattan vrouwe die medicine</l>
+<l>Is mi tonghereet te verwerven</l>
+<l n="45">Daerbi moet ict besterven</l>
+<l>Hoe is si dan so diere te cope</l>
+<l>Noem se mi bi gode ic hope</l>
+<l>Op enen die se u bewerft</l>
+<l>Eer ghi ons aldus onsterft</l>
+<l n="50">Vrouwe nieman en mach se weten</l>
+<l>Die doet en heb mi eer verbeten</l>
+<l>Daerna sal si dan comen uet</l>
+<l>Hoe comet dat ghi die waerheit huet</l>
+<l>Ende mi int segghen sijt dus [......]</l>
+<l n="55">Ic sie die dinc sowel [......]</l>
+<l>Daer ic bin dus af te rade</l>
+<l>Dat ic hope ghere ghenade</l>
+<l>Hierbi moet ict besterven saen</l>
+<l>Waer willen dese werde gaen</l>
+<l n="60">Segt mi dat vrouwe inne weet</l>
+<l>Hoe bin ic jeghen u gheveet</l>
+<l>Dat ghi der spraken hebt begonnen</l>
+<l>Ende mi der redene niene wilt gonnen</l>
+<l>Bi gode so ne sidi mi niet hout</l>
+<l n="65">Ay vrouwe en is niet mijn scout</l>
+<l>Want ic en bin niet wel al hiere</l>
+<l>Doen gaf die vrouwe antwerde sciere</l>
+<l>Die scone was ende stont hem bi</l>
+<l>So sidi dan een ander ghi</l>
+<l n="70">Dat hoer ic wel an uwe tale</l>
+<l>Ja vercoerne scone smale</l>
+<l>Ghi spreect dat mi int herte d[ro]eft</l>
+<l>Noch wanic her ridder dat ghi [do]eft</l>
+<l>Of dat ghi sijt in madox drome</l>
+<l n="75"><milestone unit="fol" n="3va"/> Daer come af vrouwe datter af come</l>
+<l>Mire herten keiserinne</l>
+<l>Dat bedaghen van uwer minne</l>
+<l>Heeft mi ghebonden in dit seer</l>
+<l>Ende inne ghecrighe nemmermeer</l>
+<l n="80">In der herten mijn ghesonde</l>
+<l>Ghi ne troest mi met uwen soeten monde</l>
+<l>Siet dit is al tvolghen ende al tvlien</l>
+<l>Nu wert die scone vrouwe mettien</l>
+<l>Ontferuet int aenscijn ende dochte</l>
+<l n="85">Hoe si dese antwerden mochte</l>
+<l>Ghetamelijc alst haer wel sat</l>
+<l>Ende si sprac ten ridder na dat</l>
+<l>Ay goede here ic biddu dies</l>
+<l>Verdraghes mi hets mijn verlies</l>
+<l n="90">Dat ghi mi hieraf gewaghet</l>
+<l>Die man ter werelt niene daghet</l>
+<l parse="ignore">[...] wi al sijn dat god us gewrochte</l>
+<l parse="ignore">[D]aer ic mi toe gevoeghen mochte</l>
+<l>Boven minen lieven here</l>
+<l n="95">Her ridder hierbi doeldi sere</l>
+<l>Verlaet[s] ons dies hets wel gedaen</l>
+<l>Neen vrouwe ghi selt verstaen</l>
+<l>Dat mine minne is so reyne</l>
+<l>Dat ic int herten tuwaert meine</l>
+<l n="100">Al wist mijn here hi soude ons laten</l>
+<l>Der minne velschen ende niet haten</l>
+<l>Hoe mochti mi des maken vroet</l>
+<l>Maer scone vrouwe werde goet</l>
+<l>Saen wisti wie noyale minne</l>
+<l n="105">Draghet natuerlijc in den sinne</l>
+<l>Dat hire recht bi wert geovergeert</l>
+<l>Ende van alre archeit weert</l>
+<l>Die vrouwe peinsde het mach sijn waer</l>
+<l>Ende antwerde hem aldus daernaer</l>
+<l n="110">Soe mocht si doen die waer alleen</l>
+<l>Mer ic her ridder die bin gemeen</l>
+<l><milestone unit="fol" n="3vb"/> Ende heb al ghegeven herte ende sin</l>
+<l>Met minen here meer ende min</l>
+<l>En wert ghesceiden groet no clene</l>
+<l n="115">Hoe mocht ichs yet met u ghemene</l>
+<l>Hebben in enigher vrouden</l>
+<l>Dat ic mijns heren hulde mach behouden</l>
+<l>Nu antwert hierop of ghi moghet</l>
+<l>Scone vrouwe gherne alle doghet</l>
+<l n="120">Die is in u met soeter tale</l>
+<l>Ende mijn here gans u wale</l>
+<l>So doe ic oec alsowel</l>
+<l>Daeraf en begheric niet el</l>
+<l>Van u te lone dan dat opsien</l>
+<l n="125">Gondi mi dies ic mach van dien</l>
+<l>Ghenesen van al dat mi verslaet</l>
+<l>Nu proeft wat dat minen here scaet</l>
+<l>Die vrouwe antwerde dus ghereide</l>
+<l>Ghi bidt dat men noyt man ontseide</l>
+<l n="130">Dat opsien is der werelt gemeen</l>
+<l>Neen vrouwe al duncket u cleen</l>
+<l>Het is mi groot wildijs mi gonnen</l>
+<l>Here ghi toent mi die dinc ghewonnen</l>
+<l>Daer ducht ic dat in legt grot verlies</l>
+<l n="135">Hoe lichte ghi mi gheeft den kies</l>
+<l>Ic duchte dat mach wesen swaer</l>
+<l>Vrouwe mijn peinsen is so claer</l>
+<l>Datter na niet en mach comen</l>
+<l>Dan grote bliscap tonser vromen</l>
+<l n="140">Troest mi anders of ghi gebiet</l>
+<l>En soudi mi laten in dit verdriet</l>
+<l>Scone vrouwe goet ende weert</l>
+<l>Om dinc die u niet en deert</l>
+<l>So weerdi buten uwen rade</l>
+<l n="145">Want in u is al ghenade</l>
+<l>Hierbi doet u edelhede</l>
+<l>Mijns heren ere ende die uwe mede</l>
+<l parse="ignore">Sal ic getrouweliken hoeden</l>
+<l parse="ignore">[...............]</l>
+<l n="150"><milestone unit="fol" n="4ra"/> Die vrouwe sprac ten ridder weder</l>
+<l>Ay here laet ons al dit leggen neder</l>
+<l>Ic bidds u dat ghire u toe voeghet</l>
+<l>Want mine conciencie die wroeghet</l>
+<l>Mi van binnen ende ghewaghet</l>
+<l n="155">Dat al jeghen mijn here draghet</l>
+<l>Ay sekerlike vrouwe en doet</l>
+<l>Die trouwe heeft mi daerin behoet</l>
+<l>Dat ons mijn here niene sal veden</l>
+<l>Want in beghere niet van u beden</l>
+<l n="160">Dan reine minne in trouwen fijn</l>
+<l>Ende aen te sien u claer aenschijn</l>
+<l>Deus here wat wi(l)tti nu al talen</l>
+<l>Die int yerste was verre te halen</l>
+<l>Maer als blode man wart coene</l>
+<l n="165">Ghelijct hi wel enen leoene</l>
+<l>Aldus sie ict met u ghescien</l>
+<l>Ghi ne dorst int yerst op mi niet sien</l>
+<l>Daer ghijs mi nu ghenoech onbint</l>
+<l>Omdat ghi weder tale vint</l>
+<l n="170">Aen mi alhier tusschen ons tween</l>
+<l>Spreecti u warde dat ghi engheen</l>
+<l>Aen mi en hebt verdient</l>
+<l>Ic wil u gherne tenen vrient</l>
+<l>Ontfaen als ghi hebt gheseit</l>
+<l n="175">Ende gode doer sijn oetmoedicheit</l>
+<l>Biddic dat hi ons behoede</l>
+<l>Van mijns heren evelmoede</l>
+<l>Want ic en mene anders niet dan goet</l>
+<l>Also hopic here dat ghi en doet</l>
+<l n="180">Daerbi gan ic u alre doghet</l>
+<l>Ghebiet te mi ende verhoghet</l>
+<l>Met goeder herten vrouwe ic sal</l>
+<l>Ende lieve her ridder boven al</l>
+<l>Bevelic u in allen keer</l>
+<l n="185">Mijns heren vrientscap ende sijn eer</l>
+<l><milestone unit="fol" n="4rb"/> Dat sal ic doen vercoerne vart</l>
+<l>Met also minnentliker art</l>
+<l>Dat ghi moet dat wel gonnen</l>
+<l>In desen hebben si begonnen</l>
+<l n="190">Wel soetelic onder hem beiden</l>
+<l>Tot enen vriendeliken sceiden</l>
+<l>Si ondervinghen hem met handen</l>
+<l>Ongheminghet van allen scanden</l>
+<l>In fieren sinne ende seiden</l>
+<l n="195">Het is tijt dat wi nu sceiden</l>
+<l>Hiermede ghinghen si nu wanderen</l>
+<l>Ende elc dancte seer den anderen</l>
+<l>In den ghesceide daer si neghen</l>
+<l>Die nu volmaecter vrouden plegen</l>
+<l n="200">In vrien gedachte dat sijn dese twee</l>
+<l>Mer dusent m werven mee</l>
+<l>Die ridder dan ic can ghesegghen</l>
+<l>Hi en liet hem niet verlegghen</l>
+<l>Tafelronde no saysoene</l>
+<l n="205">Waer so ere was te doene</l>
+<l>Daertoe soe setti al sinen vlijt</l>
+<l>Waest in orloghe ofte in strijt</l>
+<l>Om in was hi daer metten meesten</l>
+<l>Hi conste hem nighen wel in feesten</l>
+<l n="210">Sowaer dat men soude hoveren</l>
+<l>En mocht men sijns niet onberen</l>
+<l>In bliscappen ende in dachcortinghen</l>
+<l>Hi conste balleren dansen singhen</l>
+<l>Ende hem so blidelijc ghebaren</l>
+<l n="215">Dat al dieghene die bi hem waren</l>
+<l>Namen sijn wandelinghe in goede</l>
+<l>Men mochte sijns werden moede</l>
+<l>Sowel consti hem ghelaten</l>
+<l>Ende altoes raemde hi der maten</l>
+<l n="220">Aldus nam hi in eren voert</l>
+<l>Ende ghewan also goede woert</l>
+<l>Dat allet volc sprac verre ende bi</l>
+<l><milestone unit="fol" n="4va"/> Die edel borchgreve van coetchi</l>
+<l>[Ma]ch wel leven in groten roeme</l>
+<l n="225">Want hijs van ridderscapen so [vroeme]</l>
+<l>In desen doen in dit jolijt</l>
+<l>Leefde die borchgreve langen tijt</l>
+<l parse="ignore">Datti ne [...] woude hebben gehat</l>
+<l parse="ignore">Daer [...] leven al den scat</l>
+<l parse="ignore" n="230">[...] die werelt met [...]</l>
+<l parse="ignore">[...] vantet scoenre vrouwen</l>
+<l parse="ignore">Was hi altoes vrolijc [...]</l>
+<l parse="ignore">Ende si van sinen heren die mer [...]</l>
+<l parse="ignore">[...] hem ende conde dan [.......]</l>
+<l parse="ignore" n="235">Wan sire comst altoe [.......]</l>
+<l >Die here sach se dicke saen</l>
+<l>Te samen spreken ende gaen</l>
+<l parse="ignore">[...] sceiden es ontmoeten</l>
+<l parse="ignore">[...] vriendelijc ondergroeten</l>
+<l  parse="ignore"n="240">[......] speelden ende loeghen</l>
+<l parse="ignore">Dat dochte hem algader wel voeghen</l>
+<l>Daer hadden si een gecroent leven</l>
+<l>Want elc hadde anderen gegeven</l>
+<l>Sijn herte in groter melodien</l>
+<l n="245">Wi ghemenlike al te dorperien</l>
+<l>Wat die wisten in hemelicheit</l>
+<l>M[ees]ti heten anderen gheseit</l>
+<l>[W]ant si ne hadden niet versceiden</l>
+<l>In reynre minnen or blyheiden</l>
+<l n="250">Die so salich waer dat hi vonde</l>
+<l>Dusdaen sijn leven ende dan conde</l>
+<l>Minne minlijc hantieren</l>
+<l>Ghelijc deser manieren</l>
+<l>Dat waer bliscap grot si rusten</l>
+<l n="255">Ende hem mocht wel levens lusten</l>
+<l>Maer minne diere nu veel vint</l>
+<l>Ende segghen dattie min is blint</l>
+<l>Daer te volgen engheen have</l>
+<l>Der minre is luttel so gave</l>
+<l parse="ignore" n="260"><milestone unit="fol" n="4vb"/> [...............]</l>
+<l parse="ignore">Of over hoeven op die teen</l>
+<l parse="ignore">Some hebben [...] die gallen</l>
+<l parse="ignore">De[m]e moete emmer vallen</l>
+<l>In dorperheide der minnen ran</l>
+<l n="265">Ende daerbi scinetter dus an</l>
+<l>Man saghe te dagh al openbaer</l>
+<l>Waerbi vien wardes wael ghewaer</l>
+<l>Al is tpaert hemelijc verminct</l>
+<l>In sine ganghe want het hinct</l>
+<l n="270">Dies veel deghen slechten affen</l>
+<l>Mer de ii en hebben niet te scaffen</l>
+<l>Met aldusdanigher voer</l>
+<l>Diet hantieren sijn gheboer</l>
+<l>In vonnisse daer men in sal kennen</l>
+<l n="275">Dat le[ss]e van noyaeler minnen</l>
+<l>Daer dese borchgreve in volstont</l>
+<l>Die werden was dus namecont</l>
+<l>In alre doghet dat sijn ghelike</l>
+<l>Luttel waren in vranckerike</l>
+<l n="280">Die here van coetchi sijn oem</l>
+<l>Nam dicke teser maren goem</l>
+<l>Ende wonderde sere dies</l>
+<l>Dat sijn neve dus in eren wies</l>
+<l>Want hi selve in menich lant</l>
+<l n="285">Rike machtich vroeme becant</l>
+<l>Oec hadde hire dwort wel af gehat</l>
+<l>Nu duchte hi dat hijs niet te bat</l>
+<l>En soude sijn met sijnre vriendinnen</l>
+<l>Dat hi hem dwort dus liet afwinnen</l>
+<l n="290">Nochtan gonst hijs den neve wel</l>
+<l>Dat hi sprac levic noch ic sel</l>
+<l>Minen neve bringhen in mere macht</l>
+<l>Want hi trect wel nader geslacht</l>
+<l>Dus eest hem lief ende leit beide</l>
+<l n="295">In desen den ghesinde seide</l>
+<l parse="ignore">Dat hi ten borchgreve wilde riden</l>
+</text>
+<!--</ENTRY>
+--></TEI.2>

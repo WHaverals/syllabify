@@ -1,0 +1,251 @@
+<?xml version='1.0'?><!DOCTYPE TEI.2 PUBLIC '-//TEI P4//DTD Main Document Type//EN' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd' [<!ENTITY % TEI.prose 'INCLUDE'><!ENTITY % TEI.linking 'INCLUDE'><!ENTITY % TEI.figures 'INCLUDE'><!ENTITY % TEI.analysis 'INCLUDE'><!ENTITY % TEI.corpus 'INCLUDE'><!ENTITY % TEI.XML 'INCLUDE'><!NOTATION TEI-XML PUBLIC 'TEI P4' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd'><!-- internal INL dtd --><!ELEMENT b (#PCDATA)><!ELEMENT l (#PCDATA | b)*><!-- end of internal INL dtd -->]><TEI.2><!--<ENTRY id="i996"><teiHeader><fileDesc><titleStmt><title>Van der wive wonderlijcheit (lange versie)</title>
+</titleStmt>
+<interpGrp type="pubYear_from"><interp value="1350"/></interpGrp>
+<interpGrp type="witnessYear_from"><interp value="1350"/></interpGrp>
+<interpGrp type="pubYear_to"><interp value="1400"/></interpGrp>
+<interpGrp type="witnessYear_to"><interp value="1400"/></interpGrp>
+<TITEL>Van der wive wonderlijcheit (lange versie)</TITEL>
+<author>Onbekend</author>
+<AARD>Rijm</AARD>
+<BRON nr="D19">Brussel, Koninklijke Bibliotheek, II 1171</BRON>
+<DATUM>1350-1400</DATUM>
+<OMVANG>226 verzen</OMVANG>
+<BRON.OPM>Een hs. van 332 folia; per bladzijde 2 kolommen. De tekst bevindt zich op fol. 327r-328v. Tot de andere teksten in dit hs. behoren o.a. de Eerste Partie van de Spiegel historiael van Jacob van Maerlant (fol. 284v-327) en Van den VII Vroeden van binnen Rome (fol. 256-284).</BRON.OPM>
+<EDITIE>K. Stallaert: 'Van der wive wonderlijcheit werdt u hier een deel geseit. Een gedeeltelijk onuitgegeven hekeldicht van Jan van Boendale'. In: Dietsche Warande, N.R., 2 (1889), 159-171 (163-171).</EDITIE>
+<STATUS>Kritisch</STATUS>
+<BRONMNW>1392 </BRONMNW>
+<BRONNEN>Van de tekst bestaan een lange en een (ver)korte versie. De lange versie is overgeleverd in: - <x nr=D19>Brussel, Koninklijke Bibliotheek, II 1171</x>
+ De (ver)korte versie is terug te vinden in: - <x nr=D18>Oxford, Bodleian Library, Marshall 29</x>
+</BRONNEN>
+</fileDesc>
+</teiHeader>
+--><text>
+<l><edition n="163"/>MENEGE selsene maniere</l>
+<l>Hebben vogle ende diere,</l>
+<l>Diere si plegen in hare leven,</l>
+<l>Die hem nature heeft gegheven.</l>
+<l n="5">Maer dat selsenste dier sekerlike,</l>
+<l>Dat ic weet op ertrike,</l>
+<l>Dat dunct mi dwijf wesen;</l>
+<l>Want in hebbe niet gelesen</l>
+<l>Dat enech dier op der erden</l>
+<l n="10">Noyt anders iet begherden</l>
+<l>Van gedanen of van figuren</l>
+<l>Dan si hadden van naturen;</l>
+<l>Want elc dier ende vogel leeft,</l>
+<l>Na dat hem nature geeft,</l>
+<l n="15">Wiseliker, des sijt vroet,</l>
+<l>Dan die mensche selve doet.</l>
+<l>Dit seggic al bi den wiven,</l>
+<l>Daer men wonder af mach scriven;</l>
+<l>Want die wive sijn soe sot!</l>
+<l n="20">Vorme ende gedane die hare Got,</l>
+<l>Van naturen heeft gegeven,</l>
+<l>Versmaden si in dit leven,</l>
+<l><edition n="164"/>En nemen hem boven naturen ane</l>
+<l>Ander vorme ende andre gedane.</l>
+<l n="25">Want nature hier, na hare recht,</l>
+<l>Gheeft hem dat hovet slecht.</l>
+<l>Daer maken si ane groete horne;</l>
+<l><edition n="165"/>Ic wane sijt doene te Gods toerne</l>
+<l>En comen ter kerken en ten feesten</l>
+<l n="30">Ghehorent gelijc stommen beesten,</l>
+<l>Dies hem nature niet en an,</l>
+<l>Worden si geboren nochtan</l>
+<l>Met hornen, si soudens hem scamen</l>
+<l>Ende deckense waer si quamen;</l>
+<l n="35">Maer omme dat hem nature verbiedt,</l>
+<l>Soe eest dat hem meest geniedt.</l>
+<l>Daer men dwijf meest af weert</l>
+<l>Dats ding die sie meest gheert;</l>
+<l>Want hem en genuecht niet</l>
+<l n="40">Die varwe die hem beriet</l>
+<l>Die nature, van Gods halven,</l>
+<l>Maer si smeren en si zalven</l>
+<l>Hare ansichte opdat si</l>
+<l>Te scoenre scinen daerbi</l>
+<l n="45">Ende te meer sijn besien,</l>
+<l>Beide van desen ende van dien;</l>
+<l>Maer heeft een meester vernist</l>
+<l>Een beelde met siere list</l>
+<l>Dat scone blict alse gout,</l>
+<l n="50">Nochtan eest binnen hout.</l>
+<l>Alsoe gelijc es .i. wijf;</l>
+<l>Al heeft si vernist hare lijf,</l>
+<l>Dat scone blict ende scijnt,</l>
+<l>Dats al omme niet gepijnt;</l>
+<l n="55">Dat daer was moet daer bliven,</l>
+<l><edition n="166"/>Dat en sal si niet verdriven;</l>
+<l>Nochtan, eest scande van den meesten</l>
+<l>Overal tallen feesten</l>
+<l>Gheleende cleder te dragen ane,</l>
+<l n="60">En es dan geleende ghedane</l>
+<l>Alsoe grote scande niet?</l>
+<l>Jaet, diet te rechte besiet,</l>
+<l>Noch meer es selsene hare zede,</l>
+<l>Want in wonderlichede</l>
+<l n="65">Setten si hare begherten;</l>
+<l>Si sleipen na hem lange sterten</l>
+<l>Gelijc serpente, .iij. ellen lanc,</l>
+<l>Die hem navolget haren ganc,</l>
+<l>Ende hebben daer genuechte in.</l>
+<l n="70">Ende setten emmer haren sin</l>
+<l>Hare gedachte ende haren moet,</l>
+<l>Jegen nature ende jegen spoet;</l>
+<l>Si hebben liever beesten gedane</l>
+<l>Dan menschelike te dragen ane.</l>
+<l n="75">Die hoedslope, die si oec dragen,</l>
+<l>Moghen niemen wel behagen,</l>
+<l>Want si sijn soe uutgesneden</l>
+<l>Dat men se sien mach tote beneden,</l>
+<l>Vorder verre dant es bequamen;</l>
+<l n="80">Waren si vroet si soudens hem scamen.</l>
+<l>En es dit niet wonder groet</l>
+<l>Horne te hebbene ane dat hoet,</l>
+<l><edition n="167"/>Ende dansichte dragen gesmeert,</l>
+<l>Ende nasleipen enen steert</l>
+<l n="85">Ende soe uutgesneden dat hoedslop</l>
+<l>Dat men daermede houd scop!</l>
+<l>Jaet, ende daertoe sonde en scande</l>
+<l>Vore als dies men pleecht in den lande.</l>
+<l>Wat helpt dat ic vele seide?</l>
+<l n="90">Van der wive wonderlijcheide</l>
+<l>En mocht ic niet volscriven;</l>
+<l>Si ne weten wat voeren driven</l>
+<l>Met hem selven, dat es waer,</l>
+<l>Waer si comen hier ende daer.</l>
+<l n="95">Hets oec lettel enech man</l>
+<l>Die haren moet gehouden can;</l>
+<l>Want alse den wiven niet genoeght,</l>
+<l>Daer se God in heeft ghevoeght,</l>
+<l>Ende andre vorme maken,</l>
+<l n="100">Hoe sal .i. man dan geraken?</l>
+<l>Dat God niet en can gedoen,</l>
+<l>Proeft eest waer mijn sermoen.</l>
+<l>Dat wareit es elc wel versta.</l>
+<l>Eens mans neen dat [dats] hare ja,</l>
+<l n="105">Ende eens mans ja, dats hare neen.</l>
+<l>Aldus vindt men se al in een.</l>
+<l>Alse die man wijn wilt drinken,</l>
+<l>Soe doet si hare bier scinken,</l>
+<l>Ende wilt hi bier, soe wilt si wijn;</l>
+<l n="110"><pb n="168"/> Dus moet al contrarie sijn</l>
+<l>Hare doen en hare maniere.</l>
+<l>Sal men spise doen te viere,</l>
+<l>Wilt hi gebraden, si wilt gesoden,</l>
+<l>Ende dwingt daertoe die boden</l>
+<l n="115">Dat ment al, wien lief, wien leet,</l>
+<l>Doen moet na hare beheet.</l>
+<l>Wilt hi rentvleesch, si wilt swinen.</l>
+<l>Deus God! wat groter pinen</l>
+<l>Eest te sine met desen wiven,</l>
+<l n="120">Die dusdane voere driven!</l>
+<l>Eer si oec volseggen die dinghe,</l>
+<l>Willen si dat ment volbringe</l>
+<l>Hare peinsen ende hare begeren,</l>
+<l>Wient vromen mach ochte deren,</l>
+<l n="125">Op dat men haren wille doet.</l>
+<l>Sine peinsen niet in haren moet</l>
+<l>Watter na mach comen dan;</l>
+<l>Dat heeft ontgoet menegen man.</l>
+<l>Scone cleder ende costelike,</l>
+<l n="130">Diere hoedghewant ende rike</l>
+<l>Begheren si, dat es waer;</l>
+<l>Al soudent man ende kinder .i. jaer</l>
+<l>Bevasten ende dorstech bliven,</l>
+<l>Si zelen hare genuechte driven.</l>
+<l n="135">Wert .i. man oec soe beraden</l>
+<l>Dat hi sinen wive nine wilt gestaden</l>
+<l><edition n="169"/>Dat si zelken cost doe,</l>
+<l>Soe gaet si stelen, spade ende vroe,</l>
+<l>Coren, gelt ende ander goet,</l>
+<l n="140">Ende coept dan, na haren moet,</l>
+<l>Wat si begert, sonder waen,</l>
+<l>Ende doet den man dan verstaen</l>
+<l>Die .iij. deel min dant heeft gecost;</l>
+<l>Goet quisten es vrouwen lost.</l>
+<l n="145">Alse mijn vrouwe dan comt ten feesten,</l>
+<l>Ghehornt ghelijc stommen beesten,</l>
+<l>Met gemaecter gedane,</l>
+<l>Ende hare paruren heeft ane,</l>
+<l>Soe waent si dat op hare allene</l>
+<l n="150">Al tvolc siet gemene,</l>
+<l>Ende wilt seker sijn des</l>
+<l>Dat si verre die scoenste es</l>
+<l>Van den spele, als ende als,</l>
+<l>Ende set soe moylike haren hals,</l>
+<l n="155">Ende maect soe sonderlinghe</l>
+<l>Beide gelaet ende wandelinge,</l>
+<l>In caent u geseggen niet;</l>
+<l>Ende soe wat manne op hare siet,</l>
+<l>Eest van dien eest van desen,</l>
+<l n="160">Daer waent si gemint af wesen;</l>
+<l>Ende waert dat si quamen dan</l>
+<l>Daer si en sagen wijf noch man,</l>
+<l>Eer si hem lieten ombesien</l>
+<l>Si souden .i. spiegel eer voort tien</l>
+<l n="165"><pb n="170"/> Ende hem zelven besien allene.</l>
+<l>Dese plage es nu gemene.</l>
+<l>Aldus verkeert sijn si van doene:</l>
+<l>Selc stont dragen si caproene</l>
+<l>Lanc tote haren rieme;</l>
+<l n="170">Dies sijn si sat snieme,</l>
+<l>Ende gaen dragen cokelbuze;</l>
+<l>Dies niet en hadde ware confuze;</l>
+<l>Oec en eest hem niet gnoech,</l>
+<l>Al sijn hare rocke lanc gnoech,</l>
+<l n="175">Si moeten noch langer wesen,</l>
+<l>Dat si se op moten lesen</l>
+<l>Al omme ende omme wel .i. voet.</l>
+<l>Dits niet el dan quiste goet.</l>
+<l>Ding, die ic helen woude,</l>
+<l n="180">Ic hem harde node soude</l>
+<l>Ontecken, in enegher uren,</l>
+<l>Want dwijf heeft van naturen</l>
+<l>Dat si harde node heelt</l>
+<l>Dat men hare te heelne beveelt;</l>
+<l n="185">Want meest staet hare coringhe</l>
+<l>Te doene alle die dinghe</l>
+<l>Daer men se af castijt meest.</l>
+<l>Alse men in boeken leest.</l>
+<l>Dwijf mach onlanghe swighen,</l>
+<l n="190">Maer scelden ende crighen</l>
+<l>Daertoe staet altoes hare moet.</l>
+<l>Hets lettel enech man soe vroet,</l>
+<l><edition n="171"/>Dat hi sijn wijf, alse hi wille,</l>
+<l>Can gedoen swigen stille;</l>
+<l n="195">Maer spreken doet hi se gereet</l>
+<l>Vele meer dan si weet.</l>
+<l>Beheindech, subtijl, sonderlinge,</l>
+<l>Soe es dwijf in alle dinghe</l>
+<l>Daer bedrieghenisse toe hoert;</l>
+<l n="200">Want si connen gelaet ende woert</l>
+<l>Bat veinsen dan yemen el;</l>
+<l>Dat hebben si getoent wel</l>
+<l>Hier te voren an menegen man</l>
+<l>Die die wijste waren nochtan</l>
+<l n="205">Die men in die werelt wiste;</l>
+<l>Die bedroeghen si met liste:</l>
+<l>Beide Adame ende Samsoene,</l>
+<l>Davide ende Salomoene,</l>
+<l>Daertoe meneghen wisen man,</l>
+<l n="210">Die ic genomen niet en can.</l>
+<l>Wat holpt dat ic vele seide</l>
+<l>Van der wive wonderlecheide</l>
+<l>En mochtic u in .viij. daghen</l>
+<l>Te vollen niet ghewaghen,</l>
+<l n="215">Want en es phylosophe no prophete,</l>
+<l>Ander meester noch poete,</l>
+<l>Si ne dichten allen en scriven</l>
+<l>Van der wonderlicheit der wiven.</l>
+<l>Daeromme eest sotheit ende anders niet</l>
+<l n="220">Dat ick er af dichte iet.</l>
+<l>Niemen die dit sal lesen</l>
+<l>En begripe mi in desen</l>
+<l>Dat ic segge van goeden vrouwen,</l>
+<l>Daer men alle doget ane mach scouwen</l>
+<l n="225">Want hem en mochten al die leven</l>
+<l>Prijs te vollen niet ghegheven.</l>
+</text>
+<!--</ENTRY>
+--></TEI.2>

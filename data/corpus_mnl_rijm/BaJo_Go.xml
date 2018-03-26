@@ -1,0 +1,117 @@
+<?xml version='1.0'?><!DOCTYPE TEI.2 PUBLIC '-//TEI P4//DTD Main Document Type//EN' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd' [<!ENTITY % TEI.prose 'INCLUDE'><!ENTITY % TEI.linking 'INCLUDE'><!ENTITY % TEI.figures 'INCLUDE'><!ENTITY % TEI.analysis 'INCLUDE'><!ENTITY % TEI.corpus 'INCLUDE'><!ENTITY % TEI.XML 'INCLUDE'><!NOTATION TEI-XML PUBLIC 'TEI P4' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd'><!-- internal INL dtd --><!ELEMENT b (#PCDATA)><!ELEMENT l (#PCDATA | b)*><!-- end of internal INL dtd -->]><TEI.2><!--<ENTRY id="i41"><teiHeader><fileDesc><titleStmt><title>Barlaam en Josaphat</title>
+</titleStmt>
+<interpGrp type="pubYear_from"><interp value="1375"/></interpGrp>
+<interpGrp type="witnessYear_from"><interp value="1375"/></interpGrp>
+<interpGrp type="pubYear_to"><interp value="1400"/></interpGrp>
+<interpGrp type="witnessYear_to"><interp value="1400"/></interpGrp>
+<TITEL>Barlaam en Josaphat</TITEL>
+<author>Onbekend</author>
+<AARD>Rijm</AARD>
+<BRON nr="K11">G&ouml;ttingen, Nieders&auml;chsische Staats- und Universit&auml;tsbibliothek, 4&supo;Cod. ms. theol. 98, f.6 (fragm.)</BRON>
+<DATUM>1375-1400</DATUM>
+<OMVANG>89 verzen</OMVANG>
+<BRON.OPM>Bovenste gedeelte van een blad; aan de zijkanten zodanig besnoeid, dat de beginletters van kolom ra enigszins geleden hebben. Oorspronkelijk waarschijnlijk twee kolommen. Het oospronkelijke aantal regels per kolom is onbekend; het zijn er nu nog 22. Het fragment maakt deel uit van een verzameling van acht bladen.</BRON.OPM>
+<EDITIE>K. Heeroma: 'Nieuwe Middelnederlandse fragmenten I. Barlaam en Josaphat'. In: TNTL 76 (1958-1959), 95-102 (98-101).</EDITIE>
+<STATUS>Kritisch</STATUS>
+<EDITIE.OPM>De editie Heeroma geeft een Latijnse paralleltekst.</EDITIE.OPM>
+<BRONNEN>- Gent, Bibliotheek der Rijksuniversiteit, 1592 (fragm.) - <x nr=K11>G&ouml;ttingen, Nieders&auml;chsische Staats- und Universit&auml;tsbibliothek, 4&supo;Cod. ms. theol. 98, f.6 (fragm.)</x>
+</BRONNEN>
+</fileDesc>
+</teiHeader>
+--><text>
+<l parse="ignore"><milestone unit="fol" n="ra"/> Ende peinsde wel alsoe hi conste</l>
+<l parse="ignore">Dat hi emmer steruen moeste</l>
+<l>Dus was hi in wannopen groet</l>
+<l>Van sinen liue ende vander doot</l>
+<l n="5">Binnen der nacht screef hi ghenent</l>
+<l>Sine scult ende siin testament</l>
+<l>Alse een man die steruen waende</l>
+<l>Mids der businen die hem vermaende</l>
+<l>Maer tilike es hi vp ghestaen.</l>
+<l n="10">Ende quade cleeder an ghedaen.</l>
+<l>Wijf ende kinder dat hi nam.</l>
+<l>Tsconincs paleyse dat hi quam.</l>
+<l><edition n="99"/>Beuaen met rouwen ende met seere</l>
+<l>Hi riep ghenade coninc heere</l>
+<l n="15">Ic ben doot ghine helpt mie</l>
+<l>Want ic vwe bosine ontsie</l>
+<l>Hare luut es teekiin vander doot</l>
+<l>Nu helpt mi broeder vut deser noot</l>
+<l n="20">DIe coninc was van goeden seden</l>
+<l>Ede vul van oetmoedicheden</l>
+<l>Ende sach sinen broeder seere</l>
+<l>Beuaen met rouwen ende met seere</l>
+<l parse="ignore">[...............]</l>
+<l parse="ignore"><milestone unit="fol" n="rb"/> Ende mine gramscep laten uaren</l>
+<l>Maer alsoe du mine bosine</l>
+<l>Seere ontsaghes entie pine</l>
+<l>Soe moetstu oec vele meere</l>
+<l n="5">Ontsien den coninc enten heere</l>
+<l>Die di heuet in sine macht</l>
+<l>Want sonder hem heuestu ghene cracht</l>
+<l>Ende oec doen eere sinen boden mede</l>
+<l>Waer datsi comen in elke stede</l>
+<l n="10">Dus leerde die coninc openbare</l>
+<l>Sinen broeder met groeten vare</l>
+<l>Hoe hi soude die bode ons heeren</l>
+<l>Met oetmoedicheden eeren</l>
+<l>Dus liet hine thuus waert gaen</l>
+<l n="15">Maer noch soe wildi doen verstaen</l>
+<l>Sinen ridders hare dulhede</l>
+<l>Dat sine begripen in elke stede</l>
+<l>Daer hi den aermen dede eere</l>
+<l>Dit deerde den coninc seere</l>
+<l n="20">DAer omme dedi alsoe saen</l>
+<l>Viere somme vate wel ghedaen</l>
+<l parse="ignore">Die twee met goude beslaen buten</l>
+<l parse="ignore"><edition n="100"/>[...............]</l>
+<l><milestone unit="fol" n="va"/> Jn dese twee mach men sconincs crone</l>
+<l>Legghen seidsi: si siin soe scone</l>
+<l>Dandre twee vate metten pecke</l>
+<l>Bestreken waren: ende metten strecke</l>
+<l n="5">Waren ghebonden: ne achten si twint</l>
+<l>Het docht hen stubbe ende wint</l>
+<l>Die coninc die antworde doe</l>
+<l>Ende sprac den ridders toe</l>
+<l>Ghi heeren seiti dit wistic wel.</l>
+<l n="10">Dat ghi dit segghen soudt ende niet el.</l>
+<l>Want metten oeghen siedi van buten.</l>
+<l>Vtersche dinghe die niet besluten</l>
+<l>Ende dit bouft niet dat men doet</l>
+<l>Want en es altoos niet goet</l>
+<l n="15">Men moet metten oeghen van binnen</l>
+<l>Besien om vrome ende vandense ghewinnen</l>
+<l>Om vrome ende eere ende ghenen lachter</l>
+<l>Die anders doet het settene achter</l>
+<l>Want doeghen van binnen wel dic bedrieghen</l>
+<l n="20">Den mensche. ende oec dicwile lieghen</l>
+<l>Die ghelike bi caritaten</l>
+<l>Salic v toeghen bi desen vaten</l>
+<l parse="ignore">[...............]</l>
+<l parse="ignore"><edition n="101"/></l>
+<l parse="ignore"><milestone unit="fol" n="vb"/> Binnen stinken si dats openbaere</l>
+<l>Daer na so dedi bringhen sciere</l>
+<l>Dandre twee vate die scenen ondiere</l>
+<l>Ende metten peke waren bestreken.</l>
+<l n="5">Ende dedese beede vp breken.</l>
+<l>Doe si beede waren ontploken.</l>
+<l>Quamen daer vute soe soete roken.</l>
+<l>Dat si alle ghemeenlike</l>
+<l>Die roke gheerden arme ende rike</l>
+<l n="10">Si vonder in precieuse steene</l>
+<l>Van groeter cracht groet ende cleene</l>
+<l>Dat si verlichten alte male</l>
+<l>Die hoeghe liede binder sale</l>
+<l>Die coninc sprac ghi heeren siet</l>
+<l n="15">Weeti wat dese dinc bediet</l>
+<l>Oetmoedicheit dat seggic v</l>
+<l>Alse ghi scouwen moghet hier nv</l>
+<l>Bi desen vaten die buten siin</l>
+<l>Leelic seere. ende binnen venijn</l>
+<l n="20">Also es al die ghelike</l>
+<l>Biden tween armen sekerlike</l>
+<l parse="ignore">Daer ic ghistren omme beette vp deerde</l>
+<l parse="ignore">[...............]</l>
+</text>
+<!--</ENTRY>
+--></TEI.2>

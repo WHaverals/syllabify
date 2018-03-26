@@ -1,0 +1,97 @@
+<?xml version='1.0'?><!DOCTYPE TEI.2 PUBLIC '-//TEI P4//DTD Main Document Type//EN' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd' [<!ENTITY % TEI.prose 'INCLUDE'><!ENTITY % TEI.linking 'INCLUDE'><!ENTITY % TEI.figures 'INCLUDE'><!ENTITY % TEI.analysis 'INCLUDE'><!ENTITY % TEI.corpus 'INCLUDE'><!ENTITY % TEI.XML 'INCLUDE'><!NOTATION TEI-XML PUBLIC 'TEI P4' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd'><!-- internal INL dtd --><!ELEMENT b (#PCDATA)><!ELEMENT l (#PCDATA | b)*><!-- end of internal INL dtd -->]><TEI.2><!--<ENTRY id="i729"><teiHeader><fileDesc><titleStmt><title>Roelantslied</title>
+</titleStmt>
+<interpGrp type="pubYear_from"><interp value="1350"/></interpGrp>
+<interpGrp type="witnessYear_from"><interp value="1350"/></interpGrp>
+<interpGrp type="pubYear_to"><interp value="1400"/></interpGrp>
+<interpGrp type="witnessYear_to"><interp value="1400"/></interpGrp>
+<TITEL>Roelantslied</TITEL>
+<author>Onbekend</author>
+<AARD>Rijm</AARD>
+<BRON nr="K112">Rotterdam, Gemeentebibliotheek, 96 B 6: 1 (fragm.)</BRON>
+<DATUM>1350-1400</DATUM>
+<OMVANG>68 verzen</OMVANG>
+<BRON.OPM>De bovenste en onderste strook uit hetzelfde blad, waarvan de binnenmarge waarschijnlijk iets besnoeid is. Per bladzijde 2 kolommen en per kolom oorspronkelijk ca. 42 regels.</BRON.OPM>
+<EDITIE>H. van Dijk: Het Roelantslied. Studie over de Middelnederlandse vertaling van het Chanson de Roland, gevolgd door een diplomatische uitgave van de overgeleverde teksten. Utrecht, 1981. Diss. Utrecht, 378-380, 384-386, 390-394.</EDITIE>
+<STATUS>Diplomatisch</STATUS>
+<EDITIE.OPM>Van Dijk geeft de tekst van alle bekende Middelnederlandse fragmenten van het Roelantslied &eacute;n de tekst van het volksboek (de Droefliken strijt van Roncevale; M&uuml;nchen, Universit&auml;tsbibliothek, postincunabel 4&supo; p germ. 165) in een zogenaamde synoptische editie. Behalve een versnummering per tekst heeft hij ook een doorlopende versnummering aangebracht; bovendien geeft hij de nummers van de corresponderende verzen uit het Chanson de Roland (editie Segre uit 1971). Hier werd alleen de nummering per tekst overgenomen; de teksten van het volksboek werden hier niet uit Van Dijks editie overgenomen (men zie daarvoor de Droefliken strijt van Roncevale).</EDITIE.OPM>
+<BRONNEN>Van het Roelantslied zijn vijf fragmenten bekend, die tot vijf verschillende handschriften hebben behoord: - <x nr=K108>'s-Gravenhage, Koninklijke Bibliotheek, 74 C 8 (fragm.)</x>
+ - <x nr=K109>Brussel, Koninklijke Bibliotheek, 21143 (fragm.)</x>
+ - <x nr=K110>Lille, Biblioth&egrave;que Municipale, z.s. (fragm.) [zoek]</x>
+ - <x nr=K111>Amsterdam, Universiteitsbibliotheek, I A 24&supl; (fragm.)</x>
+ - <x nr=K112>Rotterdam, Gemeentebibliotheek, 96 B 6: 1 (fragm.)</x>
+ De editie van het fragment te Lille, dat reeds zoek was in 1855, gaat terug op een afschrift dat in 1835 werd gemaakt door Serrure.</BRONNEN>
+<HSDRUK>Droefliken strijt van Roncevale</HSDRUK>
+</fileDesc>
+</teiHeader>
+--><text>
+<l n="1"><pb n="378"/><milestone unit="fol" n="1ra"/> Die edele graue roelant</l>
+<l>Volgede hem te hant</l>
+<l>Ende nam te roelande ware</l>
+<l>Inder sarasinen scare</l>
+<l n="5"><pb n="380"/> Als oliuier vernam</l>
+<l>Dat roelant bi hem quam</l>
+<l>Gaf hi roelant eenen slach</l>
+<l>Want hijs niet en sach</l>
+<l parse="ignore">Doen sprac [......]elant</l>
+<l n="10"><pb n="384"/> Hi weende met herte se[er]e</l>
+<l>Ende bat onsen heere</l>
+<l>Dat hi der sielen plege</l>
+<l>Ende te hemelrijc gewege</l>
+<l>Rroelant viel neder in ommacht</l>
+<l n="15">Ende lach hem selnen ombedacht</l>
+<l parse="ignore">Ende trac op sine stegebande</l>
+<l parse="ignore"><milestone unit="fol" n="1rb"/> Dat hi niet en viel te hant</l>
+<l><edition n="386"/>Alse hi bequam hadde hijs toren</l>
+<l>Dat hi sinen geselle hadt verloren</l>
+<l n="20">Sonder gautier ende tulpijn van riemen</l>
+<l>Doen sprac gautier tsniemen</l>
+<l>Al d[aer] hi geuloen quam</l>
+<l>Ende hi roelant vernam</l>
+<l>H[i] sprac ten graue roelant</l>
+<l n="25">D[ie] doot es mi becant</l>
+<l parse="ignore">[...............uen nv]</l>
+<l parse="ignore"><edition n="390"/>[Die dese ..............]</l>
+<l>Hi souder node sonder w[aen]</l>
+<l>Logen toe hebben gedae[n]</l>
+<l n="30">Waer iemen diere wederseide</l>
+<l>Hi dader mi aen leide</l>
+<l>Noch doe vacht roelant</l>
+<l>Met wel willeger hant</l>
+<l><milestone unit="fol" n="1va"/> Nochtan was hi vermoyt seere</l>
+<l n="35">Dat hi qualijc mochte meere</l>
+<l><b>D</b>Oen setti den horen te monde</l>
+<l>Ende blies een lange stonde</l>
+<l>Dat hem dede onsochte</l>
+<l>Want hem den hemel scoren dochte</l>
+<l n="40">Karel hoert daer hi was</l>
+<l>Ende wert geware das</l>
+<l parse="ignore">Dat roelant nemmeer en mochte</l>
+<l parse="ignore">[...n alsoe hem dochte]</l>
+<l parse="ignore">[...............fant]</l>
+<l n="45"><pb n="392"/> [Die busscop tulpijn hi riep]</l>
+<l>Daer hi te voete vechten liep</l>
+<l>Keert herwaert edel genoot</l>
+<l>Ic wille bi v bliuen doot</l>
+<l>Ic wille v deilen euel ende goet</l>
+<l n="50">Dat hebbic nv in minen moet</l>
+<l>Laet ons diere vercopen ouer al</l>
+<l><milestone unit="fol" n="1vb"/> Karel comt die ons wreken sal</l>
+<l><b>D</b>Oen socht roelant ouer al</l>
+<l>Beide op berch ende in dal</l>
+<l n="55">Hi vant uorne ende noyone</l>
+<l>Auctor ende samsoene</l>
+<l><edition n="394"/>Ende ingeleer van gasscoen</l>
+<l>Berengier met siere commoendien</l>
+<l>Roelant droechse met pinen</l>
+<l n="60">Alle voer tulpine</l>
+<l parse="ignore">[...............] groot</l>
+<l parse="ignore">[Ende van vele land gemaect here]</l>
+<l>Gi wart van coenen daden</l>
+<l>Ende const wel v vriende beraden</l>
+<l n="65">Roelant dreef groot mesbaer</l>
+<l>Om sinen gesselle aldaer</l>
+<l>Mi waer leet soudic leuen</l>
+<l>Na dat ghi doot sijt bleuen</l>
+</text>
+<!--</ENTRY>
+--></TEI.2>

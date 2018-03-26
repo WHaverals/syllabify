@@ -1,0 +1,54 @@
+<?xml version='1.0'?><!DOCTYPE TEI.2 PUBLIC '-//TEI P4//DTD Main Document Type//EN' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd' [<!ENTITY % TEI.prose 'INCLUDE'><!ENTITY % TEI.linking 'INCLUDE'><!ENTITY % TEI.figures 'INCLUDE'><!ENTITY % TEI.analysis 'INCLUDE'><!ENTITY % TEI.corpus 'INCLUDE'><!ENTITY % TEI.XML 'INCLUDE'><!NOTATION TEI-XML PUBLIC 'TEI P4' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd'><!-- internal INL dtd --><!ELEMENT b (#PCDATA)><!ELEMENT l (#PCDATA | b)*><!-- end of internal INL dtd -->]><TEI.2><!--<ENTRY id="i1"><teiHeader><fileDesc><titleStmt><title>Spel van Abraham en Sara</title>
+</titleStmt>
+<interpGrp type="pubYear_from"><interp value="1440"/></interpGrp>
+<interpGrp type="witnessYear_from"><interp value="1440"/></interpGrp>
+<interpGrp type="pubYear_to"><interp value="1460"/></interpGrp>
+<interpGrp type="witnessYear_to"><interp value="1460"/></interpGrp>
+<TITEL>Spel van Abraham en Sara</TITEL>
+<author>Onbekend</author>
+<AARD>Rijm</AARD>
+<BRON nr="K1">Zutphen, Gemeentearchief, Verz. handschriftfragmenten 3-8 (fragm.)</BRON>
+<DATUM>1440-1460</DATUM>
+<OMVANG>20 verzen</OMVANG>
+<BRON.OPM>Een papieren fragment (10 x 18,5 cm.), waarvan een zijde geheel blank gelaten werd, op enkele onleesbare woorden na.</BRON.OPM>
+<EDITIE>J. Gimberg: 'Fragment van een geestelijk drama'. In: Bijdragen en Mededeelingen Gelre 6 (1903), 279-281 (280-281).</EDITIE>
+<STATUS>Kritisch</STATUS>
+<EDITIE.OPM>De clauskoppen (sprekersaanduidingen, regieaanwijzingen e.d.) worden cursief weergegeven.</EDITIE.OPM>
+<BRONNEN>Zutphen, Gemeentearchief, Verz. handschriftfragmenten 3-8 (fragm.)</BRONNEN>
+</fileDesc>
+</teiHeader>
+--><text>
+<sp><speaker><pb n="280"/><milestone unit="fol" n="1v"/> <i>Sara tot Abraham:</i> </speaker>
+<l>Gherne here mijn,</l>
+<l>Het sal op een korte riede sijn.</l>
+<l>Haestelick ende sonder verdriet,</l>
+<l>Sal ic laten doen, dat gij gebiet.</l>
+</sp>
+<sp><speaker><pb n="281"/> <i>Sara tot Agar, oer macht:</i> </speaker>
+<l>Agar, ic heb vernamen,</l>
+<l>Dat mijnen heren synt gaste avercomen.</l>
+<l>Haestu in Gads vrede</l>
+<l>Ende maket dat beslach van tarwen riede.</l>
+</sp>
+<sp><speaker><i>Sara tot Abraham:</i> </speaker>
+<l>Here mijn, dat broet is hier,</l>
+<l>Het heeft gehadt gueden tier,</l>
+<l>Het is abel ende bequaem,</l>
+<l>Ic hape, het sal hem sijn aengenaem.</l>
+</sp>
+<stage><i>Dit hoert Sara van veerst staende achter die doer ende sie lachte daerome, ende secht Sara:</i> </stage>
+<sp><l>Nadien dat ic bin worden oelt</l>
+<l>Ende mijn bloet is al vercolt,</l>
+<l>Ende ic weet ende byns gewys,</l>
+<l>Dat mijn here oeck herde oelt is,</l>
+<l>Zal ic in mijnre oeltheid werden verhoechet,</l>
+<l>Als doe ic was in mijnre joecht.</l>
+</sp>
+<sp><speaker><i>Sara hoert dit ende secht:</i> </speaker>
+<l>Here, wat ister geschiet,</l>
+<l>Ick en lachte niet.</l>
+<l>[...]</l>
+</sp>
+</text>
+<!--</ENTRY>
+--></TEI.2>

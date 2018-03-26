@@ -1,0 +1,221 @@
+<?xml version='1.0'?><!DOCTYPE TEI.2 PUBLIC '-//TEI P4//DTD Main Document Type//EN' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd' [<!ENTITY % TEI.prose 'INCLUDE'><!ENTITY % TEI.linking 'INCLUDE'><!ENTITY % TEI.figures 'INCLUDE'><!ENTITY % TEI.analysis 'INCLUDE'><!ENTITY % TEI.corpus 'INCLUDE'><!ENTITY % TEI.XML 'INCLUDE'><!NOTATION TEI-XML PUBLIC 'TEI P4' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd'><!-- internal INL dtd --><!ELEMENT b (#PCDATA)><!ELEMENT l (#PCDATA | b)*><!-- end of internal INL dtd -->]><TEI.2><!--<ENTRY id="i148"><teiHeader><fileDesc><titleStmt><title>Geraert van Viane</title>
+</titleStmt>
+<interpGrp type="pubYear_from"><interp value="1300"/></interpGrp>
+<interpGrp type="witnessYear_from"><interp value="1300"/></interpGrp>
+<interpGrp type="pubYear_to"><interp value="1350"/></interpGrp>
+<interpGrp type="witnessYear_to"><interp value="1350"/></interpGrp>
+<TITEL>Geraert van Viane</TITEL>
+<author>Onbekend</author>
+<AARD>Rijm</AARD>
+<BRON nr="K35">Berlijn, Staatsbibliothek Preussischer Kulturbesitz, Germ. fol. 751,2 (fragm.)</BRON>
+<DATUM>1300-1350</DATUM>
+<OMVANG>192 verzen</OMVANG>
+<BRON.OPM>Twee in elkaar liggende dubbelbladen; per bladzijde 1 kolom en per kolom 24 regels. De bladen zijn genummerd 11-14, overeenkomstig hun positie in de huidige verzamelmap; hier echter is de foli&euml;ring van Kalff aangehouden. Tussen de twee bladen van het binnenste bifolium lijken twee dubbelbladen te ontbreken.</BRON.OPM>
+<EDITIE>G. Kalff: Middelnederlandsche epische fragmenten, met aanteekeningen. Groningen, 1885, 153-158 (154-158).</EDITIE>
+<STATUS>Kritisch</STATUS>
+<BRONMNW>411.7</BRONMNW>
+<BRONNEN>Berlijn, Staatsbibliothek Preussischer Kulturbesitz, Germ. fol. 751,2 (fragm.)</BRONNEN>
+</fileDesc>
+</teiHeader>
+--><text>
+<l parse="ignore"><pb n="154"/><milestone unit="fol" n="1r"/> Doe so sprac Aymeriin,</l>
+<l>Arnouts sone van Beaulant,</l>
+<l>(Die sident was wider becant</l>
+<l>Dan enech man in kerstinede</l>
+<l n="5">No in erderike mede,</l>
+<l>En hadde Karel ghesiin)</l>
+<l>Nu hort, wat seide Aymeriin</l>
+<l>Tote sinen oem Gheraert:</l>
+<l>"Hier nu menech sere vervaert,</l>
+<l n="10">Qualike ghedinct ons das,</l>
+<l>Dat onse gheslachte oint was</l>
+<l>Seere gheducht ende ontsien,</l>
+<l>Mi dinke hier sonde menech vlien</l>
+<l>Gherne, wisti waerwaert.</l>
+<l n="15">Bi mire wet, lieve oem Gheraert</l>
+<l>Ic segghe, wat mi dinket goet</l>
+<l>Ende wat ic rade, dat men doet:</l>
+<l>Dat wi alle sterven,</l>
+<l>Eer wi ons laten ontherven,</l>
+<l n="20">No oec den coninc comen te ghenaden,</l>
+<l>Up aventure of hiit dade.</l>
+<l>Wine moghen niet verdinghen</l>
+<l>In ghere wiis no daertoe bringhen,</l>
+<l>Dat wiis bliven in die ere,</l>
+<l n="25"><milestone unit="fol" n="1v"/> Hen si dat hem elc kere</l>
+<l>Ter were ende bliver doet,</l>
+<l>Of wreken onsen wederstoet.</l>
+<l>Het gaet met ons al uten spele.</l>
+<l>Wine ebben spisen binnen niet vele.</l>
+<l n="30">Die wile dat wi ebben onse macht,</l>
+<l>Eer ons die hongher neemt de cracht</l>
+<l>Ende ons hier binnen verqueelt,</l>
+<l>Ic rade wel, dat elc speelt:</l>
+<l>Al ghewonnen of verloren!</l>
+<l n="35">Jane weten wi wel te voren,</l>
+<l><edition n="155"/>Wi moeten alle sterven</l>
+<l>Ende ons lives derven,</l>
+<l>Alst God ghebiet, onse heere!</l>
+<l>Niemen vervarem te sere</l>
+<l n="40">Dor hare ghesciet, dor hare cracht.</l>
+<l>Jane heeft God die meeste macht,</l>
+<l>Die ons wel mach beraden</l>
+<l>Dor sine doecht ende staen in staden?</l>
+<l>Trecht es onse ende tonrecht hare;</l>
+<l n="45">Ic was ghetrocken biden hare</l>
+<l>Jammerlike ende sere teblouwen,</l>
+<l>Dies clagic Gode ende onser vrouwen</l>
+<l>Ende u, oem, ende minen maghen,</l>
+<l><milestone unit="fol" n="2r"/> Die ghene die mi achter draghen</l>
+<l n="50">Ende mi niet helpen wreken</l>
+<l>Die grote slaghe, die sware steken,</l>
+<l>Die ic in sconinx hof ontfinc</l>
+<l>Van harde meneghen jonghelinc;</l>
+<l>God ghevem lachter ende toren!</l>
+<l n="55">Ic hadde naliic miin liif verloren,</l>
+<l>Maer doch eist so comen,</l>
+<l>Die coninc heeft schade ghenomen</l>
+<l>Ende sine liede verloren,</l>
+<l>Sider dat hi quam hier voren</l>
+<l n="60">Ende al bi sinen scouden,</l>
+<l>Noch wert het bet vergouden.</l>
+<l>Haddic hulpe van hier binnen,</l>
+<l>Ic soude striit up hem beghinnen</l>
+<l>Maerghiin metter sonne upganghe</l>
+<l n="65">Ende comen ute sinen bedwanghe.</l>
+<l>Die coninc, die ons heeft beseten,</l>
+<l>Wi sullen hem marghiin laten weten,</l>
+<l>Of onse swerde connen sniden;</l>
+<l>Moghen wi marghiin ontbiden</l>
+<l n="70">Hare engiene, eer si scieten,</l>
+<l>Wi sullen hare slaghe wel ghenieten.</l>
+<l>Dat dinke mi ghedaen bet,</l>
+<l><milestone unit="fol" n="2v"/> Dan wi quamen in sconincs net</l>
+<l>Ende wi ghinghen in sconincs ghenaden.</l>
+<l n="75">Die wille, volgher minen rade:</l>
+<l>Ic blive mi vele liever doot,</l>
+<l>Dan ic ghescouden ware bloet</l>
+<l><edition n="156"/>Ende ic miin gheslachte onteerde."</l>
+<l>"Wel hebbe diet u leerde,</l>
+<l n="80">Lieve neve," sprac Gheraert,</l>
+<l>"Bi u ne wert niement ghespaert</l>
+<l>Die orloghe no die strijdt.</l>
+<l>Eer nemmer liit verspertiit,</l>
+<l>Suldi weten bi minen rade</l>
+<l n="85">Onse ghewin of onse scade.</l>
+<l>Nu moeter God mede werken</l>
+<l>Dor sine doget ende gesterken!</l>
+<l>In blijfs heden achter hier."</l>
+<l>Doe antworde Olivier:</l>
+<l n="90">"El[c] seget hier sinen wille</l>
+<l>Noch hebbic ghesweghen stille,</l>
+<l>Nu salic segghen miin ghevouch,</l>
+<l>Eist dat u allen si genouch:</l>
+<l>Dese orloge es dus comen,</l>
+<l n="95">Ende hier es an beeden siden ghenomen</l>
+<l parse="ignore">Dicken scade meer dan gewin;</l>
+<l>[...............]</l>
+<l>[...............]</l>
+<l></l>
+<supplied resp="editor">[Olivier komt als afgezant in Karels legerplaats.]</supplied>
+<l></l>
+<l>[...............]</l>
+<l><milestone unit="fol" n="3r"/> Daer hi Karel den coninc vant.</l>
+<l>Bi hem stont de grave Rolant.</l>
+<l>Ende menich riddere dien ghelike,</l>
+<l n="100">Die hoegeste van Vrankerike.</l>
+<l>Hi groetene met scoenen woerden</l>
+<l>Ende alle die te hem behoerden.</l>
+<l>Die coninc Karel sweech al stille</l>
+<l>Ende dandre alle dor sinen wille,</l>
+<l n="105">Mer hi sach up Oliviere</l>
+<l>Verbolgenlike met felre siere</l>
+<l>Ende Rolant also ghelike</l>
+<l>Ende menich riddre ute Vrankerike</l>
+<l>Verwandelde herte ende sin,</l>
+<l n="110">Doe Olivier quam geganghen in.</l>
+<l>Si hadden so vul haren moet,</l>
+<l>Sine mochten spreken quaet no goet.</l>
+<l>Anderwarf sprac Olivier:</l>
+<l>"God houde den coninc entie sijn hier!</l>
+<l n="115"><pb n="157"/> Ic bem bode gesent hare,</l>
+<l>Coninc, ende bringhe niemare</l>
+<l>Van den ghenen van Viane:</l>
+<l>Ic bidde u, heere, ende vermane,</l>
+<l>Dat ghi mine tale hoert</l>
+<l n="120">Ende verstaet mine woert."</l>
+<l><milestone unit="fol" n="3v"/> Doe seide de coninc van Vrankerike:</l>
+<l>"Bi onsen here van hemelrike,</l>
+<l>Ne maer dat ghi bode sijt,</l>
+<l>Ghi hadt gelevet al uwen tijt,</l>
+<l n="125">Ic dade u hanghen na minen wane</l>
+<l>Te lachtre dien van Viane.</l>
+<l>Ne waendics niet, dat mens mi lachter</l>
+<l>Soude spreken noch hier achter,</l>
+<l>Dat ic boden dade onteeren</l>
+<l n="130">Ende haren lachter meeren,</l>
+<l>Ic dade u slepen ende hanghen,</l>
+<l>Dies ne mochti niet ontgangen.</l>
+<l>So dicken hebdi mi beraden</l>
+<l>Swaer vernoy ende scaden,</l>
+<l n="135">Al soude icker omme sijn onteert,</l>
+<l>Ic wane, dat ghi heden niet ne keert.</l>
+<l>Ic kenne u wel ende wie ghi sijt,</l>
+<l>Ic hebbe u in menegen strijt</l>
+<l>Voer Vianen ghesien."</l>
+<l n="140">Doe antworde mettien</l>
+<l>Die hertoghe van Bayvier:</l>
+<l>"Her coninc, ne sijt niet te ghier</l>
+<l>Te doene daer lachter ane leegt,</l>
+<l>Dat men u mesprijs seecht.</l>
+<l n="145"><milestone unit="fol" n="4r"/> Olivier, heere, es hier comen;</l>
+<l>Als ghi sine tale hebt vernomen,</l>
+<l>Wat niemaren dat hi heeft brocht,</l>
+<l>Machlichte u sal sijn gesocht;</l>
+<l>Van haestecheden comt selden goet,</l>
+<l n="150">Ende dies hem wachten, sij sijn vroet."</l>
+<l>So langhe ghinc hi met talen an,</l>
+<l>Dat hi maten began</l>
+<l>Die coninc Karel ende seide:</l>
+<l>"Her Olivier, nu hebt geleide</l>
+<l n="155">Ende segt, wat ghi begheert.</l>
+<l>Hine [hierne] es niemen die u deert</l>
+<l><edition n="158"/>Up dese stont, up dese tijt,</l>
+<l>Voer ghi uten heere sijt.</l>
+<l>Dan salic spelen te minen besten</l>
+<l n="160">Ende winnen binnen der vesten</l>
+<l>Ende doen u nemen uwen fijn</l>
+<l>Ende hem allen dier binnen sijn."</l>
+<l>Olivier sprac: "Coninc heere</l>
+<l>Ghi sijt algader uten keere.</l>
+<l n="165">Wildi u bepeinsen wel</l>
+<l>Van saken, die hier te voren ghevel;</l>
+<l>Ghi sout hebben betren raet,</l>
+<l>Eer ghi daet zulke ouerdaet.</l>
+<l><milestone unit="fol" n="4v"/> Al sidi coninc ende draegt croene</l>
+<l n="170">Ende wert coninc na groeten loene,</l>
+<l>Wi hebben onse gheslachte lief.</l>
+<l>Dat was een swaer wederbrief,</l>
+<l>Dat Arnouts kindre van Beaulande</l>
+<l>Moesten ontfaen die groete scande,</l>
+<l n="175">Dat hem die conincinne benet,</l>
+<l>Wine moghes vergeten niet,</l>
+<l parse="ignore">Als wi Aymerin [......] sien.</l>
+<l parse="ignore">Here coninc boven al dien</l>
+<l>Dinct het u gedaen goet,</l>
+<l n="180">Dat de coninginne haren voet</l>
+<l>Cussen dede minen oem</l>
+<l>Gheraerde? heere, nu nemet goem,</l>
+<l>Na dien dat wi sijn gheboren</l>
+<l>Ende onse gheslachte hier te voren,</l>
+<l n="185">Hoe wi vergheten mochten die sake</l>
+<l>Sonder ander wederwrake</l>
+<l>Weder te doene up die uwe?</l>
+<l>Dus es die orloghe emmer nuwe;</l>
+<l>Ende hiers wonders vele ghewrocht.</l>
+<l n="190">Hoert here, wat ic hebbe brocht</l>
+<l>Ende bidde, dat ghijt verstaet:</l>
+<l>"Mijn oem ontbiet u ende sijn raet</l>
+</text>
+<!--</ENTRY>
+--></TEI.2>

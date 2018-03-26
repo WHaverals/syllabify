@@ -1,0 +1,496 @@
+<?xml version='1.0'?><!DOCTYPE TEI.2 PUBLIC '-//TEI P4//DTD Main Document Type//EN' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd' [<!ENTITY % TEI.prose 'INCLUDE'><!ENTITY % TEI.linking 'INCLUDE'><!ENTITY % TEI.figures 'INCLUDE'><!ENTITY % TEI.analysis 'INCLUDE'><!ENTITY % TEI.corpus 'INCLUDE'><!ENTITY % TEI.XML 'INCLUDE'><!NOTATION TEI-XML PUBLIC 'TEI P4' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd'><!-- internal INL dtd --><!ELEMENT b (#PCDATA)><!ELEMENT l (#PCDATA | b)*><!-- end of internal INL dtd -->]><TEI.2><!--<ENTRY id="i955"><teiHeader><fileDesc><titleStmt><title>Rijmspreuken, Spreuken</title>
+</titleStmt>
+<interpGrp type="pubYear_from"><interp value="1470"/></interpGrp>
+<interpGrp type="witnessYear_from"><interp value="1470"/></interpGrp>
+<interpGrp type="pubYear_to"><interp value="1490"/></interpGrp>
+<interpGrp type="witnessYear_to"><interp value="1490"/></interpGrp>
+<TITEL>Rijmspreuken</TITEL>
+<TITEL>Spreuken</TITEL>
+<author>Onbekend</author>
+<AARD>Rijm</AARD>
+<BRON nr="D150">'s-Gravenhage, Koninklijke Bibliotheek, 128 E 6</BRON>
+<DATUM>1470-1490</DATUM>
+<OMVANG>236 verzen</OMVANG>
+<BRON.OPM>Handschrift van 195 bladen, 2 kolommen per bladzijde; in het gedeelte met de Rijmspreuken 41 regels per kolom. De tekst bevindt zich op fol. 128-130. Het hs. bevat in het eerste gedeelte werk van Hildegaersberch (fol. 1-128, zie Gedichten (Willem van Hildegaersberch)) en, in deel 2, Der minnen loep van Dirc Potter (fol. 131-195).</BRON.OPM>
+<EDITIE>W. Bisschop en E. Verwijs (eds.): Gedichten van Willem van Hildegaersberch. 's-Gravenhage, 1870, 252-256.</EDITIE>
+<STATUS>Kritisch</STATUS>
+<BRONMNW>1331.7 (andere editie)</BRONMNW>
+<BRONNEN>'s-Gravenhage, Koninklijke Bibliotheek, 128 E 6</BRONNEN>
+</fileDesc>
+</teiHeader>
+--><group><text>
+<head type="comment"><pb n="253"/> 1.</head>
+<l>Gode te vresen van allen danc,</l>
+<l>Dat is des wijsheits aneganc.</l>
+</text>
+<text><head type="comment">2.</head>
+<l>Soe wye sijn recht tot onrecht doet,</l>
+<l>Die wert sijn eynde selden goet.</l>
+</text>
+<text><head type="comment">3.</head>
+<l>So wye twee heren dienen sel,</l>
+<l>Die behoevet veel gheluckes wel.</l>
+</text>
+<text><head type="comment">4.</head>
+<l>Soe wat een man mit eren haet,</l>
+<l>Schaemt hi hem des, dat is misdaet.</l>
+</text>
+<text><head type="comment">5.</head>
+<l>Soe wye mit rusten gaerne sy,</l>
+<l>Die wese den heren selden by.</l>
+</text>
+<text><head type="comment">6.</head>
+<l>Ic name eens wisens mannes moet</l>
+<l>Voer eens rijckes doren goet.</l>
+</text>
+<text><head type="comment">7.</head>
+<l>Wye meynt dat hi die wijste sy,</l>
+<l>Veeltijt woenre doren by.</l>
+</text>
+<text><head type="comment">8.</head>
+<l>Soe waer die wolf een harde waert,</l>
+<l>Daer moeten die schapen sijn vertaert.</l>
+</text>
+<text><head type="comment">   9.</head>
+<l>Die menighe wil bekennen mich,</l>
+<l>Die selve en kan bekennen sich.</l>
+</text>
+<text><head type="comment">10.</head>
+<l>Kende hem selven een yghelijc man,</l>
+<l>Hine spraeck gheen quaet van anderen dan.</l>
+</text>
+<text><head type="comment">11.</head>
+<l>Wy wenschen om des outmans daghen:</l>
+<l>Wanneer dan comt, ist ons een claghen.</l>
+</text>
+<text><head type="comment">12.</head>
+<l>Soe ganse doecht nye man en haet,</l>
+<l>Hine moste nochtan kennen misdaet.</l>
+</text>
+<text><head type="comment">13.</head>
+<l>Hoe zeer een wijf behoedet si,</l>
+<l>Nochtan is hoer begheerte vry.</l>
+</text>
+<text><head type="comment">14.</head>
+<l>Soe wye niet wel ghespreken en can,</l>
+<l>Die swighe ende wese een wise man.</l>
+</text>
+<text><head type="comment">15.</head>
+<l>Soe wye gheluc ende eer wil haen,</l>
+<l>Die en sel sijn goet niet laten vergaen.</l>
+</text>
+<text><head type="comment">16.</head>
+<l>Soe wye can houden ende gheven,</l>
+<l>Te recht mach hi mit eren leven.</l>
+</text>
+<text><head type="comment">17.</head>
+<l>Soe wye schoenheit in sijn zeden can</l>
+<l>Ghedoen, dat is een wise man.</l>
+</text>
+<text><head type="comment">18.</head>
+<l>Nijt ende onghestadighe ere</l>
+<l>Die crencken den wisen alte zere.</l>
+</text>
+<text><head type="comment">19.</head>
+<l>Van hem daer ic dbest of hoir ghewaghen,</l>
+<l>Dies wapen woud ic gaerne draghen.</l>
+</text>
+<text><head type="comment">20.</head>
+<l>Des honichs soetheit wert verdriet,</l>
+<l>Alsmens alte veel geniet.</l>
+</text>
+<text><head type="comment">21.</head>
+<l>Men moet wel horen lieghen,</l>
+<l>Mar ghenen vrient selmen bedrieghen.</l>
+</text>
+<text><head type="comment">22.</head>
+<l>Der werlt craft en is niet meer,</l>
+<l>Dan dat sy stryden om die eer.</l>
+</text>
+<text><head type="comment">23.</head>
+<l>Hat ende nijt inder herten</l>
+<l>Bringt den mensch in groter smerten.</l>
+</text>
+<text><head type="comment">24.</head>
+<l>Een vreckman niet en woude</l>
+<l>Goet, ende hijt wech gheven soude.</l>
+</text>
+<text><head type="comment">25.</head>
+<l>Soe wye dat lachet ende grijnt,</l>
+<l>Ontrouwe dat in hem schijnt.</l>
+</text>
+<text><head type="comment">26.</head>
+<l>Van naturen men dat mint</l>
+<l>Dat selve datmen mit arbeiden wint.</l>
+</text>
+<text><head type="comment">27.</head>
+<l>Op eerden en is gheen dinc soe goet,</l>
+<l>Als datmen uut rechter minnen doet.</l>
+</text>
+<text><head type="comment">28.</head>
+<l>Tis niet te schelden dat yemant doet,</l>
+<l>Maect hi sijn daet ten eynden goet.</l>
+</text>
+<text><head type="comment">29.</head>
+<l>Voert en gaet die ezel niet,</l>
+<l>Als hi den anderen vallen ziet.</l>
+</text>
+<text><head type="comment">30.</head>
+<l>Wye des anders diefte heelt,</l>
+<l>En weet van beyden wye daer steelt.</l>
+</text>
+<text><head type="comment">31.</head>
+<l>Gheen man en mach sonder dat sijn,</l>
+<l>Dats alder werlt wel aenschijn.</l>
+</text>
+<text><head type="comment">32.</head>
+<l>Des menschen onghestadicheit</l>
+<l>Is der zielen harde leyt.</l>
+</text>
+<text><head type="comment">33.</head>
+<l>Die vroem is, men prijst hem wel:</l>
+<l>Niemant hem selven prisen sel.</l>
+</text>
+<text><head type="comment">34.</head>
+<l>Nyemant en sel sijn volcke laen</l>
+<l>Sonder vroechde, wil hi eere haen.</l>
+</text>
+<text><head type="comment"><pb n="254"/> 35.</head>
+<l>Het hoort menich loghenaer</l>
+<l>Dicwijl harde leyden maer.</l>
+</text>
+<text><head type="comment">36.</head>
+<l>Een man van veel dinghen ere haet,</l>
+<l>Dat goeden wiven qualic staet.</l>
+</text>
+<text><head type="comment">37.</head>
+<l>Men siet nu, leyder! selden</l>
+<l>Trou mit trouwen ghelden.</l>
+</text>
+<text><head type="comment">38.</head>
+<l>Begraven schat, verborghen min,</l>
+<l>Daer of en haet nyemant ghewin.</l>
+</text>
+<text><head type="comment">39.</head>
+<l>Wyen ghenoeghet dat hi heeft,</l>
+<l>Die is rijc, oec hoet hem gheet.</l>
+</text>
+<text><head type="comment">40.</head>
+<l>Der wiser wercken salmen plien,</l>
+<l>Der boser horen, mer niet te gheschien.</l>
+</text>
+<text><head type="comment">41.</head>
+<l>Wye hem mit enen vrecken man</l>
+<l>Versellet, hi verliester an.</l>
+</text>
+<text><head type="comment">42.</head>
+<l>Die quade en can nymmermeer verstaen,</l>
+<l>Hoet mitten armen is ghedaen.</l>
+</text>
+<text><head type="comment">43.</head>
+<l>Die arme man mint sijns ghelijcken,</l>
+<l>Alsoe ist ooc al mitten rijcken.</l>
+</text>
+<text><head type="comment">   44.</head>
+<l>Dronckenscap is selden goet,</l>
+<l>Wantsi valscht eens wisens moet.</l>
+</text>
+<text><head type="comment">45.</head>
+<l>Soe wye een cleyne quaetheit doet,</l>
+<l>Hi stelt oec wel dat grote goet.</l>
+</text>
+<text><head type="comment">46.</head>
+<l>Hoe schone dattie mensche sy,</l>
+<l>Hi is binnen vuyl daer by.</l>
+</text>
+<text><head type="comment">47.</head>
+<l>Die grote onghestadicheit doet,</l>
+<l>Hi valschet menighen stadigen moet.</l>
+</text>
+<text><head type="comment">48.</head>
+<l>Die rijcke men alles goets toescrijft,</l>
+<l>Daer die arme buten blijft.</l>
+</text>
+<text><head type="comment">49.</head>
+<l>Soe wye sijn tijt leyt sonder gheven,</l>
+<l>Die sal int eynde mit schande leven.</l>
+</text>
+<text><head type="comment">50.</head>
+<l>Menich door spreect wise woort,</l>
+<l>Mar onderscheyden en can hise niet een oert.</l>
+</text>
+<text><head type="comment">51.</head>
+<l>Ic sie menighen wisen man,</l>
+<l>Die ghene wijsheit spreken en can.</l>
+</text>
+<text><head type="comment">52.</head>
+<l>Hoe groten schat die door ye vant,</l>
+<l>Hi comt den wisen al ter hant.</l>
+</text>
+<text><head type="comment">53.</head>
+<l>Wye sijns selfs scande meert,</l>
+<l>Hi blijfter selve by onteert.</l>
+</text>
+<text><head type="comment">54.</head>
+<l>Een yghelijc man hem miden moet,</l>
+<l>Tret hi den distel inden voet.</l>
+</text>
+<text><head type="comment">55.</head>
+<l>Een man en mach gheen langhe tijt</l>
+<l>Ere hebben onbenijt.</l>
+</text>
+<text><head type="comment">56.</head>
+<l>Hoe sel des lasters worden raet,</l>
+<l>Die sijn eer vol lasters haet?</l>
+</text>
+<text><head type="comment">57.</head>
+<l>Die boosheit doet, hi wert vermaert,</l>
+<l>Mar doechde setmen achterwaert.</l>
+</text>
+<text><head type="comment">58.</head>
+<l>Wat een nu priset inden man,</l>
+<l>Daer kent hi sinen vlijt an.</l>
+</text>
+<text><head type="comment">59.</head>
+<l>Selden te misse sijn dinc sel gaen,</l>
+<l>Diet al an Gode wil laten staen.</l>
+</text>
+<text><head type="comment">60.</head>
+<l>Wy mochten zonden vele stelen,</l>
+<l>Woud ons die duvel helpen helen.</l>
+</text>
+<text><head type="comment">61.</head>
+<l>Die valsche mensche altoes vermoet,</l>
+<l>Dat die goede boesheit doet.</l>
+</text>
+<text><head type="comment">62.</head>
+<l>Soe wye wel sprect ende qualic doet,</l>
+<l>Die en heeft niet dan een quaden moet.</l>
+</text>
+<text><head type="comment">63.</head>
+<l>Bernende min heeft menich man,</l>
+<l>Die doch al doer verdervet an.</l>
+</text>
+<text><head type="comment">64.</head>
+<l>Die wille voer dat werc gaet,</l>
+<l>Het sy goet of tsy misdaet.</l>
+</text>
+<text><head type="comment">65.</head>
+<l>Al ist dat vrient van vriende sy,</l>
+<l>Nochtan sel trouwe daer wesen by.</l>
+</text>
+<text><head type="comment">66.</head>
+<l>Ic mercke dat een yghelijc man</l>
+<l>Hem selven veele goets gan.</l>
+</text>
+<text><head type="comment">67.</head>
+<l>Wye lief heeft, die is selden vry</l>
+<l>Van sorghen, des hi stedich sy.</l>
+</text>
+<text><head type="comment">68.</head>
+<l>Soe wye dat inden pecke roeret,</l>
+<l>Onreynicheit dat hi daer of voeret.</l>
+</text>
+<text><head type="comment">69.</head>
+<l>Niemant en hevet wisen moet,</l>
+<l>Dan die altoes Goods wille doet.</l>
+</text>
+<text><head type="comment">70.</head>
+<l>Soe wye hem selven prijst alleyne,</l>
+<l>Sijn ere is dan harde cleine.</l>
+</text>
+<text><head type="comment"><pb n="255"/> 71.</head>
+<l>Men mach die beste niet uutlesen,</l>
+<l>Want nyemant en wil die snootste wesen.</l>
+</text>
+<text><head type="comment">72.</head>
+<l>Men prijst nader doot menich man,</l>
+<l>Die in sijn leven nye eer ghewan.</l>
+</text>
+<text><head type="comment">73.</head>
+<l>Men sel spreken mit wisen sin:</l>
+<l>Qualijck te spreken en brenct niet in.</l>
+</text>
+<text><head type="comment">74.</head>
+<l>Deser dommer werlts sin</l>
+<l>En is der werlt gheen ghewin.</l>
+</text>
+<text><head type="comment">75.</head>
+<l>Die lose sijn den heren lief,</l>
+<l>Die ere stelen si als een dief.</l>
+</text>
+<text><head type="comment">76.</head>
+<l>Mocht ic mijns selfs meester sijn,</l>
+<l>Soe had ic van wille die wille mijn.</l>
+</text>
+<text><head type="comment">77.</head>
+<l>Menich prijst des anders zwaert:</l>
+<l>Had hijt, het waer hem onwaert.</l>
+</text>
+<text><head type="comment">78.</head>
+<l>Soe wye mi leret goeden sin,</l>
+<l>Die is wiser dan ic bin.</l>
+</text>
+<text><head type="comment">79.</head>
+<l>Men sel goet ende arch verstaen,</l>
+<l>Dat goede doen ende tarchste laen.</l>
+</text>
+<text><head type="comment">80.</head>
+<l>Soe wye dat mercket quaet ende goet,</l>
+<l>Die wetet wel of hi misdoet.</l>
+</text>
+<text><head type="comment">81.</head>
+<l>Een man sal goeden wille haen,</l>
+<l>Mach hi der wercken niet bestaen.</l>
+</text>
+<text><head type="comment">82.</head>
+<l>Schat, begheerte ende domme min,</l>
+<l>Verdervet menich wijsmans sin.</l>
+</text>
+<text><head type="comment">83.</head>
+<l>Armoede, ziecheit ende spise cranc,</l>
+<l>Die maect een corte stonde lanc.</l>
+</text>
+<text><head type="comment">84.</head>
+<l>Die gave is eenre gaven waert,</l>
+<l>Diemen gheeft alsmense begaert.</l>
+</text>
+<text><head type="comment">85.</head>
+<l>Soe wye dat vraghet na staden minne,</l>
+<l>Die vraghet luttel naden zinne.</l>
+</text>
+<text><head type="comment">86.</head>
+<l>Die menighe tot Gode wijsheit haet,</l>
+<l>Die hem ter eren niet en verstaet.</l>
+</text>
+<text><head type="comment">87.</head>
+<l>Wat schadet vroechde ende yoghet?</l>
+<l>Gheen man is edel sonder doeghet.</l>
+</text>
+<text><head type="comment">88.</head>
+<l>Die zede den man qualijcken laet,</l>
+<l>Die hi inder joeghet gheleert haet.</l>
+</text>
+<text><head type="comment">89.</head>
+<l>Die penninghe ende sulver hem onderdoet,</l>
+<l>Die weken menighen harden moet.</l>
+</text>
+<text><head type="comment">90.</head>
+<l>Die menighe hevet wisen moet,</l>
+<l>Die nochtan dommelijcke doet.</l>
+</text>
+<text><head type="comment">91.</head>
+<l>Wat si twaelf hebben ghestolen,</l>
+<l>En blivet nymmer jaer verholen.</l>
+</text>
+<text><head type="comment">92.</head>
+<l>Die grote toorn int herte breyt,</l>
+<l>Die doet hem selven dicwijl leyt.</l>
+</text>
+<text><head type="comment">93.</head>
+<l>Wye minne volghet, den volghet sy;</l>
+<l>Ende wyese yaecht, si jaech hem bi.</l>
+</text>
+<text><head type="comment">94.</head>
+<l>Die moede en mach gheen hoecheit haen,</l>
+<l>Want hine machs mitten wercken niet bestaen.</l>
+</text>
+<text><head type="comment">95.</head>
+<l>Visschen, voghelen ende vy</l>
+<l>Houden haer ewe bet dan wy.</l>
+</text>
+<text><head type="comment">96.</head>
+<l>Vrienden heb ic altijt vil,</l>
+<l>Dan als ic my bedroeven wil.</l>
+</text>
+<text><head type="comment">97.</head>
+<l>Men mercket byden rade wel,</l>
+<l>Hoemen die heren dienen sel.</l>
+</text>
+<text><head type="comment">98.</head>
+<l>Soe wye der werlt becopen wil,</l>
+<l>Die volghet recht der apen spil.</l>
+</text>
+<text><head type="comment">99.</head>
+<l>Wye sel wesen den anderen goet,</l>
+<l>Die hem selven altoes misdoet?</l>
+</text>
+<text><head type="comment">100.</head>
+<l>Huden lief is morghen leit:</l>
+<l>Dats der werlt onghestadicheit.</l>
+</text>
+<text><head type="comment">101.</head>
+<l>Een man sel sijn ghetrouwe wijff</l>
+<l>Minnen boven sijns selfs lijff.</l>
+</text>
+<text><head type="comment">102.</head>
+<l>Dobbelspel ende wives lieve</l>
+<l>Maken menighen man tot dieve.</l>
+</text>
+<text><head type="comment">103.</head>
+<l>Nyemant en woude sinen moet</l>
+<l>Gheerne wisselen omme goet.</l>
+</text>
+<text><head type="comment">104.</head>
+<l>Soe wat man hem can bewaren</l>
+<l>Voir sonden, die heeft wel ghevaren.</l>
+</text>
+<text><head type="comment">105.</head>
+<l>Soe wye can lieghen in elken hoff,</l>
+<l>Die crijcht al omme der boser lof.</l>
+</text>
+<text><head type="comment">106.</head>
+<l>Vrolijc te wesen in armoede,</l>
+<l>Dats grote rijcheit sonder goede.</l>
+</text>
+<text><head type="comment">107.</head>
+<l>Men wart mit goeden volke goet,</l>
+<l>Quaet mit quaden die oevel doet.</l>
+</text>
+<text><head type="comment">108.</head>
+<l>Dat herte truert tot menigher stont,</l>
+<l>Dat nochtan lachen moet die mont.</l>
+</text>
+<text><head type="comment"><pb n="256"/> 109.</head>
+<l>Die milde mi te loven staet,</l>
+<l>Die gheeft dat hi selve niet en haet.</l>
+</text>
+<text><head type="comment">110.</head>
+<l>Soe wye mit trouwen wil leven,</l>
+<l>Die sel sijn ere menighen gheven.</l>
+</text>
+<text><head type="comment">111.</head>
+<l>Wat doet die werlt van jaer tot jaer?</l>
+<l>Si boset ende arghet, des nemet waer.</l>
+</text>
+<text><head type="comment">112.</head>
+<l>Een cloec dief mit sorghen helet,</l>
+<l>Want hi op sijn lijf stelet.</l>
+</text>
+<text><head type="comment">113.</head>
+<l>Soe wye sijns selfs sonden bedachte,</l>
+<l>Des anders naem hi clene achte.</l>
+</text>
+<text><head type="comment">114.</head>
+<l>Der heren leer is worden crom:</l>
+<l>Daerom soe worden die wise dom.</l>
+</text>
+<text><head type="comment">115.</head>
+<l>Soe wye dat hertsen leit sal draghen,</l>
+<l>Die mach seer wel van node claghen.</l>
+</text>
+<text><head type="comment">116.</head>
+<l>Vriende ic gaerne hebben wil,</l>
+<l>Mer gesellen nietste vil.</l>
+</text>
+<text><head type="comment">117.</head>
+<l>Soe wye des anders lieve leydet,</l>
+<l>Van menigher vroechde hi hem scheidet.</l>
+</text>
+<text><head type="comment">118.</head>
+<l>My wasset noch alle jaer</l>
+<l>Sonde, naghel ende haer.</l>
+</text>
+</group>
+<!--</ENTRY>
+--></TEI.2>

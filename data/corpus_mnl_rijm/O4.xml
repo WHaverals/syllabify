@@ -1,0 +1,237 @@
+<?xml version='1.0'?><!DOCTYPE TEI.2 PUBLIC '-//TEI P4//DTD Main Document Type//EN' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd' [<!ENTITY % TEI.prose 'INCLUDE'><!ENTITY % TEI.linking 'INCLUDE'><!ENTITY % TEI.figures 'INCLUDE'><!ENTITY % TEI.analysis 'INCLUDE'><!ENTITY % TEI.corpus 'INCLUDE'><!ENTITY % TEI.XML 'INCLUDE'><!NOTATION TEI-XML PUBLIC 'TEI P4' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd'><!-- internal INL dtd --><!ELEMENT b (#PCDATA)><!ELEMENT l (#PCDATA | b)*><!-- end of internal INL dtd -->]><TEI.2><!--<ENTRY id="i601"><teiHeader><fileDesc><titleStmt><title>Onge&iuml;dentificeerd (4)</title>
+</titleStmt>
+<interpGrp type="pubYear_from"><interp value="1300"/></interpGrp>
+<interpGrp type="witnessYear_from"><interp value="1300"/></interpGrp>
+<interpGrp type="pubYear_to"><interp value="1400"/></interpGrp>
+<interpGrp type="witnessYear_to"><interp value="1400"/></interpGrp>
+<TITEL>Onge&iuml;dentificeerd (4)</TITEL>
+<author>Onbekend</author>
+<AARD>Rijm</AARD>
+<BRON nr="K95">Alba Julia, Biblioteca Batthyaneum, z.s. (fragm.) [zoek]</BRON>
+<DATUM>1300-1400</DATUM>
+<OMVANG>199 verzen</OMVANG>
+<BRON.OPM>Twee stroken, die elk horizontaal uit een dubbelblad gesneden zijn. De strook met complex A-B vormt het onderste deel van een dubbelblad en de strook met complex C-D is horizontaal midden uit een ander dubbelblad gesneden. De fragmenten zijn losgemaakt uit de band van een boek dat toebehoorde aan de Bisschoppelijke Bibliotheek te Gyulafeh&eacute;rv&aacute;r (Karlsburg) en heeft als huidige signatuur B2 I 1. Op de binnenzijde van de platten komen nog afdrukken van de letters in spiegelschrift voor (zie afbeelding 159 in Kienhorst (1988)); de fragmenten zelf zijn al sedert geruime tijd zoek. Waarschijnlijk hebben we hier te maken met de fragmenten de resten van een Karel- of Ogierroman. H&uuml;bner heeft de tekst verdeeld over een viertal complexen: A, B, C, D. Het betreft een aantal episoden uit de strijd van christenen tegen Saracenen, waarbij in complex A en D Ogier van Denemarken een voorname rol speelt. In complex B is sprake van een krijgsraad die door Danemont, opperbevelhebber van de Saracenen, bijeengeroepen wordt, en van de stad Barbaestre (Barbastro in Spanje). In complex C heeft een overmacht aan Saracenen waarschijnlijk de voorhoede van het christenleger verslagen en wordt Rohaert uitgezonden om een aantal Saraceense vorsten te hulp te roepen. In complex D wordt beschreven hoe een bisschop (waarschijnlijk Turpijn) zich te paard naar koning Karel spoedt.</BRON.OPM>
+<EDITIE>A. H&uuml;bner: 'Bruchst&uuml;cke eines neuen mnl. Karlsromans'. In: Zeitschrift f&uuml;r deutsches Altertum und deutsche Litteratur 60 (1923), 249-258 (250-256).</EDITIE>
+<STATUS>Diplomatisch</STATUS>
+<EDITIE.OPM>In navolging van H&uuml;bner is de tekst hier verdeeld over vier complexen (A, B, C en D). De door H&uuml;bner in het kritisch apparaat opgenomen suggesties voor de lezing van verminkte woorden of verzen zijn hier in de tekst verwerkt, tussen rechthoekige haken (als er meerdere mogelijkheden zijn, worden deze, gescheiden door een schuine streep ("/"), opgesomd en gevolgd door een vraagteken tussen ronde haken). In een aantal gevallen bleek het mogelijk, met behulp van een afbeelding in Kienhorst (1988), de tekst verder te reconstrueren dan in de editie H&uuml;bner. Ook deze aanvullingen zijn tussen rechthoekige haken in de tekst opgenomen.</EDITIE.OPM>
+<BRONNEN>Alba Julia, Biblioteca Batthyaneum, z.s. (fragm.) [zoek]</BRONNEN>
+</fileDesc>
+</teiHeader>
+--><text>
+<supplied resp="editor">Complex A1</supplied>
+<l parse="ignore"><edition n="250"/>Hordijt ghi ver[n/m(?).....]</l>
+<l parse="ignore">Mamet [moette.....ien]</l>
+<l parse="ignore">Ende alle die quadien.</l>
+<l>Dor uwen willen sta[ken ac]hter</l>
+<l n="5">Dies ic nv hebbe la[chter]</l>
+<l>[D]ie goet waren [ende getrouwe]</l>
+<l>Dies ic hebbe rou[we]</l>
+<l>Mijn verwat[en] mahoe[n]</l>
+<l>[Sprac die coninc] sy[na]goe[n]</l>
+<l parse="ignore" n="10">[Mag..keren n...]</l>
+<l parse="ignore">[Ghinc tot......gemeenlike]</l>
+<supplied resp="editor">Complex A2</supplied>
+<l parse="ignore">Dais iamm[er] ende scade g[r]ot</l>
+<l>Doe dat [ogier h]orde</l>
+<l>Noopti metten worde</l>
+<l n="15">Tgoede perd gemeine</l>
+<l>Ende [w]ac tswt corteine</l>
+<l>Gal[iante] hi so sm[ee]t</l>
+<l>D[at h]ine toten gordele sp[lee]t</l>
+<l parse="ignore">Daer na [s]louchi guwa[..e.herde]</l>
+<l parse="ignore" n="20">[Dat m]an ende paert vel ter erde</l>
+<l parse="ignore">[Daer die kerstine.. m]ede toren</l>
+<l parse="ignore">[Menich paien wel] geboren</l>
+<supplied resp="editor">Complex A3</supplied>
+<l parse="ignore"><edition n="251"/>[...]de den here ogier</l>
+<l parse="ignore">[...]le die [..]</l>
+<l parse="ignore" n="25">Hadde geseit ten he[re] sijn</l>
+<l><b>D</b>Oe dat ogier verstoet</l>
+<l>wert hi wel na al verwoet</l>
+<l>Ende seide bi den hemelscen drochtijn</l>
+<l>Eer si mi maken sarracijn.</l>
+<l n="30">S[alic har] eer .[v]&supM;. doen steruen.</l>
+<l>Wa[n]t si kerstine wanen onteruen.</l>
+<l>Do [rie]p monioie ogier</l>
+<l>Te hem quam van baiuier</l>
+<supplied resp="editor">Complex A4</supplied>
+<l parse="ignore">Espers[a]nt [.....ti/ci/co/to(?)]en</l>
+<l n="35">Makalijn [wat sul]wi doen</l>
+<l>Ons begeeft [al] mahoen.</l>
+<l parse="ignore">Dat moge[n wi] wel sien.</l>
+<l parse="ignore">Siet hoe [s/f(?)....] vlien.</l>
+<l parse="ignore">Die ons [hare quam]en te stride.</l>
+<l parse="ignore" n="40">Want die [....] met nide.</l>
+<l>Striden d[i ma]ch men sien.</l>
+<l>Siet hoe [m]eni[ch] paien.</l>
+<l>Vliet ouer [den berch] te dale.</l>
+<l>It duchte dat wi altemale.</l>
+<supplied resp="editor">Complex B1</supplied>
+<l parse="ignore" n="45">[Had]s rouwe ende toren</l>
+<l parse="ignore">Danemont seide da[t m.... h]oren</l>
+<l>Gaet te rade ed[ele baroene]</l>
+<l>Siet watter nu mede sta[e]t te doene.</l>
+<l>Doe gingen in ene kemenade.</l>
+<l n="50">.X. vanden hoochsten te rade</l>
+<l>Doen was sufflier ende [aga]lant.</l>
+<l><edition n="252"/>Ende boudifeer ende galerant.</l>
+<l>Ende mibrien ende cadulant.</l>
+<l>Ende iostamant ende balant.</l>
+<l n="55">Ende burbulant ende ryoen.</l>
+<l>Ende andre hoge baroen.</l>
+<supplied resp="editor">Complex B2</supplied>
+<l parse="ignore"><b>D</b>[..........]</l>
+<l parse="ignore">Seide m[......]</l>
+<l parse="ignore">[.]dom[..........]</l>
+<l parse="ignore" n="60">Dat [s]ijt al he[b....ge...n]</l>
+<l>Den toren entie stade groot.</l>
+<l>Si werde[n] oec gewijst ter doot.</l>
+<l>Doe da[t] ho[rd]e ryoen.</l>
+<l>Spra[c] hi bi mahoen.</l>
+<l n="65">Ghi sult liegen sufflier.</l>
+<l>Alwerdi[ch] noch also fier.</l>
+<l>Doe dat horde galerant.</l>
+<l>Entie soudaen cadulant.</l>
+<supplied resp="editor">Complex B3</supplied>
+<l n="70">Hi neder ter [er]den spranc.</l>
+<l>Van der couder fonteinen h[i] dranc</l>
+<l parse="ignore">Doe gedronk[en hadd]e [di]e h[ere]</l>
+<l parse="ignore">[S]ach hi [uo]gle[....]e</l>
+<l parse="ignore">[E]n [uant] enen sc[......]</l>
+<l parse="ignore" n="75">Daer wert ginc hi ende [.....]</l>
+<l parse="ignore">Datter [w]onder do[....c]h</l>
+<l parse="ignore">[Teerst dat] h[......]</l>
+<supplied resp="editor">Complex B4</supplied>
+<l parse="ignore">[...hoof]t s[o] was [t]e sple[d/t(?)]e[n]</l>
+<l parse="ignore">Dat [hi liet die t]ande b[l]icken</l>
+<l parse="ignore" n="80">[R..........dreef]</l>
+<l parse="ignore">Also ons die bouc bescreef</l>
+<l>Eer dat hi vernam</l>
+<l><edition n="253"/>Dat h[i] in barbaestre quam</l>
+<l><b>E</b>nde als [ver]n[am]en die sarracine.</l>
+<l n="85">[den do]den [m]et [dodie wine]</l>
+<l>[Vrageden] si hem wie die [do]de w[a]re</l>
+<l>[Hi dede hem] lieden op[enbare]</l>
+<l parse="ignore">[Dat.......] was die [here]</l>
+<l parse="ignore">[Dat volc ... s]ere</l>
+<supplied resp="editor">Complex C1</supplied>
+<l parse="ignore" n="90">En [..........]</l>
+<l parse="ignore">Ende stakene [dor ....]</l>
+<l parse="ignore">[D..... dor thooft]</l>
+<l parse="ignore">[B.....viel] int [s]ant.</l>
+<l parse="ignore">[...........n]t.</l>
+<l parse="ignore" n="95">[En]en andien [...sc]ijn</l>
+<l parse="ignore">[..t] hi doen m[...s]nien fijn</l>
+<l>H[e]m .iij. hi daer [t]leuen nam</l>
+<l>Des dr[oefde m]enich kerstin man</l>
+<l parse="ignore"><b>D</b>aer na so [he]eft die coninc [.]s[.]eit</l>
+<l parse="ignore" n="100">ha[rde dese t]ale [geseit]</l>
+<l parse="ignore">Hi seide met [....] moede</l>
+<l parse="ignore">Ic sal baden [ind]er kerstine bloede</l>
+<l parse="ignore">Noch heden dat swert mijn</l>
+<supplied resp="editor">Complex C2</supplied>
+<l parse="ignore">Do[en]e was [oec ..l]adijn</l>
+<l parse="ignore" n="105">Ende menich ander sarracijn</l>
+<l parse="ignore">[Eioel] vw[oe]dde ende d[am]istant</l>
+<l parse="ignore">Ende na[m]eit ende [.a]d[ili/in(?)]ant</l>
+<l parse="ignore">Swoeren si sou[d]ene [wr]eken</l>
+<l parse="ignore">Hoe quaet wa[......]</l>
+<l parse="ignore" n="110">Die si pensden [e...en].</l>
+<l parse="ignore">God die ons ge[w...e].</l>
+<l>Moete die kerstine bewaren.</l>
+<l>S[i cam]en met so gr[o]te [scaren]</l>
+<l>Die [felle] quade [paien]</l>
+<l n="115"><pb n="254"/> [God moette] vermaledien</l>
+<l parse="ignore">[Want daer] camere so vele</l>
+<l parse="ignore">[D......iec] vten spele.</l>
+<supplied resp="editor">Complex C3</supplied>
+<l>Ic wist oec wel eer hijt mi seide.</l>
+<l>Bi mire man waerheide.</l>
+<l n="120">Hen es die helt van kerstin uolke niet</l>
+<l>Dat ghi hier ten stride siet</l>
+<l parse="ignore">Kerstin nes hier n[och] niet comen.</l>
+<l parse="ignore">Waren .iij. coningen [hebic hi/e(?)]er vernomen.</l>
+<l parse="ignore">Ende .xxxij. g[raven ende .x]xvij. hertogen.</l>
+<l parse="ignore" n="125">Nv mict of [si.....]ogen.</l>
+<l parse="ignore">Wel connen ende ten stride.</l>
+<l parse="ignore">Oec [kl.]sun wer[.] an haer zide.</l>
+<l parse="ignore">[.]&supM; man.</l>
+<l parse="ignore">[E]lc den strijt wel houden can.</l>
+<l n="130">[D]at sciint onsen lieden wel.</l>
+<l>Want die coninge sijn herde snel.</l>
+<supplied resp="editor">Complex C4</supplied>
+<l>Ende mares ende brayhaerde.</l>
+<l>Dat si comen metter vaerde.</l>
+<l>Of si kerstine willen slaen.</l>
+<l n="135">Vare wech ende haesti zaen.</l>
+<l>Doe noopte rohaert tpaert met sporen.</l>
+<l>Ende reet den wech voren</l>
+<l>Saen hi vernam</l>
+<l>Dat hi te fursine quam</l>
+<l n="140">Teerst dattene die paien sach</l>
+<l>Ombooti hem goeden dach</l>
+<l>Hi seide [c]oninc fursijn</l>
+<l>Biden voget apolijn</l>
+<l parse="ignore">Omme v sent mi damistant.</l>
+<supplied resp="editor">Complex D1</supplied>
+<l parse="ignore" n="145">Die .v&supM;. por[reden.....]</l>
+<l>Kerstine mogen hem wel ontsien.</l>
+<l><edition n="255"/>Daer so meni[ch] paien.</l>
+<l>Vp hem lieden comt gram.</l>
+<l>Ogier die edel man.</l>
+<l n="150">Hilt corteinen alt[oo]s g[eree]t.</l>
+<l>So wien hire mede smeet.</l>
+<l>Bleef gewont ofte doot</l>
+<l>Onse liede wrochten grote moort</l>
+<l parse="ignore">Aym(?) entie neuen sijn</l>
+<l parse="ignore" n="155">Verslougen menigen sarracijn.</l>
+<l>Dor helme ende d[o]r staelhoede.</l>
+<l>Si vochten met s[t]outen moede</l>
+<l parse="ignore"><b>B</b>innen dien hadde die denois</l>
+<supplied resp="editor">Complex D2</supplied>
+<l>Die bisscop noopte [t]er vaert.</l>
+<l n="160">Met s[po]ren dat go[ed]e paert</l>
+<l>Sere hi[jt m]et spore[n sm]eet.</l>
+<l>Mo[nuc.]e hi reet</l>
+<l parse="ignore">In sij[n ge]moet quam waerlike.</l>
+<l parse="ignore">Kerstine hen [...]en[.] van coninge[.] rike.</l>
+<l n="165">Kerstine [hadde z]aen vernomen.</l>
+<l>Den bissc[op] met haesten iegen hem comen.</l>
+<l>Van verre hietene kerstine bide.</l>
+<l>Ende al met staden riden.</l>
+<l>Teerst datten die bisscop [verna]m.</l>
+<l n="170">Queddi den edelen man.</l>
+<l>Doe seide die coninc fijn</l>
+<l>Bisscop wat doen die liede mijn</l>
+<supplied resp="editor">Complex D3</supplied>
+<l parse="ignore">Brumont [.......]</l>
+<l parse="ignore">[S......go......]</l>
+<l parse="ignore" n="175">[Ende ..hi .......]</l>
+<l parse="ignore">[O...] dese se[... die coninc v...]</l>
+<l parse="ignore">D[a]t si ha[estelik]e ten str[ide quam]en</l>
+<l parse="ignore">S[i] porde[n doe sijt] vern[amen]</l>
+<l parse="ignore">Ende [k........ s]ide</l>
+<l parse="ignore" n="180"><pb n="256"/> Die g[oet waren ten stride]</l>
+<l parse="ignore"><b>N</b>[u k......en stri..]</l>
+<l parse="ignore">[dien.........]</l>
+<l>M[akalijn was herde gram]</l>
+<l>Dat hi so grote scade [nam]</l>
+<l n="185">Inden strijt hi voren reet</l>
+<l>Enen lombaert [hi so smeet]</l>
+<supplied resp="editor">Complex D4</supplied>
+<l parse="ignore">Ende vincne met [E]h[....]</l>
+<l parse="ignore">Doe [wert a]ym sere o[n]sta[en]</l>
+<l parse="ignore">Va[n vio[..d]en zone sijn</l>
+<l parse="ignore" n="190">[Ende van m]enigen sarracijn.</l>
+<l parse="ignore">[.]s[e/ere(?) w/re/ro(?)]e[.....]ay</l>
+<l parse="ignore">[T]e hem [quam die] go[e]de t[u]rpijn</l>
+<l parse="ignore">[D]oe h[i....]d[... sach so] g[root]</l>
+<l parse="ignore">[...enis ende......ot]</l>
+<l parse="ignore" n="195">[Re/Ar(?)]nout [ende....]</l>
+<l parse="ignore">Ghe[. ende ....]</l>
+<l parse="ignore">[...............]</l>
+<l parse="ignore">W[..i]e[r ende m]ylo[..]</l>
+<l parse="ignore">V[u]euoen ende [g.....]ijn</l>
+</text>
+<!--</ENTRY>
+--></TEI.2>

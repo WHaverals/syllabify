@@ -1,0 +1,358 @@
+<?xml version='1.0'?><!DOCTYPE TEI.2 PUBLIC '-//TEI P4//DTD Main Document Type//EN' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd' [<!ENTITY % TEI.prose 'INCLUDE'><!ENTITY % TEI.linking 'INCLUDE'><!ENTITY % TEI.figures 'INCLUDE'><!ENTITY % TEI.analysis 'INCLUDE'><!ENTITY % TEI.corpus 'INCLUDE'><!ENTITY % TEI.XML 'INCLUDE'><!NOTATION TEI-XML PUBLIC 'TEI P4' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd'><!-- internal INL dtd --><!ELEMENT b (#PCDATA)><!ELEMENT l (#PCDATA | b)*><!-- end of internal INL dtd -->]><TEI.2><!--<ENTRY id="i622"><teiHeader><fileDesc><titleStmt><title>Parthonopeus van Bloys</title>
+</titleStmt>
+<interpGrp type="pubYear_from"><interp value="1340"/></interpGrp>
+<interpGrp type="witnessYear_from"><interp value="1340"/></interpGrp>
+<interpGrp type="pubYear_to"><interp value="1360"/></interpGrp>
+<interpGrp type="witnessYear_to"><interp value="1360"/></interpGrp>
+<TITEL>Parthonopeus van Bloys</TITEL>
+<author>Onbekend</author>
+<AARD>Rijm</AARD>
+<BRON nr="K181">Maastricht, Rijksarchief in Limburg, 167 III 9 (fragm.)</BRON>
+<DATUM>1340-1360</DATUM>
+<OMVANG>320 verzen</OMVANG>
+<BRON.OPM>Een dubbelblad met per bladzijde 2 kolommen van 40 regels. Te oordelen naar de inhoud gaat het om het binnenste bifolium van een katern. De tekst past inhoudelijk tussen de fragmenten VIII en IX in de editie Bormans, die de tekst bevat van een groot aantal van de overige Parthonopeus-fragmenten (zie onder "Bronnen").</BRON.OPM>
+<EDITIE>E. Verwijs: 'Fragment van den Parthonopeus van Bloys'. In: Handelingen en mededeelingen van de Maatschappij der Nederlandsche Letterkunde te Leiden. Bijlage. 1872, 11-24.</EDITIE>
+<STATUS>Kritisch</STATUS>
+<BRONMNW>1009 </BRONMNW>
+<EDITIE.OPM>De aantekeningen en verwijzing in het notenapparaat, dat zich aan de voet van de pagina bevindt, zijn hier niet overgenomen.</EDITIE.OPM>
+<BRONNEN>De Parthonopeus is in het Middelnederlands alleen fragmentarisch overgeleverd. Van in totaal 5 handschriften zijn er fragmenten bewaard: Hs. 1: - <x nr=K171>Trier, Stadtbibliothek, Mappe IV, deutsche Fragmente, Nr. 3 (fragm.)</x>
+ - <x nr=K172>Berlijn, Staatsbibliothek Preussischer Kulturbesitz, Germ. fol. 757,22 (fragm.)</x>
+ - <x nr=K173>Keulen, Universit&auml;ts- und Stadtbibliothek, 5 P 64 (fragm.)</x>
+ Hs. 2: - <x nr=K174>Keulen, Historisches Archiv, Hss-Fragm. A 45 (fragm.)</x>
+ - <x nr=K175>Leiden, Bibliotheek der Rijksuniversiteit, Ltk. 210 (fragm.)</x>
+ - <x nr=K176>Brussel, Koninklijke Bibliotheek, II 572 (fragm.)</x>
+ Hs. 3: - <x nr=K177>Jena, Universit&auml;ts- und Landesbibliothek, Fol. 155 [fragmenten-Jena&supb;] (fragm.)</x>
+ - <x nr=K178>Jena, Universit&auml;ts- und Landesbibliothek, Fol. 155 [fragmenten-Jena&supa;] (fragm.)</x>
+ - <x nr=K179>Groningen, Bibliotheek der Rijksuniversiteit, 406 (fragm.)</x>
+ - <x nr=K180>Keulen, Erzbisch&ouml;fliche Di&ouml;zesanund Dombibliothek (?), [zoek] (fragm.)</x>
+   Hs.4: - <x nr=K181>Maastricht, Rijksarchief in Limburg, 167 III 9 (fragm.)</x>
+ Hs.5: - <x nr=K182>Praag, Katedra pomocn&yacute;ch ved historick&yacute;ch a archivn&iacute;ho studia na filosofick&eacute; fakulte Karlovy university, z.s. (fragm.)</x>
+</BRONNEN>
+<HSDRUK>Historie van Partinoples - Grave van Bleys</HSDRUK>
+</fileDesc>
+</teiHeader>
+--><text>
+<l><pb n="2"/><milestone unit="fol" n="1ra"/> Ende decte hem onder sinen scilt,</l>
+<l>Daer hi met sorgen hem behilt.</l>
+<l>Parthonopeus gincker op slaen,</l>
+<l>Ende hieu daer af manech spaen,</l>
+<l n="5">Ende lieten te geere waren comen,</l>
+<l>Ende gingen driven ende dromen</l>
+<l>Met swaren slagen ende met sueren,</l>
+<l>Dat hine niewerinc liet gedueren</l>
+<l>No bi stane, no bi vliene.</l>
+<l n="10">Do had die coninc harde ontsiene.</l>
+<l>Hi weec altoes ende dede hem tachter,</l>
+<l>Ende vernam wel dat hi den lachter</l>
+<l><edition n="3"/>Ende [scande] soude hebben, ende het saen</l>
+<l>Met hem ten argesten soude vergaen.</l>
+<l n="15">Hem dochte doe wel sekerlike,</l>
+<l>Dat Parthonopeus erstelike</l>
+<l>Aldaer ierst togede sinen cracht,</l>
+<l>Ende hi te voren te scerne vacht.</l>
+<l>                Dus leert die minne ende geeft</l>
+<l n="20">Den genen die der minnen plegt,</l>
+<l>So geeft si cracht ende raet</l>
+<l>Elken daertoe, dat hem staet.</l>
+<l>Den riddere maectse cone ende vroet,</l>
+<l>Ende geeft heme reyne moet;</l>
+<l n="25">Si leert hem doget ende hovescheit,</l>
+<l>Ende doet hem scuwen alle dorperheit.</l>
+<l>Scone vrouwen, die niet en minnen,</l>
+<l>En mogen nemmer prijs gewinnen:</l>
+<l>Hets recht wel dat sijs plegen.</l>
+<l n="30">Oec hebbic selve lange gedregen</l>
+<l>Ende drage noch int herte binnen</l>
+<l>Ene wonde van sulker minnen,</l>
+<l>Die mi in dinde sal verslaen,</l>
+<l>Ende doch benic hare onderdaen,</l>
+<l n="35">Als hare gevangene ende knecht.</l>
+<l>Souse mi lonen na mijn recht,</l>
+<l>Si soude mijns hebben genade,</l>
+<l>Ende staen een deel in minen rade.</l>
+<l><edition n="4"/>Gi heren, dor God, vernoyt u niet,</l>
+<l n="40">Dat ic binnen derre avonturen yet</l>
+<l><milestone unit="fol" n="1rb"/> Van mire minnen hebbe geleit.</l>
+<l>Gi hebt wel gehort hoemen seit:</l>
+<l>Daer seer, daer hant; daer lief, daer ogen.</l>
+<l>Altoes pinsic ende poge,</l>
+<l n="45">Hoe ic bi enegen treken</l>
+<l>Dicke van der sueter spreke.</l>
+<l>                Parthonopeus sloech menegen slach,</l>
+<l>Dien Sornagur wel sere onsach:</l>
+<l>Hine waende vor hem niet lange staen,</l>
+<l n="50">Alsen Mares sach dus ontdaen</l>
+<l><edition n="5"/>Ende van den live dus staen in noet,</l>
+<l>Ende sinen anxt wesen groet,</l>
+<l>Daerne Parthonopeus sochte,</l>
+<l>Sorgede hi dat lich[telijc mochte]</l>
+<l parse="ignore" n="55">Te lange merren o[........]</l>
+<l parse="ignore" >Sorcursen dor sin[....]</l>
+<l parse="ignore">Sijn teken riep h[i ..........]</l>
+<l parse="ignore">Met luder stimmen [...........]</l>
+<l parse="ignore">Dan hine sach [.............]</l>
+<l parse="ignore" n="60">Die di [............]</l>
+<l>Daer hijs [dick] met hadde beraden.</l>
+<l>Hare cappen si te hant afdaden,</l>
+<l>Ende hadde haerre bare swert ge[reet].</l>
+<l>Mares op Parthonopeus reet,</l>
+<l n="65">Als die gene die ergeren wilde.</l>
+<l>Opten rant van den scilde</l>
+<l>Sloech hine enen groten slach.</l>
+<l>Als dattie coninc Sornagur sach,</l>
+<l>Vele lude riep hi: "Laet, Mares!</l>
+<l n="70">Du wets wel hoet gesekert es.</l>
+<l>Dor rechter trouwen manic di,</l>
+<l>Also lief als di onse ere si,</l>
+<l>So begef deser overdaet,</l>
+<l>Die sere jegen onse ere gaet:</l>
+<l n="75">Laet ons houden ons sekeringe."</l>
+<l>Mares seide die hoge scalckinge:</l>
+<l>"Here," seit hi, "dat en mach niet [sijn].</l>
+<l>Ic sal nu doen den wille mij[n].</l>
+<l>Dan latic niet, wien lief of [leet],</l>
+<l n="80">Dor enegen trouwe of dor [eet],</l>
+<l><milestone unit="fol" n="1va"/> Ic sal u looscen nu teser tijt</l>
+<l><edition n="6"/>Uter groter noet, daer gi in sijt."</l>
+<l>                Als die dusent Fransose sagen,</l>
+<l>Die ter plaetsen gewapent lagen,</l>
+<l n="85">Pongerden si in de Sarrasine.</l>
+<l>Daer quam Fursijn met Faburine.</l>
+<l>Twe coninge de plaetse hilden</l>
+<l>Banderside met dusent scilden,</l>
+<l>Ende pongerden te haren here,</l>
+<l n="90">Die hem mesliet ende clagede sere.</l>
+<l>"Edel heren," seit hi, "dat ons Mares</l>
+<l>Dus heeft gelastert, ic mane u des,</l>
+<l>Dat gine slaet of gine bevaert,</l>
+<l>[Ende den verra]dere niet en spaert."</l>
+<l parse="ignore" n="95">[Si seiden: "ger]ne," ende dadens pine</l>
+<l parse="ignore">[........] die Sarrasine</l>
+<l parse="ignore">[....... m]et haren swerden</l>
+<l parse="ignore">[........] se ende weerden</l>
+<l parse="ignore">[........] jegen die Fransose vach</l>
+<l parse="ignore" n="100">[...............]</l>
+<l parse="ignore">[...] had [.........] man</l>
+<l parse="ignore">Die halsberge al hebben an</l>
+<l>[Dan] die Fransose hadden daer,</l>
+<l>Dat was kinlijc ende openbaer.</l>
+<l n="105">Dus geviel dat Mares vinc</l>
+<l>Parthonopeus den edelen jongelinc;</l>
+<l>Maer het cochte menech man eer.</l>
+<l>Der onser ware daer bleven meer</l>
+<l>Verslegen, en had gedaen de nacht:</l>
+<l n="110">So sere waren si verhacht.</l>
+<l><edition n="7"/>                Sire sekeringen hi niet en vergat.</l>
+<l>Sornagur op een ors gesat,</l>
+<l>Ende vor verbolgen op de sine,</l>
+<l>Als hem somen wart in scine.</l>
+<l n="115">Hi deder onder scade groet,</l>
+<l>Ende hi slogere vele te doet.</l>
+<l>Parthonopeus, die jegen hem vacht,</l>
+<l>[Riep] hi vele binnen der nacht,</l>
+<l parse="ignore">[Ende] sorgede dat sine souden slaen,</l>
+<l parse="ignore" n="120">[....]e verradenesse had gedaen.</l>
+<l><milestone unit="fol" n="1vb"/> Hi riepen vele ende sochte,</l>
+<l>Maer als hine niet vinden en mochte,</l>
+<l>Hilt hine seker over doet:</l>
+<l>Dies haddi anxt ende sorge groet.</l>
+<l n="125">Het was so donker, dat si niet</l>
+<l>En conden gesien, ende there saen sciet.</l>
+<l>                Doen keerden weder die Fransose</l>
+<l>Met groten rouwe te Pontoise.</l>
+<l>Parthonopeus hare jonchere</l>
+<l n="130"><pb n="8"/> Rau hen utermate sere.</l>
+<l>Nu en conde geweten Sornagur,</l>
+<l>Waer hem Parthonopeus ontvoer:</l>
+<l>Dies haddi int herte groten rouwe.</l>
+<l>Nu mogedi horen groten trouwe:</l>
+<l n="135">Hi dede hem onder die Fransose</l>
+<l>Ende vor met hem al te Pontose,</l>
+<l>Als een die te hem behorde.</l>
+<l>Daer vernam hi ende horde</l>
+<l parse="ignore">Groet seer om den here van Bloys</l>
+<l parse="ignore" n="140">[........] hi ende sprac Fransois</l>
+<l parse="ignore">[...............]</l>
+<l parse="ignore">Ende bete neder vor die zale,</l>
+<l>Ende liet sijn ors daer vore staen,</l>
+<l>Ende micte wiet soude ontfaen.</l>
+<l n="145">Hi ginc op ende geninde hem das,</l>
+<l>Also gewapent als hi was,</l>
+<l>Dat hi in sconincs camere ginc.</l>
+<l>Daer sachi om den jongelinc</l>
+<l>So groet seer den coninc driven,</l>
+<l n="150">Dat u nieman mocht gescriven.</l>
+<l>Hi sachgene dicken in ommacht</l>
+<l>Vallen dicke in der selver nacht,</l>
+<l>Ende alle die gene, die met hem waren,</l>
+<l>Hande slaen ende sere mesbaren.</l>
+<l n="155">Elc hadde bi hem den rouwe so groet,</l>
+<l>Ende al om Parthonopeus doet,</l>
+<l><edition n="9"/>Dat si den coninc hare here</l>
+<l>Niet en troesten van haren sere,</l>
+<l>Dat herde tsinen onwille was vergaen,</l>
+<l n="160">Ende hi was bleec ende ongedaen.</l>
+<l><milestone unit="fol" n="2ra"/> "Ay arme !" seit hi, "goede neve,</l>
+<l>Hoe leet es mi dat ic nu leve,</l>
+<l>Sider dat ic hebbe u verloren.</l>
+<l>Nie en wart so soete man geboren,</l>
+<l n="165">Soe goet, so scone, [so] wel gemaect,</l>
+<l>Ende alre doget so wale geraect,</l>
+<l>Als gi waert van uwen ouden.</l>
+<l>Ay God! hoe loeslike was gehouden</l>
+<l>Tvelt van dien verraderen heden,</l>
+<l n="170">Diet begonnen ende bereden,</l>
+<l>Daer ic dus bi bedrogen was ende ben;</l>
+<l>Ya en hebbense al versworen hen,</l>
+<l>Die coninge die mi heden sworen.</l>
+<l>Dus beriet Sornagur te voren,</l>
+<l n="175">Die valsche verradere di[e] quaet es.</l>
+<l>Nu wetti wel ende sijt gewes,</l>
+<l>Dat quaet die wet es die hi heeft,</l>
+<l>Ende valsche trouwe die hi geeft.</l>
+<l>Valschelike heeft hi gelogen:</l>
+<l n="180">Dus comt dat ic ben bedrogen."</l>
+<l>                Sornagur [hevet dese wort]</l>
+<l>Ende dese clage wel gehort.</l>
+<l>Hine mocht den lachter niet gedogen,</l>
+<l>Diemen hem sprac vor sinen ogen.</l>
+<l n="185">Sijn hoeft ontwapendi te hant,</l>
+<l><edition n="10"/>Ende nam tswert bi den orde in de hant,</l>
+<l>Ende liet den appel neder hangen:</l>
+<l>Dus quam hi vor den coninc gegangen.</l>
+<l>Dor genade ende dor vrede</l>
+<l n="190">Dede hi dese omoedichede,</l>
+<l>Ende viel den coninc te sinen voeten</l>
+<l>Met sconen worden ende met soeten.</l>
+<l>"Here coninc," seide hi, "genade dor Got!</l>
+<l>Met minen live doet al u gebot.</l>
+<l n="195">Siet hier, mijn swert hebbic getrect,</l>
+<l>Mijn hooft hebbic u gerect,</l>
+<l>Nu doet uwen wille met mi.</l>
+<l>In welken soet comen si</l>
+<l>Met Parthonopeuse uwen neve,</l>
+<l n="200">Of hi doet si of hi leve,</l>
+<l><milestone unit="fol" n="2rb"/> Dan en es bi gere dinc gesciet,</l>
+<l>Die ic daer toe dede ofte riet.</l>
+<l>Ic ben gereet, mocht u genogen,</l>
+<l>Ens uwe man over een drogen,</l>
+<l n="205">Te done mine onsculdenesse,</l>
+<l>Ende to dogene sulc vonnesse,</l>
+<l>Mocht sijn bi uwen love,</l>
+<l>Alsmen sal vinden in uwen hove,</l>
+<l>Comet te vromen of te scaden.</l>
+<l n="210">En wildijs mi oec niet gestaden,</l>
+<l>Siet hier mijn swert, richt over mi,</l>
+<l>Also alst u bequamelijc si."</l>
+<l>Die coninc nam bi der hulten tswert.</l>
+<l><edition n="11"/>"Na dien," seit hi, "dat gi dus geert</l>
+<l n="215">Ende met oetmode hier comen sijt,</l>
+<l>Al dragic tuwert groten nijt,</l>
+<l>Ic wille gerne [wesen] genadech.</l>
+<l>Al waerdi vele meer mesdadech,</l>
+<l>Mi donke wel an u gelaet,</l>
+<l n="220">Dat gi sijt onsculdich derre daet,</l>
+<l>Ende u int herte e[s vele l]eet</l>
+<l>Onse scade ende [onse] leet."</l>
+<l>Doen antworden die Sarrasijn:</l>
+<l>"Her coninc, gi moget wel seker sijn</l>
+<l n="225">Ende nu wel gelovet dies,</l>
+<l>Dat mi vele leet es u verlies,</l>
+<l>Ende ic herde ben verraden</l>
+<l>Tonsen lachtere ende tonser scaden.</l>
+<l>Nu hort, ic seg u die mi verriet.</l>
+<l n="230">Al dunket u lanc, en vernoye u niet,</l>
+<l>Mi heeft verraden een mijn knecht,</l>
+<l>Die wel gewracht heeft na recht;</l>
+<l>Want het was een dorpers sone,</l>
+<l>Ende dede als dorpere es gewone,</l>
+<l n="235">Dats die oude grave Mares,</l>
+<l>Die hoge bi mi getreden es,</l>
+<l>Die ontwaert was ende harde quaet</l>
+<l>Eer icken dede ane minen raet.</l>
+<l>Hi was oec scalc in allen s[aken],</l>
+<l n="240">Beide in dienste ende in sp[raken]:</l>
+<l><milestone unit="fol" n="2va"/> Omme mine vrome pogede hi.</l>
+<l>So soete was hi jegen mi,</l>
+<l><edition n="12"/>So oemoedich, so gemate,</l>
+<l>Dat icken maecte mijn drossate.</l>
+<l n="245">Doen wart hi minen mannen vreet,</l>
+<l>Ende dede hem vernoy ende leet,</l>
+<l>Ende crincte tgerechte van den lande,</l>
+<l>Ende dede hem lachter ende scande,</l>
+<l>Menege overde ende scade,</l>
+<l n="250">Ende seide, het ware bi minen rade.</l>
+<l>Hier bi maecte hi mi onthout</l>
+<l>Al mine liede jonc ende out.</l>
+<l>Als ic der waerheit al gelie,</l>
+<l>Har negeen en was so cone nie,</l>
+<l n="255">Dat hi mi oyt van heme seide</l>
+<l>Sonder ere ende hovescheide.</l>
+<l>Dat hise wrogede ende was hem fel,</l>
+<l>Dat prijsdic ende bequam mi wel.</l>
+<l>Over rinc en haddic el gene</l>
+<l n="260">Mire man sonder hen allene,</l>
+<l>Ende gaf hem een edel wijf,</l>
+<l>Dies onwert [wa]s sijn bose lijf.</l>
+<l>Dus maectickene palensgrave,</l>
+<l>Daer mi lachter es comen ave.</l>
+<l n="265">Heden, alse hi soude plegen</l>
+<l>Mier eren, heeft hi vort gedregen</l>
+<l>Minen lachter, so dat ic bi hem</l>
+<l>Valsch verradere gescouden ben:</l>
+<l><edition n="13"/>Dies benic erre ende harde onvroe.</l>
+<l n="270">Edel coninc, ocht comen es soe,</l>
+<l>Dat die grave van Blois verslagen si,</l>
+<l>Richt u te hant over mi,</l>
+<l>Ic give u op lijf ende lede,</l>
+<l>Te doen al uwen wille daer mede.</l>
+<l n="275">Over dat verlies heeft dese grave</l>
+<l>Enen coninc over enen grave.</l>
+<l>Wildi mi oec laten leven,</l>
+<l>In wille u nemmermer begeven,</l>
+<l>Ende werde u man eygenlike,</l>
+<l n="280">Ende wille u emmer getruwelike</l>
+<l><milestone unit="fol" n="2vb"/> Dienen in Parthonopeus stat,</l>
+<l>Ende sekeren ende giselen dat,</l>
+<l>Also gelijc alst daertoe staet.</l>
+<l>Dor God nu hebt goeden raet."</l>
+<l n="285">Doen antwerde die coninc van Vrancrike</l>
+<l>Sornagure wel soetelike:</l>
+<l>"Ic en gere," seit hi, "geen ander wrake,</l>
+<l>So hoe comen si die sake,</l>
+<l>Maer dat gi wert mijn gelijc man</l>
+<l n="290">Ende met trouwen wese dan,</l>
+<l>Sonder beraet ende sonder wanc."</l>
+<l>Dies wisten sine man danc.</l>
+<l><edition n="14"/>Alle die horden dese tale</l>
+<l>Prijsdens Sornagure wale,</l>
+<l n="295">Ende seiden, hi ware lovelijc</l>
+<l>Ende in sire wet wel redelijc,</l>
+<l>Ende onsculdech van derre daet:</l>
+<l>Dat ware kinlec an sijn gelaet.</l>
+<l>Doen dede Sornagur die soene,</l>
+<l n="300">Die hi selve boet te doene.</l>
+<l>Sine manscap die coninc ontfinc.</l>
+<l>Do was hi comen te hoger dinc.</l>
+<l>Alse die soeninge was gedaen,</l>
+<l>Die heren ontwapenden hem saen,</l>
+<l n="305">Ende die coninc beval den heren,</l>
+<l>Dat si souden dienen met eren</l>
+<l>Sornagur, dies wert was wale,</l>
+<l>Ende plegen sijns met scoender tale,</l>
+<l>Met smekingen ende met spele.</l>
+<l n="310">Si dadent, maer dies en was niet vele.</l>
+<l>Ho soude ieman met andren mogen</l>
+<l>Bliscap hebben ende hogen,</l>
+<l>Die selve had int herte toren?</l>
+<l>Om Parthonopeus, die was verloren,</l>
+<l n="315">Hadden si alle so droven sin,</l>
+<l>Dat si plagen Sornagurs te min.</l>
+<l>Dies nachts waren die Fransose</l>
+<l>Met groten rouwe binnen Pontose,</l>
+<l>Met groten wenne, met groter clage.</l>
+<l n="320">Smorgens vroech metten dage</l>
+<l parse="ignore">[...............]</l>
+</text>
+<!--</ENTRY>
+--></TEI.2>

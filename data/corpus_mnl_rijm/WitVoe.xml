@@ -1,0 +1,886 @@
+<?xml version='1.0'?><!DOCTYPE TEI.2 PUBLIC '-//TEI P4//DTD Main Document Type//EN' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd' [<!ENTITY % TEI.prose 'INCLUDE'><!ENTITY % TEI.linking 'INCLUDE'><!ENTITY % TEI.figures 'INCLUDE'><!ENTITY % TEI.analysis 'INCLUDE'><!ENTITY % TEI.corpus 'INCLUDE'><!ENTITY % TEI.XML 'INCLUDE'><!NOTATION TEI-XML PUBLIC 'TEI P4' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd'><!-- internal INL dtd --><!ELEMENT b (#PCDATA)><!ELEMENT l (#PCDATA | b)*><!-- end of internal INL dtd -->]><TEI.2><!--<ENTRY id="i427"><teiHeader><fileDesc><titleStmt><title>Lanceloet en het hert met de witte voet</title>
+</titleStmt>
+<interpGrp type="pubYear_from"><interp value="1300"/></interpGrp>
+<interpGrp type="witnessYear_from"><interp value="1300"/></interpGrp>
+<interpGrp type="pubYear_to"><interp value="1350"/></interpGrp>
+<interpGrp type="witnessYear_to"><interp value="1350"/></interpGrp>
+<TITEL>Lanceloet en het hert met de witte voet</TITEL>
+<author>Onbekend</author>
+<AARD>Rijm</AARD>
+<BRON nr="K45">'s-Gravenhage, Koninklijke Bibliotheek, 129 A 10</BRON>
+<DATUM>1300-1350</DATUM>
+<OMVANG>856 verzen</OMVANG>
+<BRON.OPM>Het handschrift staat bekend als de zgn. Haagse Lancelot-codex. Deze bevat in totaal 2+241+2 bladen en per blad 3 kolommen. Het totaal aantal verzen bedraagt 87296. Lanceloet en het hert met de witte voet is in de Haagse codex waarschijnlijk verkort overgeleverd en bevindt zich op fol. 188-190. De codex bevat achtereenvolgens: Boek II: het vervolg van de Roman van Lancelot (fol. 1-99, vs. 1-36947), Roman van Perchevael (fol. 100-115, vs. 36951-42546), Roman van Moriaen (fol. 116-128, vs. 42547-47262); Boek III: Queeste van den Grale (fol. 129-158vc, vs. 1-11160), Wrake van Ragisel (verkorte versie) (fol. 158vc-166, vs. 11161-14580), Roman van den riddere metter mouwen (verkorte versie) (fol. 167-177, vs. 14581-18602), Walewein ende Keye (fol. 178-187, vs. 18603-22270), Lanceloet en het hert met de witte voet (fol. 188-190rb, vs. 22271-23126), Roman van Torec (fol. 190rc-200, vs. 23127-26980); Boek IV: Arturs doet (fol. 201-238, vs. 1-13054). Boek I, met het begin van de Roman van Lancelot, is verloren gegaan.</BRON.OPM>
+<EDITIE>W.J.A. Jonckbloet (ed.): Roman van Lancelot, (XIIIe eeuw). Naar het (eenig-bekende) handschrift der Koninklijke Bibliotheek, op gezag van het gouvernement uitgegeven. 's-Gravenhage, 1846-1849. dl. 2, 151-157.</EDITIE>
+<STATUS>Kritisch</STATUS>
+<BRONMNW>797 </BRONMNW>
+<EDITIE.OPM>Er is gebruik gemaakt van de gedigitaliseerde versie van Jonckbloets uitgave die tot stand kwam aan de KU Nijmegen. Deze elektronische versie bevat enkele kleine verschillen met de editie van Jonckbloet. Niet overgenomen werden: het trema, het uitroepteken, de clausstreep en het commentaar "(sic)"; voorts springt de tekst nergens in. </EDITIE.OPM>
+<BRONNEN>'s-Gravenhage, Koninklijke Bibliotheek, 129 A 10</BRONNEN>
+</fileDesc>
+</teiHeader>
+--><text>
+<div type="chapter"><head type="chapter">LIV. <i>[Vander joncfrouwen metten hondekine ende van Keyen.]</i> </head>
+<l>Daventure vertellet, twaren,</l>
+<l>Doe die heren wech waren,</l>
+<l>Ende die hof gesceden was,</l>
+<l>Daer ic hier vore nu af las,</l>
+<l>22275 Quam ene joncfrouwe gereden daer.</l>
+<l>Een wit hondekin liep haer naer,</l>
+<l>Ende tirst dat si int hof quam</l>
+<l>Ende si den coninc Artur vernam</l>
+<l>Sprac si na haer lans wise:</l>
+<l>22280 "Dat u God lone van paradise,</l>
+<l>Die geweldech es alre sake.</l>
+<l>Her coninc, doet horen mine sprake:</l>
+<l>Hort nu mine aventure meest.</l>
+<l>In dit lant stoet een foreest</l>
+<l>22285 Bi enen sconen gronen dale,</l>
+<l>Dat suldi nu bekinnen wale.</l>
+<l>Dit foreest es beloken al</l>
+<l>Tuscen twee berge in een dal;</l>
+<l>Daer ombe gaen hoge mure:</l>
+<l>22290 Ic waent hem soude werden te sure</l>
+<l>Die met crachte in comen soude,</l>
+<l>Sonder tenen inde vanden woude,</l>
+<l>Daer een wiket staet herde clene.</l>
+<l>Te dire stat ende el ne gene</l>
+<l>22295 Machmen in dat foreest comen,</l>
+<l>Eest alsict hebbe vernomen.</l>
+<l>Ende beneden op ene rivire</l>
+<l>Staet menech boem goet ende dire,</l>
+<l>Daert bi doet wesen soete.</l>
+<l>22300 Een hert met enen witten vote</l>
+<l>Es meester vanden watere al</l>
+<l>Ende vanden foreeste dat staet int dal.</l>
+<l>Vort so bliken optie berge</l>
+<l>Die lyone groet alse dwerge,</l>
+<l>22305 Die den hert alle wachten.</l>
+<l>Het doet daer quaet ieman vernachten:</l>
+<l>Nacht ende dach sijn si gegar;</l>
+<l>Mi ware leet ware ic gespar</l>
+<l>Jegen hen: si sijn soe fel,</l>
+<l>22310 Dat wanic weten harde wel.</l>
+<l>Her coninc, gine hebt niet vernomen</l>
+<l>Op wat saken ic hier ben comen.</l>
+<l>Diegene die mi hier heft gesant,</l>
+<l>Si es coninginne in haer lant,</l>
+<l>22315 Ende van menegen riddere vrouwe.</l>
+<l>Ic daert wel nemen op mine trouwe</l>
+<l>Dat si hevet in haer bedwanc</l>
+<l>Drie coninge al sonder wanc,</l>
+<l>Die gereet tharen dienste sijn.</l>
+<l>22320 Si es scoenre dan dat sonnescijn,</l>
+<l>Beide van hude ende van hare:</l>
+<l>Oec en werd nieman geware</l>
+<l>Dorperheit an hare en twint.</l>
+<l>Si es een utermaten scone kint,</l>
+<l>22325 Ende wel uten rike geboren.</l>
+<l>Bi harre cronen heeft si gesworen</l>
+<l>Dat si nembermer neme man,</l>
+<l>En si die hare gebringen can</l>
+<l>Vanden hert den witten voet.</l>
+<l>22330 Hine es te winne niet so goet:</l>
+<l>So wie die den lyoen slaet,</l>
+<l>Eer hi den hert oec gevaet</l>
+<l>Hi moet di jacht en stic herden:</l>
+<l>Hi saelt hem te sure laten werden.</l>
+<l>22335 Die daer nu varen woude</l>
+<l>Siet hier dit hondekin, datten soude</l>
+<l>Leiden optie rechte slage</l>
+<l>Int foreest, daer die hert lage</l>
+<l>Ende in wandelinge es meest."</l>
+<l>22340 Keye sprac: "Semmi di heilegeest,</l>
+<l>Joncfrouwe, geeft mi dat hondekin,</l>
+<l>Ic sal ember die gene sijn</l>
+<l>Die varen sal alre eerst</l>
+<l>Proven tgeval in dat foreest."</l>
+<l>22345 Die joncfrouwe was blide ende vroe</l>
+<l>Ende liet gene hondekin alsoe</l>
+<l>Met Keyen bliven in dat hof.</l>
+<l>Met bliscepen nam si orlof.</l>
+<l>Des ander dages vele vroe</l>
+<l>22350 Eer die joncfrouwe daer quam alsoe</l>
+<l>Soe was Keye te hove comen,</l>
+<l>Want gi hebt wel hier vore vernomen</l>
+<l>Dat hi qualike te hove was.</l>
+<l>Nu was hi versoent sijt seker das;</l>
+<l>22355 Want sijn mouwe die coninginne</l>
+<l>Haddem gemaect pays ende minne</l>
+<l>Jegen den coninc ende Waleweine.</l>
+<l>Dus es hi weder comen te pleine</l>
+<l>Ende heeft dat hondekin genomen,</l>
+<l>22360 Ende des ander dages comen</l>
+<l>Daer hi messe heeft gehort.</l>
+<l>Daerna quam hi alsoe vort</l>
+<l>Dat hi hem wapende ende reet dane;</l>
+<l>Ende thondekin liep vor hem vast ane,</l>
+<l>22365 Ende Keye volhden vaste naer.</l>
+<l>Die dach was scone ende claer,</l>
+<l>Die vogle songen in dat wout</l>
+<l>Ende optie eerde menechfout.</l>
+<l>Ende een lettel vore middach</l>
+<l>22370 Keye doe ene rivire sach</l>
+<l>Die wide was ende bodemloes,</l>
+<l>Daer hi over moeste altoes.</l>
+<l>Oft hi gedoen conde niet bat,</l>
+<l>Die hont en sochte geen gewat</l>
+<l>22375 Ende vloech over alse een vogel.</l>
+<l>Keye kerde ombe den togel</l>
+<l>Ende reet weder thusward.</l>
+<l>Dat hondekijn swam onvervard</l>
+<l>Weder over dwater wijt.</l>
+<l>22380 Tuscen hen tween was een strijt.</l>
+<l>Doe hi sach dat dede keer</l>
+<l>Doe werd Keyen therte seer,</l>
+<l>Welc sine onscout mochte sijn.</l>
+<l>Doe pensdi dat hi thondekin</l>
+<l>22385 Met sinen swaerde soude slaen</l>
+<l>Ende secgen dat hem ware ontgaen.</l>
+<l>Al was Keye een deel verbolgen</l>
+<l>Hine condet niet achtervolgen.</l>
+<l>Als hi sijn ors nam metten sporen</l>
+<l>22390 Liep dat hondekijn ember voren.</l>
+<l>Dit soe herdi alden dach</l>
+<l>Onthier ende hi die borch sach</l>
+<l>Daer Artur sijn hof hilt.</l>
+<l>Doe liet hi in sinen scilt</l>
+<l>22395 Sijn hoeft jamberlike hangen.</l>
+<l>Her Walewein quam daer gegangen</l>
+<l>Grotelike houdende sijn spot.</l>
+<l>Keye sprac: "Soe hulpe mi God,</l>
+<l>In was henen niet verre</l>
+<l>22400 Doe quam mi an, des benic erre,</l>
+<l>Ene siecheit harde groet.</l>
+<l>Doe moestic keren dor di noet;</l>
+<l>In dorste vorder varen niet,</l>
+<l>In wiste wat mi was gesciet."</l>
+<l>22405 Nu latic van Keyen bliven</l>
+<l>Ende sal u van Lancelote scriven.</l>
+</div>
+<div type="chapter"><head type="chapter">LV. <i>[Hoe Lanceloet den witten voet gewan.]</i> </head>
+<l>Ons telt vort die aventure</l>
+<l>Dat Lancelot ter selver ure</l>
+<l>Int hof was onlange comen.</l>
+<l>22410 Doe hi dese mare heeft vernomen</l>
+<l>Sprac hi al onverbolgen:</l>
+<l>"Bi mire trouwen, ic wille volgen</l>
+<l>Desen hondekine, sonder waen."</l>
+<l>Sinen knape riep hi saen</l>
+<l>22415 Ende dede sine wapine bringen daer naren,</l>
+<l>Ende haeste hem, als di wilde varen</l>
+<l>Bejagen prijs ende lof,</l>
+<l>Ende ruemde Arturs hof,</l>
+<l>Hi was vro ende blide.</l>
+<l>22420 Nu waest in dien tide</l>
+<l>Dat coren bloide op dat velt.</l>
+<l>Hi reet singende sinen telt,</l>
+<l>Niet te sere no niet te sachte.</l>
+<l>Sijn sin ende sine gedachte</l>
+<l>22425 Wisten niet waer dat hi soude,</l>
+<l>Maer waer dat hondekin woude</l>
+<l>Lopen, dien volgede hi [mede],</l>
+<l>Dat horic secgen, [daer ter stede].</l>
+<l>Hine hilt wech [no strate daer]:</l>
+<l>22430 Hi reet met gr[oten gere naer].</l>
+<l>Hine hilt en g[ene raste mede]</l>
+<l>Onthier ende h[i vernam die stede]</l>
+<l>Daer hi quam op [ene riviere].</l>
+<l>Doe sach hi dat [die hont sciere]</l>
+<l>22435 Int water spranc opp[enbare]:</l>
+<l>Doe volgede Lanceloet [sonder sparen]</l>
+<l>Ende gaf den orsse to[gels gnoech].</l>
+<l>Genindelike hi in sloe[ch],</l>
+<l>Ende reet over dwater [metter spoet].</l>
+<l>22440 Doe soe beette Lanceloet</l>
+<l>Neder in dat grone [gras]</l>
+<l>Ende beide dat hi dr[oge was]</l>
+<l>Hi ende sijn ors oec beide.</l>
+<l>Doe verleidi sijn gereide</l>
+<l>22445 Ende sat op al onvervard,</l>
+<l>Ende voer henen ten foreeste [ward].</l>
+<l>Die wech was langer dan min [tale],</l>
+<l>Des mogedi mi geloven wal[e].</l>
+<l>Dus reet hi vort ende vernam</l>
+<l>22450 Int foreest, daer hi gereden quam.</l>
+<l>Eer hi int wiket conde comen</l>
+<l>Hebbene die lione vernomen.</l>
+<l>Met crachte hebben sine bestaen.</l>
+<l>Genindelijc werdi hem saen</l>
+<l>22455 Optie lione met sinen swerde,</l>
+<l>Want hi haers sere begerde.</l>
+<l>Seven lione waren daer doe:</l>
+<l>Hord, ic mach u secgen hoe,</l>
+<l>Wildi die redene daer af horen:</l>
+<l>22460 Een riddere hadde geweest te voren,</l>
+<l>Dire drie hadde geslegen doet.</l>
+<l>Hi werde hem als dijs hadde noet,</l>
+<l>Nochtan moesti tachterst sterven</l>
+<l>Ende sijns lives derven.</l>
+<l>22465 In segt over waer niet vort,</l>
+<l>Maer also alsict hebbe gehort</l>
+<l>Soe darict u vertellen wel.</l>
+<l>Lanceloet, die riddere snel,</l>
+<l>Sloech mengen slach optie lione,</l>
+<l>22470 Die hem wreet waren ende cone,</l>
+<l>Ende die hem niet en vermeden.</l>
+<l>Onder hen quam hi daer gereden,</l>
+<l>Sere slaende ende met nide.</l>
+<l>Doe ontfinc hi in wederside</l>
+<l>22475 Drie wonden groet ende wijt.</l>
+<l>Doe werd hem in nerst die strijt.</l>
+<l>Doe ginc hi hem met cracht weren;</l>
+<l>Hi sach wel hine const ontberen</l>
+<l>Langer niet te sire eren.</l>
+<l>22480 Hi was die niet conste keren</l>
+<l>No vlien, daer hijs hadde noet.</l>
+<l>Mettien sloech hire drie doet.</l>
+<l>Die andere waren hem wreet</l>
+<l>Ende daden hem line ende leet,</l>
+<l>22485 Ende leverden hem wiges gnoech</l>
+<l>Onthier ende hise alle versloech.</l>
+<l>Doe si doet inden sande lagen</l>
+<l>Began hi sine wonden clagen.</l>
+<l>Doch dancti Gode sere das</l>
+<l>22490 [Dat hi] levende bleven was</l>
+<l>[.....]ne harde wreet</l>
+<l>[......]c vore street</l>
+<l>[......]ic so starc gewesen</l>
+<l>[.......]mogen genesen</l>
+<l>22495 [.......]part stoet</l>
+<l>[......]nden stegereep den voet</l>
+<l>[....]hi gewont ende moede</l>
+<l>[...]incker op met groter spoede</l>
+<l>[E]nde reet daerna int foreest.</l>
+<l>22500 [S]ijn ongemac was hem meest.</l>
+<l>[H]i horde vanden vogle di lude</l>
+<l>[D]en roeke vanden soeten crude,</l>
+<l>Dies daer vele was int wout</l>
+<l>Maketde sine herte bout.</l>
+<l>22505 Hi reet weder ende vort:</l>
+<l>Menege stemme heft hi gehort</l>
+<l>Van voglen, die hem wel bequamen,</l>
+<l>Ende sijns leets en deel benamen.</l>
+<l>Hier ende ginder nam hi goem,</l>
+<l>22510 Ende onder enen groffels boem</l>
+<l>Hi den hert doe licgen sach.</l>
+<l>Nu hort wies Lanceloet doe plach:</l>
+<l>Hi nam dat ors metten sporen.</l>
+<l>Die hert saget ende liep voren,</l>
+<l>22515 Ende Lanceloet volgede hem naer,</l>
+<l>Al was hi moede ende swaer.</l>
+<l>Dat hondekijn liet nagaen;</l>
+<l>Eer hijt wiste hattene gevaen.</l>
+<l>Ende doent den hert hadde gevelt</l>
+<l>22520 Reet hi harder dan den telt,</l>
+<l>Ende beette neder op dat gras.</l>
+<l>Des wits voets hi girech was,</l>
+<l>Ende snetene af met sinen swerde.</l>
+<l>Doe viel hi neder an die eerde:</l>
+<l>22525 Hine conste doe gestaen niet.</l>
+<l>Mettien hi enen riddere siet</l>
+<l>Comen op een ors groet.</l>
+<l>Doe so bat heme Lanceloet</l>
+<l>Dat hi tote hem daer quame,</l>
+<l>22530 Ende hi den witten voet name,</l>
+<l>Ende hi hem gelove daer op trouwe</l>
+<l>Dat hine vore der joncfrouwen,</l>
+<l>Ende hi hare oec secgen soude</l>
+<l>Dat hi lage inden woude</l>
+<l>22535 Gewont wonderlike onsochte:</l>
+<l>Hi soude comen so hi irst mochte;</l>
+<l>Ende si nembermer man ne name</l>
+<l>Vor dat hi tote hare quame.</l>
+<l>"Segt hare dat si wel doe</l>
+<l>22540 Altoes, beide spade ende vroe.</l>
+<l>Ic heb mi gepient so sere</l>
+<l>Om die doget om die ere</l>
+<l>Die ic van hare hebbe gehort."</l>
+<l>Mettien stac hi die hant vort</l>
+<l>22545 Ende gaf den riddere den voet.</l>
+<l>Hem hadde geweest alse goet</l>
+<l>Haddine hem gegeven niet.</l>
+<l>Dinc die sal sijn ende met gesciet</l>
+<l>Die moet ember ten inde comen.</l>
+<l>22550 Alsi den voet heeft genomen</l>
+<l>Nam hi sijn swaerd ende Lancelote sloech</l>
+<l>Dat hijt qualike verdroech.</l>
+<l>Hi dede ene dorperlike daet,</l>
+<l>Hads gemogen wesen raet,</l>
+<l>22555 Ende bejagede lettel ere;</l>
+<l>Hi vantene gewont ende wonden mere,</l>
+<l>Ende loende hem met quade goet,</l>
+<l>Alsmen heden dages doet</l>
+<l>Ende heft gedaen menechwarf.</l>
+<l>22560 God, die nie en verstarf,</l>
+<l>Mote alle die bose scrinken,</l>
+<l>So dat si hen moten bedinken,</l>
+<l>Ende alle haer quaetheit laten,</l>
+<l>Ende werken bi rechter maten.</l>
+<l>22565 Die riddere, die fel was harde sere,</l>
+<l>Doe hi gewont hadde den here,</l>
+<l>Soe dat hem dochte dat hi daerbi</l>
+<l>Sterven soude, doe voer hi</l>
+<l>Aldaer doe woende die coninginne.</l>
+<l>22570 Hi was van herten ende van sinne</l>
+<l>Utermaten ende sere vroe</l>
+<l>Dat hem comen was alsoe;</l>
+<l>Hi waende doe wel here wesen.</l>
+<l>Maer eer die rime werd gelesen</l>
+<l>22575 Soe sal hi ondervinden wel</l>
+<l>Oft hem iet beteren sal sijn spel.</l>
+<l>Wat hulpet dat ict lanc makede?</l>
+<l>Alse die riddere der borch nakede,</l>
+<l>Ende hi daer vore gereden quam,</l>
+<l>22580 Een garsoen sijn ors nam</l>
+<l>Ende leidet daermens wale plach.</l>
+<l>Hoe blide hi was doe hi dit sach.</l>
+<l>Selve ginc hi in die zale,</l>
+<l>Daer hi was ontfangen wale</l>
+<l>22585 Van ridderen ende van joncfrouwen,</l>
+<l>Diemen daer menege mochte scouwen.</l>
+<l>Selve die joncfrouwe quam vort gegaen,</l>
+<l>Dine wel daer wilde ontfaen</l>
+<l>Om dat hi hare vremde was.</l>
+<l>22590 In enen boegaerd op dat gras</l>
+<l>Ginc si doe entie riddere mede.</l>
+<l>Nu hort wat hi doe dede.</l>
+<l>"Joncfrouwe," seithi, "gi hebt gesworen</l>
+<l>Vor hen allen die tuwen rike horen</l>
+<l>22595 Dat gi nembermer nemet man</l>
+<l>En si die u gebringen can</l>
+<l>Vanden herte den witten voet.</l>
+<l>Nu sietene hier ende doet</l>
+<l>Al uwen wille nu daer bi.</l>
+<l>22600 Ic wanne quite ende vri</l>
+<l>Met minen swerde optie lyone,</l>
+<l>Die mi fel waren ende cone.</l>
+<l>Te rechte hebbic u gewonnen.</l>
+<l>Alle die gene dies mi veronnen</l>
+<l>22605 Moten hebben quade aventure,</l>
+<l>So sere es hi mi worden te sure."</l>
+<l>Doen dit die joncfrouwe verstoet</l>
+<l>Si nam orlof ende opstoet,</l>
+<l>Ende seide si wils hebben raet.</l>
+<l>22610 Mettien si in die camere gaet.</l>
+<l>"Ellindech wijf. wats mi gesciet.</l>
+<l>Nu ne an mi God der eren niet.</l>
+<l>Wat eest dat men mi doet verstaen.</l>
+<l>Wat hebbic arm wijf mesdaen</l>
+<l>22615 Jegen Gode onsen here?"</l>
+<l>Si weende utermatene sere</l>
+<l>Ende clagede doe haer ongeval.</l>
+<l>"Here, es dit mine bede al,</l>
+<l>Die ic oit bat spade ende vroe,</l>
+<l>22620 Dat mi Got sinde toe</l>
+<l>Daer ic vrolijc met leitde minen tijt?</l>
+<l>Ic wane in die werelt wijt</l>
+<l>En es nu so leeliken niet.</l>
+<l>Wats mi arme nu gesciet.</l>
+<l>22625 Hine scient van gere groter daet,</l>
+<l>Hi es so leelijc ende oec quaet.</l>
+<l>Het doet mi ongeval, en trouwen."</l>
+<l>Mettien vernament die joncfrouwen</l>
+<l>Ende quamen tot hare gegaen,</l>
+<l>22630 Doe sise wenende sagen, saen.</l>
+<l>Si spraken doe alle an hare</l>
+<l>Wat si hadde en wat har ware?</l>
+<l>Si seide: "Gi selet weten wel.</l>
+<l>Sagedi nu genen riddere fel,</l>
+<l>22635 Dien ic soe wel dede ontfaen?</l>
+<l>Mi donct het es alsoe vergaen:</l>
+<l>Hi heeft hier bracht den witten voet:</l>
+<l>Ic bidde u dat gi wel doet</l>
+<l>Ende mi gevet goeden raet;</l>
+<l>22640 Gi moget wel sien hoet mi staet."</l>
+<l>Ene joncfrouwe, die stont bi hare,</l>
+<l>Si seide: "Joncfrouwen nu nemet ware,</l>
+<l>Onse raet en can gehelpen niet.</l>
+<l>Het ware goet datmen siet</l>
+<l>22645 Ende men sinde om uwe man,</l>
+<l>Ende dat si u geraden dan;</l>
+<l>Dat donct mi alre best gedaen."</l>
+<l>Die joncfrouwe seide doe saen:</l>
+<l>"Ic wille sinden dan alte hant</l>
+<l>22650 Om al mine ridders in min lant,</l>
+<l>Dat si comen haestelike</l>
+<l>Alle die horen te minen rike;</l>
+<l>Daer ware sere hars te doene."</l>
+<l>Daer quam doe menech ridder coene</l>
+<l>22655 Ende oec menech jongelinc</l>
+<l>Eer die sonne onderginc</l>
+<l>Ende des ander dages vele vroe.</l>
+<l>Ic horde secgen dat quamen doe</l>
+<l>.Lx. hondert niet min een,</l>
+<l>22660 Die van hare hilden leen.</l>
+<l>Daer quamen oec drie coninge gecroende</l>
+<l>Eer di sonne den dach verscoende,</l>
+<l>Ende met hen so menech man,</l>
+<l>Dat icse niet genomen ne can.</l>
+<l>22665 Si beetten ende gingen in die zale.</l>
+<l>Die joncfrouwe ontfincse wale.</l>
+<l>Doe deetse die coninginne saen</l>
+<l>Int vrijthof te gadere gaen:</l>
+<l>Met hen die gene die si wouden,</l>
+<l>22670 Ende die si waende dat haer souden</l>
+<l>Geraden dbeste dat si consten;</l>
+<l>Ende die haer alles goeds onsten,</l>
+<l>Ende die si oec getroude wel</l>
+<l>Deet sire gaen, ende nieman el.</l>
+<l>22675 Met hen ginc si inden boegaert.</l>
+<l>Die coninge spraken te harrewaerd;</l>
+<l>Wat si gebode, ende wat si woude?</l>
+<l>Si seide dat sijt hen secgen soude.</l>
+<l>"Hier es comen nu tote mi</l>
+<l>22680 Een riddere, in weet wie hi si,</l>
+<l>Ende heeft hier bracht den witten voet,</l>
+<l>(Het heefter menech riddere goet</l>
+<l>Sijn lijf daer ombe verloren).</l>
+<l>Hi heeft mi geleit te voren</l>
+<l>22685 Dat hine met stride gewonnen heft.</l>
+<l>Eest waer dat hi mi segt,</l>
+<l>Sone gewinnic nembermere</l>
+<l>Noch bliscap noch oec ere;</l>
+<l>Hi es soe leelijc ende oec quaet.</l>
+<l>22690 Hier op willic hebben raet.</l>
+<l>Al ware hi te manne gename,</l>
+<l>Godweet, het ware onbetame</l>
+<l>Dat hi u alre here soude sijn."</l>
+<l>Doe antwerde haer daer een coninc fijn:</l>
+<l>22695 "Joncfrouwe, u tale hebwi vernomen.</l>
+<l>Men doe ons hare den ridder comen,</l>
+<l>Ende alse wi horen sine tale</l>
+<l>Soe selewi u geraden wale."</l>
+<l>Doe riepmen den riddere ende hi quam;</l>
+<l>22700 Ende done die joncfrouwe vernam</l>
+<l>Begonste si te weenne sere</l>
+<l>Ende seide: "Willecome, here."</l>
+<l>Hi antwerde hare doe met sinne.</l>
+<l>Ay hoe serech stont di coninginne.</l>
+<l>22705 Dat sine daer nie gesach</l>
+<l>Dat was haerre herten en swaer slach.</l>
+<l>Daer stont een coninc, die wel onste</l>
+<l>Sire vrouwen, ende hi begonste</l>
+<l>Den riddere saen te vragene doe</l>
+<l>22710 Op wat saken ende hoe</l>
+<l>Hi te hove ware comen?</l>
+<l>Alst die riddere hevet vernomen</l>
+<l>Hi seide: "Here, in onse lant</l>
+<l>Es menegen riddere wel becant,</l>
+<l>22715 Ende daer loept oec die niemare</l>
+<l>Dat dese joncfrouwe alsulc ware,</l>
+<l>Dat si niet huwen ne mochte.</l>
+<l>En ware an dien, di haer brochte</l>
+<l>Vanden hert den witten voet.</l>
+<l>22720 Mijn vader es een ridder goet</l>
+<l>Ende hiet mi dat ic varen soude</l>
+<l>Den hert jagen inden woude;</l>
+<l>Des benic nu te hovede comen:</l>
+<l>Den hert hebbic sinen ganc benomen</l>
+<l>22725 Ende hebbe hier sinen voet brocht,</l>
+<l>Dien menech riddere heft becocht.</l>
+<l>Trecht daer af willic daer bi,</l>
+<l>Want hi te sure es worden mi."</l>
+<l>Doe die coninc dit verstoet,</l>
+<l>22730 Pensde hi in sinen moet,</l>
+<l>Dat wel waer mochte wesen.</l>
+<l>Hi seide: "Joncfrouwe, hort na desen:</l>
+<l>Onse raet ende onse macht</l>
+<l>Dats datmen verste .xiiij. nacht;</l>
+<l>22735 In canre niet beters toe gesien.</l>
+<l>Hier binnen so mach vele gescien."</l>
+<l>Den riddere doe evele behagede</l>
+<l>Datmen den verst so lange dagede;</l>
+<l>Hi wiste wel dat hem quaet ware,</l>
+<l>22740 Ende was daeromme te meer in vare.</l>
+<l>Die verste die moeste sijn alsoe.</l>
+<l>Dies was die joncfrouwe blide ende vroe.</l>
+<l>Sine liet geen hof scieden niet.</l>
+<l>Dat si wilde ende dat si hiet</l>
+<l>22745 Dat was scire daer gedaen.</l>
+<l>Nu latic dese tale hier staen,</l>
+<l>Ende late dese heren dus daer bliven,</l>
+<l>Ende sal van Waleweine scriven.</l>
+</div>
+<div type="chapter"><head type="chapter">LVI. <i>Hoe Walewein Lancelote bescudde en enen camp voor hem vacht.</i> </head>
+<l>Daventure doet ons cont,</l>
+<l>22750 Dat Walewein ter selver stont</l>
+<l>Sere dochte dat Lanceloet</l>
+<l>Ware nu in groter noet,</l>
+<l>Om dat hi daer af niet vernam,</l>
+<l>Noch en gene boetscap quam.</l>
+<l>22755 Hi was te Kardole binnen</l>
+<l>Met Arturs wive der coninginnen;</l>
+<l>Ende die coninc hine was daer niet.</l>
+<l>Mettien hi enen knape siet:</l>
+<l>Tote hem riep hine doe saen.</l>
+<l>22760 Hi hietene om sijn ors gaen.</l>
+<l>(Dit was eens mergens vroe).</l>
+<l>Men brachte hem sijn ors doe.</l>
+<l>Hi sat doe op onvervaert,</l>
+<l>Maer hine wiste waerwart</l>
+<l>22765 Dat was dat hi varen soude.</l>
+<l>Maer alset selve God woude</l>
+<l>Reet hi onthier ende hi vernam</l>
+<l>Dat hi vorden foreeste quam.</l>
+<l>Daer sach hi licgen anden sande</l>
+<l>22770 Beide die voete ende die hande</l>
+<l>Vanden ridders dire bleven doet.</l>
+<l>Doe waendi dat ware Lanceloet.</l>
+<l>Hi viel neder doe opt gras</l>
+<l>Van rouwen die hi hadde das:</l>
+<l>22775 Hi dreef dat alre meeste seer</l>
+<l>Dat man sal maken nembermeer,</l>
+<l>Noch nie maketde daer te voren,</l>
+<l>Omdat hi waende hebben verloren</l>
+<l>Lancelote den riddere snel.</l>
+<l>22780 Sident vergout hijt wel.</l>
+<l>Doen sat hi weder op sijn paert</l>
+<l>Ende reet ten foreestewaerd</l>
+<l>Om daer te siene hoet daer stoet.</l>
+<l>Doe sach hi sinen geselle goet</l>
+<l>22785 Nederliggen daer int gras.</l>
+<l>Here God, hoe blide hi doe was.</l>
+<l>Hi beette ende weende sere</l>
+<l>Ende seide: "Lanceloet, geselle, here,</l>
+<l>Segt, wie hevet u dit gedaen?"</l>
+<l>22790 Alse Lanceloet dit hevet verstaen:</l>
+<l>"Soe segt mi wie sidi dan?"</l>
+<l>Walewein antwerde hem daer an:</l>
+<l>"Here, Walewein es min name,</l>
+<l>Dien herde leet es uwe mesquame."</l>
+<l>22795 Doen her Lanceloet dat hoerde</l>
+<l>Nu hort wat hi doe antworde:</l>
+<l>"Walewein, live geselle goet,</l>
+<l>Ic hadde gewonnen den witten voet</l>
+<l>Optie felle lione met crachte,</l>
+<l>22800 Die mi gewont hebben onsachte,</l>
+<l>Alse gi hier nu scouwen moget;</l>
+<l>Doe quam hier en ridder sonder doget,</l>
+<l>Dies ic wel doe werd geware.</l>
+<l>Ic bat hem dat hi quame hare:</l>
+<l>22805 Hi deet doe ende quam te mi.</l>
+<l>Ic seide doe: "Edel riddere vri,</l>
+<l>Ic bidde u, dat gi wel doet,</l>
+<l>Ende voret desen witten voet</l>
+<l>Aldaer die joncfrouwe nu si."</l>
+<l>22810 Doe hine hadde sloech hi mi</l>
+<l>Ende stac mede in minen lichame</l>
+<l>Met sinen swaerde te mire mesquame."</l>
+<l>Ende doe Walewein horde die sake</l>
+<l>Nam hine met groten [on]gemake</l>
+<l>22815 Ende setten vor hem op sijn gereide.</l>
+<l>Uten woude voren si beide.</l>
+<l>Doe hadde Walewein verhort</l>
+<l>Secgen dat daer ene port</l>
+<l>Over enen groten berch stoet,</l>
+<l>22820 Daer een ersatere woende vroet.</l>
+<l>Doe voerdi Lancelote aldare,</l>
+<l>Ende bat hem dat hijs name ware,</l>
+<l>Ende hine genase haestelike.</l>
+<l>Dadijt, hi souden maken rike.</l>
+<l>22825 Ende Walewein wiesde den ersatere mere</l>
+<l>Ene const, die daertoe halp wel sere.</l>
+<l>Ende hi sciet doe van Lancelote</l>
+<l>Ende voer met haesten herde grote,</l>
+<l>Daer die brullocht wesen soude.</l>
+<l>22830 Lettel wiste ieman wat hi woude</l>
+<l>Doen hi daer inder borch quam:</l>
+<l>Lettelgoet ieman ware nam</l>
+<l>Wie hi was, oft wat hi wilde;</l>
+<l>Daer was so menech ridder milde.</l>
+<l>22835 Maer eer dat quam die avont</l>
+<l>Soe waest menegen riddere cont.</l>
+<l>Ende het was op dien dach comen,</l>
+<l>Dattie riddere soude hebben genomen</l>
+<l>Tenen wive die joncfrouwe:</l>
+<l>22840 Dies was int hof doe groten rouwe</l>
+<l>Van allen den genen die daer waren,</l>
+<l>Dat so verre was gevaren.</l>
+<l>Daer was een caplaen gereet:</l>
+<l>Die joncfrouwe quam, al wast haer leet,</l>
+<l>22845 Om den riddere belof te doene.</l>
+<l>Mettien quam der Walewein die coene</l>
+<l>Ende vrachde daer doe oppenbare</l>
+<l>Wat manne dattie gene ware</l>
+<l>Die de joncfrouwe hebben soude?</l>
+<l>22850 Die ridders vrachden wat hi woude?</l>
+<l>"Wat ic wille? " Doe sprac di quade:</l>
+<l>"Ic hebse gewonnen met rechter dade."</l>
+<l>"Wonstuse?" "Jaic," seit hi, "en trouwen.</l>
+<l>"Du liges: dat sal di noch berouwen.</l>
+<l>22855 Dune ontfars mi in die helle</l>
+<l>Ic sal wreken minen geselle,</l>
+<l>Die di op trouwe ende op goet</l>
+<l>Gaf te vorne den witten voet;</l>
+<l>Ende du daets dijns selfs onnere,</l>
+<l>22860 Want min geselle was gewont sere,</l>
+<l>Ende du wondetsene meer daertoe.</l>
+<l>Dies biedic hier den hanscoe,</l>
+<l>Eest dattune daers ontfaen."</l>
+<l>Doe antwerde die riddere saen:</l>
+<l>22865 "Du liges vulike alse een quaet.</l>
+<l>In wiste noit van sulker daet</l>
+<l>Alse gi mi hier tiet an.</l>
+<l>Alse gijs berouwenesse hebt dan</l>
+<l>Dan saelt wesen alte spade."</l>
+<l>22870 Mettien so werd di camp gestade.</l>
+<l>Echt soe sprac die riddere doe</l>
+<l>Te Waleweine, ic segt u hoe:</l>
+<l>"In weet wat gi hebt vernomen,</l>
+<l>Maer gi sijt an ene sotheit comen</l>
+<l>22875 Dat gi mi beroept, secgic u,</l>
+<l>Van selker dinc alse gi sprect nu;</l>
+<l>Soe hoe sore mede es gesciet,</l>
+<l>Ic ne waers hier sculdech niet</l>
+<l>Redene te houdene jegen u.</l>
+<l>22880 Het es so verre comen nu,</l>
+<l>Dattie camp wesen moet.</l>
+<l>Ic weet mi selve nu so goet,</l>
+<l>Ende van deser dinc so claer,</l>
+<l>Ic ontsie u niet een haer."</l>
+<l>22885 Walewein die sprac sine doget:</l>
+<l>"Riddere, ontsiet mi, oft gi moget.</l>
+<l>Dat wetic wel, dat gi mi niet</l>
+<l>Van enen cleinen hare ontsiet;</l>
+<l>Maer God weet, ic ontsie u min.</l>
+<l>22890 In weet oft doet min domme sin.</l>
+<l>Hebdi doget, gi sultse vinden.</l>
+<l>Ic soude mi node onderwinden</l>
+<l>So hoger dinc, ic segt u twi:</l>
+<l>En es om geen spel, dat donct mi,</l>
+<l>22895 Hets om dlijf ende om di ere.</l>
+<l>In hadde hier nembermere</l>
+<l>U met so hoger dine beseit,</l>
+<l>In hadde wel die waerheit</l>
+<l>Geweten, ende oec bi welker sake."</l>
+<l>22900 Dus bleef daer harre tweer sprake.</l>
+<l>Des was die joncfrouwe harde vroe</l>
+<l>Ende alle die daer waren doe,</l>
+<l>Ende mede die haer waren hout.</l>
+<l>Ende Walewein, die riddere stout,</l>
+<l>22905 Dede hem wapenen daer te hant:</l>
+<l>Sine coisen hi doe bant:</l>
+<l>Sinen halsberch scuddi ane,</l>
+<l>Die hem wel sat, na minen wane;</l>
+<l>Den wapenroc hire boven doet.</l>
+<l>22910 Men brachte hem den helm goet,</l>
+<l>Die wel jegen slage mochte,</l>
+<l>So wat so menne gerochte,</l>
+<l>Jegen steke ende jegen slagen.</l>
+<l>Hine wilde des camps niet verdagen,</l>
+<l>22915 Want doe hi al gewapent was</l>
+<l>Dedi bringen in dat gras</l>
+<l>Sijn ors, dat scone was ende groet.</l>
+<l>Hi seinde hem daer te deser noet.</l>
+<l>Wat hulpt dat icker vele af seide?</l>
+<l>22920 Wel geatsemert warense beide:</l>
+<l>Daertoe waren si beide goet.</l>
+<l>Si daden een rikelijc gemoet,</l>
+<l>Ende si hen daer soe onderstaken,</l>
+<l>Dat harre beider scachte braken.</l>
+<l>22925 Si vingen doe beide ten swerde,</l>
+<l>Want elkerlijc anderen geerde.</l>
+<l>Met nide si di swaerde verdrogen</l>
+<l>Ende grote slage daer met slogen,</l>
+<l>Manlijc op anderen mengen slach,</l>
+<l>22930 Dat hem wonderde wie dat sach.</l>
+<l>Si vochten dus lange ende sere.</l>
+<l>Die joncfrouwe sprac: "God onse here</l>
+<l>Moete Waleweine nu gestarken."</l>
+<l>Men mochte daer sien di sparken</l>
+<l>22935 Die ut haren helmen spranc:</l>
+<l>Si maecten daer groet geclanc,</l>
+<l>Daer ne was en geen verdrach:</l>
+<l>Si slogen menegen swaren slach.</l>
+<l>Wat hulpet dat ict lanc maecte?</l>
+<l>22940 Walewein sloech doe ende geraecte</l>
+<l>Den riddere dat hi hem clovede</l>
+<l>Den helm ende al metten hovede,</l>
+<l>Dat hem tswaerd dorewoet</l>
+<l>Ten scouderen eert wederstoet.</l>
+<l>22945 Daer was een gecrijs groet:</l>
+<l>Hi viel neder ende was doet.</l>
+<l>Men bantene an eens perts start,</l>
+<l>Men sleiptene (hi waes wel waerd)</l>
+<l>Men sleiptene vord ende weder</l>
+<l>22950 Te berge op, te dale neder.</l>
+<l>Aldus moten si alle bederven</l>
+<l>Die hen loesheiden bewerven.</l>
+<l>Ic daert wel nemen op min trowe,</l>
+<l>Dat nu blide was die joncfrouwe</l>
+<l>22955 Ende alle die met hare waren.</l>
+<l>Walewein seide doe: "Ic wille varen"</l>
+<l>Besien wat sijn geselle dade.</l>
+<l>Die joncfrouwe seide: "Het is te spade.</l>
+<l>Ne ware, ward u bequame,</l>
+<l>22960 Ic wiste nu gerne sinen name."</l>
+<l>Doe sprac weder die riddere snel:</l>
+<l>"Joncfrouwe, men magen nomen wel;</l>
+<l>Hi es die beste riddere die leeft</l>
+<l>Ende die werelt binnen heft,</l>
+<l>22965 Ende die scoenste oec daer mede."</l>
+<l>Die joncfrouwe sprac: "Al mine bede</l>
+<l>Ne hebbic dan niet verloren,</l>
+<l>Die ic hebbe gebeden hier voren."</l>
+<l>"Joncfrouwe, hi hetet Lanceloet.</l>
+<l>22970 In sach noit sinen genoet</l>
+<l>Van te doene grote daet.</l>
+<l>Ic wiste gerne hoet met hem staet."</l>
+<l>Die joncfrouwe antwerde hem des:</l>
+<l>"Ic secgu, riddere, wat nu es:</l>
+<l>22975 Gi sult doen uwes selfs ere</l>
+<l>Ende met mi bliven tramere;</l>
+<l>Ende margen alse di sonne opgaet,</l>
+<l>Oft u so int herte staet,</l>
+<l>So vaert daer u geselle si."</l>
+<l>22980 Doen sprac die riddere vri:</l>
+<l>"Joncfrouwe, ic sal doen u gebot."</l>
+<l>"Here," seit si, "dat lone u Got."</l>
+<l>Doe was Walewein hovescelike</l>
+<l>Ontfaen van menegen ridder rike.</l>
+<l>22985 Al die gene di waren dare</l>
+<l>Namen sijns do grote ware.</l>
+<l>Alset opten etentijt quam</l>
+<l>Die joncfrouwe Waleweine metter hant nam</l>
+<l>Ende dedene sitten neven hare.</l>
+<l>22990 Si nam sijns daer gode ware;</l>
+<l>Ende die daer dienden in di zale</l>
+<l>Plagen sijns daer harde wale.</l>
+<l>Doe dat eten was gedaen</l>
+<l>Ende die riddere opgestaen</l>
+<l>22995 Maecten si bliscap ende spel,</l>
+<l>Want hen allen voget wel.</l>
+<l>Nu hort wat die joncfrouwe doet.</l>
+<l>"Walewein," seitsi, "riddere goet,</l>
+<l>Ic weet wel gine wilt letten niet:</l>
+<l>23000 Alse gi uwen geselle siet</l>
+<l>Quedten mi, des biddic u.</l>
+<l>Ic bevele u te Gode nu:</l>
+<l>In weet wanneer ic u mer sie;</l>
+<l>Ic biddu, dat u goet gescie,</l>
+<l>23005 Dat gi met uwen geselle weset</l>
+<l>Onthier ende hi wel geneset,</l>
+<l>Ende gi met hem comet hier."</l>
+<l>Doe sprac Walewein, die ridder fier:</l>
+<l>"Joncfrouwe, dat salic doen al,</l>
+<l>23010 Geeft mi God geluc ende geval."</l>
+<l>Doen dese tale was gedaen</l>
+<l>Ginc si in hare camere saen,</l>
+<l>Ende doen gingen die knapen</l>
+<l>Waleweine saen een bedde maken,</l>
+<l>23015 Dat rikelijc was ende scone:</l>
+<l>Al hadde hi gedragen crone</l>
+<l>Tote Akers inden selven dage,</l>
+<l>So mochte hire wel, sonder sage,</l>
+<l>Op hebben gelegen harde wel.</l>
+<l>23020 Een knape starc ende snel</l>
+<l>Brachte enen cuelc sidijn</l>
+<l>Ende orcussen purperijn:</l>
+<l>Een ander brachte daer gedregen</l>
+<l>Twe slapelakene niedwegen,</l>
+<l>23025 Wit gevouden ende cleene,</l>
+<l>Daer noit man oec ne geene</l>
+<l>So goet met ogen ne sach,</l>
+<l>Alse daer Walewein doe op lach.</l>
+<l>Doe si op dat bedde waren gespreet,</l>
+<l>23030 Brachte ene joncfrouwe daer gereet</l>
+<l>Een covertuer bespringet met goude,</l>
+<l>Die hi over hem hebben soude.</l>
+<l>Die al die werelt ware dorgaen</l>
+<l>Hine hadde negene so gedaen</l>
+<l>23035 Vonden, bedi si was so goet:</l>
+<l>Tgesticte datter ane stoet</l>
+<l>Ne coste niet so lichtelike,</l>
+<l>Men priset vor een conincrike.</l>
+<l>Doe dat bedde was gereet</l>
+<l>23040 Een knape om Waleweine geet,</l>
+<l>Dine slapen dede comen.</l>
+<l>Doe hi dat bedde hadde vernomen</l>
+<l>Soe rikelike ende soe goet,</l>
+<l>Doe seide hi in sinen moet,</l>
+<l>23045 Dat hi noit daer ne quam</l>
+<l>Daer hi so goet enech vernam.</l>
+<l>Hi dede na dat hem was bewant</l>
+<l>Ende ginc slapen altehant.</l>
+<l>Ende des marge[ns] herde vroe</l>
+<l>23050 Stont hi op ende nam orlof doe,</l>
+<l>Ende sat met haesten op sijn paert</l>
+<l>Ende voer te sinen geselle waerd.</l>
+<l>Doe hi quam daer hine liet</l>
+<l>En was hi wel genesen niet.</l>
+<l>23055 Al waest hem te doene swaer</l>
+<l>Hi moeste na hem beiden daer</l>
+<l>Onthier ende dat hem dochte</l>
+<l>Dat hi wapine dragen mochte,</l>
+<l>Oft noet ware ende te doene.</l>
+<l>23060 Doe dede Walewein die coene</l>
+<l>Jegen den ersatere alsoe,</l>
+<l>Dat hijs blide was ende vroe,</l>
+<l>Ende hietse beide ter selver stont</l>
+<l>Varen ende keren gesont.</l>
+<l>23065 Si saten op so dat si vernamen</l>
+<l>Dat si beide ter borch quamen.</l>
+<l>Men werd hens geware saen:</l>
+<l>Die joncfrouwe quam jegen hen gegaen</l>
+<l>Ende hietse wellecome wesen.</l>
+<l>23070 "Vrient," seit si, "sidi genesen?"</l>
+<l>"Jaic, joncfrouwe, sonder wanc,</l>
+<l>Des moet God hebben danc."</l>
+<l>Walewein sprac: "Joncfrouwe goet,</l>
+<l>Wat donct u best watmen doet?</l>
+<l>23075 Mijn geselle es comen nu,</l>
+<l>Die hier gewonnen hevet u,</l>
+<l>Dat hem worden es te sure;</l>
+<l>Maer hine wilt op dese ure</l>
+<l>Niet gehuwen, dat si u cont;</l>
+<l>23080 Hi willet u versten toter stont</l>
+<l>Dat hi weder comet hier</l>
+<l>Met sinen magen alse ridder fier;</l>
+<l>Maer hi wilt dat gi dus blieft,</l>
+<l>Ende dat gijs geen ongedout en drieft,</l>
+<l>23085 Al eest dat hi u dus laet."</l>
+<l>Die joncfrouwe, die haer wel gemaect</l>
+<l>Antwerde: "Here, lude ende stille</l>
+<l>Benic gereet te sinen wille:</l>
+<l>Ic sal beiden, hoe dat oec si</l>
+<l>23090 Alse lange alse sijn wile si;</l>
+<l>Ende oec salic na sinen rade</l>
+<l>Werken beide vroech ende spade."</l>
+<l>Dit behagede Lancelote wel,</l>
+<l>Want hi in nereste no in spel,</l>
+<l>23095 Noch oec om lief, no om leet.</l>
+<l>Noch om gene dinc di hem overgeet,</l>
+<l>Noch om al die werelt oec mede</l>
+<l>En haddise niet genomen ter stede,</l>
+<l>Ende omder coninginnen wille,</l>
+<l>23100 Die hi minde lude ende stille:</l>
+<l>Dit was hem die meeste sake.</l>
+<l>Men dede die heren wel te gemake:</l>
+<l>Daer was bliscap ende spel groet.</l>
+<l>Die coninginne ende oec Lanceloet</l>
+<l>23105 Saten te gadere ende spraken daer.</l>
+<l>Hi bequam hare wel vorwaer.</l>
+<l>Si wilde, hebbic vernomen,</l>
+<l>Dattie brullocht ware volcomen;</l>
+<l>Maer si scaemde hare, dat secgic u,</l>
+<l>23110 Dat sine eyschen soude nu.</l>
+<l>Dus bleven si twe dage daer,</l>
+<l>Ende des derdes dages daernaer</l>
+<l>Namen si orlof beide te samen</l>
+<l>Ende reden so verre, dat si quamen</l>
+<l>23115 Te Arturs hove te Karmeloet,</l>
+<l>Daer doen bliscap was wel groet</l>
+<l>Omdat si beide comen waren.</l>
+<l>Si telden hoe si hadden gevaren</l>
+<l>Den coninc ende der coninginnen.</l>
+<l>23120 Des waren si blide in haren sinne</l>
+<l>Dat hen dus was vergaen.</l>
+<l>Nu latic hier af die tale staen,</l>
+<l>Ende sal u vertellen, alsict vernam;</l>
+<l>Hoe Torec irst ter werelt quam,</l>
+<l>23125 Ende hoe hi daerna quam te hove</l>
+<l>Ende werd een riddere van grote love.</l>
+</div>
+</text>
+<!--</ENTRY>
+--></TEI.2>

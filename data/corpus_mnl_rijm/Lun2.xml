@@ -1,0 +1,468 @@
+<?xml version='1.0'?><!DOCTYPE TEI.2 PUBLIC '-//TEI P4//DTD Main Document Type//EN' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd' [<!ENTITY % TEI.prose 'INCLUDE'><!ENTITY % TEI.linking 'INCLUDE'><!ENTITY % TEI.figures 'INCLUDE'><!ENTITY % TEI.analysis 'INCLUDE'><!ENTITY % TEI.corpus 'INCLUDE'><!ENTITY % TEI.XML 'INCLUDE'><!NOTATION TEI-XML PUBLIC 'TEI P4' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd'><!-- internal INL dtd --><!ELEMENT b (#PCDATA)><!ELEMENT l (#PCDATA | b)*><!-- end of internal INL dtd -->]><TEI.2><!--<ENTRY id="i548"><teiHeader><fileDesc><titleStmt><title>Cracht der mane I, Collectief lunarium II (berijmd)</title>
+</titleStmt>
+<interpGrp type="pubYear_from"><interp value="1434"/></interpGrp>
+<interpGrp type="witnessYear_from"><interp value="1434"/></interpGrp>
+<interpGrp type="pubYear_to"><interp value="1436"/></interpGrp>
+<interpGrp type="witnessYear_to"><interp value="1436"/></interpGrp>
+<TITEL>Cracht der mane I</TITEL>
+<TITEL>Collectief lunarium II (berijmd)</TITEL>
+<author>Onbekend</author>
+<AARD>Rijm</AARD>
+<BRON nr="D7">Oudenaarde, Stadsarchief, 5556/13</BRON>
+<DATUM>1434-1436</DATUM>
+<OMVANG>442 verzen</OMVANG>
+<BRON.OPM>Papieren handschrift van 189 bladen, 2 kolommen per bladzijde, 33 tot 39 regels per kolom. Het lunarium bevindt zich op fol. 184v-187v. Het handschrift bevat verder o.m. de Spiegel der sonden (proza) (fol. 2r-104v), een uittreksel uit Suso's Horologium Aeternae Sapientiae (fol. 157r-163r) en een gedeelte van de Natuurkunde van het geheelal (fol. 170r-179v)</BRON.OPM>
+<EDITIE>N. de Pauw: Middelnederlandsche gedichten en fragmenten. Dl. 1. Gent, 1893-1897, 205-218</EDITIE>
+<STATUS>Kritisch</STATUS>
+<BRONMNW>914.A.IV</BRONMNW>
+<EDITIE.OPM>De foli&euml;ring, die in de editie De Pauw ontbreekt, werd overgenomen uit de diplomatische editie van deze tekst, gemaakt door R. Jansen-Sieben (zie R. Jansen-Sieben: De natuurkunde van het geheelal. Een 13de-eeuws Middelnederlands leerdicht. Brussel, 1968, p. 589-598.</EDITIE.OPM>
+<BRONNEN>Oudenaarde, Stadsarchief, 5556/13</BRONNEN>
+</fileDesc>
+</teiHeader>
+--><text>
+<l><pb n="205"/><milestone unit="fol" n="184va"/> Een heilich man, Daniel,</l>
+<l>Seet ons dese redene wael;</l>
+<l>Salomon eest dies orcondt</l>
+<l>Dat hi nye mit sinen monde</l>
+<l n="5">Anders dan waer en seide</l>
+<l>Hij seide nae der waerheide</l>
+<l>Dat droem ende visione</l>
+<l>Bi der manen nemen si gome;</l>
+<l>Bi der manen neemt men ware</l>
+<l n="10">Van live, van dade apenbare.</l>
+<l>Hij seet: Als die mane prime si,</l>
+<l>Tallen dingen es se guet si;</l>
+<l>Tkijnt, dat dan wort geboren,</l>
+<l>Is ten gueden wercke vercoren,</l>
+<l n="15">Lange salt leven ende sijn vroet,</l>
+<l>Hij vijndet gescreven dat waer sijn moet.</l>
+<l>Hij sal sijn guet coepman,</l>
+<l>Ende landt te wijnnen guet ackerman,</l>
+<l>Guet te wijnnen ende geradich</l>
+<l n="20">Ende te durne lange gestadich.</l>
+<l parse="ignore">Eest oec dattet si een meysken,</l>
+<l parse="ignore">Soe salt suver ende schoen sijn.</l>
+<l>Dien dan comt an ongesonde,</l>
+<l>Si sal geduren lange stonde.</l>
+<l n="25">Dan sijn die dromen loes</l>
+<l>Meer dan ennigen tijt altoes.</l>
+<l>Bi der manen soe geet all</l>
+<l><edition n="206"/>Dat in die werlt heeft geval;</l>
+<l>Ende wildijs nemen waer,</l>
+<l n="30">Gij moget proven apenbaer.</l>
+<l>Hier moechdi grote virtute horen:</l>
+<l>Een kijnt, dat wort geboeren</l>
+<l>Alse secunde is die mane,</l>
+<l>Alle guet vloyet hem ane:</l>
+<l n="35">Dan daet guet met sijnnen</l>
+<l>Alle ambochte begijnnen.</l>
+<l>Die dan geboeren wort, als wi lesen,</l>
+<l><milestone unit="fol" n="184vb"/> Hij sal vroet ende sachte wesen;</l>
+<l>Dies en ontsie cleyn noch groet,</l>
+<l n="40">Hij sal sterven schoenre doet.</l>
+<l>Die en worden nummer soe verholen</l>
+<l>Dingen die dan sijn gestolen,</l>
+<l>Si en werden wedervonden,</l>
+<l>Wil men derom pinen tien stonden.</l>
+<l n="45">Die dan wort ongesont,</l>
+<l>Hij geneest in corter stont.</l>
+<l>Dan sijn die droem loes,</l>
+<l>Dies sijt seker altoes.</l>
+<l>Alse tertie is die mane,</l>
+<l n="50">Dan doet ons dit boec verstaen,</l>
+<l>Dat totter primetijt is guet</l>
+<l>Alle dinc die men doet;</l>
+<l>Mer alse prime lijdt,</l>
+<l>Soe verargert die tijt;</l>
+<l n="55">Dan sal men hueden van comenscape,</l>
+<l>Ende van der zee te vaeren mit scepen:</l>
+<l>Eeren, sayen, copen, vercopen,</l>
+<l>Daeraff dat men luttel hopen</l>
+<l>Enne si doer Gads wille allene,</l>
+<l n="60">Ende doer andere wijnninge engheen.</l>
+<l>Die dan yet copen sall,</l>
+<l><edition n="207"/>Hij sal die wijnninge hebben smal.</l>
+<l>Dan sal men peerde telden leren</l>
+<l>Ende fel beesten van quaden seden leren.</l>
+<l n="65">Dien dan quade ziecheit comt toe,</l>
+<l>Neghen dagen blijft se soe</l>
+<l>Mit hem; en si dat sake</l>
+<l>Dat hij mit genen gemake</l>
+<l>Opten tienden dach mach opstaen,</l>
+<l n="70">Soe is sijn leven gedaen.</l>
+<l>Tkijnt dat dan geboren sal sijn</l>
+<l>Stout ende fier, ende quaet fijn</l>
+<l>Saelt sterven, ende armeliken</l>
+<l>Salt doen ende keytiveliken,</l>
+<l n="75"><milestone unit="fol" n="185ra"/> Het sal die doet mit suerden ontfaen</l>
+<l>Ofte aen galgen hangen zaen.</l>
+<l>Alse vier dage heeft die mane,</l>
+<l>Elc man vang coenliken ane</l>
+<l>Alrehande werc ende begijnne,</l>
+<l n="80">Het sal hem comen te gewijnne.</l>
+<l>Die dan geboeren wort, eest wijff of man,</l>
+<l>Luxurie sal hem comen an.</l>
+<l>Dat verstolen is tien stonden</l>
+<l>Dat wort wedervonden.</l>
+<l n="85">Bijnnen seven dagen, noemdijs goem,</l>
+<l>Ondervijndi uwen droem.</l>
+<l>Die mane opten vijften dach</l>
+<l>Beteykent ons quaet bejach.</l>
+<l>Tkijnt, dat dan wort geboren, sal onlange leven;</l>
+<l n="90">Ende levet lange, et sal sneven,</l>
+<l>Ende hebben veel pynlicheiden.</l>
+<l>Ende die dan wort met siecheiden,</l>
+<l>Hij sal sterven in grote pine.</l>
+<l>Nyemant en vertelle den droem sijn,</l>
+<l n="95">Bedi si beteikent quaet ende guet,</l>
+<l><edition n="208"/>Ende eest quaet, dies is onspoet.</l>
+<l>Dmeisken dat dan wort geboren,</l>
+<l>Het sal quelliken sterven, alse wi horen,</l>
+<l>Ende het sal ter dolheit trecken</l>
+<l n="100">Ende guet te quade verwecken.</l>
+<l>Die seste mane brengt ons guet,</l>
+<l>Ende ten gueden dingen spoet.</l>
+<l>Die iet verliest, hij vijndet zaen;</l>
+<l>Ende die mit ziecheiden wort bevaen,</l>
+<l n="105">Hij geneest zaen sonder toren.</l>
+<l>Tkijnt, dat dan wort geboren,</l>
+<l>Sal sijn livech ende waerachtich,</l>
+<l>Ende schoen ende berechtich.</l>
+<l>Dmeisken dat dan lijff gewijnt,</l>
+<l n="110"><milestone unit="fol" n="185rb"/> Dat sal sijn zere gemijnt.</l>
+<l>Elc man sal dan ondervijnden, dies goemt,</l>
+<l>Dat hem dan bi nachte droemt.</l>
+<l>Die sevende maent, als wi verstaen,</l>
+<l>Si is guet, al sonder waen,</l>
+<l n="115">Beide vroech ende spade.</l>
+<l>Die dan sieck wort, hi mach bi rade</l>
+<l>Bijnnen den vijften dach genesen.</l>
+<l>Die dan geboeren sal wesen,</l>
+<l>Eest dat hij ridder si,</l>
+<l n="120">Coene ende guet van orloge wort hi;</l>
+<l>Eest oec dat men hem clerc maect,</l>
+<l>In gueden leven wort hi geraect,</l>
+<l>Hi wort bisscop ende in gueden doen</l>
+<l>Ofte groet man van religioene;</l>
+<l n="125">Wort hi coman, guet hi wijnnet.</l>
+<l>In enen dage sinen droem hi ondervijndet.</l>
+<l>Die achtende maent is guet.</l>
+<l>Dingen te vijndene geet si spoet,</l>
+<l>Die dan tsijn verloeren.</l>
+<l n="130"><pb n="209"/> Die dan siecheit heeft ende toren,</l>
+<l>Hij sal zaen sijn genesen</l>
+<l>In corten tijden, ofte doet wesen.</l>
+<l>Die dan ter werlt wort genesen,</l>
+<l>Vroet sal hij sijn ende lange leven;</l>
+<l n="135">Ende eest oec een meisken,</l>
+<l>Het sal vroet ende suver sijn.</l>
+<l>Die dan heelt sinen droem,</l>
+<l>Bijnnen X dagen ondervijndt hi hem, neemt hijs goem.</l>
+<l>Alse die mane heeft IX dage,</l>
+<l n="140">Dat seg ic u sonder sage,</l>
+<l>Dat se dan guet si;</l>
+<l>Want dinc, die verstolen si,</l>
+<l>Sal haesteliken sijn vonden.</l>
+<l>Tkijnt, die geboeren wort tien stonden,</l>
+<l n="145"><milestone unit="fol" n="185va"/> En sal niet leven VIJ jaer:</l>
+<l>Ic seg u over waer,</l>
+<l>Verborren off verdroncken of verslegen</l>
+<l>Wordet aldus is sijn doet gelegen.</l>
+<l>Drome werden dan ondervonden</l>
+<l n="150">Bijnnen IIJ dagen, ende ontbonden.</l>
+<l>Bernende sijnne sal hebben dmeisken,</l>
+<l>Dat dan geboeren sal sijn;</l>
+<l>Lichteliken sal ment mogen brengen</l>
+<l>Te keytiveliken dingen.</l>
+<l n="155">Die tiende maent is quaet apenbaere.</l>
+<l>Waert dat dan geboeren waere</l>
+<l>Een meysken, et soude quaet bliven</l>
+<l>Totten eynde van sinen live.</l>
+<l>Eest een knechtken, et sal dolle</l>
+<l n="160">Sijn ende van pilicheiden voll;</l>
+<l>Geerne salt vechten ende striden</l>
+<l>Ende mit pilicheiden sinen tijt liden.</l>
+<l>Drome, die dan comen an,</l>
+<l><edition n="210"/>Die sijn loes elken man.</l>
+<l n="165">Die XIste maent is haert.</l>
+<l>Dat kijnt, dat dan geboeren wort,</l>
+<l>Dat en mach nummermeer worden rike;</l>
+<l>Wat pijnen dat doet yemans gelike,</l>
+<l>Het moet ommer arm bliven.</l>
+<l n="170">Eest een meysken, van sinen live</l>
+<l>Saelt quaet sijn ommermeer.</l>
+<l>Droem en duden no min no meer.</l>
+<l>Alse die mane XIJ dage heeft,</l>
+<l>Dien dan Got lijft geeft,</l>
+<l n="175">Hij sal sijn guet werckman,</l>
+<l>Vroet ende wael gemijnt dan,</l>
+<l>Rike ende tot allen dingen guet.</l>
+<l>Eest een meysken, et sal sijn vroet,</l>
+<l>Schoen, ende luxurie vlien,</l>
+<l n="180">Suverheit mijnnen, dat moet geschien.</l>
+<l><milestone unit="fol" n="185vb"/> Die dan steelt, men sal hem hangen;</l>
+<l>Niet wael en mach hijs ontgangen.</l>
+<l>Bijnnen XX dagen sal men geware</l>
+<l>Drome werden apenbaere.</l>
+<l n="185">Alse XIIJ dage heeft die mane,</l>
+<l>Dat doet ons dit boec te verstane,</l>
+<l>Die dan wort geboeren,</l>
+<l>Dat hij niet wael en is vercoren;</l>
+<l>Hij sal sterven quader doet</l>
+<l n="190">Ende hebben mennigen noet.</l>
+<l>Drome sal men dan verstaen</l>
+<l>In den derden dage, sonder wane.</l>
+<l>Eest een joffrouwe, si wort gemeyne</l>
+<l>Al der werlt alleyne;</l>
+<l n="195">Van hare sal veel quaets comen.</l>
+<l>Die dan steelt, et wort vernomen,</l>
+<l>Ende diegene wort in corter tijt</l>
+<l><edition n="211"/>Verhangen, eer jaergetide lijdt.</l>
+<l>Die XIIIJ mane is alsoe gedane,</l>
+<l n="200">Dat doet ons dit boec te verstane,</l>
+<l>Dat dan doet guet werc begijnnen.</l>
+<l>Tkijnt, dat ter werlt comt bijnnen,</l>
+<l>Sal rike sijn van groeten guede</l>
+<l>Ende fier van groeten moede;</l>
+<l n="205">Gheern salt vechten ende pijnlic wesen.</l>
+<l>Eest oec een meisken, als wi lesen,</l>
+<l>Het sal sijn lichtvoerech; ende drome</l>
+<l>Ondervijnt men in IX dagen, dies neemt gome.</l>
+<l>Die XV maene, nu verstaet,</l>
+<l n="210">Is te veel dingen quaet.</l>
+<l>Tkijnt, dat dan wort geboren, sal quelliken sterven:</l>
+<l>Verbernen, hangen off int water verderven.</l>
+<l>Die dan siecheit ontfeet,</l>
+<l>Eest dat si hem niet en vergeet</l>
+<l n="215">In XX dagen, doet blijft hij.</l>
+<l>Droem en duedet niet, die dan si.</l>
+<l><milestone unit="fol" n="186ra"/> Die XVJ mane, si is quaet</l>
+<l>Den dieven, dat verstaet;</l>
+<l>Die dieff die dan sal stelen,</l>
+<l n="220">Hij en sal sijn diefte niet mogen helen</l>
+<l>Vliet hi, hi is zaen gehangen.</l>
+<l>Men vertene, ofte men doet hem hangen.</l>
+<l>Arm wort hi, die dan wort geboren,</l>
+<l>In die kijntscheit; mer, comt hi te voren</l>
+<l n="225">Dat hi leeft, hi wort rike.</l>
+<l>Eest een meisken, ic seg u waerliken</l>
+<l>Dat si onsalich sal sijn, ende keytive</l>
+<l>Ende gemeyne van hoeren live.</l>
+<l>Die dan siecheiden ontfaen,</l>
+<l n="230">Si bliven lange daer in gonnen.</l>
+<l>Dat enen dan mach dromen,</l>
+<l><edition n="212"/>Dat sal in seven dagen toecomen.</l>
+<l>Die XVIJ mane guet is</l>
+<l>Tallen dingen; want tkijnt, dat dan is</l>
+<l n="235">Geboeren, sal guet wercman wesen,</l>
+<l>Lange leven, gesiert sijn.</l>
+<l>Eest oec een meisken, et sal sijn vroet,</l>
+<l>Suver, reyn ende waelgemoet.</l>
+<l>Die dan diefte doet, sonder waen,</l>
+<l n="240">Hij sal lichteliken ontgaen.</l>
+<l>Die siec wort, het sal hem duren</l>
+<l>Lange stont ende lange uren.</l>
+<l>Sinte Daniel doet ons verstaen,</l>
+<l>Alse XVIIJ dagen heeft die maen,</l>
+<l n="245">Dat se swaer is, ende suren</l>
+<l>Allen gueden creaturen.</l>
+<l>Tkijnt, dat dan wort geboeren,</l>
+<l>Dat seg ic u wael te voeren,</l>
+<l>Dat sal quaet ommer werden,</l>
+<l n="250">Stelen, roven ende moerdeneren;</l>
+<l>Mer, int deynde, salt daertegen,</l>
+<l><milestone unit="fol" n="186rb"/> Verdrincken, hangen ofte worden verslegen.</l>
+<l>Eest dat si oec een meisken,</l>
+<l>Het sal quaet van sinen live sijn,</l>
+<l n="255">Onsuverheit minnen, suverheit laten.</l>
+<l>Dat rade ic u hem utermaten,</l>
+<l>Dat u dan in drome comt,</l>
+<l>Dat gijt heelt ende niet en beroemt.</l>
+<l>Alse die mane is out negentiene,</l>
+<l n="260">Soe is ons guet in scine.</l>
+<l>Tkijnt, dat wort geboren dan,</l>
+<l>Dat sal sijn een rike man,</l>
+<l>Lange leven ende hoge man werden,</l>
+<l>Ende wel te levene met verden.</l>
+<l n="265">Eest dat si een meisken,</l>
+<l><edition n="213"/>En sal niet herde scone sijn.</l>
+<l>Die dan siec sal wesen,</l>
+<l>Mit groter pinen sal hi genesen.</l>
+<l>Uwen droem en suldi niet tellen,</l>
+<l n="270">Si mogen beide guet ende quaet spellen.</l>
+<l>Alse die mane XX doet,</l>
+<l>Dan is si heilich ende guet,</l>
+<l>Dan doet guet alle dinc begijnnen.</l>
+<l>Tkijnt, dat comt ter werlt bijnnen,</l>
+<l n="275">Sal guet wercman sijn ende rike</l>
+<l>Lange sal hi leven eerlike:</l>
+<l>Wordet ridder, het sal sijn fier,</l>
+<l>Ende wordet clerc, dat seg ic hier,</l>
+<l>Het sal een hoge man sijn.</l>
+<l n="280">Eest oec een meiskijn,</l>
+<l>Soe salt schone sijn van lichame, licht</l>
+<l>Ende vroet, dat seget tgedichte.</l>
+<l>Die dan steelt, hi wort gevangen,</l>
+<l>Ende bi sijnre kelen sal hi hangen.</l>
+<l n="285">Dat seg ic u allen apenbaer,</l>
+<l>Drome die sijn dan ware.</l>
+<l><milestone unit="fol" n="186va"/> Die XXI maene en is niet guet,</l>
+<l>Want dan altoes quaet doet</l>
+<l>Alrehande werc begijnnen;</l>
+<l n="290">Ende die dan vecht mit onmijnnen,</l>
+<l>Soe wie die dan wort gewont,</l>
+<l>Hij en geneest niet in corter stont.</l>
+<l>Die drome keren dan te quade,</l>
+<l>Dat seg ic u in gueden rade.</l>
+<l n="295">Die XXIJste mane is guet.</l>
+<l>Tkijnt, dat dan wort geboren, gadert groet guet;</l>
+<l>Eest dattet wort coepman,</l>
+<l>Salt sijn een rike man</l>
+<l>Te wat ambocht dat hem doet,</l>
+<l n="300"><pb n="214"/> Saelt hebben gueden spoet:</l>
+<l>Eest oec een clerc, et sal vroet sijn.</l>
+<l>Ende eest dattet si een meiskijn,</l>
+<l>Vroet ende licht saelt wesen,</l>
+<l>Suverheit minnen, eest alsoe wij lesen.</l>
+<l n="305">Saen sal hi genesen, die is ongesont;</l>
+<l>Ende drome sijn guet talre stont.</l>
+<l>Alse die mane es XXIIJ out,</l>
+<l>Soe is se guet; in mennichfout</l>
+<l>Werc te begijnnen es se guet,</l>
+<l n="310">Ende te vechtene geeft se spoet.</l>
+<l>Tkijnt, dies men dan sal genesen,</l>
+<l>Sal al sijn leven dorper wesen;</l>
+<l>Hij sal werden herde rike,</l>
+<l>Sonder vroetscap sekerlike.</l>
+<l n="315">Licht saelt sijn, eest een meiskijn,</l>
+<l>Ende sine wille doende saelt sijn.</l>
+<l>Ende dan hem hout sijn die drome.</l>
+<l>Ende die siec wort, dies neem goem,</l>
+<l>Hij sal mit pinen genesen.</l>
+<l n="320">Die vechten wil, hi sal verwonnen wesen.</l>
+<l>Die XXIIIJste mane</l>
+<l><milestone unit="fol" n="186vb"/> Die is gemeyne, als ic wane,</l>
+<l>Beide te guede ende te quade.</l>
+<l>Totter tijt prime, dats gestade,</l>
+<l n="325">Ende achter dien dat men prime luyt,</l>
+<l>Soe comt er al quaet uut.</l>
+<l>Tkijnt, dat dan wort geboeren,</l>
+<l>Sal hebben pilicheit ende toren;</l>
+<l>Achter lande sal hi loepen,</l>
+<l n="330">Sere sal hi sine sotheit becopen.</l>
+<l>Eest dat oec si een meiskijn,</l>
+<l>Dol ende quaet salt sijn.</l>
+<l>Ende die dan sieck sal wesen,</l>
+<l><edition n="215"/>Hij sal nidelike genesen.</l>
+<l n="335">Ende die dan iet sal dromen,</l>
+<l>Het sal hem te voeren comen.</l>
+<l>Die XXV mane is quaet,</l>
+<l>Want tkijnt, dat dan lijff ontfaet,</l>
+<l>Sal pinen eweliken:</l>
+<l n="340">Nochtan wordet nummermeer rike.</l>
+<l>Eest een meysken, et sal hebben lichte herte</l>
+<l>Ende der quaetheit dogen smerte.</l>
+<l>Ende die vechten wil dan,</l>
+<l>Hij wort verwonnen van elken man.</l>
+<l n="345">Ende die dan iet geet stelen,</l>
+<l>Hij moet hangen bi sijnre kelen.</l>
+<l>Die XXVI mane is guet;</l>
+<l>Si geeft te veel dingen spoet.</l>
+<l>Tkijnt, dat dan wort geboeren,</l>
+<l n="350">Guet wercman salt sijn vercoren,</l>
+<l>Lange salt leven ende sijn blide</l>
+<l>Ende licht van sijnne, tallen tide;</l>
+<l>Wort hi coepman, hi sal sijn rike,</l>
+<l>Ende, wort hi clerc, waerlike</l>
+<l n="355">Hij sal vroet sijn van sijnne;</l>
+<l><milestone unit="fol" n="187ra"/> Ende eest dat hij ridderscap gewijnne,</l>
+<l>Soe wort hi fier ende coene.</l>
+<l>Ende die besteet te doene</l>
+<l>Stelingen, hi moet verhangen sijn.</l>
+<l n="360">Eest oec dat si een meisken,</l>
+<l>Het sal sijn gestade ende vroet,</l>
+<l>Suver, schone, hoge gemoet;</l>
+<l>Haren selen hebben grote ere</l>
+<l>Van haer altoes, tallen keere.</l>
+<l n="365">Die dan wort ziec, hi sal genesen</l>
+<l>Ende gesont bijnnen drie dagen wesen.</l>
+<l>Bijnnen IX dagen, neemt hijs goem,</l>
+<l><edition n="216"/>Sal elc man vijnden sinen droem.</l>
+<l>Die XXVIJste mane</l>
+<l n="370">Is guet, nae mynen wane.</l>
+<l>Wort een knechtken geboren in dien dage,</l>
+<l>Dat sal sijn van hogen name;</l>
+<l>[...]</l>
+<l>Al die werlt sals hebben ghere</l>
+<l n="375">Hem te doene lieff ende ere,</l>
+<l>Ende hij sal vorderen al guet.</l>
+<l>Eest een meisken, et sal sijn vroet,</l>
+<l>Quaetheit laeten, suverheit minnen.</l>
+<l>Ende die dan ziecheiden gewijnnen,</l>
+<l parse="ignore" n="380">Hij en mach der niet aff sterven.</l>
+<l>[...]</l>
+<l>Die mach niet sijn gevaen.</l>
+<l>Drome sullen te guede vergaen.</l>
+<l>Die XXVIIJste maen, dat is waer,</l>
+<l n="385">Die is quaet al apenbaer;</l>
+<l>Beide avont ende morgen,</l>
+<l>Eefse pinen ende sorgen.</l>
+<l>Tkijnt dat dan wort geboeren sekerlike,</l>
+<l>Dat en mach nummermeer worden rike,</l>
+<l n="390">Hoe groet dat is sijn pine.</l>
+<l>Ic seg u oec van den meiskijne,</l>
+<l><milestone unit="fol" n="187rb"/> Dat overdadich sal sijn</l>
+<l>Ende luxurien volgen den tijt sijn,</l>
+<l>Vader eren en salt niet roeken.</l>
+<l n="395">Die dan diefte sal besoeken,</l>
+<l>Hij moet ommer doen quaden fijn.</l>
+<l><edition n="217"/>Ende dan siec sal sijn,</l>
+<l>Macht VIJ dage liden,</l>
+<l>Hij en sterft niet te dien tiden.</l>
+<l>Die XXIXste mane die is</l>
+<l n="400">Te veel dingen guet, des sijt gewijs.</l>
+<l>Tkijnt, dat dan geboren wort, ter stont,</l>
+<l>Sal lijffachtich sijn ende gesont;</l>
+<l>Eest dat wort een coepman,</l>
+<l>So sal hij sijn een rike man;</l>
+<l n="405">Wort hi ridder, hi sal sijn coene,</l>
+<l>Ende besteet hi hem ter clerregien te doen,</l>
+<l>Hij sal vroet sijn ende veel connen.</l>
+<l>Wort oec een dan gewonnen,</l>
+<l>Het sal sijn licht ende dol,</l>
+<l n="410">Ende loiseden vol:</l>
+<l>Hij sal doen al sinen wille.</l>
+<l>Die dieff die dan stelen wil,</l>
+<l>Hij wort gevaen, al waert lanc,</l>
+<l>Ende wort gehangen, sonder wanck.</l>
+<l n="415">Die XXXste mane is guet</l>
+<l>Tkijnt, dat dan comt, wort vroet,</l>
+<l>Gesont sal sijn ende lange leven,</l>
+<l>Sine kijnsche dagen liden sonder sneven:</l>
+<l>Wort hi man, hi wort gestade</l>
+<l n="420">Van sijnne ende van rade.</l>
+<l>Dmeisken, dat dan wort geboren,</l>
+<l>Sal sijn schone ende uutvercoren,</l>
+<l>Hovesch, wijs ende vroet.</l>
+<l>Die dromen, die men dan doet,</l>
+<l n="425">Sullen in X dagen worden ondervonden.</l>
+<l><milestone unit="fol" n="187va"/> Ende die geboeren wort tien stonden,</l>
+<l>Hij mach op sulke ure worden geboeren;</l>
+<l>Dit boec seet, dat gijt moget horen,</l>
+<l>Dat hij sal hebben pine groet,</l>
+<l n="430"><pb n="218"/> Ende sterven quader doet;</l>
+<l>Hij sal sijn verhangen schier,</l>
+<l>Off verslegen of verbornen in viere;</l>
+<l>Ende hij mach geboren sijn in sulker ure,</l>
+<l>Hij sal weeldich sijn ter cure,</l>
+<l n="435">Lange leven ende hebben ere,</l>
+<l>Ende emmer in lanc soe meer;</l>
+<l>Schoenre doet moet hi sterven,</l>
+<l>Anders en mach hi niet bederven</l>
+<l>Aldus in dit buc. Nu, bidt alle,</l>
+<l n="440">Dat ons Got verre van ongevalle,</l>
+<l>Dies gonne ons die hemelsche vader:</l>
+<l>Amen segget allegader.</l>
+</text>
+<!--</ENTRY>
+--></TEI.2>

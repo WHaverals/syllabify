@@ -1,0 +1,2526 @@
+<?xml version='1.0'?><!DOCTYPE TEI.2 PUBLIC '-//TEI P4//DTD Main Document Type//EN' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd' [<!ENTITY % TEI.prose 'INCLUDE'><!ENTITY % TEI.linking 'INCLUDE'><!ENTITY % TEI.figures 'INCLUDE'><!ENTITY % TEI.analysis 'INCLUDE'><!ENTITY % TEI.corpus 'INCLUDE'><!ENTITY % TEI.XML 'INCLUDE'><!NOTATION TEI-XML PUBLIC 'TEI P4' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd'><!-- internal INL dtd --><!ELEMENT b (#PCDATA)><!ELEMENT l (#PCDATA | b)*><!-- end of internal INL dtd -->]><TEI.2><!--<ENTRY id="i978"><teiHeader><fileDesc><titleStmt><title>Tien plaghen ende die tien ghebode</title>
+</titleStmt>
+<interpGrp type="pubYear_from"><interp value="1390"/></interpGrp>
+<interpGrp type="witnessYear_from"><interp value="1390"/></interpGrp>
+<interpGrp type="pubYear_to"><interp value="1410"/></interpGrp>
+<interpGrp type="witnessYear_to"><interp value="1410"/></interpGrp>
+<TITEL>Tien plaghen ende die tien ghebode</TITEL>
+<author>Onbekend</author>
+<AARD>Rijm</AARD>
+<BRON nr="D46">Oxford, Bodleian Library, Marshall 29</BRON>
+<DATUM>1390-1410</DATUM>
+<OMVANG>2479 verzen</OMVANG>
+<BRON.OPM>Het handschrift telt 102 bladen, per blad 2 kolommen, 49 regels per kolom. De Tien plaghen ende die tien ghebode bevindt zich op fol. 88v-101r. De codex bevat achtereenvolgens: Melibeus (fol. 1-22r), Jans teesteye (fol. 24v-45v), Noch meer van wiven (fol. 45v-46r), Van ghevene (fol. 46r-46v), het Boec vander wraken (fol. 48r-78v), Van Maskeroen (fol. 80r-86v), Van Saladijn (fol. 86v-88r), de Tien plaghen ende die tien ghebode (fol. 88v-101r), Noch die tien ghebode (fol. 101r-v) en Noch van Salladine (fol. 101v-102r).</BRON.OPM>
+<EDITIE>F.A. Snellaert (ed.): Nederlandsche gedichten uit de veertiende eeuw van Jan van Boendale, Hein van Aken en anderen. Naar het Oxfordsche handschrift uitgegeven. Brussel, 1869, 551-635.</EDITIE>
+<STATUS>Kritisch</STATUS>
+<BRONMNW>1274 </BRONMNW>
+<EDITIE.OPM>De gothische hoofdletter J, in Snellaerts editie zowel gebruikt voor de huidige I als voor J, werd hier steeds als I overgenomen.</EDITIE.OPM>
+<BRONNEN>Oxford, Bodleian Library, Marshall 29</BRONNEN>
+</fileDesc>
+</teiHeader>
+--><text>
+<head type="title"><pb n="551"/> DIT SIJN DIE .X. PLAGHEN ENDE DIE .X. GHEBODE.</head>
+<div type="chapter"><head type="chapter comment">[Proloog]</head>
+<l>HADDIC der vernonften prijs /</l>
+<l>Alsoe dat ic dies loves rijs</l>
+<l>Vanden meestren mochte draghen /</l>
+<l>Soe woudic dichten ende saghen</l>
+<l n="5">Herde meesterlec dese .X. ghebot /</l>
+<l>Die de hoghe gheloefde God</l>
+<l>Ghegeven heeft ons te nutte;</l>
+<l>Want si sijn een weren der scutte</l>
+<l>Voor der hoeftsonden vloet.</l>
+<l n="10">Maer nu es mi mijn moet</l>
+<l>Ende mijn sinne ongheslepen /</l>
+<l>Daer om soe moetic scepen</l>
+<l>Biden oever / ende nemen stade:</l>
+<l>Die diepte wair mijn scade;</l>
+<l n="15">Want wair ic inden strome /</l>
+<l>Dat waer mine onvrome.</l>
+<l>Dat oever bediet mijn kinscheit:</l>
+<l>Der cunsten ghewat es mi te breyt /</l>
+<l><edition n="552"/>Ende te diepe ende te stranc;</l>
+<l n="20">Dair om soe es mijn ganc</l>
+<l>Aent oever ende opt wijde rumst.</l>
+<l>Ic en der niet met mire cleynre cunst</l>
+<l>Inden stroem varen der masterschaft.</l>
+<l>Mijns sinnes scep en heeft gheen craft:</l>
+<l n="25">Worde hem een onwerder cont /</l>
+<l>Het mochte sincken inden gront /</l>
+<l>Dat waer mi te zwaere:</l>
+<l>Ic en ben gheen zeevaerre /</l>
+<l>Dat ic die diepte vergronde.</l>
+<l n="30">Ic en can niet subtijle vonde.</l>
+<l>Die diepheit van dichtene / sonder waen /</l>
+<l>Die soe moetic laten staen /</l>
+<l>Ende die sproken van cunsten fijn.</l>
+<l>Grote diepte die soude mi sijn</l>
+<l n="35">Te zwaer: ic moetse neder legghen /</l>
+<l>Ende wil u met slechter redenen segghen</l>
+<l>Die .X. ghebode / sonder waen.</l>
+<l>Door God ghi sultse bat verstaen /</l>
+<l>Dan icse u metten dichten</l>
+<l n="40">Bedieden can ochte berichten.</l>
+<l>Men merke den sin ende niet de dichte:</l>
+<l>Die sin es groot / die dichte es lichte.</l>
+<l>Die meerkeren ende de wijse /</l>
+<l>Die de grote cunste prisen /</l>
+<l n="45">Si vendender hier cleyne.</l>
+<l>Den leeken ic alleyne</l>
+<l>Wille die redene ontdecken /</l>
+<l><edition n="553"/>Oft ic daer mede yet verwecken</l>
+<l>Te Gode mochte haerre enech sin /</l>
+<l n="50">Hoe ic doch oncunstich bin /</l>
+<l>Ende waede in enen diepen tsomp.</l>
+<l>Die wetsteen es van hem selven stomp /</l>
+<l>Ende maect menech wapen scarf.</l>
+<l>Hier toe ic goeder hulpen bedarf</l>
+<l n="55">Van U / hoech gheloefde God.</l>
+<l>Helpt mi / dat ic der werelt spot</l>
+<l>Niet en werde in dit boekelkijn /</l>
+<l>Doer die hoghe namen dijn /</l>
+<l>Diemen drievoldich aen Di vint.</l>
+<l n="60">Du / Gods Sone / der Maghet Kint /</l>
+<l>Vader / Soon / Heilich Gheest tsamen /</l>
+<l>Hoe godlijc draghest Du die namen</l>
+<l>In drien personen / sonder last /</l>
+<l>Ende sijn in Di alsoe vast</l>
+<l n="65">In enen God bestrict /</l>
+<l>Sidermeer dat dit wonder scict</l>
+<l>Dijnre volcomenre godheit list /</l>
+<l>Soe helpt mi dat ic der sunden mist</l>
+<l>Verwinnen mach met mire lere /</l>
+<l n="70">Dat die meneghe daer wt kere /</l>
+<l>Ende ontflie der hellen brant.</l>
+<l>Gheeft mi u hulpe / Here Heilant /</l>
+<l>Soe achtic cleyne op yemants spot.</l>
+<l>Nu hoort hier dese .X. ghebot /</l>
+<l n="75"><pb n="554"/> Die ons te houdene sijn ghegeven.</l>
+<l>Ende ic wil u Pharoens leven</l>
+<l>Segghen / ende .X. plaghen</l>
+<l>Die aen den coninc Pharo laghen;</l>
+<l>Ende wat die plaghen bedieden /</l>
+<l n="80">Dat wil ic den leken lieden</l>
+<l>Segghen soe ic best can.</l>
+<l>Met Gods hulpen beghin ic dan /</l>
+<l>Dien alle dinghen sijn onderdaen.</l>
+<l>Moyses / die goede Gods knecht /</l>
+<l n="85">Bescreef met sijnre hant dit recht /</l>
+<l>Daer hem God godliken verscheen /</l>
+<l>Ende screefse in enen herden steen /</l>
+<l>Dat si ewelike daer inne bleven.</l>
+<l>Daer omme heeft hise also ghescreven</l>
+<l n="90">Datse die mensche scriven sal /</l>
+<l>Ende leerse ende onthoudse al /</l>
+<l>Ende graefse in dat herte sijn</l>
+<l>Soe vaste / dat haerre leren schijn</l>
+<l>Eweliken blive daer inne.</l>
+<l n="95">Helpt God / dat ic ghewinne</l>
+<l>Te spreken met goeden sinne!</l>
+</div>
+<div type="chapter"><head type="chapter"><i>Dierste plaghe ende deerste ghebot.</i> </head>
+<l>ONder des coninx Pharoens hant</l>
+<l>So lach al Egypten lant.</l>
+<l>Sine ghewout was herde starch /</l>
+<l n="100">Sijn snode herte dat was arch</l>
+<l>Aen alre quaetheit vaste.</l>
+<l>Die Hysrahelsche gaste</l>
+<l><edition n="555"/>Had hi ghemaect eyghen /</l>
+<l>Dat si hem moesten neyghen.</l>
+<l n="105">Hi hadse alle bedwonghen /</l>
+<l>Die oude metten jonghen;</l>
+<l>Hine woude hen niet ghehinghen /</l>
+<l>Dat si volbringhen</l>
+<l>Gods dienst yet dorsten.</l>
+<l n="110">Dien selven snoden vorsten</l>
+<l>Wil ic u nu doen becant:</l>
+<l>Hets vander hellen die viant.</l>
+<l>Egypten es die donckerheyt /</l>
+<l>Der sunden / die der zielen leyt</l>
+<l n="115">Doet / ende maect die sinnen blint /</l>
+<l>Dies menech wert des duvels kint /</l>
+<l>Dien hi moet ymmer wonen bij.</l>
+<l>Hoort hoe die eerste plaghe sij:</l>
+<l>Die watere alle ghemeyne /</l>
+<l n="120">Groot ende oec die cleyne /</l>
+<l>Grachten / boenen / waert ghelach /</l>
+<l>Vele jammerlike men die sach</l>
+<l>Verwandelt in ghelevert bloet /</l>
+<l>Dat vander bloedigher waters vloet</l>
+<l n="125">Der creaturen vele bedarf /</l>
+<l>Ende van waters breke starf /</l>
+<l parse="ignore">Alsoe die plaghe aen hem bewarf.</l>
+<l>Nu hoort / waerde mensche goet /</l>
+<l>Ende merct aen des waters vloet</l>
+<l n="130">Hoe die weert meshandelt /</l>
+<l>Want si wert verwandelt</l>
+<l><edition n="556"/>In bloede / daer menech tleven liet:</l>
+<l>Dat bediet der snoder Ioden diet /</l>
+<l>Haer ghelove was ye zwach;</l>
+<l n="135">Wantmen die verwandelt sach /</l>
+<l>Dat si van Gode keerden ghelijke /</l>
+<l>Ende leefden herde ongodelike /</l>
+<l>Ende aenbeden des duvels cracht /</l>
+<l>Als inder wilder heydenscap</l>
+<l n="140">Noch vele menech Heyden doet:</l>
+<l>Dat bediet des claers waters vloet /</l>
+<l>Dat al ghelevert bloet wert.</l>
+<l>Oec roeret aen der Ketters aert /</l>
+<l>Die van Gode sijn verscheden /</l>
+<l n="145">Ende den duvel ane beden.</l>
+<l>Daer omme heeft ghegheven God</l>
+<l>Ons dat eerste ghebot.</l>
+<l>Dit merct alle ghemeyne.</l>
+<l>Die suete God entie reyne</l>
+<l n="150">Hi sprac met sijns selfs mont:</l>
+<l>"Weerde mensche / ic doe di cont</l>
+<l>Dattu die afgode vlies /</l>
+<l>Ende du te mi allene ties /</l>
+<l>Ende gheloeft aen enen God /</l>
+<l n="155">Ende hout gherne sine ghebot;</l>
+<l>Vrucht oefent / ende minne</l>
+<l>Dinen God met herte / met sinne;</l>
+<l>Dijn ghemuede ende dijn ghedanc</l>
+<l>En sal nemmer hebben wanc /</l>
+<l parse="ignore" n="160">Dits der zielen anganc."</l>
+<l>Die suete God / des zijt gewes /</l>
+<l><edition n="557"/>Die een getrouwe leerer es /</l>
+<l>Hi leert ons allen ten eersten mael /</l>
+<l>Datmen aen Hem gheloven sael.</l>
+<l n="165">Hi sprac: "Mensche / ic lere di /</l>
+<l>En hebt ghenen God dan mi."</l>
+<l>Nu merct wale / hoe ons God</l>
+<l>Heeft ghegheven dit ghebot</l>
+<l>Met drierleye onderscheit.</l>
+<l n="170">Dat eerste / dat si di gheseyt /</l>
+<l>Dats dattu in dijn herte heves</l>
+<l>Gans ghelove / ende niet en sneves</l>
+<l>In ne ghenen ongheloven /</l>
+<l>Datti mach beroven</l>
+<l n="175">Gods ende der zielen dijn.</l>
+<l>Ghi en sult niet als een Iode sijn:</l>
+<l>Die Ioden dicke worden</l>
+<l>Onghelovich in haere orden /</l>
+<l>Want men sachse sceyden</l>
+<l n="180">Van God ende worden Heyden /</l>
+<l>Ende verworven Gods hat.</l>
+<l>Metten prophete claecht Hi dat</l>
+<l>Ysayas / ende Hi sprach:</l>
+<l>"Die sonen die ic tot op desen dach</l>
+<l n="185">Ghetoghen ende behuedt have /</l>
+<l>Die sijn mi ghegaen ave /</l>
+<l>Ende versmaden mi ende vlien;</l>
+<l>Si mochten merken ende sien /</l>
+<l>Dat dat rent den meester sijn</l>
+<l n="190">Bekint / ende dat sceepekijn</l>
+<l>Hem es sijns heren crebbe becant:</l>
+<l>Israhel heeft hem ghewant</l>
+<l><edition n="558"/>Dattet mi niet en kennet.</l>
+<l>David / die coninc / hi bannet</l>
+<l n="195">Die / ende sprect si werden openbaer</l>
+<l>Verdoemt / die des nemen waer</l>
+<l>Dat si van haren Sceppere treden /</l>
+<l>Ende eren dat ende anebeden</l>
+<l>Dat metter hant es ghemaect.</l>
+<l n="200">Wie es God dan Ihesus Kerst?</l>
+<l>Wi zelen loven ende eren</l>
+<l>Heme / want Hi es Heer der heren;</l>
+<l>Hij moet sijn ghebenedijt /</l>
+<l>Eertrike heeft Hi ons verlijt /</l>
+<l n="205">Ende wat daer inne vervullet steet /</l>
+<l>Ende al dat leven hier ontfeet;</l>
+<l>Hi heeft die werelt op die vloet</l>
+<l>Ghebouwen. Ach / du snode moet /</l>
+<l>Die God lochenen! Ghi Ioden / fy!</l>
+<l n="210">Ende hoe woendi den duvel by /</l>
+<l>Die u uwe sin can verjaghen!</l>
+<l>Wee hem alle die wedersaghen</l>
+<l>Haren Sceppere! wee hem / wee!</l>
+<l>Wee soe wert hem emmermee</l>
+<l parse="ignore" n="215">Inder grondeloser hellen zee!</l>
+<l>Mensche / onthoudt dit ander deel.</l>
+<l>Oftu wilt des hemels heel</l>
+<l>Verwerven toter zielen dijn /</l>
+<l>Soe seldi gans ghelovich sijn</l>
+<l n="220">Met al dijnre volcomender herten /</l>
+<l>Ende en vruchten ghene smerten /</l>
+<l>Noch ne gheenrehande noot.</l>
+<l><edition n="559"/>Ghedinct oec aen die bitter doot /</l>
+<l>Die God aenden cruce leyt</l>
+<l n="225">Om dijnre zielen salicheit /</l>
+<l>Ende sinct die in dijns herten gront;</l>
+<l>En laet allene niet dinen mont</l>
+<l>Bekinnen dine ghelove recht /</l>
+<l>Dijn herte hebbe daer mede plecht.</l>
+<l n="230">Du salt gheloven metter daet /</l>
+<l>Welc mensche die gans ghelove haet /</l>
+<l>Ende dan jeghen tghelove doet /</l>
+<l>Sijn ghelove en es niet goet /</l>
+<l>Want hi gheeft hem in Gods hat.</l>
+<l n="235">Sente Iacob hi sprect / dat</l>
+<l>Doot es dat ghelove openbaer /</l>
+<l>Daermen niet en neemt der werken waer.</l>
+<l>Sente Pauwels blijft deser redenen by:</l>
+<l>Hi spreect dattet ommoghelic sy /</l>
+<l n="240">Dat die Gode moghen behaghen</l>
+<l>Die aenden ghelove sijn wederslaghen.</l>
+<l>Wel hem diet recht ghelove haet /</l>
+<l>Ende die gheloeft metter daet!</l>
+<l>Die verwerft Gods lone dan.</l>
+<l n="245">Ysidorus hi spreect hier van:</l>
+<l>"Salich sijstu / mensche goet /</l>
+<l>Dattu den sen ende oec den moet</l>
+<l>Totten rechten ghelove keers /</l>
+<l>Ende dinen God minnes ende eers.</l>
+<l n="250">Soe wie die tghelove sijn</l>
+<l>Met goeden werken doet in schijn /</l>
+<l>Hi es salichliken gheboren /</l>
+<l>Ende God heeftene vercoren.</l>
+<l parse="ignore"><edition n="560"/>Wel hem dat hi ye wert gheboren!</l>
+<l n="255">Nu merct / mensche / ende hoort mi:</l>
+<l>Die derde lere ic di /</l>
+<l>Die es dattie Sceppere dijn</l>
+<l>Sal altoes in dijn herte sijn</l>
+<l>Met ghedachte ende mienen te hem.</l>
+<l n="260">En gheenderleye dinc en nem</l>
+<l>In di / die God opter aerden</l>
+<l>Soe lief di ye liet ghewerden /</l>
+<l>Noch vrient / no maech / no goet /</l>
+<l>Dat ghi dat in uwen moet</l>
+<l n="265">En nemt nemmer / soe dat si di</l>
+<l>Yet liever sijn. Nu volghet mi</l>
+<l>Aen drierhande lere /</l>
+<l>Ende behoudt die emmermeere</l>
+<l>Besloten in dinen sinne:</l>
+<l n="270">Vrucht ende vlee ende minne</l>
+<l>Gode / die di ghescepen haet /</l>
+<l>Soe wert dijns wel ten jonxten raet.</l>
+<l>Vrucht Gode in allen weghen /</l>
+<l>Oftu wils in hem gheseghen.</l>
+<l n="275">Nu hoort hier Salomons mont:</l>
+<l>Hi doet ons Gods vrucht cont /</l>
+<l>Hi sprect: "Der wijsheit een beghen</l>
+<l>Es Gods vrucht; want si drijft hen</l>
+<l>Van di alre sunden vloet /</l>
+<l n="280">Si meert leven ende goet."</l>
+<l parse="ignore">Daer om die goede Tobias sprac:</l>
+<l parse="ignore"><edition n="561"/>Lieve kint / op eerden dach</l>
+<l>Ghewinstu veel grote rijcheit /</l>
+<l>Op dat dijn herte vruchte dreyt</l>
+<l n="285">Te Gode / die di ghescapen haet."</l>
+<l>Nu vrucht Hem / dats mijn raet /</l>
+<l>Mensche / du salte Gode vleen</l>
+<l>Om dat hemelsche leen;</l>
+<l>Du saltene vleen vele stede</l>
+<l n="290">Met cleren innighen ghebede /</l>
+<l>Voor u ende voor die Kerstenheit.</l>
+<l>Hoort hier hoe God selve seyt:</l>
+<l>"Al dat ghi met beden geert /</l>
+<l>Gheloeft dat ghijs sijt gheweert."</l>
+<l n="295">Ia / om dire zielen salicheit /</l>
+<l>Of voor dijn vriende / vorwaer gheseit;</l>
+<l>Want wie dat bidt / hi nemt /</l>
+<l>Ende wie dat suuct / alst hem beteemt /</l>
+<l>Die vendt. Ende wie voor die dore</l>
+<l n="300">Clopt / men latene daer vore</l>
+<l>Die lingde niet / men latene in.</l>
+<l>Daer om bidt den Sceppere dijn.</l>
+<l>Wie dat Gode roept aen /</l>
+<l>Dien en mach nemmermeer mesgaen.</l>
+<l n="305">Du salt altoos met herten minnen</l>
+<l>Dinen God met al dinen sinnen.</l>
+<l>Iohannes hi doet ons becant /</l>
+<l>Ende spreect: "God es der minnen bant."</l>
+<l>Wie in Gods minne vaste blivet /</l>
+<l n="310">In Gode hi seker beclivet /</l>
+<l>Ende God beclijft weder in hem.</l>
+<l>Salomone / dien vernem /</l>
+<l><edition n="562"/>Hi sprect dat alle mesdaet</l>
+<l>Die minne verdrijft / soe wie se haet</l>
+<l n="315">Met ganser live te sinen God.</l>
+<l>Mensche / dit es dat eerste ghebot /</l>
+<l>Dat ghi selt minnen al u daghen /</l>
+<l>Op dattu wilt dijn ziele laven /</l>
+<l>Ende Gode in ganser herte dreechste /</l>
+<l n="320">Den Vader / den Sone / den Heilighen Geeste.</l>
+<l>Dese namen alle drie ghenant</l>
+<l>Sijn in enen God ghewant /</l>
+<l>Drievoldich in een es Hi becant.</l>
+</div>
+<div type="chapter"><head type="chapter"><i>Die ander plaghe ende dat anderde ghebot.</i> </head>
+<l>DIe ander plaghe die ghesciede /</l>
+<l n="325">Dat was datmen onder die liede</l>
+<l>Vele vorschen sach uter maten</l>
+<l>Opten velde / in huse / op straten /</l>
+<l>Die quamen wt grachten ende wt poelen.</l>
+<l>Van hem moestmen ghevoelen</l>
+<l n="330">Iammer / leyt ende menech quaet /</l>
+<l>Alsoet noch ghescreven staet.</l>
+<l>Het waren watre ochte velt /</l>
+<l>Het waren cameren ochte ghetelt /</l>
+<l>Het waren huse ochte stal /</l>
+<l n="335">Het wert vervult overal;</l>
+<l>In drancke / in spise mense vant /</l>
+<l>Daer af menech tleven zwant.</l>
+<l>Die plaghe leet Egypten lant.</l>
+<l>Tseghen den somerliken tiden</l>
+<l n="340">Screyden die vorsche / te stride /</l>
+<l><edition n="563"/>Met herde onnutteliken ghescalle</l>
+<l>Ieghen den anderen alle.</l>
+<l>Alsoe doet des ydels menschen mont /</l>
+<l>Die onnuttelike te menegher stont</l>
+<l n="345">Gods / Ons Heren / namen nennet /</l>
+<l>Ende cleyne dat bekennet</l>
+<l>Hoghe Gods name tiet /</l>
+<l>Wanter die duvel ane vliet</l>
+<l>Waermen Gode in goede noemt.</l>
+<l n="350">Ghi quade menschen / ghi sijt verdoemt /</l>
+<l>Ende ghi sijt den vorschen ghelike /</l>
+<l>Die daer ligghen in dat slike.</l>
+<l>Ghi moet in der hellen bodem /</l>
+<l>Dat ghi onnutteliken laet gaen den adem</l>
+<l n="355">Als u die quade woorde sijn bi:</l>
+<l>Die achtersprake en es vri</l>
+<l>Niet allene des hellen gronts /</l>
+<l>Maer haere tonghe ende haers monts</l>
+<l>Es si te mael een giftich zwaert /</l>
+<l n="360">Die es voor scone ende achterwaert</l>
+<l>Essi scarp / haer scarpe oert</l>
+<l>Maect dicwile grote moert.</l>
+<l>Wee hen oec die meynede zweren!</l>
+<l>Want si Gode van hen weren.</l>
+<l n="365">ende daer omme door der zielen noet</l>
+<l>Die eweghe God ons gheboet:</l>
+<l>Mensche / en nem in dinen mont</l>
+<l>Dijns Sceppers name in gheenre stont /</l>
+<l>Datmen yet onnutteliken nennes</l>
+<l n="370">Dattu di selven yet verbannes.</l>
+<l>Mensche / nu nem merc aen mi /</l>
+<l><edition n="564"/>Dat ander ghebot dat leer ic di</l>
+<l>Met drierleye lere:</l>
+<l>Die pijnt u tonthoudene zere.</l>
+<l n="375">Dat eerste / dat gheen bose woort</l>
+<l>Van dinen monde en worde ghehoort.</l>
+<l>Gregorius die doet ons cont:</l>
+<l>"Die duvel sluyt hem op den mont</l>
+<l>Die soe gherne quaet spreken;</l>
+<l n="380">God saelt zwaerliken aen hen wreken /</l>
+<l>Want hi dat na rechte wrect."</l>
+<l>Alsoe Sente Lucas sprect:</l>
+<l>"Mensche / merket wel dijn leven /</l>
+<l>Want du moets antwerde gheven</l>
+<l n="385">Alle der woorde / die dijn mont</l>
+<l>Onnutteliken sprect tenegher stont:</l>
+<l>Daer bi huedt uwen mont daer van."</l>
+<l>Salomon seyt / die wise man:</l>
+<l>"Wie sinen mont wel hueden can /</l>
+<l n="390">Siere zielen hi veel goeds an;</l>
+<l>Wie onnutte niet en verdruct /</l>
+<l>Hi wert ten sunden schiere ghetsuct."</l>
+<l>Daer omme / mensche / hebt inden moet</l>
+<l>Dat dine tonghe spreke goet /</l>
+<l n="395">Soe vridi u vander hellen gloet.</l>
+<l>Die ander achtersprake heet /</l>
+<l>Die den meneghen doet groot leet.</l>
+<l>Het sprect Sinte Augustijn:</l>
+<l>"Achtersprake die moet sijn</l>
+<l n="400">Noch arghere dan oncuuscheit."</l>
+<l>Paulus seecht dat God dreyt</l>
+<l><edition n="565"/>Den achtersprekeren groten hat.</l>
+<l>Iheronimus die spreect dat:</l>
+<l>"De tonghe / die de mensche haet /</l>
+<l n="405">Die met achtersprake omme gaet /</l>
+<l>Hi scaedt meer dan een scarp zwaert /</l>
+<l>Daer viant tseghen vianden ghaert."</l>
+<l>Daer omme / mensche / raedic di /</l>
+<l>Dat achtersprake in u niet en si.</l>
+<l n="410">Soe sal u God altoos staen bi.</l>
+<l>Dat derde dat heet meynede /</l>
+<l>Die doen Gode grote leede.</l>
+<l>Ach / meynedere / hoert hier u doen /</l>
+<l>Ende merct wat dine meynede doen /</l>
+<l n="415">Ende hoe seer du di verseers /</l>
+<l>Wanneer dattu meynede zweers.</l>
+<l>Die overste vinghere bede /</l>
+<l>Daer du mede zweers meynede /</l>
+<l>Ende op die heilighen hebben gheleghen /</l>
+<l n="420">Met dien tween hebstu verteghen</l>
+<l>Gods ende der moeder sijn /</l>
+<l>Der edelre conginghinne fijn /</l>
+<l>Ende al hare hulpen openbare.</l>
+<l>Die ander twee vinghere / neemt waere /</l>
+<l n="425">Die hem daer neder sincken</l>
+<l>Ende in die hant hen lincken /</l>
+<l>Van dien tween doe ic di cont /</l>
+<l>Datstu inder hellen gront</l>
+<l>Dine ziele sinckes neder /</l>
+<l n="430">Soe dat si nemmermeer weder</l>
+<l>Comen en mach daer Cristus es.</l>
+<l><edition n="566"/>Nu merct / mensche / wat meynede es.</l>
+<l>Die dume / die neven de vingher leyt /</l>
+<l>Bediet dat die duvel talre tijt</l>
+<l n="435">Dijnre doot altoos neemt ware /</l>
+<l>Want du beste sijn eyghen gare /</l>
+<l>Alsoe dattu hebs ghezworen.</l>
+<l>Hi trect di eweliken verloren /</l>
+<l>En beterdi Gode niet den eet.</l>
+<l n="440">Maer tzweren heeft een onderscheet:</l>
+<l>Wie den eet neemt ofte zweert /</l>
+<l>Ende daer met rechte niet in en veert /</l>
+<l>Op hem soe blijft die mesdaet.</l>
+<l>Hoert wat God selve ghesproken haet:</l>
+<l n="445">"En zweert niet bi des hemels troen /</l>
+<l>Noch bider eerden; dijnre redenen doen</l>
+<l>Sal sijn: het es of en es niet."</l>
+<l>Soe wie boven maten pliet</l>
+<l>Te zweerne / en bewaert niet altoos den eet.</l>
+<l n="450">Die wise Salomon die zeet:</l>
+<l>"Een man die alte vele zweert /</l>
+<l>Sijn lijf hem nemmeer des en weert /</l>
+<l>Hi en wert vol der sunden vele;</l>
+<l>Want van sijns huses dele</l>
+<l n="455">En comt Gods plaghe nicht."</l>
+<l>Die heilighe Augustinus spricht:</l>
+<l>"Wie valsch zweert bi enen steyne /</l>
+<l>Sijn eet die es onreyne;</l>
+<l>Want hi daer meynedich es vorwaer:</l>
+<l n="460"><pb n="567"/> In enen steyn meynt hi Gode daer /</l>
+<l>Ende wert meynedich / sonder spot."</l>
+<l>Dus gaf die hooch gheloefde God</l>
+<l>Dat ander ghebot / dat si u cont /</l>
+<l>Dat nyemen Hem in gheenre stont</l>
+<l parse="ignore" n="465">Onnuttelike en name in sinen mont.</l>
+</div>
+<div type="chapter"><head type="chapter"><i>Die derde plaghe ende dat derde ghebot.</i> </head>
+<l>NU hoort hoe die derde plaghe si /</l>
+<l>Die daer was dien lande by /</l>
+<l>Want si was hem alte zwaer.</l>
+<l>Gheen vroude en hadden si vorwaer;</l>
+<l n="470">Want inden lande quamen mucken</l>
+<l>Alsoe vele / dat hem ghebucken</l>
+<l>Niemen voor hem en conde /</l>
+<l>Noch te sinen monde</l>
+<l>En mochte ghebieden ene hant:</l>
+<l n="475">Daer mede wert vervult dat lant /</l>
+<l parse="ignore">Daer af den meneghe dat leven zwant.</l>
+<l>Die mugghe / die daer al omme waren /</l>
+<l>Ende lettel haren arbeit sparen /</l>
+<l>Die machmen wel bedieden</l>
+<l n="480">Bi den dommen lieden /</l>
+<l>Die al die weke werken even stijf /</l>
+<l>Ende en setten niet te raste haer lijf /</l>
+<l>Ende en eren niet den reynen tijt /</l>
+<l>Dien ons heeft ghebenedijt</l>
+<l n="485">Selve die hoghe gheloefde God /</l>
+<l><edition n="568"/>Daer Hi ons mede tderde ghebot</l>
+<l>Gaf tot eenre leren.</l>
+<l>Hi sprac: "Mensche / du salt eren</l>
+<l>Met vierne ende met goeder daet</l>
+<l n="490">Den sondach." Mensche / dat verstaet /</l>
+<l parse="ignore">So wert dijns wel ten jonxten raet.</l>
+<l>Desen ghebode dien sijn bi /</l>
+<l>Mensche / goeder leren dri:</l>
+<l>Hoe ghi den sondach selt eren /</l>
+<l n="495">Ende uwer zielen veel vrouden meren.</l>
+<l>Dat eerste es: laet dat herte dijn</l>
+<l>Vrij van quader ghedachten sijn /</l>
+<l>Ende ghedinct aen dinen God /</l>
+<l>Ende eert dien van dies ghebot</l>
+<l n="500">Du ziel ende lijf ontfanghen haest.</l>
+<l>Een goet ghedachte der sunden last</l>
+<l>Tallen tiden verdriven doet.</l>
+<l>Dijn herte si quaet ofte goet /</l>
+<l>God weet alle dinc openbaer.</l>
+<l n="505">Nu neemt eens wisen sproken waer:</l>
+<l>"Alre menschen ghedachte</l>
+<l>Es Gode te wetene sachte."</l>
+<l>Hi weet haerre alre moet;</l>
+<l>Ende alle die dinghen diemen doet /</l>
+<l n="510">Dier en es voor Hem verborghen twint."</l>
+<l>Hoort wat ons Petrus doet bekint:</l>
+<l>"God weet alle ghedachten wel /</l>
+<l>Sijnse goet ofte fel."</l>
+<l>Dair om spreect Cristus / sijt gewes:</l>
+<l n="515">"Salich sijn die die haer herte es</l>
+<l>Luter / claer ende rene</l>
+<l><edition n="569"/>Ende keren hen allene</l>
+<l parse="ignore">Te Gode ende tsijnre moghentheit;</l>
+<l>Wie Gode in sijn herte dreyt /</l>
+<l n="520">Hem es dat hemelrike bereyt."</l>
+<l>Dat ander poente / mensche / onthout al</l>
+<l>Daermen te rechte mede sal</l>
+<l>Den sondach eren ende loven /</l>
+<l>Soe mijddi des duvels cloven.</l>
+<l n="525">Alle sunden suldi vlien /</l>
+<l>Ende u te goeden werken tien.</l>
+<l>Dijn leven es hier herde cort /</l>
+<l>Ende heeft hem omme ghestort</l>
+<l>In eenre corter stonde.</l>
+<l n="530">Nu hoort hier van Gods monde</l>
+<l>Ene sproke die Hi sprac /</l>
+<l>Ende ons teenre leren vertrac.</l>
+<l>Hi sprac: "Wacht u / want ghi niet</l>
+<l>En weet den tijt / wanneer ghesciet</l>
+<l n="535">Dat u die doot comstech si."</l>
+<l>Nieman en es van sterven vri</l>
+<l>Noch dier bittere noot:</l>
+<l>Wij sijn niets sekerre dan der doot.</l>
+<l>Nyeman dan God / Onse Here /</l>
+<l n="540">En weet waer ofte wanneer</l>
+<l>Den mensche sijn leven inden moet;</l>
+<l>Daer omme soe wendt u / dats u goet /</l>
+<l>Van sunden ende van mesdaden /</l>
+<l>Ende eert Gode om sine ghenaden.</l>
+<l n="545"><pb n="570"/> Die wise Salomon seyt dit bediet;</l>
+<l>"Mensche / ghine selt versumen niet /</l>
+<l>Ghine selt haestelinghe u bekeren;</l>
+<l>Op dat ghi wilt u salicheit meren /</l>
+<l>So en verstes niet van daghe te daghe.</l>
+<l n="550">Ende hoort wat ic di meer saghe.</l>
+<l>Onse Here God haet openbaere</l>
+<l>Den sondare / die niet en nemt ware</l>
+<l>Dat Hi met ontfarmicheit</l>
+<l>In sijn herte rouwe dreyt.</l>
+<l n="555">Mensche / hebstu ghesondecht /</l>
+<l>Soe sidi dat ghecundecht</l>
+<l>Dattu niet en macx der sunden mee;</l>
+<l>Bidt / smeect Gode ende vlee /</l>
+<l>Dat Hi vergheve die sunden dijn.</l>
+<l n="560">Het spreect Sinte Augustijn:</l>
+<l>"Die sunde die es alsoe zwaer /</l>
+<l>En wert mer niet schiere ledech vorwaer /</l>
+<l>Ende mense niet metter boeten en verdoe /</l>
+<l>Si tricter een ander sunde toe.</l>
+<l n="565">Daer om vloect der sunden stric</l>
+<l>Ghelijc der slanghen aneblic /</l>
+<l>Sijts listigher dan der slanghen oert /</l>
+<l>Haer list ziel ende lijf vermoert /</l>
+<l>Ende trecse daer si sijn verloren.</l>
+<l n="570">Wildi met Gode sijn vercoren /</l>
+<l parse="ignore">Soe viert den sondach als te voren.</l>
+<l>Mensche / aen terde poent legt merc.</l>
+<l>Doen God maecte ende sciep dit werc /</l>
+<l>Beyde die hemel ende die aerde /</l>
+<l n="575">Ende liet dair inne weerden</l>
+<l><edition n="571"/>Alle dinc na sijnre aert /</l>
+<l>Sijn godlijc werc volmaect waert</l>
+<l>In .VI. daghen / ende daer na Hi nam</l>
+<l>Een ruste / alsoet Hem bequam /</l>
+<l n="580">Ende aenden sevenden daghe gheheer</l>
+<l>En arbeyde Onse Here niet meer;</l>
+<l>Die waert van sinen monde openbaer</l>
+<l>Ghebenedijt. Nu nem waer /</l>
+<l>Mensche / hoe ghi eert dien tijt /</l>
+<l n="585">Dien God heeft ghebenedijt.</l>
+<l>Ghi en selt te dien male</l>
+<l>Ghenen arbeyt no quale</l>
+<l>Aen dien dach niet liden /</l>
+<l>Op dat ghi wilt miden</l>
+<l n="590">Des almachtichs Gods hat.</l>
+<l>Salomon die spreect dat</l>
+<l>Een snede broets beter sy /</l>
+<l>Dair vroude ende ghenuechte es bi /</l>
+<l>Dan een huus vol rijcheiden</l>
+<l n="595">Met jammer ende met sericheiden.</l>
+<l>Dies sondaechs saltu daer aen sijn</l>
+<l>Dattu der armer zielen dijn</l>
+<l>Arbeyts voor met goeder raet.</l>
+<l>Tot dien God ghesproken haet:</l>
+<l n="600">"Coomt alle die kinder mijn</l>
+<l>Die daer houden tghebot mijn /</l>
+<l>Ic wille di verquicken."</l>
+<l>Mensche / du saelt di scicken /</l>
+<l>Dattu den sondach selt eren /</l>
+<l n="605">Ende die te Gode keren.</l>
+<l><edition n="572"/>Alsoe Sinte Thomas ghiet:</l>
+<l>"Die mensche en es van Gode niet /</l>
+<l>Die sinen sondach niet en bewaert /</l>
+<l>Ende dair aen niet sinen arbeit en spaert.</l>
+<l parse="ignore" n="610">Wee sijnre leste henevaert!"</l>
+</div>
+<div type="chapter"><head type="chapter"><i>Die vierde plaghe ende dat vierde ghebot.</i> </head>
+<l>HOort hoe die vierde plaghe si.</l>
+<l>Daer was veel grote sericheit bi.</l>
+<l>Het quamen so veel honts vlieghen /</l>
+<l>Dat voor hen moeste neder sieghen</l>
+<l n="615">Wilt ende tam / ende liden quale /</l>
+<l>Ende dat arm volc altemale.</l>
+<l>Dier vlieghen wert veel over al</l>
+<l>Sonder mate ende sonder ghetal /</l>
+<l>Haer steken ende haer omme varen</l>
+<l n="620">Doede menech moederbaren;</l>
+<l parse="ignore">Van hen en conste hem nyment bewaren.</l>
+<l>Dese honts vlieghe heeft honts zede /</l>
+<l>Ende honts aert es in haer mede.</l>
+<l>De hont levet als een hont /</l>
+<l n="625">Der moeder trouwe waer hem oncont;</l>
+<l>Hem es die vader onbekint /</l>
+<l>Aen selker trouwen es hi blint.</l>
+<l>Dit exempel wil ic gheven</l>
+<l>Hen allen die naden honden leven /</l>
+<l n="630">Ende en achten niet haren vader /</l>
+<l>Noch hare moeder beyde gader /</l>
+<l>Van dien si menscheliken sijn gheboren /</l>
+<l>Die sijn eweliken verloren /</l>
+<l><edition n="573"/>Ende haers en wert nemmermeer raedt.</l>
+<l n="635">Dair om ons God ghegheven haet</l>
+<l>Dit vierde ghebot / ende spreect also:</l>
+<l>"Mensche / du saelt altoos eren hoe</l>
+<l>Den vader entie moeder dijn</l>
+<l>Met goeden werken waer si sijn /</l>
+<l parse="ignore" n="640">Soe verwerfstu die hulde mijn."</l>
+<l>Mensche / hoor ende merc aen mi /</l>
+<l>Die goede God die hetet di</l>
+<l>Dinen vader entijnre moeder eren /</l>
+<l>Op dat ghi wilt u salicheit meren.</l>
+<l n="645">Drie vadere en drie moedere sijnt</l>
+<l>Die eren sal een yghelic kijnt.</l>
+<l>Den eersten vader diemen sal</l>
+<l>Metter moeder eren over al /</l>
+<l>Mensche / dair af sidi gheboren.</l>
+<l n="650">Drie eren sijn daer toe vercoren</l>
+<l>Daer duse mede eren sout.</l>
+<l>Dat eerste: en sijt niet alte bout</l>
+<l>Ieghen den vader entie moeder dijn /</l>
+<l>Stuere redene laet jeghen hen sijn /</l>
+<l n="655">Eertse met woorden ende metter daet.</l>
+<l>Hoort wat Salomon ghesproken haet:</l>
+<l>"Wie sinen vader qualiken toesprect</l>
+<l>Ende siere moeder niet en eert / hem ghebrect</l>
+<l>Sire zielen salicheit ende wert verlecht;</l>
+<l n="660">Want sijn ziele die wert ghevecht</l>
+<l>In midden in die donckerheit</l>
+<l>Der hellen. Hoort wat Catoen seyt:</l>
+<l>"Des vader segheninghe maken can</l>
+<l><edition n="574"/>Der kinder huus / daer merket an /</l>
+<l n="665">Ende der moeder vloekende mont</l>
+<l>Keert omme haer salicheit / ic doet di cont /</l>
+<l>Aen der zielen ende aen den levene."</l>
+<l>Die ander eer merct evene /</l>
+<l>Dats dattu vader ende moeder sout</l>
+<l n="670">Eren / so wert di seker hout</l>
+<l>God ende die werelt openbaer /</l>
+<l>Ende dijn kinder nemens waer.</l>
+<l>Eert vader ende moeder / ende arbeit hen voer /</l>
+<l>Soe dat dijn kint aen di nemt spoer</l>
+<l n="675">Als dije crancheit gaet toe /</l>
+<l>Dat dijn kint an di doe alsoe.</l>
+<l>Ihesus Sydracs sone ons leert:</l>
+<l>"Wie vader ende moeder eert</l>
+<l>Die wert oec vanden kinderen sijn</l>
+<l n="680">Vervroudt / dats dicke worden aenscijn;</l>
+<l>Ende roept hi Gode in node an /</l>
+<l>Onse Here Hi hoort hem dan.</l>
+<l>Die derde es / sijt ghehoorsaem</l>
+<l>Vader ende moeder ende onderdaen /</l>
+<l n="685">Ende staet te haren ghebode /</l>
+<l>Soe werdi ghedanct van Gode /</l>
+<l>Dien dinkes ende verghet niet.</l>
+<l>Merct wat ons Paulus hier bediet:</l>
+<l>"Kinder / ghi sult onderdaen</l>
+<l n="690">Sijn uwen oudren / sonder waen /</l>
+<l>In Gode / want het es recht."</l>
+<l>Nu hoort wat ons seecht slecht</l>
+<l><edition n="575"/>Salomon die wise / die vroede:</l>
+<l>"Soe wie dat sparen wil die roede /</l>
+<l n="695">Ende te slane niet en vaet</l>
+<l>Sijn kinder / dat hise haet.</l>
+<l>Wie sijn kinder lief heeft /</l>
+<l>Hi castijse / die wile hi leeft."</l>
+<l>Daer af hout / mensche / dit ghebot:</l>
+<l n="700">Eert vader ende moeder also di God</l>
+<l>Ghebiedt. Ghi vader / dwingt u kint /</l>
+<l>Die wile si onder u roede sijnt /</l>
+<l parse="ignore">Met leren / dat ghise te doechden bint.</l>
+<l>Mensche / nu hoort voort bat</l>
+<l n="705">Die ander ghebot ende hout dat /</l>
+<l>Want ic wilre u in leren</l>
+<l>Hoe du dien andren vader eren</l>
+<l>Ende die andre moeder sout:</l>
+<l>Die eert altoos ende sijt hen hout.</l>
+<l n="710">Dien vader ende dier moeder dient</l>
+<l>Gheestelijc / so sidi Gods vrient.</l>
+<l>Die paeus die es dese vader /</l>
+<l>Die bisscoppe entie legate allegader /</l>
+<l>Die dijns gheloven sijn behoeder.</l>
+<l n="715">Ende soe es die goede moeder</l>
+<l>Dier Kerstenheit dier sijt bi</l>
+<l>In hare eren altoes si.</l>
+<l>Toten priesteren Ons Here sprect:</l>
+<l>"Hebt mine ghewout ende verwect</l>
+<l n="720">Den mensche / dat heet ic di.</l>
+<l>Minen gheest soe laetic di.</l>
+<l><edition n="576"/>Wien ghi met berouwe sijn sonden vergeeft /</l>
+<l>Weet dat hi dan gheen sonde en heeft."</l>
+<l>Daer omme / mensche / volghe mi /</l>
+<l n="725">Met goeder trouwen radic di.</l>
+<l>Ofte papen onpleghelijc waren /</l>
+<l>Ende hen selven niet en bewaren /</l>
+<l>Merct haer lere ende niet haer leven;</l>
+<l>God heeft hen die macht ghegheven</l>
+<l n="730">Dat si di zelen raden wel /</l>
+<l>Daer omme een mensche hebben sel</l>
+<l>Voor oghen ende hen altoos eren.</l>
+<l>Twe dinghe wil ic di leren /</l>
+<l>Dier ghi moet sijn onderdaen:</l>
+<l n="735">Dijnre kerken ende dinen prochiaen.</l>
+<l>Ghine selt emmer / wat dijns ghesciet /</l>
+<l>Ieghen dinen prochiaen striden niet /</l>
+<l>Die di tenen vader ghegeven ist /</l>
+<l>Noch jeghen die Kerke die di Krist</l>
+<l n="740">Tot eenre moeder heeft ghegeven;</l>
+<l>Dien seldi emmer sijn beneven /</l>
+<l>Soe mach dijns wel werden raet.</l>
+<l>Hoert wat Matheus ghesproken haet:</l>
+<l>"Mensche / die di heeft ghewracht /</l>
+<l n="745">Dien hebt lief dach ende nacht /</l>
+<l>Ende eert sijn dienren / waer ghise siet /</l>
+<l>Ende dies en seldi laten niet."</l>
+<l>Dat ander es: "Wildi Gods knecht</l>
+<l>Sijn / soe doet der Kerken recht /</l>
+<l n="750">Ende en brect niet haer goet ave</l>
+<l>Dat God wil hebben teenre gave.</l>
+<l>Salomon sprect dit ghedichte:</l>
+<l><edition n="577"/>"Mensche / dijn aensichte</l>
+<l>Laet vroe in allen gaven sijn</l>
+<l n="755">Ende der Kerken thare sijn.</l>
+<l>Gregorius die sprect oec:</l>
+<l>"Hi es wel een dommer goec /</l>
+<l>Wie met wille der Kerken goet</l>
+<l>Behout / want hi jeghen Gode doet."</l>
+<l n="760">Ghi selt altoos ghehoorzaem wesen</l>
+<l>Dinen prochiaen. Wildi ghenesen</l>
+<l>Ander zielen / soe ghedinct dat God</l>
+<l>Ghehoorzaem was tot inder doot.</l>
+<l>God selve dede ons ghehoorsaem cont /</l>
+<l n="765">Hi sprac door eens propheten mont:</l>
+<l>"Te wien wil ic die oghen mine</l>
+<l>Laten int openbaer scinen?</l>
+<l>Tot nyemene anders dan tot dien</l>
+<l>Dien ic ghehoorsaem mach sien</l>
+<l n="770">Sinen oversten ende gherne hoort</l>
+<l>Ende vrochtet mine woort /</l>
+<l parse="ignore">Die comen inden ewighen oert."</l>
+<l>Die derde vader die es goet.</l>
+<l>Wel hem die nade ghebode doet /</l>
+<l n="775">Dat hi dien vader ere biedet /</l>
+<l>Ende sijnre liever moeder miedet</l>
+<l>Met bedinghen / der maghet Marien /</l>
+<l>Daer die sundaren na screyen /</l>
+<l>Die hare ontbeiden nacht ende dach /</l>
+<l n="780">Want nyement hare voleren en mach.</l>
+<l>Dat neemt / mensche / in uwen sin:</l>
+<l>Ten minsten seldi doch hen</l>
+<l><edition n="578"/>Drien eren altoos bieden /</l>
+<l>Op dat ghi wilt mieden</l>
+<l n="785">Die ewelike salicheit.</l>
+<l>Dat eerste dat si di gheseyt:</l>
+<l>Oft ghi wilt staen na ghenaden /</l>
+<l>Soe seldise tuwen huse laden /</l>
+<l>Dats in u herte / sonder verste.</l>
+<l n="790">Dair seldi laden Ihesum Kerste.</l>
+<l>Sente Pauwels sprect tot ons:</l>
+<l>"Ghi sijt een tempel des Gods Sons /</l>
+<l>Ende in u woont die Heilighe Gheest."</l>
+<l>Soe cleyne mensche / dattuus weets</l>
+<l n="795">Dat God in di ghehuset haet /</l>
+<l>Als du met dijnre mesdaet</l>
+<l>Hem van di verdrives</l>
+<l>Ende biden duvel blives /</l>
+<l>Soe latene weder snelle</l>
+<l n="800">In dijns herten selle /</l>
+<l>Ende doet als eens een here dede</l>
+<l>Die Gode loet in sijn huus met bede /</l>
+<l>Want hi met innigher herten sprac:</l>
+<l>"Mijn dochter heeft onghemac</l>
+<l n="805">Ende es van ziecten zeer bezwaert /</l>
+<l>Dair omme mijn herte / Here / begaert</l>
+<l>Dat Ghi des wilt gheroeken /</l>
+<l>Dat Ghi mijn huus wilt versoeken /</l>
+<l>Dat mine dochter werde verquict</l>
+<l n="810">Die ter doot es ghescict."</l>
+<l>Mensche / dat es die ziele dijn</l>
+<l>Die van sunden lidet pijn /</l>
+<l><edition n="579"/>Want si daer af wert onghesont.</l>
+<l>Nu hoort des propheten mont.</l>
+<l n="815">Hi sprect: "Here / hemelsche Vader /</l>
+<l>Heilt mijn ziele / die alle gader</l>
+<l>Van sunden cranc es; die weder herlave /</l>
+<l>Want ic jeghen Di ghesondicht have."</l>
+<l>Dus laet te di den Sceppere dijn</l>
+<l n="820">Metter liever moeder sijn /</l>
+<l>Der liever maghet Marien /</l>
+<l>Daer die sundaren op lyen.</l>
+<l>Een Helighe sprect met sueten sinne:</l>
+<l>"Verheffe di / mine vriendinne /</l>
+<l n="825">Mijn scone / ende coemt te mi /</l>
+<l>Die winter es henen / dat segghic di /</l>
+<l>Ende des regens inde;</l>
+<l>Dat sijn mine sunden."</l>
+<l>Dat ander / mensche / verstaet al:</l>
+<l n="830">Ieghelijc weert van rechte sal /</l>
+<l>Die lieve gaste ghebeden haet /</l>
+<l>Sijn huus van alre vlecheit quaet</l>
+<l>Reyne maken ende keren;</l>
+<l>Mensche / wiltu dijn ziele gheneren /</l>
+<l n="835">Soe veecht reyne dijns herten cluse</l>
+<l>Ende laet dan Onsen Here tinen huse.</l>
+<l>Met rouwen suldi te gader striken</l>
+<l>Die sunden die aen di bliken /</l>
+<l>Ende met biechten werptse van u;</l>
+<l n="840">Ende daer na laet Gode tot u /</l>
+<l>Ende bestroyt dijn herte</l>
+<l><edition n="580"/>Met rouwen / met boeten ende met smerte.</l>
+<l>Dijn huus suldi sieren aldus /</l>
+<l>Het sprect sinte Ieronimus:</l>
+<l n="845">"Die siele die moet salich sijn /</l>
+<l>Die met goeder werken schijn</l>
+<l>Haer herten reynen alle daghe /</l>
+<l>Dat si des te bat behaghe</l>
+<l>Gode / die si dair inne neemt.</l>
+<l n="850">Al selker herten wael teemt</l>
+<l>Datsi haer bewaer met goeder daet;</l>
+<l>Want si in hair ghehuset haet</l>
+<l>Gode / die met sire macht</l>
+<l>Hemel ende eerde heeft ghewracht.</l>
+<l n="855">Dat derde / mensche / wel behout /</l>
+<l>Daer du Gode met eren sout:</l>
+<l>Weder ghi thuus sijt ofte op weghe /</l>
+<l>Soe suldi selker zeden pleghen /</l>
+<l>Waert u yegherinc mach ghescien /</l>
+<l n="860">Dat ghi selt Gode in messen sien:</l>
+<l>Het es der zielen een groot ghemac.</l>
+<l>Iacob / die patriarke / sprac:</l>
+<l>"Gode hebbic ghesien openbaer /</l>
+<l>Van lede te lede nam ic sijns waer /</l>
+<l n="865">Dies es vroe die ziele mijn."</l>
+<l>Het spreect sinte Augustijn:</l>
+<l>"Wij sien hoe suete dat es Crist /</l>
+<l>Ende sine volmaectheit watter ist;</l>
+<l><edition n="581"/>Wi sien sijn sierheit openbaer /</l>
+<l n="870">Wi sien dier Heilighen scare /</l>
+<l>Wi sien na sijnre gherechticheit</l>
+<l>Sine volcomene weerdicheit;</l>
+<l>Wi sien des Vaders ghewout /</l>
+<l>Ende des Soons wijsheit menich fout /</l>
+<l n="875">Ende des Heilichs Gheests meldicheit.</l>
+<l>Deser drier namen beelde vorseyt</l>
+<l>Sijn aen enen God ghewant /</l>
+<l>Die vrolijc ons becant.</l>
+<l>Daer omme / mensche / pijnt u te keerne</l>
+<l n="880">U herte / te gane ter kerken gheerne /</l>
+<l>Ende eert den vaderliken God /</l>
+<l>Ende pijnt u te houdene sijn ghebot /</l>
+<l>Dats dat ghi selt vader ende moeder eren /</l>
+<l>Op dat ghi wilt te Gode keren /</l>
+<l parse="ignore" n="885">Ende uwer sielen salicheit meren.</l>
+</div>
+<div type="chapter"><head type="chapter"><i>Die vijfste plaghe ende dat vijfste ghebot.</i> </head>
+<l>NU hoort vander vijfter plaghen /</l>
+<l>Die ghesciede in dien daghen</l>
+<l>Aen den lieden met allen.</l>
+<l>Aen hen was ghevallen</l>
+<l n="890">Ene bitterlike plaghe.</l>
+<l>Coninghen / hertoghen ende grave /</l>
+<l>Ende dat volc al ghemeyne /</l>
+<l>Out / jonc / groet ende cleyne /</l>
+<l>Beyde kinder ende wijf /</l>
+<l n="895">Gheplaghet wert hare alre lijf;</l>
+<l><edition n="582"/>Want aen hen worden vonden</l>
+<l>Bladeren ende wonden /</l>
+<l>Zweren opgheblasen /</l>
+<l>Datter lettel ghenasen.</l>
+<l n="900">Dus leden si ghemeyne noot /</l>
+<l>Datter menich moeste bliven doot</l>
+<l>Van dier ghemeynder plaghen groot.</l>
+<l>Die bladeren entie wonden</l>
+<l>Die aenden lieden worden vonden /</l>
+<l n="905">Datsi dus worden verloren /</l>
+<l>Bediet den gremmeliken toren</l>
+<l>Die uten herten comen /</l>
+<l>Lettel te haren vromen;</l>
+<l>Want haer herte zeer zwelt</l>
+<l n="910">Ende haer bloet hem verwelt /</l>
+<l>Entie mensche alsoe wert</l>
+<l>Dat hi sire sinnen ontbert.</l>
+<l>Hem wert also vervult die moet /</l>
+<l>Dat hem niet en ruert wat hi doet /</l>
+<l n="915">Ende heeft in hem groten storm;</l>
+<l>Hem es een mensche als een worm /</l>
+<l>Dien hi ter doot moert /</l>
+<l>Ende hem in doot sunden goert /</l>
+<l>Ende doet jeghen Goods woort.</l>
+<l n="920">Daer jeghen ons die goede God</l>
+<l>Gaf dat vijfste ghebot.</l>
+<l>Hi sprac: "Mensche / hoort na mi:</l>
+<l>Van manslacht soe huedt di /</l>
+<l>En doot nyemene metter hant /</l>
+<l n="925">Ende sijt ten wille oec niet bewant /</l>
+<l>Noch en verraedt nyemans leven:</l>
+<l><edition n="583"/>Mijn lere laet di zijn beneven /</l>
+<l parse="ignore">Hi mach di die ewighe vroude gheven."</l>
+<l>Mensche / in dijn herte nem</l>
+<l n="930">Dit ghebot / ende blijf bi hem:</l>
+<l>Dats dat ghi mijdt manslachten /</l>
+<l>Die de ziel ende lijf versmachten /</l>
+<l>Ende gheeft u gramscap ten hoghen Crist /</l>
+<l>Die alles dinghes een rechtere ist.</l>
+<l n="935">Drie manslachte sijn sonder blijf:</l>
+<l>Deerste es datstu doots eens lijf /</l>
+<l>Dander dijn raet doet den man /</l>
+<l>Dat derde dijn ziele doden can.</l>
+<l>Die eerste manslachte suldi merken /</l>
+<l n="940">Dijn raet en sal nyemene sterken</l>
+<l>Te dodene; want die scout es dijn /</l>
+<l>Dier sunden moeti deelachtich sijn</l>
+<l>Ghelikerwijs / dat si u becant /</l>
+<l>Als oft ghijt daet metter hant.</l>
+<l n="945">Daer omme dat recht dit recht begheert /</l>
+<l>Datsi sijn gheliker boeten weert /</l>
+<l>Die daer begaen hebben die daet /</l>
+<l>Entiere toe hebben ghegheven raet;</l>
+<l>Daer omme / mensche / ne ghene moert</l>
+<l n="950">En maec met dijnre tonghen oert:</l>
+<l>Die quade tonghe moert den man /</l>
+<l>Met haren rade si moerden can.</l>
+<l>Petrus beclaghet in sijnre scrift /</l>
+<l>Hi seyt: "Des quaets sins vergift</l>
+<l n="955">Heeft haren mont alsoe begrepen /</l>
+<l>Dat die tonghe es gheslepen</l>
+<l><edition n="584"/>Alse die slanghe: wanneer si wille</l>
+<l>Steken / soe heeftse fenijns vele.</l>
+<l>Die ander manslacht die es groot /</l>
+<l n="960">Die es verborghen ende niet bloet;</l>
+<l>Dien maect die vervloecte nijt /</l>
+<l>Die de ziele verdrinct / des seker sijt;</l>
+<l>Die meneghe met nide doot den man /</l>
+<l>Die noyt scout jeghen hem en ghewan.</l>
+<l n="965">Een herte / dat yemene ander doot /</l>
+<l>Bringht hem in sunde sonder noot /</l>
+<l>Ende in groter mesdaet.</l>
+<l>Dair af Sinte Ian ghescreven haet:</l>
+<l>"Wie dat benijdt den brueder sijn /</l>
+<l n="970">Dat es den evenkersten dijn /</l>
+<l>Ghelijct ere manslachte vorwaer."</l>
+<l>Dat derde dat es alte zwaer:</l>
+<l>De gremmeghe toren manslacht doet /</l>
+<l>Daer menech tleven om laten moet.</l>
+<l n="975">Die manslacht metter hant doet</l>
+<l>Ende verghiet eens anders bloet /</l>
+<l>Ende nemt hem sijn ghesonde leven /</l>
+<l>Dat hi hem niet en heeft ghegeven;</l>
+<l>Hi nemt sire zielen hemelrike /</l>
+<l n="980">Ende verdoemt hem ewelike.</l>
+<l>Daer om ons God dit selve ghebiedt:</l>
+<l>"Mensche / dune sult doden niet.</l>
+<l>Wie yemene doot / die sal sijn</l>
+<l>Bestaen des gherechts mijn /</l>
+<l n="985">Ende hi es de verloorne."</l>
+<l>Daer om dwingt dinen toorne /</l>
+<l>Mensche / ende sachtet dinen moet /</l>
+<l><edition n="585"/>Ende merct wat de toorne doet:</l>
+<l>Als ons een lerer wel can conden /</l>
+<l n="990">Een dier alre quaetste sonden</l>
+<l>Es die toren. Wiene slut toe /</l>
+<l>Hi gheeft al sinen live roe;</l>
+<l>Ende wie onsluut des torens bant /</l>
+<l>Hi heeft ghewapent sine hant</l>
+<l n="995">Herde saen tot alre mesdaet.</l>
+<l>Hoort wat een wise ghesproken haet:</l>
+<l>"Die quade hi suect te alre tijt</l>
+<l>Werre / toren ende strijt.</l>
+<l>Daer omme / mensche / mijt den toren;</l>
+<l n="1000">Want die duvel heeftse vercoren /</l>
+<l parse="ignore">Ende trect haer ziele verloren."</l>
+<l>Weerde mensche / nu merct voort:</l>
+<l>Die manslachte die de ziele vermoort</l>
+<l>Es drierlye / merket die.</l>
+<l n="1005">Die eerste / segghic di wel wie</l>
+<l>Men die ziele verstaet dare /</l>
+<l>Des soe seldi nemen ware:</l>
+<l>Een bose raet die moert volvuert /</l>
+<l>Daermen die ziele mede ruert /</l>
+<l n="1010">Dat voor Gode wert verslaghen.</l>
+<l>Alselken raet donghelovighe jaghen /</l>
+<l>Entie Ioden / entie Heiden /</l>
+<l>Die meneghe ziel doen sceyden</l>
+<l>Vanden ewighen leven /</l>
+<l n="1015">Ende die ewighe doot hen gheven.</l>
+<l>Declecianus doet ons cont /</l>
+<l>Ende spreect: "Mi heeft veel menich hont</l>
+<l><edition n="586"/>Omseten ende omtreden /</l>
+<l>Entie bose met horen reden</l>
+<l n="1020">Hebben nu ommeringhet mi."</l>
+<l>Mensche / daer voor huedt di!</l>
+<l>Opdat ghi wilt die ziele generen /</l>
+<l>Soe moeti u dier liede weren</l>
+<l>Die anden ghelove wankel sijn /</l>
+<l n="1025">Ende hebt soe vaste die herte dijn</l>
+<l>Dat di haer raet niet en mach letten /</l>
+<l>Noch bringhen onder sduvels netten /</l>
+<l>Als die prophete Abacuc seyt:</l>
+<l>"Die duvel heeft in ertrike ghespreyt</l>
+<l n="1030">Sijn nette ende wide ondaen /</l>
+<l>Ende dair inne heefti ghevaen</l>
+<l>Der onghelovigher lieden vele /</l>
+<l>Daer hi niet af sceyden en wille /</l>
+<l>Hi en trecse inder hellen gront."</l>
+<l n="1035">Sente Peter doet ons cont:</l>
+<l>"Sijt nuchteren ende waket /</l>
+<l>Want die duvel maket</l>
+<l>Alle scande / des sijt gewes /</l>
+<l>Want hi u wedersake es /</l>
+<l n="1040">Ende es op u vergremmet.</l>
+<l>Als een leeu hi bremmet /</l>
+<l>Ende suect ochti mochte vinden</l>
+<l>Dien hi mochte verslinden</l>
+<l>Met sinen valschen rade /</l>
+<l n="1045">Dien hi / vruech ende spade /</l>
+<l>Met sinen boden sendt /</l>
+<l>Dat hi van Gode went</l>
+<l>Meneghe ziel inder hellen pijn /</l>
+<l><edition n="587"/>Die daer moet eweliken in sijn.</l>
+<l n="1050">Du domme mensche / hier merket an:</l>
+<l>Die andre manslacht doden can</l>
+<l>Die ziele / ewelike verloren van Gode /</l>
+<l>Die trect de duvel tsinen ghebode</l>
+<l>Om haer valsche lere /</l>
+<l n="1055">Daer si emmermere</l>
+<l>Van haerre leren drincken /</l>
+<l>Daer hen die duvels scincken</l>
+<l>In die ewelike bronst /</l>
+<l>Daer trecse inne haer quade const.</l>
+<l n="1060">Meestren ende lereren sijn</l>
+<l>Ghevaren in die helsche pijn /</l>
+<l>Daer si selker leren woonden by /</l>
+<l>Die daer valsch gheheten si.</l>
+<l>Welk mensche die dole hebbe weert /</l>
+<l n="1065">Den duvel hi te hulpen gheert /</l>
+<l>Die bi hem dan blivet /</l>
+<l>Ende aen hem also beclivet</l>
+<l>Dat hi een duvel heten moet.</l>
+<l>Gregorius ons cont doet:</l>
+<l n="1070">"Wee hem die den anderen tyen</l>
+<l>Te sunden / daer si Gode met vlien</l>
+<l>Met haren valschen leren /</l>
+<l>Ende hen selven van Hem keren /</l>
+<l>Ende sijs in hare quaetheit</l>
+<l n="1075">Tsduvels dienste sijn bereyt:</l>
+<l>Hoe si van aerde niet duvele en sijn /</l>
+<l>Haer duvelike werke doen aenschijn /</l>
+<l><edition n="588"/>Datsi sijn duvele openbaer.</l>
+<l>God sprac: "Du salt vlien vorwaer</l>
+<l n="1080">Der valscher propheten daet /</l>
+<l>Die tot u comen in lams ghewaet /</l>
+<l>Ende sijn doch binnen wolvelijn:</l>
+<l>Ghi kintse aen haer werke schijn."</l>
+<l>Dat derde merc / du dommer goec /</l>
+<l n="1085">Dat die ziele dodet oec /</l>
+<l>Dat es die die in sunden leghet</l>
+<l>Ende den anderen quaet teken ghevet /</l>
+<l>Ende dien bringht in sonden.</l>
+<l>Vorwaer wil ic dien conden /</l>
+<l n="1090">Dat hi des gheens mesdaet</l>
+<l>Op hem neemt / dat verstaet.</l>
+<l>Daer omme / mensche / nem des ware /</l>
+<l>Oftu di heefs versundet zware /</l>
+<l>Die wile du inden sunden leves /</l>
+<l n="1095">Dattu ne gheen bose beelde en heves.</l>
+<l>Iudaes Thadeus mont</l>
+<l>Doet herde clagelike cont /</l>
+<l>Hi sprect: "Ach du / der sunden kint /</l>
+<l>Ende een beelde der quaetheit blint /</l>
+<l n="1100">Du verwerfs dair met die ewicheit /</l>
+<l>Die alre pinen pine dreyt /</l>
+<l>Ende die ewelike doot /</l>
+<l>Daer meneghe ziele lidet noot."</l>
+<l>En gheeft gheen beelde ende vliet dien</l>
+<l n="1105">Daermen quaet beelde aen mach sien</l>
+<l><edition n="589"/>Der sunden ende der mesdaet."</l>
+<l>Hoort wat een lerare ghesproken haet:</l>
+<l>"Ghi selt u alle wel bewaren</l>
+<l>Voor hen die inder werelt varen</l>
+<l n="1110">Onkersteleec in haer leven."</l>
+<l>Een heilige heeft ons sijn lere gegheven</l>
+<l>Ende sprect: "Du selt den bosen vlien /</l>
+<l>Ende u van sinen werken tyen /</l>
+<l>Soe dat ghi sijt van sunden vri /</l>
+<l n="1115">Ende in Gods vruchte altoos si</l>
+<l>Dijn vroude / soe dat dijn ghedanc</l>
+<l>Van Hem nyen sal hebben wanc."</l>
+<l>Die wise Salomon ons bediet:</l>
+<l>"Mensche / en laet di lusten niet</l>
+<l n="1120">Der quader lieden straten /</l>
+<l>Ende dat di uter maten</l>
+<l>Niet haer quade wech en behaghet."</l>
+<l>Hoort wat Ysayas saghet:</l>
+<l>"Du werts metten heilighen man /</l>
+<l n="1125">Mensche / heilich / dinct daer an /</l>
+<l>Ende met hem die gheen scout en haet</l>
+<l>Blijfdi onsculdich alre daet /</l>
+<l>Ende metten weerden wertstu weert."</l>
+<l>Wie oec dien te gheselle gheert /</l>
+<l n="1130">Die es een verkeert goec:</l>
+<l>Die moet hem dan verkeren oec /</l>
+<l>Ende bringt die ziele in groter noot</l>
+<l>Ende in die ewelike doot.</l>
+<l parse="ignore">Die manslacht God ons sus verboet.</l>
+</div>
+<div type="chapter"><head type="chapter"><pb n="590"/> <i>Die seste plaghe ende dat seste ghebot.</i> </head>
+<l n="1135">Die seste plaghe die ghescach /</l>
+<l>Die was datmen inden lande sach</l>
+<l>Een ghemeynlike sterven /</l>
+<l>Daer af moesten verderven</l>
+<l>Herde vele der creaturen;</l>
+<l n="1140">Want dair en mochte nyment gheduren.</l>
+<l>Daer was een jammerlike noot /</l>
+<l>Dat vie viel ghemeinlike doot</l>
+<l>Ende daer die sonne die corren besceen /</l>
+<l>Soe wert die lucht soe onreen /</l>
+<l n="1145">Die vanden vulen ase dranc /</l>
+<l>Ende een also vule bettere stanc /</l>
+<l parse="ignore">Datse veel volx te sterven dwanc.</l>
+<l>Dat volc dat inder plaghen starf /</l>
+<l>Ende vanden stancke daer verdarf</l>
+<l n="1150">Onder den ghemeynen lieden /</l>
+<l>Die selve wil ic u bedieden.</l>
+<l>Dat sijn die in die sunden sneven</l>
+<l>Ende oncuuschelike leven.</l>
+<l>Haer sunden voor Gode stincken /</l>
+<l n="1155">Datter menech om moet sincken</l>
+<l>In der hellen ewicheit.</l>
+<l>Den jonghen lieden es dit gheseyt /</l>
+<l>Den mannen ende den wiven /</l>
+<l>Dien die oncuuscheit driven</l>
+<l n="1160"><pb n="591"/> Ende leven in vees ghelike /</l>
+<l>Ende sterven veelijc des ghelijc</l>
+<l>In haren inde. Wee hen! wee /</l>
+<l>Datsi ye torden wt haer ee!</l>
+<l>Daer om ons die wel suete God</l>
+<l n="1165">Gaf dit seste ghebot.</l>
+<l>Hi sprac: "Minsche / dune salt nicht</l>
+<l>Hebben der oncuuscheit plicht.</l>
+<l>Opt dattu wilt dijn ziele ghenesen /</l>
+<l>Soe saltu emmer ewech wesen;</l>
+<l parse="ignore" n="1170">Want ewicheit hoghe es wtghelesen."</l>
+<l>Mensche / nu hout dit ghebot /</l>
+<l>Dattu die hooch gheloofde God</l>
+<l>Ghegeven heeft te houden.</l>
+<l>Dit seldi effene vouden</l>
+<l n="1175">Onder dijns herten borst.</l>
+<l>En laet di ghene quade lost</l>
+<l>Bringhen totter oncuuscheit /</l>
+<l>Dien God een eewech haten dreyt.</l>
+<l>Die ewicheit die es Gode weert.</l>
+<l n="1180">Welc mensche ganser ewicheit geert /</l>
+<l>Die sal meerken evene</l>
+<l>Drie dinc / die cuuschen levene</l>
+<l>Sijn bevolen: oftu wilt sijn</l>
+<l>Ewich / soe doe ic di in schijn</l>
+<l parse="ignore" n="1185">Dattuse houts met herten sijn.</l>
+<l>Dat eerste es dattu lude no stille</l>
+<l>Di niet en keers te quaden wille.</l>
+<l>Een quaet wille ende niet volbracht /</l>
+<l>Ende doch te quader daet ghedacht /</l>
+<l n="1190"><pb n="592"/> Die wille die hooftsonden plecht.</l>
+<l>Sente Augustinus sprecht /</l>
+<l>Dat der joncfrouwen doen</l>
+<l>Sonder ewich leven niet en vroomt.</l>
+<l>Wie dat ghedachte oncuusch haet</l>
+<l n="1195">Ende die begeerte ter mesdaet /</l>
+<l>Daer es die cuuscheit cleyne gans.</l>
+<l>Welke joncfrouwe cuuschelike den crans</l>
+<l>Der ewicheit reynlijc wille draghen /</l>
+<l>Die sal quade ghedachte verjaghen;</l>
+<l n="1200">Want vanden ghedachte dicke coemt</l>
+<l>Een quade lust die niet en vroemt.</l>
+<l>Na quaden wille men dicke begaet</l>
+<l>Geerne een quade mesdaet.</l>
+<l>Seneca leert ons in sijn spreken:</l>
+<l n="1205">"Een herte in quaden lust ontsteken /</l>
+<l>Een sunde daer sciere af spruut."</l>
+<l>Alsmen den quaden wille ontsluut /</l>
+<l>Ende dan die sunde es volbracht /</l>
+<l>Soe heeft si daer sciere ghewracht</l>
+<l n="1210">Der zielen die doot der ewicheit.</l>
+<l>Isidorus / die heilighe / seyt:</l>
+<l parse="ignore">"En volghe niet dijns ghedachten raet /</l>
+<l>Want dat lijf en mach niet sijn</l>
+<l>Oncuusche / dat ghedachte dijn</l>
+<l n="1215">En si oncuusche worden ere;</l>
+<l>Dat vleesch en mach nemmermere</l>
+<l>Anders dan also wille die moet.</l>
+<l>Reyne ghedachte ende goet</l>
+<l>Maect den mensche van sonden vrij /</l>
+<l n="1220"><pb n="593"/> Ende woent daer mede Gode by;</l>
+<l>Ende daer bi een ghedachte quaet</l>
+<l>Dat es seker der sunden raet /</l>
+<l>Wantet doet quade werke aenschijn.</l>
+<l>Het sprect Sinte Augustijn:</l>
+<l n="1225">"Ic was ghebonden in enen bant /</l>
+<l>Die my was yseren becant /</l>
+<l>Ende was mi doch een vreemt ghebont.</l>
+<l>My was / leyer! dat wel cont</l>
+<l>Dattet was die wille mijn</l>
+<l n="1230">Die vaste was ende yserijn /</l>
+<l parse="ignore">Die mi ten sunden wilde tyen."</l>
+<l>Wie na dit leven Gode wil sien /</l>
+<l>Die sal quade ghedachten vlien.</l>
+<l>Nu merke / mensche / dat ander deel /</l>
+<l n="1235">Datti beneemt dijnre zielen heel</l>
+<l>Ende versundicht di dijn leven.</l>
+<l>Vijf sinne soe sijn die ghegeven</l>
+<l>Van Gode / die ghi selt bewaren /</l>
+<l>Wildi cuuscheliken volvaren.</l>
+<l n="1240">Die vive wil ic di doen bekennen /</l>
+<l>Dat ghise moet te bat versinnen.</l>
+<l>Dierste dat es u ghesichte:</l>
+<l>Dat suldi effen ende ghedichte</l>
+<l>Te cuuschen dinghen altoos houden /</l>
+<l n="1245">Soe sal God selve dijns wouden.</l>
+<l>Sinte Matheus sprect hier van:</l>
+<l>"Het si wijf ofte man /</l>
+<l>Die ghaerne aenscouwen</l>
+<l>Yet om haer lost te vernuwen /</l>
+<l n="1250"><pb n="594"/> Werden oncuusch in dat toghen</l>
+<l>Door die veynsteren haerre oghen /</l>
+<l>Ende dair af coomt der zielen gereyt</l>
+<l>Die ewighe doot." David seyt:</l>
+<l>"Door die veynsteren onser sinne /</l>
+<l n="1255">Tonsen groten onghewinne /</l>
+<l>Es ons comen die ewighe doot."</l>
+<l>Het claghet oec dese noot</l>
+<l>Ysayas / die here vrij:</l>
+<l>"Mijn oghen hebben beroeft mi</l>
+<l n="1260">Mier zielen / ende ghebracht in leyt."</l>
+<l>Die goede Sente Lucas seyt:</l>
+<l>"Wie een wijf siet met begheren /</l>
+<l>Der cuuscheit sijn moet hi ontberen /</l>
+<l>Want hi inder herten sijn</l>
+<l n="1265">Haers sculdich es." Sente Augustijn</l>
+<l>Hi sprect: "Dat en es dijn orber niet /</l>
+<l>Dattu dat emmer aneziet</l>
+<l>Dat di te begeerne niet en beteemt."</l>
+<l>Dat begheren die cuuscheit so beneemt /</l>
+<l n="1270">Ende dat comt door sijn ghesichte.</l>
+<l>Mensche / du en salt niet lichte</l>
+<l>Dijn oghen ten sunden keren /</l>
+<l>Opdat ghi wilt u salicheit meren;</l>
+<l>Daer omme laet die oghen dijn</l>
+<l n="1275">Cuusche met dinen live sijn /</l>
+<l parse="ignore">Soe wert di der ingle scijn</l>
+<l>Die ander sin es dat horen.</l>
+<l>Des cuuscheit men oec mach testoren /</l>
+<l><edition n="595"/>Die gheerne hoort oncuusche woort /</l>
+<l n="1280">Dat es der zielen ene moert /</l>
+<l>Of gherne hoort oncuuschen sanc /</l>
+<l>Of pipen / tanbusen ende snaren clanc /</l>
+<l>Daer wilde herten ghenuechte in rapen /</l>
+<l>Het sijn leke ofte papen /</l>
+<l n="1285">Moneken / nonnen / meechden of wijf;</l>
+<l>Wie dese hanteert / haer cuusch lijf</l>
+<l>Oncuusch vanden horen weert/</l>
+<l>Ende rechter cuuscheit si ontbeert /</l>
+<l>Ende en heeft van Gode nemmeer lof.</l>
+<l n="1290">Daer omme spreect die gode Iop:</l>
+<l>"Die domme minnen snaren spel /</l>
+<l>Ende hebben lief der tambuzen vel /</l>
+<l>Diese bringhen inder sunden stricke /</l>
+<l>Ende in enen oghenblicke</l>
+<l n="1295">Vallen si inder hellen gront.</l>
+<l>Salomon die doet ons cont /</l>
+<l>Dat lachen hier dat wert ghevecht</l>
+<l>In een let dat niet en verblecht /</l>
+<l>Ende wert wenen ende grinen.</l>
+<l n="1300">Die vrouden die hier inden live scinen</l>
+<l>Hinderen vele der vrolicheit /</l>
+<l>Die inden hemel es bereyt.</l>
+<l>Gregorius die sprect dat</l>
+<l>Der werelt vroude es met Gode gehat:</l>
+<l n="1305">Een ewich leet volghet haer mede /</l>
+<l>Niemen en mach na haren trede</l>
+<l>Vroude hier op aerde driven /</l>
+<l>Ende bi Gode daer boven bliven.</l>
+<l>Daer omme / mensche / wiltu wesen</l>
+<l n="1310"><pb n="596"/> Ganselijc cuusch wtverlesen /</l>
+<l>Soe seldi laten die oren dijn</l>
+<l>Ewech met uwen live sijn /</l>
+<l parse="ignore">Soe verwerfdi des hemels scijn.</l>
+<l>Die derde sin die es ghenant</l>
+<l n="1315">De smaec / dat si u becant.</l>
+<l>Mensche / siet hoe ghi dien bewaert /</l>
+<l>Dat ghi cuuscheliken daer in vaert.</l>
+<l>Sinte Mathijs spreect: "Sijt gewes /</l>
+<l>Welc mensche die niet ghemaet en es</l>
+<l n="1320">Aen eten ende oec aen drincken /</l>
+<l>Ende laet sine tonghe sincken</l>
+<l>Dat si besondecht sinen mont</l>
+<l>Met quaden woorden talre stont /</l>
+<l>So wert sijnre cuuscheit crans</l>
+<l n="1325">Verscoert ende nyegherinc gans."</l>
+<l>Weet wel dattie oncuuscheit</l>
+<l>Den duvel den spiegel voor dreyt:</l>
+<l>Daer omme sprect God: "Mensche / nem waer</l>
+<l>Dat dijn lichaem niet en werde gaer</l>
+<l n="1330">Bezwaert in overate /</l>
+<l>Ende dat ghi in overmate</l>
+<l>Niet den dranc en volghet naer."</l>
+<l>Sinte Pauwels hi sprect daer:</l>
+<l>"Ic seght u met gremmen /</l>
+<l n="1335">Met suete bernender stemmen /</l>
+<l>Dat dat Gods viande sijn ende verloren /</l>
+<l>Die haren buuc hebben vercoren</l>
+<l>Ter leckernien talre tijt /</l>
+<l>Ende altoes in overmaten lijt."</l>
+<l n="1340">Daer omme Iheremias</l>
+<l><edition n="597"/>Herde jammerlike claghet das.</l>
+<l>Hi sprect: "Die na hare luste</l>
+<l>Wilen leven / op aerden ruste</l>
+<l>Ende met overmaten haers lijfs pleghen /</l>
+<l n="1345">Die sijn verdoelt ende wt den weghen /</l>
+<l>Die ons te ghenaden wisen.</l>
+<l>Die goeder ghetruwer spisen</l>
+<l>Hebben hier haer lijf ghetoghen /</l>
+<l>Die sijn / leyder! seer bedroghen;</l>
+<l n="1350">Want die menschen / des sijt gewes /</l>
+<l>Ligghen inder sunden mes.</l>
+<l>Wie also sijns mondes pleghet /</l>
+<l>Oncuuscheit es hen aen gheseghet:</l>
+<l>Daer omme / mensche / seldi sijn</l>
+<l n="1355">Cuusch metten monde dijn.</l>
+<l parse="ignore">Soe sal Maria u troesterse sijn.</l>
+<l>Den vierden sin merct over al /</l>
+<l>Die es dat rieken / datmen sal</l>
+<l>Behueden ende bewaren wale /</l>
+<l n="1360">Willen wi bliven sonder quale</l>
+<l>Van oncuusschen broken /</l>
+<l>Van sueticheiden des roken /</l>
+<l>Die suete inden nase wayt</l>
+<l>Ende dat herte al door sayt /</l>
+<l n="1365">Daer af een lost in corter stont</l>
+<l>Inder herten vloeghs wert cont /</l>
+<l>Dat haer de sunden verwecken mach</l>
+<l>Veel lichte / dat die ewighe slach</l>
+<l>Der zielen wert ende een onghemac.</l>
+<l n="1370">Daer omme God met toorne sprac</l>
+<l>Metten prophete Ezechiel:</l>
+<l><edition n="598"/>"Siet die kinder van Israhel</l>
+<l>Hebben dat rijs der mesdaet /</l>
+<l>Die sueticheit hen int herte gaet /</l>
+<l n="1375">Ende hebben die roken in hen ghehouden.</l>
+<l>In toorne wil ict vouden /</l>
+<l>Ende in toorne dat ict doe /</l>
+<l>Mijn oghen wil ic luken toe /</l>
+<l>Soe dat ic gheve te lone</l>
+<l n="1380">Dat ic haerre nemmeer en scone /</l>
+<l>Noch en ghewenne nemmer den moet /</l>
+<l>Die mi over hen ontfermen doet.</l>
+<l>Ende wanner haer jammerlike roep</l>
+<l>Te minen oren comet toe</l>
+<l n="1385">Met haren clagheliken screyen /</l>
+<l>Ende si op mi willen lyen /</l>
+<l>Soe sal ic mijnre oren dore</l>
+<l>Soe vaste sluten / dat daer vore</l>
+<l>Niet ghecomen en mach dat horen."</l>
+<l n="1390">Mensche / ic segghe di te voren /</l>
+<l>Wildi volghen der cuuscheyt /</l>
+<l>Voerwaer si di dat gheseyt /</l>
+<l>Dattu salt laten dat rieken dijn</l>
+<l>Cuusche met dinen live sijn;</l>
+<l parse="ignore" n="1395">Daer met vliedi der duvelen pijn.</l>
+<l>Die vijfte sin die es ghenant</l>
+<l>Dat ghevoelen / si di becant.</l>
+<l>Dat ghi den sin selt wel bewaren.</l>
+<l>Opdat ghi in cuuscheiden wilt volvaren /</l>
+<l n="1400">Soe mijt twerehande daet /</l>
+<l>Die der oncuusheit gheven raet.</l>
+<l>Dair af sprect Lucas / sijt gewes:</l>
+<l><edition n="599"/>"Welc mensche die ghecleet es</l>
+<l>In saecht rikelijc ghewant /</l>
+<l n="1405">Te vorsten hebben hen die ghewant /</l>
+<l>Datmense biden coninghen leyt.</l>
+<l>Hoort mensche / hoe God van hen seyt:</l>
+<l>Hi spreect: "Si selen bi coninghen sijn /</l>
+<l>Maer niet inden rike mijn."</l>
+<l n="1410">Daer omme Sente Bernaert</l>
+<l>Spreect: "Mensche / wee hen der vaert!</l>
+<l>Doen God door di wert gheboren /</l>
+<l>Quaede doeke hadhi vercoren /</l>
+<l>Beyde te wendelen ende te ghewaden /</l>
+<l n="1415">Daer jeghen sidi met pellen gheladen;</l>
+<l>Purpere / scaerlaken / baudekine /</l>
+<l>Daer af sijn hier die cledere dine.</l>
+<l>Cristus leet dor di groot armoede /</l>
+<l>Ende ghi sijt rike van groten goede.</l>
+<l n="1420">Ihesus in eenre crebben lach /</l>
+<l>Daer in Hi gheenre hoverden en plach /</l>
+<l>Ende di es een rikelijc bedde bereyt</l>
+<l>Om ruste ende om ghemackelicheit.</l>
+<l>Cristus quam dienen op eertrike /</l>
+<l n="1425">Ghine doet niet / mensche / dies gelike:</l>
+<l>Ghi wilt datmen diene di /</l>
+<l>U moet in hoverden si /</l>
+<l>Die u in quaetheiden verwect.</l>
+<l>Ihesus / Sydracs sone / sprect:</l>
+<l n="1430">"Dat beghin der uterlicheit</l>
+<l>Heeft den mensche scier verleydt</l>
+<l>Dat hi van Gode keret hem /</l>
+<l><edition n="600"/>Want alre sunden een beghen</l>
+<l>Es uterlicheyt. Nu merct bat /</l>
+<l n="1435">Ysidorus die sprect dat:</l>
+<l>"Ghelijc der hoverden es</l>
+<l>Uterlicheyt / des sijt gewes /</l>
+<l>Ende es coninghinne</l>
+<l>Ende moeder alre beghinne;</l>
+<l n="1440">Want een yghelijc uterlec moet</l>
+<l>Met uterlicheiden sunde doet.</l>
+<l>Daer om / mensche / huedt di /</l>
+<l>Dat uterlicheyt u niet en sy;</l>
+<l>Want die uterlicheit dicke so verhart</l>
+<l n="1445">Dat tghevoelen oncuusch wert.</l>
+<l>Dat ander dat si u ghecundecht /</l>
+<l>Dat oec tghevoelen seer besundecht /</l>
+<l>Dat es wie yet der lost aenruert</l>
+<l>Dat hem ten quaden wille vuert /</l>
+<l n="1450">Dat hi verwervet Gods hat.</l>
+<l>Salomon die sprect dat:</l>
+<l>"Hoe mach een mensche des viers schijn</l>
+<l>Verberghen inden scoete sijn /</l>
+<l>Dat sine cleder ende sine ghewant</l>
+<l n="1455">Niet vanden viere ende werde verbrant?</l>
+<l>Ochte wie mach onghescoeyt</l>
+<l>Ghegaen door een heete gloeyt /</l>
+<l>Soe dat sine voeten sciere</l>
+<l>Niet en verberren vanden viere?"</l>
+<l n="1460">Aldus en machmen / dit verstaet /</l>
+<l>Sonder sunde ende mesdaet</l>
+<l>Niet aenrueren een vreemt wijf.</l>
+<l><edition n="601"/>Wie met begherten aenruert haer lijf /</l>
+<l>Die en mach niet reyne bliven /</l>
+<l n="1465">Hi en moet sunde driven /</l>
+<l>Want hi wert in loste ontfonct.</l>
+<l>Daer af door Ysayas mont</l>
+<l>Onse Here sprect: "Of ghi u handen</l>
+<l>Beyde in sunde ende in scanden</l>
+<l n="1470">Nae helpe na mi sendet /</l>
+<l>Soe wert van u omghewendet</l>
+<l>Mijn claer aenschijn / dat besiet /</l>
+<l>Ende u en wert mier hulpen niet.</l>
+<l>Van uwer beden die ghi gheert</l>
+<l n="1475">Aen mi / dier blijfdi ongheweert /</l>
+<l>Om dat u herte es vervult</l>
+<l>Met sunden ende met quader scult;</l>
+<l>Daer omme laet dat ghevoelen dijn</l>
+<l>Cuusche met dinen live sijn /</l>
+<l parse="ignore" n="1480">Soe ghewinstu des hemels schijn."</l>
+<l>Mensche / hoort ende merket dat /</l>
+<l>Dat derde suldi verstaen bat:</l>
+<l>En laet di dinen sin niet gheven raet /</l>
+<l>Dat ghi volvuert die mesdaet</l>
+<l n="1485">Der oncuuscheit / die di versinct</l>
+<l>Daer henen / daer nemmer dijns en gedinct</l>
+<l>Die suete God / die ware Crist /</l>
+<l>Die wile Hi Here inden hemel ist.</l>
+<l>Dair omme / mensche / di beware /</l>
+<l n="1490">Sijt cuusch met dinen live ende clare /</l>
+<l><edition n="602"/>Oftu wils hebben te Gode recht.</l>
+<l>Hoort wat Sinte Pauwels sprecht:</l>
+<l>"En wetti niet dat ghi sijt gheleedt</l>
+<l>Na Gods lede / die ghesmeet</l>
+<l n="1495">Voor u aenden cruce waert?</l>
+<l>Ghi verkeert hier uwen aert /</l>
+<l>Ende maect dat godlike lijf</l>
+<l>Recht als een ghemeyn wijf."</l>
+<l>Mensche / bewaer die ziele dijn /</l>
+<l n="1500">Ende laet dijn lijf altoos cuusch sijn.</l>
+<l>Hoort wat Gregorius ons bediet:</l>
+<l>"Op aertrike en es arghers niet</l>
+<l>Dan dat een mensch sinen gheest</l>
+<l>Den duvel met sijnre volleest /</l>
+<l n="1505">Hem boven Gode laet verwinnen;</l>
+<l>Niet arghers en machmen vinnen</l>
+<l>Noch quader dinc men niet en vreesch /</l>
+<l>Dan die hier haer crancke vleesch</l>
+<l>Den duvel aldus verwinnen laten /</l>
+<l n="1510">Ende bliven ewelike verwaten /</l>
+<l>Ende vallen hier in sunden sus."</l>
+<l>Daer omme sprect Sinte Ieronimus:</l>
+<l>"Cort es die lust der oncuuscheit /</l>
+<l>Daer af jammer ende leyt</l>
+<l n="1515">Den mensche eweliken blivet.</l>
+<l>Dien die oncuuscheit drivet /</l>
+<l>Ende bout der dieper hellen zee /</l>
+<l>Wee hem / wee! ende emmermeer wee</l>
+<l>Dien die dan dat inde heeft /</l>
+<l n="1520">Ende hier oncuuscheliken heeft gheleeft /</l>
+<l><edition n="603"/>Ende sijn leven hier inde neemt!"</l>
+<l>Daer omme cuuscheit wel beteemt</l>
+<l>Beyde den wiven ende oec den man.</l>
+<l>Daer omme / minsche / dinct hier an /</l>
+<l n="1525">Ende hout vast dit ghebot /</l>
+<l>Dat ons ghebood die goede God /</l>
+<l parse="ignore">Ende en volght niet der oncuuscheit /</l>
+<l>Ende trect an di dat cuusche cleyt /</l>
+<l>Soe es u hemelrike bereyt.</l>
+</div>
+<div type="chapter"><head type="chapter"><i>Die sevende plaghe ende dat sevende ghebot.</i> </head>
+<l n="1530">DIe sevende plaghe jammers plach /</l>
+<l>Want blixem ende menech donreslach</l>
+<l>Uten drueven wolken quam /</l>
+<l>Dat meneghen mensche tleven nam.</l>
+<l>Die wint ende oec die haghel scarp</l>
+<l n="1535">Sloech neder tcoren ende werp</l>
+<l>Opten velde over al.</l>
+<l>Dies honghers noot en was niet smal /</l>
+<l>Daer af die werelt vele verdarf.</l>
+<l>Een deel des volx van hongher starf /</l>
+<l n="1540">Een deel dat ongheweder sloech /</l>
+<l>Soe dat die reghen henen droech</l>
+<l parse="ignore">Met siere vloet liede ghenoech.</l>
+<l>Die haghel / die donre ende die blicke /</l>
+<l>Die dat coren / scone ende dicke /</l>
+<l n="1545">Verdorven opten velde daer /</l>
+<l>Ende dat onghewederte zwaer</l>
+<l>Wil ic den duvelen bedieden;</l>
+<l>Want si vele liede mieden</l>
+<l><edition n="604"/>Dat si hem dienen te lieve.</l>
+<l n="1550">Afbrekeren / persemeers / dieve /</l>
+<l>Alle in des duvels dienste si leven /</l>
+<l>Daer jeghen heeft ons God ghegeven</l>
+<l>Int sevende ghebot die leere sijn:</l>
+<l>Aldus liet Hi ons in scijn.</l>
+<l n="1555">Hi sprac: "Mensche / huede dich</l>
+<l>Voor diefte / ende nyemene af en brich</l>
+<l>Sijn goet met valschen listen.</l>
+<l>Sijt dinen evencristen</l>
+<l>Ghetrouwe / ende niet en steel:</l>
+<l parse="ignore" n="1560">Wie stelt / hi sundicht alte vele /</l>
+<l>Ende hi es des duvels gheheel."</l>
+<l>Mensche ende nu hout dit ghebot /</l>
+<l>Dat u die edele goede God</l>
+<l>Ghegeven heeft te houden /</l>
+<l n="1565">Dit suldi effene vouden</l>
+<l>In dijn herte ende merken dat.</l>
+<l>Wildi miden Gods hat /</l>
+<l>Soe sijt ghetrouwe ende gherecht /</l>
+<l>Daer mede werdi sijn knecht;</l>
+<l n="1570">En steelt nyement sijn have</l>
+<l>Met valscher list / en brect nyemen ave /</l>
+<l>Men veerter omme inder hellen pijn.</l>
+<l>Drierleye dieve sijn</l>
+<l parse="ignore">Die verliesen Gods aenscijn.</l>
+<l n="1575">Dien eersten doe ic di becant /</l>
+<l>Die es een ghemeyn dief ghenant.</l>
+<l>Wie sijn evenkersten sijn goet stelt /</l>
+<l>Ende die diefte dieflijc verhelt /</l>
+<l>Die es een onghetrouwe man /</l>
+<l n="1580"><pb n="605"/> Ende hi es in Gods ban.</l>
+<l>Daer af een wise ghesproken haet:</l>
+<l>"Het es ene grote mesdaet</l>
+<l>Wie den anderen steelt sijn goet /</l>
+<l>Dor dat hi sinen gierighen moet</l>
+<l n="1585">Vervult ende wert een dief /</l>
+<l>Ende hem tier sunden es soe lief."</l>
+<l>Begrijptmen metter dieften snel /</l>
+<l>Soe sal hi .iij. vout alsoe veel</l>
+<l>Goeds voor die diefte gheven /</l>
+<l n="1590">Op dat hi versten wilt sijn leven;</l>
+<l>Alle sinen huusraet</l>
+<l>Gheefti voor sinen mesdaet /</l>
+<l>Ende daertoe sijnre eren crans</l>
+<l>En behout hi nemmer gans;</l>
+<l n="1595">Daer toe moeti hem sijns namen</l>
+<l>Dicwile scandelike scamen.</l>
+<l>Daer omme ons Salomon bediet:</l>
+<l>"Op ertrike en es edelre niet</l>
+<l>Dan een goet name si /</l>
+<l n="1600">Die es van allen wandelen vri;</l>
+<l>Hi es beter veel dan goet."</l>
+<l>Mensche / nem in dinen moet</l>
+<l>Dattu ghetrouweliken leves /</l>
+<l>Ende niet na valschen goede streves /</l>
+<l n="1605">Datti trect inder hellen gront.</l>
+<l>Hoort wat ons Seneca doet cont:</l>
+<l>"Wee hem die hem in sunden strict /</l>
+<l>Want hi voor Gode leghet verstict /</l>
+<l>Ende die mesdaet si can</l>
+<l n="1610"><pb n="606"/> Vaen den onghetrouwen man;</l>
+<l>Want si helpt hem inder noot</l>
+<l>Tot eenre onghetrouwer doot /</l>
+<l>Ende als die voleyndt wert /</l>
+<l>Der hopinghe Gods hi al ontbert;</l>
+<l n="1615">Want inder hellen en es gheen troest.</l>
+<l>Wie dair af wil sijn verloest /</l>
+<l parse="ignore">Met trouwen mijdt hi wel dien roest."</l>
+<l>Mensche / nu hoort den anderen dief /</l>
+<l>Dien es te valschen ghewinne lief /</l>
+<l n="1620">Die steelt ende latet den lieden sien /</l>
+<l>Hi en can hem der dieften niet ontyen;</l>
+<l>Want hi dief / des sijt gewes /</l>
+<l>Ter werelt openbaer es.</l>
+<l>Dat sijn die comenscape pleghen</l>
+<l n="1625">Ende valschelike meten / weghen /</l>
+<l>Ende sus den lieden breken ave</l>
+<l>Beyde haer goet ende haer have /</l>
+<l>Ende hebben dair omme Gods hat.</l>
+<l>Salomon die sprect dat:</l>
+<l n="1630">"Een valsche maghe die es / int ware /</l>
+<l>Voor Gode herde ommare /</l>
+<l>Ende rechte mate ende recht goet</l>
+<l>Dat es sijn wille ende sijn moet."</l>
+<l>Het spreect Sinte Augustijn:</l>
+<l n="1635">"Hets beter datmen drincke wijn</l>
+<l>Ende ete vleesch / dan dat een man</l>
+<l>Sinen evenkersten eten can</l>
+<l>Met sinen valschen daden /</l>
+<l>Tsinen verliese ende tsinen scaden."</l>
+<l n="1640"><pb n="607"/> Daer omme / mensche / si u ghesaecht /</l>
+<l>Dat God metten propheten claecht</l>
+<l>Herde clagheliken desen noot.</l>
+<l>Hi sprect: "Wee dien die voor broot</l>
+<l>Mijn arm volc hier eten!"</l>
+<l n="1645">Dat sijn die ghene die meten</l>
+<l>Haren coep met valschen maten hen /</l>
+<l>Die steelt valschelike ghewen /</l>
+<l>Ende wie een valsch ghewechte haet</l>
+<l>Die es een dief / dat verstaet /</l>
+<l parse="ignore" n="1650">Want hi doet diefs mesdaet.</l>
+<l>Den derden dief / dien merket al /</l>
+<l>Noch argher men dien houden sal</l>
+<l>Dan enen dien dat armoet</l>
+<l>Dwinghet dat hi quaet doet.</l>
+<l n="1655">Ic meyne nu hier den riken /</l>
+<l>Diemen ghestedelike</l>
+<l>Met diensten moet onderdanich sijn /</l>
+<l>Die dienres loen ende haer pijn /</l>
+<l>Ende haren herden aerbeyt /</l>
+<l n="1660">Dien si verdienen met bitterheyt.</l>
+<l>Weet dat si in groten sunden sneven</l>
+<l>Die hem den loen / dien si hen souden gheven /</l>
+<l>Afbreken ende houden vore /</l>
+<l>Daer in ic grote drifte spore.</l>
+<l n="1665">Sente Iacob doet desen toon:</l>
+<l>"Siet / rijc mensche / dijnre dienren loen</l>
+<l>Roept opti / du hebsese bedroghen /</l>
+<l>Haer roep es te berghe ghevloghen</l>
+<l>Voor Gode in sinen maiestaet /</l>
+<l n="1670"><pb n="608"/> Die den roep ontfanghen haet</l>
+<l>In sijn ore der Godheit."</l>
+<l>Du rike mensche / di si gheseyt:</l>
+<l>Die claghe / die de arme doet</l>
+<l>Met vloeken / die en wert di nemmer goet /</l>
+<l n="1675">Op dat ghi den vloec hebt verdient.</l>
+<l>Ihesus / Sydrax sone / sprect: "Vrient /</l>
+<l>Die arme dienren die di vloeken /</l>
+<l>ende bitterlike soeken</l>
+<l>Gods wrake met hare claghe /</l>
+<l n="1680">Vorwaer / mensche / ic di saghe</l>
+<l>Dat haer claghe ghehoort wert vorwaer</l>
+<l>Voor Gode / dien alle dinc es claer /</l>
+<l>Daer dine ziele bloet voor staet."</l>
+<l>Daer omme Iob ghesproken haet:</l>
+<l n="1685">"Een yghelijc dienre die es weert</l>
+<l>Sijns loons; wiene hem tonthoudene geert /</l>
+<l>Hi behoudt eweliken Gods hat."</l>
+<l>Sente Tobias seyde dat /</l>
+<l>Ende leerde aldus sinen sone:</l>
+<l n="1690">"Lieve kint / huedt di van dien doene /</l>
+<l>Dat dijsn dienres loon bi di</l>
+<l>Niet en blive. Daer om volghet mi."</l>
+<l>Ende daer om / mensche / dit ghebot</l>
+<l>Hout / dat die goedertieren God</l>
+<l n="1695">Ons heeft ghegeven openbaere /</l>
+<l>Ende neemt der edelre trouwen ware /</l>
+<l parse="ignore">Soe verwerfdi der inghelen scare.</l>
+</div>
+<div type="chapter"><head type="chapter"><pb n="609"/> <i>Die achtenste plaghe ende dat achtenste ghebot.</i> </head>
+<l>DIe achtenste plaghe hoor een yghelike:</l>
+<l>Dat lant wert vol ghemeenlike</l>
+<l n="1700">Keeveren ende spelthanen mede /</l>
+<l>Soe datment lant telker stede</l>
+<l>Vol van dien ghewormten sach;</l>
+<l>Ia / si bedecten den dach /</l>
+<l>Ende wat den onghewederte over was</l>
+<l n="1705">Bleven / waest vruchte ofte gras /</l>
+<l>Dat verteerden si al vorwaer:</l>
+<l>Die bome worden loves baer /</l>
+<l parse="ignore">Si maecten een jammerlike jaer.</l>
+<l>Die keeveren die der bomen ghewaet</l>
+<l n="1710">Verteerden ende dat saet /</l>
+<l>Beyde ghecrude ende gras /</l>
+<l>Dat den onghewederte was</l>
+<l>Overbleven tselker banen /</l>
+<l>Dat aten op die spelthanen /</l>
+<l n="1715">Die ghelike ic meneghen man /</l>
+<l>Die valschelike siet enen anderen an</l>
+<l>Met hulpen der quader rechteren /</l>
+<l>Die te rechte souden slechteren</l>
+<l>Sijn jeghen ongherechticheit.</l>
+<l n="1720">Nu es dat recht hem / leyder! leyt</l>
+<l>Om haer snode ghewen!</l>
+<l>Dus helpen die vorspraken hen /</l>
+<l>Die valscher ordelen nemen waer /</l>
+<l>Ende overtughen den gherechte daer</l>
+<l n="1725">Met haren valschen droghenen /</l>
+<l><edition n="610"/>Ende met gheviseerden loghenen.</l>
+<l>Daer omme ons die wel suete God</l>
+<l>Gaf dit achtenste ghebot.</l>
+<l parse="ignore">Hi sprac: "Mensche / niet en liech /</l>
+<l parse="ignore" n="1730">Noch en gheeft gheen valsch ghetuuch /</l>
+<l parse="ignore">Hout u aen die gherechticheit /</l>
+<l>Onrecht laet u wesen leyt /</l>
+<l>Soe wert u mijn rike bereyt.</l>
+<l>Nu hoort / mensche / dit ghebot /</l>
+<l n="1735">Dat ons gaf die suete God /</l>
+<l>Te houdene emmermere /</l>
+<l>Dit was sine kere:</l>
+<l>Mensche / wacht dattu niet en liech /</l>
+<l>Noch valsch en tuucht no en bedriech /</l>
+<l n="1740">Die suete God heeft ons hier bi</l>
+<l>Ghegheven goeder leren dri.</l>
+<l>Dat eerste / dat merct over al /</l>
+<l>Niemen valschelike tughen en sal</l>
+<l>Nemmermeer op nyemens leven.</l>
+<l n="1745">Dit ghebot heefti ons ghegheven /</l>
+<l>Ende jeghen des ghebodes cracht</l>
+<l>Es een quade meesterscacht /</l>
+<l>Daer die voorsprake mede voert gaen /</l>
+<l>Ende niet den richte bi en staen.</l>
+<l n="1750">Si spreken daer / si spreken heer /</l>
+<l>Haer redene vlechten si int weer /</l>
+<l>Tot dat si dat ordel venden /</l>
+<l>Daer si mede verwenden</l>
+<l>Een redene die gherecht was.</l>
+<l n="1755">Hoor ordel overtughet das /</l>
+<l><edition n="611"/>Dat menech moet sijn lijf opgheven.</l>
+<l>Dus gheneren si haer leven /</l>
+<l>Ende sincken haer ziele met hare cunst</l>
+<l>In die ewelike brunst.</l>
+<l n="1760">Daer omme haer valsche leven es</l>
+<l>Ghelijc den spelthanen / des zijt gewes /</l>
+<l>Alsoe Ysayas ons doet aenscijn.</l>
+<l>Hi sprect: "Dese lands liede sijn</l>
+<l>Gheworden alse sprinchanen /</l>
+<l n="1765">Die al die werelt verteren wanen;</l>
+<l>Haerre es soe veel overal /</l>
+<l>Dat si sijn sonder ghetal.</l>
+<l>Die goede God es hen oncont;</l>
+<l>Soe wee hem / wie hem sinen mont</l>
+<l n="1770">Laet van Gode wisen!</l>
+<l>Die cunst en es niet te prisen /</l>
+<l>Si werft siere zielen der hellen gloet /</l>
+<l>Sijn valsche spreken dat hi doet</l>
+<l>Ende tuucht op enen gherechten man /</l>
+<l n="1775">Dat hi wert Gods ende eren van /</l>
+<l>Dat maect siere tonghen oert.</l>
+<l>Die tonghe brengt toe menech moert;</l>
+<l>Soe wee hem diense es ghehat!</l>
+<l>Salomon die seghet dat:</l>
+<l n="1780">"Die macht es der tonghen ghegeven /</l>
+<l>Dat si die doot heeft ende dat leven."</l>
+<l>Sus heeftsi totten beyden plecht.</l>
+<l>Wie dat ganseliken sprecht</l>
+<l>Dat hem wel vorwaer es cont /</l>
+<l n="1785">Dats een recht rechtere / si u cont.</l>
+<l>Wie oec valscheliken liecht /</l>
+<l><edition n="612"/>Ende overtuucht ende bedriecht /</l>
+<l>Dien doet dat Ysayas cont:</l>
+<l>Die werden verdoemt inder hellen gront /</l>
+<l n="1790">Ende God keert van hen sijn aensichte.</l>
+<l>Wie voor den gherichte</l>
+<l>Den onsculdighen belieght /</l>
+<l>Ende valschelike op hem tuucht /</l>
+<l>Weet dat seker ende vorwaer /</l>
+<l n="1795">Dat hi hem selven verdoemt daer.</l>
+<l>Daer om / mensche / raedic di /</l>
+<l>Dat in dijn herte altoos si</l>
+<l parse="ignore">Dat recht na dijnre macht /</l>
+<l>Ende keert onrecht na dijnre cracht /</l>
+<l n="1800">Soe es u hemelrike gheacht.</l>
+<l>Mensche / di si dat ander cont /</l>
+<l>Daer met du inder hellen gront</l>
+<l>Dijn arme ziele sinckes /</l>
+<l>Ende eweliken verdrinckes;</l>
+<l n="1805">Dat es / als ghi te claghene gaet</l>
+<l>Ende voor den gherechte staet /</l>
+<l>Op dien dat dan dijn claghe leyt</l>
+<l>Draechdi soe grote nydicheit /</l>
+<l>Dat ghi met alle der herten dijn</l>
+<l n="1810">Wilt nemen der eren sijn /</l>
+<l>Ende pijnt daer nae sere</l>
+<l>Hem te nemene goet ende ere /</l>
+<l>Ende bringht valsch ghetuuch op hen /</l>
+<l>Die alle moeten metti hen</l>
+<l n="1815">Toten ewighen viere /</l>
+<l>Daer u ghenade es diere.</l>
+<l>Het spreect Sinte Augustijn:</l>
+<l><edition n="613"/>"Wie jeghen den evenkersten sijn</l>
+<l>Een valsch ghetuuch vueret /</l>
+<l n="1820">Veel grote sunde hi rueret /</l>
+<l>Hi es die staf die daer verleyt</l>
+<l>Sijn ziele in die ewighe bitterheyt;</l>
+<l>Sijn tonghe ghelijct den scarpen strale /</l>
+<l>Dat den meneghen doet quale /</l>
+<l n="1825">Si es als een gheslepen zweert."</l>
+<l>Wee hem die daer met voort vaert!</l>
+<l>Dat hi eens ere versnidet</l>
+<l>Door dat hine nidet /</l>
+<l>Ende trouwe aen hem brect!</l>
+<l n="1830">Daer omme Sente Iacob sprect:</l>
+<l>"Eens menschen tonghe / des sijt gewes /</l>
+<l>Niet arghere op aertrike en es /</l>
+<l>Ende tsalichste dinc oec sekerlike</l>
+<l>Datmen vindt op aertrike."</l>
+<l n="1835">Met haer loven wi alre meest</l>
+<l>Den Vader / den Sone / den Heiligen Gheest /</l>
+<l>Ende metter tonghen verdoemen wi sere</l>
+<l>Die liede die God / Onse Here /</l>
+<l>Na sinen beelde heeft ghewracht /</l>
+<l n="1840">Alsoet sijn godheit heeft verdacht;</l>
+<l>Want wt den monde vlieten can</l>
+<l>Die salicheyt ende die ewighe ban.</l>
+<l>Wie hem te loghene spannet /</l>
+<l>Hem selven hi verbannet;</l>
+<l n="1845">Want loghene es ene mesdaet</l>
+<l>Die live ende ziele evel beraet;</l>
+<l><edition n="614"/>Want die loghene ere can saluwen /</l>
+<l>Ende des menschen ziel vervaluen.</l>
+<l>Si velt oec enen reynen naem.</l>
+<l n="1850">God entie liede sijn hem graem</l>
+<l>Ende haren valschen listen.</l>
+<l>Yoden / Heydenen ende Cristen</l>
+<l>Draghen alle logheneren hat.</l>
+<l>Salomoen die sprect dat:</l>
+<l n="1855">"Wies mont der loghenen nemt ware /</l>
+<l>Hi doot sijn ziele openbaer."</l>
+<l>Sente Pauwels heet ons mede</l>
+<l>Voortgaen met gherechtichede /</l>
+<l>Ende die loghenen van ons driven /</l>
+<l n="1860">Ende bider waerheit bliven.</l>
+<l>Een yghelijc mensche die doet aenscijn</l>
+<l>Waerheit den evenkersten sijn.</l>
+<l>Die heilighe man Ysidorus /</l>
+<l>In sijnre leren sprect hi sus:</l>
+<l n="1865">"Die logheneren maken dat /</l>
+<l>Dat si verdienen Gods hat /</l>
+<l>Ende ongonst vander werelt openbaer;</l>
+<l>Ende op dat si yet segghen ware /</l>
+<l>Datmen hen niet gheloven en wele.</l>
+<l n="1870">Die ander wairheit wanct te vele /</l>
+<l>Dats een grote mesdaet."</l>
+<l>Daer om David ghesproken haet:</l>
+<l>"God Here / Ghi wilt alle die</l>
+<l>Verliesen die opter werelt hier</l>
+<l n="1875">Lieghen ende drieghen."</l>
+<l>Ouwi! si moeten nyeghen</l>
+<l>Voor des duvels gherechte.</l>
+<l><edition n="615"/>Wie metter waerheit plechte</l>
+<l>En dorven niet vrochten des duvels toren.</l>
+<l n="1880">Wel hem die de werheit heeft vercoren /</l>
+<l parse="ignore">Die es salichliken gheboren.</l>
+<l>Dat derde es dat ghi inden moet</l>
+<l>Niet en neemt der armer goet /</l>
+<l>Noch hen en bedrieghet</l>
+<l n="1885">Met valschen ghetughe / noch en belieghet /</l>
+<l>Noch met lasterliken stucken</l>
+<l>Dat hare en selt ontsucken.</l>
+<l>Wie met liste den armen sijn goet afwint /</l>
+<l>Seker dat es des duvels kint /</l>
+<l n="1890">Omdat sijt ghewinnen</l>
+<l>Met haren valschen sinnen /</l>
+<l>Ende tughen hen ave haer goet.</l>
+<l>Wee den ghenen die dat doet!</l>
+<l>Die niet des rechts en nemen waer /</l>
+<l n="1895">Die rechtere es oec onrecht daer /</l>
+<l>Ende brect daer die gherechticheit.</l>
+<l>Ysayas aldus seyt:</l>
+<l>"Wie na rechte rechtet /</l>
+<l>Nae Gods loon hi vechtet /</l>
+<l n="1900">Ende Gods loon es hem ghereyt."</l>
+<l>Wie oec die gherechticheit</l>
+<l>Vercoopt om enigherande goet /</l>
+<l>Onrecht hi aen Gode doet /</l>
+<l>Ende Gode nemt hi sijn recht alsus.</l>
+<l n="1905">Het sprect Sinte Ieronimus:</l>
+<l>"Het es een recht gherechte daer /</l>
+<l>Daermen die waerheit wel nemt waer /</l>
+<l>Ende die persoene niet."</l>
+<l><edition n="616"/>Daer om ons God selve bediet:</l>
+<l n="1910">"Ghi en sult niet rechten</l>
+<l>Na den aenghesichten /</l>
+<l>Ghi sult recht gherechte gheven /</l>
+<l>Ende aen den rechte niet sneven."</l>
+<l>Die prophete Ysayas seyt:</l>
+<l n="1915">"Siet aen die gherechticheit /</l>
+<l>Besiet die sake ende niet den man.</l>
+<l>Wee hem die wet houden can /</l>
+<l> niet te rechte en rechtet /</l>
+<l>Ende den rechte veronrechtet /</l>
+<l n="1920">Ende dat recht hout voor niet."</l>
+<l>Seneca ons bediet:</l>
+<l>"Ghi selt in allen enden</l>
+<l>Armen / crancken ende ellenden /</l>
+<l>Weduwen ende wesen</l>
+<l n="1925">Hulpen in haerre vresen;</l>
+<l>Ende een yghelijc mensche sal</l>
+<l>Sinen brueder bistaen over al /</l>
+<l>Dats sinen evencristen.</l>
+<l>Hine sal met valschen listen</l>
+<l n="1930">Niet arch op hem dincken."</l>
+<l>Mensche / du salt sincken</l>
+<l>Dit effene inder herten dijn /</l>
+<l>Ende salt altoes gherecht sijn /</l>
+<l parse="ignore">Soe wert di des hemels scijn.</l>
+</div>
+<div type="chapter"><head type="chapter">   <pb n="617"/> <i>Die neghende plaghe ende dat neghende ghebot.</i> </head>
+<l n="1935">DIe neghende plaghe was bereyt</l>
+<l>Tot eenre groter donckerheit:</l>
+<l>Het wert een donckernesse /</l>
+<l>Datmen wel ghewesse</l>
+<l>Dat doncker greep metter hant /</l>
+<l n="1940">Daer mede wert vervult dat lant.</l>
+<l>Doe leden die Egipteren</l>
+<l>Groten jammer ende zweren.</l>
+<l>Die plaghe haer alsoe scicte /</l>
+<l>Dat menech daer versticte /</l>
+<l n="1945">Dat hi bleef inder donckerheit doot /</l>
+<l>Alsoe die plaghe aen hem gheboot.</l>
+<l parse="ignore">Sus leet dat lant ghemeyne noot.</l>
+<l>Die donckernesse die dat lant</l>
+<l>Bedecte / daer bi si u becant</l>
+<l n="1950">Alle ghieregheren /</l>
+<l>Die hem van Gode keren</l>
+<l>Ende vander ewigher salicheit;</l>
+<l>Want die duvel / diese leyt /</l>
+<l>Maecse alre sennen blent /</l>
+<l n="1955">Haer oghen hi hen soe verbent</l>
+<l>Datsi niet en kinnen Gode / sijts gewes /</l>
+<l>Die een licht der ewicheit es.</l>
+<l>Roef / persem ende vorsat /</l>
+<l>Ende onrecht ghewonnen scat</l>
+<l n="1960">Meneghen mensche verblendet /</l>
+<l>Die hem toten duvel wendet.</l>
+<l>Daer om ons die goede God</l>
+<l><edition n="618"/>Gaf dit neghende ghebot.</l>
+<l>Met sinen monde sprac Onse Here:</l>
+<l n="1965">"Weerde mensche / niene beghere</l>
+<l>Dijns evenkerstens goet /</l>
+<l>Daer voor seldi sijn behoet /</l>
+<l>Ende begheert sijns tonrecht nicht</l>
+<l>Of ghi tot mi wilt hebben plicht</l>
+<l parse="ignore" n="1970">Daer boven int ewighe licht."</l>
+<l>Mensche / onthout dese woort /</l>
+<l>Die ghi van Gode hebt ghehoort;</l>
+<l>Sijt sijnre leren altoos by /</l>
+<l>Soe blijfdi vanden duvel vri /</l>
+<l n="1975">Die u uwen sin verblendet /</l>
+<l>Ende oec van Gode wendet /</l>
+<l>Ende mijdt dat ongherechte goet</l>
+<l>Die u van Gode sceyden doet:</l>
+<l>Dit ghebot hout altoos in u.</l>
+<l n="1980">Drie leren wil ic u segghen nu.</l>
+<l>Die eerste verstaet ende behout:</l>
+<l>Ghine selt met gheenre ghewout</l>
+<l>Niement nemen goet noch have.</l>
+<l>Vorcoeps / persemens doet u ave /</l>
+<l n="1985">Soe moechdi die donckerheit</l>
+<l>Miden / die meneghen mensche verleydt</l>
+<l>Ten sunden ende in Gods hat.</l>
+<l>Gregorius die sprect dat:</l>
+<l>"Wie inden donckeren slupet /</l>
+<l n="1990">Ende die ghierecheit na crupet /</l>
+<l>Die en macht tlicht der gherechticheit</l>
+<l>Niet sien / di si vorwaer gheseyt</l>
+<l><edition n="619"/>Dat hi nemmer en comt voor Gode."</l>
+<l>Paulus sprect / die Gods bode:</l>
+<l n="1995">"Wie sellen die werke der donckerheit</l>
+<l>Van ons werpen / ende dat cleyt</l>
+<l>Des lichts sellen wi doen aen /</l>
+<l>Dat wi met eren moghen gaen</l>
+<l>Ten lesten daghe / daer wi selen gheven</l>
+<l n="2000">Antwerde / hoe wi onse leven</l>
+<l>Hebben hier volendet."</l>
+<l>Wee hen die hier verblendet</l>
+<l>Ende met perseme hebben omme ghegaen!</l>
+<l>Wee hen als si voor Gode staen!</l>
+<l n="2005">Wee hen die stichten roef ende brant!</l>
+<l>Hoe werstu van Gode ghescant /</l>
+<l>Alsmen met toorne over di recht.</l>
+<l>Nu hoort wat Ysayas sprecht:</l>
+<l>"Wee di / arme mensche / wee!</l>
+<l n="2010">Wee ghesciet di emmermee /</l>
+<l>Du die met roven di gheneers /</l>
+<l>Of inden wille voort veers;</l>
+<l>Du werts daer vander zielen dijn</l>
+<l>Beroeft / die eweliken moet sijn</l>
+<l n="2015">Inder dieper hellen gloet /</l>
+<l>Daer si eweliken bernen moet /</l>
+<l>Daer haer wert wee so lanc so bat.</l>
+<l>Die goede Iob die seyt dat:</l>
+<l>"Vervult wert na haer begheren</l>
+<l n="2020">Die helle met ghierighe ende met persemeren</l>
+<l>Ende met roveren / die met haren daet</l>
+<l>Vertoernen Gode / die hen haet</l>
+<l><edition n="620"/>In haren vijf sinnen ghegeven</l>
+<l>Ghenade veel ende oec dat leven."</l>
+<l n="2025">Daer jeghen bedrueven si Hem den moet</l>
+<l>Alsi den armen nemen haer goet /</l>
+<l>Ende met crachten vresen</l>
+<l>Wedewen ende wesen:</l>
+<l>Die si bescudden souden</l>
+<l n="2030">Ende te rechte houden /</l>
+<l>Die nemen si thaer daer men toesiet.</l>
+<l>Salomon ons daer af bediet:</l>
+<l>"Die tranen die si wtghieten /</l>
+<l>Die hen over die wanghen vlieten /</l>
+<l n="2035">Den wedewen ende weesen die men den moet</l>
+<l>Bezwaert soe / wee hem wie dat doet!</l>
+<l>Want God hoort haer claghe</l>
+<l>Ende wreket ten jonxten daghe /</l>
+<l>Daer hem nyement en steet by."</l>
+<l n="2040">Daer om / rovere / segghic di /</l>
+<l>Dat dine ziele des duvels ist.</l>
+<l>Gheeft weder in corten vrist /</l>
+<l parse="ignore">Oftu bescouwen willest Crist.</l>
+<l>Mensche / en nem in dinen moet</l>
+<l n="2045">Nie gheen valsch ghewonnen goet /</l>
+<l>Alsoe woeker ende voorsat;</l>
+<l>Die veel lastelike scat</l>
+<l>Trect meneghe ziel verloren /</l>
+<l>Ende wert ter hellen vercoren /</l>
+<l n="2050">Daer si emmermeer in blijft</l>
+<l>Ende ewelijc jammer drijft.</l>
+<l>Moyses in sijnre leren seyt:</l>
+<l><edition n="621"/>"Die scat es goet / inder waerheyt /</l>
+<l>Diemen met rechte ghecreghen haet."</l>
+<l n="2055">Die wise man ghesproken haet:</l>
+<l>"Van goeden scat een goet man</l>
+<l>Alle salicheit ghecrighen can /</l>
+<l>Ende wie dat heeft onreyne have /</l>
+<l>Daer comt selden goet ave /</l>
+<l n="2060">Ende doet selden goeden fijn."</l>
+<l>Het sprect Sinte Augustijn:</l>
+<l>""Alse die woekenere leeght /</l>
+<l>Ende hem die doot aneseecht /</l>
+<l>Soe wert al tsine / vorwaer wet dat /</l>
+<l n="2065">In drien ghedeilt optie stat:</l>
+<l>Den scat die vorste aen hem tuct /</l>
+<l>Den lichaem die aerde te hare tsuct /</l>
+<l>De worme hen dair ane gheneren /</l>
+<l>Die dat vleesch al verteren;</l>
+<l n="2070">Die duvel hem oec onderwindt</l>
+<l>Der armer zielen / die hi bint</l>
+<l>Inder dieper hellen gront /</l>
+<l>Daer wert haer die woeker cont;</l>
+<l>Dien scat dien oec die here aenveert /</l>
+<l n="2075">Hemelrike hire omme ontbeert."</l>
+<l>Sinte Daniel die maect ons vroet:</l>
+<l>"Wel sijnre zielen / die sijn goet</l>
+<l>Niet sundeliken persemen en doet!"</l>
+<l>Mensche / nu merct dat derde goet /</l>
+<l parse="ignore" n="2080">Dat di ter hellen varen doet /</l>
+<l>Ende in die ewighe pine /</l>
+<l>Daer inne staet te sine:</l>
+<l>Dat es dese grote ghiericheit</l>
+<l><edition n="622"/>Die / leyder! zielen veel verleydt.</l>
+<l n="2085">Wee hen die daer na staen /</l>
+<l>Ende ghierichliken gaen</l>
+<l>Nae ongherechten ghewinne /</l>
+<l>Ende daer op haer sinne</l>
+<l>Keren ende setten /</l>
+<l n="2090">En haerre zielen letten.</l>
+<l>Die giericheit maect meneghen dief /</l>
+<l>Daer omme sijn si den duvel lief;</l>
+<l>Want gheenreleye mesdaet</l>
+<l>Die helle ghevult en haet /</l>
+<l n="2095">Dan die arghe ghiericheyt /</l>
+<l>Daer meest die werelt met ommegeit.</l>
+<l>Ten goede vindt si meneghen vont /</l>
+<l>Haer es soe wijt haer ghierighe slont /</l>
+<l>Datse nyement vervullen en mach;</l>
+<l n="2100">Si quelt nacht ende dach /</l>
+<l>Ende beyde spade ende vroe /</l>
+<l>Sus en ghewent si nemmer roe.</l>
+<l>In steeder qualen leeft si sus.</l>
+<l>Het sprect Sinte Ieronimus:</l>
+<l n="2105">"Die ghiericheyt wel cleyne pleecht</l>
+<l>Der maten / onmate an haer leeght;</l>
+<l>Want sijt gheerne al verslint</l>
+<l>Al datsi yegherinc bi haer vindt.</l>
+<l>Nochtan en es nyeghering na vol haer darm /</l>
+<l n="2110">Si blijft altoos even arm."</l>
+<l>Daer omme haer Sente Ian</l>
+<l>Der hellen wel gheliken can.</l>
+<l>Hi sprect: "De helle en wert nemmeer vol /</l>
+<l>Wat mense vult si blijft doch hol."</l>
+<l n="2115"><pb n="623"/> Den ghierighen ghelike ic daer by /</l>
+<l>Want si nemmermeer vol en si.</l>
+<l>Daer omme Sente Pauwels seyt:</l>
+<l>"Niet quader en es dan ghierecheit;</l>
+<l>Want een yghelike ghiereghere /</l>
+<l n="2120">Die met valscher ghierigher ghere</l>
+<l>Nae goede steet / des sijt gewes</l>
+<l>Dat hi sduvels eyghen es /</l>
+<l>Ende heeft verloren sekerlike</l>
+<l>Sijn deel van Godes hemelrike /</l>
+<l n="2125">Want hem God dreecht groten hat."</l>
+<l>Sente Ian hi sprect noch bat:</l>
+<l>"Huedt u voor alle ghiericheyt /</l>
+<l>Dier groten hat mijn herte dreyt."</l>
+<l>Niement en sal in dit leven</l>
+<l n="2130">Te veel der ghiericheyden pleghen.</l>
+<l>Salomon / die wise / seghet:</l>
+<l>"Die ghiereghe mensche die es ontweghet /</l>
+<l>Die den scat tot hem tyet /</l>
+<l>Ende door Gode en gheeft niet."</l>
+<l n="2135">Mensche / en hebt in dinen moet</l>
+<l>Te begheren gheen onrecht goet /</l>
+<l parse="ignore">Dat di van Gode sceyden doet.</l>
+</div>
+<div type="chapter"><head type="chapter"><i>Die tiende plaghe ende dat tiende ghebot.</i> </head>
+<l>DIe tiende plaghe die was zwaer /</l>
+<l>Die daer was al openbaer;</l>
+<l n="2140">Want dat volc al ghemeyne /</l>
+<l>Beyde groot ende cleyne /</l>
+<l>Dat viel vander plaghen doot.</l>
+<l><edition n="624"/>Sus leet dat lant ghemene noot.</l>
+<l>Al dat mochte gaen ende staen /</l>
+<l n="2145">Moeste meestedeel die doot ontfaen.</l>
+<l>Beyde die liede ende oec dat vee</l>
+<l>Die storven daer so lanc soe mee;</l>
+<l>Die voghele ende wat daer quam</l>
+<l>Al meeste het die doot daer nam /</l>
+<l parse="ignore" n="2150">Die plaghe was den Egypteren gram.</l>
+<l>Dat volc / dat daer metten vee verstarf /</l>
+<l>Alsoe die plaghe aen hem verwarf /</l>
+<l>Bediedic bi hem die veelijc leven /</l>
+<l>Ende menschelike ordene es ghegeven.</l>
+<l n="2155">Een vee leeft als een vee /</l>
+<l>Ende also leven alle die /</l>
+<l>Die haren huwelike en houden niet /</l>
+<l>Wee dien mensche die dies pliet /</l>
+<l>Dat hi verkiest sijn beddeghenoot!</l>
+<l n="2160">Die blijft alre ghenaden bloet.</l>
+<l>Daer om ons die goede God</l>
+<l>Gaf dit tiende ghebot.</l>
+<l>Hi sprac: "Mensche / du salt di weren /</l>
+<l>Dattu niet en salt begheren</l>
+<l n="2165">Ne gheens anders mannes wijf.</l>
+<l>Alsoe en sal de vrouwen lijf</l>
+<l>Niet eens anders mans</l>
+<l>Begheren / oft si des bans</l>
+<l>Vander hellen wil ledich sijn.</l>
+<l n="2170">Wie dat hout tghebot mijn /</l>
+<l parse="ignore">Die verwerft des hemels scijn."</l>
+<l>Mensche / onthoudt dit ghebot /</l>
+<l>Dat ons die almachtighe God</l>
+<l><edition n="625"/>Ghegeven heeft te houden.</l>
+<l n="2175">Dit seldi alsoe vouden /</l>
+<l>Dat ghi behoudt u ordeleec leven /</l>
+<l>Dat u te houdene es ghegeven;</l>
+<l>Ende en leeft niet als dat vee /</l>
+<l>Dat van wetten en weet min no mee.</l>
+<l n="2180">Wildi wettelijc ordene hebben</l>
+<l>Ganselike ende niet verlegghen /</l>
+<l>Soe suldi in u houden zere</l>
+<l>Drierehande lere /</l>
+<l>Die in desen ghebode besloten sijn.</l>
+<l n="2185">Dat eerste doe ic in scijn:</l>
+<l>Het si die man of dat wijf /</l>
+<l>Die wetteleec willen leyden haer lijf</l>
+<l>Gans goet / ghemene /</l>
+<l>Soe dat Gode si bequeme /</l>
+<l n="2190">Die sal een goet herte draghen.</l>
+<l>Den man hem sal wel behaghen</l>
+<l>Sijn wijf / hoe ghedaen si si;</l>
+<l>Den wiven si oec dese lere bi /</l>
+<l>Dat haer niet en ghevalle dat</l>
+<l n="2195">Dat haer yet een ander bat</l>
+<l>Niet en bevalle in haren moet;</l>
+<l>Want het zere besunden doet.</l>
+<l>Wie scoender kiest dan sijn ghegaet /</l>
+<l>Wie selke ghedachte in moede haet /</l>
+<l n="2200">Dat hi dor behaghen liefde dreyt</l>
+<l>Ende niet door gherechticheyt /</l>
+<l>Die liefde diemen also begeert /</l>
+<l>Voor Gode grote sunde weert:</l>
+<l>Der werelt scoende es al niet.</l>
+<l n="2205"><pb n="626"/> Alsoe ons Gregorius bediet /</l>
+<l>Hi sprect: "Wie kiest des hemels scoende /</l>
+<l>Hi en blijft niet die ongheloende /</l>
+<l>Want hem die dore die hoghe troon</l>
+<l>Wert opghedaen / daer God sinen loen</l>
+<l n="2210">Gheeft allen dien diere na werven."</l>
+<l>Wee dien alsoe sterven</l>
+<l>Dat si der ontrouwen gheren /</l>
+<l>Ende Gods loon daer omme ontberen!</l>
+<l>Die de werelt mint hi es dom /</l>
+<l n="2215">Want si es verganckelijc ende crom /</l>
+<l>Daer omme mensche en achter niet.</l>
+<l>Hoort wat een prophete gyet:</l>
+<l>"Armelijc werden wi hier gheboren /</l>
+<l>Tot corten levene sijn wi ghecoren /</l>
+<l n="2220">Ende werden opbracht met menegher noot /</l>
+<l>Ende gaen op als een rose roet /</l>
+<l>Ende sciere sijn wi verbliket</l>
+<l>Als onse leven ontwiket;</l>
+<l>Wij sijn als een scijn die daer vergeet."</l>
+<l n="2225">Nu siet hoet om onse leven steet /</l>
+<l>Ende weet ende sijts gewes</l>
+<l>Dat hier al verganclijc es.</l>
+<l>Daer omme Sinte Lucas seyt:</l>
+<l>"God die es niet ghemeyt</l>
+<l n="2230">Der werelt scoenheit / dat hem yet</l>
+<l>Lustet / want hi en gheerter niet.</l>
+<l>Sonder hem wel ghelusten can</l>
+<l>Der zielen scoenheit / daer merct an /</l>
+<l>Ende hebt lief die scoene doecht /</l>
+<l n="2235">Daer af wert dijn ziele verhoocht;</l>
+<l><edition n="627"/>Dier ghelust Gode ende heefse weert.</l>
+<l>Wie wereltlike scoenheit gheert</l>
+<l>Ende dunct inder herten sijn:</l>
+<l>"Waer die scone mensche mijn /</l>
+<l n="2240">Ic en gheerde gheen dinc el /"</l>
+<l>Niement also dincken en sel /</l>
+<l>Het si wijf / het si man /</l>
+<l>Wil hi vlien des hemels ban.</l>
+<l parse="ignore">Selc begheren scuwe dan.</l>
+<l n="2245">Nu merct / mensche / hoe dat si</l>
+<l>Dese andere lere / ende onthoudet di /</l>
+<l>Ende vest in u herte evene</l>
+<l>Hoe ghi met uwen levene</l>
+<l>Uwen huwelike soe bewaert /</l>
+<l n="2250">Dat ghi besceydelike daer in vaert:</l>
+<l>Dat wil ic u segghen sciere.</l>
+<l>Men vinter vele op eertrike hier</l>
+<l>Die wel houden haer wet /</l>
+<l>Maer die ziele wert so besmet!</l>
+<l n="2255">Wee haer / datsi ye wert gheboren!</l>
+<l>Want hare wert / leyder! veel verloren.</l>
+<l>Dat sijn mannen ende wijf /</l>
+<l>Die chyeren behaghelic haer lijf</l>
+<l>Met haren dieren ghewaeden /</l>
+<l n="2260">Daer si veel sunden met laden /</l>
+<l>Ende werden van Gode ghevreest.</l>
+<l>Dit doen die vrouwen alre meest;</l>
+<l>Al en gheren si niet andere mannen /</l>
+<l>Si sijn in hoverde ghespannen</l>
+<l n="2265">Soe suverlike / dat menich man</l>
+<l>Haers moet begheren / als hise an</l>
+<l><edition n="628"/>Siet met sinen oghen.</l>
+<l>Dore der hoverden toghen</l>
+<l>Wert menech verloren / dat si u cont.</l>
+<l n="2270">Het sprect Sinte Ian Guldemont:</l>
+<l>"Het si manne ofte wijf</l>
+<l>Die alsoe chyeren haer lijf /</l>
+<l>Dat si eens menschen oghen</l>
+<l>Aen hen tyen om haer toghen /</l>
+<l n="2275">Daer af soe wert hen bereet</l>
+<l>Een rouwe die nemmermeer en vergeet."</l>
+<l>Seneca seyt in sijn ghedichte:</l>
+<l>"Des hoverdichs wijfs aensichte</l>
+<l>Als een vierich wendt het es;</l>
+<l n="2280">Want haer openbaerheit / sijts gewes /</l>
+<l>Een herte sciere ontsundet /</l>
+<l>Dat het met ghedachte sundet."</l>
+<l>Ouwy! der chierheyt diemen dreyt</l>
+<l>Aldus in rechter hoverdicheit /</l>
+<l n="2285">Die chyerheit si zaluwet vorwaer</l>
+<l>Den mensche ene ziele claer /</l>
+<l>Ende maecse ongheneme</l>
+<l>Gode ende onbequeme.</l>
+<l>Daer om God dit onghemac</l>
+<l n="2290">Claghet / als een prophete sprac:</l>
+<l>"Die waer in alre chierheyt volcomen /</l>
+<l>Die sine chierheit te sinen vromen</l>
+<l>Aen Gode van hemelrijc hadde gheleyt."</l>
+<l>Die goede Ieremias seyt:</l>
+<l n="2295">"Ouwy! dochter van Syon /</l>
+<l>Hoe siec maect di der werelt doen!"</l>
+<l><edition n="629"/>Mensche / hi meynt die ziele dijn /</l>
+<l>Die Gods dochter soude sijn /</l>
+<l>Die der werelt chierheyt heeft</l>
+<l n="2300">Siec ghemaect / die wile men leeft.</l>
+<l>Die werelt maect meneghe ziele zwac /</l>
+<l>Daer omme die coninc David sprac:</l>
+<l>"Die inden sunden sijn verherdt /</l>
+<l>Haer ziele die wert also zwert</l>
+<l n="2305">Als colen die ghebluschet sijn.</l>
+<l>Dier werelt scoenheit doet haer pijn /</l>
+<l>Soe datsi des hemels straten /</l>
+<l>Van des lichamen onmaten /</l>
+<l>Ende Gode sijn herde onbekent /</l>
+<l n="2310">Want si van hem sijn ghewent."</l>
+<l>Daer omme die arme ziele claghet.</l>
+<l>Nu hoort hier hoe si saghet:</l>
+<l>"Ic ben / leyder! jammerlike</l>
+<l>Veroordeelt des weechs van hemelrike /</l>
+<l n="2315">God heeft sijn hooft van mi ghekeert /</l>
+<l>Der werelt chierheit heeft mi onteert /</l>
+<l>Ic ben met Gode ommare."</l>
+<l>Daer omme / mensche / neemt ware</l>
+<l>Dattu een wettech leven haves /</l>
+<l n="2320">Dattu dijn ziele niet en graves</l>
+<l>Inder dieper hellen gloet.</l>
+<l>Neemt dat vaste in dinen moet.</l>
+<l parse="ignore">Openbaerheit van di doet.</l>
+<l>Dat derde / mensche / suldi onthouden /</l>
+<l n="2325">Ende in dijn herte vouden /</l>
+<l>Dattu nien en leves als dat vee /</l>
+<l>Dat van wette en weet min no mee.</l>
+<l><edition n="630"/>Wie veelijc leven op aertrike heeft /</l>
+<l>In groter sunden hi leeft /</l>
+<l n="2330">Alse die haren huwelijc breken /</l>
+<l>Haer ziele datsi steken</l>
+<l>Vanden ewighen lichte.</l>
+<l>Ghi sijt van leden ende van aensichte</l>
+<l>Gode ghelijc ghebeeldet /</l>
+<l n="2335">Ende zijt zo zere verweeldet</l>
+<l>Van uwen menscheliken sinnen /</l>
+<l>Dat ghijs niet en wilt bekinnen /</l>
+<l>Ende hout u wet gelijc den vee.</l>
+<l>Wee sal u werden emmermee /</l>
+<l n="2340">Dat ghi om u veelijc leven</l>
+<l>Uwe trouwe hebt overghegeven /</l>
+<l>Dat ghi ghegeven hebt openbaer.</l>
+<l>Wee hen die des nemen waer /</l>
+<l>Datsi verkiesen haer beddeghenoot!</l>
+<l n="2345">Die sunde es / leyder! alte groot;</l>
+<l>Want wie dat sine ordene brect /</l>
+<l>In veelijc leven hi hem stect:</l>
+<l>Dat wee in sinen meste lijt /</l>
+<l>Ende gaet stinckende talre tijt.</l>
+<l n="2350">In des ghelike die mensch leghet /</l>
+<l>Die wile hi der sunden pleghet.</l>
+<l>Dat claghede Ioel Kerste /</l>
+<l>Hi sprac: "In sinen meste</l>
+<l>Wert die mensche vervulet dare."</l>
+<l n="2355">Des selven nam Nicheas ware /</l>
+<l>Hi sprac: "Dor sine onwetenheyt</l>
+<l><edition n="631"/>Es dien mensche een stanc bereyt /</l>
+<l>Daer hi in vervulen moet /</l>
+<l>Dat es inder hellen gloet."</l>
+<l n="2360">Wetbrekere / dese redene terdt di aen /</l>
+<l>Want ghi sijt als vee ghedaen /</l>
+<l>Du en leves als mensche niet.</l>
+<l>Seneca sprect: "Mensche / siet /</l>
+<l>Wee u / arme lieden / die</l>
+<l n="2365">Ghelijct sijt ghelijc den vee!</l>
+<l>Want ghi niet en hebt / dat verstaet /</l>
+<l>Menschelike vernonft na uwer mesdaet."</l>
+<l>Noch sprect Seneca: "Wetbrekere /</l>
+<l>Hoerechte / die onmere</l>
+<l n="2370">Beste Gode ende alder werelt claer!</l>
+<l>Want du der sunden nemes waer</l>
+<l>Alstu dijn reyne bedde versmaetst /</l>
+<l>Ende met enen anderen ommegaetst.</l>
+<l>Die sunde Gode jeghen es /</l>
+<l n="2375">Ende stinct voor Hem als onrein mes /</l>
+<l>Ende du verdincs dijn ziele daer.</l>
+<l>Salomon die sprect vorwaer:</l>
+<l>"Wie dor sine lost te volbringhen</l>
+<l>Sinen vleesche wille ghehinghen /</l>
+<l n="2380">Dat hi sijn wettech bedde scoert /</l>
+<l>Gods vrienscap dat hi verboort /</l>
+<l>Ende sijn ziele hi verlieset /</l>
+<l>Ende die helle hier mede kieset /</l>
+<l>Ende die lachter dien hi drivet</l>
+<l n="2385"><pb n="632"/> Eweliken bi hem blivet;</l>
+<l>Want sijn sunden voeghen dat /</l>
+<l>Dat hi heeft Gods enter werelt hat.</l>
+<l>Als God ten ordele sitten sal /</l>
+<l>Soe es hi verloren al;</l>
+<l n="2390">Want Hi en hoort niet sine bede</l>
+<l>Doer sine mesdaet / die hi dede /</l>
+<l>Ende hem des niet en vermeet.</l>
+<l>Gheen gave hi oec en ontseet</l>
+<l>Dat hi emmer werde verloest /</l>
+<l n="2395">Hi en moet inder hellen roest /</l>
+<l>Ende totten ewighen viere /</l>
+<l>Daer hem ghenade es diere.</l>
+<l>Wee hem dat hi ye Gode verwrochte!</l>
+<l>Die dach es die dach van vrochte /</l>
+<l n="2400">Want Gods toren meret vaste /</l>
+<l>Soe dat des hemels gaste</l>
+<l>Daer af beven moeten;</l>
+<l>Want met hande ende met voeten /</l>
+<l>Ende aen sijnre herten</l>
+<l n="2405">Toent Hi sine smerten /</l>
+<l>Die Hi door onsen wille leet.</l>
+<l>Daer af spreect Lucas ghereet:</l>
+<l>"Die dach es des torens dach /</l>
+<l>Die nyemen vorgaen en mach;</l>
+<l n="2410">Het es die dach der anxtelicheit /</l>
+<l>Dan wert die sunde voort gheleyt /</l>
+<l>Die dach die ewighe vroude heeft</l>
+<l>Die hier wel hebben gheleeft;</l>
+<l>Die weghe werden inghe /</l>
+<l n="2415">Ende gaen met ghedinghe</l>
+<l><edition n="633"/>Die daer ter hellen ghewijst sijn.</l>
+<l>Het sprect Sinte Augustijn:</l>
+<l>"Ouwy! hoe recht inghe /</l>
+<l>Ende hoe recht ghedringhe</l>
+<l n="2420">Werden der sundaren weghen /</l>
+<l>Die hier der sunden pleghen!"</l>
+<l>Die werelt steet dan in eenre gloet /</l>
+<l>Haer quaetheit si oec beteren moet /</l>
+<l>In vieres hitten si haer baert.</l>
+<l n="2425">Wee di / sunder / dijnre vaert!</l>
+<l>Daer es een herde zwaer wesen;</l>
+<l>Want du en moghes nemmer ghenesen.</l>
+<l>Achter di soe blijft daer</l>
+<l>Der werelt lust / dier du waer</l>
+<l n="2430">Naems alle dine daghe.</l>
+<l>Voer di en siestu niet dan claghe /</l>
+<l>Iammer ende herten leydt /</l>
+<l>In dat vier der ewicheit.</l>
+<l>Wee di / alse dat grimmighe woort</l>
+<l n="2435">Van Gode in toorne wert ghehoort!</l>
+<l>"Gaet wech / ghi vermaledide /</l>
+<l>In die helle wide /</l>
+<l parse="ignore">Dune volghes mi niet betide."</l>
+<l>Nu hebstu hier vernomen</l>
+<l n="2440">Wat di van overspele mach comen.</l>
+<l>Daer om houdt te rechte dijn wet /</l>
+<l>Daer verdrijfstu den duvel met /</l>
+<l>Die di ten sunden raedt</l>
+<l>Ende ter scandeliker daet /</l>
+<l n="2445">Ende scuwet der werelt kinscheyt /</l>
+<l>Ende merct haer valscheyt;</l>
+<l><edition n="634"/>Si brenght ons toe een ewige noot</l>
+<l>Ende een ewige bitter doot /</l>
+<l>Ende der bittere hellen bant.</l>
+<l n="2450">Wel hem die van haer es ghewant!</l>
+<l>Die mach miden der hellen pijn.</l>
+<l>Oec wederstaet dat vleesche dijn /</l>
+<l>Mensche / met alle dijnre cracht /</l>
+<l>Ende siet dat boven di gheen macht</l>
+<l n="2455">En crighe. Wee dier vaert /</l>
+<l>Oftu wils volghen sijnre aert!</l>
+<l>Ten sunden soudt di gherne tyen /</l>
+<l>Dien so sultu altoes vlien.</l>
+<l>Ghedincke waen du best comen /</l>
+<l n="2460">Ende waer dijn vleesch af es ghenomen /</l>
+<l>Ende wattu van live bist</l>
+<l>(Soe sijtstu anders niet dan mist</l>
+<l>Ende een vuyl onreyn sach)</l>
+<l>Ende waer toe dijn vleesch ghedien mach.</l>
+<l n="2465">Dit suldi merken / bistu wise:</l>
+<l>Het wert der wormen spise /</l>
+<l>Diet knaghen inder aerden.</l>
+<l>Sich / daer toe saltu ghewaerden.</l>
+<l>Nu merct die viande der zielen dijn /</l>
+<l n="2470">Die haer altoos jeghen sijn /</l>
+<l>Die duvel / die werelt ende dat vleesch.</l>
+<l>Die ziel te vellene / dats haer eesch /</l>
+<l>Ende raeden tot alre quaetheit.</l>
+<l>Dese .X. ghebode sijn hen leyt /</l>
+<l n="2475">Want si hen doen herde we.</l>
+<l>Mensche / hen also bestee</l>
+<l><edition n="635"/>Alsoese God ghegheven heeft /</l>
+<l>Ende houtse wel die wijl ghi leeft /</l>
+<l parse="ignore">Ende weet dat Hi di niet en begheeft.</l>
+</div>
+</text>
+<!--</ENTRY>
+--></TEI.2>

@@ -1,0 +1,84 @@
+<?xml version='1.0'?><!DOCTYPE TEI.2 PUBLIC '-//TEI P4//DTD Main Document Type//EN' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd' [<!ENTITY % TEI.prose 'INCLUDE'><!ENTITY % TEI.linking 'INCLUDE'><!ENTITY % TEI.figures 'INCLUDE'><!ENTITY % TEI.analysis 'INCLUDE'><!ENTITY % TEI.corpus 'INCLUDE'><!ENTITY % TEI.XML 'INCLUDE'><!NOTATION TEI-XML PUBLIC 'TEI P4' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd'><!-- internal INL dtd --><!ELEMENT b (#PCDATA)><!ELEMENT l (#PCDATA | b)*><!-- end of internal INL dtd -->]><TEI.2><!--<ENTRY id="i0"><teiHeader><fileDesc><titleStmt><title>AB recht ende averecht</title>
+</titleStmt>
+<interpGrp type="pubYear_from"><interp value="1400"/></interpGrp>
+<interpGrp type="witnessYear_from"><interp value="1400"/></interpGrp>
+<interpGrp type="pubYear_to"><interp value="1420"/></interpGrp>
+<interpGrp type="witnessYear_to"><interp value="1420"/></interpGrp>
+<TITEL>AB recht ende averecht</TITEL>
+<author>Onbekend</author>
+<AARD>Rijm</AARD>
+<BRON nr="D58">Brussel, Koninklijke Bibliotheek, 15642-51</BRON>
+<DATUM>1400-1420</DATUM>
+<OMVANG>60 verzen</OMVANG>
+<BRON.OPM>Het handschrift telt 119 bladen, per bladzijde 1 kolom van 52 regels. De tekst bevindt zich op fol. 99. Ander werk dat in het handschrift opgenomen werd, is o.a. de Dietsche Lucidarius (fol. 1-61v), de Nieuwe doctrinael of Spieghel van sonden (fol. 61v-87v), teksten van Augustijnken van Dordt (fol. 87v-93r, 99r-102r en 106v-116v) en Hein van Akens Hughen van Tyberien (fol. 116v-119r).</BRON.OPM>
+<EDITIE>Ph. Blommaert (ed.): 'Hier beghint den AB recht ende averecht; op elc littere een vers.' In: Oudvlaemsche gedichten der XIIe, XIIIe en XIVe eeuwen. Dl. 3. Gent, 1851, 143.</EDITIE>
+<STATUS>Kritisch</STATUS>
+<BRONMNW>998.C.10</BRONMNW>
+<BRONNEN>Brussel, Koninklijke Bibliotheek, 15642-51</BRONNEN>
+</fileDesc>
+</teiHeader>
+--><text>
+<head type="title"><pb n="143"/> <b>Hier beghint den AB recht ende averecht; op elc littere een vers.</b> </head>
+<l>Aensiet dese vrouwen hoe si gaen,</l>
+<l>Besiet hoe haer tuten staen;</l>
+<l>Claer dat si hen blanketten:</l>
+<l>Die cleeder soe lanc dat si hen letten,</l>
+<l>Ende sleypen hen nae al op die eerde.</l>
+<l>Fi, diere vuylder hoverde!</l>
+<l>Ghi vrouwen, ende en scaemdi u niet!</l>
+<l>Het is u scande dat men 't siet.</l>
+<l>Ic sien, dies mi verwondert seere,</l>
+<l n="10">Knechte gaen ghelijc den heere.</l>
+<l>Laghen si soms te bedde .III. daghen,</l>
+<l>Men soudse moeten in 't ghasthuys draghen.</l>
+<l>Nu soe merct noch meer in desen landen:</l>
+<l>Overspel en is schiere gheen scande.</l>
+<l>Priesters, die ons dit scrift uutgheven,</l>
+<l>Qualijc dat siere selve na leven.</l>
+<l>Rijcheyt versmaet dien armen;</l>
+<l>Richters hebben clein ontfermen.</l>
+<l>Siet oec hoe dat nu is ghestelt,</l>
+<l n="20">Soe en sach noyt man soe quaden ghelt.</l>
+<l>Trouwe ende waerheyt is uten lande;</l>
+<l>Valscheit en loesheyt is menigherhande,</l>
+<l>Wi moghens aenmerken ende horen.</l>
+<l>Xps name wort dicke versworen;</l>
+<l>Ymoedicheit leecht onder de voet,</l>
+<l>Zo hoverde draecht hoghen moet,</l>
+<l>Ende wort vervult in menighen saken:</l>
+<l>Nine weet men van den scape wat maken.</l>
+<l>.... in u dit ende besiet;</l>
+<l n="30" parse="ignore">Est niet aldus dat nu ghesciet?</l>
+<l parse="ignore">Est in u dit, mi dunct wel jaet.</l>
+<l parse="ignore">.... in u dit ende verstaet;</l>
+<l>Condi ghemerken, ghi vindet waer,</l>
+<l>Dit is oechsiens al der werelt claer:</l>
+<l>Zie aen alderhande staet,</l>
+<l>Yn dese werelt alsoe nu gaet.</l>
+<l>Xps woerde ende sijn ghebot</l>
+<l>Van dusenten men niet een en hot.</l>
+<l>Waer soe is vrienscap, eere ende trouwe</l>
+<l n="40">Toten evenkersten, als 't wesen soude?</l>
+<l>Soect waer nu is gherechtichhede!</l>
+<l>Siet, wie doet dat hi woude dat men hem dede!</l>
+<l>Rechverdicheit wort seere vergheten;</l>
+<l>Recht wort dicke crom ghemeten;</l>
+<l>Quaetheit verdruct die doecht;</l>
+<l>Proeft oft ghijt yet vinden mocht;</l>
+<l>Onrecht siet men hier vele toe minghen.</l>
+<l>Nu soe merct in allen neringhen</l>
+<l parse="ignore">Metten waghen in 't gheco...</l>
+<l parse="ignore" n="50">Loosheit, valscheit steekt hier in al.</l>
+<l>Kerve hier met, soe wint men 't goet,</l>
+<l>In lieghen niet, driegher heeten vroet.</l>
+<l>Hier mede soe winnen sijt goet met hopen,</l>
+<l>Grote lijftochten dat siere mede copen;</l>
+<l>Frisch ende weldich sijn se hier mede,</l>
+<l>Ende dit betaelt die assissen van der stede.</l>
+<l>Die arbeyder moet al betalen;</l>
+<l>Coept hi notorft, hi moet halen</l>
+<l>Bier, broet, vleesch, visch ende wijn,</l>
+<l n="60">Aldus verliest die arbeyder 't sijn.</l>
+</text>
+<!--</ENTRY>
+--></TEI.2>

@@ -1,0 +1,54 @@
+<?xml version='1.0'?><!DOCTYPE TEI.2 PUBLIC '-//TEI P4//DTD Main Document Type//EN' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd' [<!ENTITY % TEI.prose 'INCLUDE'><!ENTITY % TEI.linking 'INCLUDE'><!ENTITY % TEI.figures 'INCLUDE'><!ENTITY % TEI.analysis 'INCLUDE'><!ENTITY % TEI.corpus 'INCLUDE'><!ENTITY % TEI.XML 'INCLUDE'><!NOTATION TEI-XML PUBLIC 'TEI P4' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd'><!-- internal INL dtd --><!ELEMENT b (#PCDATA)><!ELEMENT l (#PCDATA | b)*><!-- end of internal INL dtd -->]><TEI.2><!--<ENTRY id="i590"><teiHeader><fileDesc><titleStmt><title>Noch van Salladine</title>
+</titleStmt>
+<interpGrp type="pubYear_from"><interp value="1390"/></interpGrp>
+<interpGrp type="witnessYear_from"><interp value="1390"/></interpGrp>
+<interpGrp type="pubYear_to"><interp value="1410"/></interpGrp>
+<interpGrp type="witnessYear_to"><interp value="1410"/></interpGrp>
+<TITEL>Noch van Salladine</TITEL>
+<author>Onbekend</author>
+<AARD>Rijm</AARD>
+<BRON nr="D16">Oxford, Bodleian Library, Marshall 29</BRON>
+<DATUM>1390-1410</DATUM>
+<OMVANG>28 verzen</OMVANG>
+<BRON.OPM>Het handschrift telt 102 bladen, per blad 2 kolommen, 49 regels per kolom. Noch van Salladine bevindt zich op fol. 101v-102r. De codex bevat achtereenvolgens: Melibeus (fol. 122r), Jans teesteye (fol. 24v-45v), Noch meer van wiven (fol. 45v-46r), Van ghevene (fol. 46r-46v), het Boec vander wraken (fol. 48r-78v), Van Maskeroen (fol. 80r-86v), Van Saladijn (fol. 86v-88r), de Tien plaghen ende die tien ghebode (fol. 88v-101r), Noch die tien ghebode (fol. 101r-v) en Noch van Salladine (fol. 101v-102r).</BRON.OPM>
+<EDITIE>F.A. Snellaert (ed.): Nederlandsche gedichten uit de veertiende eeuw van Jan van Boendale, Hein van Aken en anderen. Naar het Oxfordsche handschrift uitgegeven. Brussel, 1869, 639-640.</EDITIE>
+<STATUS>Kritisch</STATUS>
+<BRONMNW>948 </BRONMNW>
+<BRONNEN>Oxford, Bodleian Library, Marshall 29</BRONNEN>
+<HSDRUK>Dystorie van Saladine</HSDRUK>
+</fileDesc>
+</teiHeader>
+--><text>
+<head type="title"><pb n="639"/> DIT ES NOCH VAN SALLADINE.</head>
+<l>DOEN men screef Ons Heren jaer</l>
+<l>.M. hondert ende .xciij. / voer waer /</l>
+<l>Doen starf die edele Salladijn /</l>
+<l>Die vreesslijc den Kerstenen hadde gesijn;</l>
+<l n="5">Al tot Damas starf hi daer.</l>
+<l>Ende doen Salladijn waert ghewaer /</l>
+<l>Dat hi emmer moeste sterven</l>
+<l>Ende sijns lijfs derven /</l>
+<l>Ende hijs niet en mochte ontgaen /</l>
+<l n="10">Doen riep hi den ghenen saen</l>
+<l>Die sine baniere te draghen plach.</l>
+<l>Doen als hi den ghenen sach /</l>
+<l>Sprac hi hem aen in deser maniere:</l>
+<l>"Ghi die plaghet mine baniere</l>
+<l n="15">Te draghene in meneghen zwaren stride /</l>
+<l>Nu moeti draghen in desen tide</l>
+<l>Die baniere mijnre doet ghereet /</l>
+<l>Ende dat sal sijn een onweert cleet /</l>
+<l><edition n="640"/>Dat moeti draghen al doer Damas</l>
+<l n="20">Op mine glavie / ende na das</l>
+<l>Soe moeti roepen in elke strate:</l>
+<l>""U here / die van so hoghen state</l>
+<l>Was / ende here van al Orient /</l>
+<l>Hem es nu die doet bekent /</l>
+<l n="25">Ende hine vuert van alle sinen riken</l>
+<l>Niet meer met hem sekerliken</l>
+<l>Dan dit onweert cledekijn /</l>
+<l>Daer men met sal decken die lede sijn.""</l>
+<l parse="ignore">NOTA.</l>
+</text>
+<!--</ENTRY>
+--></TEI.2>

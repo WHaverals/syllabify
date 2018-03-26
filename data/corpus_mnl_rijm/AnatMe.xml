@@ -1,0 +1,232 @@
+<?xml version='1.0'?><!DOCTYPE TEI.2 PUBLIC '-//TEI P4//DTD Main Document Type//EN' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd' [<!ENTITY % TEI.prose 'INCLUDE'><!ENTITY % TEI.linking 'INCLUDE'><!ENTITY % TEI.figures 'INCLUDE'><!ENTITY % TEI.analysis 'INCLUDE'><!ENTITY % TEI.corpus 'INCLUDE'><!ENTITY % TEI.XML 'INCLUDE'><!NOTATION TEI-XML PUBLIC 'TEI P4' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd'><!-- internal INL dtd --><!ELEMENT b (#PCDATA)><!ELEMENT l (#PCDATA | b)*><!-- end of internal INL dtd -->]><TEI.2><!--<ENTRY id="i494"><teiHeader><fileDesc><titleStmt><title>Anatomie van de mens, Physiologus</title>
+</titleStmt>
+<interpGrp type="pubYear_from"><interp value="1350"/></interpGrp>
+<interpGrp type="witnessYear_from"><interp value="1350"/></interpGrp>
+<interpGrp type="pubYear_to"><interp value="1400"/></interpGrp>
+<interpGrp type="witnessYear_to"><interp value="1400"/></interpGrp>
+<TITEL>Anatomie van de mens</TITEL>
+<TITEL>Physiologus</TITEL>
+<author>Onbekend</author>
+<AARD>Rijm</AARD>
+<BRON nr="D5">Brussel, Koninklijke Bibliotheek, 19571 (fragm.)</BRON>
+<DATUM>1350-1400</DATUM>
+<OMVANG>201 verzen</OMVANG>
+<BRON.OPM>4 kleine bladen (2 dubbelbladen) en 2 strookjes (in feite 1 strookje uit een dubbelblad), verkeerd gevouwen en ingebonden; elke bladzijde bevat 20 verzen, het strookje slechts resp. 9, 6, 12 en 11 verzen.</BRON.OPM>
+<EDITIE>W. de Vreese (ed.): 'Middelnederlandsche fragmenten'. In: TNTL 11 (1892), 63-71 (65-71).</EDITIE>
+<STATUS>Kritisch</STATUS>
+<BRONMNW>914.A.III (andere editie)</BRONMNW>
+<BRONMNW>1276.8</BRONMNW>
+<EDITIE.OPM>De gereconstrueerde letters en woorden, cursief in de editie werden hier tussen [] geplaatst; de foli&euml;ring werd aan de tekst toegevoegd volgens de gegevens op p. 63-64 van de ed. de Vreese.</EDITIE.OPM>
+<BRONNEN>Brussel, Koninklijke Bibliotheek, 19571 (fragm.)</BRONNEN>
+</fileDesc>
+</teiHeader>
+--><text>
+<l parse="ignore"><pb n="65"/><milestone unit="fol" n="1r"/> Wildi der waerheit volgen ende els niet,</l>
+<l>So mogedi nu oec dat verstaen,</l>
+<l>Dat dijs minschen been sijn dus gedaen,</l>
+<l>Ende geliken der erden die leegt an den gront.</l>
+<l n="5">Also sijn oec talre stont</l>
+<l>Des minschen been ende voete op den gronde,</l>
+<l>So dat nieman en conde</l>
+<l>So groet gewassen noch so lanc,</l>
+<l>Sie en onthildentene sonder wanc.</l>
+<l parse="ignore" n="10">Dit en loech noit ane gesonden.</l>
+<l parse="ignore">Dat mogedi merken hier ...</l>
+<l parse="ignore">Dat die voete der er[den] ...</l>
+<l parse="ignore">[...]</l>
+<l parse="ignore"><milestone unit="fol" n="1v"/> Des willic die waerheit van desen</l>
+<l>Volseggen u in corter stont.</l>
+<l n="15">Maer die mijn herte heeft gewont,</l>
+<l>Dier willic eer bidden genade.</l>
+<l>Ay, ioncvrouwe, en dunke u niet te spade.</l>
+<l>Ic wille gerne al mine mesdade</l>
+<l>Betren na uwes selves rade.</l>
+<l n="20">Dat ic eer hadde aen gevaen,</l>
+<l>Daertoe willic nu weder gaen,</l>
+<l parse="ignore">[E]nde wille u doen verstaen</l>
+<l parse="ignore">... et dysi minschen live es gedaen.</l>
+<l parse="ignore">... [minsc]he sal werden geboren</l>
+<l parse="ignore">[...]</l>
+<l parse="ignore" n="25"><milestone unit="fol" n="2r"/> Dat kindre van ses [maende]</l>
+<l parse="ignore">Scire sterven ende le...</l>
+<l parse="ignore">Des moete sijn ...</l>
+<l parse="ignore">Die dese nature ...</l>
+<l parse="ignore">Also wel so u...</l>
+<l parse="ignore" n="30"><pb n="66"/> Die seven m[aende] ...</l>
+<l parse="ignore">Van neg[en maende] ...</l>
+<l parse="ignore">Doch l...</l>
+<l parse="ignore">Hyr ...</l>
+<l parse="ignore">W...</l>
+<l parse="ignore">[...]</l>
+<l parse="ignore" n="35"><milestone unit="fol" n="2v"/> ...n geruren connen</l>
+<l parse="ignore">... [t]alve maent</l>
+<l parse="ignore">... ongewaent</l>
+<l parse="ignore">... ter naturen</l>
+<l parse="ignore">... moeten ruren</l>
+<l parse="ignore" n="40">...er</l>
+<l parse="ignore">...s meer</l>
+<l parse="ignore">[...]</l>
+<l parse="ignore"><milestone unit="fol" n="3r"/> Ochte buten vleesche ocht der binen</l>
+<l>Dat seggen die boke int latijn.</l>
+<l>Dan als tuewerfseven maende comen sijn,</l>
+<l n="45">So saelt kint sitten volcomelike;</l>
+<l>Ende na driwarfseven maende sekerlike,</l>
+<l>So saelt spreken menech wort,</l>
+<l>So dat mense versteet, ende hort</l>
+<l>Aen den lude, dadt wort sijn.</l>
+<l n="50">Dats u dicke worden scijn.</l>
+<l>Ende na virwerfseven maende, sonder waen,</l>
+<l>Saelt sitten wel ende gaen,</l>
+<l>Ende spreken sulke wort volcomen.</l>
+<l>Daer na sal hem luttel vromen</l>
+<l n="55">Der moeder melc vorwart meer.</l>
+<l>Nochtan begeven sise onder wilen eer.</l>
+<l>Dats de waerheit ongeloghen</l>
+<l>Die ons selden heeft bedrogen.</l>
+<l>Alse dan sevenwarfseven maende sijn leden,</l>
+<l n="60"><pb n="67"/> Dan hebben die kindre dat van seden</l>
+<l>Datse bedalle versmaden beginnen</l>
+<l><milestone unit="fol" n="3v"/> Dmelc dat si van ammen borsten gewinnen.</l>
+<l>Men dwincse dan met gewontheit.</l>
+<l>So es hen dan der ammen melc leit</l>
+<l n="65">Van dage te dage ilanc soe mee.</l>
+<l>Oec es mi tallen stonden wee</l>
+<l>Dat ic so verre van der livere bin,</l>
+<l>Die mine herte ende minen sin</l>
+<l>Al heeft benomen, ende niet min</l>
+<l n="70">Daer toe dat daer besloten es in.</l>
+<l>Ic vrese dadt te lanc soude wesen,</l>
+<l>Ochtic van allen dien tide soude lesen</l>
+<l>Dien die minsche leven sal.</l>
+<l>Daer om so willic corten over al</l>
+<l n="75">Daer ic mach met redenliken dingen,</l>
+<l>Ende wilt scire ten inde bringhen.</l>
+<l>Alset kint es comen te vier jaren,</l>
+<l>Die tande die hem gewassen waren</l>
+<l>Ende gnoech vast waren daer te voren,</l>
+<l n="80">Die werden dan som uerloren,</l>
+<l>Ende vallen dan uten monde.</l>
+<l><milestone unit="fol" n="4r"/> Daer scire na in corten stonde</l>
+<l>Wassen hem vastre dan die eirste waren</l>
+<l>Ende grotre; want na den vier jaren</l>
+<l n="85">Eten die kindre harder spisen meer</l>
+<l>Dan si daden tevoren eer.</l>
+<l>Dan vort inden selven tide,</l>
+<l>Eer des tides iet vele lide</l>
+<l>So wert der tongen bant ontbonden</l>
+<l n="90">Also, dat di tevoren niet en conden</l>
+<l><edition n="68"/>Gespreken menech wort volcomelike,</l>
+<l>Die spreken si dan, ochte sekerlike</l>
+<l>Sine spreken nimbermee volcomen.</l>
+<l>Dit hebdi dicke wel vernomen.</l>
+<l n="95">Noch heden sijn in menger stad</l>
+<l>Sulke liede die weten dat</l>
+<l>Dat si volcomelike en spreken niet</l>
+<l>Sulc wort, des es vele gesciet,</l>
+<l>Ende nog vele gescien sal,</l>
+<l n="100">In dese werelt over al.</l>
+<l>Het es noch beide jonc ende out</l>
+<l><milestone unit="fol" n="4v"/> Die niet en hevet die ghewout</l>
+<l>Inder tongen, noch noit en gewan</l>
+<l>Dat hi terechte spreken can</l>
+<l n="105">Volcomen mengerande wort.</l>
+<l>Dat hebdi dicke wel gehort.</l>
+<l>Den genen, dien dat gesciet,</l>
+<l>En es die tonge ontbonden niet.</l>
+<l>&para; Noch vort seggic u verwaer,</l>
+<l n="110">Als comen twewarfseven iaer,</l>
+<l>So begint die kinscheit ave gaen.</l>
+<l>Dan mach hi manlike werke bestaen</l>
+<l>Bat dan daer te voren eer.</l>
+<l>Wie selden so oec dat gescie,</l>
+<l n="115">Die minsche mach dan kindre winnen,</l>
+<l>Ende mach plegen der minnen,</l>
+<l>Die daer es dan een man.</l>
+<l>Met orlove sprekic nochtan,</l>
+<l>So mach die ioncvrouwe bat</l>
+<l n="120">Twee iaer min; in menger stat</l>
+<l parse="ignore">So es dicke dit vernomen.</l>
+<l parse="ignore">[...]</l>
+<l parse="ignore"><milestone unit="fol" n="5r"/> Een ander hi mint sijn lijf</l>
+<l>Vor alle die in die werelt sijn,</l>
+<l><edition n="69"/>Een mint spel, een ander wijn.</l>
+<l n="125">Waer af dat dit moge wesen,</l>
+<l>Also als ict hebbe gelesen,</l>
+<l>Dat so willic u te hant</l>
+<l>Seggen als ic gescreven vant.</l>
+<l>&para; Het spreket een heiden man,</l>
+<l n="130">Die wille, hi geloves dan,</l>
+<l>Ende die en wille, hi laet sijn.</l>
+<l>Doch willic gerne der liver ioncvrouwen mijn</l>
+<l>Hier ave dinen, ende over al.</l>
+<l>God, die berge ende dal</l>
+<l n="135">Makede ende ontmaken sal,</l>
+<l>Hi moet hare geven goet geval.</l>
+<l>&para; Als ic in een boec hadde vernomen,</l>
+<l>Seder ic nu daertoe ben comen,</l>
+<l>Soe willic u segghen dan</l>
+<l n="140">Waer ombe soe dat een man</l>
+<l>Stridet gerne; een ander minnet;</l>
+<l><milestone unit="fol" n="5v"/> Een ander hem in wijsheden versinnet.</l>
+<l>Als ic seide daer te voren,</l>
+<l>Die willet, hi maget horen.</l>
+<l n="145">God die alles dinges gewout hevet,</l>
+<l>Ende elker creaturen hare nature gevet,</l>
+<l>Die altoes ane hem moet sijn,</l>
+<l>Hi hevet ons gemaket scijn</l>
+<l>In menegen dingen sine grote cracht,</l>
+<l n="150">Ende getoent sine mengerande macht,</l>
+<l>Ende sine grote wonderlijcheit.</l>
+<l>&para; Doch merket metter waerheit,</l>
+<l>Dat een dat meeste woude sijn.</l>
+<l>Aen die sterren es wale in scijn,</l>
+<l n="155">Want groet ende menechfout</l>
+<l>Ende starc es hare gewout.</l>
+<l><edition n="70"/>Si maken silver, gout ende bli,</l>
+<l>Loet, coper, mettal, ende daer bi</l>
+<l>En mach oec des niet werden</l>
+<l n="160">Sonder hare cracht inder erden.</l>
+<l>Ende dat die sieke scire genesen,</l>
+<l><milestone unit="fol" n="6r"/> Ocht lange siec moeten wesen,</l>
+<l>Dit connen si algader maken.</l>
+<l>&para; Noch sijn vele andre saken</l>
+<l n="165">Ane die sterren, die ic seggen wille,</l>
+<l>Openbaer ende oec stille,</l>
+<l>Alse mi die stade werden can,</l>
+<l>Waer ombe ic dese redene began,</l>
+<l>Als gi hijrna solt horen,</l>
+<l n="170">Want hare nature en sal verloren</l>
+<l>Niet sijn, noch versuegen bliven.</l>
+<l>Ic salse u gerne al bescriven,</l>
+<l>Ende nomen met namen, wie si heten.</l>
+<l>Si sijn genoemp planeten,</l>
+<l n="175">Die sterren daer ic af wille sagen.</l>
+<l>&para; Maer wilt nu ieman vraghen</l>
+<l>Wat dat planeten sijn,</l>
+<l>Dat es wel die wille mijn,</l>
+<l>Dat ict heme make cont.</l>
+<l n="180">Inne wille nu te derre stont</l>
+<l>Van dien vragene mi niet uerlichten,</l>
+<l><milestone unit="fol" n="6v"/> Ende wilse also gerne berichten</l>
+<l>Nu, dijs nine weten; alse hijr na</l>
+<l>Ic wille dat elc minsche versta.</l>
+<l n="185">&para; Seven sterren sijn al so gedaen</l>
+<l>Dat si bi dandre nine staen,</l>
+<l>Want si staen nedere vele bat,</l>
+<l>Ende steet elc in sine sunderlinge stat.</l>
+<l>Die ene steet boven die andre ho;</l>
+<l n="190">Die andre sterren en staen niet so,</l>
+<l>Want sie staen alle gelike</l>
+<l><edition n="71"/>Inden hemel gestedelike,</l>
+<l>Sonder enech ombegaen.</l>
+<l>Maer dese sevene sijn so gedaen,</l>
+<l n="195">Dat elc hevet ene stat,</l>
+<l>Ende altoes omgaet als een rat.</l>
+<l parse="ignore">Daer ombe sijn si planeten genaemp.</l>
+<l parse="ignore">Want als ic gescreven vant,</l>
+<l>Planeta, dat spreket ongestadecheit.</l>
+<l n="200">&para; Nu willic u met groter waerheit</l>
+<l parse="ignore">Elkes name saen bescriven.</l>
+</text>
+<!--</ENTRY>
+--></TEI.2>

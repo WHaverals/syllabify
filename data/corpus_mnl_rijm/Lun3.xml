@@ -1,0 +1,496 @@
+<?xml version='1.0'?><!DOCTYPE TEI.2 PUBLIC '-//TEI P4//DTD Main Document Type//EN' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd' [<!ENTITY % TEI.prose 'INCLUDE'><!ENTITY % TEI.linking 'INCLUDE'><!ENTITY % TEI.figures 'INCLUDE'><!ENTITY % TEI.analysis 'INCLUDE'><!ENTITY % TEI.corpus 'INCLUDE'><!ENTITY % TEI.XML 'INCLUDE'><!NOTATION TEI-XML PUBLIC 'TEI P4' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd'><!-- internal INL dtd --><!ELEMENT b (#PCDATA)><!ELEMENT l (#PCDATA | b)*><!-- end of internal INL dtd -->]><TEI.2><!--<ENTRY id="i549"><teiHeader><fileDesc><titleStmt><title>Collectief lunarium III (berijmd), Cracht der mane II</title>
+</titleStmt>
+<interpGrp type="pubYear_from"><interp value="1440"/></interpGrp>
+<interpGrp type="witnessYear_from"><interp value="1440"/></interpGrp>
+<interpGrp type="pubYear_to"><interp value="1460"/></interpGrp>
+<interpGrp type="witnessYear_to"><interp value="1460"/></interpGrp>
+<TITEL>Collectief lunarium III (berijmd)</TITEL>
+<TITEL>Cracht der mane II</TITEL>
+<author>Onbekend</author>
+<AARD>Rijm</AARD>
+<BRON nr="D8">Gent, Bibliotheek der Rijksuniversiteit, 697</BRON>
+<DATUM>1440-1460</DATUM>
+<OMVANG>469 verzen</OMVANG>
+<BRON.OPM>Papieren handschrift, 63 bladen, 42 tot 56 regels per bladzijde. De tekst bevindt zich op fol. 37r-41v. De codex bevat verder o.a. nog een Chiromantie (berijmd), door N. de Pauw uitgegeven onder de titel Cyromanchie van den pape van den Hamme (fol. 48r-54r) en een aantal geneeskundige recepten en bezweringen.</BRON.OPM>
+<EDITIE>N. de Pauw: Middelnederlandsche gedichten en fragmenten. Dl. 1. Gent, 1893-1897, 219-233.</EDITIE>
+<STATUS>Kritisch</STATUS>
+<BRONMNW>298</BRONMNW>
+<BRONMNW>680.2</BRONMNW>
+<BRONMNW>1464 </BRONMNW>
+<BRONNEN>Gent, Bibliotheek der Rijksuniversiteit, 697</BRONNEN>
+</fileDesc>
+</teiHeader>
+--><text>
+<l parse="ignore"><edition n="219"/>PRIEME.</l>
+<l>Alse de mane es van eenen daghe,</l>
+<l>Dan es die tijt harde ghelaghe</l>
+<l>Ende doet goet alle dijnc bestaen.</l>
+<l>Die in siecheden wert bevaen,</l>
+<l n="5">Hets lanc eer hi mach ghenesen,</l>
+<l>Want hi moet quellende wesen.</l>
+<l>So wat so men in drome siet,</l>
+<l>Daer ne comt of gheen verdriet.</l>
+<l>Al verwinnendi dine viande,</l>
+<l n="10">Daerof ne comti nemeer scande.</l>
+<l><edition n="220"/>Dat kint, dat danne wert gheboren,</l>
+<l>Dat sal edel sijn van voren,</l>
+<l>Behendich, vroet ende letter wijs,</l>
+<l>Ende langhe leven ende hebben prijs;</l>
+<l n="15">In watre saelt ghevreest wesen;</l>
+<l>Nemaer maecht daerof ghenesen,</l>
+<l>So maecht leven menich jaer;</l>
+<l>Dat seit die lettere, ende het es waer.</l>
+<l>Die maghet, die danne wert gheboren,</l>
+<l n="20">Sal suverheit hebben vercoren;</l>
+<l>Goedertiere ende letter wijs,</l>
+<l>Ende van scoenheden hebben prijs;</l>
+<l>So sal vroet sijn van sinne,</l>
+<l>Menich mensche sal se minnen,</l>
+<l n="25">Langhe sal soe bederde wesen</l>
+<l>In die oude ende niet ghenesen;</l>
+<l>Een teekin sal soe hebben dan</l>
+<l>In die wintbraeuwen of deran,</l>
+<l>Of so saelt hebben in den mont;</l>
+<l n="30">Dat maect ons die lettere cont.</l>
+<l>Alse die mane es IJ daghe out,</l>
+<l>Dan eist nuttellc menichfout</l>
+<l>Copen, vercoepen, wech bestaen,</l>
+<l>Eeren, sayen, in scepe ghaen.</l>
+<l n="35">Die steelt, ic secht u overluut,</l>
+<l>Het sal sciere comen huut.</l>
+<l>Die siec wert sal sciere ghenesen.</l>
+<l>Datti droemt sal goet wesen,</l>
+<l>Ne hebt gheene sorghe van desen</l>
+<l n="40">Weder het goet so quaet sal wesen.</l>
+<l>Tkint, eist wijf ofte man,</l>
+<l>Dat gheboren werdet dan,</l>
+<l>Sal sijn salich ende lettel sueven,</l>
+<l>Nemaere en sal niet langhe leven.</l>
+<l n="45"><pb n="221"/> Alse de mane hevet IIJ daghe,</l>
+<l>So segghic u sonder saghe,</l>
+<l>Dan eist quaet eenich dijnc bestaen,</l>
+<l>Ensi dat si weder wassen saen:</l>
+<l>Dan eist quaet ene maken,</l>
+<l n="50">Ic sal u segghen dor wat saken;</l>
+<l>Dan wasset gheerne quaet cruut.</l>
+<l>Die dan stelt, et comt saen huut.</l>
+<l>Droeme ne moghen niet dieden.</l>
+<l>Siecheit, die dan comt den lieden,</l>
+<l n="55">Laetter cume eenich ontghaen ende ghenesen.</l>
+<l>Tknapelkin sal heet, moedich wesen</l>
+<l>Ende ander lieder goet begheeren</l>
+<l>Ende valscheliken hem gheneeren,</l>
+<l>Onlanghe leven, ende quaden ende</l>
+<l n="60">Saelt nemen ghelijc eenen rende.</l>
+<l>Tmeiskin wert een pijnlijc wijf;</l>
+<l>Menich man sal begheeren haer lijf;</l>
+<l>Haer quaetheit wert menichfout</l>
+<l>Ende selden weert so hout,</l>
+<l n="65">Alse die mane hevet IIIJ daghe,</l>
+<l>Dan sijn alle dinghen ghelaghe,</l>
+<l>Waterloep delven ende maken molen,</l>
+<l>Ende kinder te settene in scolen.</l>
+<l>Die dan vliet ute sinen lande,</l>
+<l n="70">Men salne vinden altehande.</l>
+<l>Die siec werdet stervet saen,</l>
+<l>Of hi sal cume der doot ontghaen.</l>
+<l>Ende drome dieden dan.</l>
+<l>Tkint sal wesen een pijnlijc man,</l>
+<l n="75">Hoerier ende wel ghehacht int lant</l>
+<l>Ende met heerscepe wel becant;</l>
+<l>Leeftet over XV jaer,</l>
+<l>Et wert rike, dat es waer;</l>
+<l><edition n="222"/>Dicken saelt in vreesen sijn.</l>
+<l n="80">Datselve sal sijn ant meyskin.</l>
+<l>Alse de mane hevet der daghe vive,</l>
+<l>Dan werdent gheerne keytive</l>
+<l>Die eenegherande dijnc bestaen.</l>
+<l>So wie so ontvliet sal sterven saen,</l>
+<l n="85">Of boodscap sal van hem ghaen,</l>
+<l>Daer hi yewer es ghevaen.</l>
+<l>Die steelt, men sal saen weten waert es,</l>
+<l>Dies, sijt seker ende ghewes.</l>
+<l>Die siec es sal varinghe sterven</l>
+<l n="90">Ende cume sine sonden verwerven.</l>
+<l>Drome sijn danne onwaert,</l>
+<l>Want dat hi savons beghaert</l>
+<l>Daerof droemti gheerne snachts;</l>
+<l>Nochtan sie dattu di wachs</l>
+<l n="95">Dattu niet ne does sonder raet,</l>
+<l>Bedi di mocht er of commen quaet.</l>
+<l>Tkint, dat danne ter weerelt comt,</l>
+<l>Dats onnuttelic ende verdoomt;</l>
+<l>Na V jaren saelt sterven saen</l>
+<l n="100">Ende cume so langhe der doot ontghaen.</l>
+<l>Tmeiskin sal sterven doorperlike,</l>
+<l>Want so sal wesen sekerlike</l>
+<l>Toeverigghe ende in alle quaetheit verbout</l>
+<l>Ende haere selven wesen onhout.</l>
+<l n="105">Alse die mane es van VI daghen,</l>
+<l>Dan eist arde nuttelic jhaghen</l>
+<l>Beede met voglen ende met winden.</l>
+<l>Dat men dan steelt sal men vinden.</l>
+<l>Die siec es sal sochte quellen</l>
+<l n="110">Ende langhe up sijn bedde welen.</l>
+<l>Drome sijn seker dan,</l>
+<l>Maer ne sech se wijf no man.</l>
+<l><edition n="223"/>Tkint wert groot, coene ende vroet,</l>
+<l>Behendich, levende ende goet,</l>
+<l n="115">Maecht leven over XIX jaer;</l>
+<l>Het sal gheteekent sijn, dats waer,</l>
+<l>In sine rechter hant sal sijn</l>
+<l>Gheteekent, seghet tlattijn.</l>
+<l>Die maghet sal wesen goet</l>
+<l n="120">Ende suver in haren moet,</l>
+<l>Bequamelike in alre doghet</l>
+<l>Ende lief met manne in der jhoghet.</l>
+<l>Alse die mane hevet VIJ daghe,</l>
+<l>Dan eist bloetlaten gehelaghe;</l>
+<l n="125">Danne eist oec goet bestaen</l>
+<l>Ersaterie, sonder waen.</l>
+<l>Die dan vliet in vremde landen,</l>
+<l>Men salne vinden tehanden.</l>
+<l>Die steelt, hi wert er mede ghevaen.</l>
+<l n="130">So wie met evle wert bestaen,</l>
+<l>Doeti dat die bouc ghebiet,</l>
+<l>Van den evele en steerft hi niet.</l>
+<l>Drome sijn danne waer;</l>
+<l>Daernaer over menich jaer</l>
+<l n="135">Bi aventuere sal hi ghescien,</l>
+<l>Ende dies ne machtu niet ontvlien.</l>
+<l>Tkint sal danne wesen wijs</l>
+<l>Ende goet van live, ende hebben prijs,</l>
+<l>Werdichede ende wel gheleert,</l>
+<l n="140">Langhe leven ende sijn gheheert;</l>
+<l>In meneghe stede saelt sijn ghelovet,</l>
+<l>Gheteekent saelt sijn an sijn vorhovet;</l>
+<l>Die maghet sal sijn groot van tale</l>
+<l>Ende den manne becommen wale;</l>
+<l n="145">In die borst of boven den oghen</l>
+<l>Sal so een teekin daerane toghen.</l>
+<l><edition n="224"/>Alse de mane es VIIJ daghen out,</l>
+<l>Dan eist nuttelic menichfout</l>
+<l>Bien buken ende sacken coren.</l>
+<l n="150">Dat men dan steelt blijft verloren.</l>
+<l>Die siec es mach dan niet ontghaen.</l>
+<l>Ende datti droemet, zonder waen,</l>
+<l>Dat sal cortelijnghe ghescien,</l>
+<l>Also als duut heves ghesien.</l>
+<l n="155">Tkint sal ombekent bliven</l>
+<l>Ende groot van sinen live,</l>
+<l>Groet bejhaghere van goede;</l>
+<l>Siecheit sal het langhe broeden;</l>
+<l>In siere jhoghet het sal wesen</l>
+<l n="160">Ghevreeset in watre, ende cume ghenesen;</l>
+<l>I teekin saelt hebben bi tide</l>
+<l>Staende in sine rechter side.</l>
+<l>In die rechterside sal tjoncwijf</l>
+<l>Haer teekin draghen, I scamel lijf</l>
+<l n="165">Sal so leeden menich jaer;</l>
+<l>Maer ic segghu over waer</l>
+<l>Datter een lac sal wesen an:</l>
+<l>Hare ne sal niet genoughen I man.</l>
+<l>Alse die mane hevet IX daghe,</l>
+<l n="170">So segghic u al sonder saghe</l>
+<l>Dat goet doet alle dijnc bestaen</l>
+<l>Ofte te makene, sonder waen.</l>
+<l>So wie so loept in vremden lande,</l>
+<l>Men salne vinden altehanden.</l>
+<l n="175">Die siec wert sal ghenesen.</l>
+<l>Ende droeme sullen waer wesen</l>
+<l>Ende binnen IX daghen ghescien.</l>
+<l>Tkint, dat gheboren wert in dien,</l>
+<l>Sal gracieus wesen ende vroet,</l>
+<l n="180">Scone sijn ende goet;</l>
+<l><edition n="225"/>Eer et wert VIIJ jaer out,</l>
+<l>Saelt sijn in vreesen menichfout;</l>
+<l>Een teekin in de rechter hant</l>
+<l>Saelt hebben, daerbi eist becant;</l>
+<l n="185">Mag het leven XIIJ jaer,</l>
+<l>Het sal rijke sijn, te waer.</l>
+<l>Die maghet wert bequame</l>
+<l>Nutelic met goeder namen;</l>
+<l>So sal gheteekent sijn</l>
+<l n="190">Ghelijc als was tcnapelijn.</l>
+<l>Alse de mane hevet daghe X,</l>
+<l>Danne eist nuttelic ende siene</l>
+<l>Niewe husijnghen te bestane</l>
+<l>Ende kindre in scolen tontfaene.</l>
+<l n="195">Die siec es moet sciere ghenesen,</l>
+<l>Of hi moet varijnghe doot wesen.</l>
+<l>Drome ne moghen danne niet dieden.</l>
+<l>Kinder die werden dan roukelose lieden,</l>
+<l>Pijnlijc in hare joncheit,</l>
+<l n="200">Ende dorlopen die werelt breit.</l>
+<l>Die maghet wert goedertiere,</l>
+<l>Also ghewast sal so sciere</l>
+<l>Volle werkinghe, des sijt ghewes,</l>
+<l>Hoe hout so soe es.</l>
+<l n="205">Alse die mane hevet XI daghe leden,</l>
+<l>Dan doet Goot bidden alrande beden,</l>
+<l>Biebuke breken, bome poten</l>
+<l>Ende wijngaerde snoucken sine scoten.</l>
+<l>Die siec werden bliven te live,</l>
+<l n="210">Sijn si manne ofte wive.</l>
+<l>Binnen IIIJ daghen ghesciet die droem;</l>
+<l>Wacht, ende neempter omme goem.</l>
+<l>Tkint wert bevende van moede,</l>
+<l>Lustich ende bejhagre van goede;</l>
+<l n="215"><pb n="226"/> Soot ouder wert, soot beter es.</l>
+<l>Die maghet sal sijn, des sijt ghewes,</l>
+<l>Gheteekent int vorhovet</l>
+<l>Of in die borst, des ghelovet;</l>
+<l>So sal sijn suver ende vroet</l>
+<l n="220">Ende den ende nemen goet.</l>
+<l>Alse de mane heeft XIJ daghe,</l>
+<l>Dan eist nuttelic ende ghelaghe</l>
+<l>Sayen, huwelijc doen, weghe bestaen.</l>
+<l>Die met evele werd bevaen,</l>
+<l n="225">Hi sal quellen ende ghenesen.</l>
+<l>Drome sullen waer wesen,</l>
+<l>Alle sullen se ten besten comen</l>
+<l>Binnen VIIJ daghen, weerd si vernomen.</l>
+<l>Tkint wert gheerne deghenlijc,</l>
+<l n="230">Godevruchtich ende vriendelijc;</l>
+<l>In de rechter hant of in de knien</l>
+<l>Sal men een teekin derane sien.</l>
+<l>Greeselijc sal die maghet sijn,</l>
+<l>In die borst draecht so teekijn;</l>
+<l n="235">Groete scoenheit sal haer God gheven,</l>
+<l>Maer onlanghe sal soe leven.</l>
+<l>Wacht u van der XIIJ mane,</l>
+<l>So es vreeselic, na minen wane;</l>
+<l>Hets quaet jheghen vriende striden.</l>
+<l n="240">So wie so vliet in den tiden,</l>
+<l>Hi sal sciere werden vonden.</l>
+<l>Wie dat siec wert in den stonden,</l>
+<l>Hi sal varijnghe ghenesen</l>
+<l>Of langhe quellende wesen.</l>
+<l n="245">Drome ghescien bin IX daghen.</l>
+<l>Tkint sal I eeten moet draghen,</l>
+<l>Coene, rovere, copere van goede</l>
+<l>Hovaerdich levende, van vreemden moede,</l>
+<l><edition n="227"/>Niemen ghenoughen dan hem selven;</l>
+<l n="250">Wel jonc sal menne delven:</l>
+<l>Gheteekent es hi bi den oeghen.</l>
+<l>Die maghet sal een teekin toeghen</l>
+<l>Binnen den dien of in den als;</l>
+<l>Soe sal sijn oevaerdich, malschs,</l>
+<l n="255">Ende haer lijf menich man gheven,</l>
+<l>Maer onlanghe sal soe leven.</l>
+<l>Alse die mane hevet der daghe XIIIJ,</l>
+<l>Danne es die tijt harde siene</l>
+<l>Goet te copene, ende kinder</l>
+<l n="260">Up te settene, meerer ende minder.</l>
+<l>Die siec weert, steerft hi niet saen,</l>
+<l>So sal hi cortelijnghe upstaen.</l>
+<l>So wat dat men in drome siet,</l>
+<l>Binnen VIJ daghen et ghesciet.</l>
+<l n="265">Tkint weert coepman, ende men sal sien</l>
+<l>Een teekin staen an sine dien;</l>
+<l parse="ignore">Hovaerdicheit ende coenheit sal hi toeghen,</l>
+<l>Met niemen lief dan met hem selven;</l>
+<l>In siere joghet sal menne delven.</l>
+<l n="270">Bi den necken sal dat meyskin,</l>
+<l>Seghet die bouc, gheteekent sijn;</l>
+<l>Licht ende hoevaerdich sal soe sijn dan,</l>
+<l>Ende begheeren meneghen man.</l>
+<l>Wert die mane out XV daghe,</l>
+<l n="275">So es alle dijnc onghelaghe,</l>
+<l>Sonder te dieften al eenlike.</l>
+<l>Die uten lande ghaen sekerlike,</l>
+<l>Men sal segghen dat hi es doot.</l>
+<l>Die siele die ne hevet gheene noot.</l>
+<l n="280">Drome sijn danne waer</l>
+<l>Ende commen over menich jaer,</l>
+<l>Gheerne eist rouwe ende toren.</l>
+<l><edition n="228"/>Tkint, dat danne weert gheboren,</l>
+<l>Wert arm ende lievelijc ghedaen,</l>
+<l n="285">Ende gaste saelt wel ontfaen;</l>
+<l>Ghestade sal het sijn van sinne,</l>
+<l>Gheteekent in aensichte binnen;</l>
+<l>Soet ouder wert, soet beter es.</l>
+<l>Die maghet, des sijt ghewes,</l>
+<l n="290">Sal teekin draghen in die rechter side;</l>
+<l>Behendich wert soe ende blide,</l>
+<l>Ende ghemoet over al</l>
+<l>Also langhe alsoe leven sal.</l>
+<l>Dat men belovet in de XVI mane,</l>
+<l n="295">Dats onseker, bi minen wane.</l>
+<l>Ic wane, die siecke niet ongaet</l>
+<l>Die in derden daghe niet upstaet.</l>
+<l>Die droem ne deert niet,</l>
+<l>Binnen VIJ daghen hi gheerne ghesciet.</l>
+<l n="300">Tkint, dat dan comt in den daghen,</l>
+<l>Sal teken up die scoudre draghen,</l>
+<l>Gheerne herberghen ende goet weert,</l>
+<l>In watre so saelt sijn verveert.</l>
+<l>Tmeyskin weert een pinende kint,</l>
+<l n="305">Ende van meneghen man ghemint,</l>
+<l>Scamel, alst wel betaemt den wive,</l>
+<l>Ende suver van den live.</l>
+<l>So weltijt so die mane hevet</l>
+<l>XVIJ daghe, noyt man ne levet</l>
+<l n="310">Ne sach den tijt wesen so goet</l>
+<l>Tote alle saken hebben spoet.</l>
+<l>Die siec es mach ghenesen.</l>
+<l>Drome sullen waer wesen,</l>
+<l>Ten besten saelt commen bin XIJ daghen,</l>
+<l n="315">Du sout sien menegherande laghen.</l>
+<l>Tkint sal gheerne in vreesen wesen,</l>
+<l><edition n="229"/>Behendich, ende wel connen lesen,</l>
+<l>Coene, salich ende ghetrouwe.</l>
+<l>Groet sal sijn die joncfrouwe,</l>
+<l n="320">Zuver van live, rike van goede</l>
+<l>Ende ghestalike in haren moede.</l>
+<l>Alse die mane hevet XVIIJ daghe,</l>
+<l>Es oec die tijt ghelaghe</l>
+<l>Huwelic ende ander dijnc bestaen.</l>
+<l n="325">Die siec wert mach ontghaen.</l>
+<l>Binnen X daghe werden drome waer,</l>
+<l>Binnen XX of bin XXX daernaer</l>
+<l>Ende danne werden si gheerne goet.</l>
+<l>Tkint weert qualike ghemoet,</l>
+<l n="330">Verwaent, moyleec, clappende loes;</l>
+<l>Gheteekent sal et sijn altoes</l>
+<l>Ane kinne, ende so sal tjoncwijf:</l>
+<l>Behaghel sal sijn haer lijf,</l>
+<l>Suver ende vaste ouden</l>
+<l n="335">Ende hebben te meer alsoe sal ouden.</l>
+<l>Die XIX mane mach wel goet wesen,</l>
+<l>Want die siec es mach ghenesen.</l>
+<l>Drome sijn waer bin IX daghen.</l>
+<l>Tkint sal een teeken draghen</l>
+<l n="340">Bi der wintbrawe of deran;</l>
+<l>Het sal sijn een ghetrouwe man,</l>
+<l>Goedertiere, behendich, gherne striden,</l>
+<l>Ende betren an sijn oude tiden.</l>
+<l>Die maghet sal hem gheliken,</l>
+<l n="345">Maer al te gheerne sal so striken.</l>
+<l>Es die mane oud XX daghe,</l>
+<l>So es al beghinsel onghelaghe.</l>
+<l>Die siecke sal quellen ende ghenesen.</l>
+<l>Die drome sullen waer wesen;</l>
+<l n="350">Ne draechter omme gheen ghepens,</l>
+<l><edition n="230"/>Ghi ne gheeft er omme gheen tsens.</l>
+<l>Tkint wert een ackerman</l>
+<l>Ende behendich deran,</l>
+<l>Ende et wert een behendich dief.</l>
+<l n="355">Die maghet wert met niemen lief,</l>
+<l>Want so sal de manne slachten</l>
+<l>Ende hare negheene quaetheit wachten.</l>
+<l>Die XXI mane es niet goet.</l>
+<l>Si ne ghevet negheenen spoet</l>
+<l n="360">No te ghene andre ghewerke</l>
+<l>Dat men beghinnen mach so sterke</l>
+<l>Sonder alleene vecht bestaen.</l>
+<l>Ghevestu, du ne sult ghenen danc ontfaen;</l>
+<l>Die steelt, et comt uut haestelike.</l>
+<l n="365">Die siecke gheneset cortelike,</l>
+<l>Of hi stervet in corten stonden.</l>
+<l>Drome werden al loghene vonden,</l>
+<l>Si ne ghescien bin IX daghen.</l>
+<l>Tkint dat sal een teekin draghen</l>
+<l n="370">Pinende, arm, ongheleert ende goet.</l>
+<l>Die maecht, suver, ghemint ende vroet,</l>
+<l>Hare sal wel ghenoeghen I man;</l>
+<l>Gheteekent sal soe wesen dan</l>
+<l>In den hals, of up hare lier</l>
+<l n="375">Dat vint men bescreven hier.</l>
+<l>Alse die mane up den XXIJ dach ghaet,</l>
+<l>Danne eist weghe besoeken quaet.</l>
+<l>Die siec wert sal ghenesen.</l>
+<l>Drome sullen waer wesen.</l>
+<l n="380">Tkint sal pinen ende ersatre sijn.</l>
+<l>Arem wert dat maghedijn,</l>
+<l>Welken tijt so die mane</l>
+<l>Hevet XXIIJ daghe,</l>
+<l>Men sal dan gherne striden.</l>
+<l n="385"><pb n="231"/> Die siec wert in dien tide</l>
+<l>Quellet langhe, dat es waer.</l>
+<l>An drome ne leghet niet I haer,</l>
+<l>Want si ne hebben gheene crachte,</l>
+<l>Tkint sal winnen groot gheslachte;</l>
+<l n="390">Ende oec die maghet, God gheeft hare te goede,</l>
+<l>Soe wert hoeghedraghende van moede.</l>
+<l>Die XXIIIJ mane es nutte ende goet,</l>
+<l>Enten beghinne goeden spoet.</l>
+<l>Die siec es mach niet ghenesen,</l>
+<l n="395">Datti dromet sal waer wesen,</l>
+<l>Ende algader salichede.</l>
+<l>Tkint sal hebben quade zede,</l>
+<l>Gheerne doen sonde ende lopen wide</l>
+<l>Ende altoes sijn in stride.</l>
+<l n="400">Die maghet sal gherne leven sachte,</l>
+<l>Ende hebben idel ghedachte.</l>
+<l>Alse die mane heeft XX daghe ende vive,</l>
+<l>Ne mach die siecke metten live</l>
+<l>In gheere wijs ontghaen.</l>
+<l n="405">Drome sijn met vreese bevaen,</l>
+<l>Ende sullen cortelike ghescien.</l>
+<l>Meneghe vreese sal tkint ontvlien,</l>
+<l>Die up den tijt wert gheboren;</l>
+<l>Ghierecheit salt hebben vercoren</l>
+<l n="410">Ende daermede leden sijn lijf;</l>
+<l>Hem sal slachten dat joncwijf.</l>
+<l>Alse XXVI daghe hevet die mane,</l>
+<l>Dan stervet die siecke, na minen wane.</l>
+<l>Drome sijn danne waer.</l>
+<l n="415">Als tkint ghecrighet sine jaer,</l>
+<l>Eist gheerne met goeden name</l>
+<l>Ende in wandelijnghen bequame.</l>
+<l>Salech weert dat maghedijn:</l>
+<l><edition n="232"/>Dus eist bescreven int lattijn.</l>
+<l n="420">De mane van XXVIJ daghen</l>
+<l>Ne doet gheene drome claghen,</l>
+<l>Want si keeren ten besten waert;</l>
+<l>Al bestu in drome vervaert,</l>
+<l>Men sal di niet quaet wesen.</l>
+<l n="425">Die siec wert sal saen ghenesen.</l>
+<l>Tkint wert vroet ende vrient hout,</l>
+<l>Oec mag het wel werden out.</l>
+<l>Die maghet wert erachtich ende wijs;</l>
+<l>Haer staet te hebbene meneghen prijs.</l>
+<l n="430">Die XXVIIJ mane mach wel goet wesen,</l>
+<l>Want die siec es sal ghenesen.</l>
+<l>Ende drome ne deren niet;</l>
+<l>Gherne diedet dat men siet.</l>
+<l>Tkint, eist man of wijf,</l>
+<l n="435">Sal roekeloos wesen al sijn lijf.</l>
+<l>Die XXIX mane comt daernaer.</l>
+<l>Dan sijn altoes drome zwaer,</l>
+<l>Ende du ne darf se dan niet helen.</l>
+<l>Die siecke en sal niet langhe quelen.</l>
+<l n="440">Die gheboren werdet dan,</l>
+<l>Es hi wijf ofte man,</l>
+<l>Hi sal sijn lief ende waert,</l>
+<l>In wat lande dat hi vaert.</l>
+<l>Nu hoert van der XXX mane;</l>
+<l n="445">Hets oec die leste, na minen wane.</l>
+<l>Drome sijn dan waer vonden,</l>
+<l>Ende ghescien in corten stonden.</l>
+<l>Die siec wert sal cranc wesen</l>
+<l>Ende weder van der doot ghenesen.</l>
+<l n="450">Tkint, dat dan wert gheboren,</l>
+<l>Sal een bode sijn vercoren</l>
+<l>Ende goet gharsoen wesen te voet.</l>
+<l><edition n="233"/>Die maecht wert te werke goet</l>
+<l>Ende leden I bedervelijc leven.</l>
+<l n="455">Nemmeer ne vindijts bescreven.</l>
+<l>Alse die mensche al hevet ghelevet</l>
+<l>Ende dicken in sonden ghesuevet,</l>
+<l>So dijnct mi dat men prisen sal</l>
+<l>Gode Onsen Heere boven al,</l>
+<l n="460">Want hi maect alghader goet</l>
+<l>So wat dat die mensche doet.</l>
+<l>Daeromme biddic in desen brief</l>
+<l>Ten eersten Gode om mijn lief,</l>
+<l>Ende om mi selven daerna,</l>
+<l n="465">Dat hi ons beeden niet versla</l>
+<l>In die joghet met onsen sonden,</l>
+<l>Want wi hem niet ontghaen ne connen;</l>
+<l>Maer, alst hem tijt dijnct, moeti ons gheven</l>
+<l>Ons beeden te samen I goed leven!</l>
+</text>
+<!--</ENTRY>
+--></TEI.2>

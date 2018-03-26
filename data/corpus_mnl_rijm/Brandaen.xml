@@ -1,0 +1,2314 @@
+<?xml version='1.0'?><!DOCTYPE TEI.2 PUBLIC '-//TEI P4//DTD Main Document Type//EN' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd' [<!ENTITY % TEI.prose 'INCLUDE'><!ENTITY % TEI.linking 'INCLUDE'><!ENTITY % TEI.figures 'INCLUDE'><!ENTITY % TEI.analysis 'INCLUDE'><!ENTITY % TEI.corpus 'INCLUDE'><!ENTITY % TEI.XML 'INCLUDE'><!NOTATION TEI-XML PUBLIC 'TEI P4' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd'><!-- internal INL dtd --><!ELEMENT b (#PCDATA)><!ELEMENT l (#PCDATA | b)*><!-- end of internal INL dtd -->]><TEI.2><!--<ENTRY id="i53"><teiHeader><fileDesc><titleStmt><title>Van sente Brandane, Brandaen</title>
+</titleStmt>
+<interpGrp type="pubYear_from"><interp value="1380"/></interpGrp>
+<interpGrp type="witnessYear_from"><interp value="1380"/></interpGrp>
+<interpGrp type="pubYear_to"><interp value="1425"/></interpGrp>
+<interpGrp type="witnessYear_to"><interp value="1425"/></interpGrp>
+<TITEL>Van sente Brandane</TITEL>
+<TITEL>Brandaen</TITEL>
+<author>Onbekend</author>
+<AARD>Rijm</AARD>
+<BRON nr="K136">Stuttgart, W&uuml;rttembergische Landesbibliothek, Cod. poet. et philol. fol. 22</BRON>
+<DATUM>1380-1425</DATUM>
+<OMVANG>2284 verzen</OMVANG>
+<BRON.OPM>De codex staat bekend als het zgn. Comburgse handschrift. Hij bevat in totaal 1+346+1 folia; per bladzijde zijn er 2 kolommen en per kolom 36-43 regels. Volgens Janssens e.a. (1991) (zie Van den vos Reynaerde) is het handschrift samengesteld uit zes delen, die in dezelfde periode en omgeving vervaardigd zijn. Tot de inhoud, die uit een vijftigtal teksten bestaat, behoren naast Van sente Brandane (fol. 179ra-192va) o.a.: de Rose van Hein van Aken (fol. 1ra85va), de Heimelicheit der heimelicheden van Jacob van Maerlant (fol. 87ra-101vb), het Boec van seden (fol. 102va-110rb), het Boec van Catone (fol. 110rb-112rb), enkele strofische gedichten van Jacob van Maerlant: de Eerste Martijn, de Tweede Martijn, de Derde Martijn (fol. 112rb-124va) en een Disputacie van onser Vrouwen ende van den Heilighen Cruce (fol. 124va-128vb), het Boec van Sidrac (fol. 131ra-174vb), Van den vos Reynaerde (fol. 192va-213rb), Een disputacie van Rogiere ende Janne van Jan de Weert (fol. 218rb-229va), Van den coninc Saladijn en van Hughen van Tabaryen van Hein van Aken (fol. 229va-231ra), Der leken spieghel (2, 44-45 en 3, 6-15) van Jan van Boendale (fol. 235ra-261vb), Van zeden (fol. 261vb-265ra), de Rijmkroniek van Vlaanderen (fol. 282ra-346rb).</BRON.OPM>
+<EDITIE>E. Bonebakker (ed.): Van Sente Brandane, naar het Comburgsche en het Hulthemsche Handschrift. Amsterdam, 1894.</EDITIE>
+<STATUS>Kritisch</STATUS>
+<BRONMNW>121</BRONMNW>
+<BRONMNW>87.2.1 (andere editie)</BRONMNW>
+<BRONMNW>119 (andere editie)</BRONMNW>
+<BRONMNW>120 (ander handschrift)</BRONMNW>
+<EDITIE.OPM>Parallel aan de tekst van het Comburgse handschrift geeft de editie Bonebakker ook de (incomplete) tekst van het Hulthemse handschrift (hs. Brussel, Koninklijke Bibliotheek, 15589-623, fol. 1ra-10ra), die hier niet werd opgenomen. De foli&euml;ring van het handschrift, die in de editie Bonebakker ontbreekt, werd hier toegevoegd.</EDITIE.OPM>
+<BRONNEN>Stuttgart, W&uuml;rttembergische Landesbibliothek, Cod. poet. et philol. fol. 22</BRONNEN>
+</fileDesc>
+</teiHeader>
+--><text>
+<head type="title"><pb n="1"/><milestone unit="fol" n="199ra"/> VAN SENTE BRANDANE.</head>
+<l>Nu verneemt, hoe over lanc</l>
+<l>Een heere was in Yerlant,</l>
+<l>Die sach menich Gods teekijn.</l>
+<l>Wildi dies gheloovende zijn,</l>
+<l n="5">So hoort wonder, ghi heeren!</l>
+<l>Die Heleghe Gheest moet mi leeren,</l>
+<l>Die welke der ezelinnen</l>
+<l>Wijlen dede sprekens beghinnen,</l>
+<l>Daer up dat reet Balaam,</l>
+<l n="10">Dat was een heydin man,</l>
+<l>Dat so meinschelike sprac,</l>
+<l>Daer sij den inghel Gods sach</l>
+<l>Commen in haer ghemoet:</l>
+<l>Den wech hi haer wederstoet</l>
+<l n="15">Met eenen zwerde vierijn;</l>
+<l>Si vloo van den inghel fijn</l>
+<l>Ende dede haren heere cont.</l>
+<l>Dese moete ontsluten minen mont:</l>
+<l>Die ghene die haer gaf de macht,</l>
+<l n="20">Datsi wert redene acht.</l>
+<l>Een helich man was sonder waen,</l>
+<l>Gheheeten so was hi Brandaen,</l>
+<l>Abdt was hi ende regement</l>
+<l>Van III&supm; moonken of daer omtrent,</l>
+<l n="25">Gheboren hute Yberne,</l>
+<l>Gode diendi wel gherne.</l>
+<l>Dese vant, int ondersoucken,</l>
+<l>Bescreven in houden boucken</l>
+<l>Van vele teekenen ons Heeren;</l>
+<l n="30"><pb n="2"/> Hoort! hier moghedi leeren</l>
+<l>Van den goeden Gods wijse,</l>
+<l>Hoe dat twee paradijse</l>
+<l>Boven der eerden waren;</l>
+<l>Doe las hi voort te waren</l>
+<l n="35">Van vele wonders, datmer in vant</l>
+<l>Ende menich groot eylant;</l>
+<l>Ooc las de wijse heere,</l>
+<l>Hoe dat eene weerelt weere</l>
+<l>Hier onder dese eerde</l>
+<l n="40"><milestone unit="fol" n="179rb"/> Ende alst hier dach werde,</l>
+<l>Dat daer dan nacht zye.</l>
+<l>Hi las dat hemele waren drie;</l>
+<l>Van visschen hi ghescreven vant,</l>
+<l>Hoe dat een wout ende een lant</l>
+<l n="45">Ghewassen stont up zine zwaerde:</l>
+<l>Dat wederseidi aerde,</l>
+<l>Om datso onghelovich was.</l>
+<l>Ooc las hi, hoe dat Judas</l>
+<l>Gheniette Gods ontfaermichede</l>
+<l n="50">Ende hi ghenade hadde mede</l>
+<l>Alle sondaghes nachte.</l>
+<l>Hi en wilde no hi en mochte</l>
+<l>Dies emmer niet gheloven,</l>
+<l>Hi en saecht met zinen oghen.</l>
+<l n="55">Van toorne verberrendi den bouc</l>
+<l>Ende gaf den scrivere eenen vlouc;</l>
+<l>Dat becochti zint wel diere;</l>
+<l>Daer hi stont bi den viere,</l>
+<l>Daer die bouc in bernende lach,</l>
+<l n="60">Die inghel Gods hem toe sprac:</l>
+<l>"O lieve vrient Brandaen,</l>
+<l>Du heves evele mesdaen,</l>
+<l>Dat over mids dinen toren</l>
+<l>Die waerheit dus es verloren.</l>
+<l n="65">Nu laettene bernen daer inne:</l>
+<l>Di wert noch wel in inne,</l>
+<l>Wat waer ofte loghene es:</l>
+<l>Di ontbiet Jhesus Kerst,</l>
+<l>Dattu suls gaen varen</l>
+<l n="70">Up des zeewes baren</l>
+<l>Al omme ende omme IX jaer;</l>
+<l>Du sult bescauwen, wat es waer</l>
+<l>Of wat loghene si mede."</l>
+<l><edition n="3"/>Dat wart hem grote pijnlichede.</l>
+<l n="75">Dus galt hi den bouc</l>
+<l>Ende leet omme dien vlouc</l>
+<l>Wel meneghen grooten noot</l>
+<l>Ende voer daert God gheboot.</l>
+<l>Doe Brandaen die heleghe man</l>
+<l n="80">Also te rechte vernam,</l>
+<l>Wat hem God selve ontboot,</l>
+<l><milestone unit="fol" n="179va"/> Doe was sijn zorghe al te groot</l>
+<l>Ende hi bat onsen Heere,</l>
+<l>Dor zijnre moeder eere,</l>
+<l n="85">So wat hem gheviele,</l>
+<l>Dat hi behilde zine siele,</l>
+<l>Ende hi hem wilde bewaren</l>
+<l>Ende tsiere ghenaden doen varen.</l>
+<l>Doe ghinc Brandaen te hant</l>
+<l n="90">An des zewes kant</l>
+<l>Ende dede eenen kiel tauwen,</l>
+<l>Vaste ende ghetrauwen:</l>
+<l>Die mast was vuerijn hout;</l>
+<l>Dat zeil dede hi menichfout</l>
+<l n="95">Besnijden ende bewinden;</l>
+<l>Den kyel dede hi binden</l>
+<l>Met ysere arde staerke,</l>
+<l>Na die houde aerke,</l>
+<l>Die Noe wielen vrochte,</l>
+<l n="100">Doe hi die dylovie vruchte.</l>
+<l>Den ancker maecte hi stalijn,</l>
+<l>Daers hem van noode soude zijn,</l>
+<l>Dat hi behilde dat lant.</l>
+<l>Doe dedi al zijn ghewant</l>
+<l n="105">In den scepe draghen doe</l>
+<l>Ende LXXX manne ghingher in doe:</l>
+<l>Si waren daer in IX jaer.</l>
+<l>Ooc dede hi, dat was waer,</l>
+<l>Een cappelle, met wijsen zinne,</l>
+<l n="110">Wel werken daer inne</l>
+<l>Ende daer in clocken ende helichdom,</l>
+<l>Dies hi mochte houden rom.</l>
+<l>Ooc voerde hi van Yberne</l>
+<l>Pestier ende querne,</l>
+<l n="115">Smessen ende ander ghemac,</l>
+<l>Als die legende mi vertrac;</l>
+<l>Dit dedi al daer inne.</l>
+<l><edition n="4"/>Dus voer hi wech met sinne.</l>
+<l>Wel verghinct hem in den kiel,</l>
+<l n="120">Dat hem niet en mesviel.</l>
+<l>Met hem nam hi twee capellane:</l>
+<l>Van den eenen quam hem zint ane,</l>
+<l>Dat hine om eenen roof verloos.</l>
+<l><milestone unit="fol" n="179vb"/> Dies wart hem God so vriendeloos.</l>
+<l n="125">So datten hem nam die viant</l>
+<l>Omme eens breydels ghewant,</l>
+<l>Dien hi nam sonder orlof.</l>
+<l>Omme dat die duvele dien roof</l>
+<l>Vant in sine ghewout,</l>
+<l n="130">Ay hoe zeere hi dat ontgout,</l>
+<l>Dat hijt ye ghedochte!</l>
+<l>Dies deden wel onsochte</l>
+<l>Die duvele ter hellen viere,</l>
+<l>Daer hijt becochte wel diere,</l>
+<l n="135">Tote dattene die heleghe man</l>
+<l>Met zijnre beden weder ghewan.</l>
+<l>Doe hi te scepe gaen began,</l>
+<l>Vant hi thooft van eenen doden man</l>
+<l>Voor hem ligghende up tsant:</l>
+<l n="140">Die vloet dreeft an tlant.</l>
+<l>Dat hooft was arde groot:</l>
+<l>Nye en sach hi des ghenoot;</l>
+<l>Dat voor hooft was hem breet</l>
+<l>Wel vijf voete, God weet.</l>
+<l n="145">Doe bemaendijt wel diere</l>
+<l>Bi Gode, vele sciere,</l>
+<l>Dat hi hem dade verstaen,</l>
+<l>Hoe zijn leven was ghedaen.</l>
+<l>Thooft jeghen Brandane sprac</l>
+<l n="150">Ende seide: "al doet mi onghemac,</l>
+<l>Ic wilt di segghen saen,</l>
+<l>Hoe mijn leven was ghedaen:</l>
+<l>Ic was een heydin man;</l>
+<l>Om mijn ghewin quam ic daer an,</l>
+<l n="155">Dat ic arde dicwile woet</l>
+<l>Over des zeewes vloet.</l>
+<l>Ic was groot ende stranc</l>
+<l>Ende ic was wel C voete lanc;</l>
+<l>Dus woedic in die diepe zee</l>
+<l n="160">Ende dede den ghenen wee,</l>
+<l>Die hier up die zee baren</l>
+<l><edition n="5"/>Met scepen wilden varen:</l>
+<l>Hem nam ic have ende goet.</l>
+<l>Eens so wies zeere die vloet</l>
+<l n="165">Met eenen storme, die was stranc.</l>
+<l><milestone unit="fol" n="180ra"/> Al haddic ghesijn noch so lanc,</l>
+<l>Ic en hadde niet vonden gront,</l>
+<l>Daer ic teerst toter borst in stont.</l>
+<l>Doe en conste ics niet ghenesen:</l>
+<l n="170">Dus moeste mijn sterfdach wesen,</l>
+<l>Also van allen dinghen moet,</l>
+<l>Sijn si quaet ofte goet,</l>
+<l>Sonder die pine der hellen,</l>
+<l>Daer die zielen in quellen,</l>
+<l n="175">Ende daer si sonder eenich hende</l>
+<l>Dooghen wee ende allende,</l>
+<l>Ende ooc dat paradijs,</l>
+<l>Dat den saleghen es wijs,</l>
+<l>Daer si hebben eewelike</l>
+<l n="180">Die bliscap arde rike."</l>
+<l>Doe sprac Sente Brandaen</l>
+<l>Weder arde saen:</l>
+<l>"Of ic Gode verbidden can,</l>
+<l>Dat hi hu weder hus lives jan",</l>
+<l n="185">Sprac Sente Brandaen,</l>
+<l>"Soutstu doopzel willen ontfaen</l>
+<l>Ende pinen om die Gods hulde?</l>
+<l>Ic verghave di dine sculde.</l>
+<l>So mach di werden wijs,</l>
+<l n="190">Dat eeweghe paradijs."</l>
+<l>Doe sprac die heydin man:</l>
+<l>"Moestic weder sterven dan?"</l>
+<l>"Ja ghi", sprac Sente Brandaen,</l>
+<l>"Dies en mochti niet ontgaen."</l>
+<l n="195">Doe sprac die heydin man:</l>
+<l>"Of ic mi doopte ende ic dan</l>
+<l>Niet en conste wederstaen,</l>
+<l>Ic en worde den viant onderdaen.</l>
+<l>Hi pijnt hem nacht ende dach,</l>
+<l n="200">Hoe hi den meinsche bedrieghen mach.</l>
+<l>Of hi mi maecte so lief</l>
+<l>Den scat, dat ic ware een dief;</l>
+<l>Ende ic dade al sulke werke,</l>
+<l>Die onse sceppere verbiedet sterke,</l>
+<l n="205">Dan soudemen ter hellen</l>
+<l><edition n="6"/>Mine ziele vele mee quellen,</l>
+<l>Dan so nu ghequellet es;</l>
+<l><milestone unit="fol" n="180rb"/> Dies bem ic wel ghewes;</l>
+<l>Want die doopzel hebben ontfaen</l>
+<l n="210">Enter Gods wet af staen,</l>
+<l>Also scriftuere leert hier,</l>
+<l>Die ziele wert int helsche vier</l>
+<l>Vele meer ghepinet al te fel,</l>
+<l>Dan wi zijn, dat weet ic wel.</l>
+<l n="215">Want ons niemen en leert</l>
+<l>No te zijnre wetten keert.</l>
+<l>Dus vreesic, waert dat ic doopsel ontfinghe</l>
+<l>Ende mijnre wet dan af ghinge,</l>
+<l>Waert vrouch of spade,</l>
+<l n="220">Bi des viants quade rade,</l>
+<l>Omme have ofte om goet,</l>
+<l>Also menich meinsche doet,</l>
+<l>Dat men mi dan ter hellen</l>
+<l>Vele mee soude quellen,</l>
+<l n="225">Dan ic nu ghepijnt bin;</l>
+<l>Want mine ghelike pijntmen min,</l>
+<l>Dan die doopsel hebben ontfaen</l>
+<l>Ende harer wet af zijn ghegaen.</l>
+<l>Nochtan so vreesic mee die noot,</l>
+<l n="230">Die mi weder soude doen die doot,</l>
+<l>Wanneer so weder tote mi quame,</l>
+<l>Ende soe mi bename</l>
+<l>Beede sitten ende staen</l>
+<l>Ende loopen ende gaen</l>
+<l n="235">Ende heten ende drincken</l>
+<l>Ende spreken ende ghedincken</l>
+<l>Horen ende spreken,</l>
+<l>Ende mine aderen souden breken,</l>
+<l>Ende mine ziele soude varen</l>
+<l n="240">Weder ter aermer scaren.</l>
+<l>Al ware al de weerelt dijn,</l>
+<l>Ende soe ooc ware root ghuldijn,</l>
+<l>Ende ghise mi mocht gheven</l>
+<l>Ende daer toe met blischepen soude leven</l>
+<l n="245">Noch II&supm; der jaren,</l>
+<l>Ic en naemse niet te waren,</l>
+<l>Dies ghelooft, dor den noot;</l>
+<l>So sterc es die pijne der doot.</l>
+<l>Dies willic weder varen</l>
+<l n="250"><pb n="7"/><milestone unit="fol" n="180va"/> Te mijnre aermer scaren</l>
+<l>In die deemsternesse."</l>
+<l>"So vare dan ghewesse,</l>
+<l>Daert di God jonne, saen",</l>
+<l>Sprac de goede Sente Brandaen.</l>
+<l n="255">Dus voer die heydin man,</l>
+<l>Aldaer hem God ghejan,</l>
+<l>Ter stede daer God woude.</l>
+<l>Sente Brandaen keerde houde</l>
+<l>Te scepe om sinen noot,</l>
+<l n="260">Also hem God selve gheboot.</l>
+<l>Doe si te scepe quamen</l>
+<l>Ende orlof ghenamen</l>
+<l>An vrienden ende maghen mede,</l>
+<l>Gode bevalen sise ter stede.</l>
+<l n="265">Tseyl si an den mast keerden,</l>
+<l>Also hem die winde leerden;</l>
+<l>Haer riemers si hute stoten;</l>
+<l>Met ghemake datsi vloten.</l>
+<l>Ay, hoe scone dat tscip vloot!</l>
+<l n="270">Cort quamen si in groter noot,</l>
+<l>Want een dier al te wonderlijc,</l>
+<l>Eenen lind drake ghelijc,</l>
+<l>Wilde verzwelghen haren kiel;</l>
+<l>Hem was sine mule ende sijn giel</l>
+<l n="275">Menich ghelachte wijt.</l>
+<l>No eer no na dier tijt</l>
+<l>En quamen si in meerren noot.</l>
+<l>Een wolke boven hem ontsloot;</l>
+<l>Daer hute quam een dier wonderlijc</l>
+<l n="280">Vlieghende, eenen hert ghelijc;</l>
+<l>Dat jaghede met ghemake</l>
+<l>Den groten zee lind drake,</l>
+<l>So datten al verdreef;</l>
+<l>Datsi ne wisten waer hi bleef.</l>
+<l n="285">Doe hi dat hadde ghedaen,</l>
+<l>Keerdi weder saen</l>
+<l>In die wolken, danen hi quam.</l>
+<l>Doe Sente Brandaen dat vernam,</l>
+<l>Was hi blide ende vro</l>
+<l n="290">Ende danckets onsen Heere also.</l>
+<l>Doe hi van den drake was verloost,</l>
+<l><milestone unit="fol" n="180vb"/> Te Gode meerderde sijn troost.</l>
+<l>Doe voeresi met ghemake</l>
+<l><edition n="8"/>Up des zeewes vlake.</l>
+<l n="295">Doe versach Sente Brandaen</l>
+<l>Eenen sconen werf staen:</l>
+<l>Hi dochte den wijsen heere</l>
+<l>Wel VI milen lanc of meere;</l>
+<l>Die stont up den rugghe van eenen vissch[e];</l>
+<l n="300">Die bouc maect ons ghewisse,</l>
+<l>Dat daer een soete water ant meere gaet:</l>
+<l>Daer hadde die visch sinen haet</l>
+<l>Ghenomen wel menich jaer,</l>
+<l>So die bouc seit, over waer.</l>
+<l n="305">Daer up dien werf stont een wout.</l>
+<l>Die Gods helden bout</l>
+<l>Trocken haer scip in een havene</l>
+<l>Ende ghinghen alle doe ave</l>
+<l>Ghenen sconen werf scauwen;</l>
+<l n="310">Si ghinghen ooc hout houwen,</l>
+<l>Omme te ziedene haer heten;</l>
+<l>Die hongher liets hem niet vergheten.</l>
+<l>Haren ketel si up hinghen;</l>
+<l>Om hout datsi ghinghen,</l>
+<l n="315">Eenen drooghen boom si vonden;</l>
+<l>Doe sine te houwene begonden,</l>
+<l>Doe so scoot al dat eylant</l>
+<l>Onder twater al te hant,</l>
+<l>So dat die heleghe man</l>
+<l n="320">Te tijde cume sijn scip ghewan;</l>
+<l>Met haesten si int scip [s]pronghen;</l>
+<l>Den lof Gods datsi zonghen,</l>
+<l>Dat hise bi der ghenaden zine</l>
+<l>Verloost hadde van dier pine.</l>
+<l n="325">Die werf die ghinc al onder.</l>
+<l>Dit was dat derde wonder,</l>
+<l>Dat die heeren saghen.</l>
+<l>Die wint die ghincse jaghen</l>
+<l>Bi den zeyle vaste;</l>
+<l n="330">Doe leden si meneghe onraste</l>
+<l>Ende menich onghemac.</l>
+<l>Die heleghe abdt doe sprac:</l>
+<l>"Dit mochte wel een visch zijn,</l>
+<l><milestone unit="fol" n="181ra"/> Die desen werf dus trac in;</l>
+<l n="335">Seker hi was wel hout,</l>
+<l>Eer ghewies al dat hout</l>
+<l>Up sinen rugghe braden."</l>
+<l><edition n="9"/>Gode si dicken baden</l>
+<l>Met ghestaden moede</l>
+<l n="340">Dor sine grote goede,</l>
+<l>Dat hise saen ghesande</l>
+<l>Tote eenen ghestadeghen lande.</l>
+<l>Doe si den vissche ontvaren</l>
+<l>Ende wech zeylende waren,</l>
+<l n="345">Om te ziene meer wonder</l>
+<l>Saghen si een eyselic commer</l>
+<l>Up dwater voor hem gaen;</l>
+<l>Het wilde haer scip vaen</l>
+<l>Ende verderven mettien.</l>
+<l n="350">"Wij en dorvent niet ontsien",</l>
+<l>Sprac Sente Brandaen,</l>
+<l>"Wij en hebben hem niet mesdaen;</l>
+<l>Laet ons scip in Gods hant varen!</l>
+<l>God sal ons van hem bewaren."</l>
+<l n="355">Half waest visch ende half wijf;</l>
+<l>Al ru so was hem dat lijf;</l>
+<l>Dicken omme ghinct den kiel.</l>
+<l>Sente Brandaen neder viel</l>
+<l>Up sine bloote knien</l>
+<l n="360">Ende bat Gode om zijn ontflien;</l>
+<l>Sine moonke baden alle gader;</l>
+<l>Dus verbaden si Gode onsen vader,</l>
+<l>Dat dat vreeselike wonder</l>
+<l>Bezijden haren scepe ghinc onder,</l>
+<l n="365">Dat zijt hoorden borlen ende wallen</l>
+<l>Dien langhen dach al met allen</l>
+<l>In dier dieper zee gronde.</l>
+<l>Doe voeren si voort langhe stonde;</l>
+<l>Doe quamen si zeylende an een eylant,</l>
+<l n="370">Daer Sente Brandaen vant</l>
+<l>Eene pijne wonderlike;</l>
+<l>Sielen als in meinschen ghelike</l>
+<l>Ghinghen ende liepen daer up die zee;</l>
+<l>Hem was leyder arde wee</l>
+<l n="375">Van couden ende van groter hitte.</l>
+<l><milestone unit="fol" n="181rb"/> "O wy! wat mach wesen ditte",</l>
+<l>Sprac die goede Sente Brandaen,</l>
+<l>"Dat dus up die zee can gaen?"</l>
+<l>Si spraken: "wij zijn aerme zielen;</l>
+<l n="380">Dus moeten wij hier gaen ende zwielen</l>
+<l>Ende aldus eewelike leven;</l>
+<l><edition n="10"/>Hadden wi om Gode ghegheven</l>
+<l>Den aermen drincken water scone,</l>
+<l>So waren wi van betren lone.</l>
+<l n="385">Wij waren drossaten ende scijncten;</l>
+<l>Om dat wij dat heten ende drincken,</l>
+<l>Dat ons onse heeren hieten gheven</l>
+<l>Den aermen, doe wi hadden ons leven,</l>
+<l>Ende dat wi dat onthilden den aermen,</l>
+<l n="390">So en wil God onser niet ontfaermen.</l>
+<l>Van couden zijn wi in grooter noot</l>
+<l>Ende van hitten in pijnen groot;</l>
+<l>Van dorste lijden wj bitter wee:</l>
+<l>Al es ons so na die zee,</l>
+<l n="395">Wij segghen hu te waren:</l>
+<l>Wij en moghen in C jaren</l>
+<l>Een dropel niet ghewinnen.</l>
+<l>Helpt ons bi dijnre minnen,</l>
+<l>Brandaen, wel lieve heere!</l>
+<l n="400">Bidt Gode voor ons zeere."</l>
+<l>Sente Brandaen alleene</l>
+<l>Bat Gode met herten reene,</l>
+<l>Dat hi hem lavenesse wilde senden.</l>
+<l>Doe wart dien zielen in haerre allenden</l>
+<l n="405">Van Gode een drincken gheorlooft</l>
+<l>Ende datsi metten watre haer hooft</l>
+<l>Netten mochten metter hant.</l>
+<l>Doe neghen si alle den zant,</l>
+<l>Den heleghen Sente Brandane,</l>
+<l n="410">Die doe keerde van dane</l>
+<l>Met weenenden hoghen</l>
+<l>Ende screef dat Gods vertoghen.</l>
+<l>Doe hiet Sente Brandaen</l>
+<l>Sinen kiele wel ghedaen</l>
+<l n="415">Van dier steden wenden;</l>
+<l>Die aerme zielen in hare allenden,</l>
+<l>Die daer liepen up die zee,</l>
+<l><milestone unit="fol" n="181va"/> Riepen "wach ende wee!"</l>
+<l>Doe de kiel danen vloot,</l>
+<l n="420">Want si bleven in groter noot.</l>
+<l>Doe voeren si met ghemake</l>
+<l>Up die wilde zeewes vlake;</l>
+<l>Doe horden si saen booten</l>
+<l>Meneghen wint grooten;</l>
+<l n="425">Een storem hem an viel;</l>
+<l><edition n="11"/>Die verdreef haren kiel</l>
+<l>Noort waert an dat Lever meere,</l>
+<l>Daer dat cleene Gods heere</l>
+<l>Wel na verzeylt was in groter noot:</l>
+<l n="430">Si waerre wel na bleven doot.</l>
+<l>Dit verzach Sente Brandaen:</l>
+<l>Menich scip aldaer staen</l>
+<l>Ende meneghen mast boom waghen,</l>
+<l>Huter lever zee daer raghen:</l>
+<l n="435">Het dochte hem zijnde een wout.</l>
+<l>Hoe dicke hem God sine doghet gout!</l>
+<l>Daer sprac van Gods weghen ane</l>
+<l>Eene stemme aldus Brandane:</l>
+<l>"Vare oost waert metten baren,</l>
+<l n="440">Hier moghedi niet voorder varen;</l>
+<l>Daer ligghen steene in die zee,</l>
+<l>Die meneghen scepe doen wee;</l>
+<l>Wat scepe met ysere bi hem quame,</l>
+<l>Tote hem hijt trocke ende name</l>
+<l n="445">Ende het moeste daer al bliven."</l>
+<l>Doe begonstese een wint driven</l>
+<l>Van daer int oost hende</l>
+<l>Jeghen eene steenwende.</l>
+<l>Doe sach Sente Brandaen</l>
+<l n="450">Eenen sconen monster staen;</l>
+<l>Daer woonden moonken inne,</l>
+<l>Die Gode dienden met zinne</l>
+<l>Ende hadden ghedaen menich jaer.</l>
+<l>Snachts so bleef sijn kiel daer</l>
+<l n="455">Onder dien hoghen steene.</l>
+<l>Sente Brandaen alleene</l>
+<l>Ghinc boven up dien hoghen berch;</l>
+<l>Daer vant hi een eerlic werc</l>
+<l>Van dien Gods kinden;</l>
+<l n="460"><milestone unit="fol" n="181vb"/> Niet en conste hi ondervinden,</l>
+<l>Watse daer hadde bracht,</l>
+<l>Sonder alleene die Gods cracht.</l>
+<l>Haer leven was claer ende reene.</l>
+<l>Sulke moonken hebben wi gheene!</l>
+<l n="465">Si riepen alle saen:</l>
+<l>"Sijt willecome, heere, Brandaen!"</l>
+<l>Deser rijcker Gods deghene</l>
+<l>Diere en was maer zevene,</l>
+<l>Hem quam daghelike hare spijse</l>
+<l n="470"><pb n="12"/> Van den eerdschen paradijse:</l>
+<l>Te middaghe brocht hem ghedraghen</l>
+<l>Een duve ende een raven</l>
+<l>Drie broode ende een half ende eenen visch</l>
+<l>Up der goeder lieder disch;</l>
+<l n="475">Die visch quam al ghebraden.</l>
+<l>Wel zeere si doe baden</l>
+<l>Den heleghen Brandane</l>
+<l>Den Gods onderdane,</l>
+<l>Dat hi met hem wilde heten gaen.</l>
+<l n="480">Doe sprac Sente Brandaen</l>
+<l>Harde wijselike:</l>
+<l>"Mijn Heere God es so rijke</l>
+<l>God van den paradijse,</l>
+<l>Hi hadde mi mine spijse</l>
+<l n="485">Harde wel ghesent hare,</l>
+<l>Wiste hi dat ics werdich ware.</l>
+<l>Hoe gherne ic sine ghenaden doghe!</l>
+<l>Ende dat es mine ghelove:</l>
+<l>Hine wildes niet zenden</l>
+<l n="490">Mi aermen ende allenden,</l>
+<l>Die hu bi ziere ghenaden versach</l>
+<l>Ende tfierde broot ontwee brac,</l>
+<l>Dat hu sijn bode hevet bracht.</l>
+<l>Doe haddi mijns wel ghedacht</l>
+<l n="495">Met zijnre lijfneere God de vader.</l>
+<l>Nu suldi alle gader</l>
+<l>In sinen name heten</l>
+<l>Ende sult ooc alle weten,</l>
+<l>Dat ict late sonder nijt.</l>
+<l n="500">God voedt hu talre tijt</l>
+<l>Up desen dorren steene;</l>
+<l><milestone unit="fol" n="182ra"/> Ic hebbe van Gode te leene</l>
+<l>Van visschen, vruchten ende brode:</l>
+<l>Alles, dies ic bem van noode,</l>
+<l n="505">Hebbic in minen kiele.</l>
+<l>Over mine aerme ziele</l>
+<l>Bidt Gode van hemelrike,</l>
+<l>Dat hi haer gheve sijn rike."</l>
+<l>Dus so bat hi Gode;</l>
+<l n="510">Doe quam die hemelsche bode</l>
+<l>Ende brochte hem sine spijse</l>
+<l>Van den Gods pardijse.</l>
+<l>Doe de heeren hadden gheten,</l>
+<l><edition n="13"/>So laet ons die bouc weten,</l>
+<l n="515">Dat Brandaen die heleghe man</l>
+<l>An die heeren orlof nam;</l>
+<l>Entie heleghe Brandaen</l>
+<l>Ghinc weder te scepe saen.</l>
+<l>Daar quam een zuut westen wint;</l>
+<l n="520">Die dreef hem, also hi kint,</l>
+<l>Weder noort oost te dale</l>
+<l>Up die wilde zee scale.</l>
+<l>Daer leden si menich wee:</l>
+<l>Doe vonden si in die zee</l>
+<l n="525">Eenen steen so hooghe,</l>
+<l>Sinen consten niet verhooghen.</l>
+<l>Up dien selven hoghen steene</l>
+<l>So sat een man alleene,</l>
+<l>Die ru was als een beere;</l>
+<l n="530">Hi en sach niet dan lucht ende meere;</l>
+<l>Dat was een clusenare.</l>
+<l>Hoe dat hi daer commen ware,</l>
+<l>Vraechde hem Sente Brandaen;</l>
+<l>"Ic bem den moonken onderdaen,"</l>
+<l n="535">Seide hi weder, "gheloves mi!</l>
+<l>Daer du dese weke waers bi.</l>
+<l>Ic hebbe gheseten alleene</l>
+<l>Up dezen hooghen steene</l>
+<l>Een jaer min dan C jare;</l>
+<l n="540">God heeft mi tote hare</l>
+<l>Daghelics sine spijse ghegheven,</l>
+<l>Bi sinen trooste moetic leven,</l>
+<l>So dat God wel weet,</l>
+<l><milestone unit="fol" n="182rb"/> Dat ic sint anders niet ontbeet,</l>
+<l n="545">Van dat ic eerst hier quam,</l>
+<l>Ende ic nye zint en vernam</l>
+<l>Levenden meinsche nemmermeere</l>
+<l>Dan hu, wel lieve heere."</l>
+<l>Doe vraechde hem Sente Brandaen,</l>
+<l n="550">Hoe sijn leven was ghedaen,</l>
+<l>Eer hi daer commen ware.</l>
+<l>Doe sprac die clusenare:</l>
+<l>"Ic secht di, ghewaerlike,</l>
+<l>Ic was een coninc rike:</l>
+<l n="555">Pantifilia hiet mijn lant;</l>
+<l>In Capidocia een ander ghenamt</l>
+<l>Daer nam ic een scone wijf;</l>
+<l><edition n="14"/>Dies lijdet groote pijne mijn lijf</l>
+<l>Want het was de suster mine;</l>
+<l n="560">Dies dooghic groote pine.</l>
+<l>Daer bi so haddic sonen twee:</l>
+<l>Dies lijdic menich wee.</l>
+<l>Doe dhoudste te sinen scilde quam,</l>
+<l>Sijn lijf dat ic hem nam</l>
+<l n="565">Dor minen grammen moet;</l>
+<l>Daer dandre bi eenen scepe stoet,</l>
+<l>Nam hem een donder slach sijn lijf.</l>
+<l>Ooc versloughic mijn scone wijf.</l>
+<l>Doe alle die zonden up mi laghen,</l>
+<l n="570">Doe vreesdic die Gods plaghen</l>
+<l>Ende ic ghinc haestelike</l>
+<l>Ende liet al mijn rike</l>
+<l>Beede vrienden ende maghen</l>
+<l>Ende ghinc te scepe in dien daghe</l>
+<l n="575">Ende wilde mine groote zonden</l>
+<l>Varen den paeus orconden.</l>
+<l>Doe rees een storem up die zee,</l>
+<l>Die mi dede harde wee,</l>
+<l>Also ic hu mach vertellen</l>
+<l n="580">Dier bedorven alle mijn ghesellen,</l>
+<l>Maer ic ontclam alleene</l>
+<l>Up desen hooghen steene</l>
+<l>Ende claechde mine mesdaet</l>
+<l>Hem, die mi gescepen haet.</l>
+<l n="585">Hier wachte ic zijnre ghenaden</l>
+<l><milestone unit="fol" n="182va"/> Van minen grooten mesdaden.</l>
+<l>Ic sechdi ooc vorware:</l>
+<l>Ic hore hier openbare</l>
+<l>Elker daghelike</l>
+<l n="590">Den sanc van hemelrike."</l>
+<l>Doe seide Sente Brandaen:</l>
+<l>"Secht mi, lieve heere, saen:</l>
+<l>Als hu dat coude ane gheet,</l>
+<l>Hoe moghedi sonder cleet,</l>
+<l n="595">Van couden hier ghewesen?</l>
+<l>Van lieden hebbic ghelesen,</l>
+<l>Dat waren eenzedelen</l>
+<l>Ende dienden Gode den edelen,</l>
+<l>Die alles ghemacx vergaten:</l>
+<l n="600">Niet dan tcruut si en haten;</l>
+<l>Maer in bosschen ende in velde,</l>
+<l><edition n="15"/>Daer hem elc te sine stelde,</l>
+<l>Of in duwieren of in riede</l>
+<l>Behilden hem die goede liede,</l>
+<l n="605">Dat hem tcoude niet mochte deeren."</l>
+<l>"Mach ic die siele gheneeren,"</l>
+<l>Sprac die ruwe clusenare,</l>
+<l>"So hebbic arde ommare,</l>
+<l>Wat noode dat mijn vleesch heeft,</l>
+<l n="610">Die wijle dat hier leeft.</l>
+<l>Als ic hier sitte sonder waen</l>
+<l>Ende mi die coude te seere bestaen,</l>
+<l>Slupe ic in eenen hole sciere</l>
+<l>Onder eenen tempel hiere;</l>
+<l n="615">Daer verbeide ic dat ghestille.</l>
+<l>Ic wane, het es Gods wille,</l>
+<l>Dat mijn lichame ende mijn beene</l>
+<l>Up desen hoghen steene</l>
+<l>Den domsdach moeten verbeiden.</l>
+<l n="620">God moete hu gheleiden!</l>
+<l>Ic en spreke jeghen hu nemmeere.</l>
+<l>God onse lieve heere</l>
+<l>Die gheve hier na eewelike</l>
+<l>Ons allen zijn hemelrike."</l>
+<l n="625">Sente Brandaen voer van dannen</l>
+<l>Met sinen Gods mannen</l>
+<l>Up des zeewes vloede;</l>
+<l><milestone unit="fol" n="182vb"/> Daer worden si arde moede</l>
+<l>Van den winde metten baren,</l>
+<l n="630">Daer si in moesten varen.</l>
+<l>Daer dreven si metten winde</l>
+<l>Weder int allinde</l>
+<l>An eene vreeselike stat:</l>
+<l>Die bouc die seit ons dat,</l>
+<l n="635">Dat hi eere hellen pit verzach,</l>
+<l>Daermen in riep "O wy, o wach!"</l>
+<l>An eenen donckeren berghe.</l>
+<l>Daer waren in zwaren erghe</l>
+<l>Arde vele aermer zielen,</l>
+<l n="640">Die daer branden ende wielen.</l>
+<l>Dien berch bernet emmermeere.</l>
+<l>Daer es meneghe ziele in zeere.</l>
+<l>Daer en hordi anders niet mee,</l>
+<l>Dan "o wy!" ende "wach!" ende "wee!"</l>
+<l n="645">Daer hoordi crijsel tanden;</l>
+<l><edition n="16"/>Daer sach hi vlieghen die branden</l>
+<l>In die wolken hooghe up waert.</l>
+<l>Sente Brandaen sprac ter vaert</l>
+<l>Ten proofst, die der hellen plach:</l>
+<l n="650">"Segghe mi, oft wesen mach:</l>
+<l>Wat es die grote omminne,</l>
+<l>Die ic nu daer hore inne?"</l>
+<l>Doe seide een der pijn heeren:</l>
+<l>"Hier zijn vooghde ende onrechte heeren,</l>
+<l n="655">Dat moochdi ghetrauwen,</l>
+<l>Ende ooc ongherechte vrauwen;</l>
+<l>Loose meyeren ende loose schepenen</l>
+<l>Die moetent nu hier berekenen.</l>
+<l>Ic sechdi noch meerre wonder:</l>
+<l n="660">Die wroughers sijn hier onder</l>
+<l>Ende alle die verraderen;</l>
+<l>Die moeten wi hier vergaderen</l>
+<l>In dit diepe afgronde,</l>
+<l>Die alle met haren monde</l>
+<l n="665">Dat alle weghe ontfaen,</l>
+<l>Dat van hem quam ghegaen</l>
+<l>Van alre bozer dinghe;</l>
+<l>Dits haer loon in waerliker dinghe.</l>
+<l>Om datsi dies ghedochten,</l>
+<l n="670"><milestone unit="fol" n="183ra"/> Datsi hare heeren brochten,</l>
+<l>Datsi om cleene mieden</l>
+<l>Mesvoerden die aerme lieden,</l>
+<l>Daer omme so moeten si hier</l>
+<l>Bernen in dit heete vier.</l>
+<l n="675">Ooc zijn hier ander zielen,</l>
+<l>Die in sonden vielen:</l>
+<l>In overden in ghiericheit,</l>
+<l>In alrande boosheit,</l>
+<l>Entie met booser scalchede</l>
+<l n="680">Haren evenkerstin mede</l>
+<l>Dicken hebben verordeelt.</l>
+<l>Dies werden si eewelic hier verzeelt,</l>
+<l>Om datsi niet wilden afstaen</l>
+<l>No rechte boete ontfaen."</l>
+<l n="685">Doe riepen die aerme zielen:</l>
+<l>"Brandaen heere, wi zwielen</l>
+<l>In wel bittre carijne</l>
+<l>In dese groote pijne.</l>
+<l>Brandaen wel lieve heere,</l>
+<l n="690"><pb n="17"/> Bidt Gode voor ons zeere!"</l>
+<l>Die duvel hieten wech varen;</l>
+<l>"Ic segghe hu", sprac hi te waren,</l>
+<l>"Ghi en wert niet zijnre hulpen vro;</l>
+<l>Hi en mach hu helpen niet een stro;</l>
+<l n="695">Gh[i] roupt al jeghen spoet;</l>
+<l>Ghi en hadt nye wille no moet,</l>
+<l>Om Gods wille te doene:</l>
+<l>Dus en hebdi nemmermeer zoene."</l>
+<l>Een evel stanc hem ane viel;</l>
+<l n="700">Doe keerdi danen sinen kiel</l>
+<l>Ende si quamen an een eylant;</l>
+<l>Daer ghinc die zorghe in hant,</l>
+<l>Want arde doncker waest daer;</l>
+<l>Daer en waest niewers claer,</l>
+<l n="705">Maer die gront der zee was goudijn</l>
+<l>Daer dat slijc soude zijn.</l>
+<l>Ooc waren daer edele steene</l>
+<l>Om dien kiel al ghemeene:</l>
+<l>Wel menich edel carbonckel,</l>
+<l n="710">Al waest daer arde doncker,</l>
+<l>Hadde daer God verborghen.</l>
+<l><milestone unit="fol" n="183rb"/> Daer laghen si in groter zorghen</l>
+<l>Drie nachte ende drie daghen,</l>
+<l>So datsi niet en saghen</l>
+<l n="715">Sonne, mane no sterren licht;</l>
+<l>Des saghen si twint nicht,</l>
+<l>Maer al donckernesse sonder dach.</l>
+<l>Die kiel daer al stille lach.</l>
+<l>Doe hiet Sente Brandaen</l>
+<l n="720">Eene barke wel ghedaen</l>
+<l>Huten kiele trecken;</l>
+<l>Daer in spronghen die recken</l>
+<l>Ende voeren met zinne,</l>
+<l>Datsi quamen daer inne.</l>
+<l n="725">Doe voeren si in een eylant,</l>
+<l>Daer die Gods wygant</l>
+<l>Liet sinen kyel staen,</l>
+<l>Also wij vernomen haen.</l>
+<l>Daer ghinghen si up te hant,</l>
+<l n="730">Ende doe si quamen up dat sant,</l>
+<l>Waren si blijde ende vroo.</l>
+<l>Met Sente Brandane ghinghen si doe</l>
+<l>Neven een water te dale</l>
+<l><edition n="18"/>Tote eene der scoonster zale,</l>
+<l n="735">Die nye kerstin man sach</l>
+<l>Alsic hu mach doen ghewach.</l>
+<l>Die zale was buten ghuldijn;</l>
+<l>Dat die stijle souden zijn</l>
+<l>Dat was al karbonkel:</l>
+<l n="740">Daer en was gheen so doncker,</l>
+<l>Hi en lichte alse tsonne scijn.</l>
+<l>Voor die zale spranc een water fijn;</l>
+<l>Daer was so vele goets in,</l>
+<l>Dat vulprijsen mochte gheen zin;</l>
+<l n="745">Balseme ende tyroop</l>
+<l>Dies was daer goeden coop;</l>
+<l>Olyve honich ende zeem</l>
+<l>Dat vloyde daer over een:</l>
+<l>In IIII aderen het vloot;</l>
+<l n="750">Dat dochte hem wonder groot.</l>
+<l>Om dien selven borne scone</l>
+<l>Daer was meneghe wone;</l>
+<l>Daer stonden vele bome scone</l>
+<l><milestone unit="fol" n="183va"/> Al omme als eene crone:</l>
+<l n="755">Daer stonden menich cedrus</l>
+<l>Ende menich platanus</l>
+<l>Ende furijn ende wijngaerde</l>
+<l>Ende bome van meneghen aerde.</l>
+<l>Specien stonden daer so vele,</l>
+<l n="760">Dat dat ic hu segghen wele:</l>
+<l>Haddict ghescreven al te male,</l>
+<l>Dat daer stont voor die zale,</l>
+<l>Het soude eer lijden een jaer,</l>
+<l>Eer ict ghescreve over waer,</l>
+<l n="765">In hoe menegher manieren</l>
+<l>Daer bome stonden ende crude diere</l>
+<l>Ende meneghe wonderlike dinc.</l>
+<l>Ay, hoe in twifele ghinc</l>
+<l>Alle dier moonken moet!</l>
+<l n="770">Dwesen dochte hem daer so goet,</l>
+<l>Datsi noode keerden wedere.</l>
+<l>Het schenen scone paeus vederen</l>
+<l>Van der zalen boven dat dac.</l>
+<l>Daer was alle dat ghemac,</l>
+<l n="775">Dat een keyser hebben soude,</l>
+<l>Ende hi feeste houden woude.</l>
+<l>Den moonken quam in haren zin,</l>
+<l><edition n="19"/>Datsi alle gaen daer in,</l>
+<l>Om te siene die scone zale;</l>
+<l n="780">Een der moonken stal daer tien male</l>
+<l>Eenen breydel wel ghedaen;</l>
+<l>Dat sal hi becoopen saen</l>
+<l>Wel zeere sonder twifel;</l>
+<l>Daer stont bi een duvel,</l>
+<l n="785">Diet hem riet met liste.</l>
+<l>Ic wane hijs niet en wiste,</l>
+<l>Waer omme dat hine hem boot.</l>
+<l>Dies leet hi pijne groot.</l>
+<l>Hi riet hem, dat hine name,</l>
+<l n="790">Want hi hem wel ware betame,</l>
+<l>Met te rijdene in zinen lande;</l>
+<l>Dies leet hi groote scande.</l>
+<l>Hi roerdene dat hi waghede;</l>
+<l>Hoe wel dien moonc behaghede,</l>
+<l n="795">Dat hine claer sach scinen!</l>
+<l><milestone unit="fol" n="183vb"/> Dies waren sine pinen</l>
+<l>Ter hellen vele groot,</l>
+<l>Want der duvele conroot</l>
+<l>Pijndene, doe hi daer quam,</l>
+<l n="800">Om datti daer den breidel nam</l>
+<l>In die zale metter hant</l>
+<l>Ende baerchen onder zijn ghewant.</l>
+<l>Doe sijt bezien hadden wale,</l>
+<l>Te hant ruumden si die zale</l>
+<l n="805">Ende ghinghen wech te zamen.</l>
+<l>Doe si een lettel bet voort quamen,</l>
+<l>Doe so sach Sente Brandaen</l>
+<l>Al te scone eene borch daer staen,</l>
+<l>Die scoonre was dan die zale al,</l>
+<l n="810">Daer die moonc den breydel stal.</l>
+<l>Doe saghen si tien tijden</l>
+<l>Al omme, verre ende wijde,</l>
+<l>Dat lant in allen zijden claer;</l>
+<l>Ne gheenen nacht en was daer;</l>
+<l n="815">Daer en was no rijm no snee;</l>
+<l>Daer en dede hem de wint niet wee;</l>
+<l>Van reghene en waest daer niet nat.</l>
+<l>Een houd man aldaer zat</l>
+<l>Voor die poorte vrome:</l>
+<l n="820">Hi was arde scone</l>
+<l>Ende wel ghehaert;</l>
+<l><edition n="20"/>Graeu was hem zijn baert;</l>
+<l>Enter selver borch voren</l>
+<l>Ghinghen jonghelinghen dore</l>
+<l n="825">Arde vele ende ghenouch,</l>
+<l>Also vertellet die bouc</l>
+<l>Ende seit al openbaren,</l>
+<l>Dat het inghele waren.</l>
+<l>In die poorte stont een jonghelinc,</l>
+<l n="830">Die maecte eenen wijden rinc</l>
+<l>Met eenen zwerde vierijn;</l>
+<l>Dat mochte wel die inghel zijn</l>
+<l>Diemen hiet Cherubin,</l>
+<l>Die daer niemen liet commen in,</l>
+<l n="835">No stille no openbare,</l>
+<l>Dan der inghele scare.</l>
+<l>Doe quam Sente Michael,</l>
+<l><milestone unit="fol" n="184ra"/> Die moet ons gheleeden wel!</l>
+<l>Metten anderen jonghelinghen;</l>
+<l n="840">Aldaer die moonken ghinghen,</l>
+<l>Nam hi eenen moonc bi den rocke:</l>
+<l>Bi den aerme ende bi den toppe</l>
+<l>Ende leeddene in die borch dore,</l>
+<l>Daer doe die inghel stont vore</l>
+<l n="845">Met sinen zwerde vierijn.</l>
+<l>"Hier mochten wi wel te langhe zijn",</l>
+<l>Sprac Sente Brandaen doe</l>
+<l>Tote sinen ghesellen toe,</l>
+<l>"Hier hebben wi ghenomen</l>
+<l n="850">Meer scaden dan vromen.</l>
+<l>God heeft ons wonderlike</l>
+<l>Ghemindert in sijn rike;</l>
+<l>Onsen moonc moeten wi hier laten,</l>
+<l>Weder dat ons mach scaden of baten</l>
+<l n="855">Dese muere sijn so hoghe:</l>
+<l>Onser ne gheen canse verhoghen</l>
+<l>No die lanchede verkiesen.</l>
+<l>Hier en willic niet meer verliesen",</l>
+<l>Sprac die heleghe Brandaen,</l>
+<l n="860">"Ic wille weder te scepe gaen."</l>
+<l>Als ons die bouc maect wijs,</l>
+<l>So was dit deertsche paradijs.</l>
+<l>Doe si te scepe quamen</l>
+<l>Ende orlof ghenamen</l>
+<l n="865">Van dier doncker zee ende lande,</l>
+<l><edition n="21"/>Een der moonken doe verkande,</l>
+<l>Dat die gront goudin was.</l>
+<l>Ay, hoe blide waren si das!</l>
+<l>Doe ghinghen si hute met spele</l>
+<l n="870">Ende droughens in den scepe vele,</l>
+<l>Elkerlijc in sine hande,</l>
+<l>Daer si zint mede in haren lande</l>
+<l>Eerden menich gods huus,</l>
+<l>Mettien so hoorden si een gheruusch</l>
+<l n="875">Metten windes vlaken</l>
+<l>Ende een weder also craken</l>
+<l>Ende een vier also blecken,</l>
+<l>Dat die goede Gods recken</l>
+<l>Ontsaghen des hemels vallen.</l>
+<l n="880"><milestone unit="fol" n="184rb"/> Doe quamen die duvele met allen</l>
+<l>Ende heesscheden met rechte</l>
+<l>Den breydel dief, die si zochten;</l>
+<l>Om dat hi den breydel stal,</l>
+<l>Voerden sine in den afgront al.</l>
+<l n="885">Daer moeste hi in der pinen dooten</l>
+<l>Met anderen sine ghenooten.</l>
+<l>Doene begreep die viant,</l>
+<l>Metten breydele hine bant;</l>
+<l>Diefs recht maecte hi hem cont:</l>
+<l n="890">Hi voerdene wers dan een hont;</l>
+<l>Hi sleepten met vleesch ende met beene</l>
+<l>Over struuc ende over steene</l>
+<l>Te zijns heeren aensichte.</l>
+<l>Daer was een groot gheruchte,</l>
+<l n="895">Daer hine voerde te zijnre scolen.</l>
+<l>Die sint meer hebben verstolen,</l>
+<l>Willent al voor niet slaen,</l>
+<l>Maer en sal also niet gaen,</l>
+<l>En si dat zijs af staen</l>
+<l n="900">Ende daer af penitencie ontfaen;</l>
+<l>Anders sullen si moeten quellen</l>
+<l>Metten duvelen in der hellen.</l>
+<l>Sente Brandaen hads toren,</l>
+<l>Dat hi zondelike verloren</l>
+<l n="905">Sinen moonc aldus heeft.</l>
+<l>Met tranen hi aldus claghende zeecht:</l>
+<l>"Waric niet een droghenare,</l>
+<l>God en hadde mi niet so zware</l>
+<l>Ghegheven dese meswende</l>
+<l n="910"><pb n="22"/> Hier in deser allende.</l>
+<l>Dat God des ghehinghet,</l>
+<l>So es mine vaert ghelinget;</l>
+<l>Ic en sceede henen nemmermeere,</l>
+<l>Mi en doe hebben onse Heere</l>
+<l n="915">Minen moonc wedere.</l>
+<l>Eer willic hier nedere</l>
+<l>Soucken ons Heeren oomoet,</l>
+<l>Tote mi die duvele doet</l>
+<l>Minen moonc weder zenden</l>
+<l n="920">Hute der zwaerre allenden."</l>
+<l>Si weenden vele tranen;</l>
+<l><milestone unit="fol" n="184va"/> Gode riepen si ane</l>
+<l>Met herten, vele zeere,</l>
+<l>Dor zijnre moeder eere.</l>
+<l n="925">Doe saghen si een sittijn:</l>
+<l>Met II hornen vierijn,</l>
+<l>Datso lichte daer inne.</l>
+<l>Daer sprac een stemme hute van binnen:</l>
+<l>"Wat wijtstu mi Brandaen?</l>
+<l n="930">Des en hebbic niet ghedaen:</l>
+<l>Die duvel voerdene te zijnre scolen,</l>
+<l>Omme dat hi heeft ghestolen.</l>
+<l>Waer omme belghestu up mi?</l>
+<l>Onsculdich bem ic jeghen di.</l>
+<l n="935">Du wetes wel, dat Adaem</l>
+<l>Om eenen appel, dien hi nam,</l>
+<l>Was in die helle vorwaer</l>
+<l>Daer omme V&supm; jaer.</l>
+<l>Also eist huwen moonc vergaen:</l>
+<l n="940">Met diefs rechte es hi ghevaen</l>
+<l>Ende es der hellen ghegheven."</l>
+<l>"Ne scende, Heere, niet zijn leven!"</l>
+<l>Sprac weder Sente Brandaen,</l>
+<l>"Heeft mijn moonc hiet mesdaen,</l>
+<l n="945">Dies willicken voort bringhen</l>
+<l>Voor hu in allen ghedinghen."</l>
+<l>In cruce si hem strecten,</l>
+<l>Biddende met tranen si wecten</l>
+<l>Gode onsen sceppare.</l>
+<l n="950">Ter herten wart hem zware.</l>
+<l>Haer bede wilden si niet begheven,</l>
+<l>Altoos si daer an bleven,</l>
+<l>Tote die almachteghe God</l>
+<l><edition n="23"/>Den duvele gaf een ghebod,</l>
+<l n="955">Dat hi Brandane tsinen ghevoughe</l>
+<l>Sinen moonc weder droughe</l>
+<l>Toten kiele in der vloeden.</l>
+<l>Onlanghe si daer mede stoeden,</l>
+<l>Hi en ghincker omme loopen.</l>
+<l n="960">Den breydel moesti becoopen!</l>
+<l>Dat hi up sulc een ors zat</l>
+<l>Quam, om dat hi Gods vergat.</l>
+<l>Daer hi dien breydel tien male</l>
+<l><milestone unit="fol" n="184vb"/> Hier voren stal in die zale.</l>
+<l n="965">Der heetter hellen heere</l>
+<l>Torende vele zeere,</l>
+<l>Dat hi dien moonc moeste draghen</l>
+<l>Toten kiele up sine craghen.</l>
+<l>Doe hine brochte up dat boort,</l>
+<l n="970">Doe sprac hi lude, zeere gescoort:</l>
+<l>"Weetstu niet", sprac hi, "Brandaen,</l>
+<l>Dattu mi leede hebs ghedaen?</l>
+<l>Du en laets mi niet behouden,</l>
+<l>Dat wi met rechte hebben souden;</l>
+<l n="975">Du mesdoet jeghen ons, dats waer."</l>
+<l>Die moonc dochte hem arde zwaer</l>
+<l>Ende den wech arde lanc</l>
+<l>Daer hi die letaniere zanc,</l>
+<l>Sittende up sinen bals beene.</l>
+<l n="980">Over stoc ende over steene,</l>
+<l>Daer hi den moonc drouch,</l>
+<l>Drouchine ten kiele ende louch</l>
+<l>Ende warpene in de stevene weder:</l>
+<l>Onsachte sette hine neder.</l>
+<l n="985">Daer was hem sine verwe van eere</l>
+<l>Verwandelde also seere</l>
+<l>Dat sine cume verkanden:</l>
+<l>Pec hadden hem die helsche vianden</l>
+<l>Ghewreven an lijf ende an baert;</l>
+<l n="990">Die huut was hem ter vaert</l>
+<l>Swart bemasschert ende berompen;</l>
+<l>Van stocken ende van tsompen</l>
+<l>Haddi ghehadt meneghen stoot.</l>
+<l>Die duvel scree, daer hi wech scoot,</l>
+<l n="995">Ende vloo van den goeden lieden saen</l>
+<l>Ende die goede Sente Brandaen</l>
+<l>Weende van grooten lieve</l>
+<l><edition n="24"/>Ende sprac toten breydel dieve:</l>
+<l>"Haddi des breydels vermeden</l>
+<l n="1000">Ende met eere aelteren ghereden,</l>
+<l>So en ware hu crune met huwen baerde</l>
+<l>Ende huwen hals niet so aerde</l>
+<l>Swart bepeket no bezinghet;</l>
+<l>Nu hebdi arde zeere ghelinget</l>
+<l n="1005">Up die zee mine vaert."</l>
+<l><milestone unit="fol" n="185ra"/> "Mi es leet dat hi ye ghesmeet wart",</l>
+<l>Sprac die bezijnchde capelaen;</l>
+<l>Doe louch zeere Sente Brandaen.</l>
+<l>Doe aldus Sente Brandaen</l>
+<l n="1010">Weder sinen capelaen</l>
+<l>Ghewan van der hellen,</l>
+<l>So mach ic hu voort tellen,</l>
+<l>Dat hi voer langhe wijle</l>
+<l>Up die zee ende meneghe mile.</l>
+<l n="1015">Doe vernam Sente Brandaen</l>
+<l>Die goede vele saen</l>
+<l>Een dier, dat hiet Cyrene,</l>
+<l>Die slapen doet die ghene,</l>
+<l>Diet horen zinghen ofte sien;</l>
+<l n="1020">Van zijnre bliscap moet gescien</l>
+<l>Ter zee groot ongheweder.</l>
+<l>Doe viel sciere neder</l>
+<l>Sente Brandaen up sine knien</l>
+<l>Ende bat Gode, dat hi moeste ontvlien</l>
+<l n="1025">Dien diere, so hi best can.</l>
+<l>In slape wart die stierman;</l>
+<l>Haer selves si al vergaten,</l>
+<l>Datsi en wisten, waer si saten;</l>
+<l>Elc moonc wel vaste sliep;</l>
+<l n="1030">Die kiel sonder stierman liep</l>
+<l>Tote eenen bernenden berghe dan,</l>
+<l>Daerhute quam loopende een laerc zwart nan;</l>
+<l>Hi riep toten kiele</l>
+<l>Hute zinen grooten ghiele,</l>
+<l n="1035">So hi luuts mochte,</l>
+<l>Ende wecketse arde onsochte;</l>
+<l>Hi hietse tote hem keeren;</l>
+<l>Hi seide, hi soude hem leeren,</l>
+<l>Den meester stierman boude</l>
+<l n="1040">Waer hi best henen soude.</l>
+<l>Doe hiet Sente Brandaen</l>
+<l><edition n="25"/>Sinen kiel wel saen</l>
+<l>Toten berghe keeren,</l>
+<l>Omme dat hi hem soude leeren;</l>
+<l n="1045">Maer des duvels cose</l>
+<l>Die was arde boze;</l>
+<l>Doe seide des duvels bode:</l>
+<l><milestone unit="fol" n="185rb"/> "Mochte ic wel, dor Gode!</l>
+<l>Dinen kiel, heere Brandaen,</l>
+<l n="1050">Die soude eene quade vaert angaen.</l>
+<l>Du soudes ontghelden metter spoet,</l>
+<l>Dattu ons so leede doet.</l>
+<l>In can jeghen hu niet ghehebben;</l>
+<l>God en wille hu niet ontsegghen,</l>
+<l n="1055">So wat dat dijn wille es,</l>
+<l>Want dine bede so moghende es,</l>
+<l>Du souts dat wel ghenieten.</l>
+<l>Lietstu di dat verdrieten,</l>
+<l>Dat hu mijn vernoy niet ware lief!</l>
+<l n="1060">Du naems mi den breydel dief;</l>
+<l>Die achter di sit al daer:</l>
+<l>Hi zweet van anxte, dat es waer,</l>
+<l>Ende van zorghen, die hi heeft ontfaen."</l>
+<l>Doe sprac Sente Brandaen:</l>
+<l n="1065">"Dat es sine boete,</l>
+<l>Dat hi hem wasschen moete;</l>
+<l>Mi ne dinct niet so goet,</l>
+<l>Hier es so scone eene vloet,</l>
+<l>Dat hi hem wel ghewasschen mach."</l>
+<l n="1070">Die moonc scamelike lach:</l>
+<l>Met vele groter zorghen</l>
+<l>So haddi hem gheborghen</l>
+<l>Onder eene scip banc;</l>
+<l>Die tijt dochte hem arde lanc.</l>
+<l n="1075">Die duvel louch zeere omme das,</l>
+<l>Dat hi so zeere vervaert was.</l>
+<l>Doe hi sijn spot hadde ghedreven,</l>
+<l>Bat hi hem, dat hi hem wilde gheven</l>
+<l>Weder sinen capelaen;</l>
+<l n="1080">Hi soudene arde scone dwaen:</l>
+<l>Hi roke up hem te zeere.</l>
+<l>Doe seide die milde heere,</l>
+<l>Die goede Sente Brandaen:</l>
+<l><edition n="26"/>"In gheve hu niet den capelaen;</l>
+<l n="1085">Mi dincke dine cozen</l>
+<l>Onnutte ende ghebozen;</l>
+<l>Dijns sprekens bem ic zat."</l>
+<l>Den stierman hi doe bat,</l>
+<l>Dat hi weder keerde upt meere.</l>
+<l n="1090"><milestone unit="fol" n="185va"/> Doe quam des duvels heere</l>
+<l>Huten berghe ende daden hem wee</l>
+<l>Ende volchden up die zee</l>
+<l>Ende droughen in haer hande</l>
+<l>Groote gloyende brande</l>
+<l n="1095">Ende groote gloyende schichten,</l>
+<l>Als of si wilden vechten;</l>
+<l>Si worpen neder ende stooten</l>
+<l>Up die in den kiel vlooten</l>
+<l>Met groten torne moede;</l>
+<l n="1100">Maer God onse Heere, die goede,</l>
+<l>Behoedese jeghen al mesweghen.</l>
+<l>Ic wane, van boven die reghen</l>
+<l>So dicke nye en viel,</l>
+<l>Alse daer omtrent den kiel</l>
+<l n="1105">Die brandere entie schichte vloghen;</l>
+<l>Die moonken met riemers toghen,</l>
+<l>Omme saen te sine huter noot;</l>
+<l>Dus jaghetse thelsche conroot;</l>
+<l>Si zeylden watsi mochten;</l>
+<l n="1110">Die duvele worpen onsochte</l>
+<l>Na den vluchteghen kiel;</l>
+<l>Den heeren saen gheviel,</l>
+<l>Datsi bi Gods hulpe waren</l>
+<l>Der vreesen al ontvaren.</l>
+<l n="1115">Brandaen voer voort, met trauwen;</l>
+<l>Doe liet hem God bescauwen</l>
+<l>Van inghelen vele scaren,</l>
+<l>Die boven hem quamen ghevaren;</l>
+<l>Die voerden meneghe ziele</l>
+<l n="1120">Boven sinen kiele;</l>
+<l>Den lof Gods si daer boven zonghen,</l>
+<l>Datmen de lucht mochte horen clonghen;</l>
+<l>Dat dede hem God te minnen,</l>
+<l>Dat hi hem liet verkinnen,</l>
+<l n="1125">Wat die gheeste wouden</l>
+<l>Ende waer si henen souden.</l>
+<l>Doe sach Sente Brandaen</l>
+<l><edition n="27"/>Eenen sconen tempel staen</l>
+<l>Met tiene scone choren,</l>
+<l n="1130">Die nye man conste testoren,</l>
+<l>Sonder God, diet vermochte;</l>
+<l><milestone unit="fol" n="185vb"/> Die chierheit te segghene en vermochte</l>
+<l>Ne gheen erdsche man.</l>
+<l>Doe screef Sente Brandaen</l>
+<l n="1135">Alle dwonder, dat hi sach,</l>
+<l>Daer hi in zinen kiele lach.</l>
+<l>Doe Brandaen, die Gods deghen,</l>
+<l>Te rechte hadde al bescreven</l>
+<l>Die twee scone paradise,</l>
+<l n="1140">Doe waende die goede wise,</l>
+<l>Die Gods dienare,</l>
+<l>Dat hi al quite ware</l>
+<l>Van des waters aerme scaren</l>
+<l>Ende hi te lande soude varen.</l>
+<l n="1145">Doe bat die heere goede</l>
+<l>Met eenen neerensten moede</l>
+<l>Onsen eeweliken troost,</l>
+<l>Diene dicken hadde verloost,</l>
+<l>Dat hine saen ghesande</l>
+<l n="1150">Weder te sinen lande.</l>
+<l>Doe quam een vreeselic wint anschijne,</l>
+<l>Die hem verdreef entie zine</l>
+<l>Verre danen up die zee;</l>
+<l>Daer wart hem arde wee:</l>
+<l n="1155">Die storem wart arde groot,</l>
+<l>Die zee borlende ende scoot,</l>
+<l>Mids dat hem so verhief die wint.</l>
+<l>Doe saghen die Gods kint</l>
+<l>So vele visschen daer in die zee,</l>
+<l n="1160">Dat hem die zorghen daden wee;</l>
+<l>Si sagher van so vele manieren</l>
+<l>Ghelijc beesten ende wilde stieren</l>
+<l>So vele onder dat water gaen.</l>
+<l>Doe seide Sente Brandaen:</l>
+<l n="1165">"Dit es seker de Lever zee,</l>
+<l>Daer ic af wijlen eer</l>
+<l>Las so menich teekijn,</l>
+<l>Dat es dat ghelove mijn;</l>
+<l>Maer ic hebbe groot wonder</l>
+<l n="1170">Van den gronde hier onder,</l>
+<l>Hoe hise wel ghevoeden moghe,</l>
+<l><edition n="28"/>Dat hem allen ghenouch doghe;</l>
+<l>Maer God onse Heere es so rike,</l>
+<l><milestone unit="fol" n="186ra"/> Dat hi hem daghelike</l>
+<l n="1175">Haer voetsel gheven mach."</l>
+<l>Tote eenen capelaen hi sprac,</l>
+<l>Dat hi sochte paerkement:</l>
+<l>Hine wilde laten twint,</l>
+<l>Die waerheit hi scriven began</l>
+<l n="1180">Ende hi beval den stierman,</l>
+<l>Dat hi den kiel hilde stille</l>
+<l>Om zijnre hulden wille,</l>
+<l>Tote hi die waerheit hadde gescreven</l>
+<l>Van den visschen, die daer dreven.</l>
+<l n="1185">Die moonken hadden groten vaer</l>
+<l>Van den visschen, die waren daer,</l>
+<l>Datsi haer scip bederven mochten;</l>
+<l>Brandaen troostese, dat hi mochte,</l>
+<l>Ende seide: "lieve broeders mijn,</l>
+<l n="1190">Wilt in Gode betrauwende zijn!</l>
+<l>Dor hem sijn wi hute ghevaren;</l>
+<l>Hi sal ons wel bewaren;</l>
+<l>Hi heeft alles dinc ghebod</l>
+<l>Ende es die almachteghe God</l>
+<l n="1195">Ende Sente Marie, die goede,</l>
+<l>Die si hier in onser hoede</l>
+<l>Jeghen dat ons evele zij;</l>
+<l>Dies jonne ons Filii Dei!</l>
+<l>Ende alle dat hemelsche heere</l>
+<l n="1200">Helpe ons huut desen meere</l>
+<l>"Amen!" segghet alle gader</l>
+<l>Ende vleeuwet den hemelschen vader."</l>
+<l>Doe quam hem an een sachte wint;</l>
+<l>Doe saghen si, waer een Gods kint</l>
+<l n="1205">Up die zee voor hem zwevede;</l>
+<l>Het sceen, dat onsachte levede:</l>
+<l>Het vlotede up eenen rusch eerden;</l>
+<l>Wat mochte zijns gheweerden,</l>
+<l>Als verstoremden der zee vloeden,</l>
+<l n="1210">Maer dat God zijns nam hoede?</l>
+<l>Van den kiele vloo hi doe;</l>
+<l>Sente Brandaen sprac hem toe,</l>
+<l>Dat hi van God weghe jeghen hem sprake;</l>
+<l>Die rusch verbeidde met ghemake</l>
+<l n="1215">Ende wart gheorsam saen</l>
+<l><pb n="29"/><milestone unit="fol" n="186rb"/> Ende doe hi bi hem quam Brandaen</l>
+<l>Toter creatueren hi dus sprac:</l>
+<l>"Doghedi om Gode dit onghemac</l>
+<l>Up dese wilde zee?</l>
+<l n="1220">Of doghestu dit wee</l>
+<l>Dor dijns selves mesdaet?</l>
+<l>So mach dijns werden raet:</l>
+<l>Ic bem een abd ghewyhet</l>
+<l>Ende metter stolen ghevryhet,</l>
+<l n="1225">Die ic van Gode hebbe ontfaen,</l>
+<l>Dat ic mach in baten staen</l>
+<l>Ende haer pine hem corten mach</l>
+<l>Beede jaer ende dach.</l>
+<l>Hebdi al sulke dinc ghedaen,</l>
+<l n="1230">Dor God so willic di ontfaen."</l>
+<l>Doe sprac die eenzedele:</l>
+<l>"Met mi so wart di evele</l>
+<l>Vergouden dijn capelaen,</l>
+<l>Dien du verlores, Brandaen,</l>
+<l n="1235">Vore den sconen paradise.</l>
+<l>God heeft mi mine spise,</l>
+<l>Ende alle mine lijfnare</l>
+<l>Een jaer min dan C jare</l>
+<l>Up dese zee ghegheven;</l>
+<l n="1240">Bi zijnre ghenaden moetic leven</l>
+<l>Ende wachten na zine leere.</l>
+<l>Mijnre brueders es noch meere;</l>
+<l>God onse vader es so goet,</l>
+<l>Dat sine ghenade ons voedt</l>
+<l n="1245">Metten hemelschen brode.</l>
+<l>Hi halp ons te onser node,</l>
+<l>Daer dijn moonc weder quam,</l>
+<l>Dien hu die duvel nam</l>
+<l>Voor die rikelike zale,</l>
+<l n="1250">Daer hi stal den breydel so wale.</l>
+<l>Si wachten ooc haren hende</l>
+<l>Up die hoghe steenwende.</l>
+<l>Die ruwe heere alleene,</l>
+<l>Dien ghi saecht sitten up den steene,</l>
+<l n="1255">Die halp di ter stede</l>
+<l>An Gode met zijnre be[de],</l>
+<l>Dattu vercreghes dinen capellaen."</l>
+<l><milestone unit="fol" n="186va"/> Doe seide Sente Brandaen:</l>
+<l>"Dore die Gods eere,</l>
+<l n="1260"><pb n="30"/> Nu segghe mi noch meere</l>
+<l>Van dien heeren, hoe si leven</l>
+<l>Ende hoe si daer verdreven;</l>
+<l>Sij leven so heleghelike</l>
+<l>Ende verdienen Gods rike."</l>
+<l n="1265">Doe sprac die heere goede</l>
+<l>Met grooten oomoede:</l>
+<l>"Een stat was, hiet Vaserijn,</l>
+<l>Danen dat wij gheboren zijn;</l>
+<l>Die stont in eenen lande,</l>
+<l n="1270">Daermen Gode niet en kande;</l>
+<l>Dor des volcs grote zonden</l>
+<l>So zanct al in afgronden;</l>
+<l>Alle dat groote lant</l>
+<l>Ende alle dat boze volc te hant</l>
+<l n="1275">Dat nam daer quaden hende;</l>
+<l>Maer up die hoghe steenwende</l>
+<l>So heefter God een deel gheset</l>
+<l>Van onsen broeders, dat wet;</l>
+<l>Daer voetse die Gods cracht,</l>
+<l n="1280">Die mi hare hevet bracht,</l>
+<l>God onse lieve Heere.</l>
+<l>Onse broeders es noch meere,</l>
+<l>Die ghelijc mi leven</l>
+<l>Ende up dese russche zweven</l>
+<l n="1285">Boven der zeewes gronden;</l>
+<l>Dat quam van minen zonden,</l>
+<l>Dat wi ghesceeden waren;</l>
+<l>Dus moetic alleene varen.</l>
+<l>Doe dat lant verdranc</l>
+<l n="1290">Ende meneghe borch versanc,</l>
+<l>Also Sodoma dede ende Gomorre,</l>
+<l>Die groote stercke torre,</l>
+<l>Daer scorde alle die eer[de]</l>
+<l>Ende alle die groene zwaerde</l>
+<l n="1295">Van dien erderijke;</l>
+<l>Desen rusch houdic vastelike</l>
+<l>Tote minen hutersten hende.</l>
+<l>God moete ons allen zenden</l>
+<l>In hemelrike met eeren.</l>
+<l n="1300"><milestone unit="fol" n="186vb"/> Noort waert saltu keeren;</l>
+<l>Daer saltu sien groot wonder."</l>
+<l>Een wint hief daer van onder,</l>
+<l>Diese sonder orlof dede sceeden;</l>
+<l><edition n="31"/>Elc voer daerne God wilde gheleeden.</l>
+<l n="1305">Daer voer die kiel in corter wijle</l>
+<l>Over meneghe mile;</l>
+<l>Dat quam van eenen bedruussche</l>
+<l>Ende van eens wints gheruussche,</l>
+<l>Dat die kyel also verspranc</l>
+<l n="1310">So meneghe dachvaerde lanc.</l>
+<l>Daer wart hi wel gheware,</l>
+<l>Dat hi den bouc ontgalt dare,</l>
+<l>Dien hi bernede in den viere;</l>
+<l>Dat becochte hi wel diere,</l>
+<l n="1315">Daer die kiel so verre spranc,</l>
+<l>Meer dan M milen lanc</l>
+<l>In grooter ongheweltheit.</l>
+<l>En hadde ghedaen Gods ghenadicheit,</l>
+<l>Hi en hads niet moghen ghenesen.</l>
+<l n="1320">Daer voer hi voort, so wi lesen;</l>
+<l>Doe versach Sente Brandaen</l>
+<l>Eenen naecten man saen</l>
+<l>Al ru sittende alleene</l>
+<l>Up eenen heeten [s]teene;</l>
+<l n="1325">Hi leet wel groote nozen:</l>
+<l>An deen zijde was hi vervrosen</l>
+<l>Dor vleesch ende beene;</l>
+<l>Up dander zijde van den steene</l>
+<l>Verbrande hi van hitten dan;</l>
+<l n="1330">Na sine werken hi loon ghewan;</l>
+<l>Voor hem hinc blayende een dwale;</l>
+<l>Die halp hem arde wale:</l>
+<l>Die slouch die hitte dane;</l>
+<l>Dies quam hem baten vele ane</l>
+<l n="1335">Beede van hitten ende van couden.</l>
+<l>Sine pine was menichfoude.</l>
+<l>Des zondaeghs stont hem also;</l>
+<l>Dies was hi arde vro:</l>
+<l>Hem dochte openbare,</l>
+<l n="1340">Dat hi in werschepen ware.</l>
+<l>Des maendaeghs arde vroe</l>
+<l><pb n="32"/><milestone unit="fol" n="187ra"/> Quam hem groote pijne toe:</l>
+<l>Doe voerdene in der hellen</l>
+<l>Die duvele met sinen ghesellen.</l>
+<l n="1345">Doe si hem so bi quamen,</l>
+<l>Datsi sine pine vernamen,</l>
+<l>Begans hem ontfaermen.</l>
+<l>Doe vraeghde Brandaen dien aermen</l>
+<l>Van wat volcke dat hi ware.</l>
+<l n="1350">Doe sprac die sondare:</l>
+<l>"Ic bem die aerme Judas.</l>
+<l>Om dat ic so onghetrauwe was,</l>
+<l>Dat ic vercochte sonder noot,</l>
+<l>Die mi ghesciep ende gheboot.</l>
+<l n="1355">Dat hebbic zwaer ontgouden.</l>
+<l>Doet mi berauwen soude,</l>
+<l>Doe quam die leede duvel</l>
+<l>Ende gaf mi eenen twifel</l>
+<l>Ende riet, dat ic mi hinc</l>
+<l n="1360">Ende ne gheene boete ontfinc;</l>
+<l>Aldus nam ic die doot;</l>
+<l>Dies moetic lijden desen noot.</l>
+<l>Haddic ghenade begheert met rauwen,</l>
+<l>God es also ghetrauwe,</l>
+<l n="1365">Het ware mi wel vergaen:</l>
+<l>God hadde mi ontfaen,</l>
+<l>Also hi den Jode ontfinc,</l>
+<l>Die hem, daer hi an tcruce hinc,</l>
+<l>Metten speere stac therte ontwee.</l>
+<l n="1370">Noch dede God ghenaden mee:</l>
+<l>Hi ontfinc den scaker dan,</l>
+<l>Om dat hi berauwen ghewan,</l>
+<l>Daer hi an den cruce hinc</l>
+<l>Entie bitter doot ontfinc.</l>
+<l n="1375">Also hadde hi mi ontfaen,</l>
+<l>Waers mi berauwen saen.</l>
+<l>Mijns en wert nemmermeer raet;</l>
+<l>Maer mi dinct dat mi nu wel staet;</l>
+<l>Maer over morghin vele vroe</l>
+<l n="1380">Sal mi den noot gaen toe;</l>
+<l>Dan werdet mi al benomen</l>
+<l>Tgoet, daer ic nu in ben comen;</l>
+<l>Dor das zondaeghs heere</l>
+<l><pb n="33"/><milestone unit="fol" n="187rb"/> Hebbic dese remedye, heere;</l>
+<l n="1385">Stont mi dus tallen daghen,</l>
+<l>So en soudic niet claghen;</l>
+<l>Nochtan en hebbict borgoet</l>
+<l>Maer dat mi vele wers doet</l>
+<l>Die grondeloze helle,</l>
+<l n="1390">Daer ic altoos in quelle</l>
+<l>Ende eeweliken in walle;</l>
+<l>Die duvele met haren gescalle</l>
+<l>Doen mi wel meneghen noot.</l>
+<l>O wy, heere, waric doot</l>
+<l n="1395">Of mochtic versterven!</l>
+<l>So en soudic niet bederven</l>
+<l>In dus meneghen aerbeit,</l>
+<l>Die ic lijde in eewicheit</l>
+<l>Van rauwen ende van leede.</l>
+<l n="1400">Dese noode alle beede</l>
+<l>Van couden ende van hitten,</l>
+<l>Daer ic hier in moet sitten,</l>
+<l>En houdic voor gheen verdriet:</l>
+<l>Ter hellen hebbic licht niet;</l>
+<l n="1405">Daer eist doncker emmermeere;</l>
+<l>Daer es dat eewelike zeer;</l>
+<l>Ter quader tijt wert hi gheboren,</l>
+<l>Die daer toe wert vercoren;</l>
+<l>Een hitte quelt mi daer,</l>
+<l n="1410">Eer ghi ghetastet wel een haer,</l>
+<l>Daer smolte wel een berch stalijn,</l>
+<l>Diene worpe daer in.</l>
+<l>Mochte ic hier langhe wesen</l>
+<l>Mi dochte, ic ware ghenesen;</l>
+<l n="1415">Mi doen mee wee die zorghen</l>
+<l>Jeghen den over morghen</l>
+<l>Dan die pijne, die ic hier moet ontfaen."</l>
+<l>Doe sprac Sente Brandaen:</l>
+<l>"Of yemen over di bade,</l>
+<l n="1420">Soude hu God doen eeneghe ghenade?"</l>
+<l>"Neen hi", sprac Judaes die aerme,</l>
+<l>"Want ic up Gode hadde gheen ontfaermen;</l>
+<l>Alle hulpe hebbic verloren</l>
+<l>Maer dit dwaelkin hier voren</l>
+<l n="1425"><pb n="34"/> Voor mi hanghende namelike</l>
+<l><milestone unit="fol" n="187va"/> Dat maect mi seere rike</l>
+<l>Ende helpt mi wel zeere.</l>
+<l>Nochtan so stal ict onsen Heere,</l>
+<l>Doe ic met hem ghinc;</l>
+<l n="1430">Het weert mi groote dinc</l>
+<l>Van desen heeten viere;</l>
+<l>Maer mi berauwes weder sciere;</l>
+<l>Doe gaf ict dor Gode</l>
+<l>Eenen zinen crancken bode,</l>
+<l n="1435">Die oyt sint sine bede</l>
+<l>Voor mi te Gode dede;</l>
+<l>Nu helpet mi zeere hier</l>
+<l>Jeghen dit sterke vier.</l>
+<l>Al en mach het also vele niet sijn,</l>
+<l n="1440">Als oft met rechte mijn hadde ghezijn,</l>
+<l>Nochtan helpet mi, heere,</l>
+<l>Harde vele meere</l>
+<l>Jeghen desen heeten brant,</l>
+<l>Om dat ict selve gaf metter hant,</l>
+<l n="1445">Dan mi nu holpe alle die have,</l>
+<l>Al waert dat mense over mi gave,</l>
+<l>Die nu in die weerelt es;</l>
+<l>Dies moghedi sijn ghewes.</l>
+<l>So wel helpt dat goet,</l>
+<l n="1450">Dat die meinsche selve doet</l>
+<l>Ende dat hi selve gheeft</l>
+<l>Al die wijle, dat hi leeft;</l>
+<l>Want achter weldade</l>
+<l>Commen dicwile spade</l>
+<l n="1455">Ende datmen naer dleven doet,</l>
+<l>Dat heeft aermen spoet</l>
+<l>Te helpene, die selve niet en gheeft</l>
+<l>Dor Gode die wijle, dat hi leeft."</l>
+<l>Doe Judas dit hadde gheseit,</l>
+<l n="1460">Began hi driven groten aerbeit;</l>
+<l>Des maendaeghs metten daghe</l>
+<l>Maecte Judaes grote claghe</l>
+<l>Ende jammerliken rauwe groot,</l>
+<l>Dat dbloet van sinen hoghen scoot.</l>
+<l n="1465">Hem naecte groot onghemac,</l>
+<l>Seere weendi ende sprac:</l>
+<l>"O wy, onsalich ende arem man,</l>
+<l><milestone unit="fol" n="187vb"/> Dat ic ye eerdsch lijf ghewan!</l>
+<l>Daer ic nu varen moete,</l>
+<l n="1470"><pb n="35"/> Dies en wert nemmermeer boete,</l>
+<l>Want bi verdienten hebbict ontfaen."</l>
+<l>Doe hiet Sente Brandaen</l>
+<l>Sijn helichdom bringhen voort</l>
+<l>Ende settet up des kiels boort,</l>
+<l n="1475">Alse die duvele quamen</l>
+<l>Ende dat helichdom vernamen,</l>
+<l>Dat hise soude vervaren.</l>
+<l>Hi sach an sine ghebaren</l>
+<l>Ende heeft wel vernomen,</l>
+<l n="1480">Datsi saen sullen comen.</l>
+<l>Doe quamen die duvele met eenen heere;</l>
+<l>Hem dochte lucht ende meere,</l>
+<l>Dat al was bernende vierijn.</l>
+<l>"Hier soudic ghevaren zijn,"</l>
+<l n="1485">Sprac die bezijnghede capelaen,</l>
+<l>Die met zorghen was bevaen.</l>
+<l>Si vloghen boven den kiele;</l>
+<l>Hem scoot huut haren ghiele</l>
+<l>Pec ende vlamme onghiere</l>
+<l n="1490">Met sulfer achteghen viere,</l>
+<l>Dat gloyde ende wiel;</l>
+<l>Daert up die zee viel,</l>
+<l>Berrende twater alse stroo.</l>
+<l>Judase wilden si alsoo</l>
+<l n="1495">Voeren in der hellen,</l>
+<l>Daer sine souden quellen.</l>
+<l>Den vianden gheboot Sente Brandaen,</l>
+<l>Datsi een wijle souden staen</l>
+<l>Ende Judaes souden vermijden;</l>
+<l n="1500">Gode bat hi in dien tijden,</l>
+<l>Dat dien nacht moeste ghenesen</l>
+<l>Judaes ende quijte wesen</l>
+<l>Van dien helschen zeere;</l>
+<l>Dies bat hi onsen Heere.</l>
+<l n="1505">Weenende hi so langhe bat,</l>
+<l>Dat hem God consenteerde dat.</l>
+<l>Die duvele doe luude screyden;</l>
+<l>Sij borlenden ende si neyden,</l>
+<l>Dat si sonder hem moesten varen.</l>
+<l n="1510"><milestone unit="fol" n="188ra"/> Met vele grooten scaren</l>
+<l>Keerden si weder ter hellen.</l>
+<l>Doe dreeghden sine te quellen</l>
+<l>Vele meer dan si souden,</l>
+<l><edition n="36"/>Of sine hadden moghen behouden;</l>
+<l n="1515">Dat dreeghen dede hem wee,</l>
+<l>Daer hi vlotede up die zee.</l>
+<l>Die duvele quamen weder doe</l>
+<l>Des morghins vele vroe</l>
+<l>Te Judaes onghevalle;</l>
+<l n="1520">Crauwels brochten si alle,</l>
+<l>Die gloyden ende sneden;</l>
+<l>Onlanghe dat zijs vermeden</l>
+<l>Maer in hem dat sise sloughen;</l>
+<l>Onscone dat sine droughen</l>
+<l n="1525">Met alle metten steene;</l>
+<l>Si quelden sine beene;</l>
+<l>Doe sine up ghenamen</l>
+<l>Ende een lettel danen quamen,</l>
+<l>Spraken si leelike toe</l>
+<l n="1530">Sente Brandane doe:</l>
+<l>"Daer omme sullen wine pinen meer</l>
+<l>Dan hi was ghepijnt eer."</l>
+<l>Doe seide Sente Brandaen:</l>
+<l>"Het sal anders vergaen;</l>
+<l n="1535">Niet te meer en sal ghepijnt sijn hi,</l>
+<l>Om dat hi te nacht was bi mi;</l>
+<l>Al moghedi up mi scelden.</l>
+<l>Hi en saels niet ontghelden;</l>
+<l>Hu scelden hebbic ommare."</l>
+<l n="1540">Bi Gode onsen sceppare</l>
+<l>Ende met dieren woorden</l>
+<l>Gheboot hi dien verhoorden,</l>
+<l>Datsi hem en daden niet meer</l>
+<l>Dan also si te voren eer</l>
+<l n="1545">Des ander daghes hadden ghedaen.</l>
+<l>Ende also voerden sine wech saen</l>
+<l>Vele zeere screyende</l>
+<l>In dier zwaerre allende;</l>
+<l>Doe hiet die heere goede</l>
+<l n="1550">Up des zeewes vloede</l>
+<l>Volghen met sinen kiele</l>
+<l><milestone unit="fol" n="188rb"/> Na die aerme ziele,</l>
+<l>Maer die duvele ontvoerdense saen.</l>
+<l>Doe sach hi voor hem up slaen</l>
+<l n="1555">Eenen rooc wel gruwelijc;</l>
+<l>Dat was een pijne vreeselijc.</l>
+<l>Doe voer die goede Sente Brandaen</l>
+<l><edition n="37"/>Metten Gods zeghe bevaen</l>
+<l>Toten oversten hende</l>
+<l n="1560">Onder eene steenwende;</l>
+<l>Daer saghen si alse bernende voghele varen</l>
+<l>Huut eenen bernenden berghe te waren</l>
+<l>Van menegherande tonghen,</l>
+<l>Die hel niet en zonghen</l>
+<l n="1565">Dan "O wy" ende "wach" ende "wee";</l>
+<l>Eene grondelose zee</l>
+<l>Slouch daer up die west zijde ane,</l>
+<l>So datment hoorde dane</l>
+<l>Over meneghe mile.</l>
+<l n="1570">Daer na in corter wile</l>
+<l>Saghen si huut eenen berghe slaen</l>
+<l>Eene vlamme so ghedaen,</l>
+<l>Daer die gleinstren hute vloghen</l>
+<l>Also groot als een hoven</l>
+<l n="1575">Ende colen also groot als maste.</l>
+<l>Daer was pijne ende onraste.</l>
+<l>Huut dien selven berghe ran</l>
+<l>Een water, sulc en sach noint man,</l>
+<l>Het was zwart ende het wiel;</l>
+<l n="1580">Bander zijde daer hute viel</l>
+<l>Een water ende een wint ghereede,</l>
+<l>Die also cout waren beede,</l>
+<l>Dat nye couder dinc ghewart;</l>
+<l>Daer hadden si moylike vaert:</l>
+<l n="1585">Up deen zijde was hitte menichfout,</l>
+<l>Up dander zijde waest so cout,</l>
+<l>Dat den bomen in dien tijden</l>
+<l>Die scorse scoolden van den zijden.</l>
+<l>Doe so hiet Sente Brandaen</l>
+<l n="1590">Hem allen ten riemen gaen;</l>
+<l>Beede moonken ende scipman</l>
+<l>Alle vinghen si daer an;</l>
+<l>Daer en wilden si niet letten meer;</l>
+<l><milestone unit="fol" n="188va"/> Daer si waren commen eer,</l>
+<l n="1595">Binnen eenen daghe gevaren,</l>
+<l>Ghekeerden si cume in II jaren.</l>
+<l>Doe dus die kiel ontran</l>
+<l>Entie moede scipman</l>
+<l>Van der heetter aermer scaren,</l>
+<l n="1600">Doe quamen si saen ghevaren</l>
+<l>Up eene der bester eerden,</l>
+<l><edition n="38"/>Die oyt mochte gheweerden.</l>
+<l>Daer sach yemen selden;</l>
+<l>Daer wiessen up die velden</l>
+<l n="1605">Beede coren vruchten ende wijn</l>
+<l>Ende alle vruchten, die moghen zijn,</l>
+<l>Sonder ackeren ende graven;</l>
+<l>Daer was lettel noot van haven:</l>
+<l>Visch was daer ghenouch,</l>
+<l n="1610">Die daer dat water drouch,</l>
+<l>Ende vleesch wilt ende tam,</l>
+<l>Al dat nye herte bequam.</l>
+<l>Dese jeghenode scone</l>
+<l>Was altoos even groene;</l>
+<l n="1615">Dat es multum bona terre</l>
+<l>Ende es gheleghen arde verre</l>
+<l>Van alre meinschen conden.</l>
+<l>En hadde God tien stonden</l>
+<l>Dat scip daer niet ghesent,</l>
+<l n="1620">So waert ons bleven ombekent.</l>
+<l>Doe daer quam Sente Brandaen</l>
+<l>Entie hem waren onderdaen,</l>
+<l>Hare moethede ende pijne al</l>
+<l>Verghinc hem groot ende smal</l>
+<l n="1625">Mids der zoetheit menigherande,</l>
+<l>Die si ontfinghen in dien lande.</l>
+<l>Alse Sente Brandaen entie zine</l>
+<l>Waren in desen lande fine,</l>
+<l>Saghen si eenen berch so hoghe,</l>
+<l n="1630">Sine consten niet verhoghen,</l>
+<l>Sine groote hoocheide;</l>
+<l>Hem dochte in der waerheide,</l>
+<l>Dat die wolken daer up zweveden;</l>
+<l>Ne gheene dinghen, die leveden,</l>
+<l n="1635">Ne quamen daer up, si en vloghen</l>
+<l><milestone unit="fol" n="188vb"/> Maer teenen hanghenden woghe</l>
+<l>Met zorghen si ane vinghen,</l>
+<l>Datsi dier up ghinghen.</l>
+<l>Die berch was boven scone</l>
+<l n="1640">Ende hiet Mons Syone;</l>
+<l>Daer slouch an der zee vloet;</l>
+<l>Nye en was berch so goet.</l>
+<l>Daer si dien berch up gaen,</l>
+<l>Saghen si an den berch staen</l>
+<l n="1645">Eene borch so rikelike,</l>
+<l><edition n="39"/>Noint en sach meinsche der ghelike;</l>
+<l>Daer saghen si vreeselike draken</l>
+<l>Ende lindwormen, die gapen,</l>
+<l>Ende hem voer tallen stonden</l>
+<l n="1650">Dat vier huten monden;</l>
+<l>Dese wachten die poorten daer</l>
+<l>Maer metten woorden Gods vorwaer</l>
+<l>Beval hem Sente Brandaen,</l>
+<l>Dat sise in lieten gaen</l>
+<l n="1655">Ter doren in die huere.</l>
+<l>Die bouc seit, dat die muere</l>
+<l>Alle waren kerstalijn;</l>
+<l>Daer waren letteren steenijn</l>
+<l>So vele daer up ghenomen,</l>
+<l n="1660">Sine consten ten hende comen;</l>
+<l>Daer waren ghegoten inne</l>
+<l>Bi meesterliken zinne</l>
+<l>Van copere ende van eere</l>
+<l>Menegherande diere</l>
+<l n="1665">In dien rinc muer al omme:</l>
+<l>Som recht ende some cromme;</l>
+<l>Diese eerst ghinc besien,</l>
+<l>Hi mochte van vreesen vlien,</l>
+<l>Want si hem hute dien muer ghebaren,</l>
+<l n="1670">Als of si alle levende waren.</l>
+<l>Daer stonden alle die dieren,</l>
+<l>Die ic noint horde nomen hiere:</l>
+<l>Leeuwen, panteeren, tygheren met;</l>
+<l>Ooc stonden daer gheset</l>
+<l n="1675">Eencorne ende lupaerde</l>
+<l>Ende beesten van meneghen aerde:</l>
+<l>Olifanten, herten ende hinden</l>
+<l><milestone unit="fol" n="189ra"/> Mochtemen daer al vinden;</l>
+<l>Ooc stonden daer vele vormen</l>
+<l n="1680">Van vreeseliken wormen;</l>
+<l>In midden dien borghe vloot</l>
+<l>Een riviere wel groot,</l>
+<l>Die al dwilt dede omme gaen,</l>
+<l>Dat niet stille mochte staen;</l>
+<l n="1685">Si saghen al openbaren,</l>
+<l>Die daer commen waren,</l>
+<l>Dat die beelden bi wilen spronghen</l>
+<l>Ende riepen ende zonghen,</l>
+<l>Als of si wech wouden</l>
+<l n="1690"><pb n="40"/> Ende huten muere varen souden;</l>
+<l>Daer stonden meneghe vorme:</l>
+<l>Daer waren sulke worme</l>
+<l>Half ru ende alf bloot,</l>
+<l>Noint sach man des ghenoot.</l>
+<l n="1695">Noch stont daer onder</l>
+<l>Ghegoten menich wonder:</l>
+<l>Daer stont die stercke liebaert,</l>
+<l>Ic wane, nye dier ghewaert,</l>
+<l>En stont daer ghegoten.</l>
+<l n="1700">Visschen daer ooc vloten</l>
+<l>Harde meneghertiere;</l>
+<l>Hoort wat dede die riviere:</l>
+<l>Herten entie hinden</l>
+<l>Vloen daer voor die hasewinden;</l>
+<l n="1705">Wilde zwijnen liepen daer;</l>
+<l>Die jaghere reet hem naer</l>
+<l>Al blasende eenen horen;</l>
+<l>Hem liepen ooc voren</l>
+<l>Menich wonder, so vele,</l>
+<l n="1710">In caent ghesegghen niet wele.</l>
+<l>Daer speelden ooc in den mueren</l>
+<l>Orssen, met convertueren,</l>
+<l>In eenen rijnghe wijde;</l>
+<l>Hem hilden ooc bezijden</l>
+<l n="1715">Rudders, als of si leveden</l>
+<l>Vanen dat daer zweveden;</l>
+<l>Daer toe mochtemen daer scauwen</l>
+<l>Harde vele vrauwen;</l>
+<l>Daer bliesen die wachtaren,</l>
+<l n="1720"><milestone unit="fol" n="189rb"/> Die ghene, dies onwijs waren,</l>
+<l>Waenden, datsi leefden daer.</l>
+<l>Ic mach hu segghen over waer:</l>
+<l>In dese zale gheheere</l>
+<l>Was wonders vele meere:</l>
+<l n="1725">Daer verlichten die tinnen</l>
+<l>Beede buten ende binnen,</l>
+<l>Ghelijc dat doet die dach sterre,</l>
+<l>Die up rijset so verre;</l>
+<l>VI&supm; torren stonden tien male</l>
+<l n="1730">Up den muere omme die zale;</l>
+<l>Die torren die blecten al</l>
+<l>Ende muere ende zale groot ende smal,</l>
+<l>Alse yser doet in den viere.</l>
+<l><edition n="41"/>Gheen dinc en was daer diere</l>
+<l n="1735">Dan onghemac ende aermoede;</l>
+<l>Meneghe culcte goede</l>
+<l>Ende zijdine sporwaren</l>
+<l>Saghen si daer te waren,</l>
+<l>Die daer hinghen te dien male</l>
+<l n="1740">Boven die bedden in die zale.</l>
+<l>Die vloer van der zalen was</l>
+<l>Al gader snee wit glas,</l>
+<l>Daer dore blecten die goud male.</l>
+<l>Dus rikelic was die zale.</l>
+<l n="1745">In dien hove vrone</l>
+<l>Stonden cedre scone</l>
+<l>Ende andre bome so vele,</l>
+<l>Dat die zonne niet wele</l>
+<l>Schijnen mochte ter eerden;</l>
+<l n="1750">Daer en mochte niet nat werden.</l>
+<l>Dies namen si alle gome.</l>
+<l>Onder die ceder bome</l>
+<l>So was die acker scone</l>
+<l>Ende tallen steden groene;</l>
+<l n="1755">Daer hinc menich guldin vat;</l>
+<l>Noint en was huus bat</l>
+<l>Verchiert met dieren dinghen.</l>
+<l>Daer mochtemen horen zinghen</l>
+<l>Die voghele in allen tijde</l>
+<l n="1760">In dese borch wijde;</l>
+<l>Daer stont midden in een palas:</l>
+<l><milestone unit="fol" n="189va"/> Ic wane, noint gheen en was</l>
+<l>Verchiert also wele;</l>
+<l>Ghimmen was daer so vele</l>
+<l n="1765">Met dierbaren ghesteenten,</l>
+<l>Gheset in helps ghebeenten;</l>
+<l>Die vloer was saphier ende glas;</l>
+<l>Ic wane, noint dinc en was</l>
+<l>Ghemaect boven der eerden,</l>
+<l n="1770">Dat beter mochte weerden</l>
+<l>Of dat ghemaect was bat,</l>
+<l>Over waer segghic hu dat.</l>
+<l>Ghegoten was het van eere;</l>
+<l>Het en wert nemmermeere</l>
+<l n="1775">Ghemaect so goet weerc</l>
+<l>No so vaste no so steerc,</l>
+<l>Als daer up dien dach</l>
+<l><edition n="42"/>Sente Brandaen sach.</l>
+<l>Die moonke besaghen besonder</l>
+<l n="1780">Dat menichfoudeghe wonder.</l>
+<l>In die borch so spronghen</l>
+<l>Diere watre; daer zonghen</l>
+<l>Molenen, of si hadden tonghen,</l>
+<l>So dat al verclonghen</l>
+<l n="1785">Beede berch ende dal</l>
+<l>Ende dat daer bi was over al.</l>
+<l>Die bouc seit ons dat,</l>
+<l>Dat vloyden int ghewat</l>
+<l>Visschen, die daer speelden,</l>
+<l n="1790">Ende alrande weelden</l>
+<l>Waren der borch onderdaen,</l>
+<l>Dat scrijft ons Sente Brandaen.</l>
+<l>Doe sprac die besijngde capelaen:</l>
+<l>"Hets goet, dat wi henen gaen,</l>
+<l n="1795">Eer wi hier scade ghewinnen;</l>
+<l>Mi dincke in minen zinne,</l>
+<l>Het en es sonder meester niet</l>
+<l>Dit wonder, dat ghi hier siet.</l>
+<l>Werden si onser gheware,</l>
+<l n="1800">Wine moghen hem niet ontfaren,</l>
+<l>Sine doen ons sulken aerbeit,</l>
+<l>Dat ons die vaert wert leit</l>
+<l>Ende ons lijf rauwet.</l>
+<l><milestone unit="fol" n="189vb"/> Dit weerc hevet ghetauwet</l>
+<l n="1805">Een wonderlic ghedyet,</l>
+<l>Dat hem an Gode en keert niet,</l>
+<l>Hets van wonderliken zeden;</l>
+<l>Si moghen ons bringhen tonvreden,</l>
+<l>Alsoo die ghene daden,</l>
+<l n="1810">Die ons so hadden verladen</l>
+<l>Ten berghe, die berrende dan."</l>
+<l>Doe bat die stierman,</l>
+<l>Sente Brandane ende dien heeren,</l>
+<l>Datsi wilden te scepe keeren;</l>
+<l n="1815">Doe si te scepe waren ghegaen,</l>
+<l>So quam hem ghevolcht saen</l>
+<l>Een volc van wonderliker ghedane,</l>
+<l>Als ons de bouc doet te verstane;</l>
+<l>Si hadden wolves tande</l>
+<l n="1820">Ende hieten Walscherande;</l>
+<l>Seere si verbolghen waren,</l>
+<l><edition n="43"/>Datsi hem dus zijn ontvaren.</l>
+<l>Hoofde hadden si alse zwijn</l>
+<l>Hoe mochten si wonderliker zijn!</l>
+<l n="1825">Mans handen ende honden been;</l>
+<l>Si screyden al in een;</l>
+<l>Cranen hals mans buuc vorware,</l>
+<l>Onder die voete ru van hare;</l>
+<l>Sijdin was al haer ghewant;</l>
+<l n="1830">Boghen droughen si in die hant</l>
+<l>Ende pijle daer in gheset,</l>
+<l>Wel gheslepen ende ghewet;</l>
+<l>Si hadden langhe baerde;</l>
+<l>Si rochelden alle haerde</l>
+<l n="1835">Alse doen wilde beeren</l>
+<l>Hem berau arde zeere,</l>
+<l>Dat hem Sente Brandaen</l>
+<l>Huut haerre borch was ontgaen.</l>
+<l>Doe sprac Sente Brandaen:</l>
+<l n="1840">"[L]atet tscip al sachte gaen</l>
+<l>Hier in desen vliete,</l>
+<l>Dat ons niet en sciete</l>
+<l>Dit eyselike commer;</l>
+<l>Nu heeft mi groot wonder,</l>
+<l n="1845">Of si Gode kennen yet;</l>
+<l><milestone unit="fol" n="190ra"/> Ic wille weten van hem dbediet."</l>
+<l>Up die stavene ghinc hi staen</l>
+<l>Hi bemanetse vele saen</l>
+<l>Bi Gode ende bi zijnre cracht</l>
+<l n="1850">Ende bi al, dat hi heeft ghewracht</l>
+<l>Ende noint liet gheweerden</l>
+<l>In hemele ende in der eerden,</l>
+<l>Dat sine met vreden lieten</l>
+<l>Tote bi den lande vlieten,</l>
+<l n="1855">Dat hi hem spreken mochte.</l>
+<l>Si leiden vele sochte</l>
+<l>Die boghen hute haerre hant</l>
+<l>Ende zweghen alle te hant.</l>
+<l>Doe vraechde Sente Brandaen:</l>
+<l n="1860">"Kendi Gode? doet mi verstaen."</l>
+<l>Doe sprac een daer onder:</l>
+<l>"Brandaen du heves wonder</l>
+<l>Dore varen in menich lant;</l>
+<l>Nu heeft hu God hier ghesant,</l>
+<l n="1865">Dien du voor ons minnet.</l>
+<l><edition n="44"/>Hoe wel dattune kinnet,</l>
+<l>Wij kenden eer, verstaet dat,</l>
+<l>Daer hi in sinen trone sat,</l>
+<l>Daer wine saghen alle</l>
+<l n="1870">Voor Lucifers valle."</l>
+<l>Doe sprac Sente Brandaen:</l>
+<l>"Dit soudic weder segghen saen,</l>
+<l>Maer dat mi bestaet niet;</l>
+<l>Een wijs man bescreven liet,</l>
+<l n="1875">Dinghele dorsten niet beghyen,</l>
+<l>Datsi Gode hadden ghesien</l>
+<l>In den aensichte zine;</l>
+<l>Du wils di domphede pinen;</l>
+<l>Ic segghe di te voren,</l>
+<l n="1880">Du en moghes mi niet verdoren</l>
+<l>Met dusdaenre mare;</l>
+<l>Dine woorde sijn ongheware</l>
+<l>Ende ooc loghenlijc;</l>
+<l>God es onghesienlijc.</l>
+<l n="1885">Du best zeere bedroghen;</l>
+<l>Wat hebstu di toe ghetoghen?</l>
+<l>Nye en saghen hooghen, dats waer;</l>
+<l><milestone unit="fol" n="190rb"/> God es so wonderlike claer;</l>
+<l>Dine hooghen zwijnijn</l>
+<l n="1890">Waer mochten si commen zijn</l>
+<l>Datsi Gode saghen den hoghen,</l>
+<l>Dien die ingle niet sien en moghen</l>
+<l>Ja in vullen aenghesichte?</l>
+<l>Waer saechdine dan te rechte?</l>
+<l n="1895">Doe hi in eerderike was zone,</l>
+<l>Drouch hi in hemeirike crone;</l>
+<l>Hier was hi sone ende daer vader;</l>
+<l>Nochtan was hi daer al gader</l>
+<l>Vader sone helich gheest</l>
+<l n="1900">Eenich heere ende alre meest.</l>
+<l>Du dincs mi ombedacht;</l>
+<l>Over al es sine macht:</l>
+<l>In hemele ende in diepe afgronde,</l>
+<l>Ja ter hellen mense vonde,</l>
+<l n="1905">Die des gherochte,</l>
+<l>Dat hise daer sochte.</l>
+<l>Wat wiltu di toe tyen,</l>
+<l>Dattu Gode souts hebben ghesien?"</l>
+<l>Doe sprac die wonderlike gheest:</l>
+<l n="1910"><pb n="45"/> "Brandaen, dattu niet ne weets,</l>
+<l>Des en wiltu niet betrauwen</l>
+<l>Dat sal di noch berauwen;</l>
+<l>Ooc suldijs ghewinnen scade;</l>
+<l>Den bouc verberrenstu bi onrade,</l>
+<l n="1915">Daer die waerheit in ghescreven was;</l>
+<l>Hoe leede es di worden om das!</l>
+<l>Nu hebben ghesien dine oghen,</l>
+<l>Dattu doe niet wils gheloven.</l>
+<l>Daer omme so doen si wijselike</l>
+<l n="1920">Ende leven saleghelike,</l>
+<l>Die an Gods woorde gheloven,</l>
+<l>Al en saghen zijs noint met oghen.</l>
+<l>Ja en scrijft ons Sente Jan,</l>
+<l>Hoe in Thomase den heleghen man</l>
+<l n="1925">Tgheloove was te broken?</l>
+<l>Al hadt hem God vorsproken,</l>
+<l>Doe hem quam die mare,</l>
+<l>Dat God verresen ware,</l>
+<l>Hi en wildes niet gheloven,</l>
+<l n="1930"><milestone unit="fol" n="190va"/> Hi en saecht metten hoghen,</l>
+<l>Dat God ware up verstanden;</l>
+<l>Hi moest tasten metten handen,</l>
+<l>Ende sine wonden also bevaen.</l>
+<l>Daer na quam God tote hem saen</l>
+<l n="1935">Ende seide: "Thomaes, com tast mijn wonden,</l>
+<l>Ende zijt ghelovich tallen stonden."</l>
+<l>Doe seide die twifeleere:</l>
+<l>"Nu so ghelovics Heere,</l>
+<l>Dattu best verresen nu."</l>
+<l n="1940">"Vele te salegher so bestu",</l>
+<l>Sprac doe die heleghe Kerst,</l>
+<l>"Dattu ghelovende worden best;</l>
+<l>Maer wel salich so sijn die,</l>
+<l>Die mi nochtan en saghen nye</l>
+<l n="1945">Ende ghelooven an mi."</l>
+<l><edition n="46"/>Brandaen, nu bedincke di,</l>
+<l>Hoe hout dat die heleghe Kerst</l>
+<l>Den wel gheloovenden es."</l>
+<l>Noch sprac die zwijninen mont:</l>
+<l n="1950">"Brandaen, ic make di cont,</l>
+<l>Waer wi Gode so na ghyen,</l>
+<l>Dat wine wel mochten sien:</l>
+<l>Dat was doe Lucifer ghedachte,</l>
+<l>Dat hi met overdegher crachte</l>
+<l n="1955">Up den hemele wesen woude</l>
+<l>Anders dan hi wesen soude.</l>
+<l>Dat en was ons lief no leet mede;</l>
+<l>Inghelen waren wi van sulker claerhede,</l>
+<l>Dat wi Gode saghen daer,</l>
+<l n="1960">Dit segghe ic di vorwaer.</l>
+<l>Maer met Lucifers valle</l>
+<l>So moesten wi vallen alle;</l>
+<l>Doe sprac God te handen</l>
+<l>Tote ons Walscheranden,</l>
+<l n="1965">Om dat wi hadden zwijnen moet,</l>
+<l>Dat dor doghet niet en doet;</l>
+<l>Het heeft eenen bozen list;</l>
+<l>Het leit in des goors mist;</l>
+<l>Int slijc of yeuwers onreins hel</l>
+<l n="1970">Daer in es hem also wel,</l>
+<l>Alst ware in een reine stede;</l>
+<l><milestone unit="fol" n="190vb"/> Wij verzwijmden ons, dats waerhede,</l>
+<l>Recht alse dat onwijse zwijn;</l>
+<l>Dies moeten wi hem ghelijc zijn.</l>
+<l n="1975">Half zijn wi ru ende hondijn,</l>
+<l>Hoe mochten wi wonderliker sijn!</l>
+<l>Dat verdienden wi daer mede,</l>
+<l>Om dat wi des honts zede</l>
+<l>In hemelrike beghinghen:</l>
+<l n="1980">Want van ne gheenen dinghen</l>
+<l>En wrought hi den bekenden man,</l>
+<l>Sint dat hine nomen can,</l>
+<l>Maer hi staet hem zwijghende bi,</l>
+<l>Hoe hout hi sinen meester zi,</l>
+<l n="1985">Dat hi hem eenich scade ghedoet.</l>
+<l>Dies gaf ons God dit lant goet</l>
+<l>Te zoenen ende te mieden,</l>
+<l>Omme dat wi sine scade niet berieden;</l>
+<l>Omme dat wi dus stonden stille,</l>
+<l n="1990"><pb n="47"/> So hebben wi dus onsen wille:</l>
+<l>Verlaten so es ons der hellen;</l>
+<l>Men sal ons daer niet quellen</l>
+<l>Met Lucifers ghesellen,</l>
+<l>Die daer die zielen quellen;</l>
+<l n="1995">Wi hopen ghenadelike</l>
+<l>Up Gode van hemelrike."</l>
+<l>Doe seide Sente Brandaen:</l>
+<l>"Wij waren in huwe borch ghegaen;</l>
+<l>Daer saghen wi groote chierheit</l>
+<l n="2000">Ende arde groote rijcheit,</l>
+<l>Die daer es ghenouch;</l>
+<l>Diet daer al te gader drouch</l>
+<l>Hi was vroet ende wel bedacht.</l>
+<l>God heeft ons met zijnre cracht</l>
+<l n="2005">Van danen so wel gheleet;</l>
+<l>So dat ict alre best weet,</l>
+<l>Dat wi daer niet en namen,</l>
+<l>Dies wi ons dorven scamen</l>
+<l>Of in pinen dorven comen;</l>
+<l n="2010">Wi en hebben hu niet ghenomen,</l>
+<l>Dies weet God die waerheit;</l>
+<l>Waers ooc yet, dat ware mi leit.</l>
+<l>En hadde God met zijnre cracht,</l>
+<l><milestone unit="fol" n="191ra"/> Die ons hier hevet bracht,</l>
+<l n="2015">Die draken niet ghebonden,</l>
+<l>Si hadden ons verslonden,</l>
+<l>Daer wi ter poorten ghinghen in.</l>
+<l>Nu wondert mi in minen zin,</l>
+<l>Waer ghi waert ghevaren,</l>
+<l n="2020">Doe wi in huwe borch waren."</l>
+<l>Doe sprac een Walscherant:</l>
+<l>"Wi waren in een ander lant</l>
+<l>Over een wout ghevaren</l>
+<l>Met LX groote scaren</l>
+<l n="2025">In dat lant ten draken;</l>
+<l>Wel vele onghemaken</l>
+<l>So hebben wi alle daer ghedaen;</l>
+<l>Wi waren daer wel naer ghevaen.</l>
+<l>Si daden ons meneghen toren:</l>
+<l n="2030">Met spotte namen si ons ooren,</l>
+<l>Dat segghen wi te waren;</l>
+<l>Dies waren wi daer ghevaren</l>
+<l>Ende hebben met hem ghevochten,</l>
+<l><edition n="48"/>Aldaer wise sochten;</l>
+<l n="2035">Wi hadden groot volc heere;</l>
+<l>Si brochten ooc ter weere</l>
+<l>Harde vele crachten:</l>
+<l>Weghen ende grachten</l>
+<l>Hadden si alle beleghet;</l>
+<l n="2040">Si en waren nye so ontweghet</l>
+<l>No in so grammen moede,</l>
+<l>Sint dat hem God die goede</l>
+<l>Ghedoghede den twifel,</l>
+<l>Dat si moesten metten duvel.</l>
+<l n="2045">Wij en segghen hu nemmeere,</l>
+<l>Of du en wils weder keeren</l>
+<l>Tote onser borch van prijse;</l>
+<l>Daer willen wi eere bewijsen."</l>
+<l>"Neen wi niet; wi willen varen,</l>
+<l n="2050">Daer ons God moet bewaren",</l>
+<l>Sprac die goede Sente Brandaen,</l>
+<l>"Ende Gode volen so moetti gaen."</l>
+<l>Doe Brandaen orlof ghenam,</l>
+<l>Die bouc seit, dat hi quam</l>
+<l n="2055">In den ellefsten morghen</l>
+<l><milestone unit="fol" n="191rb"/> In harde grooter zorghen.</l>
+<l>Die wonderlike liede</l>
+<l>Riepen in haren bediede</l>
+<l>Na den heleghen Brandane</l>
+<l n="2060">Den Gods onderdane</l>
+<l>Ende boden hem scat ende spijse.</l>
+<l>Doe sprac die Gods wijse:</l>
+<l>"Huwe spijse no huwen scat</l>
+<l>Die en bestaet ons plat</l>
+<l n="2065">Ende wi en willens niet ontfaen."</l>
+<l>Doe liet hi sinen kiel gaen</l>
+<l>Ende sciet van dien lande</l>
+<l>Ende voer up die zee te hande.</l>
+<l>Do versach Sente Brandaen</l>
+<l n="2070">Eenen cleenen man saen.</l>
+<l>Die bouc seit ons dat,</l>
+<l>Dat hi vlootte up een blat;</l>
+<l>Die man was cume</l>
+<l>Also groot alse een dume;</l>
+<l n="2075">In die luchter hant zijn</l>
+<l><edition n="49"/>So voerde hi een napkijn;</l>
+<l>In dandre een greffeel bloot,</l>
+<l>Dat ne was no bore groot;</l>
+<l>Daer mede was hem vele wee:</l>
+<l n="2080">Hi stac tgreffeel in die zee</l>
+<l>Ende liet drupen int napkijn,</l>
+<l>Dien hi hadde in de hant zijn;</l>
+<l>Ende doe hijt vol hadde ghedaen,</l>
+<l>Goot hijt weder hute saen;</l>
+<l n="2085">Aldus hi mat ende hute ghoot.</l>
+<l>Hoort hier wonder groot!</l>
+<l>Doe vraechde hem Sente Brandaen,</l>
+<l>Waer omme dat hijt heeft ghedaen.</l>
+<l>Hi sprac: "ic mete dese zee,</l>
+<l n="2090">Hets mi vorscepen emmermee,</l>
+<l>Ofte icse vul meten mach</l>
+<l>Tote voor den doms dach."</l>
+<l>Doe sprac Brandaen die heere:</l>
+<l>"Du en vulmeetse nemmermeere."</l>
+<l n="2095">Die cleene man andwoorde up dat,</l>
+<l>Daer hi up dien blade zat:</l>
+<l>"Niet te meer dan ic vulmeten mach</l>
+<l><milestone unit="fol" n="191va"/> Die zee voor den doms dach</l>
+<l>Niet te meer moghedi bescauwen</l>
+<l n="2100">Al dat wonder en trauwen,</l>
+<l>Dat God heeft laten gheweerden</l>
+<l>Int water ende up der eerden</l>
+<l>Entie di noch verholen zijn.</l>
+<l>Dine gheestelike kindre fijn</l>
+<l n="2105">Die zijn thuus sonder troost;</l>
+<l>God, die di dicken heeft verloost,</l>
+<l>Bidden si dor sine ghenaden,</l>
+<l>Dat bi hu behoede van scaden.</l>
+<l>Gods inghel moete behoeden di!</l>
+<l n="2110">Niet langher willic hu zijn bi."</l>
+<l>In den ellefsten daghe</l>
+<l>Hierna, dats gheene zaghe</l>
+<l>Quamen si, des seker zijt,</l>
+<l>In der tierchen tijt</l>
+<l n="2115">In groter zorghen up die zee,</l>
+<l><edition n="50"/>Daer hem af quam vele wee;</l>
+<l>Haer anxt was vele groot:</l>
+<l>Daer brochtse in grooter noot</l>
+<l>Een visch, die was vreesam,</l>
+<l n="2120">Die jeghen hem zwemmende quam:</l>
+<l>Hi wilde verzwelghen haren kiel;</l>
+<l>Hem was zijn mont ende zijn ghiel</l>
+<l>Menich ghelachte wijt.</l>
+<l>No weder eer na der tijt</l>
+<l n="2125">En was haren anxt so groot.</l>
+<l>Drie daghe hi voor hem vloot;</l>
+<l>Doe spyen hi hem teenen boghe,</l>
+<l>En si dat ons die bouc loghe;</l>
+<l>Den stert stac hi in den monde,</l>
+<l n="2130">So hi alre diepst conde;</l>
+<l>Dat scip hi al omme bevinc;</l>
+<l>XIIII daghe voeren si in den rinc;</l>
+<l>Al daerse die visch verroerde,</l>
+<l>Die den kiel in de zee voerde,</l>
+<l n="2135">Alse ofte hi in de wolken soude</l>
+<l>Ende achterwaert weder woude</l>
+<l>In den diepen afgronde;</l>
+<l>Dus voeren si langhe stonde.</l>
+<l>Doe vielen si in eene baerke</l>
+<l n="2140"><milestone unit="fol" n="191vb"/> Daer mede wilden si sterke</l>
+<l>Royen hute te lande;</l>
+<l>Die visch dede hem grote hande;</l>
+<l>Si weenden moonken ende scipman;</l>
+<l>Brandaen die troostese dan</l>
+<l n="2145">Ende seide: "en wilt hu niet vreesen:</l>
+<l>God heeft ons dicwile voor desen</l>
+<l>Wonderlike dinc gheopenbaert;</l>
+<l>Als dese visch wech vaert,</l>
+<l>So wert die zee al stille;</l>
+<l n="2150">Dan hebben wi onsen wille."</l>
+<l>Doe quam een scone weder;</l>
+<l>Die kiel stont stille, hi en ghinc weder;</l>
+<l>No dor zeyl no dor wint</l>
+<l>Hi en wilde niet gaen een twint;</l>
+<l n="2155">Viere hueren lach hi te dier stede;</l>
+<l>Die hitte hem dicken wee dede;</l>
+<l>Doe quam een windes stoot,</l>
+<l>Die kiel doe henen vloot;</l>
+<l>Die visch hi zanc te gronde;</l>
+<l n="2160"><pb n="51"/> Daer verledichtse God tier stonde.</l>
+<l>Si voeren voort een lettel bat;</l>
+<l>Doe quamen si teenre stat,</l>
+<l>Daer twater was so dinne,</l>
+<l>Datsi onder hoorden daer inne</l>
+<l n="2165">Clocken luden ende clinghen</l>
+<l>Ende ooc papen zinghen;</l>
+<l>Si hoorden paerden neyen</l>
+<l>Ende ooc voghelen screyen;</l>
+<l>Si hoorden die honde bijlen</l>
+<l n="2170">Ende met hoornen ghijlen</l>
+<l>Ende vroylike zinghen</l>
+<l>Ende dansen ende springhen;</l>
+<l>Van mannen ende van wiven</l>
+<l>So horden si onlede driven.</l>
+<l n="2175">Doe si dit hoorden daer onder</l>
+<l>So hadden zijs groot wonder,</l>
+<l>Dat hem so bi was</l>
+<l>Ende si niet en saghen das.</l>
+<l>Die heeren bi rade ghemeene</l>
+<l n="2180">Worpen hute zinckel steene,</l>
+<l>Hoe diepe dat twater ware.</l>
+<l><milestone unit="fol" n="192ra"/> Die steene waren zware:</l>
+<l>In wel corter stonde</l>
+<l>So waren si te gronde;</l>
+<l n="2185">Den ancker worpen si hute daernaer;</l>
+<l>Dies wart hem te moede zwaer</l>
+<l>In den eersten valle</l>
+<l>Die ancker wart met allen</l>
+<l>Onder ghevaen ende ghebonden;</l>
+<l n="2190">Daer hilden si langhe stonden</l>
+<l>Ende hadden wel groot wonder,</l>
+<l>Wiene hilde daer onder.</l>
+<l>Die meester stierman seide doe:</l>
+<l>"Ic en weet, wat ic best doe;</l>
+<l n="2195">Snijdic den ancker reep ontwee,</l>
+<l>So en moghen wi nemmee</l>
+<l>Den gront der zee ghewinnen sciere.</l>
+<l>Helpt ons, Drochtijn, van hiere</l>
+<l>Dore dijnre moeder eere!</l>
+<l n="2200">Nu en moghen wi nemmermeere</l>
+<l>Onser vaert ghenieten."</l>
+<l>Dat zeil si neder lieten;</l>
+<l>Doe vraeghde Sente Brandaen</l>
+<l><edition n="52"/>Eenen sinen capelaen,</l>
+<l n="2205">Die gheheeten was Noe,</l>
+<l>Of hi te scrivene hadde mee</l>
+<l>Des wonders, dat hi hadde ghesien.</l>
+<l>Noe sprac mettien:</l>
+<l>"Vader, ic hebs langhe begheven;</l>
+<l n="2210">God danc, die bouc es vulscreven."</l>
+<l>Doe sprac Sente Brandaen:</l>
+<l>"So willic, dat wi saen</l>
+<l>Desen bouc up haven</l>
+<l>Ende voor Sente Marien draghen,</l>
+<l n="2215">Want wi varen te handen</l>
+<l>Weder tote onsen lande;</l>
+<l>Onse peelgrimage es vuldaen,</l>
+<l>Dat hopic an Gode, saen."</l>
+<l>Doe dit al was ghedaen,</l>
+<l n="2220">Ghinghen si ten zeyle saen</l>
+<l>Ende trockent an den maste</l>
+<l>Ende bondent vele vaste;</l>
+<l>Den ancker cabel sneden si ontwee</l>
+<l><milestone unit="fol" n="192rb"/> Ende voeren vroylic up die zee</l>
+<l n="2225">Ende quamen saen te hant</l>
+<l>Ghesont tote in haer lant.</l>
+<l>Den bouc nam Sente Brandaen</l>
+<l>Ende alle die moonken saen</l>
+<l>Ende ghinghen met hem scone</l>
+<l n="2230">In den monster vrome.</l>
+<l>Doe quamen hem jeghen</l>
+<l>Vele goede Gods deghen,</l>
+<l>Broeders ende papen,</l>
+<l>Alsose God hadde ghescapen,</l>
+<l n="2235">Ende ontfinghen die heeren</l>
+<l>Met wel grooter eeren.</l>
+<l>Dien bouc heeft hi up gheheven</l>
+<l>Daer dat wonder in was bescreven.</l>
+<l>Doe quam een inghel van Gode</l>
+<l n="2240">Ende dede zijns heeren ghebode:</l>
+<l>"Sijt willecomme Brandaen!</l>
+<l>Dine vaert es vuldaen;</l>
+<l>Nu zijt up erderike</l>
+<l>Also langhe, als hu ghelike,</l>
+<l n="2245">Ende alstu hier niet mee wils zijn</l>
+<l>So vaert ten hemele int sitten dijn."</l>
+<l>Doe ghereeddi hem ghewesse</l>
+<l><edition n="53"/>Brandaen ende zanc een messe</l>
+<l>Ende doe die messe was vuldaen,</l>
+<l n="2250">So en lettet niet lanc saen,</l>
+<l>Hi en staerf die heleghe heere.</l>
+<l>God dede hem grote eere:</l>
+<l>Hi zant omme sine ziele</l>
+<l>Den inghel Sente Michiele</l>
+<l n="2255">Men grouf met eeren den lichame</l>
+<l>Daer maectemen in sinen name</l>
+<l>Eene kerke te waren</l>
+<l>Met IX scone autaren,</l>
+<l>Die beteekenden die IX jaer,</l>
+<l n="2260">Dat seit die bouc over waer,</l>
+<l>Dat hi was in allenden</l>
+<l>Daer hem God wilde zenden.</l>
+<l>Nu biddic elken ende rade,</l>
+<l>Dat niemen en versmade</l>
+<l n="2265">Brandaens avontuere,</l>
+<l><milestone unit="fol" n="192va"/> Die hem dicke wart te zuere,</l>
+<l>No en segghe no daer over houde</l>
+<l>Dat loghene wesen soude,</l>
+<l>Want het leedt bescreven in lattijne</l>
+<l n="2270">In meneghen clooster fine</l>
+<l>Ende in menegher goeder stede,</l>
+<l>Daer ment hout in werdicheden,</l>
+<l>Want God toochde hem besondere</l>
+<l>Van sinen heymeliken wondre</l>
+<l n="2275">Die Spieghele houdes ooc orconden.</l>
+<l>Elc claghe sine zonden</l>
+<l>Den goeden Sente Brandane</l>
+<l>Den Gods onderdane,</l>
+<l>Dat hi altoos ende heden</l>
+<l n="2280">Voor ons allen moete beden.</l>
+<l>Dies en moet hi niet vergheten,</l>
+<l>Want hi tparadijs heeft bezeten;</l>
+<l>Dies moeten hooren Xps onse Heere</l>
+<l>Dor siere liever moeder eere!</l>
+<l parse="ignore">AMEN AMEN.</l>
+</text>
+<!--</ENTRY>
+--></TEI.2>

@@ -1,0 +1,131 @@
+<?xml version='1.0'?><!DOCTYPE TEI.2 PUBLIC '-//TEI P4//DTD Main Document Type//EN' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd' [<!ENTITY % TEI.prose 'INCLUDE'><!ENTITY % TEI.linking 'INCLUDE'><!ENTITY % TEI.figures 'INCLUDE'><!ENTITY % TEI.analysis 'INCLUDE'><!ENTITY % TEI.corpus 'INCLUDE'><!ENTITY % TEI.XML 'INCLUDE'><!NOTATION TEI-XML PUBLIC 'TEI P4' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd'><!-- internal INL dtd --><!ELEMENT b (#PCDATA)><!ELEMENT l (#PCDATA | b)*><!-- end of internal INL dtd -->]><TEI.2><!--<ENTRY id="i606"><teiHeader><fileDesc><titleStmt><title>Parthonopeus van Bloys</title>
+</titleStmt>
+<interpGrp type="pubYear_from"><interp value="1290"/></interpGrp>
+<interpGrp type="witnessYear_from"><interp value="1290"/></interpGrp>
+<interpGrp type="pubYear_to"><interp value="1310"/></interpGrp>
+<interpGrp type="witnessYear_to"><interp value="1310"/></interpGrp>
+<TITEL>Parthonopeus van Bloys</TITEL>
+<author>Onbekend</author>
+<AARD>Rijm</AARD>
+<BRON nr="K173">Keulen, Universit&auml;ts- und Stadtbibliothek, 5 P 64 (fragm.)</BRON>
+<DATUM>1290-1310</DATUM>
+<OMVANG>454 verzen</OMVANG>
+<BRON.OPM>Drie bladen, die aan alle kanten besnoeid zijn, echter zonder tekstverlies. Per bladzijde 2 kolommen van 38 regels. De bladen zijn voorzien van een moderne potloodfoli&euml;ring. Fol. 1 en 2 hebben waarschijnlijk tot hetzelfde dubbelblad behoord, dat het op&eacute;&eacute;n-na-binnenste van een katern geweest is; ertussen ontbreken ca. 300 verzen. Tot hetzelfde handschrift behoorden fragmenten die nu bewaard worden te Trier (twee halve bladen) en Berlijn (&eacute;&eacute;n blad).</BRON.OPM>
+<VERWIJZING>Trier, Stadtbibliothek, Mappe IV, deutsche Fragmente, Nr. 3 (fragm.), Berlijn, Staatsbibliothek Preussischer Kulturbesitz, Germ. fol. 757,22 (fragm.)</VERWIJZING>
+<EDITIE>K. Menne: 'Nieuwe fragmenten van den Middelnederlandschen Parthonopeus van Bloys'. In: TNTL 41 (1922), 173-188 (183-188).</EDITIE>
+<STATUS>Kritisch</STATUS>
+<BRONMNW>1007.1 (ander handschrift)</BRONMNW>
+<EDITIE.OPM>De tekst van het hier besproken Keulse fragment telt 454 verzen en valt gedeeltelijk samen met de tekst van de Brusselse fragmenten (zie hierna onder "Bronnen"); 379 van de 454 Keulse regels hebben namelijk een Brusselse pendant (editie Bormans, vs. 3383-3655 (fol. 1 en 2) en 3955-4062 (fol. 3)). Menne heeft in zijn editie niet de gehele tekst van de Keulse fragmenten opgenomen. Volledig geeft hij de 75 nieuwe verzen, evenals enkele verzen die reeds bekend zijn uit de Brusselse fragmenten, maar sterk afwijken. Voor de resterende regels volstaat hij met een overzicht van de varianten. Voor de corresponderende verzen en de varianten gebruikt Menne de versnummering van Bormans; de overige verzen laat hij voorafgaan door een letter, met uitzondering van de 44 regels die volgen op vs. 4062 en genummerd zijn van 1-44. Wat de presentatie van de tekst betreft is hier zo veel mogelijk het voorbeeld van de editie gevolgd. Niet overgenomen echter is het overzicht met de varianten; verder zijn de afkortingen in de editie hier opgelost, maar niet gemarkeerd.</EDITIE.OPM>
+<BRONNEN>De Parthonopeus is in het Middelnederlands alleen fragmentarisch overgeleverd. Van in totaal 5 handschriften zijn er fragmenten bewaard: Hs. 1: - <x nr=K171>Trier, Stadtbibliothek, Mappe IV, deutsche Fragmente, Nr. 3 (fragm.)</x>
+ - <x nr=K172>Berlijn, Staatsbibliothek Preussischer Kulturbesitz, Germ. fol. 757,22 (fragm.)</x>
+ - <x nr=K173>Keulen, Universit&auml;ts- und Stadtbibliothek, 5 P 64 (fragm.)</x>
+ Hs. 2: - <x nr=K174>Keulen, Historisches Archiv, Hss-Fragm. A 45 (fragm.)</x>
+ - <x nr=K175>Leiden, Bibliotheek der Rijksuniversiteit, Ltk. 210 (fragm.)</x>
+ - <x nr=K176>Brussel, Koninklijke Bibliotheek, II 572 (fragm.)</x>
+ Hs. 3: - <x nr=K177>Jena, Universit&auml;ts- und Landesbibliothek, Fol. 155 [fragmenten-Jena&supb;] (fragm.)</x>
+ - <x nr=K178>Jena, Universit&auml;ts- und Landesbibliothek, Fol. 155 [fragmenten-Jena&supa;] (fragm.)</x>
+ - <x nr=K179>Groningen, Bibliotheek der Rijksuniversiteit, 406 (fragm.)</x>
+ - <x nr=K180>Keulen, Erzbisch&ouml;fliche Di&ouml;zesanund Dombibliothek (?), [zoek] (fragm.)</x>
+ Hs.4: - <x nr=K181>Maastricht, Rijksarchief in Limburg, 167 III 9 (fragm.)</x>
+ Hs.5: - <x nr=K182>Praag, Katedra pomocn&yacute;ch ved historick&yacute;ch a archivn&iacute;ho studia na filosofick&eacute; fakulte Karlovy university, z.s. (fragm.)</x>
+</BRONNEN>
+<HSDRUK>Historie van Partinoples - Grave van Bleys</HSDRUK>
+</fileDesc>
+</teiHeader>
+--><text>
+<l parse="ignore"><edition n="183"/>dar mochtemen eenors scouwen</l>
+<l n="3395">van sconen gelate ende van fieren</l>
+<l>scone gevarvet in .III. quartieren</l>
+<l>was sine baniere ende sijn scacht</l>
+<l>ende quartierde waren gewracht</l>
+<l>coeuertoren ende arcoene</l>
+<l>terst dat hi vp wairoene</l>
+<l>reet hi neder buten castele</l>
+<l n="3396">dart scone was bin enen praiele</l>
+<l parse="ignore" n="3438"><pb n="184"/> ende newisten oft here of knape</l>
+<l>of wiet was alsi ontsprongen</l>
+<l>alse hoekine si vp sprongen</l>
+<l>dene ghinder dander hare</l>
+<l>alse nageden die waren in vare</l>
+<l>mar terst dat si horden vraken</l>
+<l n="3439">kennet sise wel bi hare spraken</l>
+<l parse="ignore" n="3447">ende alse harlic andren das</l>
+<l parse="ignore" n="3482">dat [ic] v gepens niet mach verstaen</l>
+<l parse="ignore">sust[er] seit soe ic hebbe gedaen</l>
+<l parse="ignore">te ve[....]te vwen rade</l>
+<l parse="ignore">nu ro[u]wet mi al es het spade</l>
+<l>sint ic dor mijn ouermoede</l>
+<l>gerechte minne ende goede</l>
+<l>ewelike hebbe verloren</l>
+<l n="3483">wel met rechte heb ic toren</l>
+<l n="3493">waric wardig niet(!) der doet</l>
+<l n="3492">neware lange quale ende groet</l>
+<l n="3526">ledi v lijf na minen wane</l>
+<l>het es goet an v te verstane</l>
+<l>dat ghi mint starke so diet si</l>
+<l><pb n="185"/> partonopeus nomendi mi</l>
+<l>ende gelaet v ende toghet</l>
+<l n="3527">of ghi dor hem vernoi doghet</l>
+<l parse="ignore" n="3571">neware dat nemochte nemmermere</l>
+<l>gescien dat ickene mochte minnen</l>
+<l>ende wettelike gewinnen</l>
+<l>te manne te nemene sonder desen</l>
+<l>dien tornoi latic wel wesen</l>
+<l parse="ignore">mar minen lechame moete bi viere</l>
+<l parse="ignore" n="3572">in couden asschen verbernen schiere</l>
+<l parse="ignore" n="3616">vrouwe seidsoe dor god genaden</l>
+<l>wat helpet dat ghi v dus meslaet</l>
+<l>derre dinc die v niet nebestaet</l>
+<l>der vant sciere of comen al</l>
+<l>ende vaet ter dinc die wesen sal</l>
+<l>so mogedi leuen met gemake</l>
+<l n="3617">soete suster seit soe vrake</l>
+<l n="4061"><pb n="187"/> ende bi rechte worden ontwiset</l>
+<l n="4062">dieic sal so harde sijn gepriset</l>
+<l n="1">Dus hoegelike sprac hi dar hi lach</l>
+<l>ende pensde altoe ward om dien d[ach]</l>
+<l>in sinen gepense dochtem das</l>
+<l>dat bi sijn al bouen was</l>
+<l n="5">bin dien es comen dar al an staet</l>
+<l>vrake, sijn trost, sijn toeuerlaet</l>
+<l>ende doet partonopeus vp staen</l>
+<l>ende jn ene andre kemenade gaen</l>
+<l>die sconre was ende rikeliker</l>
+<l n="10">ende dar hi mochte heimeliker</l>
+<l>aldien dach ouer bliuen jnne</l>
+<l>bin dien stoet die keiserinne</l>
+<l>van dien banke neder dar se vp stoet</l>
+<l>ende seit dat soe vorsten moet</l>
+<l n="15">dien dach met tegordene suert</l>
+<l>ende hare houet so harde suerd</l>
+<l>dat soere gestaen niet nemach toe</l>
+<l>ende hiet ombiden tes morghin vroe</l>
+<l>also gewapent alsi waren</l>
+<l n="20">dat pensic ende seg v tewaren</l>
+<l>jc bem deghene dies wel gelouet</l>
+<l>dat hare vele sere suert hare houet</l>
+<l>ende dartoe al hare andre lede</l>
+<l>alst herte heuet serichede</l>
+<l n="25">vtermaten nacht ende dach</l>
+<l>so vele dats nemmer wesen mach</l>
+<l>dan deel soes al dien weder</l>
+<l>van bouen toten voeten neder</l>
+<l>bedi seide do war melioer</l>
+<l n="30">dat hare thouet sere suoer</l>
+<l>Dat dus die vrouwe beiden hiet</l>
+<l>die joncheren die so van hen sciet</l>
+<l><edition n="188"/>wat hadde vrake te doene das</l>
+<l>talrirst dat nacht ende donker was</l>
+<l n="35">nam soe orlof ende ghin[c]</l>
+<l>tescepe metten iongelinc</l>
+<l>ende ghingen te scepe metter vloet</l>
+<l>ende hadden dien wint te winsche goet</l>
+<l>te seile (!) ghin[gen si] diere toe horden</l>
+<l n="40">[s]ome ten garden (!) some ten rorden</l>
+<l>ende seilden woch tesalencen ward</l>
+<l>ende hadden wel goede vard</l>
+<l>ende alsi gearriuieret waren</l>
+<l>done waser geen langer sparen</l>
+</text>
+<!--</ENTRY>
+--></TEI.2>

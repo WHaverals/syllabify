@@ -1,0 +1,1417 @@
+<?xml version='1.0'?><!DOCTYPE TEI.2 PUBLIC '-//TEI P4//DTD Main Document Type//EN' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd' [<!ENTITY % TEI.prose 'INCLUDE'><!ENTITY % TEI.linking 'INCLUDE'><!ENTITY % TEI.figures 'INCLUDE'><!ENTITY % TEI.analysis 'INCLUDE'><!ENTITY % TEI.corpus 'INCLUDE'><!ENTITY % TEI.XML 'INCLUDE'><!NOTATION TEI-XML PUBLIC 'TEI P4' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd'><!-- internal INL dtd --><!ELEMENT b (#PCDATA)><!ELEMENT l (#PCDATA | b)*><!-- end of internal INL dtd -->]><TEI.2><!--<ENTRY id="i43"><teiHeader><fileDesc><titleStmt><title>Bediedenisse van der missen</title>
+</titleStmt>
+<interpGrp type="pubYear_from"><interp value="1340"/></interpGrp>
+<interpGrp type="witnessYear_from"><interp value="1340"/></interpGrp>
+<interpGrp type="pubYear_to"><interp value="1360"/></interpGrp>
+<interpGrp type="witnessYear_to"><interp value="1360"/></interpGrp>
+<TITEL>Bediedenisse van der missen</TITEL>
+<author>Onbekend</author>
+<AARD>Rijm</AARD>
+<BRON nr="K128">Leiden, Bibliotheek der Rijksuniversiteit, Ltk. 191</BRON>
+<DATUM>1340-1360</DATUM>
+<OMVANG>1283 verzen</OMVANG>
+<BRON.OPM>Handschrift Ltk. 191 is een convoluut (2+146+2 bladen). De Bediedenisse van der missen bevindt zich op fol. 95-103. Per bladzijde 2 kolommen en per kolom 44 regels. De codex bevat nog vijf andere teksten: Ferguut (fol. 1-32), Floris ende Blancefloer (fol. 33-58), Der ystorien bloeme (fol. 59-84), Esopet (fol. 85-94), en de Dietsche doctrinale (fol. 104-146). Floris ende Blancefloer en Der ystorien bloeme zijn volgens Lieftinck door dezelfde kopiist geschreven. De Ferguut en de Dietsche doctrinale schijnen al in de 15e eeuw samengebonden te zijn geweest; zie Kienhorst (1988), 37-38.</BRON.OPM>
+<EDITIE>A.C. Oudemans: Die bediedenisse van der missen. Leiden 1852.</EDITIE>
+<STATUS>Kritisch</STATUS>
+<BRONMNW>48 </BRONMNW>
+<EDITIE.OPM>De vetgedrukte tussentitels van de editie zijn hier cursief weergegeven. De afkortingen xpc, xps en xpm (= Cristus en Cristum) werden niet opgelost.</EDITIE.OPM>
+<BRONNEN>Leiden, Bibliotheek der Rijksuniversiteit, Ltk. 191</BRONNEN>
+</fileDesc>
+</teiHeader>
+--><text>
+<head type="title"><pb n="11"/> DIT ES DIE BEDIEDENISSE VAN DER MISSEN IN DIETSCHE.</head>
+<div type="chapter"><head type="chapter comment">[Proloog]</head>
+<l>Ic waent een salech mensche were,</l>
+<l>Die, met woerden ende met lere,</l>
+<l>Ander liede daer toe brochte,</l>
+<l>Dat si herte, sin ende ghedochte</l>
+<l n="5">Keerden ane den ghenen al,</l>
+<l>Die ie was ende bliuen sal,</l>
+<l>Deus: want ict gherne saghe,</l>
+<l>Dat elc mensche Gode an laghe</l>
+<l>Vele meer, dan hi doet</l>
+<l n="10">Om dit verganclike goet.</l>
+<l>Ic woude elc mensche wiste,</l>
+<l>Of liete hem wisen met liste,</l>
+<l>Wat ghenaden, welke salicheit</l>
+<l>Ane die heileghe misse leit.</l>
+<l n="15">Ic wane sise dan dicke sochten,</l>
+<l>Dat sise hoerden alsi mochten;</l>
+<l>Want wi moghen weten ghewisse,</l>
+<l>Dat alsoe vele ane die misse</l>
+<l>Ghenaden ende salicheiden leit,</l>
+<l n="20">Als in die sonne stoues geit.</l>
+<l>Want menech luttel weet,</l>
+<l>Waer omme hi te missen geet,</l>
+<l>Ende in sijn herte niet en dreghet,</l>
+<l>wat ane die heileghe misse leghet,</l>
+<l n="25"><pb n="12"/> Soe willic, bider helpen ons Heren,</l>
+<l>.I. deelken den mensche leren,</l>
+<l>Alsoe verre als ane die dude,</l>
+<l>Gheweten moghen leke lude.</l>
+<l>Dat doe ic al omme dat,</l>
+<l n="30">Dat elc mensche des te bat</l>
+<l>Hem seluen wille daer toe keren,</l>
+<l>Dat hi hore den dienst ons heren.</l>
+</div>
+<div type="chapter"><head type="chapter"><i>Waer omme men die clocken luut.</i> </head>
+<l>Men plach, in die oude ee,</l>
+<l>.I. bosine te blasen of twee,</l>
+<l n="35">Na die ioedsche wise mede.</l>
+<l>Alle tfolc samende in .j. stede.</l>
+<l>Als tfolc wert kenlijc dies,</l>
+<l>Dat men dierste bosine blies,</l>
+<l>Soe en mochten si niet langher beiden,</l>
+<l n="40">Maer, met haesten, hem der waert ghereid[en];</l>
+<l>Daerna blies men ene andre,</l>
+<l>Soe moeste tfolc te samen w[andren],</l>
+<l>Op dat si haestelike quamen;</l>
+<l>Daerna blies men dan te samen,</l>
+<l n="45">Soe was tfolc te samen comen,</l>
+<l>Die dat blasen hadden vernomen.</l>
+<l>Voer dat blasen hebben wi die clo[cken],</l>
+<l>Die ons nu ter kerken locken;</l>
+<l>Alse wi nu die clocken horen</l>
+<l n="50">Ierst werf luden op den toren,</l>
+<l>Soe selen wi ter vaert</l>
+<l>Ghereiden ons, ter kerken waert;</l>
+<l>Alse men die ander clocke luut,</l>
+<l>So selen wi sijn comen uut,</l>
+<l n="55">Ende haestelike ter kerken gaen.</l>
+<l>Alse wi horen te gader slaen</l>
+<l><edition n="13"/>Alle die clocken, so sele wi wesen</l>
+<l>In die kerke, ende daer lesen</l>
+<l>Onse ghebede oetmoedelike,</l>
+<l n="60">Ane onsen Here van hemelrike.</l>
+<l>Wi souden alle sorghen laten,</l>
+<l>Dat mochte onser sielen baten.</l>
+<l>Wi selen wenen om onse sonden,</l>
+<l>Daer wi mede sijn ghebonden,</l>
+<l n="65">Ende hebben gansen rouwe</l>
+<l>Om die sonden, die wi bouwen.</l>
+<l>Wine moghen ieghen niemen spreken,</l>
+<l>En doe ons noet, dan sele wi bre[ken]</l>
+<l>Ons daer af, als wi ierst moghen,</l>
+<l n="70">Ende ons ieghen Gods werke voeghen.</l>
+<l>Daer peinsen die liede luttel an,</l>
+<l>Beide vrouwe ende man,</l>
+<l>Die dicke runen ende kiuen,</l>
+<l>Ende onghestier in die kerke driuen.</l>
+<l n="75">Die bose viant al die wort,</l>
+<l>Die hi in die kerke hort,</l>
+<l>Die onnutte ende idel sijn,</l>
+<l>Scrijft hi in dat herte sijn,</l>
+<l>Ende houtse vaste in sijn oghen,</l>
+<l n="80">Om dat hi daer mede moghen</l>
+<l>Den mensche vor Gode wroeghen,</l>
+<l>Ende van sinen Sceppere ontvoegen,</l>
+<l>Alse bi redene gheuen moet</l>
+<l>Van sinen leuene, eist quaet of goet.</l>
+<l n="85">Alle die kerke ende alle choer,</l>
+<l>Beide achter ende voer,</l>
+<l>Es vol alder salechede,</l>
+<l>Ende van heileghen enghelen mede.</l>
+<l>Die enghele bidden onsen Here,</l>
+<l n="90">Dat hi ons in herte kere,</l>
+<l><edition n="14"/>Ende wi behouden moghen bliuen</l>
+<l>Beide ane siele ende ane liue.</l>
+<l>Sal men singhen ofte lesen</l>
+<l>Die misse, daer en sal niet wesen</l>
+<l n="95">In den choer, sonder u gedacht</l>
+<l>Vaste ane onse Here ghehacht.</l>
+<l>Want alsoe als die see</l>
+<l>Es vol waters, ende die snee</l>
+<l>Alsof vol es die misse</l>
+<l n="100">Alder heilecheit ghewisse.</l>
+<l>Alsoe als men can ghetellen niet</l>
+<l>Dat stof, dat in die sonne vliet,</l>
+<l>Alsoe can niemen, die leuet,</l>
+<l>Ghetellen wat ons God gheuet</l>
+<l n="105">Met sier ghenaden, als wi nu sien</l>
+<l>Die misse, met gansen rouwe ghescien.</l>
+</div>
+<div type="chapter"><head type="chapter"><i>Die .X. ghenaden vander Missen.</i> </head>
+<l>God gheuet sonderlinghe</l>
+<l>.X. ghenadelike dinghen</l>
+<l>Elken mensche, als hi hort</l>
+<l n="110">Met rechten gheloue der missen wort.</l>
+<l>Dierste es, dat hem God vergheuet</l>
+<l>Die sonden, die hi ghedaen heuet.</l>
+<l>Dander es, dat hem besteet,</l>
+<l>Dat hi den heileghen gheest ontfeet.</l>
+<l n="115">Dat derde es, dat des bidders wort</l>
+<l>Onse Here te lieuer hort.</l>
+<l>Die vierde ghenade es, dat</l>
+<l>Die enghel, dat si des te bat</l>
+<l>Den mensche in dogheden ghesterken,</l>
+<l n="120">Ende behoeden van quaden werken.</l>
+<l>Dat vijfte es, dat wi wel bederuen</l>
+<l>Rechts gheloue, als wi steruen,</l>
+<l><edition n="15"/>Die hem God gherne verleent</l>
+<l>Die hem in die misse dient.</l>
+<l n="125">Dat hi van dogheden in dogheden gaet</l>
+<l>Die mensche, dats die seste graet.</l>
+<l>Die VII&supd;&supe; es, dat onse Here</l>
+<l>Te lieuer hort den bedelere,</l>
+<l>Dats die priester die daer sinct,</l>
+<l n="130">Ende die misse volbrinct;</l>
+<l>Niet en sinct hi allene,</l>
+<l>Maer den kerstine ghemene.</l>
+<l>Die achtende vander missen,</l>
+<l>Den mensche in verlanissen,</l>
+<l n="135">Stercheit, ende wetenheit,</l>
+<l>Des heilechs gheloue der ontfermecheit.</l>
+<l>Die neghende es, dat sijn vaghevier,</l>
+<l>Dat hem worden soude al te suer,</l>
+<l>Wesen moet des te minder,</l>
+<l n="140">Beide hier ende ghinder.</l>
+<l>Die X&supd;&supe; es, dat onse Here</l>
+<l>Hem voeghet ieghen den mensche sere,</l>
+<l>Ende doet hem behoedichede,</l>
+<l>Ane siele ende ane liue mede.</l>
+<l n="145">Want ons alsoe vele goets ghesciet,</l>
+<l>Dat wie dat onsen Here siet</l>
+<l>Van dien, dat wi die misse horen,</l>
+<l>So dunke si nu wel wesen dore,</l>
+<l>Ende recht vermalendijt,</l>
+<l n="150">Die niet gherne in alder tijt</l>
+<l>Die kerke ende die misse sochten,</l>
+<l>Al sijt wel volbringhen mochten.</l>
+</div>
+<div type="chapter"><head type="chapter"><i>Die pape dwaet sine hande.</i> </head>
+<l>Alse die priester die misse reet,</l>
+<l>Tierst dat hi dan ane veet,</l>
+<l n="155"><pb n="16"/> Dats, dat hi sine hande dweet,</l>
+<l>Ende trect ute sine anecleet.</l>
+<l>Dat bediet niet allene,</l>
+<l>Dat sine hande selen wesen rene,</l>
+<l>Maer sijn herte uten gronde</l>
+<l n="160">Sal wesen rene van alder sonde.</l>
+</div>
+<div type="chapter"><head type="chapter"><i>Van der Amicten.</i> </head>
+<l>Soe nemt hi enen doec wit,</l>
+<l>Die gheheten es amit,</l>
+<l>Die hem om die side strect,</l>
+<l>Ende sijn hoeft al omme bedect.</l>
+<l n="165">Biden doeke wi verstaen,</l>
+<l>Dat Jhesus, doen hi wert gheuaen,</l>
+<l>.I. doec, als ons seit die scrift,</l>
+<l>Was ghebonden vor sijn ansicht.</l>
+<l>Die ioden sloegen ende staken</l>
+<l n="170">Dese wort si te hem spraken:</l>
+<l>Bestu Gods sone, die leuet,</l>
+<l>Gheraedt, wie die ghesleghen heuet!</l>
+<l>Die amit, die ic noemede eer,</l>
+<l>Die betekent ons noch meer:</l>
+<l n="175">Hoe hem xpc. onse Here</l>
+<l>Oetmoedichde so sere,</l>
+<l>Dat hi sine Godheit breit</l>
+<l>Bedecte metter menschelijcheit.</l>
+</div>
+<div type="chapter"><head type="chapter"><i>Van Aluen.</i> </head>
+<l>Nu trect hi ane .i. linen ghewant,</l>
+<l n="180">Dat .i. alue es ghenant,</l>
+<l>Dat bedect die ander lede.</l>
+<l>Daer es ons betekent mede</l>
+<l>Jhesus Cristus witte cleet,</l>
+<l>Daer hi groet spot in leet,</l>
+<l n="185"><pb n="17"/> Dat hem die quade Herodes dede,</l>
+<l>Ende alle sine meyseniede mede,</l>
+<l>Doe Pylatus ute sier hande</l>
+<l>Jhesum tote Herodesse sande.</l>
+</div>
+<div type="chapter"><head type="chapter"><i>Vanden Gordele.</i> </head>
+<l>Ic wane tgordel hier an si;</l>
+<l n="190">Daer es ons betekent bi</l>
+<l>Die ghesele, daer Pylatus mede</l>
+<l>Onsen Here gheselen dede.</l>
+</div>
+<div type="chapter"><head type="chapter"><i>Vander Stolen.</i> </head>
+<l>Ene stole nemt hi dan,</l>
+<l>Daer es bouen .i. cruce an;</l>
+<l n="195">Si hanghet bider siden neder;</l>
+<l>Om den hals comt si weder.</l>
+<l>Dat bediet Jhesus verdriet,</l>
+<l>Dat hi in ertelike liet,</l>
+<l>Van allen sinen kinschen daghen,</l>
+<l n="200">Tes hi aent cruce wert gheslaghen:</l>
+<l>Die was groet ende menegherande.</l>
+<l>Die stole betekent ons die bande,</l>
+<l>Daer hi mede wert ghebonden</l>
+<l>Ane die columme tien stonden,</l>
+<l n="205">Doene Pylatus dede slaen,</l>
+<l>Alsoe dat men bloet sach gaen</l>
+<l>Ute allen sinen leden,</l>
+<l>Beide bouen ende beneden.</l>
+</div>
+<div type="chapter"><head type="chapter"><i>Vander Hantvane.</i> </head>
+<l>Soe neemt hi ane die luchterhant,</l>
+<l n="210">.I. hantvane eist ghenant,</l>
+<l>Bi ghelike oft ware .i. scilt,</l>
+<l>Die men vor den viant hilt.</l>
+<l><edition n="18"/>Dat betekent ons die bant</l>
+<l>Dier die joden alte hant</l>
+<l n="215">Onsen Here mede cnochten,</l>
+<l>Doen sine voer tgherechte brochten.</l>
+<l>Oec verstant wi daer mede</l>
+<l>Ons Heren moghenthede.</l>
+</div>
+<div type="chapter"><head type="chapter"><i>Van Casughele.</i> </head>
+<l>Hier na trect hi ane .i. cleet,</l>
+<l n="220">Dat .i. casughele heet;</l>
+<l>Dat betekent ons tpellen,</l>
+<l>Dat die riddren ende haer ghesellen</l>
+<l>Deden onse Here ane trucken.</l>
+<l>Hi liet hem op sijn hoeft drucken</l>
+<l n="225">Enen crone, van dornen lanc,</l>
+<l>Die hem dor die swarde dranc.</l>
+<l>Met hem hadden hi hare spot,</l>
+<l>Ghelijc of hi hadde gheweest .i. sot;</l>
+<l>Si riepen alle Pylatus an:</l>
+<l n="230">Laet ons crucen desen man,</l>
+<l>Die ons al dus sere laect,</l>
+<l>Dat hi hem Gods sone maect.</l>
+<l>Bider casughele moghen wi proeuen,</l>
+<l>Alse hise ierst an heeft ghetoghen,</l>
+<l n="235">Dat si es alse .i. clocke ghescapen.</l>
+<l>Daer na leit mense den papen</l>
+<l>Op die erme. Daer proeuen wi bi</l>
+<l>Dit si ghelijc .i. scilde si.</l>
+<l>Dat betekent ons sere</l>
+<l n="240">Die groete lieue, die onse Here</l>
+<l>Droech ane menschelike nature.</l>
+<l>Daer omme verloestise so diere,</l>
+<l><edition n="19"/>Niet met gode no met goede,</l>
+<l>Maer met sinen ghebenendiden bloede.</l>
+</div>
+<div type="chapter"><head type="chapter"><i>Confiteor.</i> </head>
+<l n="245">Soe staet die pape vor den outaer;</l>
+<l>"Confiteor" so seit hi daer,</l>
+<l>Vor sine daghelike sonden.</l>
+<l>Doch soe moet hi sijn ontbonden</l>
+<l>Van allen sonden ghemene,</l>
+<l n="250">Beide groet ende clene.</l>
+</div>
+<div type="chapter"><head type="chapter comment">[Introitus]</head>
+<l>Nu sinct hi ane dat ierste wort,</l>
+<l>Datter heilegher missen hort,</l>
+<l>Dat heet introitus.</l>
+<l>Dat bediet ons aldus</l>
+<l n="255">.I. inganc of .i. aenbeghin.</l>
+<l>Daer es ons betekent in</l>
+<l>Dat roepen, dat die oude vadere,</l>
+<l>Ende die propheten alle gadere</l>
+<l>Roepen op waert ane onsen Here,</l>
+<l n="260">Doe hem des verlangde sere,</l>
+<l>Dat hi alte langhe was.</l>
+<l>Daer omme sprac Ysayas:</l>
+<l>Vergaue God, woustu storen</l>
+<l>Den hemel, ende worden gheboren.</l>
+<l n="265">Wi sien wel, dat introitum</l>
+<l>Singt men na, dat es daer om:</l>
+<l>Ierst warf loeft men daer mede</l>
+<l>Die almachteghe godhede,</l>
+<l>Ander warf die menschelijchede,</l>
+<l n="270">Dese sijn in Cristus bede.</l>
+</div>
+<div type="chapter"><head type="chapter"><pb n="20"/> <i>Kyrieleyson.</i> </head>
+<l>Eest alsic nu daer na versta</l>
+<l>Kyrieleyson volghet daer na;</l>
+<l>Dat wanic dat in Dietsche si:</l>
+<l>Here ontfermedi ouer mi.</l>
+<l n="275">Dese worde die sijn drie:</l>
+<l>Der triniteit sinct men die,</l>
+<l parse="ignore">Dander xpm sinen sone,</l>
+<l>Die derde vrucht, die hier comt of,</l>
+<l>Dats den heileghen gheest lof.</l>
+<l n="280">Elc wort men driewerf sinct;</l>
+<l>Dat proeuic dat ons .i. brinct</l>
+<l>IX worde, die sijn ghelike</l>
+<l>IX choren, die sijn in hemelrike.</l>
+</div>
+<div type="chapter"><head type="chapter"><i>Gloria in excelsis Deo.</i> </head>
+<l>Hier na seit men den priester saen</l>
+<l n="285">In midden vor den outaer staen.</l>
+<l>Hi singhet lude ende vroe:</l>
+<l>Gloria in excelsis Deo!</l>
+<l>Dat bediet: lof ende ere</l>
+<l>Si, hier bouen, onsen Here!</l>
+<l n="290">Die in den choer sijn, singhen vort</l>
+<l>Al, dat daer toe behort.</l>
+<l>Dat die priester in midden steet,</l>
+<l>Dan es sonder sake niet,</l>
+<l>Want daer selen wi proeuen bi,</l>
+<l n="295">Dat onse Her gheboren si</l>
+<l>Voer mi noch vor di allene,</l>
+<l>Maer vor alle die werelt ghemene.</l>
+<l>Dit gloria es dat lof,</l>
+<l>Dat die enghel sanc daer of,</l>
+<l n="300"><pb n="21"/> Dat onse Here gheboren was,</l>
+<l>Dat sijns Maria maghet ghenas.</l>
+<l>Dinghel sprac den herden toe,</l>
+<l>Die opten velde waren doe:</l>
+<l>Groete bliscap condic u:</l>
+<l n="305">.I. kint es gheboren nu</l>
+<l>Te Bethlem, dat die werelt al</l>
+<l>Van haren pinen verlossen sal.</l>
+<l>Die IX choren sijn die scaren</l>
+<l>Van englen, die met hem waren,</l>
+<l n="310">Die alle mede lof ende ere</l>
+<l>Songhen onsen lieuen Here,</l>
+<l>Gloria in excelsis Deo!</l>
+<l>Dit lof hoert der bliscap toe.</l>
+<l>In den aduentu singt men niet;</l>
+<l n="315">Dat laet men om dat verdriet,</l>
+<l>Dat die propheten wilen ere</l>
+<l>Hadde, doen hem langde sere,</l>
+<l>Dat onse Here neder quam,</l>
+<l>Ende dese uter pinen nam</l>
+<l n="320">Oec sinct men, allelua!</l>
+<l>Dat doet men, alsic versta,</l>
+<l>Om die hope, die die propheten</l>
+<l>Hadden, doen hem was gheheten</l>
+<l>Dat hi neder comen soude,</l>
+<l n="325">Ende oec verlossen woude.</l>
+</div>
+<div type="chapter"><head type="chapter"><i>Van .ii. Kersen.</i> </head>
+<l>Wanneer men die misse sal beghinnen,</l>
+<l>Sal men .ij. kersen brenghen</l>
+<l>Ende setten opten outaer;</l>
+<l>Die moeten beide bornen daer.</l>
+<l n="330">Nochtan dat moghelijc ware,</l>
+<l>Dat .M. kersen ten outare</l>
+<l><edition n="22"/>Alle lichten, doch mochte men nicht</l>
+<l>Die misse singhen sonder licht.</l>
+<l>Bider ere kersen selewi verstaen</l>
+<l n="335">.I. sterre, die men op sach gaen,</l>
+<l>Ende bliken als .i. ghelas,</l>
+<l>Doen Jhesus gheboren was.</l>
+<l>Die selue sterre men scinen sach</l>
+<l>Vuer die cribbe, daer God in lach;</l>
+<l n="340">Dander kerse bediet die sterre,</l>
+<l>Die die coninghe van verre</l>
+<l>Leiden ute haren lande,</l>
+<l>Doen si brochten dofferande</l>
+<l>Onsen Here drie vout,</l>
+<l n="345">Merre, wieroc ende gout.</l>
+</div>
+<div type="chapter"><head type="chapter"><i>Dominus vobiscum.</i> </head>
+<l>Ten volke keerde hi hem daerna</l>
+<l>Die priester, alsic versta,</l>
+<l>Dominus vobiscum seit hi.</l>
+<l>Dat bediet, dunct mi,</l>
+<l n="350">Dat onse Here bi hem si,</l>
+<l>Of het es gheseit daer bi,</l>
+<l>Dat God des volx bede hore.</l>
+<l>Die dan sijn in den core,</l>
+<l>Antworden den priester toe,</l>
+<l n="355">Et cum spiritu tuo.</l>
+<l>Dat bediet die selue here,</l>
+<l>Die dus bids, dat met ons were,</l>
+<l>Die si in di ende metti ghesterken,</l>
+<l>In allen dogheliken werken.</l>
+</div>
+<div type="chapter"><head type="chapter"><pb n="23"/> <i>Die Collecten.</i> </head>
+<l n="360">Die collecten leest hi dan;</l>
+<l>So soude vrouwe ende man</l>
+<l>Alle vallen op hare knien,</l>
+<l>Ende bidden Gode, dat moeste ghescien,</l>
+<l>Dat die pape bidt daer.</l>
+<l n="365">Wi willen weten ouer waer,</l>
+<l>Dat alle collecten sonderlinghe</l>
+<l>Biden alle saleghe dinghe.</l>
+<l>Biden collecten selewi merken,</l>
+<l>Dat onse Here, in allen kerken</l>
+<l n="370">Sier moeder wille dede,</l>
+<l>Ende dienen haer gherne in elke stede.</l>
+</div>
+<div type="chapter"><head type="chapter"><i>Die Epistele.</i> </head>
+<l>Die epistele es hier bi.</l>
+<l>Dat bediet, dat ghesent si.</l>
+<l>Daer bi selen wi verstaen</l>
+<l n="375">Dat predeken ende dat omme gaen,</l>
+<l>Dat die apostelen wilen deden,</l>
+<l>Om onsen Here in meneghen steden.</l>
+<l>Oec so proeuen wi daer an,</l>
+<l>Dat die goede sente Jan</l>
+<l n="380">Predecte so uter maten wel,</l>
+<l>Dat die liede waenden wel,</l>
+<l>Dat hi selue die ghene ware,</l>
+<l>Dien hi predecte openbare.</l>
+<l>Neen, sprac weder sente Jan,</l>
+<l n="385">Na mi comt .i. ander man;</l>
+<l>Ic ben niet wert, dat ic ontdoen</l>
+<l>Soude die riemen van sinen scoen.</l>
+<l>Ic ben .i. stemme, seide hi;</l>
+<l>Dats ghesproken ghelike bi:</l>
+<l><edition n="24"/>Alsoe als .i. stemme es clene,</l>
+<l>Jeghen alle die werelt ghemene,</l>
+<l>Alsoe clene benic wel</l>
+<l>Jeghen die ghene, die comen sel.</l>
+</div>
+<div type="chapter"><head type="chapter"><i>Gradael.</i> </head>
+<l>   Alse die epistele es ghelesen,</l>
+<l n="395">Tierste sal daer na wesen</l>
+<l>Dat gradael, dat die graet,</l>
+<l>Die van dogheden in dogheden gaet.</l>
+<l>Allelua! singt men dan</l>
+<l>Metten verse, datter volghet an.</l>
+<l n="400">Allelua, dats es: lof onsen Here!</l>
+<l>Biden verse sele wi leren:</l>
+<l>Goede werke, ghestadechede.</l>
+<l>Oec selewi proeuen mede</l>
+<l>Dat niemes lof en es Gode bequame,</l>
+<l n="405">En si, dat hi hem der sonden scame.</l>
+<l>Lof ende ghebet en es niet goet</l>
+<l>Hem, die quade werke doet.</l>
+<l>Dat gradael, dat ic noemede eer,</l>
+<l>Dat betekent ons noch meer,</l>
+<l n="410">Hoe dat die goede sente Jan</l>
+<l>Mede wijsde xpm an.</l>
+</div>
+<div type="chapter"><head type="chapter"><i>Sequentie.</i> </head>
+<l>Si wilen sinct men daer na</l>
+<l>Sequentien, daer ic in versta,</l>
+<l>Dien groet lof, dien groet ere,</l>
+<l n="415">Die die heileghen onsen Here</l>
+<l><edition n="25"/>Hier bouen doen in die claerheit;</l>
+<l>Welc dat si, en wetic niet.</l>
+</div>
+<div type="chapter"><head type="chapter"><i>Tract.</i> </head>
+<l>Als allelua es gheseghet,</l>
+<l>Den tract men te singhene pleghet.</l>
+<l n="420">Dat bediet, hoe si waren,</l>
+<l>Die Israelsche scaren,</l>
+<l>In groten pinen, in swaren bande,</l>
+<l>Dogheden in Egyptenlande.</l>
+<l>Dat ewanghelium sal men lesen,</l>
+<l n="425">Dat sal hier na dierste wesen.</l>
+<l>Die scrift seit, dat outaer</l>
+<l>Bediet ons die warheit claer.</l>
+<l>Dat die pape daer na dringhet</l>
+<l>Sine lippen, eer hi singhet,</l>
+<l n="430">In .i. teken, dat die wort</l>
+<l>Der ewanghelien, die ghi hoert,</l>
+<l>Waer si, ende onse Here</l>
+<l>Heeft ghesproken tonser lere.</l>
+</div>
+<div type="chapter"><head type="chapter"><i>Dominus vobiscum.</i> </head>
+<l>Dominus vobiscum! sinct hi nu,</l>
+<l n="435">Dat bediet: God si met u,</l>
+<l>Ende make u herte vri;</l>
+<l>Ende elc mensche, die hier si,</l>
+<l>Die ewanghelie so versta,</l>
+<l>Dat hem in sijn herte ga.</l>
+<l n="440">Et cum spiritu tuo!</l>
+<l>Singt die choer daer toe:</l>
+<l>Ende dat God oec, met sinen gheeste</l>
+<l>Hem daer toe volleeste,</l>
+<l>Dat hi werdech moeste wesen,</l>
+<l n="445">Die heileghe worde te rechte lesen.</l>
+<l><edition n="26"/>So maect die pape .i. crusekijn</l>
+<l>Op boec; daer ment hi in,</l>
+<l>Dat hi daer, na die selue lere,</l>
+<l>Wille leuen emmermere:</l>
+<l parse="ignore" n="450">Want hi ghepijnt wert so sere,</l>
+<l>Want hi, om onser sielen bederf,</l>
+<l>Bitterlike aent dat cruce sterf.</l>
+<l>Dat dit elker manlijc seit,</l>
+<l>So en sal hi des laten niet,</l>
+<l n="455">Dat hine seine hem mede,</l>
+<l>Vor des duuels behendechede,</l>
+<l>Dat hare herte niet en verkere</l>
+<l>Vanden worden der heilegher ere.</l>
+<l>.I. ander cruce maect hi</l>
+<l n="460">Vor sijn herte, daer hi bi</l>
+<l>Hem wille in sijn herte draghen,</l>
+<l>Die dor hem wert ant cruce gheslaghen.</l>
+<l>Hi maecte een vor sijn vorhoeft,</l>
+<l>Of hi sprake: mine siele proeft</l>
+<l n="465">Grote ghenade met groter vromen,</l>
+<l>Die haer vanden cruce es comen.</l>
+<l>Die leringhe van desen worden,</l>
+<l>Die si lesen opt noerden,</l>
+<l>Dat betekent, hoe onse Here</l>
+<l n="470">Hem wapende metter seluer lere.</l>
+<l>Biden duuel, die es wide,</l>
+<l>Betekent men die nort side.</l>
+<l>Dat ewanghelium leest hi dan,</l>
+<l>Ende noemt den heileghen man,</l>
+<l n="475">Die ons dit heeft bescreuen.</l>
+<l>Es daer dan aen dit leuen,</l>
+<l><edition n="27"/>Mantel, hoyke ofte caproen,</l>
+<l>Dat selewi vanden houede doen,</l>
+<l>In .i. teken, dat men ons daer</l>
+<l n="480">Die gherechte waerheit maket cla[er].</l>
+<l>Op dat wi .i. luttel ere</l>
+<l>Dede der heilegher lere,</l>
+<l>Soude wi .i. luttel bucken,</l>
+<l>Dat heileghe gheloue ane ondrucken,</l>
+<l n="485">Ende ons herte daermede verbouden,</l>
+<l>Alsoe dat wie gherne wouden</l>
+<l>Vor dat heileghe ghelove striden,</l>
+<l>Beide daer ende tallen tiden.</l>
+<l>Als dewanghelie es ghelesen,</l>
+<l n="490">Ieghelijc, die daer heeft ghewesen,</l>
+<l>Maect .i. cruce vor sijn ansichte</l>
+<l>Om dat niet sduuels scichte</l>
+<l>Den mensche vort bedreghen mog[he],</l>
+<l>Ende trecken wech ute sier oghe.</l>
+<l n="495">Hier na cust die pape den boec,</l>
+<l>Daer ons met es betekent oec,</l>
+<l>Dat hi si hoefsch ende rene,</l>
+<l>Ane sinen monde niet allene,</l>
+<l>Maer ane al gader sine liue,</l>
+<l n="500">Ende vort altoes cuusche bliue.</l>
+<l>het voeghet wel, in alder stonde,</l>
+<l>Dat hi si cuusch van sinen monde.</l>
+</div>
+<div type="chapter"><head type="chapter"><i>Credo in unum.</i> </head>
+<l>Credo in unum, singt hi vort;</l>
+<l>Dat sijn des gheloue wort,</l>
+<l n="505">Of hi spreke bi ghelike:</l>
+<l>Ic gheloue, dat God van hemelrike</l>
+<l><edition n="28"/>Selue sprac dese wort,</l>
+<l>Die ghi van mi hebt ghehort.</l>
+<l>Ic gheloue oec dat hi dede</l>
+<l n="510">Vele tekene in menegher stede.</l>
+<l>Blinde, siende; lamme, gaende;</l>
+<l>Stomne (sic), spreken; dode, op staende;</l>
+<l>Doeue, horen; martelaren, ghesont.</l>
+<l>Hier omme, ter menegher stont,</l>
+<l n="515">Hem die ioden te volghene plaghen,</l>
+<l>Want sijt dicke van hem saghen.</l>
+<l>Dit gheloue ons die pape leert,</l>
+<l>Als hi hem tote ons omme keert,</l>
+<l>Ende Dominus vobiscum singt,</l>
+<l n="520">Ende sine meninghe in ons brinct.</l>
+<l>Dat wi alle met hem gheloven</l>
+<l>In dat teken, singt daer bouen</l>
+<l>Dat choer: et cum spiritu tuo.</l>
+<l>Alle ghelouen wi al soe,</l>
+<l n="525">Of hi sprake ghelike bi,</l>
+<l>Des ghelouen gheloue wi.</l>
+</div>
+<div type="chapter"><head type="chapter"><i>Oremus.</i> </head>
+<l>Oremus singt die pape vort;</l>
+<l>Bidden wi, bediet dese wort.</l>
+<l>Daer in maent hi ons ter stede,</l>
+<l n="530">Alse wilen onse Here dede</l>
+<l>Sine iongheren, op dat si quamen</l>
+<l>Niet in coringhen hars lichamen.</l>
+<l>Dat was .i. luttel vor dien tiden,</l>
+<l>Dat hi die pine wilde liden.</l>
+</div>
+<div type="chapter"><head type="chapter"><i>Men singt den offersanc.</i> </head>
+<l n="535">Den offersanc sinct men dan.</l>
+<l>Dat choer beghint ierst werf an</l>
+<l>Bi ghelike, of alle scaren</l>
+<l><edition n="29"/>Spraken, die in die kerke waren.</l>
+<l>Om dat gheloue ende die ghebede,</l>
+<l n="540">Volghen wi den priester mede.</l>
+<l>Alse die mensche hort singhen</l>
+<l>Desen sanc, sal hi bringhen</l>
+<l>Iet van sinen goede daer,</l>
+<l>Ende legghent opten outaer,</l>
+<l n="545">In .i. teken, dat hi verdiende</l>
+<l>Die rijcheit, die hem God verleende.</l>
+<l>Die oec des goets niet en heeft,</l>
+<l>Ende in armoeden leeft,</l>
+<l>Die offere sijn gherecht gheloue,</l>
+<l n="550">Ende sijn ghebede daer boven.</l>
+</div>
+<div type="chapter"><head type="chapter"><i>Noch dwaet die pape sine hande.</i> </head>
+<l>Echt na der offerande</l>
+<l>Dwaet die pape sine hande;</l>
+<l>Dat betekent reinechede</l>
+<l>Sijns lijfs, ende sier sielen mede.</l>
+<l n="555">In mijn herte dunket mi,</l>
+<l>Het voeghet wel, dat hi reine si,</l>
+<l>Die den ghenen handelen sal,</l>
+<l>Die selue Here es bouen al.</l>
+<l>Mi dunke, dat hi hier na niet en beide</l>
+<l n="560">Die pape, maer den kelc ghereide;</l>
+<l>Daer moeten .iij. dinghen toe sijn:</l>
+<l>Terwe, water ende wijn.</l>
+</div>
+<div type="chapter"><head type="chapter"><i>Vander Terwen.</i> </head>
+<l>Bider terwen wi leren</l>
+<l>Den heileghen lichame ons Heren.</l>
+<l parse="ignore" n="565">Dat mach wel bi ghelike sijn;</l>
+<l><edition n="30"/>Want wi vinden bescreuen,</l>
+<l>Dat onse Here sijn selfs leuen</l>
+<l>.I. taerru coren gheliken woude,</l>
+<l>Dat vrucht in derde draghen soude.</l>
+<l n="570">Dat orcont diet wel wiste</l>
+<l>Sente Jan ewangheliste.</l>
+</div>
+<div type="chapter"><head type="chapter"><i>Vanden Wine.</i> </head>
+<l>Biden wine verstaen wi bloet,</l>
+<l>Dat Jhesus uter siden woet.</l>
+<l>Dat mach wel bi ghelike sijn:</l>
+<l n="575">Want alsoe alse men den wijn</l>
+<l>Pinen ende persen siet,</l>
+<l>Eer hi uter druuen ghiet,</l>
+<l>Alsoe was xpc onse Here</l>
+<l>Ghepijnt ende ghepassijt sere</l>
+<l n="580">Ane dat cruce, eer bloet</l>
+<l>Neuen spere ute sier siden woet.</l>
+</div>
+<div type="chapter"><head type="chapter"><i>Vanden Watre.</i> </head>
+<l>Biden watre sal men merken</l>
+<l>Onse vrouwe, der heilegher kerken.</l>
+<l>Dat water ghiet men in den wijn</l>
+<l n="585">Maer dat moet so clene sijn,</l>
+<l>Dat die wijn, bi sier cracht,</l>
+<l>Den watre neme sine macht.</l>
+<l>Dan es sonder sake niet:</l>
+<l>Want die heileghe kerstenheit siet,</l>
+<l n="590">Dat dese redene waer mach sijn,</l>
+<l>Dat seghet sente Augustijn,</l>
+<l>Hoe God, van deser seluer sake,</l>
+<l>Tote kerstenheden sprake:</l>
+<l>Niet verwandelt mi in di,</l>
+<l n="595">Maer du wors verwandelt in mi.</l>
+<l><edition n="31"/>Waer omme men dat water brinct</l>
+<l>Ende toten wine minct,</l>
+<l>Dat wyset ons die heileghe lere:</l>
+<l>Want doen xpc onse Here</l>
+<l n="600">Leet der doet onghemac,</l>
+<l>Longhijs hem in die side stac.</l>
+<l>Die scrift seit, datter uut woet</l>
+<l>Beide water ende bloet.</l>
+<l>Hier omme vint men dese rede,</l>
+<l n="605">Datter water moet wesen mede.</l>
+<l>Als die kelc es bereit,</l>
+<l>Alsic tote u hebbe gheseit</l>
+<l>Gaet die pape in midden staen,</l>
+<l>Ende beghint den kelc ane vaen.</l>
+<l n="610">Hi heften op, hi heften hoghe,</l>
+<l>Op soe siet hi metten oghe,</l>
+<l>Bi ghelike, of bi Gode</l>
+<l>Die selue offerande bode.</l>
+<l>Ter seluer stonde so bidt bi,</l>
+<l n="615">Dat hem ontfankelike si,</l>
+<l>Ende hem wille staen in staden</l>
+<l>Met sier hulpen, met sine ghenaden</l>
+<l>Dat die dienst alsoe goet</l>
+<l>Worden moet, die hi doet,</l>
+<l n="620">Dat hem si ere ende lof,</l>
+<l>Ende hem seluen comen daer of</l>
+<l>Vrome ende salecheit,</l>
+<l>Ende der ghemeender kerstenheit.</l>
+</div>
+<div type="chapter"><head type="chapter"><i>Die pape buct voer den outaer.</i> </head>
+<l>Soe set hi den kelc neder</l>
+<l n="625">Ende buct selue weder,</l>
+<l>Ende vout sine hande,</l>
+<l>Neuen sine offerande.</l>
+<l><edition n="32"/>Echt bidt hi mildelike,</l>
+<l>Der moghtentheit van hemelrike:</l>
+<l n="630">O heileghe drievuldicheit!</l>
+<l>Ontfanc mine offerande, die ic bereit</l>
+<l>Hebbe dier moghenheit,</l>
+<l>Om die pine, die xpc leit,</l>
+<l>Ende alle sine heileghen mede.</l>
+<l n="635">Dat mine offerande in die stede</l>
+<l>Alsoe ghedane worden moete,</l>
+<l>Dat si si minen sielen boete,</l>
+<l>Ende mijns lijfs mede,</l>
+<l>Ende der ghemeender kerstenhede.</l>
+</div>
+<div type="chapter"><head type="chapter"><i>Orate.</i> </head>
+<l n="640">Daer na hem die pape keert</l>
+<l>Omme, ende ons daer mede leert,</l>
+<l>Ende sprect dit wort orate:</l>
+<l>Daer in proeuic onse bate.</l>
+<l>Hi seit tote ons: bidt vor mi nu,</l>
+<l n="645">Ende ic sal weder bidden vor u.</l>
+<l>Dat onser alder ghebedekijn</l>
+<l>Gode moet ontfankelijc sijn!</l>
+<l>Wi selen proeuen bi deser sake</l>
+<l>Hoe xpc tote sente Peter sprake:</l>
+<l n="650">Peter ic hebbe ghebeden vor di,</l>
+<l>Dat dijn gheloue ghestadech si.</l>
+<l>Want du .i. deel bekers sijs,</l>
+<l>Wes ieghen dine brodere wijs;</l>
+<l>Stercse oec met dinen line,</l>
+<l n="655">Dat elc in sijn gheloue bliue.</l>
+<l>Biden broedren wi leren</l>
+<l>Ander iongheren ons Heren.</l>
+<l><edition n="33"/>Hier na leest men die secreten,</l>
+<l>Dat wanic, dat in Dietsche heten</l>
+<l n="660">Anders niet dan heimelijcheit,</l>
+<l>Daer grote miltheit in leit,</l>
+<l>Die sal men stillekine lesen.</l>
+<l>Der moet alsoe meneghe wesen,</l>
+<l>Alse der colecten was,</l>
+<l n="665">Die men ierst ter missen las.</l>
+<l>Bider secreten sele wi leren</l>
+<l>Dat heimelijc ghebet ons Heren,</l>
+<l>Doent was biden tiden,</l>
+<l>Dat hi die pine wilde liden.</l>
+<l n="670">Vader! sprac hi, of moghelijc si,</l>
+<l>Desen kelc laet gaen vor bi;</l>
+<l>Doch ghesciet niet die wille mijn</l>
+<l>Maer die dine, die moet sijn.</l>
+<l>Biden kelke so meende hi</l>
+<l n="675">Die grote pine, die hem was bi.</l>
+<l>Biden sancten sele wi verstaen,</l>
+<l>Dat hemelijc te gader gaen,</l>
+<l>Dat die ioden nachts daden,</l>
+<l>Hoe si mochten dat gheraden,</l>
+<l n="680">Dat si mochten, bi eneghen dinghen,</l>
+<l>Jhesum van den liue brenghen.</l>
+<l>Si spraken: laet winen te liue bliuen,</l>
+<l>Die Romeine selen ons verdriuen,</l>
+<l>Ende die ghemene werelt sal</l>
+<l n="685">Ane hem ghelouen ouer al.</l>
+<l>Daer sprac dus .i., hiet Cayphas,</l>
+<l>Die daer .i. Busscop was:</l>
+<l>Beter es dat .i. man sterue,</l>
+<l>Dan die werelt al bederue.</l>
+<l n="690"><pb n="34"/> Lude sinct die pape hier na:</l>
+<l>Per omnia secula!</l>
+<l>Dat betekent, dat God onse Here</l>
+<l>Lude predecte ende sere,</l>
+<l>Doen hi Laseromme met node</l>
+<l n="695">Hadde verwect vander dode.</l>
+<l>Sine groete hi ons bringt,</l>
+<l>Ende domius vobuscum singt.</l>
+<l>Die choer groten weder doe:</l>
+<l>Et cum spiriti tuu.</l>
+<l n="700">Welc die sin hier af mach wesen,</l>
+<l>Es hier dicke ghenoech ghelesen.</l>
+</div>
+<div type="chapter"><head type="chapter"><i>Sursum corda.</i> </head>
+<l>Soe sinct hi: sursum corda.</l>
+<l>Dats, alsic mi ver versta,</l>
+<l>Dat hi ons allen maent daer in,</l>
+<l n="705">Dat wi herte ende sin</l>
+<l>Rechten op, ane onsen Here,</l>
+<l>Ende ander ghepeisen van onsen kere.</l>
+<l>Dignum et iustum est,</l>
+<l>Hets recht nochtan best.</l>
+</div>
+<div type="chapter"><head type="chapter"><i>Prefacie.</i> </head>
+<l n="710">Die prefacie singt hi dan,</l>
+<l>Daer ons es betekent an,</l>
+<l>Hoe God quam uter woestinen.</l>
+<l>Doe quam Martha ende Maria in den weghe sine,</l>
+<l>Ende clagheden met groter noet,</l>
+<l n="715">Dat hare broeder ware doet,</l>
+<l>Die genoemt was Lasarus.</l>
+<l>Doe antworde Jhesus aldus:</l>
+<l><edition n="35"/>Legt u claghen neder;</l>
+<l>Ic verweckede u uwen broeder weder.</l>
+<l n="720">Ghi selt mi leden ter stede</l>
+<l>Daer hi es, ende gaet oec mede.</l>
+<l>Doen onse Here was comen,</l>
+<l>Daer hi sijn graf hadde vernomen,</l>
+<l>Hi hiet ontdekken tgraf,</l>
+<l n="725">Ende den serc legghen af,</l>
+<l>Daer dat graf mede was beuaen.</l>
+<l>Doen dit al gaders was ghedaen,</l>
+<l>Stont daer Jhesus onse Here,</l>
+<l>Ende weende uter maten sere.</l>
+<l n="730">Suchtende sprac hi dese wort:</l>
+<l>Laserus! comt hier vort!</l>
+<l>Hi quam met ghecnochten banden,</l>
+<l>Beide ane voete ende ane handen.</l>
+<l>Doen wert ontbonden Laseruus,</l>
+<l n="735">Ende ghinc met hem thuus.</l>
+<l>Ic wane Jhesus bi hem sat,</l>
+<l>Ende met hem dranc ende at,</l>
+<l>Voer palmen opten vridach,</l>
+<l>Seit die scrifture, die dit sach.</l>
+<l n="740">Na dat die hoghe tiden sijn,</l>
+<l>So bringhe si hare prefacie in.</l>
+<l>Der prefacien es tiene.</l>
+<l>Van hem allen ens ghene</l>
+<l>Hare eighen worde brenghen in,</l>
+<l n="745">Die daer toe ghenoeghet sijn.</l>
+<l>Dats die pape, die daer singt;</l>
+<l>Sine meninghe daer toe brengt,</l>
+<l>Dat hi Gode moghen louen,</l>
+<l>Metten enghelen al hier bouen.</l>
+</div>
+<div type="chapter"><head type="chapter"><pb n="36"/> <i>Sanctus, sanctus, sanctus.</i> </head>
+<l n="750">Daer na singt die choer aldus:</l>
+<l>Sanctus, sanctus, sanctus!</l>
+<l>Recht of hi hem maecte ghelike,</l>
+<l>Den inghelen van hemelrike,</l>
+<l>Ende hi Gode wilde louen</l>
+<l n="755">Metten inghelen al hier bouen.</l>
+<l>Dit wort sanctus sinct men drie</l>
+<l>In die bedinghe, dat ic sie,</l>
+<l>Dat het es ghedaen te eren</l>
+<l>Der drievuldicheit ons Heren.</l>
+<l n="760">Bi desen sanctus sele wi verstaen</l>
+<l>Die groete ende dat wel ontfaen,</l>
+<l>Dat die joden xpm deden,</l>
+<l>Doen hi te hem quam ghereden,</l>
+<l>Tote Jherusalem in die stat.</l>
+<l n="765">Ouer waer vinden wi dat,</l>
+<l>Dat nie al selke werdichede</l>
+<l>Noch al selke ere mede</l>
+<l>Noit dor man en wert ghedaen,</l>
+<l>Alse wi in palmsondaghe verstaen.</l>
+<l n="770">Desen lof groet uter maten</l>
+<l>Wert hem qualike ghelaten:</l>
+<l>Daer na, in corter tiden,</l>
+<l>Daden si hem die scande liden,</l>
+<l>Doe wert hi ghelachtert mere,</l>
+<l n="775">Dan sine gheprijst hadden ere.</l>
+</div>
+<div type="chapter"><head type="chapter"><i>Stille.</i> </head>
+<l>Hier na seit die pape die stille.</l>
+<l>Ic proeue, dat ic niet en wille</l>
+<l>Soe verre ontbinden, alsic mochte.</l>
+<l>Het ware quaet dat men ontcnocht[e],</l>
+<l n="780"><pb n="37"/> Dat verholen bleue alte male.</l>
+<l>Oec en voeghet niet wale</l>
+<l>Dat men broet den honden gheeft,</l>
+<l>Daer dat ghemene volc bi leeft.</l>
+</div>
+<div type="chapter"><head type="chapter"><i>Die pape cust.</i> </head>
+<l>Echt buct die pape daer,</l>
+<l n="785">Ende cust den outaer,</l>
+<l>In .i. teken, dat hi wille</l>
+<l>Daer vor nighen, in die stille,</l>
+<l>Dinghen, die vor sceden sijn.</l>
+<l>Dat hi buct, daer proeuic in,</l>
+<l n="790">Hoe sente Peter wilen ere</l>
+<l>Boech int graf tonsen Here.</l>
+<l>Bi desen buckene es ons bereit,</l>
+<l>Dat hi, nader menschelijcheit</l>
+<l>Drier hande ghebede las,</l>
+<l n="795">Eer hi die pine lidende was.</l>
+<l>Vader! sprac hi, mi doet niet wel</l>
+<l>Die pine, die ic liden sel,</l>
+<l>Doch en staet si mi niet tonberne,</l>
+<l>Want ic lijdse wel gherne:</l>
+<l n="800">Om dat hi vander hellen sure</l>
+<l>Wilden verlossen menschelike nature</l>
+<l>Oec so bidt hi ander weruen,</l>
+<l>Voer sine ionghere bederuen.</l>
+<l>Derde werf bat hi ghereit,</l>
+<l n="805">Vor des menschen salecheit.</l>
+<l>Wat die pape doet mere,</l>
+<l>Tes hi heeft onsen Here,</l>
+<l>Dat betekent ons die pine,</l>
+<l>Daer hem in stont te sine</l>
+<l n="810"><pb n="38"/> Van des donderdaghes vroe,</l>
+<l>Tote in vridaghe ter noenen toe.</l>
+<l>Soe wie ghelouech wesen wille,</l>
+<l>Die merke dan in die stille,</l>
+<l>Bides papen ane ghedacht,</l>
+<l n="815">So wert daer wonder groet ghewracht:</l>
+<l>Beide wijn ende broet</l>
+<l>Es Jhesus vleesch ende bloet,</l>
+<l>Daer, in die selue misse;</l>
+<l>Sijn vleesch, sijn bloet, so ghewisse,</l>
+<l n="820">Alst inden cruce was,</l>
+<l>Doen die werelt daer bi ghenas.</l>
+</div>
+<div type="chapter"><head type="chapter"><i>Die pape heft onse Here.</i> </head>
+<l>Die pape heft onsen Here.</l>
+<l>Daer bi sele wi alle leren,</l>
+<l>Datten die joden hoghe op boerden,</l>
+<l n="825">Doen si sine lichame scorden,</l>
+<l>Ende hem die pine deden doghen,</l>
+<l>Vor alle des volc oghen.</l>
+<l>Oec sele wi hier bi merken,</l>
+<l>Als die priester inder kerken</l>
+<l n="830">Gode op heft openbare,</l>
+<l>Daer hi staet vor den outare,</l>
+<l>Alsoe openbare, ten ionxsten daghe,</l>
+<l>Comt hi ter lester claghe,</l>
+<l>Ende sal tonen sine wonden</l>
+<l n="835">Wi bidden oec ter seluer stonden,</l>
+<l>Dat hi ons allen verlene,</l>
+<l>So, dat onse herte worde rene,</l>
+<l>Ende van allen sonden vri,</l>
+<l>Daer si mede becommert si.</l>
+<l n="840"><pb n="39"/> Met rechten biechten, met rechten gheloue,</l>
+<l>Alse wi sceden van desen stoue;</l>
+<l>Ende brenghen ons in dat rike,</l>
+<l>Dat hi cochte bitterlike.</l>
+</div>
+<div type="chapter"><head type="chapter"><i>Die pape staet cruuswijs.</i> </head>
+<l>Soe staet die pape cruuswijs,</l>
+<l n="845">Daer in maect hi ons wijs,</l>
+<l>Hoe dat xpc onse Here</l>
+<l>Wert gherect harde sere</l>
+<l>Ane dat cruce, met allen leden</l>
+<l>Beide bouen ende beneden,</l>
+<l n="850">Dat hem mochte, uut ende uut,</l>
+<l>Sine lede tellen dor sine huut.</l>
+</div>
+<div type="chapter"><head type="chapter"><i>Die pape ontdoet sine erme</i> </head>
+<l>Die pape laet hier na gaen</l>
+<l>Sine erme, dat wi verstaen,</l>
+<l>Hoe xpm ter hellen quam,</l>
+<l n="855">Die hi brac, ende ute nam</l>
+<l>Diere in sonden hebben gherot,</l>
+<l>Om dat si braken sijn ghebot.</l>
+<l>Echt hout hi sijn hande hoge.</l>
+<l>Ic wane, ic daer in proeuen moge</l>
+<l n="860">Dat Jhesus van hemelrike,</l>
+<l>In eens leuwen ghelike,</l>
+<l>Opverstont vander doet.</l>
+<l>Daer na niet lanc den Here groet</l>
+<l>Saghen sine te hemele varen.</l>
+<l n="865">Die iongheren, die met hem waren,</l>
+<l>Voeren met hem int heileghe lant,</l>
+<l>Tote sijns vader rechterhant,</l>
+<l>Enen gheweldich ende rike</l>
+<l>Met hem te bliuene ewelike</l>
+<l n="870"><pb n="40"/> Wat hi vort doet, daer wi bi leren,</l>
+<l>Die mertelie ons Heren.</l>
+</div>
+<div type="chapter"><head type="chapter"><i>Nobis.</i> </head>
+<l>Hier na sprect hi dit wort nobis,</l>
+<l>Daer ons in betekent is,</l>
+<l>Hoe ane den cruce onse Here</l>
+<l n="875">Sine sonden vergaf den mordenere.</l>
+<l>Hi sprac: Here! peinst om mi,</l>
+<l>Alse du coms daer dijn rike si.</l>
+<l>Doen sprac Jhesus, die hem bereit</l>
+<l>Altoes tonser salecheit:</l>
+<l n="880">Du selt heden, seit hi,</l>
+<l>Int paradijs sijn met mi.</l>
+<l>Ende soe wie dat dit wort</l>
+<l>Nobis vanden pape hort,</l>
+<l>Sal hem slaen voer die herte</l>
+<l n="885">Bi wilen, dat hem smerte,</l>
+<l>Om sijn sondelike leuen,</l>
+<l>Ende bidden, dat hem God moet vergheuen,</l>
+<l>Doer sine grote ontfermecheit,</l>
+<l>Die wi langhe hebben ghebeit,</l>
+<l n="890">Ende gheuen ons mildelike,</l>
+<l>Na dit leuen, hemelrike.</l>
+</div>
+<div type="chapter"><head type="chapter"><i>Per omnia secula.</i> </head>
+<l>Echt singt die pape hierna:</l>
+<l>Per omnia secula,</l>
+<l>Ende vort oremus mede.</l>
+<l n="895">Daer in maent hi ons ter mede:</l>
+<l><edition n="41"/>Dat wi selen bidden oft wien,</l>
+<l>Maent hi ons in dien.</l>
+<l>Dat hi daer na rechte vort</l>
+<l>Singhet des pater nosters wort,</l>
+<l n="900">Daer in wist hi ons wel,</l>
+<l>Wat of wien men bidden sel.</l>
+<l>Seuender hande ghebedekijn</l>
+<l>Wijst hi ons datter in sijn,</l>
+<l>Die hopic, dat wi alle wel verstaen,</l>
+<l n="905">Die enegher tijt ter kerken gaen.</l>
+<l>Wat helpet, dat ic langhe merre</l>
+<l>In dese redene, ende verwerre?</l>
+<l>Wat doech daer langher beiden,</l>
+<l>Dat hi hem seluen es besceiden?</l>
+<l n="910">Daer bi haet al onspoet;</l>
+<l>Langhe redene en es niet goet;</l>
+<l>Die dunct mi wesen anders niet,</l>
+<l>Dan lachter, pine ende verdriet.</l>
+<l>Hier omme eist, dat ic niet en diede,</l>
+<l n="915">Want ic hope, dat alle die liede</l>
+<l>Weten hi hem seluen wale,</l>
+<l>Wat ic mene in Dietscer tale.</l>
+<l>Dat pater noster sinct men lude.</l>
+<l>Ic wane ons daer in bedude,</l>
+<l n="920">Dat men den name ons Heren</l>
+<l>Met groten loue, met groter eren,</l>
+<l>Predect nu al onbedect,</l>
+<l>Daer dat heileghe gheloue strect.</l>
+<l>Dat pater noster dat ic wane,</l>
+<l n="925">Dat betekent ons die trane,</l>
+<l>Die xpc leet dor onsen noet,</l>
+<l>Doen hi leet die bitter doet.</l>
+</div>
+<div type="chapter"><head type="chapter"><pb n="42"/> <i>Pater noster.</i> </head>
+<l>Die choer antwort den pape doe:</l>
+<l>Sed libera nos a malo.</l>
+<l n="930">In .i. teken, dat alle die ghene,</l>
+<l>Die in die kerke, sijn ghemene,</l>
+<l>Hebben selen ontfermecheit,</l>
+<l>Om die pine die xpc leit.</l>
+<l>Daer toe maent ons sere wel</l>
+<l n="935">Redene, die men segghen sel.</l>
+<l>Want men vint in die scrifture</l>
+<l>Groet ghebrect in die nature.</l>
+<l>Dat was, doe xpc was in pinen,</l>
+<l>Dat die sonne liet hare scine;</l>
+<l n="940">Hem verdonkerde die dach;</l>
+<l>Die erde men doen beuen sach;</l>
+<l>Die herde stene al dore ende toren,</l>
+<l>Ende die serke sach men scoren,</l>
+<l>Die in den tempel te ligghene plaghen;</l>
+<l n="945">Die dode lichame, daer si laghen,</l>
+<l>Die verresen tien tiden.</l>
+<l>Wat menschelike herte mochte liden,</l>
+<l>Dat sach dese criature</l>
+<l>Doghen ons, in haer nature,</l>
+<l n="950">Want si doghen alle das,</l>
+<l>Dat hare sceppere in pinen was.</l>
+<l>Hoe mochte wesen so verwaten</l>
+<l>Therte, dat mochte laten,</l>
+<l>Ende moeste hebben ontfermecheit</l>
+<l n="955">Om die pine, die xpc leit,</l>
+<l>En hadt doghen daer af gheen,</l>
+<l>So wart herder dan .i. steen.</l>
+</div>
+<div type="chapter"><head type="chapter"><i>Die pape ane vaet die patene.</i> </head>
+<l>Hier na die pape daer hi staet,</l>
+<l>Die patene ane vaet,</l>
+<l n="960"><pb n="43"/> Ende .i. ghebet leest hi stille,</l>
+<l>Daer ic in merken wille,</l>
+<l>Hoe Longhijs, dor die side,</l>
+<l>Onse here stac tien tide,</l>
+<l>Daer hi ane den cruce hinc.</l>
+<l n="965">Ende men sach datter ute ghinc</l>
+<l>Beide water ende bloet.</l>
+<l>Daer na niet lanc, doe hi was doet,</l>
+<l>Wert hi gheheuen af,</l>
+<l>Ende gheleit in .i. graf.</l>
+<l n="970">Die patene es ront,</l>
+<l>Gheen ende men daer ane en vont.</l>
+<l>Dat si es ront daer proeuic in,</l>
+<l>Dat God es sonder beghin,</l>
+<l>Ende sal wesen endeloes;</l>
+<l n="975">Hi was, hi es, hi blijft altoes.</l>
+<l>Die pape cust die patene,</l>
+<l>Daer wanic, dat hi in mene</l>
+<l>Dat ghemene kerstenheit,</l>
+<l>Bider pinen, die xpc leit,</l>
+<l n="980">Es versoent volcomelike,</l>
+<l>Jeghen den vader van hemelrike.</l>
+</div>
+<div type="chapter"><head type="chapter"><i>Sacreren.</i> </head>
+<l>Als al dit es ghesien,</l>
+<l>Dostie brect die pape in drien.</l>
+<l>Dat bediet vierande sake,</l>
+<l n="985">Die ic u cont wille maken.</l>
+<l>Dierste sake daert omme ghesciet,</l>
+<l>Es betekent: der drievuldicheit;</l>
+<l>Die andere, waer omme si si,</l>
+<l>Dats, alsoe dunke mi,</l>
+<l n="990">Om drieande wesen,</l>
+<l>Die wi oec van xpm lesen:</l>
+<l><edition n="44"/>Xpc wert gheboren sterflijc,</l>
+<l>Die redene es onbekenlijc,</l>
+<l>Na der menscheit, die hi ontfinc.</l>
+<l n="995">Want hi wert in alder dinc</l>
+<l>Menschelike in dien stonden;</l>
+<l>Maer hine dede noit sonde.</l>
+<l>Een ander wesen hadde hi,</l>
+<l>Ic waent ons dus bescreuen si:</l>
+<l n="1000">Doen hi die sterke doet, die sure,</l>
+<l>Hadde ghedoghet na sine nature,</l>
+<l>Die hem quam vander menscheit an,</l>
+<l>Wert hi begrauen also .i. man.</l>
+<l>Vanden graue, daer hi in lach,</l>
+<l n="1005">Ghinc hi ute in den derden dach.</l>
+<l>Doch wetic, dat niet en versciet</l>
+<l>Die Godheit vander menscheit.</l>
+<l>Dat derde wesen, dat hem was an</l>
+<l>Dats, alsic gheproeuen can,</l>
+<l n="1010">Na sine opverrisenesse,</l>
+<l>Wert hi mensche al ghewesse,</l>
+<l>Starc ende onvergankelijc,</l>
+<l>Euen gheweldich ende euen rijc,</l>
+<l>Bi sinen vader daer bouen,</l>
+<l n="1015">Daerne noch die enghele louen.</l>
+<l>Die derde sake, waerbi wi sien,</l>
+<l>Dat men dostie brect in drien,</l>
+<l>Es, dat xps in sinen leden</l>
+<l>Was ghepijnt in drien steden,</l>
+<l n="1020">Ende wonden moeste liden:</l>
+<l>In handen, in voeten, ende in siden.</l>
+<l>Die vierde sake, alsic wane,</l>
+<l>Es gheestelijc te verstane,</l>
+<l><edition n="45"/>Om driehande kerstenheit,</l>
+<l n="1025">Daer ons die scrifture af seit.</l>
+<l>Dierste, die seghe ghewonnen heeft,</l>
+<l>Dats die ghene, die nu leeft</l>
+<l>Met onsen Here, in hemelrike.</l>
+<l>Die ander strijt daghelike,</l>
+<l n="1030">Dat sijn wi, die tallen tiden</l>
+<l>Jeghen die coringhe striden.</l>
+<l>Die derde kerstenheit, die ic mene,</l>
+<l>Die maect haer sonden rene,</l>
+<l>Dat sijn menschen, criaturen diere,</l>
+<l n="1035">Die noch in den vagheuiere</l>
+<l>Bornen moeten toter ure,</l>
+<l>Bitterlike ende sure,</l>
+<l>Tes si worden ontbonden</l>
+<l>Van al haren sonden.</l>
+<l n="1040">Omme dese .iiij. saken,</l>
+<l>Sien wi daer .iij. sticken maken.</l>
+<l>Die pape nemt der sticken twee,</l>
+<l>Ende leitse op die patene min no mee;</l>
+<l>Dat derde laet hi vallen neder</l>
+<l n="1045">In den kelc, ende decten weder.</l>
+<l>Want daer men die menighe doet,</l>
+<l>Es die lichame sonder bloet.</l>
+<l>Dat bloet es buten den lichame,</l>
+<l>Die God van Marien name.</l>
+<l n="1050">Die pape nut die ander twee;</l>
+<l>Dat betekent ons die ghene,</l>
+<l>Die dit met rechten ghelouen;</l>
+<l>Si comen alle hier bouen;</l>
+<l>Dat bediet ons aldus</l>
+<l n="1055">.I. pape, heet Ghernacius.</l>
+<l><edition n="46"/>.I. ander bedieden vinden wi,</l>
+<l>Dat wanic dat noch beter si:</l>
+<l>Biden sticke, dat men doet</l>
+<l>In den kelc, ic proeuen moet</l>
+<l n="1060">Hoe hem Jhesus onse Here</l>
+<l>Offerde, te louen ende teren</l>
+<l>Sinen euweliken vader,:</l>
+<l>Ende sine enghelen alle gader,</l>
+<l>Ende die vroude alsoe ghelike,</l>
+<l n="1065">Sine heileghen in hemelrike.</l>
+<l>Dander deel doet men ons verstaen</l>
+<l>Hoe xpc woude anegaen,</l>
+<l>Dat hi hem offerde ghereit</l>
+<l>Vor des menschen salecheit.</l>
+<l n="1070">Biden derden sticke ic lere,</l>
+<l>Hoe hem offerde onse Here</l>
+<l>Voer die ghene, die sure</l>
+<l>Bornen in den vagheuiere.</l>
+<l>Vanden sticken elc deel:</l>
+<l n="1075">Es Jhesus lichame al gheel,</l>
+<l>God ende mensche volcomelike.</l>
+<l>Dit proeft men beghelike:</l>
+<l>Ic neme .i. spieghel di es gheel,</l>
+<l>Daer af makic drie deel.</l>
+<l n="1080">In elc sticke vanden drien</l>
+<l>Mach eghelijk mensche sien,</l>
+<l>Sijn ansichte ghedaenhede</l>
+<l>Dat es noch in menegher stede:</l>
+<l>Sprect oec .i. enech wort:</l>
+<l n="1085">Daer het menich mensche hort;</l>
+<l>Doch eist .i. wort, dat si alle horen</l>
+<l>Spreken met haren oren.</l>
+<l><edition n="47"/>Dus moghen wi bi ghelike sien,</l>
+<l>Dat elc sticke vanden drien</l>
+<l n="1090">Es God ende mensche. Dat dit es waer,</l>
+<l>Proef ons redene openbaer.</l>
+</div>
+<div type="chapter"><head type="chapter"><i>Per omnia secula.</i> </head>
+<l>Die pape sinct echt hier na:</l>
+<l>Per omnia secula;</l>
+<l>Hi bidt dat, in desen liue</l>
+<l n="1095">Die vrede Gods met hem bliue,</l>
+<l>Ende dien euweghen vrede</l>
+<l>Met ons allen bliue mede;</l>
+<l>Desen vrede bidden wi toe,</l>
+<l>Et cum spiritu tuo.</l>
+</div>
+<div type="chapter"><head type="chapter"><i>Agnus Dei.</i> </head>
+<l n="1100">Agnus Dei! singt men vort.</l>
+<l>Driewerf singt men dese wort.</l>
+<l>Want xpc anden derden dach</l>
+<l>Stont op, uten graue daer hi in lach,</l>
+<l>God ende mensche sonder waen.</l>
+<l n="1105">Anders moghen wijt verstaen</l>
+<l>Want, na der propheten wensce,</l>
+<l>Wert hi gheboren sterflijc mensche,</l>
+<l>Ende heeft ons, sonder faelghieren,</l>
+<l>Verloest oec na drie manieren.</l>
+<l n="1110">Ierst werf hi ons verloeste,</l>
+<l>Vanden sonden, die ons porste,</l>
+<l>Die ons waren comen an,</l>
+<l>Dat bediet ons .i. wijs man.</l>
+<l>Hi sprac: wat moghen wi claghen?</l>
+<l n="1115">Die onse sonden heeft ghedragen,</l>
+<l>Anderwerf heeft hi,</l>
+<l>Vander hellen pinen vri,</l>
+<l><edition n="48"/>Ons verloest volcomelike.</l>
+<l>Daer moeten wi bliuen ewelike</l>
+<l n="1120">Verborent ende in groter noet,</l>
+<l>Ende hadde ghedaen die bitter doet.</l>
+<l>Hi heeft ons verloest derde werue</l>
+<l>Tote sijn selues erue,</l>
+<l>Toten eweliken goede.</l>
+<l n="1125">Daer sele wi bliuen met bliden moede,</l>
+<l>Ewelike met hem bliuen,</l>
+<l>Tote ons daer af verdriuen</l>
+<l>Onse sonden, ende wise niet laten,</l>
+<l>Die wi nu so luttel haten.</l>
+</div>
+<div type="chapter"><head type="chapter"><i>Den Paes.</i> </head>
+<l n="1130">Hier na die pape, daer hi singt,</l>
+<l>Sinen mont hi dringt</l>
+<l>Ane den lichame ons Heren.</l>
+<l>Hi beghint hem omme keren</l>
+<l>Den ghenen, die den paes heeft,</l>
+<l n="1135">Dat hine dan na hem gheeft;</l>
+<l>Dat bediet: Gods vrede</l>
+<l>Es ghegheuen, te bliuen mede</l>
+<l>Menscheliken criaturen.</l>
+<l>Want wi vinden in der scrifturen</l>
+<l n="1140">Eer te hemele voer Jhesus,</l>
+<l>Sprac hi te sinen ionghere dus:</l>
+<l>Ic gheue u den vrede mijn,</l>
+<l>Die moet altoes met u sijn.</l>
+<l>Den paes gheeft manlijc anderen,</l>
+<l n="1145">Omdat si te samel wandelen,</l>
+<l><edition n="49"/>In ghenaden ende in vreden.</l>
+<l>Nu merct ment in seden,</l>
+<l>Leider, in alte menegher stede,</l>
+<l>Nochtan si doen also Judaes tlede:</l>
+<l n="1150">Menech hine liets niet,</l>
+<l>Die met cussene Gode verriet.</l>
+<l>Menech cust anderen ane den mont;</l>
+<l>Mocht hine ter seluer stont</l>
+<l>Bringhen inder doet smerte,</l>
+<l n="1155">Dies begherde wel sijn herte.</l>
+<l>Alle die ghene, die dit doen,</l>
+<l>God gheue hem Judaes loon!</l>
+<l>Wileneer in ouden daghen</l>
+<l>Vinden wi, dat die papen plaghen</l>
+<l n="1160">Tfolc te meneghen op elken dach;</l>
+<l>Dat was gewoonte, die men plach.</l>
+<l>Dien sede men nu niet en pleghet,</l>
+<l>Want hi wert daer omme ver leghet,</l>
+<l>Want dat volc in desen sonden,</l>
+<l n="1165">Daghelijcs wort vonden,</l>
+<l>Metten sonden, die si daden,</l>
+<l>Ende si hem daer af gaden.</l>
+<l>Door des seden gedinkenesse,</l>
+<l>Pleecht men nu in die misse,</l>
+<l n="1170">Den paes na den paes te geuen,</l>
+<l>Om dat wi gheesteliken leuen.</l>
+<l>Dus merkic, bi minen wane,</l>
+<l>Gheestelike te verstane:</l>
+<l>Biden paes nemen wi</l>
+<l n="1175">Gode selue, dunke mi,</l>
+<l><edition n="50"/>In onser siele, dat si si</l>
+<l>Van allen hoeftsonden vri.</l>
+<l>Singt men die misse vor die doden,</l>
+<l>Daer nes die paes niet verboden;</l>
+<l n="1180">Dat es om dese reden:</l>
+<l>Die paes es teken des vreden,</l>
+<l>Die wi den leuenden souden houden,</l>
+<l>Ofte wi te rechte leuen wouden.</l>
+<l>Ons vreden en doet ghene noet</l>
+<l n="1185">Den ghenen, die daer sijn doet.</l>
+<l>Sine behoefden des vreden niet,</l>
+<l>Die men in die werelt pliet;</l>
+<l>Maer des vreden behoeuen si wel,</l>
+<l>Die ewelike gheduren sel.</l>
+<l n="1190">Dien moet God alle sielen gheuen,</l>
+<l>Ende ons, als wi niet langher leuen.</l>
+</div>
+<div type="chapter"><head type="chapter"><i>Die pape nut tSacrament.</i> </head>
+<l>Echt bidt die pape hier na,</l>
+<l>Dat hi daer alsoe ontfa,</l>
+<l>Dat heileghe sacrament ons Heren,</l>
+<l n="1195">Dat het Gode si te eren,</l>
+<l>Ende hi worde, bi sire ghenaden,</l>
+<l>Van sinen sonden al ontladen.</l>
+<l>Ende gherade in desen liue,</l>
+<l>Dat hi ghestade ane hem bliue,</l>
+<l n="1200">Ende nemmermeer van hem en scede</l>
+<l>Ende te hemel ghelede.</l>
+<l>Hier na die priester, daer hi staet,</l>
+<l>Dat heileghe sacrament ontfaet,</l>
+<l>Alst betaemt met groter ere,</l>
+<l n="1205">In .I. teken, dat onse Here</l>
+<l>Toten ende te drinken plach,</l>
+<l>Daert sine ionghers mede sach.</l>
+<l><edition n="51"/>Die dan daer sijn in die kerke,</l>
+<l>Buten sonderlike werke,</l>
+<l n="1210">Met rechten gheloue, met gansen rouwe,</l>
+<l>Ende die met rechter trouwe</l>
+<l>In Gode sijn herte wijst,</l>
+<l>Si worden gaende daer gepijst,</l>
+<l>In hare siele gheestelike,</l>
+<l n="1215">Sijn si erm ofte rike,</l>
+<l>Hoe ieghen Gode sijn herte steet,</l>
+<l>Nadien dat hi sijn herte ontfeet.</l>
+</div>
+<div type="chapter"><head type="chapter"><i>Communio.</i> </head>
+<l>Nu singt men dat communio,</l>
+<l>Dat in Dietsche luut alsoe,</l>
+<l n="1220">Dat wi deellachtich werden</l>
+<l>Der ghenaden, die men op der erden</l>
+<l>Verdient, in die heileghe kerken</l>
+<l>Heileghe liede met goeden ghewerken,</l>
+<l>Ende die glorie, die euwelike</l>
+<l n="1225">Die heileghen ghebruken in hemelrike.</l>
+</div>
+<div type="chapter"><head type="chapter"><i>Men leit den boec ter rechter hant.</i> </head>
+<l>Alse dit al gader es ghedaen,</l>
+<l>So gaet die pape weder staen</l>
+<l>Ter rechter hant van den outare.</l>
+<l>Dat bediet: die ioedsche scare</l>
+<l n="1230">Ten lesten hem selen bekeren,</l>
+<l>Ende ghelouen ane onsen Here.</l>
+</div>
+<div type="chapter"><head type="chapter"><pb n="52"/> <i>Die Complenden.</i> </head>
+<l>Hier singt men die complenden.</l>
+<l>Dat sijn collecten, die toten enden</l>
+<l>Van der heilegher missen horen.</l>
+<l n="1235">Daer toe moeten si alle horen,</l>
+<l>Hoe menech der colecten was,</l>
+<l>Die men ierst der missen las.</l>
+<l>Dat leste ghebet vander complende</l>
+<l>Daer die pape maect .i. ende,</l>
+<l n="1240">Dat bediet, dat, in den trone,</l>
+<l>Jhesus Cristus es Gods sone,</l>
+<l>Ende daer sinen vader toesprake,</l>
+<l>Om te verdinken alle saken.</l>
+</div>
+<div type="chapter"><head type="chapter"><i>Ite missa est.</i> </head>
+<l>Nu singt men; ite missa est.</l>
+<l n="1245">Dat bediet in alder lest:</l>
+<l>Gaet, daer gi hebt gheacht,</l>
+<l>Want die misse es nu volbracht.</l>
+<l>Dat bediet: ten ionxsten daghe</l>
+<l>Comt God ter lester claghe;</l>
+<l n="1250">Daer moeten wi onsen loen ontfaen</l>
+<l>Van dien, dat wi hebben ghedaen.</l>
+</div>
+<div type="chapter"><head type="chapter"><i>Benedicamus.</i> </head>
+<l>Benedicamus Domino,</l>
+<l>Singt men bi wilen alsoe.</l>
+<l>Dat bediet, dat wi Gode benedien</l>
+<l n="1255">Ende hem laten danx lien.</l>
+<l><edition n="53"/>Nu gheeft men die seininghe.</l>
+<l>Dat bediet ten lesten dinghe,</l>
+<l>Dat men, ten ionxsten daghe, sal</l>
+<l>Te Josapat doemen int dal.</l>
+<l n="1260">Ten goeden lieden sprect hi:</l>
+<l>Ghebenendide! comt te mi,</l>
+<l>Ende besit mijns vader rike,</l>
+<l>Dat u bereit es vriendelike,</l>
+<l>Van der werelt beghinne.</l>
+<l n="1265">Hi sprect met wreden sinne</l>
+<l>Ten bosen lieden, ten seluen tiden:</l>
+<l>Gaet ghi, vermalendide!</l>
+<l>Toten vresceliken viere,</l>
+<l>Dat euwelike sal gheduren.</l>
+<l n="1270">Lof si Gode met sier cracht,</l>
+<l>Want die misse es volbracht!</l>
+</div>
+<div type="chapter"><head type="chapter comment">[Slot]</head>
+<l>Ghi heren, vrouwen ende cnapen,</l>
+<l>Bidt vor den ermen pape,</l>
+<l>Die desen boec in rimen vant,</l>
+<l n="1275">In .i. wel bekent lant,</l>
+<l>Doer ere goeder vrouwen bede.</l>
+<l>Dat si, ende wi alle mede,</l>
+<l>Leden moeten so dit leuen,</l>
+<l>Dat hi ons moete gheuen,</l>
+<l n="1280">Na dit leuen hemelrike,</l>
+<l>Ende dat ghebruken ewelike.</l>
+<l>Daertoe soe gheue ons volleest,</l>
+<l>Die Vader ende die Sone ende die Heileghe Gheest!</l>
+<l parse = "ignore">Amen, amen, amen.</l>
+</div>
+</text>
+<!--</ENTRY>
+--></TEI.2>

@@ -1,0 +1,1986 @@
+<?xml version='1.0'?><!DOCTYPE TEI.2 PUBLIC '-//TEI P4//DTD Main Document Type//EN' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd' [<!ENTITY % TEI.prose 'INCLUDE'><!ENTITY % TEI.linking 'INCLUDE'><!ENTITY % TEI.figures 'INCLUDE'><!ENTITY % TEI.analysis 'INCLUDE'><!ENTITY % TEI.corpus 'INCLUDE'><!ENTITY % TEI.XML 'INCLUDE'><!NOTATION TEI-XML PUBLIC 'TEI P4' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd'><!-- internal INL dtd --><!ELEMENT b (#PCDATA)><!ELEMENT l (#PCDATA | b)*><!-- end of internal INL dtd -->]><TEI.2><!--<ENTRY id="i133"><teiHeader><fileDesc><titleStmt><title>Flandrijs</title>
+</titleStmt>
+<interpGrp type="pubYear_from"><interp value="1350"/></interpGrp>
+<interpGrp type="witnessYear_from"><interp value="1350"/></interpGrp>
+<interpGrp type="pubYear_to"><interp value="1400"/></interpGrp>
+<interpGrp type="witnessYear_to"><interp value="1400"/></interpGrp>
+<TITEL>Flandrijs</TITEL>
+<author>Onbekend</author>
+<AARD>Rijm</AARD>
+<BRON nr="K28">Straatsburg, Biblioth&egrave;que Nationale et Universitaire, 2937 (fragm.)</BRON>
+<DATUM>1350-1400</DATUM>
+<OMVANG>1794 verzen</OMVANG>
+<BRON.OPM>Vijf dubbelbladen: A-E. Per bladzijde 2 kolommen en per kolom 44-45 regels. De dubbelbladen A, B en D hebben tot hetzelfde katern behoord: B was in D, deze twee waren samen in A gevouwen, waarbij de tekst een aaneengesloten geheel vormt (ADBBDA). Tussen de dubbelbladen C en E, die waarschijnlijk van andere katernen deel uitmaakten, is ten minste &eacute;&eacute;n katern verdwenen. Dubbelblad C vormde mogelijk het buitenste bifolium van het tiende katern. Er worden vijf tekstgedeelten onderscheiden: I: vs. 1-1075 (bif. ADBBDA); II: 1076-1257 (bif. C); III: 1258-1440 (bif. C); IV: 1606-1784 (bif. E); V: 1785-1962 (bif. E). In het eerste tekstgedeelte zijn de verzen als volgt over de drie bifolia verdeeld: 1-180 (bif. A); 181-360 (bif. D); 361-539 (bif. B); 540-717 (bif. B); 718-895 (bif. D); 896-1075 (bif. A).</BRON.OPM>
+<EDITIE>Afschrift J. Tersteeg</EDITIE>
+<STATUS>Kritisch</STATUS>
+<BRONMNW>432 (andere editie)</BRONMNW>
+<EDITIE.OPM>Het afschrift Tersteeg komt grotendeels overeen met de kritische editie van de tekst door De Graaf uit 1980 (zie K.R. de Graaf: Flandrijs. Fragmenten van een Middelnederlands riddergedicht. Groningen, 1980. Diss. Utrecht.). Zo zijn de emendaties gelijk en worden de fragmenten uit Straatsburg (I, II, III, IV en V) en Leiden (IIIa) zowel door Tersteeg als door De Graaf tezamen en in de juiste volgorde aangeboden (met doorlopende regelnummering), een presentatiewijze die hier is gehandhaafd. In tegenstelling tot de editie De Graaf is in het afschrift Tersteeg de tekst niet voorzien van interpunctie, beginnen de namen niet met hoofdletters, zijn voor de Romeinse cijfers geen kapitalen gebruikt en ontbreekt de foli&euml;ring; tevens ontbreekt bij Tersteeg de regelnummering van de editie Franck uit 1876 (Straatsburgse fragmenten; gebruikt voor het MNW) en 1888 (Leidse fragment), die De Graaf in de rechtermarge heeft geplaatst. Hier werd wel de foli&euml;ring, maar niet de interpunctie en de hoofdletters van De Graaf overgenomen; ook de regelnummering van Franck ontbreekt. Behalve de foli&euml;ring is ook de paginering afkomstig uit de editie De Graaf.</EDITIE.OPM>
+<BRONNEN>Van twee handschriften zijn er fragmenten overgeleverd: - <x nr=K28>Straatsburg, Biblioth&egrave;que Nationale et Universitaire, 2937 (fragm.)</x>
+ - <x nr=K29>Leiden, Bibliotheek der Rijksuniversiteit, Vulc. 54 A (fragm.)</x>
+</BRONNEN>
+</fileDesc>
+</teiHeader>
+--><text>
+<supplied resp="editor">Fragment I</supplied>
+<l parse="ignore"><pb n="159"/><milestone unit="fol" n="1ra"/> De wilde was int gevecht</l>
+<l>Staerc ende stout ende onvervaert</l>
+<l>Dat flandrijs te pinen waert</l>
+<l>Want hi ontfinc ontbonden slage</l>
+<l n="5">De ridder hads int herte wage</l>
+<l>Dat hem also lange hilt</l>
+<l>Jegen hem ter were een mensce wilt</l>
+<l>Entie ongewapent staet</l>
+<l>Met beiden handen datti slaet</l>
+<l n="10">Den enen die hi wilde geraken</l>
+<l>Ende deeldene also men doet baken</l>
+<l>Thooft dore al toter herten</l>
+<l>De wilde metter machuwe sterte</l>
+<l>Optie erde ende liet de were</l>
+<l n="15">Dit sach dander ende weende zere</l>
+<l>Verstormt waert ende spranc hoge</l>
+<l><edition n="161"/>Op flandrijs deide hi sine vloge</l>
+<l>Doer datti hadde tswert ende scilt</l>
+<l>Hi stakene met al sulken gewilt</l>
+<l n="20">Met sire side jegen den scilde</l>
+<l>Wilde de ridder of ne wilde</l>
+<l>Hi moeste vallen over de sporen</l>
+<l>Die wilde hadden gedaen toren</l>
+<l>Haddi sire handen gebruuc</l>
+<l n="25">Hi trat flandrise opten buuc</l>
+<l>Dat hem dat sien verwandelen dochte</l>
+<l>Hi hiltene datti niet op mochte</l>
+<l>No met voete no met handen</l>
+<l>De wilde werdem met den tanden</l>
+<l n="30">Die joncfrouwe versach dit al</l>
+<l>Soe ducht haer dat flandrijs sal</l>
+<l>Tonder bliven vanden vilein</l>
+<l>De machuwe hief soe int plein</l>
+<l>Daer soe den wilden mede sloech</l>
+<l n="35">Dies hi dogede ongevoech</l>
+<l>Soe sloech hem ii rebben ontwe</l>
+<l>Daer omme ne liet hi min no mee</l>
+<l>Hine pinde hem flandrijs te doene grief</l>
+<l>Watti werstelde ofte hief</l>
+<l n="40">Het hilde vast de wilde man</l>
+<l><edition n="163"/>Die joncfrouwe scoet achter an</l>
+<l>Ende hielt vaste den wilden biden bene</l>
+<l>Soe zere dattie ridder rene</l>
+<l>De arme boven gewan</l>
+<l n="45">Den wilden heefti geswongen dan</l>
+<l><milestone unit="fol" n="1rb"/> Jegen derde over rugghe</l>
+<l>Flandrijs scoot op herde vlugghe</l>
+<l>So deide de wilde die eer lach</l>
+<l>Ende flandrijs gaf hem enen slach</l>
+<l n="50">Inde rechter side ter vaert</l>
+<l>Dat al dore vloech dat swaert</l>
+<l>Ende hine deelde ter rechter helt</l>
+<l>Dus es haer quaetheit gevelt</l>
+<l>Dies flandrijs heeft wrake genomen</l>
+<l n="55">Die joncfrouwe es totem comen</l>
+<l>Ende groettene bi apoline</l>
+<l>Des litel verblijde therte sine</l>
+<l>Ende seide joncfrouwe god onse here</l>
+<l>Geive u ter doget voort waert mere</l>
+<l n="60">Herte gedochte sin ende spoet</l>
+<l>Uwe gewaden sciere an doet</l>
+<l>Dan salic jegen u spreken gerne</l>
+<l>De joncfrouwe stonts niet t omberne</l>
+<l>Met bliden zinne ende wel gereet</l>
+<l n="65">Heif soe haer weder gecleet</l>
+<l>Ende gijnc recht ten riddere goet</l>
+<l><edition n="165"/>Ende wildem vallen opten voet</l>
+<l>Maer dat hijt haer heift weder boden</l>
+<l>Here seitsoe uut desen noden</l>
+<l n="70">Ne waric nemmermeer ontgaen</l>
+<l>Ne hadde u vromicheit gedaen</l>
+<l>Ghi sijt de coenste die ic noit sach</l>
+<l>Nu segt mi oft wesen mach</l>
+<l>Wanne ghi sijt ende hoe ghi heet</l>
+<l n="75">Dat dede flandrijs wel gereet</l>
+<l>Ende seide joncfrouwe hets groete scade</l>
+<l>Dat ghi geloeft vroech ende spade</l>
+<l>Mamette ende apoline</l>
+<l>Die bede duvele sijn anscine</l>
+<l n="80">Sine mogen helpen no verswaren</l>
+<l>Laet dese ongelove varen</l>
+<l>Ende aenbeet jhesum die u maecte</l>
+<l>Entie wilde dattic geraecte</l>
+<l>U te lossene uter pine</l>
+<l n="85">Ende segt mi scone maget fine</l>
+<l>Hoe toe quam dat ghi waert bracht</l>
+<l>Hier van die u hadden vercracht</l>
+<l>Haddic u niet te staden gestaen</l>
+<l>Dattu te goede es vergaen</l>
+<l n="90">Die joncfrouwe sprac ridder kerstijn</l>
+<l><milestone unit="fol" n="1va"/> Ghi hebt verblijdt therte mijn</l>
+<l>Metten worden van uwen gode</l>
+<l>Ic bem int gedochte hode</l>
+<l>Der kerstine wet ane te gane</l>
+<l n="95">Gherne doen ic u te verstane</l>
+<l>Hoe mi dese ii lieden wilde</l>
+<l>Gevaen hadden ridder milde</l>
+<l><edition n="167"/>Ic voer heiden buten bi minen castele</l>
+<l>Allene morgen met groten spele</l>
+<l n="100">Neiven enen busscelkine</l>
+<l>Dat cam mi te groter pine</l>
+<l>Want mi beslop de wilden man</l>
+<l>Ende swanc mi op sijn part dan</l>
+<l>Ende brochte mi in deser lagen</l>
+<l n="105">Mine vrinde no mine magen</l>
+<l>Ne weeten niet waer hi mi voorde</l>
+<l>Here ridder dit nes gene boerde</l>
+<l>Mijn vader es here van den brunen castele</l>
+<l>Hem behoeren toe ridders voele</l>
+<l n="110">Ende es de gherechtichste sarrasijn</l>
+<l>Die wont tusschen dunauwe enten rijn</l>
+<l>Bi namen heet hi justiniaen</l>
+<l>Hi sal u werdelike ontfaen</l>
+<l>Wildi varen te sinen hove</l>
+<l n="115">Al sidi niet van onsen gelove</l>
+<l>Dies sal hi u niet mesbieden</l>
+<l>None geen van sinen lieden</l>
+<l>Sine boerch staet niet verre heine</l>
+<l>Flandrijs sprac joncfrouwe rene</l>
+<l n="120">Gemaex haddic wel te doene</l>
+<l>In at sijnt gisteren noene</l>
+<l>No en dranc dat mi verswaert</l>
+<l>Die scone sprac des wilden part</l>
+<l>Here ne laet niet achter bliven</l>
+<l n="125">Sine doget soutmen niet vulscriven</l>
+<l>Soe staerc eest ende te lopene snel</l>
+<l><edition n="169"/>Dat saechdi aenden wege wel</l>
+<l>Dat part stont aende linden</l>
+<l>Gebonden flandrijs gijnct ontbinden</l>
+<l n="130">Het was root van brunen benen</l>
+<l>Mer hadde te dien tiden genen</l>
+<l>Beteren destrier niewer vonden</l>
+<l>Sine leden altoes stonden</l>
+<l>Te lopene ende sine voete</l>
+<l n="135">Besach flandrijs met goeden moete</l>
+<l><milestone unit="fol" n="1vb"/> Dies sere wonderde den degen</l>
+<l>Sine waren met ysere noit beslegen</l>
+<l>Gelijc den stenen waren si vast</l>
+<l>Het droech wel ii parde last</l>
+<l n="140">Het was gewrocht scone ende hoge</l>
+<l>Ende van rikeliken vertoge</l>
+<l>Onder c orsen adment gekint</l>
+<l>Die wilden haddent also getimpt</l>
+<l>Te lopene ende hem nauwe te kerne</l>
+<l n="145">Dies stonts flandrise niet tonberne</l>
+<l>Ende priset voer enigen scat</l>
+<l>Met haesten hi daer boven sat</l>
+<l>Ende prouvet slaende met sporen</l>
+<l>Ende hi gaf hem den breidel voeren</l>
+<l n="150">Ende doe dat ors hadde den togel</l>
+<l>Vloecht metten leiden as een vogel</l>
+<l>Flandrijs mochtt come weder houden</l>
+<l>Te rechte waric keitijf gescouden</l>
+<l><edition n="171"/>Sprac flandrijs soudic begeven</l>
+<l n="155">Dit ors als lange alst heeft leven</l>
+<l>Salict houden ende mi god gespaert</l>
+<l>Also eer hiet mijn goede paert</l>
+<l>Gevic hem den name rossele</l>
+<l>Dus keerde flandrijs int prieele</l>
+<l n="160">Daer die joncfrouwe na hem wachte</l>
+<l>Die hi loste van felre achte</l>
+<l>Flandrijs sprac joncfrouwe fine</l>
+<l>Opt ors dat te voeren was mine</l>
+<l>Suldi riden ende hebben te dele</l>
+<l n="165">Ic wille met u ten brunen castele</l>
+<l>Varen daer ghi in behoert</l>
+<l>Die joncfrouwe metter woert</l>
+<l>Sette flandrijs op dander destrier</l>
+<l>Si lieten tpraiel enten vergier</l>
+<l n="170">Ende reiden den pat die eer quam</l>
+<l>De wilde die de joncfrouwe nam</l>
+<l>So lange datsi ten brunen castele</l>
+<l>Quamen daer lieden herde vele</l>
+<l>Stoenden binnen ende buten mede</l>
+<l n="175">Die rouwe dreven ende sericheide</l>
+<l>Doer haer joncfrouwe die was verloren</l>
+<l>Ende justiniaen alte voeren</l>
+<l>Noit waert droever man gesien</l>
+<l>Die ii camen in mettien</l>
+<l n="180">Gheslagen daer de lieden stoeden</l>
+<l><milestone unit="fol" n="7ra"/> Bede de domme metten vroeden</l>
+<l>Verbliden doen si die joncfrouwe</l>
+<l>Sagen daer si omme dreven rouwe</l>
+<l>Flandrijs besagen si uter maten</l>
+<l n="185"><pb n="173"/> Dor sine wapene die hem wel saten</l>
+<l>Den scilt sagen si te wonder an</l>
+<l>Ende tswert dat voerde deedel man</l>
+<l>Si spraken stille onder haer tande</l>
+<l>Dese es here van groten lande</l>
+<l n="190">Die voert dus rikelec gesmide</l>
+<l>Justiniaen was herde blide</l>
+<l>Als hi sire dochter sach</l>
+<l>Hine leivet diet u seggen mach</l>
+<l>Hi hiefse af met bliden moede</l>
+<l n="195">Flandrijs beette de ridder goede</l>
+<l>Die daer eerlike waert ontfaen</l>
+<l>Ende als verstoent justiniaen</l>
+<l>Van sire dochter de aventuere</l>
+<l>Deide hi flandrise wel ter cure</l>
+<l n="200">Festeyren ende leiden int palas</l>
+<l>Doer al datti kerstijn was</l>
+<l>Die rechtige here justiniaen</l>
+<l>Heeft flandrise vele ere gedaen</l>
+<l>Hi dedene ontwapenen int palas</l>
+<l n="205">Daert rikelijc ende scone was</l>
+<l>Van allen uterliken gestichte</l>
+<l>Justiniaen dat seit tgedichte</l>
+<l>Sprac kerstijn ne penset niet</l>
+<l><edition n="175"/>Dat mine herte u verspiet</l>
+<l n="210">Doer dat ghi van onser wet</l>
+<l>Niet sijt bi minen god mamet</l>
+<l>Ic dade minen zone ere</l>
+<l>Dan u ridder enige dere</l>
+<l>Want ghi hebt jegen mi verdient</l>
+<l n="215">Flandrijs sprac here lieve vrient</l>
+<l>Ic biddu dat ghi sijt vordacht</l>
+<l>Mire wapene ende wel wacht</l>
+<l>Ic minse voer alder werelt scat</l>
+<l>Justiniaen besteidde dat</l>
+<l n="220">Al gader bin sire kemenaden</l>
+<l>Flandrijs hoors hiet hi begaden</l>
+<l>Den stal waerders dies hem gebrac</l>
+<l>Hi brochte den riddere sonder lac</l>
+<l>I mantel diere ende rike</l>
+<l n="225">Ende prosenterdene jonstelike</l>
+<l><milestone unit="fol" n="7rb"/> Flandrise ende hijncken hem omtrent</l>
+<l>Dat was hem een scone prosent</l>
+<l>De wonde die hem beet de griffoen</l>
+<l>Deide seinen deidele baroen</l>
+<l n="230">Met sinen stene diere ende rike</l>
+<l>Ende soe genas wel haestelike</l>
+<l>Die lieden besaghene te stride</l>
+<l>Hi sat neiven des heren side</l>
+<l>Ende spraken onderlijnge veile</l>
+<l n="235"><pb n="177"/> Bede in eernste ende in spele</l>
+<l>Deen vraechde dander berechte</l>
+<l>Soe dat flandrijs al daer verplechte</l>
+<l>Sine aventure groet ende smal</l>
+<l>Ende sijns vaders ongeval</l>
+<l n="240">Dies sere wonderde justiniane</l>
+<l>Ende seide kerstijn na minen wane</l>
+<l>Duncti mi wesen een coene deigen</l>
+<l>Al haddi aligorante verslegen</l>
+<l>Van cuelne den putertieren coninc</l>
+<l n="245">Ic ne achtes niet een penninc</l>
+<l>Want jegen hem benic gevee</l>
+<l>Hi dodede mine broeders ii</l>
+<l>Sonder vonnesse ende sonder recht</l>
+<l>Mochtic jegen hem dragen gevecht</l>
+<l n="250">Ic soude wreken mijnre broeders doet</l>
+<l>Dies mine herte hevet rouwe groet</l>
+<l>Here ridder sprac justiniaen</l>
+<l>Ghi hebt vromicheit gedaen</l>
+<l>Dat ghi tswert enten scilt wont</l>
+<l n="255">Qualike vare dies u veriont</l>
+<l>Versloechdi den lioen enten drake</l>
+<l>Daer noeyt ridder dorste genaken</l>
+<l>Soe dadi groete vromichede</l>
+<l>Jaic here flandrijs doe seide</l>
+<l n="260">Bi goods gracie die mi beriet</l>
+<l>Justiniaen seide kerstijn siet</l>
+<l>Van uwen gode hoerdic dicken</l>
+<l>Spreken in verledenen sticken</l>
+<l>Datti was een gerecht man</l>
+<l n="265">Ghi mochter u wel houden an</l>
+<l>Dattic therte sal laten sinken</l>
+<l><edition n="179"/>Van onsen goeden ende gedincken</l>
+<l>Uwen god tanebedene</l>
+<l>Moochdi volcomen mine redine</l>
+<l n="270">Die ic u sal doen becant</l>
+<l><milestone unit="fol" n="7va"/> Condi gevaen den triant</l>
+<l>Die minen broeders tleven nam</l>
+<l>Dies ic ben droeve ende gram</l>
+<l>Ende hier gevanghen bringen</l>
+<l n="275">Ic sal geloven dor dese dingen</l>
+<l>An uwen god ende kerstijn bliven</l>
+<l>Ende mine manne ende haer wiven</l>
+<l>Sullen selfs ane gaen</l>
+<l>Mijn goet salic vandi ontfaen</l>
+<l n="280">Ende hulpen wreken u lachter</l>
+<l>Ende gheven te wive mire dachter</l>
+<l>Die ghi losset uten grieve</l>
+<l>Dat salic doen doer uwe lieve</l>
+<l>Justiniaen here sprac flandrijs</l>
+<l n="285">Ghi sprect mi toe in hooscer wijs</l>
+<l>Met goeden rechte gevic u lof</l>
+<l>Ghi doet mi ere in u hof</l>
+<l>Meerre dan mi noit heidijn dede</l>
+<l><edition n="181"/>Ic weets u danc ende lof mede</l>
+<l n="290">Al dat ghi mi hebt vertelt</l>
+<l>Maer uwer dochter ghine selt</l>
+<l>U verbelgen ic niet begere</l>
+<l>Si es werdich meerre ere</l>
+<l>Ende ic weet ene die ic kinne</l>
+<l n="295">Mijns herten troost entie ic minne</l>
+<l>Die ic niet vergeten en can</l>
+<l>Justiniaen de hoefsche man</l>
+<l>Vraechde flandrijs om sine name</l>
+<l>Hi berechs hem sonder blame</l>
+<l n="300">Ende seide here ic hete flandrijs</l>
+<l>Justiniaen sprac kerstijn wijs</l>
+<l>Mochdi doen dattic u seide</l>
+<l>Ic sal ontfangen kerstenheide</l>
+<l>Ende al dat mi toe bestaet</l>
+<l n="305">Doer sekerheit van deser daet</l>
+<l>Slaic mi op minen tant</l>
+<l>Dats een die meeste pant</l>
+<l>Diemen in heidijnesse zwert</l>
+<l>Justiniaen was blide wert</l>
+<l n="310">Flandrise so was de joncfrouwe</l>
+<l>Mettien quam in de ongetrouwe</l>
+<l>Fallax dat was justiniaens zone</l>
+<l>Die talre stont quaet doende was gewone</l>
+<l><edition n="183"/>Hi hadde gejaget de wilde diere</l>
+<l n="315">Hem waren geseit alde maniere</l>
+<l><milestone unit="fol" n="7vb"/> Hoe sijn suster was genomen</l>
+<l>Ende bi enen kerstijn weider comen</l>
+<l>Ende hie in die sale ware</l>
+<l>Fallax hadde dat sere ommare</l>
+<l n="320">Ende quam ter salen sonder spreken</l>
+<l>Tote sine vader es hi gestreken</l>
+<l>Ende tochdem sijn venisoen</l>
+<l>Doen stont op flandrijs de baroen</l>
+<l>Ende hietene willecome sijn</l>
+<l n="325">Cume andwoordem de heidijn</l>
+<l>Maer hi sciet van daer wel sciere</l>
+<l>Onwerdich was al sijn maniere</l>
+<l>Dit mercte wel justiniaen</l>
+<l>Ende sprac te flandrise zaen</l>
+<l n="330">Eedel kerstijn merket niet</l>
+<l>Dat mine sone es gesciet</l>
+<l>Van nide datti cume sprac</l>
+<l>Hi hevet soe groet ongemac</l>
+<l>Bedect om mine broeders doot</l>
+<l n="335">Hine mach verbliden smal no groet</l>
+<l>Voer hijs heeft genomen wrake</l>
+<l>Flandrijs andworde te deser saken</l>
+<l>Sal hi noch comen moetic leven</l>
+<l>Dus es haer tale bleven</l>
+<l n="340">Men leide taflen ende men at</l>
+<l>Fallax altoes onwerdich sat</l>
+<l>Dat was een haerde pijlijc opsien</l>
+<l><edition n="185"/>Flandrijs keret al in dien</l>
+<l>Dies hem eerst bat justiniaen</l>
+<l n="345">Die joncfrouwe wel gedaen</l>
+<l>Sat jegen flandrise die de morsele</l>
+<l>Haer pareerde ysabele</l>
+<l>Hiet de joncfrouwe die zere was scone</l>
+<l>Flandrijs droech in haer herte crone</l>
+<l n="350">Haddire toe gheoctroiert</l>
+<l>Watmen daer sprac hem gemoviert</l>
+<l>Ne hevet niet de quade fallax</l>
+<l>Hi sach veile sijns ongemax</l>
+<l>Op dattire toe seggen dorste</l>
+<l n="355">Men dede daer op sonder vorste</l>
+<l>Die scone scolakine vanden male</l>
+<l>Men ginc verwandelen inde zale</l>
+<l>Deen ten scake dander ten stene</l>
+<l>Fallax hadde begerde negene</l>
+<l n="360">Dan om flandrijs te slande doet</l>
+<l><milestone unit="fol" n="3ra"/> In sine camere hi omboet</l>
+<l>X van sinen besten gesellen</l>
+<l>Ende gijnc hem sijn gedochte tellen</l>
+<l>Datti int herte niet blide mach sijn</l>
+<l n="365">Hine hebbe verslegen den kerstijn</l>
+<l>Die daer quam metten diere gegaren</l>
+<l>Morghen seiti sullen wi varen</l>
+<l>Tere lagen inden foreeste</l>
+<l>Dat niemen sal weten van onsen oreeste</l>
+<l n="370">Ende daer wachten den kerstijn</l>
+<l>Ende nemen hem dat leven sijn</l>
+<l>Mi sullen sine wapene bliven</l>
+<l>Bedectelike sulwine ontliven</l>
+<l><edition n="187"/>Ende hier af maect gene niemaren</l>
+<l n="375">Die andre dies gewillich waren</l>
+<l>Ende waren blide uter maten</l>
+<l>Verraders moete god verwaten</l>
+<l>Die om der goeden eren spien</l>
+<l>Hen es gene dijnc meer ontsien</l>
+<l n="380">Dan die int herte draget venijn</l>
+<l>Bedect ende niemen macher sijn</l>
+<l>Jegen voorsien sijt lief of leit</l>
+<l>Dat doet sverraders bedectheit</l>
+<l>Flandrijs was savonts wel te gemake</l>
+<l n="385">Ende gebeidt wat soudic sprake</l>
+<l>Veile maken die niet ne dogen</l>
+<l>Die nacht leet ende met vertoge</l>
+<l>Quam de dach ter salen binnen</l>
+<l>Die wachter blies ten hogen tinnen</l>
+<l n="390">Flandrijs hoeret die hem gijnc cleden</l>
+<l>II cnapen holpen hem gereiden</l>
+<l>Die daer sinde justiniaen</l>
+<l>Sine wapene hebsi hem aen gedaen</l>
+<l><edition n="189"/>Alstie daer niet laten wille</l>
+<l n="395">Fallax ende sine gesellen stille</l>
+<l>Waren wech in haer lagen</l>
+<l>Eer dat iet begonste te dagen</l>
+<l>Daer niet af wiste de ridder coene</l>
+<l>Ter salen brochtene de garsoene</l>
+<l n="400">Wel gewapent van ende torde</l>
+<l>Hi dancte alser toe behoerde</l>
+<l>Justiniane ende ysabele</l>
+<l>Entie waren binden castele</l>
+<l>Der eren die sij hem hadden gedaen</l>
+<l n="405">Here flandrijs sprac justiniaen</l>
+<l><milestone unit="fol" n="3rb"/> Sijt te onser saken snel</l>
+<l>Mijn woert salic houden wel</l>
+<l>Dat ic ghisteravont seide</l>
+<l>Mer brochte flandrise met enen gereide</l>
+<l n="410">SIjn wilde part ende wel berect</l>
+<l>Voerde zale es hi getrect</l>
+<l>Daer hi int gereide spranc</l>
+<l>I gelavie scarp ende lanc</l>
+<l>Brochtmen hem na sijn vermanen</l>
+<l n="415">Doe nam hi orlof ende sciet danen</l>
+<l>Ende liet achter hem dander part</l>
+<l>Den wech voer hi te cuelne waert</l>
+<l>Also hem wijsde justiniaen</l>
+<l>Rossele gijnc hi met sporen slaen</l>
+<l n="420">Datti opten wilden wan</l>
+<l>Maer onverre was hi van dan</l>
+<l>Dat fallax op hem cam gereiden</l>
+<l>Ende seide kerstijn hier ter steden</l>
+<l>Calengeric uwe wapine</l>
+<l n="425">Ende u ors dat wert oec mine</l>
+<l>Metten live ne mogedi niet</l>
+<l>Ontgaen hi hadde een spiet</l>
+<l>Die hi metten worde daelde</l>
+<l><edition n="191"/>Die voren scarp was als i naelde</l>
+<l n="430">Flandrijs sach hem den anderen naken</l>
+<l>Hine achte niet op sine spraken</l>
+<l>Hi daelde spere ende sloech met sporen</l>
+<l>Elc hadde andren vercoren</l>
+<l>Met haer gelavien scarp ende stide</l>
+<l n="435">Versaemden si met sulken nide</l>
+<l>Dattie orsse vielen op die hamen</l>
+<l>Fallax ne dorstem niet scamen</l>
+<l>Vanden joeste die hi stac</l>
+<l>Op flandrijs scilt sijn spere brac</l>
+<l n="440">Daer op veste niet de spiet</l>
+<l>Maer flandrijs die coene diet</l>
+<l>Stac fallaxe aenden carbeele</l>
+<l>Vanden sadele ende metten spele</l>
+<l>Esser de glavie dore geronnen</l>
+<l n="445">Om fallax lijf eest al begonnen</l>
+<l>Want hem tiser vloech dor den buuc</l>
+<l>Ende vel ter herde als een struuc</l>
+<l>Vanden orse daer hi op sat</l>
+<l>Flandrijs traken tspere uut ter stat</l>
+<l n="450">Als dies wel waent hebben te doene</l>
+<l><milestone unit="fol" n="3va"/> Doe sloegen uut de x glottoene</l>
+<l><edition n="193"/>Op flandrijs diese heeft versien</l>
+<l>Sijn ors sloechi ooc jegen dien</l>
+<l>Die voren quam ende hem was nast</l>
+<l n="455">Sine doot heefti verhaest</l>
+<l>Flandrijs stakene durendure</l>
+<l>Ende hilt hem stijf gelijc den mure</l>
+<l>Jegen dandre ix heidine</l>
+<l>Hi dor stac metter gelavien zine</l>
+<l n="460">I die hi vanden live versciet</l>
+<l>Hi weder stoent menigen starken spiet</l>
+<l>Die opten vasten scilt al braken</l>
+<l>Met haesten si de swerde traken</l>
+<l>Hem mede te werne in dat pongijs</l>
+<l n="465">Sijn goede swert trac doe flandrijs</l>
+<l>Tbeste dat was in enich lant</l>
+<l>Dat was gheheten cyclopidant</l>
+<l>Ende sloech daer mede de dieve felle</l>
+<l>Als oft ware ene scelle</l>
+<l n="470">Gaf dat swert uut enen clanc</l>
+<l>Elc heidijn van vare verspranc</l>
+<l>Vanden lude vanden swerde</l>
+<l>Flandrijs sloech optie werde</l>
+<l>Met enen slage ii ter neder</l>
+<l n="475">Die nemmerme hem werden weder</l>
+<l>Hi sloechen wonden groet ende stranc</l>
+<l>Haer were was herde cranc</l>
+<l>Dat swert dat sloech opten scilde</l>
+<l>Die flandrijs voerde de here milde</l>
+<l n="480">Brac inde midden waerde ontwee</l>
+<l><edition n="195"/>Haer were diedde min no mee</l>
+<l>Si bleven alle doot optie werde</l>
+<l>Dies dancte flandrijs sinen swerde</l>
+<l>Justiniaen vanden brunen castele</l>
+<l n="485">Die niet weet van desen rivele</l>
+<l>Hoe dat flandrijs was belaget</l>
+<l>Omme fallax heefti gevraget</l>
+<l>Den genen die daer bi hem waren</l>
+<l>Doe seidem een der portenaren</l>
+<l n="490">Datti voer dage hem xder leet</l>
+<l>Die poorte enten bussce reet</l>
+<l>Gewapent hi van danen sciet</l>
+<l>Waer hi voer seidi mi niet</l>
+<l>No in vragets hem ooc twijnt</l>
+<l n="495"><milestone unit="fol" n="3vb"/> Ende alstie portier dit ontbijnt</l>
+<l>Riep die here justiniaen</l>
+<l>Ghi heren nu vant ten wapenen vaen</l>
+<l>Ende rijt met mi ic hebs noet</l>
+<l>Die kerstijn wert geslegen doet</l>
+<l n="500">Die ic gisteren te gaste ontfinc</l>
+<l>Dat wert mi lachterlike dinc</l>
+<l>Fallax es hem na gereden</l>
+<l>Justiniaen heeft sciere bescreden</l>
+<l>Een ors doe hi dit hadde geseit</l>
+<l n="505">Uter porten sloech hi gereet</l>
+<l>Gewapent met xx sire man</l>
+<l>Tote si quamen inden dan</l>
+<l>Daer flandrijs hilt de ridder goet</l>
+<l><edition n="197"/>Ende doe hi versach dat groete moet</l>
+<l n="510">Waendi dat vianden waren</l>
+<l>Hi reet hem jegen sonder sparen</l>
+<l>Scilt an hals ende spere ter steken</l>
+<l>Justiniaen began doen te spreken</l>
+<l>Daer hi quam voren metten sinen</l>
+<l n="515">Here kerstijn want u niet pinen</l>
+<l>Al goet wi te u waert menen</l>
+<l>Flandrijs kende elne genen</l>
+<l>Dan justiniaen sinen ward</l>
+<l>Hi daelde spere ende hilt sijn part</l>
+<l n="520">Stille ende seide lieve here</l>
+<l>Wat doet u riden aldus sere</l>
+<l>Met uwen lieden doet mi verstaen</l>
+<l>Here kerstijn sprac justiniaen</l>
+<l>Berecht mi teerst of u yet let</l>
+<l n="525">Flandrijs sprac bi minre wet</l>
+<l>Mine mescomt smal no groet</l>
+<l>Mer si xi hebbic hier doet</l>
+<l>Geslegen die mi wilden deren</l>
+<l>Dat deidic al op mijn verweren</l>
+<l n="530">Wie si waren es mi oncont</l>
+<l>Justiniaen voer ter selver stont</l>
+<l>Met flandrise daer dandere lagen</l>
+<l>Elken si onderlinghen besagen</l>
+<l>Vanden xi entie here</l>
+<l n="535">Justiniaen gijnc wenen zere</l>
+<supplied resp="editor">[r. 536 en 537 zijn een herhaling van r. 522 en 523 (veroorzaakt door voorafgaand gelijk rijm), met weglating van "uwen" en gebruik van twee afkortingen extra]</supplied>
+<l n="538">Als hi sinen sone sach</l>
+<l>Entie andere groot geclach</l>
+<l n="540"><pb n="199"/><milestone unit="fol" n="4ra"/> Dreven ooc al sine lieden</l>
+<l>Flandrijs sprac vant mi bedieden</l>
+<l>Twi droufdi om desen doden</l>
+<l>Dat manic u bi gode</l>
+<l>Here kerstijn sprac de goede here</l>
+<l n="545">Met rechte machic droeven zere</l>
+<l>Want mijn sone es die hier lecht</l>
+<l>Ende mine lieden hi es ontweicht</l>
+<l>Sprac flandrijs die hevet rouwe</l>
+<l>Om verraders ongetrouwe</l>
+<l n="550">Als hise in dogene siet verlast</l>
+<l>Ghi ontfinct mi over gast</l>
+<l>Ghisteren dat lone u onse here</l>
+<l>Nu quamic met scilde ende met spere</l>
+<l>Gevaren also ic van u sciet</l>
+<l n="555">In hadde mi vermoedet niet</l>
+<l>Uwes soons die op mi quam</l>
+<l>Ende riep op mi alstie was gram</l>
+<l>Datti mine wapene woude</l>
+<l>Ende mijn lijf met ongedoude</l>
+<l n="560">Worden wi des strijts gemene</l>
+<l>Ic reettene doot van sinen wrene</l>
+<l>Ende x die waren van sinen accorden</l>
+<l>Justiniaen sprac met hoescen worden</l>
+<l>Vaert gesont getrouwe kerstijn</l>
+<l n="565">Dat ghi versloecht den sone mijn</l>
+<l>Vergevic u met goeden gedochte</l>
+<l>Datti sine dompheit becochte</l>
+<l>Es recht ende hen sal nieman clagen</l>
+<l>In wancons u te genen dagen</l>
+<l n="570"><pb n="201"/> Dies wistem flandrijs groten danc</l>
+<l>Ende voer wech sonder letten lanc</l>
+<l>Den wech die hi eer hadde genomen</l>
+<l>Die heidene die daer waren comen</l>
+<l>Metten here justiniaene</l>
+<l n="575">Voerden de dode gereet dane</l>
+<l>Tote inde sale daer si behoerden</l>
+<l>Wat souden hier af lange woorden</l>
+<l>Na hare wet met groeter werden</l>
+<l>Waren si alle gedaen ter erden</l>
+<l n="580">Nu latic vanden heidenen bliven</l>
+<l>Ende wille u van flandrise scriven</l>
+<l>Ende vaert den wech te cuelne waert</l>
+<l>Wat lopen mach sijn paert</l>
+<l>Daer hi mict te doene wonder</l>
+<l n="585"><milestone unit="fol" n="4rb"/> Omtrent noene quam hi onder</l>
+<l>Ene praierie gereiden</l>
+<l>Daer beete hi met verdicheiden</l>
+<l>Ende wildem rusten int scone gras</l>
+<l>Ende als hi neider gebeet was</l>
+<l n="590">Ende sijn paert daer peisteren dede</l>
+<l>Sachi totem daer ter stede</l>
+<l>Die joncfrouwe comen die hem te voeren</l>
+<l>Tswert enten scilt als ghi moget horen</l>
+<l><edition n="203"/>Wijsde entie hi ene beide</l>
+<l n="595">Beloefde bi ridderscepe meide</l>
+<l>Deerste die soe hem bidden soude</l>
+<l>Flandrijs verkennetse also houde</l>
+<l>Als hise metten ogen sach</l>
+<l>Sine herte verlichtem alstie dach</l>
+<l n="600">Ende gijnc gereet in haer gemoet</l>
+<l>Elc heeft andren daer gegroet</l>
+<l>Hoefschelike doen sprac die scone</l>
+<l>Die van rijcheiden droech crone</l>
+<l>Ende volmaect was van allen seden</l>
+<l n="605">Here flandrijs ghi hebt leden</l>
+<l>Die aventuere die ic u wijsde</l>
+<l>Ende tswert enten scilt verprijsde</l>
+<l>Hebdi gewonnen met vromicheden</l>
+<l>Nu vulcomt mi mire beden</l>
+<l n="610">Die ghi mi bi uwer trouwen</l>
+<l>Belovet flandrijs sprac joncfrouwe</l>
+<l>Daer toe ben ic al gereet</l>
+<l>Die trauwe te quitene ende beheet</l>
+<l>Gebiet wat ghi wilt ic doe</l>
+<l n="615">De scone loech ende sprac hem toe</l>
+<l>Flandrijs ic segt al eest u swaer</l>
+<l>Hier staet xl milen naer</l>
+<l>Een casteel ende een sale</l>
+<l><edition n="205"/>Ghewrocht van sevenrande metale</l>
+<l n="620">Ende heet de borch van aventuren</l>
+<l>Beide de porten entie muren</l>
+<l>Sijn soe starc en es man</l>
+<l>Die de vasteit geseggen can</l>
+<l>No die wondre diere an leggen</l>
+<l n="625">Nu hoert wat ic u voert sal seggen</l>
+<l>Binden castele woent een gigant</l>
+<l>Ic wane men noit sijn genoet vant</l>
+<l>Colosus eest datti heet</l>
+<l>Xx voete alsoe ict weet</l>
+<l n="630"><milestone unit="fol" n="4va"/> Es hi lanc dese colosus</l>
+<l>Met hem woent een tarcarus</l>
+<l><edition n="207"/>Dat es een man uut daltatien</l>
+<l>Die meer toent nigromantien</l>
+<l>Dan alle die ter werelt leven</l>
+<l n="635">Hi doet wel de arde beven</l>
+<l>Ende bi consten soe sere waien</l>
+<l>Dat een sijn sien al verdraien</l>
+<l>Het ware te sechne ene sage</l>
+<l>Nu hoert wes ic mi beclage</l>
+<l n="640">Vanden gigante colosus</l>
+<l>Die inden casteel woent aldus</l>
+<l>Die borch heet van aventueren</l>
+<l>Binden meye alstie verdueren</l>
+<l>Scone staen in vele valeyen</l>
+<l n="645">Quam ic gegaen in deser contreien</l>
+<l>Mi derden toter fonteinen clare</l>
+<l>Daer ghi mi laetst waert geware</l>
+<l>Om dat daer soe scone was</l>
+<l>Saten wi alle iii int gras</l>
+<l n="650">Mine gheselinne ende ic</l>
+<l>Als wire gheseten hadden een stic</l>
+<l>Brachtic enen spiegel voert</l>
+<l>Van beteren hebdi niet gehoert</l>
+<l>Dan de spiegel was die ic brochte</l>
+<l n="655">Dat ict u seide het ne dochte</l>
+<l>En ware dat ghine hadt gewonnen</l>
+<l>Dies ic te telne u hadde begonnen</l>
+<l>Vanden spiegele die was soe rike</l>
+<l><edition n="209"/>Doe quam igaen slopenlike</l>
+<l n="660">Daer wi inden spiegel sagen aldus</l>
+<l>Die groete gigant colosus</l>
+<l>Ende nam mi uter hant gereet</l>
+<l>Den spiegel waest mi lief oft leet</l>
+<l>Dies ic doge ongevoech</l>
+<l n="665">Deren hebbics ooc genoech</l>
+<l>Ende meer dan ics wille clagen</l>
+<l>Wildi prijs ende ere bejagen</l>
+<l>Soe doet mi nu gereet de bede</l>
+<l>Daer ic u tswert om halen dede</l>
+<l n="670">Enten scilt diere ende rike</l>
+<l>Dat es dat ghi mi verdelike</l>
+<l>Ter borghe vaert daer colosus</l>
+<l>In woent die minen spiegel dus</l>
+<l><milestone unit="fol" n="4vb"/> Genomen eeft bi valschen treken</l>
+<l n="675">Dies ic ontheert ben ende versteken</l>
+<l>Totic den spiegel mach gecrigen</l>
+<l>Nu andwordt mi of vant swigen</l>
+<l>Flandrijs sprac joncfrouwe scone</l>
+<l>Wat ghi mi bidt onder den trone</l>
+<l n="680">Dat salic doen of bliven daer voeren</l>
+<l>Verslegen nu laet mi horen</l>
+<l>Hoe dattic drijnge turcarien</l>
+<l>Niemen soudic so sere ontsien</l>
+<l>Alstie met toverien spelen</l>
+<l n="685">Flandrijs i dinc willic niet heilen</l>
+<l>Sprac de scone nemt desen steen</l>
+<l>So nes toverare geen</l>
+<l>Die u mach deren of doen scanden</l>
+<l><edition n="211"/>Hebdine beloken bin uwen tanden</l>
+<l n="690">Ic prisene u voer groete dijnc</l>
+<l>Flandrijs den goeden steen ontfijnc</l>
+<l>Ende wierpene in sine alowiere</l>
+<l>Nu wijst mi seiti goedertieren</l>
+<l>Ter buerge daer binnen colosus</l>
+<l n="695">Woent de maget sprac rijt dus</l>
+<l>Desen groenen pat oost waert</l>
+<l>Het es heinen iv dachvaert</l>
+<l>Ghi sultene sien in enen dale</l>
+<l>Doe nam hi orlof ande smale</l>
+<l n="700">Wies bede datti wille vulbrijngen</l>
+<l>Machi metten live verdijngen</l>
+<l>So heeftijs meer dan aventuere</l>
+<l>Toten avonde reet hi al dure</l>
+<l>Ende nachts lachi in een dan</l>
+<l n="705">Ende at al sulc als hem quam an</l>
+<l>Cruut dat anden velde wies</l>
+<l>Sine hebben niet al haer gerief</l>
+<l>Die varen in wilder aventueren</l>
+<l>Somwile tsoete daer na tsure</l>
+<l n="710">Dit es haer lieder leen</l>
+<l>Van desen moeste flandrijs sijn een</l>
+<l>Hine hadde niet al sijn gevoech</l>
+<l>Maer hi was diet wel verdroech</l>
+<l>Na dat niet beiters sijn mochte</l>
+<l n="715">Alstie nacht den dach voert brochte</l>
+<l>Bescreet flandrijs sijn goede part</l>
+<l>Ende reet sinen wech voort waert</l>
+<l><milestone unit="fol" n="8ra"/> Ten castele van aventueren</l>
+<l>Came hi gerne mochts hem geburen</l>
+<l n="720"><pb n="213"/> Daer binnen wonde colosus</l>
+<l>III dagen heefti gereden dus</l>
+<l>Dattine sach wijf no man</l>
+<l>No huus daer hi mach vragen an</l>
+<l>Om de borch van vii mettalen</l>
+<l n="725">Nachs lachi inden groenen dalen</l>
+<l>Met sinen parde in grooter pinen</l>
+<l>Hi dranc borne ende at rachine</l>
+<l>Ongereet was hem enich dac</l>
+<l>Dies hadden si bede ongemac</l>
+<l n="730">Den vierden dage al toter noenen</l>
+<l>Reet flandrijs de ridder coene</l>
+<l>Den rechten wech die hi begonnen</l>
+<l>Hadde te ridene vander zonnen</l>
+<l>Deidem herde leet dat scinen</l>
+<l n="735">Daventuere waert hem te pinen</l>
+<l>Daer hi den spiegel in moet souken</l>
+<l>Die pine deidem sere vlouken</l>
+<l>Colosuse ende sinen toren</l>
+<l>Dat hire niet can comen voren</l>
+<l n="740">Ende hine iii dage hadde gesocht</l>
+<l>Dus reet flandrijs al verdocht</l>
+<l>So datti van hem niet verre</l>
+<l>De buerch sach oft waren sterren</l>
+<l>Scemerden die rikelike tinne</l>
+<l n="745">Flandrijs verblijdde in sinen sinne</l>
+<l>Als hi sach dat diere gestichte</l>
+<l>Daer de sonne met haer lichte</l>
+<l>Jegen blecte dat wedersceen</l>
+<l>Flandrijs reet eer hi gefeen</l>
+<l n="750">Toter porten vander gesaten</l>
+<l><edition n="215"/>Die men node soude laten</l>
+<l>Besloten dor enichs mensce ontsien</l>
+<l>Want daer was an alsulc engien</l>
+<l>Daer de poorte af was voor hoet</l>
+<l n="755">Dat soe nacht ende dach open stoet</l>
+<l>Ende nieman dorste binnen gaen</l>
+<l>Want dese porte was wel gedaen</l>
+<l>Al gewrocht van ysere fijn</l>
+<l>Tbeste dat ye mochte sijn</l>
+<l n="760">Die toire die siden entie posten</l>
+<l>Waren zelverijn wat sout costen</l>
+<l><milestone unit="fol" n="8rb"/> Die sulken werc vulbrijngen wilde</l>
+<l>Dit sach flandrijs de ridder milde</l>
+<l>Daer hi voorde poorte hielt</l>
+<l n="765">Of elke zide stont een wilt</l>
+<l>Bere gebonden die te samen</l>
+<l>Diere in wilden den wech benamen</l>
+<l>Want si versamen mochten te dele</l>
+<l>Deerste poorte vanden castele</l>
+<l n="770">Dat was de porte yserijn</l>
+<l>Daer de ii beren binnen sijn</l>
+<l>Fel ende wreet die souden bestaen</l>
+<l>Den genen die daer in wilde gaen</l>
+<l>Flandrijs sach dit wonder al</l>
+<l n="775">Help god seiti ende goet geval</l>
+<l>Ic hebs herde wel te doene</l>
+<l>Al waric starc gelijc sampsoene</l>
+<l>Soe ware mi beisich mine macht</l>
+<l><edition n="217"/>Nochtan keric nemmermeer acht</l>
+<l n="780">Dor blootheit van minen live</l>
+<l>Tbelof dattic den sconen wive</l>
+<l>Geloefde willic seker houden</l>
+<l>Want woordic logenare gescouden</l>
+<l>So waer mijn ere ende mijn leven</l>
+<l n="785">In des dorpers brief bescreven</l>
+<l>Ende eest dattic de doet besure</l>
+<l>Dor tbestaen deser aventuere</l>
+<l>So sal mine ere weisen groot</l>
+<l>Van allen lieden na mine doet</l>
+<l n="790">Doot hebbic liever de ere behouden</l>
+<l>Dan leivende doorper sijn gescouden</l>
+<l>God wouts nu willic ane vaen</l>
+<l>Flandrijs beete neder zaen</l>
+<l>Alstie hem sijn ors ontsiet</l>
+<l n="795">Ende heeft genomen sinen spiet</l>
+<l>Die starc was ende voren scerp</l>
+<l>Den scilt hi voorde borst werp</l>
+<l>Ende liep ten i vanden beren</l>
+<l>Die metten cawen gijnc reren</l>
+<l n="800">Doen hi flandrise comen sach</l>
+<l>Ende flandrijs stac al datti mach</l>
+<l>Den bere vore inde borst</l>
+<l>Soe dat tiser sonder vorst</l>
+<l>Ten rugge been dor ran</l>
+<l n="805">Ende eer hi sinen spiet gewan</l>
+<l><milestone unit="fol" n="8va"/> Uten bere die lach dorsteken</l>
+<l>Quam dandre bere toe gestreken</l>
+<l>Ende sloech de clauwen an flandrijs scilt</l>
+<l>Al hadde de bere grote gewilt</l>
+<l n="810"><pb n="219"/> Anden scilt mochti niet winnen</l>
+<l>Flandrijs trac tswert ende liet binnen</l>
+<l>Den doden bere steiken den scacht</l>
+<l>Eer hem de ander wel vorwacht</l>
+<l>Slouchem flandrijs af tmuseel</l>
+<l n="815">De bere maecte groet rivel</l>
+<l>Op flandrise met sinen poten</l>
+<l>Besiden scilde es hi gescoten</l>
+<l>Uten alsberghe inder batalien</l>
+<l>Heefti gehaelt de vaste malien</l>
+<l n="820">Ende scuerde tporpoint van siden</l>
+<l>Flandrijs deide sijn swert sniden</l>
+<l>Met beden handen des gelovet</l>
+<l>Sloechi den bere op sine hovet</l>
+<l>Dattijt hem al dor spleet</l>
+<l n="825">Die bere sijns stridens doe vermeet</l>
+<l>Flandrijs stac sijn swert inden scoe</l>
+<l>Sinen scacht gereep hi toe</l>
+<l>Ende sat op sijn ors rosseel</l>
+<l>Hi heeft nu een scone voordeel</l>
+<l n="830">Hi leet de porte yserijn</l>
+<l>Bat voert reet de ridder fijn</l>
+<l>Tere porte van finen metale</l>
+<l>Dit was de ander vander zalen</l>
+<l>Soe was diere ende starc</l>
+<l n="835">Flandrijs pensde dits duvels warc</l>
+<l>Dese poorten groot ende dicke</l>
+<l>Ende al gemaect van enen sticke</l>
+<l>Noit ne maketse mensce hant</l>
+<l>II lupaerde fel rampant</l>
+<l n="840">Die beide hadden ondaen de keile</l>
+<l>Ende scenen wel van quaden spele</l>
+<l><edition n="221"/>Sach flandrijs binder poorten gebonden</l>
+<l>Somwile saten somwile stonden</l>
+<l>De ii beesten van leliken cuwen</l>
+<l n="845">Den ridder begans zere of geruwen</l>
+<l>Ende seide dese beesten beide</l>
+<l>Ebben herde felle zede</l>
+<l>De felste die ic noeit ane sach</l>
+<l>Nochtan salic op desen dach</l>
+<l n="850">Jegen hem prouven mijn geval</l>
+<l><milestone unit="fol" n="8vb"/> Neder beeti sonder gescal</l>
+<l>Ende bant sijn part aen enen stake</l>
+<l>Sinen spiet al sonder sprake</l>
+<l>Nam hi ende hielt den scilt voren</l>
+<l n="855">De luparde heefti vercoren</l>
+<l>Die hem bede hielden ter were</l>
+<l>Flandrijs liep met sinen spere</l>
+<l>Dat voren was herde scarp verstaelt</l>
+<l>Opten enen hi dat daelt</l>
+<l n="860">Diere jegen de cuwe ondede</l>
+<l>Daer hi hem selven derde mede</l>
+<l>Flandrijs stac hem ter selver ure</l>
+<l>Achter der necke tspere dure</l>
+<l>Dies hi harde lude scree</l>
+<l n="865">Hine weredem nemmermee</l>
+<l>Dat beriet hem sijn gierige aert</l>
+<l>Hoort wat dede dander lupaert</l>
+<l>Die sinen geselle sach bliven tonder</l>
+<l>Sine clauwen hief hi gonder</l>
+<l n="870">Met sulken nide op flandrijs scilt</l>
+<l>Recht oft ware een anbilt</l>
+<l>Ne mochten de clauwen daer in vesten</l>
+<l><edition n="223"/>Nochtan datsi bede mesten</l>
+<l>Ontfijnc flandrijs sulc enen stoet</l>
+<l n="875">Datti toter erde scoot</l>
+<l>Van porsen op sijn luchter knie</l>
+<l>Tswert trac de ridder vrie</l>
+<l>Met groeter haest doe hi op spranc</l>
+<l>Ende sloech enen slach wel stranc</l>
+<l n="880">Met beden handen opten lupaert</l>
+<l>Trechter die ende ooc den staert</l>
+<l>Sloechi al of metter sneide</l>
+<l>Datten lupaerde lede deide</l>
+<l>Ende scoot van sinne verwoet</l>
+<l n="885">Op flandrijs die voer hem stoet</l>
+<l>Sloechi de clauwen anden arm</l>
+<l>Binden scilde ende deide al warm</l>
+<l>Sijn bloet comen uut sinen velle</l>
+<l>Dat daden des lupaerts nepen felle</l>
+<l n="890">De smerte flandrijs wel besief</l>
+<l>Met beden handen hi tswert hief</l>
+<l>Ende sloech den lupaert quaet ende fel</l>
+<l>Dat hem thovet vanden buke vel</l>
+<l>Ende storte neder voer flandrijs voete</l>
+<l n="895">Die sine wonden met goeder moete</l>
+<l><milestone unit="fol" n="2ra"/> Seinde die hem beet de lupaert</l>
+<l>Doen sat hi weder op ter vaert</l>
+<l>Ende nam inde hant den scacht</l>
+<l>Gode dancti die hem de cracht</l>
+<l n="900">Gaf datti de poorten leet</l>
+<l>Ende versloech de diere wreet</l>
+<l>Die luparde entie ii beren</l>
+<l>Binnen te sine es sijn begeren</l>
+<l>Dies hi een littel moet ombeiden</l>
+<l n="905">Ter derder poorte cam hi gereden</l>
+<l>Die van stale was gemaect</l>
+<l>Waren de eerste wel geraect</l>
+<l>Dese waren volmaecter vele</l>
+<l>II manne elc met enen vleigele</l>
+<l n="910"><pb n="225"/> Stonden binder porte stile</l>
+<l>Ende onder sloegen hem te bile</l>
+<l>Dat hem vruchten soude diet sage</l>
+<l>De ii die sloegen de felste slage</l>
+<l>Waren coperinen entie vleigele</l>
+<l n="915">Flandrijs sprac van desen spele</l>
+<l>Sachic noeit dan hier ter stede</l>
+<l>Die dese manne hier staen dede</l>
+<l>Van copere gewrocht dus vreselike</l>
+<l>Was duvel of duvels gelike</l>
+<l n="920">Sij sijn verwoet ende sonder sin</l>
+<l>Salic ter poerten comen in</l>
+<l>Ic moet emmer ii slage ontfaen</l>
+<l>God laet mi ten besten vergaen</l>
+<l>Ende minen orsse goet vercoren</l>
+<l n="925">Mettien noopte flandrijs met sporen</l>
+<l>Rossele ende warp den scilt opt thovet</l>
+<l>Door de poorte des gelovet</l>
+<l>Vloech dat ors oft ware een aren</l>
+<l>De ii mannen sloegen te waren</l>
+<l n="930">Eer hi leet de ridder milde</l>
+<l>Metten vleigelen op sinen scilde</l>
+<l>Datti boech op sine gereide</l>
+<l>Entie vlegelen braken beide</l>
+<l>Opten scilt van doechden groot</l>
+<l n="935">Flandrijs ware bleven doet</l>
+<l><edition n="227"/>Ne ware de scilt die dat bewaerde</l>
+<l>Nochtan derde flandrise haerde</l>
+<l>Die smerte die hem elc man gaf</l>
+<l>Hi waert tongemake daer af</l>
+<l n="940">Helpt god sprac flandrijs de here</l>
+<l><milestone unit="fol" n="2rb"/> Ic hebbe den scilt becocht sere</l>
+<l>Daer ic af hebbe gedaen trouwe</l>
+<l>God laets mi liden sonder rouwe</l>
+<l>Meerre dan ic hier nu ontfijnc</l>
+<l n="945">Mettien quam de jongelijnc</l>
+<l>Flandrijs ter vierder poorten gevaren</l>
+<l>Hi sach datter nieman ne ware</l>
+<l>Het was de beste vanden vieren</l>
+<l>Gemaect van rikeliker manieren</l>
+<l n="950">Was dat werc al selverijn</l>
+<l>Daer jegen blecte der sonnen scijn</l>
+<l>Dat gene ogen conden bescouwen</l>
+<l>V veinsteren subtilike gehauwen</l>
+<l>Waren inde poorte gestaen</l>
+<l n="955">Nacht ende dach waren si ondaen</l>
+<l>Entie neder poorte mede</l>
+<l>In soude u mogen de waerheide</l>
+<l>Niet vertellen vanden juwele</l>
+<l>Flandrijs cam gereden met rossele</l>
+<l n="960">Toter poorten zelverijn</l>
+<l>Hem wonderts sere int therte sijn</l>
+<l>Vanden rikeliken palaise</l>
+<l>De poorte waent hi liden met paise</l>
+<l>Maer dat was hem ongereet</l>
+<l n="965">Doe hi sijn ors met sporen smeet</l>
+<l>Vlogen uut elker vinstere x</l>
+<l><edition n="229"/>Staline scichte sere tontsiene</l>
+<l>Ende gloeiende als een vier</l>
+<l>II ontfijnker sijn destrier</l>
+<l n="970">Ende ii hadder flandrijs de milde</l>
+<l>Dandre braken op sinen scilde</l>
+<l>Die alle wapene wel onstont</l>
+<l>Flandrijs ende sijn ors es gewont</l>
+<l>Dat hem bede de smerte sceen</l>
+<l n="975">Rosseel int hooft ende in sijn been</l>
+<l>Ende flandrijs in sijn rechte die</l>
+<l>Ende in de scoudere de ridder vrie</l>
+<l>Leet dus de poorte selverine</l>
+<l>Al quaemt hem te sware pine</l>
+<l n="980">Hi reet ter zale voorden graet</l>
+<l>Die maerberijn was dat verstaet</l>
+<l>Daer lieti den scacht ende rossele</l>
+<l>Dat int vel hadde ii quarele</l>
+<l>Die hem flandrijs ute trac</l>
+<l n="985">Doer te beiterne tongemac</l>
+<l><milestone unit="fol" n="2va"/> Heeftijt gestreken metten stene</l>
+<l>De wonden vanden goeden wrene</l>
+<l>Genasen daer flandrijs toe sach</l>
+<l>Sire wonden hi doe plach</l>
+<l n="990">Ende traken de felle scichten uut</l>
+<l>Het wast ter werelt geen cruut</l>
+<l>Daer de wonden waren bi</l>
+<l>So saen geloken die ridder vri</l>
+<l>Dancte sinen lieve uter maten</l>
+<l n="995"><pb n="231"/> Die hem de steen gaf tsire baten</l>
+<l>Flandrijs liet tros na desen doene</l>
+<l>Voor de zale staen int groene</l>
+<l>Selve clam hi opten graet</l>
+<l>Die dure daer hi dore gaet</l>
+<l n="1000">Was al goudijn ende tpavement</l>
+<l>Was al latoen met grooter ment</l>
+<l>Quam hi inde sale scone</l>
+<l>Gelijc wilen salemoens trone</l>
+<l>Die hi van goude maken dede</l>
+<l n="1005">Was dese zale verhemelt meide</l>
+<l>De veinsteren waren selverijn</l>
+<l>Ende tverwelf binnen root guldijn</l>
+<l>Die vloer scemerde vanden letoene</l>
+<l>De pilare van rikeliken doene</l>
+<l n="1010">Waren alle wit yvorien</l>
+<l>Der sale decsel was herde fijn</l>
+<l>Van tinne ende lodijn de goten</l>
+<l>Entie cartele wat soude genoten</l>
+<l>Sulken castele want de mure</l>
+<l n="1015">Waren maerberijn goet ter cure</l>
+<l>Sonder water was hi behoet</l>
+<l>Wien hier af twifelt inden moet</l>
+<l>Dunct mi wesen sere ontraect</l>
+<l>Want de duvel hadt al gemaect</l>
+<l n="1020">Daerne toe dwanc de carturien</l>
+<l>Doe flandrijs cam in dat engien</l>
+<l>Hine hoorder niemen none sach</l>
+<l><edition n="233"/>Die hem mochte doen gewach</l>
+<l>Ende watti sochte saen berechten</l>
+<l n="1025">Hine sach vrouwen heren no knechten</l>
+<l>Dat hem herde sere wondert</l>
+<l>I camere sachi besondert</l>
+<l>Die binnen al was van ivore</l>
+<l>Ende goudijn scone was de dore</l>
+<l n="1030">Also der zale doren waren</l>
+<l><milestone unit="fol" n="2vb"/> Daer in gijnc flandrijs sonder sparen</l>
+<l>Recht of hire ware bekent</l>
+<l>Hi sacher binnen enen serpent</l>
+<l>Op enen selverinen pilaer</l>
+<l n="1035">Op enen goudinen daer naer</l>
+<l>Sachi enen spiegel staen</l>
+<l>Scone ende claer ende wel gedaen</l>
+<l>Diere in sach hem wale dochte</l>
+<l>Dattire de werelt in sien mochte</l>
+<l n="1040">Ende al datter binnen ware</l>
+<l>So groot was tgelas ende so dor clare</l>
+<l>In desen spiegel sach tserpent</l>
+<l>Daer toe hadt al sijn atent</l>
+<l>Els ne heeftet geen jolijt</l>
+<l n="1045">Dan het in spiegelen was verblijt</l>
+<l>Want het al sine genoechte is</l>
+<l>Dit serpent es geheten tigris</l>
+<l>Dat hem dus te spegelne pliet</l>
+<l>Noit ne was levende snelre iet</l>
+<l n="1050">Geen dier ne macht achter halen</l>
+<l>Tigre heetment in dietscer tale</l>
+<l>Ende es een vreselijc serpent</l>
+<l>Flandrijs sprac god omnipotent</l>
+<l>Es dit de spegel daer de joncfrouwe</l>
+<l n="1055">Mi omme sendde daer ic bi scauwe</l>
+<l>Dit serpent vreselike gedaen</l>
+<l><edition n="235"/>So willic dit dier bestaen</l>
+<l>Ende nemen den spiegel van sire steide</l>
+<l>Tswert trac hi doe uter scede</l>
+<l n="1060">Ende gijnc daer de spiegel stoet</l>
+<l>Boven opten pilaer goet</l>
+<l>Daer hi toe rechte uut de hant</l>
+<l>Maer tigris dat felle serpant</l>
+<l>Scoot neder in flandrijs gemoet</l>
+<l n="1065">Van sinne erre ende al verwoet</l>
+<l>Ende haelde den ridder ter selver ure</l>
+<l>Metten clauwen de wapene dure</l>
+<l>Ende gaf hem in sijn zide</l>
+<l>Een wonde diepe ende wide</l>
+<l n="1070">Datter troode bloet ute scoet</l>
+<l>Flandrijs sloech met nide groot</l>
+<l>Achter de tigre die ontspranc</l>
+<l>Dat goede swert inden vloer clanc</l>
+<l>Van letoene enen halven voet</l>
+<l n="1075">Dat flandrise te pinen stoet</l>
+<supplied resp="editor">Fragment II</supplied>
+<l n="1076"><milestone unit="fol" n="6ra"/> Den capoen hine wiste waer</l>
+<l>Wat wonder waest al haddi vaer</l>
+<l>Dat al was des duvels partien</l>
+<l>Doen sprac colosus de paien</l>
+<l n="1080">Te flandrise daer hi sat</l>
+<l>Garsoen seiti segt mi dat</l>
+<l><edition n="237"/>Twine eitstu van dinen gerechte</l>
+<l>Du sits gelijc enen bloeden knechte</l>
+<l>Waer es dijn capoen die daer stoet</l>
+<l n="1085">Flandrijs sprac du best onvroet</l>
+<l>Hedijn ende vul ongeloven</l>
+<l>Ic maecte teken gods hier boven</l>
+<l>Opten capoen alsic nu doe</l>
+<l>Die met haesten mi ontvloe</l>
+<l n="1090">Om datti quam van quaden wege</l>
+<l>God geift den goeden altoes zege</l>
+<l>Entie an hem setten den moet</l>
+<l>Du cons wel gokelen onder den hoet</l>
+<l>Sprac de groote colosus</l>
+<l n="1095">Du does den capoen vliegen dus</l>
+<l>Vander tafele daer hi op stont</l>
+<l>Du cons toveren dats mi cont</l>
+<l>Flandrijs spranc op van daer hi sat</l>
+<l>Ende seide hedijn ic segge u dat</l>
+<l n="1100">Toveren canic altoes niet</l>
+<l>Dat teken dat ghi siet</l>
+<l>Alsict maecte opten capoen</l>
+<l>Es so machtich in sijn doen</l>
+<l>Diet maect hem ne mach niet deren</l>
+<l n="1105">Colosus sprac dats sceren</l>
+<l>Moorgen salic u doen bekent</l>
+<l>Of ghi van mi wert gescent</l>
+<l>Doer alde conste die ghi cont togen</l>
+<l>Flandrijs mochte niet gedogen</l>
+<l n="1110">Te horne des ruesen oversprake</l>
+<l>Gode bat hi omme wrake</l>
+<l>Ende gijnc tote sinen orse neider</l>
+<supplied resp="editor"><pb n="239"/> [In het hs. is ruimte opengelaten voor acht verzen; het perkament is onbeschadigd en blank]</supplied>
+<l n="1121">Hine hadde datti eten mochte</l>
+<l><milestone unit="fol" n="6rb"/> Sijn leiven wasser bi gecranct</l>
+<l>Omden sconen dach hem lanct</l>
+<l>Datti den rueze siet in tcrite</l>
+<l n="1125">Die gode so hadde in verwite</l>
+<l>Ende niet kende wiene sciep</l>
+<l>Flandrijs aen gode hulpe riep</l>
+<l>Dattine gestarke jegen den fellen</l>
+<l>Colosus ende sinen geselle</l>
+<l n="1130">Tarcacius den toverare</l>
+<l>Die dat gesate maecte dare</l>
+<l>Ende groet wonder werken conste</l>
+<l>Bi duvelen doe begonste</l>
+<l>Die dach comen die scone naecte</l>
+<l n="1135">Flandrijs dien herde lettel vaecte</l>
+<l>Stont op van daer hi was geleigen</l>
+<l>Sire gewoenten wilhi plegen</l>
+<l>Ten oosten heefti hem gekeert</l>
+<l>Die edel ridder wel geleert</l>
+<l n="1140">Knielende began hi doen</l>
+<l>Te gode waert dit orisoen</l>
+<l>Ic belie di god almachtich</l>
+<l>Vader sone heilich geest waerachtich</l>
+<l>Fonteine van allen goeden</l>
+<l n="1145">Die mi maken wils delachtig</l>
+<l>Int heilige doopsel dat ic crachtich</l>
+<l>Soude werden in sekere hoeden</l>
+<l>Jegen der felre elscer gloeden</l>
+<l><edition n="241"/>Ende alle kerstine des gelike</l>
+<l n="1150">Maecti metten selven rike</l>
+<l>Daer si bi sijn verseikert bleven</l>
+<l>Bliven si volgende nader strike</l>
+<l>Die ghi hem leret op erdrike</l>
+<l>Datsi u leren bescreiven</l>
+<l n="1155">Volgen in haer leiven</l>
+<l>Deise gifte diere ende scone</l>
+<l>Impetreerdi here als sone</l>
+<l>An uwen vader care</l>
+<l>Want ghi selve waert de gone</l>
+<l n="1160">Onversceden iii persone</l>
+<l>Die helpen wilt den sondare</l>
+<l>Die was in anxnen sware</l>
+<l>Die uwe hebdi getekent wale</l>
+<l>Als sine scape prijnchipale</l>
+<l n="1165">Die goede herde voorsiet</l>
+<l>Dat sijn die volgen uwe pale</l>
+<l>Ende laten de quaetheit generale</l>
+<l><milestone unit="fol" n="6va"/> Dien eist dien ghi biet</l>
+<l>Uwe hant ende op hem siet</l>
+<l n="1170">Uwe ontfermicheit ne soude</l>
+<l>Al waren de bladeren inden woude</l>
+<l>Alle tonghen niet vertellen</l>
+<l>Ghi gevet heet die hevet coude</l>
+<l>Den bedroefden gheefdi vroude</l>
+<l n="1175"><pb n="243"/> Die hem wille laten versellen</l>
+<l>Ter doget ende daer na therte stellen</l>
+<l>Noch lati hem gebruken here</l>
+<l>Die ongelove ende valsce kere</l>
+<l>Datsi hem souden vertien</l>
+<l n="1180">Al willen si tuwaert spreken dere</l>
+<l>Sine mogens al heb sijs ghere</l>
+<l>Dit ghedoechdi in dien</l>
+<l>Bi uwer ontfarmicheit gescien</l>
+<l>Hier te voren hebbic verstaen</l>
+<l n="1185">Was sulc volc so dom gedaen</l>
+<l>Dat u ontherven waende</l>
+<l>Here god ende uwe macht af slaen</l>
+<l>Ende maecten mure ende torre saen</l>
+<l>Al toten wolken gaende</l>
+<l n="1190">Ic wens hem de duvel spaende</l>
+<l><edition n="245"/>Here dese mesdaet es groet</l>
+<l>Ende ooc lucifeers genoet</l>
+<l>Ende meerre dan die waerheide</l>
+<l>Dattie aerme minsheit bloet</l>
+<l n="1195">Jegen den hemelsche godheit groot</l>
+<l>Mids sire hoverdicheide</l>
+<l>En sach dat dingel mesdeide</l>
+<l>Boven den gestichte enten gedoge</l>
+<l>Vander mesdaet god here hoge</l>
+<l n="1200">Gaefdi den mensce iii dingen</l>
+<l>Op dattise te doene poghe</l>
+<l>Ende hi met herten daer an boge</l>
+<l>Hi ware die ontgijnghe</l>
+<l>Bi dien des duvels gebrijnge</l>
+<l n="1205"><pb n="247"/> Penitencie ende beraunesse</l>
+<l>Biechte dat es der sonde kennesse</l>
+<l>Dit sijn de iii saken</l>
+<l>Onthout de sondaer deise lesse</l>
+<l>Ende doet met herten sonder messe</l>
+<l n="1210">So suldi hem here maken</l>
+<l>Vri vanden helschen wraken</l>
+<l>Also waerlike als dit es waer</l>
+<l><milestone unit="fol" n="6vb"/> Ende ic mi stille ende openbaer</l>
+<l>Besondich mensche belie</l>
+<l n="1215">Soe help mi god hens u niet swaer</l>
+<l>Dat ic hem die heeft ommaer</l>
+<l>Doghet verwonnen sie</l>
+<l>Ende doet dat dese iii</l>
+<l>Ten laesten werden in mie</l>
+<l n="1220">Daer flandrijs endde de bede aldus</l>
+<l>Quam de rueze colosus</l>
+<l>Ter camere daer flandrijs binnen was</l>
+<l>Knecht seiti trec int palas</l>
+<l>Wat helpt op di groet gescelt</l>
+<l n="1225">Het es tijt dat ghi ontgelt</l>
+<l>De scade die ghi mi hebt gedaen</l>
+<l>Flandrijs trac uter camere saen</l>
+<l>Scilt an hals ende helm gevest</l>
+<l>Ende tswert al baer dat dochtem best</l>
+<l n="1230">Dus quam hi daer de rueze hilt</l>
+<l>Hine hadde helm swert no scilt</l>
+<l>Dat dochte flandrijs wonder wesen</l>
+<l>De rueze sprac gramlike metteisen</l>
+<l>Nu secht mi knecht hoe waerstu so coene</l>
+<l n="1235">Te slane die beren ende te doene</l>
+<l>Mine lupaerden van den leivene</l>
+<l>Ende mine tigre al waerre vii</l>
+<l>Uwer gelike ic sloechse doot</l>
+<l>Mettien sloechi enen slach groot</l>
+<l n="1240">Metter vust op sinen scilt</l>
+<l>Maer datti hem stide hilt</l>
+<l><edition n="249"/>Flandrijs dat ridderlike geboer</l>
+<l>Hi ware gevallen op den vloer</l>
+<l>Voerden rueze diene smeet</l>
+<l n="1245">Hi bequam ende sprac gereet</l>
+<l>Toten paien fel ende sture</l>
+<l>Maer dat ghi bloot sijt nu ter ure</l>
+<l>Ghi sout desen slach becopen</l>
+<l>Vant u gereet wapenen lopen</l>
+<l n="1250">Dan willic jegen u vechten wale</l>
+<l>Ic bide uwes hier inde sale</l>
+<l>Ic souts mi scamen sloechic u bloet</l>
+<l>Colosus sprac en es gene noet</l>
+<l>Dat ic mi nu wapenen soude</l>
+<l n="1255">Op dattic noch enen slach slaen woude</l>
+<l>Metter vust also ic deide eer</l>
+<l n="1257">Dune genaes nemmermeer</l>
+<supplied resp="editor">Fragment III</supplied>
+<l n="1258"><milestone unit="fol" n="5ra"/> Opten velde sijn gesceden</l>
+<l>Daerse god moete geleiden</l>
+<l n="1260">Ende tvelt bleef doncker doe</l>
+<l>Flandrijs bleef biddende emmer toe</l>
+<l>Over den doden ende over de gone</l>
+<l><edition n="251"/>Dies god begerde te vermone</l>
+<l>Toten dage hi niet cesseirde</l>
+<l n="1265">Op sijn ors hi doe monteirde</l>
+<l>Ende reet den wech emmer vort waert</l>
+<l>Int therte hi herde sere mesbaert</l>
+<l>Datti den doden niet vraechde das</l>
+<l>Of dat de wech te cuelne was</l>
+<l n="1270">Hi was dies al ombedocht</l>
+<l>In een foreest quam hi gerocht</l>
+<l>Tmeeste dat noit sine ogen sagen</l>
+<l>Dor bussce reet hi ende dor hagen</l>
+<l>Daer noit man cume hadde getreiden</l>
+<l n="1275">Voor i hol quam hi gereden</l>
+<l>Dat diepe inde erde stoet</l>
+<l>Het was wel wijt c voet</l>
+<l>Voren ende binnen herde ghehijnge</l>
+<l>Als flandrijs versach dese dingen</l>
+<l n="1280">Hilti voor dat hol sijn part</l>
+<l>Ende riep met luder stemme inwaert</l>
+<l>Ende sijn luut dies weider doonde</l>
+<l>Hi waende datter volc in woende</l>
+<l>Hadde flandrijs gewillen plegen</l>
+<l n="1285">Mijns raets hi hadde best geswegen</l>
+<l>Ende gereden siin pat</l>
+<l>Dan hi also riep int gat</l>
+<l>Want hijs hebben mach verdriet</l>
+<l>Uten hole hi sprijngen siet</l>
+<l n="1290">I dier van vreseliker manieren</l>
+<l>Sine lede waren gelijc den stiere</l>
+<l><edition n="253"/>Sine benen na den parde</l>
+<l>Snel alstie hert liept op darde</l>
+<l>Daer hooft ende hals souden standen</l>
+<l n="1295">Was i man met arme met handen</l>
+<l>Gewassen ende ru van hare</l>
+<l>In dietsce heet een sagittare</l>
+<l>Ende in griex i centauroen</l>
+<l>Fel ende wreet in al sijn doen</l>
+<l n="1300">Het was alf man alf beste</l>
+<l>Dese spranc uut met oreeste</l>
+<l>Den hole herde zere verstormt</l>
+<l><milestone unit="fol" n="5rb"/> Dat dier wonderlike gevormt</l>
+<l>Hadde anden hals enen witten scilt</l>
+<l n="1305">I boge het inde grepe hilt</l>
+<l>Daert altoes mede scoot</l>
+<l>Die het gerochte bleef doot</l>
+<l>Sine scichten waren gevenimeirt</l>
+<l>Voor flandrise heeftet hem gekeert</l>
+<l n="1310">Die wonder hadde van sire vorme</l>
+<l>Al sijn haer stont te storme</l>
+<l>Van fellen moede den sagittare</l>
+<l>In sinen boge sette hi dare</l>
+<l>I scicht scarp als een doren</l>
+<l n="1315">Flandrijs warp den scilt doe voren</l>
+<l>Dat was hem i bate groot</l>
+<l>Die scicht die de andre scoot</l>
+<l>Brac daerop als een biese</l>
+<l>Flandrijs die hem ducht van verliese</l>
+<l n="1320">Trac sijn goede swert al bare</l>
+<l>Ende reet jegen den sagittare</l>
+<l>Die emmer scoot ende achter vlo</l>
+<l>Flandrijs constem niet volgen so</l>
+<l><edition n="255"/>Die andre was hem alte snel</l>
+<l n="1325">X scichte die waren fel</l>
+<l>Scoot op flandrijs de sagittare</l>
+<l>Die braken al opten scilde clare</l>
+<l>Sine mochten vesten niet</l>
+<l>Flandrijs dat overcoene diet</l>
+<l n="1330">Sach des anders scichte al uut</l>
+<l>Doe reet hi anden fellen druut</l>
+<l>Alstiene gerne hadde geplaget</l>
+<l>Dus vliet de i ende dandre jaget</l>
+<l>Die centauroen was herde wreet</l>
+<l n="1335">Hi sach datti moet hebben leet</l>
+<l>Van flandrise of hem verwinnen</l>
+<l>Dies keerde hi hem met fellen sinnen</l>
+<l>Ende liep flandrise jegen de side</l>
+<l>Metten scilde dat sijn rosside</l>
+<l n="1340">Van pinen moesten vallen op die hamen</l>
+<l>Also de lijve quamen te samen</l>
+<l>De centauroen flandrise stac</l>
+<l>So dattie zadel stelle brac</l>
+<l>Ende hi wel na ter herde quam</l>
+<l n="1345">Flandrijs sloech alstie was gram</l>
+<l>Den centauroen den sagittare</l>
+<l>Met sinen goeden swerde dare</l>
+<l><milestone unit="fol" n="5va"/> Int hooft ene wonde groet</l>
+<l>Mettien tros rosseel op scoot</l>
+<l n="1350">Met sinen here den stouten deigen</l>
+<l>Die sagittare quam hem recht jegen</l>
+<l>Die hem ontsach van flandrijs zwerde</l>
+<l><edition n="257"/>Ende hadde getrect uter herde</l>
+<l>I jonge heke met sire cracht</l>
+<l n="1355">Noit man hadde soe grote macht</l>
+<l>Inne alstie centauroen</l>
+<l>Op flandrise ghijnc hi hem doen</l>
+<l>Die jegen hem ooc was gevee</l>
+<l>Den scilt die wit was als een snee</l>
+<l n="1360">Gemaect van enen elpen bene</l>
+<l>Hilti als die strijts gemene</l>
+<l>Beghert te sine de centauroen</l>
+<l>Slouch op flandrise den baroen</l>
+<l>Opten helm metter poten</l>
+<l n="1365">Dat flandrijs ors quam gescoten</l>
+<l>Van groter pine optie erde</l>
+<l>Ende flandrise soe sere derde</l>
+<l>Dattine hoorde no ne sach</l>
+<l>Echter soudi enen slach</l>
+<l n="1370">Op flandrise hebben ghesleigen</l>
+<l>Maer flandrijs de coene deighen</l>
+<l>Bequam ende nam den brant</l>
+<l>Daer meide slouchi den viant</l>
+<l>Als diene waende cloven dure</l>
+<l n="1375">Thooft maer ter sconferture</l>
+<l>Warp de centauroen den scilt daer jegen</l>
+<l>Daer een quartier of heeft geslegen</l>
+<l>Flandrijs metten swerde van stale</l>
+<l>Dat neider vel in groene dale</l>
+<l n="1380">Doe hief de heke de sagittare</l>
+<l>Ende sloech op flandrise den riddare</l>
+<l>Enen vreseliken slach</l>
+<l><edition n="259"/>Het ware flandrijs sterfdach</l>
+<l>Hadde hine metter poten gerocht</l>
+<l n="1385">Maer hi was dies wel bedocht</l>
+<l>Datti ontkeerde metten parde</l>
+<l>Entie heke viel in darde</l>
+<l>Voets diepe metter druust</l>
+<l>Flandrijs die tswert hilt inde vust</l>
+<l n="1390">Liet tors lopen ten sagittare</l>
+<l>Die soe sere waert in vare</l>
+<l>Datti te vliene heeft gere</l>
+<l>Ende liet de heke entie were</l>
+<l><milestone unit="fol" n="5vb"/> Als die flandrijs swert ontsiet</l>
+<l n="1395">Maer flandrijs dat coene diet</l>
+<l>Gerochte den anderen so</l>
+<l>Eer datti iet verre ontvlo</l>
+<l>Datti hem den scilt dor slouch</l>
+<l>Ende dedem sulc ongevoech</l>
+<l n="1400">Dattine wondde inde porsse</l>
+<l>Ende redene neder metten orse</l>
+<l>Rossele dattie centauroen</l>
+<l>Van grooter smerte en weet wat doen</l>
+<l>Ende lach metten benen op waert</l>
+<l n="1405">Flandrijs verdrouch sijn goede swaert</l>
+<l>Ende soude slaen den sagittare</l>
+<l>Die sire gramscap waert geware</l>
+<l>Ende leide de armen bede te samen</l>
+<l>Ende uut sinen ogen quamen</l>
+<l n="1410">Grote tranen ongetelt</l>
+<l>Dit sach flandrijs die stille helt</l>
+<l>Tswert ende penst dat dander wille</l>
+<l>Genaden die daer lach al stille</l>
+<l>Bider maniere die hi togede</l>
+<l n="1415">Flandrijs der ghenaden poghede</l>
+<l><edition n="261"/>Ende deidem op staen vander heide</l>
+<l>Ic doe di genaden vrient hi seide</l>
+<l>Wiltu mi te dienste staen</l>
+<l>Waer ic riden sal ofte gaen</l>
+<l n="1420">Gelike enen cnape doet sinen here</l>
+<l>Die centauroen trappelde sere</l>
+<l>Ende toochde blijscap metten anscine</l>
+<l>Flandrijs woort enie tale sine</l>
+<l>Verstont hi wel watsi bescieden</l>
+<l n="1425">Maer gene andworde consti bedieden</l>
+<l>Dus sijn de ii gevriende bleven</l>
+<l>Die sagittare moeste beiven</l>
+<l>Vander smerte van sinen wonden</l>
+<l>Flandrijs nam ten selven stonden</l>
+<l n="1430">Sinen steen ende seinder mede</l>
+<l>Den sagittare sine wonden beide</l>
+<l>In de side ende sijn hovet</l>
+<l>Ende si genasen des gelovet</l>
+<l>Ende loken daer flandrijs toe sach</l>
+<l n="1435">De sagittare alsi eerst mach</l>
+<l>Viel voer flandrise optie erde</l>
+<l>Ende meenden van sire werde</l>
+<l>Te danckene die hi them waert wrochte</l>
+<l>Ende flandrijs hem doe bedochte</l>
+<l parse="ignore" n="1440">Van sinen lieve aquiline</l>
+<supplied resp="editor"><pb n="263"/> Fragment IIIa</supplied>
+<l n="1441"><milestone unit="fol" n="1ra"/> [........] here flandrijs</l>
+<l>[........] er sat</l>
+<l>[...... e]nde at</l>
+<l>[........] niet i wort</l>
+<l n="1445">[........] en vort</l>
+<l>[........]ijt gedaen</l>
+<l>[........]em staen</l>
+<l>[........] aventure</l>
+<l>[........] den mure</l>
+<l n="1450">[........]n manlic wesen</l>
+<l>[........]f lesen</l>
+<l>[........]e diere ende scone</l>
+<l>[........] van sinen zone</l>
+<l>[........] in den woude</l>
+<l n="1455">[..... al]so houde</l>
+<l>[........]e gaen</l>
+<l>[........] en si uut zaen</l>
+<l>[........] portier slouch</l>
+<l>[........]t tongevoech</l>
+<l n="1460">[........]e de tale</l>
+<l>[........] zale</l>
+<l>[........] liet</l>
+<l>[...... c]oene diet</l>
+<l>[........] sech mi</l>
+<l n="1465">[.......m]anic di</l>
+<l>[........] quam</l>
+<l>[.......e] ic nam</l>
+<l><edition n="265"/>[........] mi boot</l>
+<l>[........]s gifte groot</l>
+<l n="1470">[......an]t</l>
+<l>[.... sto]ut seriant</l>
+<l>[...... s]ijn gelaet</l>
+<l>[........] dire daet</l>
+<l>[........]nden leet</l>
+<l n="1475">[........]en wreet</l>
+<l>[.......e]de</l>
+<l>[.... ker]stinede</l>
+<l>[......nt] weten</l>
+<l>[..... ha]ddic geten</l>
+<l n="1480">[........] dat quaet singen</l>
+<l>[........] spisen bringen</l>
+<l>[.......i] brochte</l>
+<l parse="ignore"><milestone unit="fol" n="1rb"/> I cnape liep al dat hi mochte</l>
+<l>Ende haelde mee spisen dan te voren</l>
+<l n="1485">Flandrijs die ridder wel geboren</l>
+<l>At ende dranc te sine behoeve</l>
+<l>Wie dats erre was of droeve</l>
+<l>Nu hort vanden knapen viere</l>
+<l>Die aligorant die fiere</l>
+<l n="1490">Om sinen zone adde gesent</l>
+<l>Dien si sochten al omtrent</l>
+<l>So datsine hebben vonden</l>
+<l>Sere te wenene si begonden</l>
+<l>Alsine sagen liggen versleghen</l>
+<l n="1495">Uten bussche hebsine gedreghen</l>
+<l>Tote cuelne binder port</l>
+<l>Si riepen lude hier es vermort</l>
+<l>Gadoliant ons heren zone</l>
+<l>Die heydine weenden zere omt gone</l>
+<l n="1500">Ende volchden toter porte naer</l>
+<l>Den portier vonden si daer</l>
+<l>Versleghen bachten wikette</l>
+<l>Si vloucten haren god mamette</l>
+<l>Ende riepen wie heift dit beraden</l>
+<l parse="ignore" n="1505"><pb n="267"/> D[........] dese zware scaden</l>
+<l>Heift ghedaen die ridder groot</l>
+<l>Die voer inden alsberch bloot</l>
+<l>Ende uptie hant droech ene valke</l>
+<l>Dus quamen vor de zale de scalke</l>
+<l n="1510">Daer si vonden gebonden tpart</l>
+<l>Nu eerst was geopenbaert</l>
+<l>Dat flandrijs die manheit wrochte</l>
+<l>Den doden men inde zale brochte</l>
+<l>Ende leidene neder upten vloer</l>
+<l n="1515">Die heidine maecten groet gheroer</l>
+<l>Ende riepen aligorant here</l>
+<l>Met rechte mogedi droeven zere</l>
+<l>Om uwen zone die hier lecht doot</l>
+<l>Aligorant van vare up scoot</l>
+<l n="1520">Ende riep wie hevet dit gedaen</l>
+<l>Sine hande ghinc hi slaen</l>
+<l>Ende vel neder in ommacht</l>
+<l>Ende doe hi gewan sine cracht</l>
+<l>Riep hi zone lieve zone</l>
+<l n="1525"><milestone unit="fol" n="1va"/> Gadoliant die waers ghewone</l>
+<l>Alre doghet bestu versleghen</l>
+<l>Over hem es hi gheleghen</l>
+<l>Ende custe thovet ter zelver stonde</l>
+<l>Dat hem tbloet brac uten monde</l>
+<l n="1530">Doe weenden alle die dat saghen</l>
+<l>Hi riep ghi vrienden ende maghen</l>
+<l>Wreict dit up diet heift gedaen</l>
+<l>Alle die heidine riepen zaen</l>
+<l>Dattie selve ridder dede</l>
+<l n="1535">Die gewapent reet dor de stede</l>
+<l>Want hi reet sijn ors ende valke</l>
+<l>Den portier slouch die zelve scalke</l>
+<l><edition n="269"/>Dus weten wi dat hi es hier binnen</l>
+<l>Die heidine riepen in allen zinnen</l>
+<l n="1540">Dat was die kerstijn diere quam</l>
+<l>Ende alse flandrijs dit vernam</l>
+<l>Spranc hi up van daer hi sat</l>
+<l>Ende trac sijn zwerd ter zelver stat</l>
+<l>Ende riep ic was die hem dit dede</l>
+<l n="1545">Dor sine felle dorperhede</l>
+<l>Die hi mi dede sonder scout</l>
+<l>Elc der heidine die riep bout</l>
+<l>Vanc ons of sla den keitijf</l>
+<l>Tharen wapinen liepen si stijf</l>
+<l n="1550">Ende flandrijs liep in den tas</l>
+<l>Hi hadde den helm die goet was</l>
+<l>Gheset boven den beckinele</l>
+<l>Daer toghedi van sinen spele</l>
+<l>Dien die in de zale waren</l>
+<l n="1555">Si gingen hem wapen bi scaren</l>
+<l>Die eerst werf waren bloot</l>
+<l>Der zale dure men vaste sloot</l>
+<l>Om dat si duchten sijn ontgaen</l>
+<l>Flandrijs die ginc vaste slaen</l>
+<l n="1560">Die gone diene daer versochten</l>
+<l>Al dat hi geraken mochte</l>
+<l>Vel ter erde an sinen danc</l>
+<l>Die heidine daden hem starc bedranc</l>
+<l>Bede van voren ende van besiden</l>
+<l n="1565">Ende flandrijs die in dat striden</l>
+<l>Die vroomste was die doe levede</l>
+<l><milestone unit="fol" n="1vb"/> Slouch daer sulke [........]</l>
+<l>Ende hem die bi [........]</l>
+<l>Maer daer quam [........]</l>
+<l n="1570">An allen ziden [........]</l>
+<l>In soude tge[........]</l>
+<l>Die ridder sie[........]</l>
+<l>Ende dattie f[elle ...]</l>
+<l><edition n="271"/>Van achter dat [........]</l>
+<l n="1575">Dies warp hem [........]</l>
+<l>An enen mu[e.......]</l>
+<l>Recht als en[e ......]</l>
+<l>Dien hare jon[gen ....]</l>
+<l>Ghinc hi sla[en .....]</l>
+<l n="1580">Scaerde bule[n.......]</l>
+<l>Die heidine [........]</l>
+<l>Crachtelike j[egen ...]</l>
+<l>Sinen halsberc[h ......]</l>
+<l>Datter die ma[lien ...]</l>
+<l n="1585">Ende flandrijs h[........]</l>
+<l>Grote slage b[........]</l>
+<l>Doe quam m[........]</l>
+<l>Aligorant d[........]</l>
+<l>Doe ruumde [........]</l>
+<l n="1590">Ende lieten de h[........]</l>
+<l>Aligorant ri[ep .....]</l>
+<l>Vanget mi [........]</l>
+<l>Die mi beraden [hevet ..]</l>
+<l>Van minen ki[nde ....]</l>
+<l n="1595">Die liepen toe [........]</l>
+<l>Met zwerden m[et .....]</l>
+<l>Die gode bat [........]</l>
+<l>Dat hine g[........]</l>
+<l>Aldedi were [........]</l>
+<l n="1600">Dat was di [........]</l>
+<l>So menegen [........]</l>
+<l>Sine mocht[en .....]</l>
+<l>Den edelen ridder [........]</l>
+<l>Ende bonden he[m ......]</l>
+<l n="1605">So onsochte [........]</l>
+<l>Dat hem tb[loet....]</l>
+<l>Men ghinc daer d[........]</l>
+<l n="1608">Die heidine d[........]</l>
+<supplied resp="editor"><pb n="273"/> Fragment IV</supplied>
+<l n="1609"><milestone unit="fol" n="10ra"/> Van sinen broeder optie joncfrouwe</l>
+<l n="1610">Die dies heeft so groten rouwe</l>
+<l>Dat soe daer of sterven waent</l>
+<l>Die hertoge sent ende maent</l>
+<l>Ingelbeerte boden ende brieve</l>
+<l>Dattine bringen sal in grieve</l>
+<l n="1615">Ende alle die them behoren</l>
+<l>Dat heeft dertoge diere gesworen</l>
+<l>Ende dat hi sijn lant af winnen soude</l>
+<l>Ende ingelbeert omboot hem houde</l>
+<l>Als dies srechts wille pleigen</l>
+<l n="1620">Datti sal brijngen enen deigen</l>
+<l>Tenen campe daer hi begeert</l>
+<l>Ende eest dat der ingelbeert</l>
+<l>Sinen campe tonder ziet</l>
+<l>Soe doeti dat dhertoge gebiet</l>
+<l n="1625">Bede van goede ende van live</l>
+<l>Eest dattie kempe tonder blive</l>
+<l>Die de hertoge met hem bringet</l>
+<l>Soe eest recht datmen verdijnget</l>
+<l>Die joncfrouwe van der moert</l>
+<l n="1630">Die men haer tiet dus sal voort</l>
+<l>Gaen wat die hertoge begheert</l>
+<l>Bin deiser maent moet ingelbeert</l>
+<l>Vinden enen campioen</l>
+<l>Daer ns gheen so stout baroen</l>
+<l n="1635">Bin sinen lande die dar vechten</l>
+<l><edition n="275"/>Ende sine joncfrouwe daer verrechten</l>
+<l>Dies mijn here es sere te wets</l>
+<l>Want hi ducht te blivene int lets</l>
+<l>Ende sent weider ende voert</l>
+<l n="1640">Sine boden telker poort</l>
+<l>Omme hulpe sinen camp te vuldoene</l>
+<l>Ende ic bem i sire garsoene</l>
+<l>Die met haesten loepen moet</l>
+<l>Nu sidi alder zaken vroet</l>
+<l n="1645">Flandrijs andworde ende seide secht</l>
+<l>Hevet u joncfrouwe recht</l>
+<l>Ende es soe onsculdich vander daet</l>
+<l>Bi mamette daert al an staet</l>
+<l>Sprac die cnape ja soe here</l>
+<l n="1650">Soe es comen in desen zere</l>
+<l>Onverdient ende sonder scult</l>
+<l>Flandrijs sprac knape ghi sult</l>
+<l><milestone unit="fol" n="10rb"/> Ons wisen toten castele</l>
+<l>Ic wille over de damoisele</l>
+<l n="1655">Den camp houden ende tghevecht</l>
+<l>Wildi here sprac de knecht</l>
+<l>Sone wasic noit so blide</l>
+<l>Wi sulre comen in corter tide</l>
+<l>Nu laet ons porren op dese woort</l>
+<l n="1660">Die cnape daer ghi of hebt gehoert</l>
+<l>Liep met flandrise tes si quamen</l>
+<l>Ten castele alle iii te samen</l>
+<l>Die scone was ende sere voorbare</l>
+<l>De lieden worden sere in vare</l>
+<l n="1665">Alsi dat wilde dier versagen</l>
+<l>Ende flandrijs si onder vragen</l>
+<l>Deen den anderen wat dat si</l>
+<l><edition n="277"/>De cnape maecte groot gecri</l>
+<l>Ende seide het ware een stout baroen</l>
+<l n="1670">Die wilde weisen campioen</l>
+<l>Haers heren ende sire dochter verrechten</l>
+<l>Ridders vrauwen ende knechten</l>
+<l>Woordens uter maten blide</l>
+<l>Flandrijs besagen si te stride</l>
+<l n="1675">Daer veile was te merkene an</l>
+<l>Den scilt die hadde dedele man</l>
+<l>Ende swert was daer sere besien</l>
+<l>Maer den centauroen si ontsien</l>
+<l>Om dat hi hadde so vreimde vorme</l>
+<l n="1680">Altoes stont sijn haer te storme</l>
+<l>Enten scicht haddi ter vloge</l>
+<l>Altoes geset inden boge</l>
+<l>Flandrijs beete voorde sale</l>
+<l>V cnapen oft meer weet wale</l>
+<l n="1685">Dienden hem al daer van loven</l>
+<l>Ingelbeert quam doen van boven</l>
+<l>Uter zalen gelopen sere</l>
+<l>Als hi wiste dattie here</l>
+<l>Flandrijs wilde weisen sijn campioen</l>
+<l n="1690">Hi ontfijnc wel den stouten baroen</l>
+<l>Ende leedene met hem ter sale voort</l>
+<l>Ingelbeert sprac menich woort</l>
+<l>Vul hovessceiden ten riddere goet</l>
+<l>Int onthalen doe hi verstoet</l>
+<l n="1695">Dattie ridder was kerstijn</l>
+<l>Vraechdi omde name sijn</l>
+<l><pb n="279"/><milestone unit="fol" n="10va"/> Ende wane hi was ende sijn geslechte</l>
+<l>Entoe Flandrijs dies berechte</l>
+<l>Ingelbeerte was hijs vroe</l>
+<l n="1700">Ende seide mocht noch comen so</l>
+<l>Dat flandrijs den camp verwint</l>
+<l>Ende dat quite wert sijn kint</l>
+<l>Vander mordaet diemen hem tiet</l>
+<l>Hi es die ewelike beliet</l>
+<l n="1705">Tote sire doot ant kerstenheide</l>
+<l>Flandrijs verhuechde als hi dit seide</l>
+<l>Ende seide hi hopets te vulcomene</l>
+<l>Ingelbeert bat hem te nomene</l>
+<l>Wane hem de beeste quam</l>
+<l n="1710">Ende flandrijs de here lofsam</l>
+<l>Teldem al sine aventuere</l>
+<l>Men deidem af sine achemure</l>
+<l>Flandrise entie here brochte</l>
+<l>Enen mantel wel gewrochte</l>
+<l n="1715">Van goud draden ende fijn van ziden</l>
+<l>Ende hinken om flandrijs tien tiden</l>
+<l>Dies hem dancte menichfout</l>
+<l>Sine wapene deidemen int behout</l>
+<l>Ende sijn ors was geleet opt stal</l>
+<l n="1720">Het hadde dies hem behouvede al</l>
+<l>Ingelbeert eeft wel ontfaen</l>
+<l>Flandrijs ende groete ere gedaen</l>
+<l>Ende deiden sitten bi sire zide</l>
+<l>Noit sachmen man so zere blide</l>
+<l n="1725">Als hi was van enen gast</l>
+<l>Die sagittare hilt hem vast</l>
+<l>Omtrent flandrijs dat coene diet</l>
+<l>Dat hem wilde scaden niet</l>
+<l><edition n="281"/>Dies deidie als getrouwe garsoen</l>
+<l n="1730">Ter sale quam menich baroen</l>
+<l>Flandrijs tombevaene ende besiene</l>
+<l>Elc pijndem te hulden te diene</l>
+<l>Si mercten sine scone gedane</l>
+<l>Daer veile was te prisene ane</l>
+<l n="1735">Ende sine wel gewrochte leiden</l>
+<l>Die vrouwen onderlijngen zeden</l>
+<l>Ay mamet ende apolijn</l>
+<l>Waer waert noit vonden i heidijn</l>
+<l>Gelike desen kersten vulmaect</l>
+<l n="1740">Van scoenheiden of hi naect</l>
+<l><milestone unit="fol" n="10vb"/> In een bedde ware gheleigen</l>
+<l>Ende hi onser minne woude plegen</l>
+<l>So mochten wijs ons wel beromen</l>
+<l>Bin desen es inde sale comen</l>
+<l n="1745">Ingelbeerts dochter de scone aleit</l>
+<l>Haer was vanden riddere geseit</l>
+<l>Die kerstijn was ende wilde verrechten</l>
+<l>Haren noot enen camp vechten</l>
+<l>Jegen die haer leit op den moert</l>
+<l n="1750">Ende alse aleit dit heeft verhoort</l>
+<l>Was soe uter maten vro</l>
+<l>Want soe hadde geweent also</l>
+<l>In een camere daer si lach</l>
+<l>Datment in haer anscijn sach</l>
+<l n="1755">Van rouwe ende van anxten mede</l>
+<l>Maer alsmen haer de waerheit seide</l>
+<l>Van flandrise es soe comen</l>
+<l>Daer soe haer vader hadde vernomen</l>
+<l>Ende flandrijs sittene te gader</l>
+<l n="1760"><pb n="283"/> Die joncfrouwe groette haer vader</l>
+<l>Ende daer na den here flandrise</l>
+<l>Ende seide ridder goet van prise</l>
+<l>Sidi die ons troesten sal</l>
+<l>Ende beiteren dat ongeval</l>
+<l n="1765">Datmen mi tiet sonder recht</l>
+<l>Jaic joncfrouwe nu ende echt</l>
+<l>Sprac de ridder wel gedaen</l>
+<l>Willic tonrechte weder staen</l>
+<l>Waer dat ic vinde dat mens doet</l>
+<l n="1770">De scone viel te sinen voet</l>
+<l>Ende seide here hebt danc ende lof</l>
+<l>Al dat in mijns vader hof</l>
+<l>Steet u te dienste sijt here of cnecht</l>
+<l>Ende al onse goet hets ooc recht</l>
+<l n="1775">Flandrijs hief op de scone aleide</l>
+<l>Vrindelike hi te hare seide</l>
+<l>Scone ic ne bems niet waert</l>
+<l>Dat ghi so omoedelike vaert</l>
+<l>Jegen mi ic bem i bloet riddare</l>
+<l n="1780">Die achter lande haren tare</l>
+<l parse="ignore">Dolen moet bi ongevalle</l>
+<l parse="ignore">Ic ne mochte [....] getale</l>
+<l>Seggen den noot die mi deert</l>
+<l n="1784">Doe sprac de here ingelbeert</l>
+<supplied resp="editor">Fragment V</supplied>
+<l n="1785"><milestone unit="fol" n="9ra"/> Ende vraechdem om flandrise den here</l>
+<l>De rechte waerheit min no mere</l>
+<l>Seidem daer af adriaen</l>
+<l><edition n="285"/>Ende bin desen quam gegaen</l>
+<l>Uut hare camere aquiline</l>
+<l n="1790">Ende sach sitten metter slavine</l>
+<l>Haer broeder ende flandrijs niet</l>
+<l>Int herte quam haer sulc verdriet</l>
+<l>Dat soe in hare camere liep</l>
+<l>Jamerlike dat si riep</l>
+<l n="1795">Haer hande slaende soete lief</l>
+<l>Dit vernoi ende dit grief</l>
+<l>Bemoedde mi van eersten dage</l>
+<l>Dattic u nemmermeer en sage</l>
+<l>Aquiline de scone joncfrouwe</l>
+<l n="1800">Weende ende dreef groten rouwe</l>
+<l>Ende waende dat flandrijs doot ware</l>
+<l>In hare camere beswalt soe dare</l>
+<l>Wel iiii werven ofte v</l>
+<l>Doe quamen haer camer wiven</l>
+<l n="1805">Ghelopen doe si dat versagen</l>
+<l>Vrindelike si haers plaghen</l>
+<l>Tote dat si was becomen</l>
+<l>Aquilander hadde vernomen</l>
+<l>Dat sijn dochter deerde zaen</l>
+<l n="1810">Hi ende sijn sone adriaen</l>
+<l>Entie vrouwe gijngen tote haer</l>
+<l>Die si vonden in mesbaer</l>
+<l>Ende maecte jamerlijc geclach</l>
+<l>Ende doe soe die iii versach</l>
+<l n="1815">Stont si op ende liet haer clagen</l>
+<l>Om flandrise begonstese vragen</l>
+<l>Met enen suchte herde groot</l>
+<l>Adriaen telde haer al bloet</l>
+<l>De waerheit hoe flandrijs ontreet</l>
+<l n="1820">Van cuelne ende men ne weet</l>
+<l>Waer waert datti hem belende</l>
+<l><edition n="287"/>Ic bidde gode dattine sende</l>
+<l>Hare waert sprac de joncfrouwe</l>
+<l>Ende icne cortelike scouwe</l>
+<l n="1825">Van sinen live ongedeert</l>
+<l>Mine herte dor hem verseert</l>
+<l>Datti mach bliven onder de honde</l>
+<l>Versleigen adriaen verconde</l>
+<l>Aquilinen als hi eerst mochte</l>
+<l n="1830"><milestone unit="fol" n="9rb"/> Al de mort die flandrijs wrochte</l>
+<l>Te cuelne doe louch aquiline</l>
+<l>Daer na suchte soe stillekine</l>
+<l>Alstie van herten was ongesont</l>
+<l>Haer leven an flandrijs comen stont</l>
+<l n="1835">Soene sage houder gene zake</l>
+<l>Die van minnen sijn tongemake</l>
+<l>Hebben dicke soorge ende pine</l>
+<l>Also hadde aquiline</l>
+<l>Aquilander ende sijn zone</l>
+<l n="1840">Entie vrouwe ende alle die gone</l>
+<l>Die daer waren binder borghe</l>
+<l>Hadden om flandrise soorghe</l>
+<l>Hier leggic dese tale neider</l>
+<l>Ende keere te flandrise weder</l>
+<l n="1845">Die met ingelbeerte den zas</l>
+<l>Sine maent al duere was</l>
+<l>Tote dat quam de selve dach</l>
+<l>Daer de camp op te doene lach</l>
+<l>Buten castele optie heide</l>
+<l n="1850">Ende alstie dach met sire claerhede</l>
+<l>Quam daer men op vechten soude</l>
+<l>Halpmen flandrise den here boude</l>
+<l>Gereiden van hende toorde</l>
+<l>Al dat hem toe behoorde</l>
+<l n="1855">Sijn halsberch waert gemaliert</l>
+<l><edition n="289"/>Ende sijn helm die gefrutsiert</l>
+<l>Te voren was waert nu vermaect</l>
+<l>Van stale scone ende wel geraect</l>
+<l>Hine mochte andre wapine</l>
+<l n="1860">Dan de gene die waren sine</l>
+<l>Entie hi dicken hadde geprouft</l>
+<l>Dies was ingelbeert bedrueft</l>
+<l>Ende hadde hem gerne nieue gegeven</l>
+<l>Entoe flandrijs om sijn leiven</l>
+<l n="1865">Gewapent was heefti ontbeiten</l>
+<l>Van hem latic ende doe u weten</l>
+<l>Vanden hertoge seraphioene</l>
+<l>Die quam opten velde groene</l>
+<l>Daer men de camp soude doen</l>
+<l n="1870">Met hem cam sijn campioen</l>
+<l>Ende wel vc sire man</l>
+<l>Die alle hadden alsberge an</l>
+<l>Si camen voer ten crite gevaren</l>
+<l>Om dat si ane leggers waren</l>
+<l n="1875"><milestone unit="fol" n="9va"/> Optie joncfrouwe vander moort</l>
+<l>Seraphioen hadde wel gehoort</l>
+<l>Van flandrise de ridder milde</l>
+<l>Ende vanden swerde ende vanden scilde</l>
+<l>Ende vanden diere datti brochte</l>
+<l n="1880">Ende vanden wondere datti wrochte</l>
+<l>Te cuelne op aligorante</l>
+<l>Dies swoer hi diere bi tervogante</l>
+<l>Dat hi metten sinen sal vaen</l>
+<l>Den kerstijn ridder ende verslaen</l>
+<l n="1885">Of senden te cuelne binder stat</l>
+<l>Harde diere swoere hi dat</l>
+<l>Shertogen kempe hilt int parc</l>
+<l>In sassen en was geen so starc</l>
+<l>No so stout in al sijn doen</l>
+<l n="1890">Sine name was lentroen</l>
+<l><edition n="291"/>Groot was hi ende ongemicke</l>
+<l>Van wapinen was hi herde dicke</l>
+<l>Enen scilt voerdi van goude</l>
+<l>Met enen serpente de kempe boude</l>
+<l n="1895">Sat op een staerc destrier</l>
+<l>Hi sceen wel wesen ongehier</l>
+<l>Ende van haerde groter macht</l>
+<l>I staerken verstalden scacht</l>
+<l>Die ghevenijnt was ant hende</l>
+<l n="1900">Voerde de felle ombekende</l>
+<l>Daer hi mede sal doen gemoet</l>
+<l>I helm bruun stalijn goet</l>
+<l>Hadde op sijn hooft de sas lettroen</l>
+<l>Een swert i haex ende i fanchoen</l>
+<l n="1905">Hadde an hem de sarrasijn</l>
+<l>God moete in flandrijs hulpe sijn</l>
+<l>Jegen den fellen zas lentroene</l>
+<l>Het torende sere seraphioene</l>
+<l>Dat ingelbeert met sinen campe</l>
+<l n="1910">Niet ne spoet hi macht te rampe</l>
+<l>Tellen blijfti aldus achter</l>
+<l>Ic salne doden ende sire dachter</l>
+<l>Der morderigge bernen doen</l>
+<l>Sprac dhertoghe seraphioen</l>
+<l n="1915">Ende sijn goet trecken te mire hant</l>
+<l>Bin desen quam toe i seriant</l>
+<l>Tote ingelbeerte inde zale</l>
+<l>Ende seide here nu doet wale</l>
+<l><milestone unit="fol" n="9vb"/> Het es vele meer dan tijt</l>
+<l n="1920"><pb n="293"/> Ende brijnget uwen kempe int crijt</l>
+<l>Want de hertoge seraphioen</l>
+<l>Heeft brocht sinen kampioen</l>
+<l>Ende wel vc sire man</l>
+<l>Die alle hebben alsberge an</l>
+<l n="1925">Ende sijn gewapent om haer lijf</l>
+<l>Maecti des camps langer blijf</l>
+<l>Si sullen werden vererret sere</l>
+<l>Nu spoet u ic raet u wel here</l>
+<l>Ingelbert sprac here kerstijn</l>
+<l n="1930">Nu es comen de viant mijn</l>
+<l>Met sinen kempe in dat crijt</l>
+<l>Laet ons varen hets tijt</l>
+<l>Ende doen datter toe bestaet</l>
+<l>Flandrijs hadde een stout gelaet</l>
+<l n="1935">Ende seide here ter goeder uren</l>
+<l>Met ere vaster couferture</l>
+<l>Brochte men geleit flandrijs part</l>
+<l>Int gereide spranc hi ter vaert</l>
+<l>Ende nam inde hant dat spere</l>
+<l n="1940">Dat scerp was ende sterc ter were</l>
+<l>Hi beedde achter sinen wert</l>
+<l>Doe dede wapenen ingelbert</l>
+<l>CC man in sijn casteel</l>
+<l>Of hem seraphioen achterdeel</l>
+<l n="1945">Wilde doen dat sijt gereet</l>
+<l>Wreken souden ende hi heet</l>
+<l>Datsi binden castele bleven</l>
+<l>Ende flandrijs die daer hilt beneiven</l>
+<l>Deide sinen cnape den centauroen</l>
+<l n="1950">Alrande wapenen an doen</l>
+<l><edition n="295"/>Ende deiden bliven inde steide</l>
+<l>Metten anderen dat hi dede</l>
+<l>Haerde node haddijs raet</l>
+<l>Want tachter bliven dochtem quaet</l>
+<l n="1955">Maer om dat hem sijn here hiet</l>
+<l>Ne dorste hijt ontseggen niet</l>
+<l>Ende bleef metten iic riddaren</l>
+<l>Ende flandrijs es wech gevaren</l>
+<l>Met ingelberte ende met hem achten</l>
+<l n="1960">Daer de andere na hem wachten</l>
+<l>Doe hilden si stille an beden ziden</l>
+<l n="1962">Ingelbeert sprac ten selven tiden</l>
+</text>
+<!--</ENTRY>
+--></TEI.2>

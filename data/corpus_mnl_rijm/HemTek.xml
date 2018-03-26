@@ -1,0 +1,193 @@
+<?xml version='1.0'?><!DOCTYPE TEI.2 PUBLIC '-//TEI P4//DTD Main Document Type//EN' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd' [<!ENTITY % TEI.prose 'INCLUDE'><!ENTITY % TEI.linking 'INCLUDE'><!ENTITY % TEI.figures 'INCLUDE'><!ENTITY % TEI.analysis 'INCLUDE'><!ENTITY % TEI.corpus 'INCLUDE'><!ENTITY % TEI.XML 'INCLUDE'><!NOTATION TEI-XML PUBLIC 'TEI P4' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd'><!-- internal INL dtd --><!ELEMENT b (#PCDATA)><!ELEMENT l (#PCDATA | b)*><!-- end of internal INL dtd -->]><TEI.2><!--<ENTRY id="i200"><teiHeader><fileDesc><titleStmt><title>Gedicht over de hemeltekenen, Gedicht over de dierenriem- of zodiaktekenen</title>
+</titleStmt>
+<interpGrp type="pubYear_from"><interp value="1340"/></interpGrp>
+<interpGrp type="witnessYear_from"><interp value="1340"/></interpGrp>
+<interpGrp type="pubYear_to"><interp value="1360"/></interpGrp>
+<interpGrp type="witnessYear_to"><interp value="1360"/></interpGrp>
+<TITEL>Gedicht over de hemeltekenen</TITEL>
+<TITEL>Gedicht over de dierenriem- of zodiaktekenen</TITEL>
+<author>Onbekend</author>
+<AARD>Rijm</AARD>
+<BRON nr="D3">Leiden, Bibliotheek der Rijksuniversiteit, Ltk. 1202 (fragm.)</BRON>
+<DATUM>1340-1360</DATUM>
+<OMVANG>167 verzen</OMVANG>
+<BRON.OPM>1 blad, elke bladzijde twee kolommen, elk van 42 regels</BRON.OPM>
+<EDITIE>J. Verdam (ed.): 'Kleine Middelnederlandsche overblijfselen.' In: TNTL 11 (1892), 285-305 (300-305).</EDITIE>
+<STATUS>Kritisch</STATUS>
+<BRONMNW>1276.11.f</BRONMNW>
+<EDITIE.OPM>De cursief gedrukte reconstructies worden hier tussen [] weergegeven.</EDITIE.OPM>
+<BRONNEN>Leiden, Bibliotheek der Rijksuniversiteit, Ltk. 1202 (fragm.)</BRONNEN>
+</fileDesc>
+</teiHeader>
+--><text>
+<l><pb n="300"/><milestone unit="fol" n="ra"/> [...] al sijn lijf</l>
+<l>[...] beest, man ende wijf,</l>
+<l>[...] bi wandelt ende keert</l>
+<l parse="ignore">[D]ie tijt, als ons een meester leert.</l>
+<l n="5">[E]lc teeken hevet sinen name</l>
+<l>[N]a dieren ende wei bequame.</l>
+<l>[H]ort die namen van hem allen,</l>
+<l>[H]oe properlike dat si vallen.</l>
+<l>Dat ierste heet na een scaep,</l>
+<l n="10">Ram oft weder; elc paep</l>
+<l>In Latine pleghet te heten</l>
+<l>Aries; vort seldi weten,</l>
+<l>Dat al die tijt nature ontfaet</l>
+<l>Des tekens, daer die sonne in gaet:</l>
+<l n="15">Niet int teken, maer daer onder</l>
+<l>So gaet die sonne; dan es geen wonder,</l>
+<l>Want elc teken es, dat wet,</l>
+<l>Hogher dan die sonne gheset.</l>
+<l>Die sonne sal in dit teken wesen</l>
+<l n="20">Te half Merte, heb ic gelesen.</l>
+<l>Voort heeft die ram der cracht meere</l>
+<l>Van after, na der meester leere:</l>
+<l>Dits in der sonnen te verstane,</l>
+<l>Want haer dan die macht gaet ane.</l>
+<l n="25">Si was des langhen winters mat,</l>
+<l>Ende heeft luttel machts gehat.</l>
+<l>Die lenten, na den kalengiere,</l>
+<l>Ende dat jaer beghinnen hiere;</l>
+<l>Dan es gelijc die dach ente nacht:</l>
+<l n="30">Die werelt wert dan ghewracht,</l>
+<l><edition n="301"/>Nacht ende dach hebben dan</l>
+<l>Ghelijc twaelf uren an.</l>
+<l>Dat ander teken es genoemt</l>
+<l>Taurus; wetti hoe dat comt?</l>
+<l n="35">Hi heet in dietsche een stier,</l>
+<l>Ende es van tween sterken dier.</l>
+<l>Dan wert die sonne crachtich meere</l>
+<l>Van hitten vele dan si was ere,</l>
+<l>Recht als taurus es geacht</l>
+<l n="40">Een groot deel bovens rams cracht.</l>
+<l parse="ignore">Die sonne gaet te midden Aprille</l>
+<l parse="ignore">In dit teken.</l>
+<l parse="ignore"><milestone unit="fol" n="rb"/> [...]</l>
+<l parse="ignore">Viertien es des daghes macht.</l>
+<l n="45">Geminus heet dat derde teken,</l>
+<l>Dats twelicht onder de leken.</l>
+<l>Der sonnen es ghecomen an</l>
+<l>Twevoudighe hitte dan.</l>
+<l>Die sonne te half meye gaet</l>
+<l n="50">Onder dit teken recht daert staet.</l>
+<l>Elc nacht heeft acht uren;</l>
+<l>Die dach pleghet sestien te duren.</l>
+<l>Tfierde teken dat heet creeft:</l>
+<l>Die sonne dan haer hooghste heeft</l>
+<l n="55">Ghelopen ende gaet achterwaert,</l>
+<l>Recht als een creeft hare vaert.</l>
+<l>Dan gaet in den somertijt,</l>
+<l>Daer jeghen Lijsken hare verblijt,</l>
+<l>Want haer herte loopt meyen,</l>
+<l n="60"><pb n="302"/> Singhen, springhen ende reyen.</l>
+<l>Die sonne in dit teken steet</l>
+<l>Te midde wedemaent wel heet.</l>
+<l>Ses uren heeft elc nacht allene:</l>
+<l>Elc dach hevet wel achtiene.</l>
+<l n="65">Dat vijfste teken heet leo</l>
+<l>Ic wilt u segghen hoe:</l>
+<l>Hets crachtich boven alle dier;</l>
+<l>Si toghen dicke felle manier.</l>
+<l>Dus eest in der sonnen dan:</l>
+<l n="70">Si hevet meneghe felheit an.</l>
+<l>Als si in dit teeken gaet,</l>
+<l>So werct si menege ondaet.</l>
+<l>Die tijt es herde bose</l>
+<l>Ende doet den lieden grote nose.</l>
+<l n="75">Niet en laet; noch min poesoen,</l>
+<l>Al heefstu des wat te doen:</l>
+<l>Dijn bloet wert dan verroert</l>
+<l>Van groter hitten ende verstoort,</l>
+<l>Recht als een water, al eest cout,</l>
+<l n="80">Dat men met des misch gewout</l>
+<l>Verhitten doet ende zieden sciere</l>
+<l>Ende verwandelt biden viere.</l>
+<l>Die felle hontdaghe die sijn dan,</l>
+<l>Die scuwen wijf ende man.</l>
+<l parse="ignore" n="85"><milestone unit="fol" n="va"/> [...] lyoen</l>
+<l parse="ignore">Staet ene sterre, fel es haer doen:</l>
+<l>Hont hetense astronomine,</l>
+<l><edition n="303"/>Si doet ons dicke grote pine.</l>
+<l>Bi wilen staet si int zuden.</l>
+<l n="90">Van haer wil ic u beduden:</l>
+<l>Als die sonne bi haer es</l>
+<l>Vor oft achter, des sijt gewes,</l>
+<l>Dat in die hontdaghe si.</l>
+<l>Wel viertich daghe, seitmen mi,</l>
+<l n="95">Pleghen si haer crachte toghen,</l>
+<l>Al ware myn, ic sout doghen.</l>
+<l>Wacht u vor der honde daghe:</l>
+<l>Si comen op den sevensten daghe</l>
+<l>In hoymaent vol van venijn,</l>
+<l n="100">Ghelijc den dovenden hondekijn,</l>
+<l>Dat woedet anden sinnen</l>
+<l>Ende venijns es vol van binnen.</l>
+<l>Noch volghet ene grote claghe:</l>
+<l>Die tijt es fel in die hontdage!</l>
+<l n="105">Te midde hoyemaent so comt saen</l>
+<l>Die sonne in dit teken gaen.</l>
+<l>Elc dach heeft dan sestien ghetide</l>
+<l>Die nacht acht, vrouwe Yde.</l>
+<l>Dat seste teken heet virgo,</l>
+<l n="110">Dat es maget, merct hier toe,</l>
+<l>Dat gelijct eenre maghet,</l>
+<l>Die al rijp es ende niet en draghet,</l>
+<l>Rijp van zeden ende ghestade,</l>
+<l>Ende node onsuverhede dade,</l>
+<l n="115">Ende haren sin also heeft geset,</l>
+<l>Dat si wil bliven onbesmet.</l>
+<l>Dus es die tijt der maget gelike,</l>
+<l><edition n="304"/>Want die vrucht, die somwile</l>
+<l>Heeft gewassen dat si sal</l>
+<l n="120">En te werden ende overal</l>
+<l>Ende es al ripe ende volcomen,</l>
+<l>Dits bi der maghet opgenomen.</l>
+<l>Ic woude si gescepet waren</l>
+<l>Int rode mere ende souden varen</l>
+<l n="125">Sonder roeder, dat si mochten,</l>
+<l>Die oit spraken of gedochten</l>
+<l><milestone unit="fol" n="vb"/> Van maeghden ende vrouwen mede ,</l>
+<l>Sonder mesdaet dorperhede!</l>
+<l>Die sonne in midden oeste jag[et]</l>
+<l n="130">Haren loep recht inder maget.</l>
+<l>Tien uren heeft die nacht an hore,</l>
+<l>Die dach viertien, na ghehore.</l>
+<l>Dat sevende teken heet libra,</l>
+<l>Die heet ene wage verre [ende na],</l>
+<l n="135">Ende al hier dan es nacht</l>
+<l>Den daghe ghelijc [in hare cracht],</l>
+<l parse="ignore">Recht als die waghe [...] heff [... haer]:</l>
+<l parse="ignore">Dus es nacht ende dach al daer.</l>
+<l parse="ignore">Die herfste gaet in, den somer [...]</l>
+<l parse="ignore" n="140">Som kalendier diet wel bed[...]</l>
+<l parse="ignore">In midden gherstmaent gaet [...]</l>
+<l parse="ignore">Die sonne in de waghescale.</l>
+<l><edition n="305"/>Hier es dach ende nacht gelijc lanc</l>
+<l>Van twaelf uren sonder wanc.</l>
+<l n="145">Dat achtende teken dat es een dier,</l>
+<l>Heet scerpio ende es onghehier.</l>
+<l parse="ignore">Des diers stert es al venijn [...]</l>
+<l parse="ignore">Daer ute dat comt den luden [...]</l>
+<l parse="ignore">[...]</l>
+<l>Omdat cout wert van naturen</l>
+<l n="150">Ende stroit venijn in corter uren.</l>
+<l>In ruselmaent ontfaet haer doen</l>
+<l>Die sonne in den scorpioen.</l>
+<l>Elc dach es van tien scouwen,</l>
+<l>Elc nacht viertien gewouden.</l>
+<l n="155">Dat neghende es sagittarius,</l>
+<l>Dat heet in dietsche worden dus:</l>
+<l>Scutter, want dat teken sciet</l>
+<l>Coude, dat hem die winter hiet.</l>
+<l>Te half November comt gegaen</l>
+<l n="160">Die sonne in dit teken saen.</l>
+<l>Sestien uren sijn een nacht,</l>
+<l>Ende acht sijn des dages cracht.</l>
+<l>Capricornus es een dier,</l>
+<l>Dus heet dat tiende teken hier.</l>
+<l n="165">Vor eest boc, achter serpent,</l>
+<l>Dus mach hi seggen diet wel [kent],</l>
+<l parse="ignore">Als die boc wil eten gaen [...]</l>
+</text>
+<!--</ENTRY>
+--></TEI.2>

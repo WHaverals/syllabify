@@ -1,0 +1,189 @@
+<?xml version='1.0'?><!DOCTYPE TEI.2 PUBLIC '-//TEI P4//DTD Main Document Type//EN' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd' [<!ENTITY % TEI.prose 'INCLUDE'><!ENTITY % TEI.linking 'INCLUDE'><!ENTITY % TEI.figures 'INCLUDE'><!ENTITY % TEI.analysis 'INCLUDE'><!ENTITY % TEI.corpus 'INCLUDE'><!ENTITY % TEI.XML 'INCLUDE'><!NOTATION TEI-XML PUBLIC 'TEI P4' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd'><!-- internal INL dtd --><!ELEMENT b (#PCDATA)><!ELEMENT l (#PCDATA | b)*><!-- end of internal INL dtd -->]><TEI.2><!--<ENTRY id="i593"><teiHeader><fileDesc><titleStmt><title>Ogier van Denemarken</title>
+</titleStmt>
+<interpGrp type="pubYear_from"><interp value="1300"/></interpGrp>
+<interpGrp type="witnessYear_from"><interp value="1300"/></interpGrp>
+<interpGrp type="pubYear_to"><interp value="1400"/></interpGrp>
+<interpGrp type="witnessYear_to"><interp value="1400"/></interpGrp>
+<TITEL>Ogier van Denemarken</TITEL>
+<author>Onbekend</author>
+<AARD>Rijm</AARD>
+<BRON nr="K88">Brussel, Koninklijke Bibliotheek, IV 209,12 (fragm.)</BRON>
+<DATUM>1300-1400</DATUM>
+<OMVANG>160 verzen</OMVANG>
+<BRON.OPM>Twee stroken (A en B), die elk de rechterhelft van een ander blad vormen; oorspronkelijk per bladzijde waarschijnlijk 2 kolommen en per kolom 40 regels. Op beide stroken bleven geheel kol. rb en va bewaard en op strook A bovendien nog minieme resten van kol. ra en vb. De resten van kol. ra zijn: voor r. 4: "leden"; voor r. 5: "[en]"; voor r. 18: "[e]rdet"; voor r. 20: "e"; voor r. 26: "ke"; voor r. 32: "an"; voor r. 40: "man". De resten van kol. vb zijn: r. 59: na "[me]sda[en]" miniscule resten van een twee regels hoge hoofdletter in rode inkt. Verder is op strook B voor r. 104 de rest van een woord uit kolom ra zichtbaar: "[u]nt". Mogelijk vormden de fragmenten de buitenste stukken van hetzelfde bifolium, dat volgens Van Dijk (1974), 179, het binnenste van het eerste quaternio van de codex geweest kan zijn.</BRON.OPM>
+<EDITIE>H. van Dijk: 'Ogier van Denemarken. Diplomatische uitgave van de Middelnederlandse fragmenten en van de overeenkomstige passages in de Duitse vertaling'. In: Ntg 67 (1974), 177-202 (187-192).</EDITIE>
+<STATUS>Diplomatisch</STATUS>
+<EDITIE.OPM>Van Ogier van Denemarken is ook een Middelhoogduitse vertaling overgeleverd (hs. Heidelberg, Universit&auml;tsbibliothek, Pal. germ. 363; ca. 22.000 verzen). Van Dijk (1974) geeft, parallel aan de tekst van de Middelnederlandse fragmenten, ook de corresponderende passages van de Duitse tekst.</EDITIE.OPM>
+<BRONNEN>Van in totaal 3 hss. zijn er fragmenten overgeleverd: Hs. I: - <x nr=K88>Brussel, Koninklijke Bibliotheek, IV 209,12 (fragm.)</x>
+ Hs. II: - <x nr=K89>Brussel, Koninklijke Bibliotheek, 19581 (fragm.)</x>
+  Hs. III: - <x nr=K90>Krak&oacute;w, Biblioteka Jagiellonska, olim: Berlijn, Preussische Staatsbibliothek, Germ. qu. 1895,4 (fragm.)</x>
+ - <x nr=K91>Leuven, Universiteitsbibliotheek, z.s. (fragm.)</x>
+</BRONNEN>
+</fileDesc>
+</teiHeader>
+--><text>
+<supplied resp="editor">Fragment A</supplied>
+<l parse="ignore" n="1"><pb n="187"/><milestone unit="fol" n="rb"/> Ewelike vort an</l>
+<l>Daer verlostic godefroot vter noot</l>
+<l>Sijn wijf lach enen legher groot</l>
+<l>In dien legher starf die vrouwe</l>
+<l n="5">Dies die meneghe hadde rouwe</l>
+<l>Godefroot huwede cortelike</l>
+<l>Ende nam ene wedewe rike</l>
+<l>Tenen chinxene haddickene sident onboden</l>
+<l>Dat hi tote mi soude comen</l>
+<l n="10">In sender knapen no garsoene</l>
+<l>Maer VII rudders van hogen doene</l>
+<l>Doe si vor godefrote quamen</l>
+<l>Dede hise onthoofden te samen</l>
+<l>Elc hooft hi an I gereide gecrochte</l>
+<l n="15">Vp die orse die si daer brochten</l>
+<l>Lettren dedire an scriuen</l>
+<l>Mochti mi ghecrighen</l>
+<l>Dat hi mi sulke doot soude doen</l>
+<l><edition n="188"/>Dies iamerde menegen baroen</l>
+<l n="20">Doe si die paerde saghen keren</l>
+<l>Entie houede vanden heren</l>
+<l>Die de lettren conden lesen</l>
+<l>Vernamen wel waer si wilden wesen</l>
+<l>Men stierde dorse te minen houe</l>
+<l n="25">Hier en dus diendi mi te loue</l>
+<l>Namels dede mi verstaen</l>
+<l>Dat sarrasenen hadden gedaen</l>
+<l>Omdat hi loyael es ende goet</l>
+<l>Lietic sinken minen moet</l>
+<l n="30">Ic wilts hem ghelouen wale</l>
+<l>Ic keerde te lodine in die zale</l>
+<l>Met minen baroenen met minen lieden</l>
+<l>Godefroot dedic echt onbieden</l>
+<l>Dat hi te mi soude comen</l>
+<l n="35">God die moetene verdomen</l>
+<l>Hi was in die stat al wistics niet</l>
+<l>Doe men die maeltijt liet</l>
+<l>Satic vp mijn ors van prise</l>
+<l>Het gaf mi goudebuef die vriese</l>
+<l n="40">Met spele voer ic vter poort</l>
+<l><milestone unit="fol" n="va"/> Godweet eer ic voort</l>
+<l>Gh[e]reet ene alue mile</l>
+<l>Quam godefroot gelijc enen pile</l>
+<l>Ghereden vp sijn destrier</l>
+<l n="45">Ende riep coninc ghi bliuets hier</l>
+<l>Biden goeden sint denise</l>
+<l>Ic keerde tors van prise</l>
+<l>Ende vlo met crachte</l>
+<l>Wat dat tors gelopen machte</l>
+<l n="50">Ende als dat sach die pautenier</l>
+<l>Dat ic hem soude ontvlien</l>
+<l>So scuddi sinen spiet</l>
+<l>Mijn ors dat zere liep</l>
+<l>Scoot hi onder mi doot</l>
+<l n="55"><pb n="189"/> Daer succoersde mi in de noot</l>
+<l>Dorghelieuse gautier</l>
+<l>Ende namels van bayuier</l>
+<l>Si brochtem mi gheuaen</l>
+<l>Ic wildem ghelden dat hi adde [me]sda[en]</l>
+<l n="60">Doe knielde die verrader vor mi</l>
+<l>Met hem namels die rudder vri</l>
+<l>Beuueloen sonder baraet ende gautier</l>
+<l>Ende gwideloen de coninc fier</l>
+<l>Si baden ouer hem zere</l>
+<l n="65">Dor den loon van onsen here</l>
+<l>Dat hi mijn scalc soude wesen</l>
+<l>Van sinen hoofde al mijn l[euen]</l>
+<l>Dat hi mi siaers zoude bringen</l>
+<l>Viere hare vut sinen baerde sonder ding[en]</l>
+<l n="70">Tote sint denijs in die stede</l>
+<l>Dus gauic hem vrede</l>
+<l>Dies gaf mi die pautenier</l>
+<l>In ostagen sijn kint ogier</l>
+<l>Ic ontfinct bi onsen here</l>
+<l n="75">In ene wieghe clene</l>
+<l>Die casteleine grommemare</l>
+<l>Heuet ghehouden XVII jare</l>
+<l>Te Sint Omae[rs] int palas</l>
+<l>Ter laetster feeste die nv was</l>
+<l n="80">Sendic om godefroot ic hoorde mar[e]</l>
+<supplied resp="editor">Fragment B</supplied>
+<l n="81"><pb n="190"/><milestone unit="fol" n="rb"/> Dies laet moete riesen</l>
+<l>Ritchier andworde tien tiden</l>
+<l>Neue ic sal met v riden</l>
+<l>Elkerlijc spranc vp sijn paert</l>
+<l n="85">Gautier decte ter vaert</l>
+<l>Sijn teekijn van sinen scilde</l>
+<l>Hi saghe gherne ende wilde</l>
+<l>Dat nie man wiste wie hi ware</l>
+<l>Hi reet met groten gare</l>
+<l n="90">Dor busche dor hage hine spaerde twint niet</l>
+<l>Teerst dat hi die galge ziet</l>
+<l>Sach hi dat mense noch wrochte</l>
+<l>Hi reet daer waert dat hi mochte</l>
+<l>Ende ritchier volgede met crachte</l>
+<l n="95">Aldat tors ghelopen machte</l>
+<l>Ende alsi ter galgen quamen</l>
+<l>XII rudders si daer vernamen</l>
+<l>Gautier sprac sonder bandoen</l>
+<l>Wien salmen hier verdoen</l>
+<l n="100">Vrient seiden die rudders mettien</l>
+<l>Also moet ons goet gescien</l>
+<l>Karel wille hier verdoen</l>
+<l>Enen ionchere daer menich baroen</l>
+<l>Omme es tonghemake</l>
+<l n="105">Ogier hiet die knape</l>
+<l>Namels es sijn oom</l>
+<l>Wi hebben droufheit des neimt goom</l>
+<l>Dat wi die galge moeten ghereden</l>
+<l><edition n="191"/>Onse meester geboot ons vp onse leuen</l>
+<l n="110">Gautier andworde bi sint ian</l>
+<l>Ghine mesdoeter niet an</l>
+<l>Elc moet sinen here dien</l>
+<l>Dat ors noopti mettien</l>
+<l>Die orgelieuse gautier</l>
+<l n="115">Hi sach dat gherijn die pautenier</l>
+<l>Ogier gheleet brochte</l>
+<l>Doe reet hi aldat hi mochte</l>
+<l>Metten orse dat zere liep</l>
+<l>Doe recht hi sinen spiet</l>
+<l n="120">Hi riep lude pautenier</l>
+<l><milestone unit="fol" n="va"/> Trouwen dief ghi bliuets hier</l>
+<l>Ogiere willic calengieren</l>
+<l>Hi stackem vp den scilt van quartier[e.]</l>
+<l>Tyser liep hem dor die herte</l>
+<l n="125">Dat hi doet ter aerden sterte</l>
+<l parse="ignore">Doe riep karel [.....]gen fier</l>
+<l parse="ignore">Vanget [................]tenier</l>
+<l parse="ignore">[D]oe [...... ] achter [h]em [.]ae[.]</l>
+<l parse="ignore">Gautier [.................] aldaer</l>
+<l parse="ignore" n="130">Doe [..] dat [...] op hem wilde</l>
+<l parse="ignore">Hi dectem metten scilde</l>
+<l>Ende slouch dat vor hem quam</l>
+<l>Was het ors ofte man</l>
+<l>Ritchier droyoens kint</l>
+<l n="135">Ne spaerdem twint</l>
+<l>Maer die orgheliuese gautier</l>
+<l>Dedem meest ontsien</l>
+<l>Hi vacht als een serpent</l>
+<l>Karel riep met gh[en]ent</l>
+<l n="140"><pb n="192"/> Hoorstuut felle [p]autenier</l>
+<l>Keer mi dinen destrier</l>
+<l>Ic wille iegen di riden</l>
+<l>Gautier sweech hi wilde sijns mid[e.]</l>
+<l>Want hi was sijn petrijn</l>
+<l n="145">Karel wart gram int herte sijn</l>
+<l>Dat hi sijn volc sach verslaen</l>
+<l>Ioyonse trecti zaen</l>
+<l>Ende voer vp ritchiere droyoens ki[n.]</l>
+<l>Ende clouedem met ghenint</l>
+<l n="150">Den helm ende thouet mede</l>
+<l>Dat hi sturte vten gerede</l>
+<l>Als gautier sinen neue doot siet</l>
+<l>Hine [vernamets] noch toe niet</l>
+<l>Maer hi zwoer sonde[r] waen</l>
+<l n="155">Dat tpetrins[ca]p ware ghedaen</l>
+<l>Met sporen noopt[i ser]one</l>
+<l>Hi quam verstormt ghe[lijc] enen lyoene</l>
+<l>Hi slouch karel met[ter] vaert</l>
+<l>Dat vor hem sturte man ende paert</l>
+<l parse="ignore" n="160">Ay god hoe menich man</l>
+</text>
+<!--</ENTRY>
+--></TEI.2>

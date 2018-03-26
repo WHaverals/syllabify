@@ -1,0 +1,112 @@
+<?xml version='1.0'?><!DOCTYPE TEI.2 PUBLIC '-//TEI P4//DTD Main Document Type//EN' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd' [<!ENTITY % TEI.prose 'INCLUDE'><!ENTITY % TEI.linking 'INCLUDE'><!ENTITY % TEI.figures 'INCLUDE'><!ENTITY % TEI.analysis 'INCLUDE'><!ENTITY % TEI.corpus 'INCLUDE'><!ENTITY % TEI.XML 'INCLUDE'><!NOTATION TEI-XML PUBLIC 'TEI P4' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd'><!-- internal INL dtd --><!ELEMENT b (#PCDATA)><!ELEMENT l (#PCDATA | b)*><!-- end of internal INL dtd -->]><TEI.2><!--<ENTRY id="i726"><teiHeader><fileDesc><titleStmt><title>Roelantslied</title>
+</titleStmt>
+<interpGrp type="pubYear_from"><interp value="1350"/></interpGrp>
+<interpGrp type="witnessYear_from"><interp value="1350"/></interpGrp>
+<interpGrp type="pubYear_to"><interp value="1400"/></interpGrp>
+<interpGrp type="witnessYear_to"><interp value="1400"/></interpGrp>
+<TITEL>Roelantslied</TITEL>
+<author>Onbekend</author>
+<AARD>Rijm</AARD>
+<BRON nr="K109">Brussel, Koninklijke Bibliotheek, 21143 (fragm.)</BRON>
+<DATUM>1350-1400</DATUM>
+<OMVANG>80 verzen</OMVANG>
+<BRON.OPM>Linkergedeelte van een blad. Oorspronkelijk per bladzijde 2 kolommen en per kolom 40 regels. Van kol. ra zijn van enkele verzen de laatste letters, van kol. vb van de laatste twintig verzen de beginletters afgesneden.</BRON.OPM>
+<EDITIE>H. van Dijk: Het Roelantslied. Studie over de Middelnederlandse vertaling van het Chanson de Roland, gevolgd door een diplomatische uitgave van de overgeleverde teksten. Utrecht, 1981. Diss. Utrecht, 306-316.</EDITIE>
+<STATUS>Diplomatisch</STATUS>
+<BRONMNW>411.3.1 (andere editie)</BRONMNW>
+<BRONMNW>1117 (andere editie)</BRONMNW>
+<BRONMNW>1299.5 (andere editie)</BRONMNW>
+<EDITIE.OPM>Van Dijk geeft de tekst van alle bekende Middelnederlandse fragmenten van het Roelantslied &eacute;n de tekst van het volksboek (de Droefliken strijt van Roncevale; M&uuml;nchen, Universit&auml;tsbibliothek, postincunabel 4&supo; p germ. 165) in een zogenaamde synoptische editie. Behalve een versnummering per tekst heeft hij ook een doorlopende versnummering aangebracht; bovendien geeft hij de nummers van de corresponderende verzen uit het Chanson de Roland (editie Segre uit 1971). Hier werd alleen de nummering per tekst overgenomen; de teksten van het volksboek werden hier niet uit Van Dijks editie overgenomen (men zie daarvoor de Droefliken strijt van Roncevale).</EDITIE.OPM>
+<BRONNEN>Van het Roelantslied zijn vijf fragmenten bekend, die tot vijf verschillende handschriften hebben behoord: - <x nr=K108>'s-Gravenhage, Koninklijke Bibliotheek, 74 C 8 (fragm.)</x>
+ - <x nr=K109>Brussel, Koninklijke Bibliotheek, 21143 (fragm.)</x>
+ - <x nr=K110>Lille, Biblioth&egrave;que Municipale, z.s. (fragm.) [zoek]</x>
+ - <x nr=K111>Amsterdam, Universiteitsbibliotheek, I A 24&supl; (fragm.)</x>
+ - <x nr=K112>Rotterdam, Gemeentebibliotheek, 96 B 6: 1 (fragm.)</x>
+ De editie van het fragment te Lille, dat reeds zoek was in 1855, gaat terug op een afschrift dat in 1835 werd gemaakt door Serrure.</BRONNEN>
+<HSDRUK>Droefliken strijt van Roncevale</HSDRUK>
+</fileDesc>
+</teiHeader>
+--><text>
+<l><pb n="306"/><milestone unit="fol" n="1ra"/> Daer sal menech toe sien</l>
+<l>Daer dese wiich sal ge scien</l>
+<l>Ende wi haddent also [ver]staen</l>
+<l>Dat wise alle sele[n] verslaen</l>
+<l n="5"><pb n="308"/> <b>D</b>oen sprac borsabels die coninc</l>
+<l>Dat was warlike dinc</l>
+<l>Ic willer emmer een siin</l>
+<l>Doen sprac die bose barbariin</l>
+<l>Hi was groet ende starc</l>
+<l n="10">Hine wonde niet om C marc</l>
+<l parse="ignore">Ende tgoet dat [.......] an</l>
+<l parse="ignore">Hadde ochte ye gewan</l>
+<l n="13"><pb n="310"/> Esloer van burga[.] sprac sine rede</l>
+<l>Ic willer emmer een sijn mede</l>
+<l n="15"><pb n="312"/> Hi liep seerdere te voet</l>
+<l>Dan enech spaench ors doet</l>
+<l>Vorden coninc quam hi saen</l>
+<l>Ende sprac datment mochte verstae[n]</l>
+<l>Vindic roelande jn ronceuale</l>
+<l n="20">Soe waert mi te moede wale</l>
+<l parse="ignore">Ic salne slaen [...] minen sw[a..]</l>
+<l parse="ignore">Oft het blijft [...] minen d[a..]</l>
+<l parse="ignore"><b>E</b>En amirael q[uam] daer na vo[..]</l>
+<l parse="ignore">Scone ende rike ende wel gebor[..]</l>
+<l n="25">Dats hem noit en gebrac</l>
+<l>Vorden coninc quam [h]i ende sprac</l>
+<l>Met herde ouermoediger tale</l>
+<l>Vindic roelande jn ronceuale</l>
+<l>Ic sal sijns liu[es] maken fijn</l>
+<l n="30">Ende alle die met hem [comen] sijn</l>
+<l parse="ignore">Sider meer hebben wi vrede</l>
+<l parse="ignore">Van kaerlen ende vanden andren me[..]</l>
+<l parse="ignore">Noch selen wi hebben waerlike</l>
+<l parse="ignore">Dat suete lant van vrancri[..]</l>
+<l parse="ignore" n="35">Alse hi die tale hadde geseit</l>
+<l parse="ignore">Dankes hem die coninc gerei[.]</l>
+<l parse="ignore"><b>E</b>En amirael sprac van bura[..]</l>
+<l parse="ignore">En was geen feldere jn spa[..]</l>
+<l>Hi begonste heme [v]ermeten</l>
+<l n="40">Hi soude roelande doen weten</l>
+<l><pb n="314"/><milestone unit="fol" n="1vb"/> Die here begonste hem vermeten</l>
+<l>Dies en woude hi niet vergeten</l>
+<l parse="ignore">Hine soude [m]et sinen swerde</l>
+<l parse="ignore">Roelande [..]loepen heerde</l>
+<l n="45">Ende vermat hem dathi durendale</l>
+<l>Soude wederstaen met sinen stale</l>
+<l>Na deser talen waren gereit</l>
+<l>Die .xij. genoten god weit</l>
+<l>Ende traken vort met crachte</l>
+<l n="50">Ende met coenen gedachte</l>
+<l>Haere was wale</l>
+<l>Vier dusent met getale</l>
+<l>Alsi doen vernamen</l>
+<l>Dat si biden fransoysen quamen</l>
+<l n="55">Si scieden hem op dat slechte</l>
+<l>Als die gene die wouden uechten</l>
+<l>Ende dede ane halsberge diere</l>
+<l>Van rikeliker maniere</l>
+<l>Si bonden helme sarragose</l>
+<l n="60">Ende gorden swerde vianose</l>
+<l>[H]are speren waren te valense gemaect</l>
+<l >Ende die timprage wel geraect</l>
+<l parse="ignore">[.]i bonden standarde groet</l>
+<l parse="ignore">[.]it groene ende roet</l>
+<l parse="ignore" n="65">[.]ie varuwe was goet ende diere</l>
+<l parse="ignore">[.]nde van meneger manieren</l>
+<l parse="ignore">[.]i lieten staue ende paerde</l>
+<l parse="ignore">[.]nde brachten op die waerde</l>
+<l parse="ignore">[.]rse groet ende starc</l>
+<l parse="ignore" n="70">[.]ie wert waren meneger marc</l>
+<l parse="ignore">[.]ie sonne sceen scone ende clare</l>
+<l parse="ignore">[.]oen blicte haer ghegare</l>
+<l parse="ignore">[.]cone ende herde cierlike</l>
+<l parse="ignore"><edition n="316"/>[.]outs ende seluers gelike</l>
+<l parse="ignore" n="75">[.]i luden orgelen ende bosinen</l>
+<l parse="ignore">[.]atsi te scoender souden scinen</l>
+<l parse="ignore">[.]roet geluut quam daer of</l>
+<l parse="ignore">[.]i dadent dor prijs ende dor lof</l>
+<l parse="ignore">[.]ie fransoysen hordent tgescal</l>
+<l parse="ignore" n="80">[.]nde vernament ouer al</l>
+</text>
+<!--</ENTRY>
+--></TEI.2>

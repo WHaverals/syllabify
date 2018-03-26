@@ -1,0 +1,3191 @@
+<?xml version='1.0'?><!DOCTYPE TEI.2 PUBLIC '-//TEI P4//DTD Main Document Type//EN' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd' [<!ENTITY % TEI.prose 'INCLUDE'><!ENTITY % TEI.linking 'INCLUDE'><!ENTITY % TEI.figures 'INCLUDE'><!ENTITY % TEI.analysis 'INCLUDE'><!ENTITY % TEI.corpus 'INCLUDE'><!ENTITY % TEI.XML 'INCLUDE'><!NOTATION TEI-XML PUBLIC 'TEI P4' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd'><!-- internal INL dtd --><!ELEMENT b (#PCDATA)><!ELEMENT l (#PCDATA | b)*><!-- end of internal INL dtd -->]><TEI.2><!--<ENTRY id="i191"><teiHeader><fileDesc><titleStmt><title>Mengeldichten I-XVI</title>
+</titleStmt>
+<interpGrp type="pubYear_from"><interp value="1340"/></interpGrp>
+<interpGrp type="witnessYear_from"><interp value="1340"/></interpGrp>
+<interpGrp type="pubYear_to"><interp value="1360"/></interpGrp>
+<interpGrp type="witnessYear_to"><interp value="1360"/></interpGrp>
+<TITEL>Mengeldichten I-XVI</TITEL>
+<author>Hadewijch</author>
+<AARD>Rijm</AARD>
+<BRON nr="K168">Gent, Bibliotheek der Rijksuniversiteit, 941</BRON>
+<DATUM>1340-1360</DATUM>
+<OMVANG>1723 verzen</OMVANG>
+<BRON.OPM>Het handschrift telt in totaal 2+90 bladen; per bladzijde zijn er 2 kolommen van 40 regels (het gedeelte met de Mengeldichten XVIIXXIX 3 kolommen). Het is een van de drie handschriften met de werken van Hadewijch: de Visioenen (fol. 1-20v), de Brieven (fol. 20v-49), de Strofische gedichten (fol. 4971; zie Strofische gedichten (Hadewijch)) en de Mengeldichten I-XVI (fol. 74v-85). Het Gentse handschrift bevat verder nog het Tweevormich tractaetken (fol. 71v-74v) en de Mengeldichten XVII-XXIX (fol. 85v-90), teksten die niet van Hadewijch zijn.</BRON.OPM>
+<EDITIE>J. van Mierlo (ed.): Hadewijch: Mengeldichten. Antwerpen [etc.], [1952]. (Leuvense Studi&euml;n en Tekstuitgaven), 4-85.</EDITIE>
+<STATUS>Kritisch</STATUS>
+<BRONMNW>547 (ander handschrift)</BRONMNW>
+<EDITIE.OPM>Zowel hier als in de editie Van Mierlo worden de Mengeldichten I-XVI en de Mengeldichten XVII-XXIX als een eenheid gepresenteerd. Van Mierlo geeft in zijn editie de tekst naar het Gentse handschrift. Op een aantal plaatsen heeft hij verbeteringen aangebracht, die in de editie cursief zijn weergegeven. In de tekst zoals die hier wordt gepresenteerd zijn de betreffende verbeteringen niet herkenbaar, doordat de cursivering achterwege werd gelaten. Niet overgenomen uit de editie werd het zgn. Tweevormich tractaetken, dat in het handschrift aan de Mengeldichten voorafgaat (fol. 71v-74v). Verder ontbreken de inleidingen die aan de gedichten voorafgaan, het apparaat met varianten en aantekeningen aan de voet van de pagina's en de in de rechtermarge vermelde foli&euml;ring van de twee andere handschriften met de werken van Hadewijch (Brussel, Koninklijke Bibliotheek, 2879-80 en 2877-78). Van Mierlo heeft in de tekst zowel rechthoekige als vishaken gebruikt: "Wat tusschen [] staat dient eerder uitgeworpen; tusschen &lt;&gt;, beter opgenomen" (voor de verwijzing zie <i>Strofische gedichten (Hadewijch)</i>). Om technische redenen zijn de rechthoekige haken hier vervangen door vishaken en andersom. Een in de editie Van Mierlo overgeslagen versregel is hier toegevoegd (gedicht 9, tussen de regels 41 en 42). Voor de regelnummering heeft dit geen gevolgen, doordat het ontbrekende vers in de editie, opmerkelijk genoeg, wel werd meegeteld.</EDITIE.OPM>
+<BRONNEN>Gent, Bibliotheek der Rijksuniversiteit, 941</BRONNEN>
+</fileDesc>
+</teiHeader>
+--><group><text>
+<head type="comment"><pb n="4"/> 1</head>
+<l>God si met v; van mijnre groeten</l>
+<l>Mach v clene virtuut ontmoeten;</l>
+<l>Dan omme dat ghijt hebben wout</l>
+<l>Ende ghiere mede spelen sout,</l>
+<l n="5">So antwerdic v in spele,</l>
+<l>Met corten worden ende niet te vele,</l>
+<l><milestone unit="fol" n="74vb"/> Daer ghi mi af spreken hiet.</l>
+<l>Mi es als enen kinde ghesciet</l>
+<l>Dat na sprect dat het spreken hoert,</l>
+<l n="10">Eert bekint heeft oft becoert.</l>
+<l>Der minneun natuere es mi oncont,</l>
+<l>Want hare wesen ende hare gront</l>
+<l>Es verborghen ieghen mi.</l>
+<l>Hoe mi daer af te moede si,</l>
+<l n="15">Dats mi also goet versweghen</l>
+<l>Alse te vremder stat ghedreghen.</l>
+<l>Die minne moet v doen bekinnen</l>
+<l>Hoe men met minnen mint in minnen.</l>
+<l>Hare natuere doe v verstaen in niet</l>
+<l n="20">Hoe men met niede in niede besiet.</l>
+<l>God doe v in uwe ghebreken pinen</l>
+<l>Ende verstaen in uwe vercrighen;</l>
+<l>God doe v in onthopen leuen</l>
+<l><edition n="5"/>Met alden dienste die ghi moghet gheuen,</l>
+<l n="25">Ende daer na in hopen te ghecrighenne</l>
+<l>Ende in minnen nature niet tontblienne.</l>
+<l>Dit en seidic dus niet om dat ic woude</l>
+<l>Vore v bidden noch dore v houde,</l>
+<l>Maer dat ghijt woudt in groeten hebben,</l>
+<l n="30">Daer omme moestict v dus segghen.</l>
+<l>Hoe minne hare natuere pleghet,</l>
+<l>Hoe minne nemet ende gheuet,</l>
+<l>Dat es in menigherhande manieren</l>
+<l>Daer si hare wesen met doet scieren.</l>
+<l n="35">In minnen wesen es al beloken:</l>
+<l>Vercrighen, ghebreken, hopen, onthopen.</l>
+<l>Ende dat es namelike niet</l>
+<l>Al dat menre af horet ende siet</l>
+<l>Ende bekinnen mach ende verstaen:</l>
+<l n="40">Dats onuercreghen ende onghedaen.</l>
+<l>Die der minnen wilt sijn na minnen ghetame,</l>
+<l>Hi moet in allen sijn minsame.</l>
+<l>Hem moet dore minne alle leet ghenoeghen;</l>
+<l>Hi moet hem tallen dinghen voeghen,</l>
+<l n="45">Beide in lichte ocht in sware,</l>
+<l>Ghelijc oft hi haer eyghen ware;</l>
+<l><milestone unit="fol" n="75ra"/> Hine mach ontsien en ghene noet,</l>
+<l>Anxt noch pine, scade noch doet;</l>
+<l>Dat hi heeft moet hi toe gheuen;</l>
+<l n="50">Daer hi mint moet hi op leuen.</l>
+<l>Ende als hi alre gherenst name</l>
+<l>Jn minnen wesen minsame</l>
+<l><edition n="6"/>Na gheuoelen ende hoghe bekinnen</l>
+<l>Jn hoghen verstane der naturen der minnen,</l>
+<l n="55">So ualt hi neder so int niet;</l>
+<l>Dat hi nochtan hoert ende siet</l>
+<l>Ende inder minnen nature versteet,</l>
+<l>Dat dunct hem verre ende onghereet.</l>
+<l>Nature eiscet soe met storme naturen</l>
+<l n="60">Ende doetse in ongheduerne dueren,</l>
+<l>Die niedt verswelghet so al hare gheuen,</l>
+<l>Dat si dies seden altoes moet pleghen.</l>
+<l>Vercrighen doet den sin faelgieren</l>
+<l>Ende toecomen van menegher manieren.</l>
+<l n="65">Want als men raste heeft swijcht men stille;</l>
+<l>Dan dademen niet, haddemen onwille.</l>
+<l>Die raste vercrighet wilt dicke sijn</l>
+<l>Jnt heerscap vander minnen fijn.</l>
+<l>So es hi comen quansijs te houe</l>
+<l n="70">Ende waent wonen in die gheloue</l>
+<l>Vanden ghetroesten ende int gheuen,</l>
+<l>Daer hi langhe sal sonder leuen.</l>
+<l>Vercrighen hoghet oec den sin</l>
+<l>Jn menich herde fier ghewin;</l>
+<l n="75">Want hi vercrighet daer hi na pijnt,</l>
+<l>Jc pense dat hem vroude ane scijnt;</l>
+<l>Want hi droeft die daer te dienste steet</l>
+<l>Daer sijn ghewijn es onghereet.</l>
+<l>Maer ioesten ende hoghe daet</l>
+<l n="80">Doet hi dicke dat wale staet,</l>
+<l>De ghene die met fieren sinne</l>
+<l><edition n="7"/>Waent vercrighen gherechte minne;</l>
+<l>Ghelijc dat die ridderen coene</l>
+<l>Van fierheiden pleghen te doene</l>
+<l n="85">Scoenheiden an haren scacht:</l>
+<l>Daer bi versteet men haerre fierheit cracht,</l>
+<l><milestone unit="fol" n="75rb"/> Ende dat si bi diere daet ghewinnen</l>
+<l>Hulde der stat daer si minnen;</l>
+<l>Also doet oec die edele sin</l>
+<l n="90">Daer nature met niede es in:</l>
+<l>En&lt;de&gt; es in minnen delite so hoghe,</l>
+<l>Noch pinen van so groten ghedoghe,</l>
+<l>Die hare fierheit laet ontbliuen,</l>
+<l>Sine willet ouer recht ghecrighen.</l>
+<l n="95">Onuercrighen es hoghere daet,</l>
+<l>Die daer met sterken niede in staet.</l>
+<l>Want die weet wat hem gheberst</l>
+<l>Hi es die ghene die niet en verst,</l>
+<l>Op dat hi weet waer die stat sy</l>
+<l n="100">Daer sijn wesen ware vri;</l>
+<l>Sone sal hi ghene pine sparen:</l>
+<l>Hi sal met niede in storme doreuaren,</l>
+<l>Eest ieghen gode eest daer mede:</l>
+<l>Dat es der vrier minnen sede.</l>
+<l n="105">Dit en seggic niet om dat ict prise,</l>
+<l>Maer omme dat ic den wech der minnen wise,</l>
+<l>Joncffer; oec niet dat ic v wise,</l>
+<l>Maer der minnen vriheyt prise.</l>
+<l>Want ieghen gode en was nie dinc</l>
+<l n="110">Die men in rechter minnen beghinc.</l>
+<l>Al segghic dore der riker ghewout</l>
+<l>Die minne heuet in hare behout,</l>
+<l><edition n="8"/>Dat kinnic men, ghi kinnet bat:</l>
+<l>Ghi sijts in scaec ende ic in mat.</l>
+<l n="115">Van hope canic niet ghesegghen,</l>
+<l>Ghine selet int wesen naerre hebben.</l>
+<l>Daer omme benics vele te bloeder</l>
+<l>Ende sprekere v vele af te noeder,</l>
+<l>Want ghijt met pleghene naere kint.</l>
+<l n="120">Die met niede in hope mint,</l>
+<l>Hi gheeft ende nemp op sijn ghewin;</l>
+<l>Hi versteet meneghen sconen sin:</l>
+<l>Hoe men nemen sal ende gheuen,</l>
+<l>Ende gherechter minnen pleghen</l>
+<l n="125">Die al es; ende hi versteet</l>
+<l>Waer sijn ghewin hem es ghereet;</l>
+<l><milestone unit="fol" n="75va"/> Hi gheeft hen allen die sijns behoeuen;</l>
+<l>Hi troest die ghene die hen bedroeuen;</l>
+<l>Hi raet dien die luttel weten;</l>
+<l n="130">Hi comt op menich hoech vermeten;</l>
+<l>Hi stormt op behaechlijcheit,</l>
+<l>Hi versteet die hoghe werdicheyt,</l>
+<l>Diemen metter vrier minnen</l>
+<l>Jn hopenden werken mach ghewinnen.</l>
+<l n="135">Wat holpe dat ic van hope seide:</l>
+<l>Hope en ontsiet en ghene aerbeide;</l>
+<l>Met hoghen hope ghecrighet men al</l>
+<l>Dat es ende was ende wesen sal.</l>
+<l>Onthope dan sijn meere storme:</l>
+<l n="140">Si maken onghedane vorme;</l>
+<l>Onthope doet dienen quade ende goede;</l>
+<l>Het scijnt onspoet in groten spoede.</l>
+<l>Die met onthopenne es beuaen,</l>
+<l><edition n="9"/>Sijn nemen, sijn gheuen es onghedaen.</l>
+<l n="145">Sprect hi, het dunct hem onghehoert.</l>
+<l>Jn onthope wert al becoert</l>
+<l>Raste ende pine van minnen storme.</l>
+<l>Hier bi heeft hi onghedane vorme;</l>
+<l>Die in onthope leeft ende pijnt,</l>
+<l n="150">Het dunct hem emmer onghefijnt;</l>
+<l>Wat hi dient, hi ontsiet</l>
+<l>Dat hem sijns willen niet en gheschiet;</l>
+<l>Wat hi bekent het dunct hem nicht;</l>
+<l>Hier bi verstormt hi ende dient echt;</l>
+<l n="155">Sijn dienst dunct hem te clene in werke;</l>
+<l>Dat houtene altoes in minne sterke.</l>
+<l>Dat men hem gheeft dunct hem te clene;</l>
+<l>Dat houtene altoes in swaren lene.</l>
+<l>Dats onthope die altoes hacht</l>
+<l n="160">Te pijnne in die meeste cracht.</l>
+<l>Dats ene herde scone werc;</l>
+<l>Hets onuerwonnen ende euen sterc;</l>
+<l>Het gheeft al datmen soude gheuen;</l>
+<l>Het leeft al datmen soude leuen;</l>
+<l n="165">Het heeft al datmen hebben soude;</l>
+<l>Het wilt al dat god ye woude,</l>
+<l><milestone unit="fol" n="75vb"/> Jn arme, in rike, in nedre, in hoghe,</l>
+<l>Jn onthope ende in onghedoghe.</l>
+<l>Die dus in allen werct ende pijnt</l>
+<l n="170">Ende in coste en faelgeert noch en fijnt,</l>
+<l>Hi ghecrighet al dat god ewelike</l>
+<l>Jn hem sal wesen in hemelrike.</l>
+<l>Dat ic woude van edelen niede</l>
+<l>Segghen wat bi hem ghesciede,</l>
+<l n="175">Dat ware ouerdaet van mi.</l>
+<l>Want ic en ben niet so vri</l>
+<l><edition n="10"/>Dat ic mijns selfs iet hebbe verteghen</l>
+<l>Also men in niede sal pleghen.</l>
+<l>Die in niede iet soude vercrighen,</l>
+<l n="180">Hi moeste hem seluen in allen ontbliuen</l>
+<l>Ende vertien eren ende rasten.</l>
+<l>Die waghe draghet van swaren lasten</l>
+<l>Ende verre heuet te gane,</l>
+<l>Dies bennic in goeden wane,</l>
+<l n="185">Dat hire spade comen sal,</l>
+<l>Hine vertie al omme al</l>
+<l>Ende en achte niet menegher dinghe,</l>
+<l>Met te iubilerenne sonderlinghe,</l>
+<l>Noch vremde saken te onderwindenne,</l>
+<l n="190">Noch cleynen rouwe te bene te bindenne,</l>
+<l>Noch dore ere te latene vriheyt,</l>
+<l>Noch te doene onbescedennen aerbeit.</l>
+<l>Want dit sijne &lt;te&gt; tekenne van ontbliuenne</l>
+<l>Ende minne niet te vercrighenne</l>
+<l n="195">Gherecht niedt dats begherten gront,</l>
+<l>Die meneghe herte maect onghesont.</l>
+<l>Begherte gaept altoes so wide,</l>
+<l>Dat ict tghelike te segghenne mide;</l>
+<l>Want alle gheliken sijn te clene</l>
+<l n="200">Te selken gapenne, alse ic mene.</l>
+<l>Begherten wesen es al niedt;</l>
+<l>Jn welken so si hare besiet,</l>
+<l>Smaecse, kintse, si es onuersadet.</l>
+<l>Wie mach dueren diese dus verladet?</l>
+<l n="205">Al hadde begherte al dat minne</l>
+<l>Gheleisten mach bouen allen sinne,</l>
+<l><milestone unit="fol" n="76ra"/> Nochtan soudsi onghecost bliuen.</l>
+<l><edition n="11"/>Dat mach men dan in niede vercrighen</l>
+<l>Onghenade ende sterke pine,</l>
+<l n="210">Altoes in onghedueren te sine.</l>
+<l>Dat ic van niede hebbe gheseghet</l>
+<l>Dats clene ieghen datter in leghet.</l>
+<l>Dat ic van minnen sprake voert</l>
+<l>Daertoe hebbic te clenen confoert,</l>
+<l n="215">Daeric so vele crachs bi name,</l>
+<l>Dat ic die minne minsame</l>
+<l>Volprisede na hare werdicheit</l>
+<l>Ende den wonderliken arbeit</l>
+<l>Dien si gheeft dien die mint,</l>
+<l n="220">Daer si hare seluen in bekint;</l>
+<l>Si doet hem onghereet begheren</l>
+<l>Ende van onghereden teren;</l>
+<l>Si doet hem grote ghereescap vlien;</l>
+<l>Si doet hem suetten dienst ontsien;</l>
+<l n="225">Si doet sine vriheit staen in rechte;</l>
+<l>Si maect sijn heerscap knechte;</l>
+<l>Si maect sine eyghenheyt vri;</l>
+<l>Si maecten aerm, hoe rijc hi si;</l>
+<l>Si nemt hen alre saken macht,</l>
+<l n="230">Daer hi der minnen met dede ouercracht.</l>
+<l>Jn die nature van hoghere minnen</l>
+<l>Daer mach men wonder in bekinnen.</l>
+<l>Si doet veruolghen al dat ontuliet;</l>
+<l>Si doet verwinnen dat men ontsiet;</l>
+<l n="235">Si heeft ghewout in eerde, in hemel;</l>
+<l>Si maect den minnenden so temel,</l>
+<l>Dat hi en ontsiet pine noch leet,</l>
+<l>Hi en si in al haren dienste ghereet,</l>
+<l>Eest in quade, eest in goede.</l>
+<l n="240"><pb n="12"/> Dat sijn der vrier minnen spoede.</l>
+<l>Waeromme in goede, waeromme in quade?</l>
+<l>Waeromme in vrome, waeromme in scade?</l>
+<l>Daeromme in goede, dat men sal nemen</l>
+<l>Van minnen recht ende wel ghetemen.</l>
+<l n="245">Daeromme in quade, dat men der minnen</l>
+<l>Gheen recht te vollen en can bekinnen;</l>
+<l><milestone unit="fol" n="76rb"/> Dus moet hi hem besoeken in al</l>
+<l>Die ghewareghe minne vercrighn sal.</l>
+<l>Daer omme in vrome: die minne ghewint,</l>
+<l n="250">Dat hijt hare sonder loen bekint;</l>
+<l>Daeromme in scade: al datmen mach</l>
+<l>Dore minne verdinghen, onghelach,</l>
+<l>Scande, pine, leet ende toren,</l>
+<l>Dat heuet die minnare al vercoren,</l>
+<l n="255">Ter minnen behoef, ocht waer ghewin:</l>
+<l>Daerne spaert hi vore herte noch sin.</l>
+<l>Hi nempt also gherne tusere als tsoete,</l>
+<l>Op datter minnen ghenoeghen moete.</l>
+<l>Jn goede toent minne ghenuechte;</l>
+<l n="260">Jn quade datmen haers heeft behoefte;</l>
+<l>Jn vrome toense dat hare ghewinne</l>
+<l>Gheuen rijcheit altoes ende minne;</l>
+<l>Jn scade toense dat hare cracht</l>
+<l>Den hemel ten dale heuet bracht.</l>
+<l n="265">Dat ghewin dat quam van scaden,</l>
+<l>Ende die ghenade van mesdaden.</l>
+<l>Die minnare die minne wilt verstaen</l>
+<l>Hi sal gherne pine ontfaen;</l>
+<l>Hi sal hem scieren met minnen natuere</l>
+<l n="270">Ende met onthopenne die weghe puere.</l>
+<l><edition n="13"/>Ghebreken besouct den gront van minnen;</l>
+<l>Vercrighen doet hare rijcheit kinnen.</l>
+<l>Onuercrighen doet nauwe poghen;</l>
+<l>Hope doet vlieghen in minnen hoghen.</l>
+<l n="275">Met niede salmen ghebruken minnen</l>
+<l>Ende volcomenlike smaken ende kinnen</l>
+<l>Hare glorie ende hare weelde,</l>
+<l>Onse bliscap ende onse seelde,</l>
+<l>Onse ioye ende onse delijt</l>
+<l n="280">Dien eweliken nuwen tijt.</l>
+<l>Nadien datmen die natuere van minnen</l>
+<l>Met desen poenten mach ghewinnen,</l>
+<l>So es hi sot die spaert een vre,</l>
+<l>Hine gheue hem seluen in auontuere</l>
+<l n="285">Die hem ontmoet; dus mach hi kinnen</l>
+<l>Waer hi mach dese poente ghewinnen</l>
+<l>Te sinen ghebode, te sinen rechte,</l>
+<l>Ocht ware sien ghehuerde knechte.</l>
+<l>So heeft hi yoye met minnen in al</l>
+<l n="290">Alse lief in lief ghebruken sal.</l>
+<l>Die minne van minnen wilt ontfaen,</l>
+<l>Dien tijt dat hi es in sijn verstaen,</l>
+<l><milestone unit="fol" n="76va"/> So gheue hem seluen in al der minnen.</l>
+<l>So mach hi van minnen minne ghewinnen.</l>
+<l n="295">God gheefse hen allen die staen na minnen.</l>
+<l>Jc ben diese niet en kinne,</l>
+<l>Noch kinnen en wane vore mine doet;</l>
+<l>Dat ontfarme hem die minne gheboet.</l>
+</text>
+<text><head type="comment"><pb n="15"/> 2</head>
+<l>Viere meestere seiden enen coninc</l>
+<l>Welc ware die staercste dinc</l>
+<l>Die in die werelt mochte sijn.</l>
+<l>Doen seide elc den wille mijn,</l>
+<l n="5">Al en was ic doen niet daer,</l>
+<l>Ende elc seide na sijn herte waer.</l>
+<l>Die ene seide, dat die wijn</l>
+<l>Met rechte starcste soude sijn,</l>
+<l>Dies hi purgeert ende den droeuen verhoghet,</l>
+<l n="10">Ende meneghe andere doghet</l>
+<l>Die hi werct in meneghe dinc.</l>
+<l>Die andere seide, een coninc,</l>
+<l>Om sijn menichfoude bedwanc.</l>
+<l>Jc mocht v maken te lanc.</l>
+<l n="15">Die derde seide: dies wiues werke</l>
+<l>Verwinnen alrehande sterke.</l>
+<l>Die vierde seide, die waerheit</l>
+<l>Ware starcst alre starcheit.</l>
+<l>Dit sijn .IIIJ. grote crachte</l>
+<l n="20">Diese verstonde ende wel bedachte.</l>
+<l><edition n="16"/>Die wijn es rouwe om nederheit</l>
+<l>Ende penitentie ende arbeit.</l>
+<l>Ja, rouwe om datmen der groter minnen</l>
+<l>Te lettel es in allen sinnen,</l>
+<l n="25">Altoes in hope ende in vresen te sine</l>
+<l>Jn dronckenscape van desen wine.</l>
+<l>Die meester die dese cracht priset</l>
+<l>Dats omme dat si grote werke bewiset.</l>
+<l>Die andere starcke es die coninc:</l>
+<l n="30">Die versmadet alle dinc</l>
+<l>Sonder datter rechter minnen hoert,</l>
+<l>Ende en wilt el gheen confoert.</l>
+<l><milestone unit="fol" n="76vb"/> Dit sijn die gheestelike arme,</l>
+<l>Daer ic van herten omme karme</l>
+<l n="35">Dat ict nie ghesijn en conste,</l>
+<l>Want mi die minne niene onste.</l>
+<l>Die arme van gheeste es een coninc</l>
+<l>Die verwinnet licht alle dinc:</l>
+<l>Hebben, willen, ende begheren;</l>
+<l n="40">Ere, raste, ghebruken, t&lt;h&gt;eren.</l>
+<l>Dus ghedane arme en willen niet,</l>
+<l>Dan allene dat die minne ghebiet.</l>
+<l>Dus es hi arm, want hi niet en heuet</l>
+<l>Daer sine begherte iet an cleuet.</l>
+<l n="45">Hi es coninc, want hi bedwinghet</l>
+<l>Al dat hem minne niene bringhet.</l>
+<l>Die derde eest wijf die starcst es.</l>
+<l>Die derde meester vermat hem des,</l>
+<l>Om dat si den coninc ende alle man</l>
+<l n="50">Verwinnen mach ende wale can.</l>
+<l>Dit wijf es oetmoedicheit,</l>
+<l>Die hare so hout in nederheit</l>
+<l><edition n="17"/>Dat si hare seluen niene verhoghet:</l>
+<l>Al mochte si werken alle die doghet</l>
+<l n="55">Die alle menschen moghen die leuen,</l>
+<l>En soude hare ghene raste gheuen.</l>
+<l>Ghene sake en gheraect haren gront.</l>
+<l>Ghewareghe oetmoedicheit en verstont</l>
+<l>Al dat minne gheleisten mochte,</l>
+<l n="60">Dat hare niet ghenoech en dochte.</l>
+<l>Dit es die starcste wel met rechte:</l>
+<l>Si maect van heerscape knechte;</l>
+<l>Die alre fierst was inden hemel,</l>
+<l>Dien maecte de&lt;n&gt; diepe&lt;n&gt; gront so temel</l>
+<l n="65">Dat hi vte sijnre hoecheit viel</l>
+<l>Jn dien grondelosen wiel.</l>
+<l>Want hare oetmoet was so groet</l>
+<l>Dat si den coninc te hare gheboet.</l>
+<l>Si was starcst, dat sceen hare wale.</l>
+<l n="70">Die noch woude wonen inden dale</l>
+<l>Van oetmoede, hi soude verwinnen</l>
+<l>Alle die crachte der groter minnen.</l>
+<l>Versmaetheit begherdi alte clene;</l>
+<l>Dat let v hier ane meest allene.</l>
+<l n="75"><milestone unit="fol" n="77ra"/> Die vierde es waerheit: si verwint al</l>
+<l>Dat was ende es ende wesen sal.</l>
+<l>Hare ghewout es minnen leuen;</l>
+<l>Hare oefeninghe ende hare gheuen</l>
+<l>Beueet der vierre crachte daet,</l>
+<l n="80">Ende doet al leuen na haren raet.</l>
+<l>Si benempt die cracht vanden wine</l>
+<l>Ende sconincx die starcst pleghet tsine,</l>
+<l>Ende swijfs die staerc es meer,</l>
+<l><edition n="18"/>Ende der waerheit doetse selue keer.</l>
+<l n="85">Daer men volcomelike mint</l>
+<l>Ende metten crachten wel bekint,</l>
+<l>Daer mint men ewelec als men soude,</l>
+<l>Ende ic gherne minde ende hebben woude.</l>
+<l>Die mint en ontsiet noch en bekint</l>
+<l n="90">Weder hem minne haet ochte mint.</l>
+<l>Die mint hine ghemist niet</l>
+<l>Waer hem vrome oft scade ghesciet.</l>
+<l>Ghere onderscedenheit en pleghet minne;</l>
+<l>Si es vri in allen sinne;</l>
+<l n="95">Si es oueruloedich in haer ambachten;</l>
+<l>Sine can der waerheit niet gheachten.</l>
+<l>Si es so edel ende so coene,</l>
+<l>Beide in latenne ende in doene;</l>
+<l>Si en aensiet scade no vrome,</l>
+<l n="100">Op dat si in hare seluen come.</l>
+</text>
+<text><head type="comment"><pb n="20"/> 3</head>
+<l>God si hen allen god diene minnen,</l>
+<l>Ende hem allene Minnen werdich kinnen,</l>
+<l><edition n="21"/>Ende dies beghinnen met worden, met werken,</l>
+<l>Ende metter wet der heylegher kerken,</l>
+<l n="5">Ende voert ane dolen in minnen raet:</l>
+<l>Na deemster onthopen hoghe toeuerlaet.</l>
+<l>Ay, hoe onghehoert sijn minnen weghe</l>
+<l>Eer minne met minnen wint sege]</l>
+<l>Die seghe in minnen wilt ghewinnen</l>
+<l n="10">Hi moet hem chieren in allen sinnen</l>
+<l>Ende na minnen ghetame sijns al vertien</l>
+<l>Ende met hare doemen ende benedien</l>
+<l>Hem seluen ende dat hi haet ende mint,</l>
+<l><milestone unit="fol" n="77rb"/> Dat hi minnen so sijn recht bekint</l>
+<l n="15">Dat hi niet en wilt ende minne en heuet</l>
+<l>Hem niet tontsegghenne sine gheuet.</l>
+<l>Want die mint hem es al vremde raste</l>
+<l>Ende pine ende ouerlaste.</l>
+<l>Begherte dore graeftenne alse een wiel;</l>
+<l n="20">So moet minne dat veruullen gheheel.</l>
+<l>Ay, hoe moet hi hem vertien al</l>
+<l>Die hem gheheel der minnen gheuen sal,</l>
+<l>Ende hoe ghestede sijnse in elendegher pinen]</l>
+<l>Dat doen hare worde, hare werken scinen.</l>
+<l n="25">Dat toende die moeder wel der minnen:</l>
+<l>An hare mocht ment ierst bekinnen.</l>
+<l>Al was te voren om minne ghedaen,</l>
+<l>Bi hare mocht ment al verstaen.</l>
+<l>Sine ontsach wet noch van maghen</l>
+<l n="30">Ghewoente, miede, dreighen, prijs noch claghen.</l>
+<l>Si liet al omme hare eneghe lief.</l>
+<l>Ende waest dan recht datse minne verhief,</l>
+<l><edition n="22"/>Doen makese minne der minnen moeder.</l>
+<l>Waeromme verghet des iemant vroeder?</l>
+<l n="35">Van hare te sprekenne es mi te groet.</l>
+<l>Want ic nie en dede dat minne gheboet:</l>
+<l>Ende si dede der minnen hoechsten raet</l>
+<l>Ende dore doelde hare toeuerlaet,</l>
+<l>Tote dat si op clam int hoechste lant</l>
+<l n="40">Daer si minne in ghebruken voluant.</l>
+<l>Dus doet mi nederheit van hare swighen</l>
+<l>Ende haerre hoecheyt nighen.</l>
+<l>Al droech hare boem uele urochten</l>
+<l>Daer men oec af spreken mochte:</l>
+<l n="45">Heren, vrouwen, ende ioffrouwen,</l>
+<l>Die dore mine der hoechster trouwen</l>
+<l>Onderdanich waren toter doet</l>
+<l>Jn al dat hen die minne gheboet:</l>
+<l>Van al den anderen latic bluien;</l>
+<l n="50">Van ere willic een deel bescriuen</l>
+<l>Daermen van gheestegher minnen</l>
+<l>Grote tekene ane mach kinnen</l>
+<l>Ende groet exempel mach nemen af,</l>
+<l><milestone unit="fol" n="77va"/> Hoe enich si hare der minnen gaf.</l>
+<l n="55">Dat was maria magdalene,</l>
+<l>Die ene met minnen was ghemene.</l>
+<l>Ja, origenes seghet van marien:</l>
+<l>Die minnen van gheestegher Minnen mach lien,</l>
+<l>Die dore leiden marien leuen,</l>
+<l n="60">Ende hen gheheel in minnen gheuen;</l>
+<l>Ende diene moghen wisen in behaghenne</l>
+<l>Ende segghen: dit seide hi mi, ic saghenne,</l>
+<l><edition n="23"/>Si selen leuen herde elendich</l>
+<l>Ende op hare matherie behendich</l>
+<l n="65">Die si ontmoeten in pine, in raste,</l>
+<l>Jn verlichtenne, in coste, in laste,</l>
+<l>Op dat si der minnen ghenoeghen moghen;</l>
+<l>Si souden hem eens ende alles belouen.</l>
+<l>Die in allen hem dus der minnen gheuet</l>
+<l n="70">Dat minne te hem niet tsegghen en heuet,</l>
+<l>Dien toent hem god in enen vliene</l>
+<l>Jn sconen ghelate van goet ghesciene</l>
+<l>Ende sprect hem toe verhoelne woerde</l>
+<l>Die hi bekint, ende die nie en becorde</l>
+<l n="75">Vremde herte die hare vore minne iet spaert</l>
+<l>Ende alle vren in minnen niene staert.</l>
+<l>Want die fier ende ghewarich der minnen sijn</l>
+<l>Si lesen hare vonnessen in minnen anscijn,</l>
+<l>Ende sijn altoes in minnen wakende.</l>
+<l n="80">Hem es enich wonder nakende;</l>
+<l>Ja, wonder vore ons die minne niet en kinnen,</l>
+<l>Maer gherechtecheit vore hen die al gheuen der minnen.</l>
+<l>Want dat scoenste leuen dat ic weet,</l>
+<l>Al wetict mi wel onghereet,</l>
+<l n="85">Dat waer datmen gode liet bewerden</l>
+<l>Jn nemen, in gheuen, in storme, in verden</l>
+<l>Waerdt in minnen, waerdt in haten:</l>
+<l>Dat soude al effenne sijn te maten;</l>
+<l>Woude god comen, woudi gaen,</l>
+<l n="90">Dat soudemen al in minnen verstaen</l>
+<l>Ende nemenne also hi selue es minne,</l>
+<l><edition n="24"/>Ende en euffenen ghene affectie daerinne.</l>
+<l>Want god es best met gode tontfane,</l>
+<l><milestone unit="fol" n="77vb"/> Ende te behoudenne ende naest te verstane.</l>
+<l n="95">Die hem met hem seluen te gode doet,</l>
+<l>Jc wane hem god ontbliuen moet;</l>
+<l>Want nieman hem ghenoech ghedoen en can</l>
+<l>Die draghet die ymagie vanden erdschen man.</l>
+<l>Gheuoelen wij iet, wij werdenn gherenen,</l>
+<l n="100">Ende verliesen redenne ende willenre op lenen</l>
+<l>Ende wanen een sijn met dat wij minnen.</l>
+<l>Dus breken wij tspel eer&lt;t&gt; wijt ghewinnen.</l>
+<l>Die ane dreghet den erdschen man</l>
+<l>Besie die scout der redennen an,</l>
+<l n="105">Die sine reghele es, ende die hem leert</l>
+<l>Die werke die men ter minnen keert,</l>
+<l>Ende hoe men minne mach behouden,</l>
+<l>Ende waer met minne heuet minnen vergouden.</l>
+<l>Als men dus gode hantiert met minnen</l>
+<l n="110">Ende met minnen sijn[s] gnoech mach kinnen</l>
+<l>Dats hem die mensche niet en onderwint,</l>
+<l>Alsenne god dus ene minne vint,</l>
+<l>So es sijn siele verswolghen in enen wille</l>
+<l>Des ouersten gherochs inde diepste stille.</l>
+<l n="115">Job seide, hi hadde tuerhoelne ontfaen.</l>
+<l>Oec heuet selc sint so ghedaen.</l>
+<l>Te rechte eest hen verholen, die nemen</l>
+<l>Gherne vremde troeste ende dat ghetemen.</l>
+<l>Die gode hen seluen willen ghemicken</l>
+<l n="120">Ende ghenoechte soeken in allen sticken,</l>
+<l>Ende laten hare regele ledich bliuen</l>
+<l><edition n="25"/>Ende soeken sonder werc gherinen,</l>
+<l>Die en selen gode sien noch van hem verstaen,</l>
+<l>Also minne ende iob hebben ghedaen,</l>
+<l n="125">Ende si doen die alles om gode vertien</l>
+<l>Ende met hem al doemen ende benedien,</l>
+<l>Ane wien dat gheet; gods werc es hen</l>
+<l>Bouen alle ghenuechte in haren sen.</l>
+<l>Den minnenden dunct al onghedaen</l>
+<l n="130">Wat hi do&lt;e&gt;re minne mach bestaen.</l>
+<l>Jc moet der minnen onmate seden</l>
+<l>Verswighen bi mijnre nederheden</l>
+<l>Tote daticker bekinne mee.</l>
+<l><milestone unit="fol" n="78ra"/> Dien minne gheuet onghenadich wee,</l>
+<l n="135">Dat sal sijn dat alre naeste wesen.</l>
+<l>Maer salne minne meer ghenesen,</l>
+<l>Legghe hare den breidel op den hals,</l>
+<l>Ende si hare onderdanich als,</l>
+<l>Ende doredole die weghe in minnen raet:</l>
+<l n="140">Dat si sijn rijcste toeuerlaet,</l>
+<l>Ende bliue in haren eneghen moet.</l>
+<l>Jc segghe: ay, edele minne, nv doet</l>
+<l>Jn al uwen hoghen wille met mi:</l>
+<l>Eest doet, eest leuen, v scout al si.</l>
+</text>
+<text><head type="comment"><pb n="27"/> 4</head>
+<l>Ic bidde gode die alre doghet meester es</l>
+<l>Dat hi v ter minnen make ghetes</l>
+<l>Ende met sijnre heylegher cracht behoede,</l>
+<l>Ende met sijnre sueter minnen voede.</l>
+<l n="5">Jc bidde der heilegher driwldicheit</l>
+<l>Dore hare ghenade ende om haer goedheit,</l>
+<l>Ghelijc si v met haren beelde heeft gheeert,</l>
+<l>Dat ghi int wesen so werdt volleert</l>
+<l>Dat ghi met redenen moet verstaen</l>
+<l n="10">Wat god dore v heeft ghedaen,</l>
+<l>Ende wat hi in allen woude menen,</l>
+<l>Ende den sin daer hi v inne heeft verscenen</l>
+<l>Dat ghijt moet merken ende bekinnen</l>
+<l>Met volcomennen dienste der minnen.</l>
+<l n="15">Leefdi met redenen in waerheit,</l>
+<l>So licht v al uwe arbeit,</l>
+<l>So lust uwen wille wel te leuenne</l>
+<l>Ende allen dienst te vollen te gheuenne,</l>
+<l>Ende so es hi vlietich ende starc</l>
+<l n="20"><pb n="28"/> Ende en ontsiet pine noch werc;</l>
+<l>Ende dan wert coene uwe memorie</l>
+<l>Ende in hare sal regneren glorie,</l>
+<l>Ende daertoe toeuer laet met trouwen</l>
+<l>Dat si haren god te vollen sal scouwen.</l>
+<l n="25">Die toeuerlaet heeft te sinen god,</l>
+<l>Hi mint raet, hi mint ghebod;</l>
+<l>Hem es alle pine bequame;</l>
+<l>Want hi gherne volmaectheit name</l>
+<l>Daer hi gode met ghenoechde,</l>
+<l n="30"><milestone unit="fol" n="78rb"/> Ende die driewldicheit met beroerde,</l>
+<l>Die ghesciert es ende schiert so scone</l>
+<l>Dat grote rike, die hoghe trone</l>
+<l>Die elc heuet in sine natuere:</l>
+<l>Daerane hadde elc creatuere</l>
+<l n="35">Ghenoech te doene, die soude kinnen</l>
+<l>Jn hoe herteliker minnen</l>
+<l>God dese drie ghegheuen heuet</l>
+<l>Daer men also neder in leuet,</l>
+<l>Alse die menschen nv leuen daer inne</l>
+<l n="40">Die niet en verstaen gherechte minne.</l>
+<l>Wat holpe dat ic van minnen sprake?</l>
+<l>Die minne es v te hoghen sake.</l>
+<l>Want ghi sijt ionc ende v es onbekent</l>
+<l>Hoe hi minnen ghenoech es die mint.</l>
+<l n="45">Daer omme haest v ter doghet</l>
+<l>Met al dat ghi gheleisten moghet,</l>
+<l>Jn latenne datte latenne behoert,</l>
+<l>Ende al te scuwenne dat minne te stoert,</l>
+<l>Ende al te doene dat minne iet eert</l>
+<l n="50">Ende soeket in al dat minne leert,</l>
+<l><edition n="29"/>Ende gheldet dat ghi der minnen sijt sculdich,</l>
+<l>Ende sijt al toter doet verduldich.</l>
+<l>Ghine selt niet allene verdraghen</l>
+<l>Vernoy sonder beclaghen,</l>
+<l n="55">Maer ghine moecht niet weten dat v iet si,</l>
+<l>Maer altoes segghet: der doghet ghebrect mi</l>
+<l>Daer ic minne bi soude vercrighen.</l>
+<l>Hoe langhe salic hare dus ontbliuen?</l>
+<l>En salic hare nemmermeer ghenoeghen?</l>
+<l n="60">Ghene andere sake en sal v bedroeuen;</l>
+<l>Ghine moghet niet weten dat ghi doghet:</l>
+<l>Dore minnen ere het al ghenoeghet,</l>
+<l>Alse instrumente te goeden werken.</l>
+<l>Dit sal uwe redenne verlichten ende sterken.</l>
+<l n="65">Ghine selt niet allene sijn milde,</l>
+<l>Maer als die nie en hadde noch hebben wilde.</l>
+<l>Op alle dinc siet alse op dorne,</l>
+<l>Ende en keert v te siene no te horne</l>
+<l>Ghene sake van vremden dinghe,</l>
+<l n="70">Ja, van &lt;recreatien&gt; creatueren sonderlinghe</l>
+<l><milestone unit="fol" n="78va"/> Daer ghi ghenoechte in moecht hebben;</l>
+<l>Maer altoes voedet ter edelre crebben;</l>
+<l>Dat v minne niene vinde verladen</l>
+<l>Jeghen hare ende ieghen hare raden.</l>
+<l n="75">Talder mesdaet hebt ghenade,</l>
+<l>Bi minnen ghebode, bi minnen rade.</l>
+<l>So slachti der hoghere minnen natuere,</l>
+<l>Die so soete es datse elc vre</l>
+<l>Jn minnen verslendet dat men haer doet,</l>
+<l n="80">Eest lief, eest leet, eest arch, eest goet.</l>
+<l><edition n="30"/>Die minne si gheuoelt al minnen,</l>
+<l>Sine can niet el dan minne bekinnen.</l>
+<l>Die al doer der minnen ere doet</l>
+<l>Sijn dienst heeft gherne goeden spoet;</l>
+<l n="85">Sijn wille heeft altoes nuwen vlijt.</l>
+<l>Dus biddic v dat ghi die ghene sijt</l>
+<l>Die altoes nauwe om minne poghet</l>
+<l>Hare lieue te doene; gherne doeghet</l>
+<l>Om minnen wille: al dies ghi moghet</l>
+<l n="90">Ontberen dies ontbeert in uwer ioghet.</l>
+<l>Offert der minnen op gheheel</l>
+<l>Vwe herte sonder weder deel.</l>
+<l>Dus laet uwen wille leuen in vlijt</l>
+<l>Ende siet dat ghi der minnen ghenoech sijt.</l>
+<l n="95">Ende altoes, so wat ghi doet,</l>
+<l>Emmer blijft in enen moet.</l>
+<l>So sal uwe memorie coene wesen</l>
+<l>Ende hare vonnesse in gode lesen,</l>
+<l>Ende met trouwen gode ane sien.</l>
+<l n="100">Daerbi sal al van v vlien</l>
+<l>Dat uwe wesen mochte bedroeuen.</l>
+<l>Doet al dat minnen mach ghenoeghen</l>
+<l>Ende dies ghi in dogheden ghenieten moghet.</l>
+<l>Ende altoes hout u ane die doghet.</l>
+<l n="105">Dus hout v drieuuldicheit in ghereke</l>
+<l>Ende mint gode soeteleke.</l>
+</text>
+<text><head type="comment"><pb n="31"/> 5</head>
+<l>God si uwe troest in alle saken</l>
+<l>Ende make&lt;n&gt;u cont der minnen smaken,</l>
+<l>Daer ghi bi al doghen moghet,</l>
+<l><milestone unit="fol" n="78vb"/> Ende doe v cont gherechte doghet.</l>
+<l n="5"><pb n="32"/> Die minne selue es wert best gheciert</l>
+<l>Met doeghenne, daer menich gherne af vliet.</l>
+<l>Want wie nu ghenen troest en heuet,</l>
+<l>Hem dunct dat hi in dolen leuet.</l>
+<l>Die raste heuet na sijn ghenoeghen,</l>
+<l n="10">Het dunct hem al ter volmaectheit voeghen.</l>
+<l>Dus sijn die meneghe nv bedroghen</l>
+<l>Ende wanen volmaect sijn: dats gheloghen.</l>
+<l>Wouden si met redenen besien</l>
+<l>Wat hen bi volmaectheiden soude&lt;n&gt; ghescien,</l>
+<l n="15">Ende woudense om doghen dan minne begheuen,</l>
+<l>Hen soude gruwelen dat si leuen.</l>
+<l>Wildi v ter hoechster minnen keren</l>
+<l>Ende volmaecteleke hare weghe volleren,</l>
+<l>So seldi altoes met berrenden sinne</l>
+<l n="20">Soeken nuwe doghen om minne.</l>
+<l>Ghi sult minne selue ghewerden laten:</l>
+<l>Hi sal alle pine met minnen orsaten.</l>
+<l>Laetti v doghen sijn pine,</l>
+<l>Sone mindi niet, dats wel in scine.</l>
+<l n="25">Wildi rouwes pleghen ende van doghenne weten,</l>
+<l>So hebdi onser minnen al vergheten,</l>
+<l>Die al verwint ende vwewinnen soude</l>
+<l>Den ghenen die hare volwesen woude.</l>
+<l>Wildi met mi oec minnen pleghen,</l>
+<l n="30">Siet in wat doghenne ic hebbe gheleghen,</l>
+<l>Dat v onghereet ware te doghenne,</l>
+<l>So begert dan doghen om te hoghenne,</l>
+<l>Dat wij te gadere in een bekinnen</l>
+<l>Moghen ghebruken onser minnen.</l>
+<l n="35">Nu laet ons beiden so ghereiden,</l>
+<l><edition n="33"/>Dat ons minne moghe thare seluen leiden,</l>
+<l>Jnt hoechste ghereide daer die minne</l>
+<l>Ewelike sal wesen inne.</l>
+</text>
+<text><head type="comment"><pb n="34"/> 6</head>
+<l>Ic bidde gode dat hi uwe sinne</l>
+<l>Voeghe in sine ghewareghe minne,</l>
+<l>Ende hi v met hem seluen verlichte</l>
+<l>Ende met sijnre dieper waerheit berichte,</l>
+<l n="5"><milestone unit="fol" n="79ra"/> Want van mi sals v vele ghebreken,</l>
+<l>Al woudi[c] oec om uwen orbare spreken.</l>
+<l>Die bi v sijn hulpen v clene;</l>
+<l>Dus steet v met gode te leuenne allene:</l>
+<l>Met hem steet v best te doene.</l>
+<l n="10">Wildi vri leven ende coene</l>
+<l>Ende in hem veruaen in alre tijt,</l>
+<l>So keert in hem al uwen vlijt</l>
+<l>Ende merct ende leert in allen kinnen</l>
+<l>Die storme van gherechter minnen.</l>
+<l n="15">Doetmen v arch ochte goet</l>
+<l>Alles blijft gheheel in uwen moet;</l>
+<l>Geheel blijft in allen saken.</l>
+<l>So suldi minne kinnen ende smaken.</l>
+<l>Dat seggic v diet bat verstaet</l>
+<l n="20"><pb n="35"/> Dat rechte minne ende cranc bereat</l>
+<l>Niet wel en moghen over een.</l>
+<l>Want minne volghet eerleec leen:</l>
+<l>Gherechte waerheit, vaste trouwe,</l>
+<l>Vroude, bliscap, suete rouwe.</l>
+<l n="25">Doghet gherne ellendichede</l>
+<l>Ende wet dat es der minnen sede;</l>
+<l>Ende staet met trouwen hen allen bi</l>
+<l>Dien ghi wet dat ghi iet ter minnen si.</l>
+<l>Jn trouwen ende in sconen dienste</l>
+<l n="30">Troest die ghene die ghi sijt vrienst[e],</l>
+<l>Ende die v in trouwen met trouwen sijn.</l>
+<l>jc beuele v der minnen fijn</l>
+<l>Ende ic bidde der edelre trouwen</l>
+<l>Dat si v wesen moete scouwen</l>
+<l n="35">Metten oghen vander minnen</l>
+<l>Ende doe v al hare wesen kinnen.</l>
+<l>God si met v in alre tijt</l>
+<l>Ende make in hem al uwe delijt</l>
+<l>Buten alle vremde sorghe;</l>
+<l n="40">Dies gheue hi v die minne te borghe.</l>
+<l>Mi es leet dat ghi so luttel cont bekinnen</l>
+<l>Hoe ghedaen hi es in sijnre minnen:</l>
+<l>Dat soudic ouer gherne sien,</l>
+<l>Mocht bi mi iet te eer ghescien,</l>
+<l n="45"><milestone unit="fol" n="79rb"/> Daer woudic ouer gherne om pinen</l>
+<l>Ende met werken wel doen scinen.</l>
+<l>Jc bidde gode dat hi v spoet</l>
+<l>Daer toe gheue ende uwen moet</l>
+<l>Verlichte na sine edelheit,</l>
+<l n="50">Ende moet v die waerdicheit</l>
+<l><edition n="36"/>Van sijnre natueren doen begheren,</l>
+<l>Ende in sijn edele natuere teren,</l>
+<l>&lt;Verheffen in die edelheit sijnre natueren</l>
+<l>Ende in sijn minne moete vueren,&gt;</l>
+<l n="55">Die uwe wesen moete&lt;n&gt; voeden</l>
+<l>Ende tonser beider behoef behoeden.</l>
+<l>Ay, lieue, settet al uwe ghedachte</l>
+<l>Jn gods minne die v ghewrachte.</l>
+<l>Der minnen beueelt al uwe wesen;</l>
+<l n="60">So suldi alre qualen ghenesen,</l>
+<l>Ende pine en seldi niet ontsien</l>
+<l>Noch vernoy in ghene dinc vlien.</l>
+<l>Op minne suldi v verlaten,</l>
+<l>Te rechte minnen, te rechte haten.</l>
+<l n="65">Van alle dinghen sijt te vreden:</l>
+<l>Dats teken vander minnen seden.</l>
+<l>Dat ghi v beswaert so lichte</l>
+<l>Benemt v meneghe scone ghichte.</l>
+<l>Wildi v van minnen te gode verlaten</l>
+<l>Ende houden v in caritaten,</l>
+<l>So en saelt v niet ontbliuen,</l>
+<l>Ghi selt v lief dan wel ghecrighen.</l>
+</text>
+<text><head type="comment"><pb n="37"/> 7</head>
+<l>Gode beuelic uwe sinne,</l>
+<l>Dat hi v minne doe daerinne</l>
+<l>Ende lere v sinen wille leuen,</l>
+<l>Ende rechte waerheit der waerheyt gheuen,</l>
+<l n="5">Ende sonder vensen leuen in trouwen,</l>
+<l>Ende moet v leuen bescouwen.</l>
+<l>Nu siet dat ghi v haest ter doghet</l>
+<l><edition n="38"/>Met al dat ghi gheleisten moghet.</l>
+<l>Ende al den ghenen dient die minnen,</l>
+<l n="10">Om datse v hulpen die weghe kinnen</l>
+<l>Die ter hoechster minnen behoren,</l>
+<l>Die god met werke hadde vercoren:</l>
+<l><milestone unit="fol" n="79va"/> Die sijns vader wille vrachte</l>
+<l>Ende des heyl[e]chs gheests eneghe ghedachte.</l>
+<l n="15">Een enich wille was alle har werc.</l>
+<l>Met hem wilt ende wert enich ende sterc.</l>
+<l>Ende gheuet in minnen al uwe ghedachte</l>
+<l>Den soeten god die v ghewrachte,</l>
+<l>Die v dies gheholpen heuet</l>
+<l n="20">Dat ghi bi den ghenen leuet</l>
+<l>Die hoghe minne te gode draghen,</l>
+<l>Ende v in letteren sijns ghewaghen</l>
+<l>Ende v wisen die hoechste doghet</l>
+<l>Die ghi gherne leren moghet,</l>
+<l n="25">Ende blide moecht sijn vanden gherede</l>
+<l>Dat ghi ter minnen selt hebben ghelede.</l>
+<l>Alst yser heet es salment slaen:</l>
+<l>Hier bi seldi v haesten saen</l>
+<l>Die wile dat ghi hebt uwe ioghet</l>
+<l n="30">Ende ghi doghet vercrighen moghet.</l>
+<l>Maer werdi traghe ende lat</l>
+<l>Ende ghi niet en vordert dat</l>
+<l>Dat ic wille ende hebbe beuolen,</l>
+<l>So soudi noch sere dolen;</l>
+<l n="35">Alle uwe vriende souden v begheuen;</l>
+<l>Ghi soudt in groter scaden leuen.</l>
+<l>Maer dies en es ghene noet.</l>
+<l>Onse god die v gheboet</l>
+<l><edition n="39"/>Hi moet v hulpen ende staen in staden</l>
+<l n="40">Van al dien dies ghi sijt verladen.</l>
+<l>En laet v ghene dinc verladen wesen;</l>
+<l>So suldi met minnen alles ghenesen.</l>
+<l>Sijt oetmoedich ende verduldich</l>
+<l>Bider trouwen die ghi gode sijt sculdich;</l>
+<l n="45">Ende begheert gherne te sine altoes</l>
+<l>Ellendich ende vriendeloes,</l>
+<l>Om minnen ere, tote v god troest</l>
+<l>Ende selue vander elenden verloest.</l>
+<l>Doedi iet min, des seldi v scamen.</l>
+<l n="50">God make v na sijn ghetamen.</l>
+</text>
+<text><head type="comment"><pb n="40"/> 8</head>
+<l>Die iet behout in inneghen sinnen,</l>
+<l>Hine mach niet volwassen der minnen.</l>
+<l><milestone unit="fol" n="79vb"/> Men moet al minne met minnen bestaen,</l>
+<l>Sal der minnen ghenoech werden ghedaen.</l>
+<l n="5">Maer dat en mach men niet werken</l>
+<l>Met al den dienste der heylegher kerken;</l>
+<l>Maer die hem in der minnen al op gheuet</l>
+<l>Ende alder yoyen bistier leuet,</l>
+<l>Ende ane ghene affectie en verueet</l>
+<l n="10">Ende altoes doelt na onghereet;</l>
+<l>Want hi der minnen gherne gnoech dade</l>
+<l>Ende storm noch onghenade</l>
+<l>En spaert vore minnen waerdicheit.</l>
+<l>Dat seghet die boec der wijsheit:</l>
+<l n="15">Gloriose vrocht sal hi bekinnen</l>
+<l>Die vele doghet om hoghen van minnen.</l>
+<l>God moet v gheuen in minnen spoet,</l>
+<l>Ende moet uwen hoghen moet</l>
+<l>Verheffen in sine edelheit,</l>
+<l n="20">Ende moet v alle die waerheit</l>
+<l>Van sijnre natueren doen begheren</l>
+<l>Ende in sine edele minne doen teren,</l>
+<l>Die uwe minne moete voeden</l>
+<l>Ende tonser beider behoef behoeden.</l>
+<l n="25">Hier toe namic v gherne ghereet.</l>
+<l>Dat ghi iet lettet dats mi leet;</l>
+<l>Swaer eest mi dat ghi iet mert;</l>
+<l>Dies bennic dicke in v verert.</l>
+</text>
+<text><head type="comment"><pb n="42"/> 9</head>
+<l>God si v troest ter rechter minnen</l>
+<l>Ende doe v hoghe minne bekinnen</l>
+<l>Ende die waerheit die ghi hem sculdich sijt,</l>
+<l>Ende make in hem al uwen vlijt.</l>
+<l n="5">Wildi beghinnen dat werc der minnen,</l>
+<l>So suldi ane dat werc beghinnen</l>
+<l>Dars die gods sone an began,</l>
+<l>Doen hi ons leuen quam een man.</l>
+<l>Also hi leefde suldi leuen</l>
+<l n="10">Ende alle vroude om hem begheuen.</l>
+<l>Also hi die sine begaf, sal elc die sine</l>
+<l>Begheuen die leuen wilt in minnen fine.</l>
+<l>Jc bidde v dat ghi begheuet</l>
+<l>Vwes selfs ende der minnen leuet</l>
+<l n="15">Jn ellende ende in vernoye.</l>
+<l><milestone unit="fol" n="80ra"/> Ic en wille niet dat v moye</l>
+<l><edition n="43"/>Dat v dore gode in minnen mescomt,</l>
+<l>Want alle pine dore minne vroemt</l>
+<l>Datmen om minne vele doghet,</l>
+<l n="20">Op dat mens ghene mate en toghet,</l>
+<l>Als die bi minnen scinen in werre</l>
+<l>Ende maken ocsuyn ende tonen hen erre:</l>
+<l>Dat es pine die niet en vroemt,</l>
+<l>Noch niemanne bate af en coemt.</l>
+<l n="25">Want die onspoede bedroeuen minne</l>
+<l>Ende letten sere in allen sinne.</l>
+<l>Maer des hebdi clene te doene.</l>
+<l>Jc woude ghi vroet wert ende coene</l>
+<l>Jeghen gode strijt te makene.</l>
+<l n="30">Want het benemt die soete smake</l>
+<l>Die minne den ghelieuen gheuet</l>
+<l>Dat men ene vre niet met vreden en leuet.</l>
+<l>Also enich gheuet uwe sinne</l>
+<l>Te gode purlijc in rechter minnen</l>
+<l n="35">Dat ghi leeft in soe soeten moede</l>
+<l>Dat v sake en werde te goede</l>
+<l>Dan allene god ochte niet.</l>
+<l>Want die van gode smakes heuet iet</l>
+<l>Wert hi gherenen van binnen</l>
+<l n="40">Jn rechten gheuoele siere enegher minnen,</l>
+<l>Sone wert hem sake meer te goede;</l>
+<l>Maer alle dinc bitteren in sinen moede</l>
+<l>Noch hi hem seluen noch heyleghe noch mensche</l>
+<l>En valt hem meer als tenen wensche.</l>
+<l n="45">Hem sijn alle andere saken pine</l>
+<l>Sonder om minne in minnen dienste te sine,</l>
+<l>Alle vren steruen ende om minne doyen,</l>
+<l><edition n="44"/>Ocht in gheuoelne van minnen ioyen.</l>
+<l>Hier inne moet v god verhoghen</l>
+<l n="50">Ende en late v ten anderen saken doghen.</l>
+<l>Al segghic dus deo gracias,</l>
+<l>Jc en wiste nie wie die ghene was</l>
+<l>Die minne gaf bliscap ende vrie weghe:</l>
+<l>Jeghen minne hebbic onseghe;</l>
+<l n="55"><milestone unit="fol" n="80rb"/> Het es wel recht, ic swighe der claghe</l>
+<l>Dat ic van hare hebbe nachte bi dage;</l>
+<l>Jc hebbe te clenen cost ghegheuen</l>
+<l>Om minne daer ic vri bi mochte leuen.</l>
+<l parse="ignore">Maer al en hebbic ghene vissche,</l>
+<l parse="ignore" n="60">Jc en wille ghene vorsche</l>
+<l parse="ignore">Noch oec vlieder besien</l>
+<l parse="ignore">Vore wijn torssche:</l>
+<l parse="ignore">Al en hebbic ghene minne,</l>
+<l parse="ignore">Jc en wille niet el,</l>
+<l parse="ignore"n="65">Weder si mi si goet ochte fel.</l>
+</text>
+<text><head type="comment"><pb n="46"/> 10</head>
+<l>So wie steet na sonderlinghen kinnen</l>
+<l>Hem ghebrect een poent van gherechter minnen.</l>
+<l>Al selc kinnen eischt men dicke te vroech;</l>
+<l>Ende dat en es niet ghenoech.</l>
+<l n="5">Want het scijnt een willicheit,</l>
+<l>Ende niet vanden gheeste een gheleit.</l>
+<l>Want waert ene leidinghe van gheeste,</l>
+<l>God soudt herde saen gheleesten.</l>
+<l>Ende dats te kinschelike ghemint</l>
+<l n="10">Datmen vele sonderlingheyden wilt,</l>
+<l>Ende verkiest in delite te wesenne.</l>
+<l>Dats ghebreken van hoghen leuenne.</l>
+<l>Men sal om gheuoelne noch om kinnen</l>
+<l><edition n="47"/>Dienen, dan slechs te minne[n] met minnen in &lt;Minnen,</l>
+<l n="15">Datmen die helle niet en ontsaghe,</l>
+<l>Noch om des hemels hope en dade,</l>
+<l>Ende datmen omme helle ende om hemel</l>
+<l>Ware euen blide ende euen t&lt;h&gt;emel,</l>
+<l>Ende datmen minde sonder sate</l>
+<l n="20">Ende begerde bouen mate</l>
+<l>Ende bouen redenne ende bouen sin,</l>
+<l>Dat ware in minnen groet ghewin.</l>
+<l>Als men name, soudemen gheuen;</l>
+<l>Ende dat minne eyscede soudemen leuen.</l>
+<l n="25">Als men der zielen kinnisse gheuet,</l>
+<l>So weetse datse in minnen leuet;</l>
+<l>Ende alse gheuoelt alendichede,</l>
+<l>So machse kinnen der minne sede.</l>
+<l>Al datse dan mach gheleisten,</l>
+<l n="30"><milestone unit="fol" n="80va"/> Sal minne ghebieden haerre ende eyschen.</l>
+<l>Leeft si dan dus der minnen ghenoech,</l>
+<l>Dat es wel der minnen gheuouch.</l>
+<l>Men moetse vueffenen met herten, met sinnen,</l>
+<l>Ende volghen met trouwen ende met minnen.</l>
+<l n="35">Nochtan datmen niet en weet van minnen,</l>
+<l>Verliestmen, als men mach kinnen.</l>
+<l>Herte ende crachte ende al de sinne,</l>
+<l>Ende den wille heeft ghebonden de minne;</l>
+<l>Ende den menschen moetmen so vele gheuen</l>
+<l n="40">Datmen gheplaecht wert in dit leuen;</l>
+<l>Metten ellendeghen doghet men noet,</l>
+<l><edition n="48"/>Ende metten verslaghenen die doet;</l>
+<l>Metten katyuen dooghet men smertelijcheit,</l>
+<l>Ende metten minnenden hertelijcheit.</l>
+<l n="45">Die der minnen om minne te dienste wilt staen,</l>
+<l>Hi moet in meneghen onraste ontfaen.</l>
+<l>Die naheit vander minnen natueren</l>
+<l>Die beneemt der sielen hare ghedueren:</l>
+<l>So si meer comt, so si meer steelt;</l>
+<l n="50">So si meer toent, so si meer heelt.</l>
+<l>Die der minnen met minnen sal ghestaen,</l>
+<l>Al leuende moet hi die doet anegaen,</l>
+<l>Om dat hem in minnen iet mochte ontbliuen</l>
+<l>Dat hi met arbeide mochte vercrighen.</l>
+<l n="55">Die natuere die alle crachte verwent</l>
+<l>Doet ende leuen gheeft ende nemt,</l>
+<l>Si es soe crachtich in haren doene,</l>
+<l>Sine ontsiet niet, si es so coene;</l>
+<l>Jn hare es alle die macht van gode;</l>
+<l n="60">Der minnen wesen es in hare ghebode;</l>
+<l>Daer minne met minnen in minne es</l>
+<l>Dat es een grondeloes abes;</l>
+<l>Daer moetense al in hare verdrincken</l>
+<l>Die hen in hare laten sincken;</l>
+<l n="65">Ende die hare volghen in hare natueren</l>
+<l>Dien geeft si een onghedurich dueren.</l>
+<l>Die minne sprinct wt haers selfs natueren</l>
+<l>Ende doet die herten in minnen berueren;</l>
+<l>Die volghen der cracht der treckender minnen</l>
+<l n="70"><pb n="49"/><milestone unit="fol" n="80vb"/> Selen die edelheit daer sise in heeft kinnen.</l>
+<l>Dat en mochte niemant andere[n] vertellen,</l>
+<l>Noch ghescriuen noch ghespellen,</l>
+<l>Die minne met minnen heeft ghemint</l>
+<l>Wat hi al wonders in die hoecheit vint.</l>
+<l n="75">Nochtan en moghen der minnen begherden</l>
+<l>Met al desen niet ghestilt we&lt;e&gt;rden.</l>
+<l>Si richt hare in al bouen hare hebben:</l>
+<l>Minne en laet hare en gheen raste hebben:</l>
+<l>Al ware te gadere tdoghen al,</l>
+<l n="80">Die ye was, ende es, ende wesen sal,</l>
+<l>En mochte also vele niet winnen</l>
+<l>Alse begherte van rechter minnen:</l>
+<l>Si grijpt te doghenne bouen maten</l>
+<l>Ende te werkenne dat hare minne wilt laten;</l>
+<l n="85">Si ontfeet een onlede ende [e]en onghedueren;</l>
+<l>Die minne en laetse niet ghedueren;</l>
+<l>Si valt in onrasten van edeldere ontrouwen</l>
+<l>Die sterkere ende hoghere es dan van trouwen:</l>
+<l>Trouwe die men met redenen mach</l>
+<l n="90">Saten, ende met sinne ghewerden mach,</l>
+<l>Si laet hare dicke ghenoeghen</l>
+<l>Dat ontrouwe[n] niene mach voeghen;</l>
+<l>Trouwen moet dicke ontbliuen</l>
+<l>Dat ontrouwe mach ghecrighen;</l>
+<l n="95">Edele ontrouwe en mach niet resten</l>
+<l>Eer si vercrijcht dat alre beste;</l>
+<l>Al dat minne es wiltse vercrighen:</l>
+<l><edition n="50"/>Dies en mach hare niet ontbliuen.</l>
+<l>Hier af gheuoelse meneghe suere,</l>
+<l n="100">Dat minne mocht beteren in corter vre;</l>
+<l>Die dreghet si alst quame van ontrouwen,</l>
+<l>Datse wel weet dat comt van trouwen;</l>
+<l>Van begherten van onghedueregher minnen</l>
+<l>En machse ghene raste ghewinnen,</l>
+<l n="105">Ende van begherten der sterkere minnen</l>
+<l>Verliesse raste ende ghedueren van binnen.</l>
+<l>So si hogher in minnen versinct,</l>
+<l>So si na hare begherte onghereder vent;</l>
+<l>Want men in ellenden niet ghenoch vinden en mach</l>
+<l n="110"><milestone unit="fol" n="81ra"/> Noch begherte veruult werden en mach;</l>
+<l>Want si comt vte so hogher natueren,</l>
+<l>Sine mach in ghene clene dinc ghedueren.</l>
+<l>Minne vliet ende begherte volghet naer,</l>
+<l>Ende vint emmer ongherede stat daer.</l>
+<l n="115">Die hoecheit en machse niet vercrighen;</l>
+<l>Dat minne selue es moet hare ontbliuen.</l>
+<l>Mochte die ziele die natuere bekinnen</l>
+<l>Daer si van gode in ghemint es met minne,</l>
+<l>So soudse sere in verlanghene doyen</l>
+<l n="120">Ende al in ghenoechten vloyen.</l>
+<l>Dat ware te groten raste in trouwen.</l>
+<l>Die mint moet doghen vele rouwen:</l>
+<l>Die ter trouwen dienste wilt staen</l>
+<l>Ende trouwe van trouwen wilt ontfaen</l>
+<l n="125">Ende in hogher trouwen wilt leuen</l>
+<l>Ende in haren dienste nemen ende gheuen</l>
+<l>Na haren recht, si vri, starc ende coene</l>
+<l>Altoes haren liefsten wille te doene;</l>
+<l>Spaert hi daer vore ere ocht ghemac,</l>
+<l n="130">So es hi die vrient die ter noet ghebrac.</l>
+</text>
+<text><head type="comment"><pb n="52"/> 11</head>
+<l>God si met v ende gheue v al</l>
+<l>Te minnen dat men minnen sal,</l>
+<l>Ende te hatenne dat te hatenne es,</l>
+<l>Ende talre waerheit te sine ghetes.</l>
+<l n="5">Dient der waerheit waer ghi moghet</l>
+<l>Ende en spaert v voere ghene doghet</l>
+<l>Noch omme ghemac noch omme ere.</l>
+<l>Daer omme doghet gherne vele kere:</l>
+<l>Waerheyt en heeft gheenre eren te doene;</l>
+<l n="10">Si es altoes in hare seluen coene.</l>
+<l>Hout ewechlike vwe edelheit</l>
+<l>Ende en spaert ghenen arbeit;</l>
+<l>Sijt ghenadich die vus behoeuen;</l>
+<l>Troest die ghene die hen gedroeuen;</l>
+<l n="15">Dient der minnen in alre tijt,</l>
+<l>Ende set in hare al uwen vlijt.</l>
+<l>Alle storme seldi dore hare nighen;</l>
+<l>Dore hare ere suldi swighen</l>
+<l>Als ghi ouergherne spraect;</l>
+<l n="20">Als ghi gherne sliept, so waect;</l>
+<l><milestone unit="fol" n="81rb"/> Als ghi gherne sweghet, so sprect;</l>
+<l>Ende niemanne en ghebrect.</l>
+<l>Ane al uwe seden sijt in maten</l>
+<l>Jn uwe doen ende in uwe laten.</l>
+<l n="25">Die scout die ghi gode sculdich sijt</l>
+<l>Die gheldet gherne in alre tijt,</l>
+<l>Beide in haten ende in minnen;</l>
+<l>Dat pijnt v te leerne kinnen.</l>
+<l>Dat v ontmoet in uwen sin</l>
+<l n="30"><pb n="53"/> Daer merct inne v scade ende uwe ghewin,</l>
+<l>Weder het een wille si so gheest;</l>
+<l>Daer inne leghet subtijlheyt alre meest.</l>
+<l>Het wanen liede sijn van gheeste</l>
+<l>Gheleidt, hets een wille alremeeste.</l>
+<l n="35">Si wanen oec dat hen dat doemt</l>
+<l>Dat troest es ende van gode coemt.</l>
+<l>Dit sijn drie subtile saken</l>
+<l>Die den mensche meest volmaken</l>
+<l>Van alden poenten die men pleghet.</l>
+<l n="40">Die wijsheit die hier inne leghet</l>
+<l>Es onbekint ende onuerstaen;</l>
+<l>Want die menschen niet en ontfaen</l>
+<l>En willen pine dore minnen ere:</l>
+<l>Si maken nu so vele kere.</l>
+<l n="45">En belghet v niet dat ic dus spreke;</l>
+<l>Het doet trouwe, niet uwe ghebreke.</l>
+<l>Ghi wet een deel hoe ghi sout leuen,</l>
+<l>Al doets v roekeloesheyt begheuen.</l>
+<l>God si met v in alre tijt</l>
+<l n="50">Ende make in hem al uwe delijt.</l>
+</text>
+<text><head type="comment"><pb n="55"/> 12</head>
+<l>In gode, die es onse minne,</l>
+<l>Also verre alsic minne bekinne,</l>
+<l>So ware mi leet, hine ware allene</l>
+<l>Dat wij minnen ende me&lt;y&gt;nen:</l>
+<l n="5">Met selker minnen als es hi,</l>
+<l>Lieue herte, so groetic di,</l>
+<l>Ende met dat ic ben sonder vergheten.</l>
+<l>Ghi wet wel, al doe ict v weten,</l>
+<l><edition n="56"/>Dat minne wilt &lt;h&gt;ueffennen daer men haer si</l>
+<l n="10">Ende weten wat men haer es; dan leefse vri.</l>
+<l><milestone unit="fol" n="81va"/> Immer wiltse horen ende prueuen</l>
+<l>Om verbliden ende om bedrueuen;</l>
+<l>Daer en mach minne niet sijn sonder;</l>
+<l>Si es emmer tempererende in wonder;</l>
+<l n="15">So sere verstormt es minnen natuere,</l>
+<l>Datse niet rusten en mach ene vre</l>
+<l>Sine pleghe haers liefs in sueter minnen,</l>
+<l>Ochte in storme van sinnen.</l>
+<l>God heeft ons wonder ghedaen</l>
+<l n="20">Dat hi ons met minnen heeft bestaen.</l>
+<l>Nadien dat wiere toe sijn ghemaect</l>
+<l>Te wetenne hoe minne met minnen smaect,</l>
+<l>So keert v met gherechter doghet</l>
+<l>Ter soeter minnen al dat ghi moghet,</l>
+<l n="25">Te pleghenne met allen goede seden</l>
+<l>Met soeten sinne, met vollen vreden.</l>
+<l>Waect inden bant van rechter minnen</l>
+<l>Ende pijnt v te verstane die stimme</l>
+<l>Daer minne selue mede sprect.</l>
+<l n="30">Siet dat ghi hare niet en ghebrect:</l>
+<l>Es minne v suete, es si v wreet,</l>
+<l>Sijt tharen wille altoes ghereet.</l>
+<l>Also plaghics ye, ende also ict versta</l>
+<l>Steet oec ic "audi filia".</l>
+<l n="35">Sidi dochter so gheloeft den vader;</l>
+<l>Sijt te sinen dienste ghereet algader.</l>
+<l>Voert ane suldi gods werc besien</l>
+<l>Ende alle noet werken in alle dien</l>
+<l>Die ws behoeuen, al so hise wrachte,</l>
+<l n="40"><pb n="57"/> Jn wille, in werken, in ghedachte.</l>
+<l>Daer na heethi neyghen die oeren,</l>
+<l>Datmen der minnen stemme sal horen:</l>
+<l>Ghehorsam te sine van buten, van binnen,</l>
+<l>Ende niet te wetenne dan den wille der minnen.</l>
+<l n="45">Als men dus der minnen ghehorsam si</l>
+<l>So salmen vergheten al daer bi:</l>
+<l>Svolcs van vremden ende van bekinden,</l>
+<l>Van ghe&lt;h&gt;achten ende van gheminden;</l>
+<l>Ende vergheten alre creatueren,</l>
+<l n="50">Om te ghedinkenne die suetheit van Minnen natueren.</l>
+<l><milestone unit="fol" n="81vb"/> Hi heet vergheten thuus haers vader,</l>
+<l>Omme dat hire ghebruken wilt algader,</l>
+<l>Ende dat al der gherre sijn vergheten</l>
+<l>Die den hemel hebben beseten,</l>
+<l n="55">Jnghelen, heyleghen, hier der menscen;</l>
+<l>Mochte men van hen hebben dwenschen,</l>
+<l>Dat menre bi hem al verghete,</l>
+<l>Ende allene van enechheden der minnen wete.</l>
+<l>Als ghi omme hem dus wilt veruaren,</l>
+<l n="60">Sal die coninc v scoenheit begharen.</l>
+<l>Want ghene scoenheyt in sine natuere</l>
+<l>En ghenoeghet dan sine natuere puere.</l>
+<l>Als men el niet en can ghedincken</l>
+<l>Dan hem dore cussen ende daer inne sinken,</l>
+<l n="65">Dats godleec leuen na gods ghenoeghe.</l>
+<l>Die hem dus enich &lt;al&gt;der minnen al op droeghe,</l>
+<l>Die scoenheit beghert hi, ende chierter hem mede,</l>
+<l><edition n="58"/>Na sijn ghenoeghen, na minnen sede.</l>
+<l>Die ghene es godlec, segghen die liede.</l>
+<l n="70">Maer dien selke godlijcheit nie en ghesciede,</l>
+<l>Sine scoenheit en beghert die coninc niet.</l>
+<l>Ontferme v dats so luttel ghesciet,</l>
+<l>Ende siet dat die coninc v beghere.</l>
+<l>Mi dunct dat icker mi af veruere,</l>
+<l n="75">Dat hi onbeniedt ende onbekint</l>
+<l>Vanden sinen blijft ende onghemint;</l>
+<l>Dat hi niet met sijnre natueren en mach</l>
+<l>Ghebruken dies hat hi in minnen versach.</l>
+<l>Ay, begheeft elcs al, ende eyscht dat al,</l>
+<l n="80">Ende besiet wat wondere dat al dan werken sal:</l>
+<l>Dat eyselijcste wonder dat ye wert,</l>
+<l>Die dierste scoenheit die de coninc begert,</l>
+<l>Diere hi met sijnre gheheelre natueren</l>
+<l>Ghebruken wilt in een ghedueren,</l>
+<l n="85">Ende dat scone met eenre scoenheit ontmoete[n],</l>
+<l>Ende groeten met eenre enegher groeten;</l>
+<l>Ende dat cussen met enen eneghen monde,</l>
+<l>Ende te vergrondenne die eneghe gronde,</l>
+<l>Ende met enen siene te doresiene al</l>
+<l n="90">Dat es, ende was, ende wesen sal;</l>
+<l><milestone unit="fol" n="82ra"/> Ende dat al met eenre wijsheit vroeden</l>
+<l>Ende met enen wille van eneghen moeden,</l>
+<l><edition n="59"/>Ende met enen rike al euen rike</l>
+<l>Jn eenre vormen, in enen ghelike,</l>
+<l n="95">Ende in een gheuoelen, in eenre ghewelt van al,</l>
+<l>Die voldoet, als hi noch weten sal.</l>
+<l>Ay, mi es onbekint wie dat es]</l>
+<l>Gode ende sinen gheminden ontfarme des]</l>
+<l>Van dienste van minnen wetic raet;</l>
+<l n="100">Maer alst te diere veffeninghen gaet</l>
+<l>Hoe men met minnen lieues pleghet,</l>
+<l>So es mijn weten saen gheseghet.</l>
+<l>So varic also pleghet die blinde,</l>
+<l>Ende make vanden beghinne mijn inde.</l>
+<l n="105">Alse lief met lieue gheet minnen leuen,</l>
+<l>Daer soudemen scone beghinne gheuen;</l>
+<l>Daer moet hijt inden dies niet en weet,</l>
+<l>Ende dien gheuoelen van minnen es onghereet.</l>
+<l>Nu, al en beghert ons die coninc niet,</l>
+<l n="110">Dat ons wee si ende verdriet,</l>
+<l>Wij selen gherne neyghen die oeren,</l>
+<l>Ende alse een sijnre kindere hoeren</l>
+<l>Ende sien ende merken ende verstaen</l>
+<l>Wat hi wilt ende dore ons heeft ghedaen,</l>
+<l n="115">Ende selen vergheten vremder dinghe</l>
+<l>Ende alre ioyen sonderlinghe</l>
+<l>Van vrienden van beneden van bouen,</l>
+<l>Ende van allen doghenne der minnen louen,</l>
+<l>Ende selen hopen omme goet gheual</l>
+<l n="120">Dat ons minne noch volgheuen sal.</l>
+<l>Mochten wij doch om minne ghelaten</l>
+<l>Vremde troeste ende orsaten,</l>
+<l><edition n="60"/>Ende wij ons chierden in scone ghelaet,</l>
+<l>Jn hoghen wille, in hoghe daet]</l>
+<l n="125">Minden wij met minnen al dat si mint</l>
+<l>Ende ware hare glorie ons bekint,</l>
+<l>So soudse hare seluen doen daer binnen</l>
+<l>Jn een ghebruken, in een bekinnen.</l>
+<l>Dies hulpe ons Jhesus Christus</l>
+<l n="130">Die selue&lt;n&gt; van minnen allen lost</l>
+<l><milestone unit="fol" n="82rb"/> Ende alle doghet heuet gheopenbaert,</l>
+<l>Ende met sijnre claerheit verclaert,</l>
+<l>Hi moet ons minnen condich maken</l>
+<l>Ende verclaren al onse saken,</l>
+<l n="135">Ende onse herte ende onsen sin,</l>
+<l>Ende doen sijn eneghe minne daer in,</l>
+<l>Die ons doe weten hoe men hem sal</l>
+<l>Jn volmaecheyden leuen al.</l>
+<l>Nu sijt met waerheiden al beset</l>
+<l>Ende haest v dat ghi ons niene let.</l>
+<l>Die tijt es cort hier es vele te doene;</l>
+<l>Sijt fier ter minne ende coene.</l>
+</text>
+<text><head type="comment"><pb n="61"/> 13</head>
+<l>Dat suetste van minnen sijn hare storme;</l>
+<l>Haer diepste afgront es haer scoenste vorme;</l>
+<l>Jn haer verdolen dats na gheraken;</l>
+<l>Om haer verhongheren dats voeden ende smaken;</l>
+<l n="5">Hare mestroest es seker wesen;</l>
+<l>Hare seerste wonden es al ghenesen;</l>
+<l>Om hare verdoyen dat es gheduren;</l>
+<l>Hare berghen es vinden alle vren;</l>
+<l>Om hare quelen dat es ghesonde;</l>
+<l n="10">Hare helen openbaert hare conde;</l>
+<l>Hare onthouden sijn hare ghichten;</l>
+<l>Sonder redenne es hare scoenste dichten;</l>
+<l>Hare gheuangnesse es al verloest;</l>
+<l>Hare seerste slaen es hare suetste troest;</l>
+<l n="15">Hare al berouen es groot vromen;</l>
+<l>Hare henen varen es naerre comen;</l>
+<l>Hare nederste stille es hare hoechste sanc;</l>
+<l>Hare groetste abolghe es hare liefste danc;</l>
+<l>Hare groetste dreighen es al trouwe;</l>
+<l n="20">Hare droefheit es boete van allen rouwe;</l>
+<l>Hare rijcheit es hare al ghebreken.</l>
+<l>Noch machmen meer van minnen spreken:</l>
+<l>Hare hoechste trouwe doet neder sinken;</l>
+<l>Hare hoechste wesen doet diep verdrincken;</l>
+<l n="25">Hare grote rijcheit maect armoede;</l>
+<l><edition n="62"/>Haers vele vercreghen toent onspoede;</l>
+<l>Hare troesten maect die wonden groot;</l>
+<l>Hare hanteren brinct meneghe doet;</l>
+<l><milestone unit="fol" n="82va"/> Hare voeden es hongher; hare kinnen es dolen;</l>
+<l n="30">Verleidinghe es wijse van harer scolen;</l>
+<l>Hare hanteren sijn storme wreet;</l>
+<l>Hare ghedueren es in onghereet;</l>
+<l>Hare toenen es hare seluen al helen;</l>
+<l>Hare ghichten sijn mere weder stelen;</l>
+<l n="35">Hare gheloeften sijn al verleiden;</l>
+<l>Hare chierheiden sijn al oncleiden;</l>
+<l>Hare waerheit es al bedrieghen;</l>
+<l>Hare sekerheyt scijnt meneghen lieghen.</l>
+<l>Dies ic ende menich dat orconde</l>
+<l n="40">Wel moghen draghen in alre stonde,</l>
+<l>Die[n] de minne dicken heuet ghetoent</l>
+<l>Saken daer wij&lt;bi&gt; sijn bi ghehoent,</l>
+<l>Ende waenden hebben dat hare bleef.</l>
+<l>Sint si mi ierst die treken dreef</l>
+<l n="45">Ende ic ghemercte al hare seden,</l>
+<l>So hildicker mi al anders mede;</l>
+<l>Hare ghedreich, hare ghelouen</l>
+<l>Daer met en werdic meer bedroghen.</l>
+<l>Jc wille hare wesen al datse si,</l>
+<l n="50">Si goet, si fel: al eens eest mi.</l>
+</text>
+<text><head type="comment"><pb n="65"/> 14</head>
+<l>Jn den hoghen name der minnen</l>
+<l>Die v hare wesen moet doen kinnen</l>
+<l>Sendic v hare hertelike groete,</l>
+<l>Ende bidde hare datse v al moete</l>
+<l n="5">Hare wesen tonen toten gronde,</l>
+<l>Datmen nie ghegronden en conde.</l>
+<l>Ay, hoe diep est die afgront der minnen</l>
+<l>Die nieman en conde bekinnen]</l>
+<l>Al datmens kint es luttel goet</l>
+<l n="10">Sint dats iet ontbliuen moet.</l>
+<l>Dats ons ontblijft dat comt bi liden</l>
+<l>Dat wij so slappelijc vorwert tiden,</l>
+<l>Ende met armen troeste leuen,</l>
+<l>Ende so luttel in storme van minnen gheuen.</l>
+<l n="15">Onse sinne ende onse crachte,</l>
+<l>Die lopen souden, staen in hachte</l>
+<l>Die weghe ter hogher minne grade</l>
+<l><edition n="66"/>Sonder pays ende sonder ghenade.</l>
+<l><milestone unit="fol" n="82vb"/> Die weghe die men loept ter minne[n]</l>
+<l n="20">En moghen die ghene niet kinnen</l>
+<l>Die ghemate sijn an hare werken</l>
+<l>Ende hen met ghenuechten sterken,</l>
+<l>Ende leuen in toren om scade, in bliscap om spoede,</l>
+<l>Bi vremden wesenne in houerdeghen moede.</l>
+<l n="25">Maer die volmaectelike woude kinnen</l>
+<l>Dat moghende wesen vander minnen,</l>
+<l>Hi soude met oetmoedegher herten</l>
+<l>Gheliken suetheide ende smerten</l>
+<l>Ende ontfaen in eenre glorien,</l>
+<l n="30">Jn enen wille, in eenre memorien,</l>
+<l>Suete ende suer, in een ghenoeghen,</l>
+<l>Ende alle pine sonder bedroeuen;</l>
+<l>Want minne mach herde wel orsaten</l>
+<l>Dat sware dolen harre straten.</l>
+<l n="35">So neder sal men in oetmoedicheit sinken,</l>
+<l>Ja bouen alre menschen ghedincken</l>
+<l>Die ter werelt gheboren sijn,</l>
+<l>Sal groetheit der minnen comen daer in.</l>
+<l>Wildi dus vallen ende in allen nighen,</l>
+<l n="40">So suldi volmaecte minne ghecrighen.</l>
+<l>Want dat haelde gode neder in marien;</l>
+<l>Ende mettien seluen soude hi noch lien,</l>
+<l>Die hem so neder in minne const hebben:</l>
+<l>Hine mocht hem sine hoecheit niet ontsegghen,</l>
+<l n="45">Hi soudenne ontfaen ende draghen tghetal</l>
+<l>Also een kint in zijnre moeder volwassen sal.</l>
+<l><edition n="67"/>Ghetrouwe vrese es dierste maent,</l>
+<l>Die al die werken hoet, ende spaent</l>
+<l>Ter heylegher wet ende ter waerheit gheboden.</l>
+<l n="50">Si doet professie doen in gode:</l>
+<l>Ghi wet wel, die professie doet</l>
+<l>Dat hi een wesen ghelouen moet</l>
+<l>Metten gheselscape daer hi es</l>
+<l>Te alder ghehorsamheit te sine ghetes.</l>
+<l n="55">Alse vrese dan die eerste maent</l>
+<l>Die ziele dus heuet ghemaent</l>
+<l>Talre ghehorsamheit van minnen</l>
+<l>Volmaecten dienst daer sijt mach kinnen,</l>
+<l><milestone unit="fol" n="83ra"/> Jn doet in leuen in alle dinc,</l>
+<l n="60">Dus ontfeetmen alse maria ontfinc,</l>
+<l>Ende in allen so diepe oetmoedicheit daer bi:</l>
+<l>Dats "ecce ancilla domini".</l>
+<l>Dus es die eerste maent bestaen;</l>
+<l>Met ghetruwer vresen heeftmen ontfaen.</l>
+<l n="65">Die andere maent es gherne doghen</l>
+<l>Om volmaecheit, ende nauwe poghen</l>
+<l>Die te leerne daermen mach.</l>
+<l>Daer vore en spaert ghenen slach;</l>
+<l>Waer ghi moghet beiaghet doghen;</l>
+<l n="70">Daer bint die waerheit der kinnessen die oghen.</l>
+<l>Ontfadi dat sonder uwe mesdaet,</l>
+<l>So dragdi minne inden hoechsten graet;</l>
+<l>Want in verduldicheit leertmen kinnen</l>
+<l>Hoemen pleghen mach groter minnen;</l>
+<l n="75">Want si doet meest wassen ende op gaen</l>
+<l>Dat vat daer minne in es ontfaen.</l>
+<l><edition n="68"/>Die derde maent hoghet tghetal,</l>
+<l>Alse men dus can verdraghen al</l>
+<l>Ende men weet datmen minne dreghet;</l>
+<l n="80">Dat es hueffenninghe die menre toe heuet:</l>
+<l>Altoes niedich ende onuerwonnen</l>
+<l>Ende also daer inne hebben connen</l>
+<l>Na die screfture die ons leret alsoe:</l>
+<l>Sobrie pie iuste viuamus in hoc seculo.</l>
+<l n="85">Die vierde maent es die suete natuere</l>
+<l>Daer soe weerdeghe creatuere</l>
+<l>Alse minne es met op wassen sal,</l>
+<l>Ende hare menichfuldeghe lede ouer al:</l>
+<l>Jn die stat daer mense in dreghet</l>
+<l n="90">Ende ouer al daerse lede heuet,</l>
+<l>Sal mense met sueter natueren hoeden</l>
+<l>Ende met ontsteken werken voeden.</l>
+<l>Die vijfte maent es heymelijc begaen</l>
+<l>Die suete dracht die men heeft ontfaen,</l>
+<l n="95">Heymelike te hueffenen die suet minne</l>
+<l>Ende die sware pine die minne brinct inne,</l>
+<l>Die hi gheuoelt die minne dus dreghet</l>
+<l>Ende met oetmoede ontfaen heuet.</l>
+<l><milestone unit="fol" n="83rb"/> Die seste maent es toeuerlaet</l>
+<l n="100">Daer men alle rijcheit af ontfaet</l>
+<l>Ende troest dat dat kint metter vrocht sal comen</l>
+<l>Volwassen, rike, ende gheuen alle vromen;</l>
+<l>Dus te verlatene op minnen sach</l>
+<l>Ende te hakenne na den hoghen dach</l>
+<l n="105">Dat gheboren werde dit edele kint</l>
+<l>Ende te vollen in vollen van vollen ghemint.</l>
+<l><edition n="69"/>Die seuende maent es gherechticheit;</l>
+<l>Die maect te nieute alle arbeit.</l>
+<l>Gherechticheit doemt ende benedijt</l>
+<l n="110">Elc wesen na sinen tijt,</l>
+<l>Ende nemt ende gheeft na ghetamen der minnen</l>
+<l>Ende bouen verstaen van allen sinnen.</l>
+<l>Der gherechticheit dogde sijn bouen natuere</l>
+<l>Ende maken seker die zielen ende puere,</l>
+<l n="115">Ende bi gheenre doghet en mach men bat kinnen</l>
+<l>Dat men in waerdheiden es van minnen</l>
+<l>Dan datmen in dogheden ieghen natuere</l>
+<l>Suete smake heuet sonder suere:</l>
+<l>Dats blide te sine in vernoye,</l>
+<l n="120">Dats in versmaetheyden te hebbenne ioye,</l>
+<l>Ende te minnen die v doen quaet.</l>
+<l>Dats seker van minnen die hoechste daet.</l>
+<l>Vrient met virenden, metten bliden blide,</l>
+<l>Dats pleghen van minnen in allen tide.</l>
+<l n="125">Maer dits ieghen natuere, ieghen macht,</l>
+<l>Ende der gherechticheit hoechste pacht,</l>
+<l>Daer men gode properlijcst bi dreghet</l>
+<l>Ende volcomenlike wassende binnen heuet.</l>
+<l>Die achtende maent es wijsheit van minnen</l>
+<l n="130">Ende hare wesen in allen weghen kinnen:</l>
+<l>Also vele als minne can gheminnen</l>
+<l>Verslendet die wijsheyt al van binnen.</l>
+<l>Die neghende maent es alse wijsheit slint</l>
+<l>Al dat si in minnen mint.</l>
+<l n="135">Dan comt ter minnen gheweldeghe tijt</l>
+<l>Ende stormt alle vren op wijsheit.</l>
+<l><edition n="70"/>Als men met allen dat men es</l>
+<l>Ghenoech es der minnen ende ghetes</l>
+<l><milestone unit="fol" n="83va"/> So werdt ter neghender maent gheboren</l>
+<l n="140">Dat kint dat oetmoet hadde vercoren.</l>
+<l>Dan heeft oetmoedicheit haer gheuoech</l>
+<l>Daer si hare seluen es mede ghenoech.</l>
+<l>Tusschen hen tween es dat kint voldreghen</l>
+<l>Dat in die grote stat heuet gheleghen:</l>
+<l n="145">Jnt diepste van oetmoede, int hoechste der minnen,</l>
+<l>Daer men met allen in allen sinnen</l>
+<l>Gode dus leeft met alre macht,</l>
+<l>Jn nuwe minne, dach ende nacht.</l>
+<l>So werdet god al datmen leuet;</l>
+<l n="150">Want hi inde scriftuere ghesproken heuet,</l>
+<l>So dat hijs niet en mach laten:</l>
+<l>Hi sal ons meten metter seluer maten</l>
+<l>Daer wij hem mede meten.</l>
+<l>Die dans aldus van minnen beseten</l>
+<l n="155">Sijn in wille, in werke, bouen den sinnen</l>
+<l>Te al haren wille ghenoech der minnen,</l>
+<l>Sal hi dan also meten weder,</l>
+<l>So moet hi hen dat hoghe gheuen neder</l>
+<l>Te haren wille, also sij hen gheuen,</l>
+<l n="160">Sal hi hen in een al leuen;</l>
+<l>Anders ware loghenne die orsate,</l>
+<l>Sone mate hi niet die selue mate.</l>
+<l>Nu es dit kint volwassen gheboren</l>
+<l>Dat bi oetmoedicheit was vercoren,</l>
+<l n="165">Ende es volwassen in hogher minnen</l>
+<l>Ende .IX. maende voldraghen binnen.</l>
+<l>Ende elke maent heuet weken viere</l>
+<l>Ende elke seghet ghereide ende chiere</l>
+<l><edition n="71"/>Jeghen den groten hoghen dach</l>
+<l n="170">Dat minne volboren werden mach.</l>
+<l>Dierste weke es macht, dander conste;</l>
+<l>Die derde wille, ende ghestade onste</l>
+<l>Die volmaect die viere weken</l>
+<l>Ende verwlt de maent sonder ghebreken.</l>
+<l n="175">Elc weke es van .VIJ. daghen;</l>
+<l>Die daghe sijn die seuenne gauen;</l>
+<l>Die moetmen hebben salmen lyden</l>
+<l><milestone unit="fol" n="83vb"/> Die .IX. maende tharen tiden.</l>
+<l>Wijsheit leert watmen doet;</l>
+<l n="180">Verstennesse orcont die werken goet;</l>
+<l>Met rade versteetmen der minnen ghenoech;</l>
+<l>Met crachte werctmen hare gheuoech;</l>
+<l>Met conste salmen lieues pleghen;</l>
+<l>Met ghenadicheit grote ghichten gheuen;</l>
+<l n="185">Met heilegher vresen salmen hoeden</l>
+<l>Al die werken ende met trouwen voeden.</l>
+</text>
+<!--
+<text><head type="comment"><pb n="72"/> 15</head>
+<lg1><lg2><l>Ic groete dat ic minne</l>
+<l>Met miere herten bloet.</l>
+<l>Mi dorren mine sinne</l>
+<l>Jnder minnen oerwoet.</l>
+</lg2>
+<lg2><l n="5"><pb n="73"/> Ay, hertelike suete minne,</l>
+<l>Volwasse na dijn wesen,</l>
+<l>So moghen mine sinne</l>
+<l>Vander doet ghenesen.</l>
+</lg2>
+<lg2><l>Ay, here ouer kare,</l>
+<l n="10">Waerdi dat ghi sijt</l>
+<l>Jn uwe natuere, so ware</l>
+<l>Jet mijns gheduerens tijt.</l>
+</lg2>
+<lg2><l>Ay, ouer suete raste,</l>
+<l>Haddi al dat uwe vercreghen,</l>
+<l n="15">So waren mine laste</l>
+<l>Verlicht die nv so weghen.</l>
+</lg2>
+<lg2><l>Ay, ouer suete natuere,</l>
+<l>Hoe ghedoet die herte dijn?</l>
+<l>Jc en can ghedueren ene vre,</l>
+<l n="20">Jc moet al der minnen sijn.</l>
+</lg2>
+<lg2><l>Ay, hertelike ioffrouwe,</l>
+<l>Dat ic so vele te v spreke,</l>
+<l>Dat doet mi nuwe trouwe</l>
+<l>Van dieper minnen treke.</l>
+</lg2>
+<lg2><l n="25">Ay, hadden wij dat wij hebben,</l>
+<l>So waren wij beide so rike,</l>
+<l>So soudemen luttel venden</l>
+<l>Jewerinc onse ghelike.</l>
+</lg2>
+<lg2><l>Ay, ic woede in moede met spoede</l>
+<l n="30">Na tgoede dat ic der minnen volsi;</l>
+<l><edition n="74"/>Ay, in woet zijn vroet dats spoet,</l>
+<l><milestone unit="fol" n="84ra"/> Ja in woet van minnen vri,</l>
+</lg2>
+<lg2><l>Jc hake, ic wake, ic smake</l>
+<l>Die sake die mi dunct soete;</l>
+<l n="35">Jc kinne met sinne daer es inne</l>
+<l>Die minne mijns euels boete.</l>
+</lg2>
+<lg2><l>Jc doge, ic poghe omt hoghe,</l>
+<l>Jc soghe met minnen bloede;</l>
+<l>Jc groete dat soete, dat moete</l>
+<l n="40">Boeten mine orewoede.</l>
+</lg2>
+<lg2><l>Jc beue, ic cleue, ic gheue,</l>
+<l>Jc leue op hoghen waen,</l>
+<l>Dat mine pine die fine</l>
+<l>Jn de sine sal al ontfaen.</l>
+</lg2>
+<lg2><l n="45">Ay, lief, hebbic lief een lief,</l>
+<l>Sidi lief mijn lief,</l>
+<l>Die lief gauet omme lief,</l>
+<l>Daer lief lief mede verhief.</l>
+</lg2>
+<lg2><l>Ay, minne, ware ic minne</l>
+<l n="50">Ende met minnen minne v minne]</l>
+<l>Ay, minne, om minne gheuet dat minne</l>
+<l>Die minne al minne volkinne.</l>
+</lg2>
+</lg1>
+</text>
+-->
+<text><head type="comment"><pb n="78"/> 16</head>
+<l>Die minne heuet .VIJ. namen,</l>
+<l>Als ghi wel wet dat hare ghetamen:</l>
+<l>Dat es bant, licht, cole, vier.</l>
+<l>Dese .IIIJ. namen sijn hare fier.</l>
+<l n="5">Die andere .IIJ. sijn groet ende stranc</l>
+<l>Altoes cort ende eeuwelike lanc:</l>
+<l>Dat es dau, leuende borne ende helle.</l>
+<l>Dat ic v dese namen vertelle</l>
+<l>Dats omme datse staen inder scriftueren,</l>
+<l n="10">Omme ghenoech te doene haren natueren,</l>
+<l>Datse orconden ende hebben ghetoent.</l>
+<l>Dat ic v niet en hebbe ghehoent,</l>
+<l>Dat minne al dese seden heuet,</l>
+<l>Hi saelt al kinnen die hare volleuet,</l>
+<l n="15">Daer vele wonders ane gheleghet,</l>
+<l>Dat ic v vormaels hebbe gheseghet.</l>
+<l>Bant essi wale, omme dat si bint</l>
+<l>Ende al in haren bedwanghe bekint.</l>
+<l>Hare bant es te allen wel ghehoert,</l>
+<l n="20"><milestone unit="fol" n="84rb"/> Als hi wel kint dies heeft becoert.</l>
+<l>Want si in midden den troest testoert;</l>
+<l>Si gheeft in allen rouwe confoert.</l>
+<l>Hare band doet dat ic van binnen</l>
+<l>Van pinen verscede, na mijn versinnen.</l>
+<l n="25">Hare band doet al voeghen</l>
+<l><edition n="79"/>Jn een ghebruken, in een ghenoeghen.</l>
+<l>Dit es die band, die al dat bint</l>
+<l>Dat deen den anderen dorekint</l>
+<l>Jn pine, in raste, in orewoet,</l>
+<l n="30">Ende etet sijn vleesch ende drinct sijn bloet,</l>
+<l>Ende dene herte dandere verteert,</l>
+<l>Dene siele dandere met storme doreueert,</l>
+<l>Also hi ons toende die selue es minne;</l>
+<l>Dat gheet bouen menschen sinne,</l>
+<l n="35">Die ons hem seluen gaf tetenne.</l>
+<l>Daer bi dedi ons te wetenne</l>
+<l>Dat dat ware die naeste der minnen</l>
+<l>Dore eten, dore smaken, dore sien van binnen.</l>
+<l>Hi et ons ende wij wanen hem eten.</l>
+<l n="40">Oec eten wine, dat moghen wij weten.</l>
+<l>Maer omme dathi blijft so onuerteert,</l>
+<l>Ende so ongherenen ende so onbegheert,</l>
+<l>Daer omme blijft elc ongheeten</l>
+<l>Ende so verre buten andere gheseten.</l>
+<l n="45">Die in desen bant wert beuaen</l>
+<l>Hi mach te vollen eten gaen,</l>
+<l>Wilt hi in gode ocht in menschen</l>
+<l>Dore kinnen, dore smaken bouen wenschen.</l>
+<l>Hare band doet weten wat dat si:</l>
+<l n="50">"Jc minen lieue ende mijn lief mi."</l>
+<l>Licht hare name doet al verstaen</l>
+<l>Wat den lieue ware meest mesdaen,</l>
+<l>Ende watter minnen best becomt,</l>
+<l>Ende wat saken dat minne meest doemt.</l>
+<l n="55">Jn desen lichte machmen kinnen</l>
+<l><edition n="80"/>Hoemen den mensche god sal minnen</l>
+<l>Ende god mensche ende hen beiden in een:</l>
+<l>Dit es een ouer rike leen.</l>
+<l>Cole haer name dat merke mi</l>
+<l n="60"><milestone unit="fol" n="84va"/> Wat teken dat in die scriftuere si.</l>
+<l>Het es een wonderlike prosent</l>
+<l>Dat god der sielen binnen sent,</l>
+<l>Jn al vercrighen, in al ghebreken,</l>
+<l>Jn soennen, in dreyghene, in wreken,</l>
+<l n="65">Jn troeste, in ioyen, in arbeyde,</l>
+<l>Jn al die onseden die ic seyde.</l>
+<l>Die cole es een bode snel</l>
+<l>Die der minnen dien herde wel;</l>
+<l>Sijn ambacht es sonder cessen;</l>
+<l n="70">Daer ane en mach die minne niet messen.</l>
+<l>Die cole ontstec dien die was cout;</l>
+<l>Si maect dien blode die was stout;</l>
+<l>Den varenden setse te voet;</l>
+<l>Den nederen maecse hoghen moet;</l>
+<l n="75">Den armen setse in een rike</l>
+<l>Dat hi niemanne en wike.</l>
+<l>Al dat vallen ende dat op staen,</l>
+<l>Dat nemen, dat gheuen, dat ontfaen</l>
+<l>Ontsteket ende blusschet bi orewoede</l>
+<l n="80">Die cole hare name. nv werdet moede</l>
+<l>Selue hier inne ende merket</l>
+<l>Wat onghehorder wondere hi werket</l>
+<l>Eer hi ten viere weder comt,</l>
+<l>Daer hijt al binnen verdomt,</l>
+<l n="85">Verbernet, verslindet ende verteert</l>
+<l><edition n="81"/>Dat ongheseghet was ende begheert.</l>
+<l>Vier hare name verberret al:</l>
+<l>Gheluc, spoet, ende ongheual.</l>
+<l>Van allen wesenne es hem al een.</l>
+<l n="90">Dien ye dit vier dus na ghereen</l>
+<l>Hem en es sake te wijt noch te inghe.</l>
+<l>Alse dit vier wert dus ouerghinghe</l>
+<l>So eest hem alleens wat verteert:</l>
+<l>Ghehaet, ghemint, ontseghet, beghert,</l>
+<l n="95">Ghewonnen, verloren, ghetamen, ontamen,</l>
+<l>Vrome, scade, ere, scamen,</l>
+<l>Troest met gode inden hemel te sine</l>
+<l>Ochte in die helsche pine:</l>
+<l>Dies es desen viere al een;</l>
+<l n="100"><milestone unit="fol" n="84vb"/> Het verberret al dat ye ghereen,</l>
+<l>Om doemen noch om benedien</l>
+<l>En es oec, dies maghic lien.</l>
+<l>Dau hare name heeft sijn ambacht:</l>
+<l>Alse dat vier dus al bernt met sijnre cracht,</l>
+<l n="105">So comt die dau ende maket al vocht,</l>
+<l>Als ene onghehoerde soete locht,</l>
+<l>Ende brinct dat cussen der edelre natueren</l>
+<l>Ende doetse in ongheduerne dueren.</l>
+<l>Die niedt verswelghet so hare gheuen,</l>
+<l n="110">Datse dies seden altoes moet pleghen.</l>
+<l>Dan werden alle die storme gheleghen</l>
+<l>Die daer waren op gheheuen;</l>
+<l>Daer wart een ghestille ghedaen</l>
+<l><edition n="82"/>Daer lief van lieue sal ontfaen</l>
+<l n="115">Selc cussen als wel ghetaemt der minnen.</l>
+<l>Alse hi lieue beueet in allen sinnen,</l>
+<l>Si doresughetse ende doresmaket.</l>
+<l>Alse minne die lieue dus gheraket,</l>
+<l>Si et hare vleesch, si drinct hare bloet.</l>
+<l n="120">Die minne diese dus verdoet</l>
+<l>Verleidet suetelike hen beiden</l>
+<l>Jn enen cussenne sonder sceiden;</l>
+<l>Dat cussen enicht scone</l>
+<l>Jn enen wesenne .IIJ. persone.</l>
+<l n="125">Dus soetet die edele dau den brant</l>
+<l>Die so verstormt was in minnen lant.</l>
+<l>Leuende borne hare seste name</l>
+<l>Volghet den dauwe wel bequame.</l>
+<l>Dat vloyen ende dat weder vloyen</l>
+<l n="130">Die ene dore dandere ende dat in groyen,</l>
+<l>Dat es bouen sinne ende verstaen,</l>
+<l>Bouen bekinnen ende bouen ontfaen</l>
+<l>Van menscheliken creatueren.</l>
+<l>Doch hebben wijt in onser natueren:</l>
+<l n="135">Die verhoelne weghe die minne doet gaen</l>
+<l>Ende met slaghen dat suete cussen ontfaen,</l>
+<l>Daer inne ontfeetmen dat suete leuende leuen,</l>
+<l>Dat den leuenden leuene leuen sal gheuen.</l>
+<l>Die name es leuende borne, omme dat hi voedet</l>
+<l n="140"><milestone unit="fol" n="85ra"/> Ende leuende sielen inden mensche hoedet</l>
+<l><edition n="83"/>Ende met leuenne vten leuenne ontspringhet</l>
+<l>Ende den leuenne vten leuenne nuwe leuen bringhet.</l>
+<l>Die leuende borne vloeit allen tijt</l>
+<l>Jn ouden ghewoenten, in nuwen vlijt,</l>
+<l n="145">Ghelijc dat vte gheuet die riviere</l>
+<l>Ende weder te hare haelt sciere:</l>
+<l>Also verslindet die minne haer gheuen.</l>
+<l>Dus es hare name borne ende leuen.</l>
+<l>Hare seuende name dat es helle</l>
+<l n="150">Der minnen daer ic aue quelle.</l>
+<l>Want si al verslindet ende verdoemt</l>
+<l>Ende in hare niemant op en comt,</l>
+<l>Die hare beualt ende diese beueet,</l>
+<l>Dat daer ghene ghenade toe en gheet.</l>
+<l n="155">Ghelijc dat die helle al verderuet</l>
+<l>Ende men in hare niet el en verweruet</l>
+<l>Dan onghenade ende sterke pine,</l>
+<l>Altoes in ongheduerne te sine,</l>
+<l>Altoes storm ende nuwe veruolghen,</l>
+<l n="160">Al verslonden ende al verswolghen</l>
+<l>Jn hare grondelose natuere</l>
+<l>Sinken in hitten, in coude elke vre,</l>
+<l>Jnder minnen diepe, hoghe deemsterheit.</l>
+<l>Dit gheet bouen der hillen arbeit.</l>
+<l n="165">Die minne kint, hare comen, haer gaen,</l>
+<l>Es hem cont, hi mach verstaen</l>
+<l>Datter minnen wel es bequame</l>
+<l><edition n="84"/>Dat helle es hare hoechste name.</l>
+<l>Nu merket hoe in dese namen sijn</l>
+<l n="170">Alle wesenne vander minnen fijn.</l>
+<l>So wijs en es herte dat haer ghedochte</l>
+<l>Vanden bande van minnen mochte</l>
+<l>Dat dusentechste deel gheopenbaren,</l>
+<l>Al liete si die andere .VJ. varen,</l>
+<l n="175">Vanden bande wert men seker des</l>
+<l>Dat vander minnen gheen sceden en es</l>
+<l>Bi ghenen wondere, bi ghere cracht.</l>
+<l>Dits der gauen der wijsheit macht.</l>
+<l>Menschelike herte en caent ghedoghen.</l>
+<l n="180"><milestone unit="fol" n="85rb"/> Doch moetse bandt met bande doghen.</l>
+<l>Van lichte hebben wij der minne hanteren,</l>
+<l>Haers willen kinnesse in allen manieren,</l>
+<l>Waer omme men die menscheit moet minnen</l>
+<l>Ghelijc der godheit ende bekinnen.</l>
+<l n="185">Metten cole ontstect si hen tween;</l>
+<l>Metten viere verbernt sise een,</l>
+<l>Ghelijc metten viere van den salamander</l>
+<l>Die fenix verbernt ende wert een ander.</l>
+<l>Metten dauwe wert die brant ghesacht,</l>
+<l n="190">Ende ghesaluet metter enegher locht.</l>
+<l>Die welheyt ende die orewoet</l>
+<l>Worpse dans in die diepste vloet,</l>
+<l>Die grondeloes es ende altoes leuet</l>
+<l>Ende metten leuenne hen drien een gheuet</l>
+<l n="195">Gode ende menschen in ene minne:</l>
+<l><edition n="85"/>Dits drieheit bouen alle sinne.</l>
+<l>Dese brenct dien seuenden name</l>
+<l>Die hoechst es ende best bequame.</l>
+<l>Dats hille na den wesenne dates minne.</l>
+<l n="200">Want si verderuet ziele ende sinne,</l>
+<l>So datse meer vercoeueren en moghen</l>
+<l>Noch te anderen saken en doghen,</l>
+<l>Dan verloren te sine in storme van minnen</l>
+<l>Met liue, met sielen, met herten, met sinnen,</l>
+<l n="205">Bliuende minnende inde hille verloren.</l>
+<l>Wie dat wilt, wachtere hem voren.</l>
+<l>Want vore minne es el gheen op staen</l>
+<l>Dan alle vren troeste ende slaghe ontfaen.</l>
+<l>Jnt march der herten die trouwe heeft binnen,</l>
+<l n="210">Sochtemen die offerande der vrayer minnen.</l>
+<l>Doen wij also, wij moeten winnen.</l>
+<l>Al es men verre, men saelt bekinnen.</l>
+<!--
+</text>
+<text><head type="comment"><pb n="87"/> <milestone robbie="openi195" />17</head>
+<lg1><lg2><l>Mi en pijnt</l>
+<l>Noch en gherijnt</l>
+<l>Dat ic moet dichten,</l>
+<l>Daer hi die leuet</l>
+<l n="5">Bi ons gheuet</l>
+<l>Sine ghichten,</l>
+</lg2>
+<lg2><l>Ende met nuwer mare</l>
+<l>Vte sinen clare</l>
+<l>Ons wilt verlichten.</l>
+<l n="10">Hi si ghebenedijt</l>
+<l><milestone unit="fol" n="85va"/> Jn alre tijt</l>
+<l>Jn allen anesichten.</l>
+</lg2>
+<lg2><l>Jn kinnen bloet</l>
+<l>Al eest groet</l>
+<l n="15">Dat mens vercrighet,</l>
+<l>Het scijnt alse niet</l>
+<l>Alse men besiet</l>
+<l>Dat daer ontbliuet.</l>
+</lg2>
+<lg2><l>Men moet crighen</l>
+<l n="20">Jn dat ontbliuen,</l>
+<l>Saelt sijn goet,</l>
+<l>Ochte het es te clene</l>
+<l>Algader reyne</l>
+<l>Wat datmen doet.</l>
+</lg2>
+<lg2><l n="25">Die in dat hoghe kinnen</l>
+<l>Der bloter minnen</l>
+<l><edition n="88"/>Waerdeloes</l>
+<l>Diepere crighen</l>
+<l>Venden hare ontbliuen</l>
+<l n="30">Meere altoes.</l>
+</lg2>
+<lg2><l>Nuwe mare</l>
+<l>Jn doncker clare</l>
+<l>Vinden si,</l>
+<l>Van hoghen prise</l>
+<l n="35">Sonder wise</l>
+<l>Jn verre bi.</l>
+</lg2>
+<lg2><l>Jn dat eweghe wide</l>
+<l>Jn alle side</l>
+<l>Sonder inden</l>
+<l n="40">Werdet si ghedeilt,</l>
+<l>Ghebreidet, gheheilt</l>
+<l>Jn een verslinden:</l>
+</lg2>
+<lg2><l>Die ghedachte</l>
+<l>Jn stilre iachte</l>
+<l n="45">Die dat onghemeten</l>
+<l>Al in al</l>
+<l>Venden sal</l>
+<l>Al ombegrepen.</l>
+</lg2>
+<lg2><l>Daer dunct hare baren</l>
+<l n="50">Sonder verclaren</l>
+<l><milestone unit="fol" n="85vb"/> Een simpel iet,</l>
+<l>Alse in vertien;</l>
+<l>Doch moet sijs lien</l>
+<l>Jn een bloet niet.</l>
+</lg2>
+<lg2><l n="55"><pb n="89"/> In dat bloete</l>
+<l>Staen die groete</l>
+<l>Die vercrighen</l>
+<l>Jn hare in sien,</l>
+<l>Jn sijn ontulien</l>
+<l n="60">Hare ontbliuen.</l>
+</lg2>
+<lg2><l>Wat mens vercrighet</l>
+<l>Vore dats ontbliuet</l>
+<l>Sekerlike</l>
+<l>Also ic meine</l>
+<l n="65">Dats alte cleine</l>
+<l>Te enegher ghelike.</l>
+</lg2>
+<lg2><l>Bi dies sijn si ga</l>
+<l>Ende volghen na</l>
+<l>Die dit bekinnen,</l>
+<l n="70">Die donckere pade</l>
+<l>Buten rade</l>
+<l>Altoes van binnen.</l>
+</lg2>
+<lg2><l>Dat en meest cost</l>
+<l>Ende hen best lost</l>
+<l n="75">Dats dit ontbliuen.</l>
+<l>Maer hoe dat es</l>
+<l>Des sijt ghewes:</l>
+<l>Men en maechs niet scriuen.</l>
+</lg2>
+<lg2><l>Maer redenen storme</l>
+<l n="80">Ende beelden vorme</l>
+<l><edition n="90"/>Moet men af gaen,</l>
+<l>Sal men van binnen</l>
+<l>Des iet kinnen</l>
+<l>Sonder verstaen.</l>
+</lg2>
+<lg2><l n="85">Die niet en gheroen</l>
+<l>Jn ander doen</l>
+<l>Dan hier es gheseit,</l>
+<l>Si eneghen hen</l>
+<l>Jn hare ierste beghin</l>
+<l n="90">Jn die ewicheit.</l>
+</lg2>
+<lg2><l><milestone unit="fol" n="85vc"/> Daer werdense in</l>
+<l>Hare ierste beghin</l>
+<l>Met hem so een</l>
+<l>Dat en mach ghelike</l>
+<l n="95">Jn eertrike</l>
+<l>So sijn van tween.</l>
+</lg2>
+<lg2><l>Jn die naheyt</l>
+<l>Der enicheit</l>
+<l>Sijn selke pure</l>
+<l n="100">Binnen altoes</l>
+<l>Bloet beeldeloes</l>
+<l>Sonder figuere;</l>
+</lg2>
+<lg2><l>Alse gheurijt</l>
+<l>Jn eweghen tijt</l>
+<l n="105">Onghescepen</l>
+<l>Jn stille wijt</l>
+<l>Sonder crijt</l>
+<l>Onbegrepen.</l>
+</lg2>
+<lg2><l><edition n="91"/>Ic en vinder in</l>
+<l n="110">Meer inde noch beghin</l>
+<l>Noch ghene ghelike,</l>
+<l>Daer ic woert</l>
+<l>Af mach brenghen voert</l>
+<l>Volcomelike.</l>
+</lg2>
+<lg2><l n="115">Jc wilt hier op gheuen,</l>
+<l>Hen diet leuen</l>
+<l>Jn hare bekeer;</l>
+<l>Het mocht dat inneghen dincken</l>
+<l>Die tonghe vermincken,</l>
+<l n="120">Sprake siere of mere.</l>
+</lg2>
+</lg1>
+</text>
+<text><head type="comment"><pb n="94"/> 18</head>
+<lg1><lg2><l>Maer nv hoert dat ghebod</l>
+<l>Dat ons god</l>
+<l>Doet bekinnen:</l>
+<l>Hoe wine met crachte</l>
+<l n="5">Wt alre ghedachte</l>
+<l>Selen minnen.</l>
+</lg2>
+<lg2><l>Met minnen crachte</l>
+<l>Moet die ghedachte</l>
+<l><milestone unit="fol" n="86ra"/> Haers seluesheyt</l>
+<l n="10">Sijn ontwronghen</l>
+<l>Ende verswonghen</l>
+<l>Jn ouerstheyt.</l>
+</lg2>
+<lg2><l>Daer werdse gheleydet</l>
+<l>Ghewidet, ghebreydet,</l>
+<l n="15">In deemsteren weghe,</l>
+<l>Ende verresen</l>
+<l>Jn een hoghe wesen</l>
+<l>In gracien seghe.</l>
+</lg2>
+<lg2><l><edition n="95"/>Dit moet sijn bestaen</l>
+<l n="20">Met herten ende voldaen</l>
+<l>Vte alre crachte,</l>
+<l>Daer men mint gode</l>
+<l>Na den meesten ghebode</l>
+<l>Vte alre ghedachte.</l>
+</lg2>
+<lg2><l n="25">Die criekel der dinghe</l>
+<l>Moet werden inghe</l>
+<l>Ende te nieute gheleidet,</l>
+<l>Sal die criekel bloet</l>
+<l>Werden wijt ende groet</l>
+<l n="30">Jn al ghebreidet.</l>
+</lg2>
+<lg2><l>Die ghedachte in god</l>
+<l>Es der minnen slod</l>
+<l>Jn die enecheyt</l>
+<l>Daer se minne heeft gheleydet</l>
+<l n="35">Ghewidet, ghebreydet</l>
+<l>Jn dies lichs claerheyt.</l>
+</lg2>
+<lg2><l>Het behoert edelen puren</l>
+<l>Dat si daer duren</l>
+<l>Ende niemanne el</l>
+<l n="40">Ende hem quite</l>
+<l>Van onghelike</l>
+<l>Houden wel.</l>
+</lg2>
+<lg2><l><edition n="96"/>Want dat edele lecht</l>
+<l>Gheuet sijn berecht</l>
+<l n="45">Sonderlinghe</l>
+<l>Na sijn rueken,</l>
+<l>Daer ne heuet gheen sueken</l>
+<l>Redenne noch meyninghe.</l>
+</lg2>
+<lg2><l>Men moetse buten</l>
+<l n="50"><milestone unit="fol" n="86rb"/> Verre sluten</l>
+<l>Ende binnen staen</l>
+<l>Jn .J. bloet stille</l>
+<l>Puer sonder wille,</l>
+<l>Ende also ontfaen</l>
+</lg2>
+<lg2><l n="55">Die edelheit</l>
+<l>Die ongheseyt</l>
+<l>Bliuet metter tonghen;</l>
+<l>Een nuwe verstaen</l>
+<l>Noeyt eer ontfaen</l>
+<l n="60">Vte dien oerspronghen.</l>
+</lg2>
+<lg2><l>Ay, hi es uwe</l>
+<l>Altoes nuwe,</l>
+<l>Edele ghedachte,</l>
+<l>Daer ghi inne ontdaen</l>
+<l n="65">Sijt ende gheuaen</l>
+<l>Met susseghedaenre iachte.</l>
+</lg2>
+<lg2><l>Nv bliuet daer</l>
+<l>Sonder vaer,</l>
+<l>Het es uwe ghewin,</l>
+<l n="70">Ende sijt blide</l>
+<l><edition n="97"/>Te eweghen tide</l>
+<l>Jn v beghin,</l>
+</lg2>
+<lg2><l>Daer ghi inne altoes</l>
+<l>Gheleidet indeloes</l>
+<l n="75">Wert sonder keren</l>
+<l>Daer en mach in hoge verstaen</l>
+<l>Noch diepe ingaen</l>
+<l>Anckeren no meren.</l>
+</lg2>
+<lg2><l>Dies ons in ezechiele</l>
+<l n="80">Den prophete vele</l>
+<l>Die .IIIJ. diere leerden</l>
+<l>Die vorwert ghinghen</l>
+<l>Jn derre bloetinghen</l>
+<l>Ende niet en keerden.</l>
+</lg2>
+<lg2><l n="85">Datse ons leerden</l>
+<l>Hoe si keerden</l>
+<l>Alse si ghinghen,</l>
+<l>Dat es inder minnen</l>
+<l><milestone unit="fol" n="86rc"/> Die der redennen kinnen</l>
+<l n="90">Toe mach bringhen.</l>
+</lg2>
+<lg2><l>Maer besiet:</l>
+<l>Si en keerden niet</l>
+<l>Jn hare voert gaen,</l>
+<l>Dat es inder bloetheyt</l>
+<l n="95">Der enecheyt</l>
+<l>Bouen verstaen,</l>
+</lg2>
+<lg2><l><edition n="98"/>Daer ons moet ontbliuen</l>
+<l>Een becliuen</l>
+<l>Ere claerheyt</l>
+<l n="100">Jn een verlanghen</l>
+<l>Jn .J. vore hanghen</l>
+<l>Eenre deensterheyt;</l>
+</lg2>
+<lg2><l>Een edel ic en weet hoe</l>
+<l>Noch dus noch soe</l>
+<l n="105">Dat ons leidet in,</l>
+<l>Ende ons berect</l>
+<l>Ende ons in trect</l>
+<l>Jn ons beghin.</l>
+</lg2>
+<lg2><l>Wat gheet, wat keert,</l>
+<l n="110">Wat wiset, wat leert</l>
+<l>Herte ochte sin:</l>
+<l>Het bliuet mi ghetes,</l>
+<l>Hi die es</l>
+<l>Alles beghin.</l>
+</lg2>
+<lg2><l n="115">Ay god, si werden rike,</l>
+<l>Die groene ende ripe</l>
+<l>Ende al dat mach vergaen</l>
+<l>Al scelden quite</l>
+<l>Ende enechlike</l>
+<l n="120">Vwe minne ontfaen.</l>
+</lg2>
+<lg2><l><edition n="99"/>Want met v ghemene</l>
+<l>Te sine allene</l>
+<l>Dat es delijt;</l>
+<l>Ende el niet</l>
+<l n="125">Dan al verdriet,</l>
+<l>Dat ghi niet en sijt.</l>
+</lg2>
+<lg2><l>Menne mach niet kinnen</l>
+<l>Sonder v minnen</l>
+<l><milestone unit="fol" n="86va"/> Wie ghi sijt,</l>
+<l n="130">Noch niet inne</l>
+<l>Jn uwe minne</l>
+<l>Sonder strijt.</l>
+</lg2>
+<lg2><l>Dies moet men striden</l>
+<l>Ende liden</l>
+<l n="135">Menich leet,</l>
+<l>Eer men weet dat</l>
+<l>Hoe men dat pat</l>
+<l>Vwer minne gheet.</l>
+</lg2>
+<lg2><l>Maer en rout hem niet</l>
+<l n="140">Sijn langhe verdriet</l>
+<l>Die daer toe comt</l>
+<l>Dat hi mach ghewinnen</l>
+<l>Een smaken uwer minnen</l>
+<l>Jn enegher stont.</l>
+</lg2>
+<lg2><l n="145">Maer wat men mach smaken,</l>
+<l>Het bliuet alle haken,</l>
+<l>Onthier men comt daer</l>
+<l><edition n="100"/>Dat wij nv hopen</l>
+<l>Dat wert ontploken</l>
+<l n="150">Ende openbaer.</l>
+</lg2>
+<lg2><l>Ende die grote sommen</l>
+<l>Diere waer ommen</l>
+<l>Sonder ghetal</l>
+<l>Die mi doen kinnen</l>
+<l n="155">Dat ic v minnen</l>
+<l>Moet bouen al,</l>
+</lg2>
+<lg2><l>Ontgaen mi, here,</l>
+<l>Alse ic mi kere</l>
+<l>Al bloet op v,</l>
+<l n="160">Ende moet daer omme</l>
+<l>Sonder waeromme</l>
+<l>Minnen v om v.</l>
+</lg2>
+<lg2><l>Hij swighe al stille,</l>
+<l>Die merken wille</l>
+<l n="165">Mine tale,</l>
+<l>Hi heues noet,</l>
+<l>Sal hise al bloet</l>
+<l>Versinnen wale.</l>
+</lg2>
+<lg2><l>Moghedise versinnen,</l>
+<l n="170"><milestone unit="fol" n="86vb"/> Danckes der minnen</l>
+<l>Ende nempter vte raet,</l>
+<l>Maer bliues bloet;</l>
+<l>Wast also groet</l>
+<l>Dat ghise verstaet.</l>
+</lg2>
+<lg2><l n="175"><pb n="101"/> Jn allen houe</l>
+<l>Es mate van loue</l>
+<l>Beide lief ende weert;</l>
+<l>Maer blijfdi in maten,</l>
+<l>Ghine moech niet laten</l>
+<l n="180">Al dat v deert.</l>
+</lg2>
+<lg2><l>Horen ende swighen</l>
+<l>Dat hoeric prisen</l>
+<l>Ouer sere;</l>
+<l>Maer nemmer swighen</l>
+<l n="185">Dat es een crighen</l>
+<l>Jn die ouerste ere.</l>
+</lg2>
+<lg2><l>Ghi en wert blent,</l>
+<l>Ghi bliuet ghescent</l>
+<l>Ghi en moghet niet leuen;</l>
+<l n="190">Maer blijfdi blent,</l>
+<l>Sone moghedi twent</l>
+<l>Gaen sonder vraghen</l>
+</lg2>
+<lg2><l>Den rechten pat</l>
+<l>Die leet ter stat</l>
+<l n="195">Daer es die feeste;</l>
+<l>Maer sien verliesen</l>
+<l>Ende sien verkiesen</l>
+<l>Dat es dat meeste.</l>
+</lg2>
+<lg2><l><edition n="102"/>Wildi vele horen</l>
+<l n="200">Ghi sult verdoren,</l>
+<l>V sal verleyden</l>
+<l>V ghepens</l>
+<l>So menichsens</l>
+<l>Jn valschen steden.</l>
+</lg2>
+<lg2><l n="205">Maer altoes horen</l>
+<l>Dat es vercoren</l>
+<l>Ende groet van prise,</l>
+<l>Waer dat sleet</l>
+<l>Dat altoes steet</l>
+<l n="210"><milestone unit="fol" n="86vc"/> Jnden gherieue.</l>
+</lg2>
+<lg2><l>Hout v ouer niet,</l>
+<l>Wat v ghesciet,</l>
+<l>Dat v niet en lette</l>
+<l>Die ouermoet</l>
+<l n="215">Die gherne doet</l>
+<l>Den dogheden smetten.</l>
+</lg2>
+<lg2><l>Maer ghine acht v groot,</l>
+<l>Ghi bliuet bloet</l>
+<l>Ende sonder ere,</l>
+<l n="220">So ghi v meer kint,</l>
+<l>So v meer mint</l>
+<l>God onse here.</l>
+</lg2>
+<lg2><l>Der middelheit pleghen</l>
+<l>Dat es salich leuen,</l>
+<l n="225"><pb n="103"/> Segghen ons die vroede;</l>
+<l>Maer middelheit moet af</l>
+<l>Eer men in mach</l>
+<l>Ten edelen goede.</l>
+</lg2>
+<lg2><l>Sijt altoes vroet</l>
+<l n="230">Ende wat ghi doet</l>
+<l>Voresiet met rade,</l>
+<l>Dat men in houe</l>
+<l>Vertrecke in loue</l>
+<l>V vroede dade.</l>
+</lg2>
+<lg2><l n="235">Maer ghi moet scinen .J. sot</l>
+<l>Ende heten .J. spot</l>
+<l>Jn eertrike,</l>
+<l>Eer ghi hebt prijs</l>
+<l>Ocht wert wijs</l>
+<l n="240">Ghewaerlike.</l>
+</lg2>
+<lg2><l>Wat mach v besluten,</l>
+<l>Al sidi buten</l>
+<l>Rike van hauen?</l>
+<l>Opdat ghi binnen</l>
+<l n="245">Deruet der minnen,</l>
+<l>Ghi moghet wel claghen,</l>
+</lg2>
+<lg2><l>Ende wenen ende carmen,</l>
+<l>Ghelijc enen armen</l>
+<l>Die niet en heuet;</l>
+<l n="250"><milestone unit="fol" n="87ra"/> Want wie haers deruet</l>
+<l>Hi bliuet onteruet,</l>
+<l>Wat men hem gheuet.</l>
+</lg2>
+<lg2><l><edition n="104"/>Menich ypocrite</l>
+<l>Gheet in abite</l>
+<l n="255">Van goeden lieden;</l>
+<l>Maer buten scone</l>
+<l>Ende binnen hone</l>
+<l>Dat en mach niet dieden.</l>
+</lg2>
+<lg2><l>V est doghen goet,</l>
+<l n="260">Het gheuet v spoet</l>
+<l>Al eest v suer;</l>
+<l>Het dodet v sonden;</l>
+<l>Het ganset v wonden;</l>
+<l>Het maket v puer.</l>
+</lg2>
+<lg2><l n="265">Maer wildi hoghen,</l>
+<l>En hebt geen doghen</l>
+<l>Al es v cont</l>
+<l>Daer die gheloeuen</l>
+<l>Af verdroeghen</l>
+<l n="270">Jn menegher stont.</l>
+</lg2>
+<lg2><l>Dies houets noet</l>
+<l>Was soe groet</l>
+<l>Alst hem wael sceen,</l>
+<l>Wat soudense rouwe</l>
+<l n="275">Jn haer ontrouwe</l>
+<l>Claghen de teen?</l>
+</lg2>
+<lg2><l><edition n="105"/>Jn christus weghen</l>
+<l>Ende in sijn leuen</l>
+<l>Moghdi merken</l>
+<l n="280">Hoe ghi selt volghen</l>
+<l>Onverbolghen</l>
+<l>Jn al uwen werken.</l>
+</lg2>
+<lg2><l>Dore christus wonden</l>
+<l>Werdet si vonden,</l>
+<l n="285">Die edelheyt,</l>
+<l>Die al weten</l>
+<l>Doet vergheten</l>
+<l>Jn ewicheit.</l>
+</lg2>
+<lg2><l>Vaet op v cleet:</l>
+<l n="290">Cout ende heet</l>
+<l><milestone unit="fol" n="87rb"/> Suete ende fel,</l>
+<l>Soe en deert v niet</l>
+<l>Na spot verdriet</l>
+<l>Noch seer na spel.</l>
+</lg2>
+<lg2><l n="295">Houdet v dan</l>
+<l>Saechte alse een lam</l>
+<l>Te seluer stont,</l>
+<l>Daer wijf ende man</l>
+<l>Af werden gram</l>
+<l n="300">Alst hen toe comt.</l>
+</lg2>
+<lg2><l>Wordi oec gram</l>
+<l>So swighet dan;</l>
+<l><edition n="106"/>Want erre ghedachte,</l>
+<l>Al hadde sijs haer vermeten,</l>
+<l n="305">Si en soude niet spreken</l>
+<l>Suete noch saechte.</l>
+</lg2>
+<lg2><l>En smet v niet</l>
+<l>Als ghi traecheit siet</l>
+<l>Jn die v sijn bi;</l>
+<l n="310">Hebdi vreese groet,</l>
+<l>Eens anders noet</l>
+<l>En maect v niet vri.</l>
+</lg2>
+<lg2><l>Al staen die droeghe</l>
+<l>Jnt gheloeue</l>
+<l n="315">Sonder pant,</l>
+<l>Haest v voere</l>
+<l>Ende maect v doere</l>
+<l>Jn dat vette lant.</l>
+</lg2>
+<lg2><l>Het es soe selc,</l>
+<l n="320">Daer vloyet honech ende melc;</l>
+<l>Dat es hen claer</l>
+<l>Diet binnen sochten</l>
+<l>Ende met .IIJ. vrochten</l>
+<l>Quamen van daer.</l>
+</lg2>
+<lg2><l n="325">Ende brachtense ghedraghen</l>
+<l>Daert die van israel saghen</l>
+<l><edition n="107"/>Die edele ware;</l>
+<l>Maer si haddentere af smaec noch ghore</l>
+<l>Al leetse hen vore</l>
+<l n="330">Dan die niemare.</l>
+</lg2>
+<lg2><l><milestone unit="fol" n="87rc"/> Maer die vorwert gheet</l>
+<l>Hi ontfeet</l>
+<l>Dat edele hebben,</l>
+<l>Daer die stille steet</l>
+<l n="335">Niet af en weet</l>
+<l>Dan horen segghen.</l>
+</lg2>
+<lg2><l>Houdet alle ghedanen</l>
+<l>Sonder miswanen</l>
+<l>Welc si sijn,</l>
+<l n="340">Daer ghij niet af claer</l>
+<l>En wet oppenbaer</l>
+<l>Die waerheyt fijn.</l>
+</lg2>
+<lg2><l>Want meneghe ghelike</l>
+<l>Steet te begripe</l>
+<l n="345">Die men doet,</l>
+<l>Daer die daet</l>
+<l>Af schijnt quaet</l>
+<l>Nochtan eest goet.</l>
+</lg2>
+<lg2><l>En laet v ghepens</l>
+<l n="350">Noch hier noch ghens</l>
+<l>En ghenen tijt,</l>
+<l>Dan sonderlinghe</l>
+<l>Jn euweghe dinghe</l>
+<l>Nemen delijt.</l>
+</lg2>
+<lg2><l n="355"><pb n="108"/> Sijt bedect</l>
+<l>Ende onbeulect;</l>
+<l>So blijfdi vri</l>
+<l>Ende altoes coene</l>
+<l>Jn al uwen doene</l>
+<l n="360">Voer wien dat sij.</l>
+</lg2>
+<lg2><l>Houdet uwen wille</l>
+<l>Vaste ende stille</l>
+<l>Altoes ghereyt,</l>
+<l>Dat ghij hout gode</l>
+<l n="365">Te winke ende te ghebode</l>
+<l>Vrie ledicheyt.</l>
+</lg2>
+<lg2><l>Ghi moet v pueren</l>
+<l>Van creatueren,</l>
+<l>Suldi ontfaen</l>
+<l n="370">Dat heymeleec goet</l>
+<l><milestone unit="fol" n="87va"/> Dat god hen doet</l>
+<l>Die claer verstaen.</l>
+</lg2>
+<lg2><l>Cracht van natueren</l>
+<l>Die langhe mach dueren</l>
+<l n="375">Op vytterstheyt</l>
+<l>Es saen verteert</l>
+<l>Alse men mint ende begheret</l>
+<l>Die ewecheyt.</l>
+</lg2>
+<lg2><l>Jn ernste noch in spele</l>
+<l n="380">Noch luttel noch vele</l>
+<l><edition n="109"/>En erret v nummermeere</l>
+<l>Al vernemdi ochte hoert</l>
+<l>Daer menich af ghestoert</l>
+<l>Wert ende ontfeet seer.</l>
+</lg2>
+<lg2><l n="385">Wat v sinne vaen,</l>
+<l>Hout binnen v staen</l>
+<l>Altoes op een,</l>
+<l>Al eest v pine</l>
+<l>Ghescheyden te sine</l>
+<l n="390">Te eender tijt in tween.</l>
+</lg2>
+<lg2><l>Niet en let</l>
+<l>Als ghi gheset</l>
+<l>Werdet met coringhen,</l>
+<l>Ghi en wederstaet</l>
+<l n="395">Haren iersten raet</l>
+<l>Eer si in v minghen.</l>
+</lg2>
+<lg2><l>Want het es groet sorghe</l>
+<l>Willens in borghe</l>
+<l>Dat heere tontfane,</l>
+<l n="400">Dat die van binnen,</l>
+<l>Maechtse verwinnen,</l>
+<l>Begheert doet te slane.</l>
+</lg2>
+<lg2><l>Men moet sijn verre gheleydet</l>
+<l>Ende wide ghebreidet</l>
+<l n="405"><pb n="110"/> Doer der sinne verstaen</l>
+<l>Metter minnen,</l>
+<l>Eer men mach kinnen</l>
+<l>Ochte licht ontfaen.</l>
+</lg2>
+<lg2><l>Maer die met sterker minnen</l>
+<l n="410">Verre doer kinnen</l>
+<l><milestone unit="fol" n="87vb"/> Wert gheset</l>
+<l>Hi moet quelen</l>
+<l>Ende helen</l>
+<l>Dat hem let.</l>
+</lg2>
+<lg2><l n="415">Ende hi en mach niet wale</l>
+<l>Van sijnre quale</l>
+<l>Boete ontfaen,</l>
+<l>Die wijsheyt claer</l>
+<l>Sine gheue daer</l>
+<l n="420">Licht int verstaen.</l>
+</lg2>
+<lg2><l>Die meest mint dien</l>
+<l>Dien hi soude ontsien</l>
+<l>Hi bliuet vri,</l>
+<l>Bi dies ghelt minnen</l>
+<l n="425">Met minnen, ghi en sult niet kinnen</l>
+<l>Wat ordel is.</l>
+</lg2>
+<lg2><l>Die troest en begheren</l>
+<l>Noch vrese en can deren</l>
+<l>Der dinghen van buten,</l>
+<l n="430"><pb n="111"/> Het en mach nieman</l>
+<l>Dies verdienen</l>
+<l>Dies si ghebruken.</l>
+</lg2>
+<lg2><l>Alse di wisheyt troest</l>
+<l>Ende verloest</l>
+<l n="435">Den tijt van vreesen</l>
+<l>So bekinnen zij</l>
+<l>Dat hoge na bi</l>
+<l>Jnder minnen ons heren.</l>
+</lg2>
+</lg1>
+</text>
+<text><head type="comment"><pb n="112"/> 19</head>
+<lg1><lg2><l>Bouen scriftuere</l>
+<l>Ende creatuere</l>
+<l>Can redenne leren</l>
+<l>Ende clare versien</l>
+<l n="5">Ende nauwe bespien</l>
+<l>Den wech ons heren.</l>
+</lg2>
+<lg2><l>Gheberst v kinnen,</l>
+<l>Ghesoeket binnen</l>
+<l>Vwe eenuldecheit,</l>
+<l n="10">Ghi vendet daer</l>
+<l>Vwen spieghel claer</l>
+<l>Altoes ghereyt.</l>
+</lg2>
+<lg2><l>Sonder middel, bloet</l>
+<l>Te siene dat es groet,</l>
+<l n="15">Wel hem diet can.</l>
+<l><milestone unit="fol" n="87vc"/> Men mach in enen aneblic</l>
+<l>Daer worden quic</l>
+<l>Ende volghen an,</l>
+</lg2>
+<lg2><l>Ende dat achter es vlien</l>
+<l n="20">Ende vorwert sien</l>
+<l>Ende een verkiesen</l>
+<l>Ende daer omme al laten</l>
+<l>Ende dat ewelike vaten</l>
+<l>Sonder verliesen.</l>
+</lg2>
+<lg2><l>  25 <pb n="113"/> Also ghedane herte</l>
+<l>Doghet grote smerte</l>
+<l>Jn allen stonden,</l>
+<l>Alsi versteet</l>
+<l>Dat si ontfeet</l>
+<l n="30">Bedruc van sonden.</l>
+</lg2>
+<lg2><l>Dan blijft si bloede</l>
+<l>Ende in node,</l>
+<l>Tote dat si daer af</l>
+<l>Na hare verstaen</l>
+<l n="35">Heuet ghenoech Ghedaen</l>
+<l>Na dat si vermach;</l>
+</lg2>
+<lg2><l>Ende si en wert niet vri</l>
+<l>Vore heuet si</l>
+<l>Ghetughen van binnen</l>
+<l n="40">Dat hare begripe</l>
+<l>Al sijn quite</l>
+<l>Jnder minnen.</l>
+</lg2>
+<lg2><l>Begheren ende minnen</l>
+<l>Sonder hulpe van sinnen</l>
+<l n="45">Dies es noet,</l>
+<l>Ende dan buten ende binnen</l>
+<l>Sijn sonder kinnen</l>
+<l>Ghelijc eenre doet.</l>
+</lg2>
+<lg2><l>Leert kinnen</l>
+<l n="50">Tghebod der minnen,</l>
+<l><edition n="114"/>Hoet niemans minne:</l>
+<l>Minne bedect</l>
+<l>Dien si berect</l>
+<l>Alse die vloghe der seraphinne.</l>
+</lg2>
+<lg2><l n="55"><milestone unit="fol" n="88ra"/> Hi moet in een voresmaken</l>
+<l>Tierst gheraken</l>
+<l>Ende ghewerdet sijn,</l>
+<l>Die onghekeert</l>
+<l>Sal bliuen ghemeert</l>
+<l n="60">Ane die godheyt fijn.</l>
+</lg2>
+<lg2><l>Gode daer bouen</l>
+<l>Met loste louen</l>
+<l>Al van hier</l>
+<l>Jn vlietich op draghen</l>
+<l n="65">Sonder versaghen</l>
+<l>Dat werc es fier.</l>
+</lg2>
+<lg2><l>Jnnech op swinghende lost,</l>
+<l>Edel es uwe cost</l>
+<l>Jn die vaert,</l>
+<l n="70">Daer ghi vaet tijt</l>
+<l>Jn uwe delijt</l>
+<l>Ende niet en spaert.</l>
+</lg2>
+<lg2><l>Ay, op draghende lof,</l>
+<l>Vaert int hemelsche hof</l>
+<l n="75">Behelstenne daer;</l>
+<l><edition n="115"/>Sijn keren, sijn comen</l>
+<l>Heuet mi benomen</l>
+<l>Troest ende vaer;</l>
+</lg2>
+<lg2><l>Vresen, minnen;</l>
+<l n="80">Begheren, kinnen</l>
+<l>Ende verstaen,</l>
+<l>Hopen, haken,</l>
+<l>Ghebruken, smaken</l>
+<l>Es mi af ghegaen.</l>
+</lg2>
+<lg2><l n="85">Mi es weten ontgaen</l>
+<l>Ende dore verstaen</l>
+<l>Verre dore sen;</l>
+<l>Dies moetic swighen</l>
+<l>Ende noch bliuen</l>
+<l n="90">Daer ic ben.</l>
+</lg2>
+<lg2><l>Maer het ghelijct eenre wustinen</l>
+<l>Daer te sine</l>
+<l>Jnden aert;</l>
+<l>Want daer en can gheraken</l>
+<l n="95"><milestone unit="fol" n="88rb"/> Noch vertaken</l>
+<l>Sen noch waert.</l>
+</lg2>
+</lg1>
+</text>
+<text><head type="comment"><pb n="116"/> 20</head>
+<lg1><lg2><l>Inder godheyt</l>
+<l>Der persoenlecheyt</l>
+<l>En es vorme en ghene;</l>
+<l>Daer es drieheyt,</l>
+<l n="5">Jn enicheyt,</l>
+<l>Bloetheyt allene.</l>
+</lg2>
+<lg2><l>Die vorme des ierst gheboren,</l>
+<l>Des persoens vercoren</l>
+<l>Der driheit</l>
+<l n="10">Es sceppere des vreden,</l>
+<l>Die omme ons heuet leden</l>
+<l>Der doet aerbeit.</l>
+</lg2>
+<lg2><l>Hi nam ane</l>
+<l>Onse vorme, onse ghedane</l>
+<l n="15">Onse sceppere, ons here,</l>
+<l>Ende es creatuere</l>
+<l>Jn onse natuere:</l>
+<l>Dat es groet ere.</l>
+</lg2>
+<lg2><l>Die vanden vader ghesendet,</l>
+<l n="20">Gheendet, ongheendet</l>
+<l><edition n="117"/>Es bouen sen,</l>
+<l>Ende vte hem indeloes</l>
+<l>Gheboren altoes</l>
+<l>Werdet sonder beghen.</l>
+</lg2>
+<lg2><l n="25">Te haren beelde, te haren ghelike</l>
+<l>Te sine euwelike</l>
+<l>Woude ons maken</l>
+<l>Die driewoldicheyt,</l>
+<l>Daer onse ere in leyt</l>
+<l n="30">Bouen allen saken.</l>
+</lg2>
+<lg2><l>Der minnen bedwanc</l>
+<l>Maect den starken cranc</l>
+<l>Dat mach men kinnen,</l>
+<l>Daer hi sonder noet</l>
+<l n="35">Dit wonder groet</l>
+<l>Dus wrachte van minnen.</l>
+</lg2>
+</lg1>
+</text>
+<text><head type="comment"><pb n="118"/> 21</head>
+<lg1><lg2><l><milestone unit="fol" n="88rc"/> Menegherhande minne</l>
+<l>Jn herte in sinne</l>
+<l>Es puer minne ontsetten;</l>
+<l>Het es ere ghensteren ghedencken,</l>
+<l n="5">Bloter minnen vermencken</l>
+<l>Breken ende letten.</l>
+</lg2>
+<lg2><l>Menegherhande toeual</l>
+<l>Werdet enich al</l>
+<l>Jn puer ghetes,</l>
+<l n="10">Alse du best soe ghedaen</l>
+<l>Dat di hoe ghedaen</l>
+<l>Nieman en es.</l>
+</lg2>
+<lg2><l>Alle dinghe</l>
+<l>Sijn mi te inghe;</l>
+<l n="15"><pb n="119"/> Jc ben so wijt:</l>
+<l>Om een onghescepen</l>
+<l>Hebbic begrepen</l>
+<l>Jn eweghen tijt.</l>
+</lg2>
+<lg2><l>Jc hebdt gheuaen.</l>
+<l n="20">Het heet mi ontdaen</l>
+<l>Widere dan wijt;</l>
+<l>Mi es te inghe al el;</l>
+<l>Dat wette wel</l>
+<l>Ghi dies oec daer sijt.</l>
+</lg2>
+<lg2><l n="25">Men es vri</l>
+<l>Jn dat nabi</l>
+<l>Onghesceden;</l>
+<l>Daer omme wilt hi</l>
+<l>Dat alsoe si</l>
+<l n="30">Met ons beden.</l>
+</lg2>
+<lg2><l>Ghi moecht sijn erre</l>
+<l>Die noch achter verre</l>
+<l>Jn dat inghe sijt,</l>
+<l>Ende te groter vromen</l>
+<l n="35">Niet voert en sijt comen</l>
+<l>Jn dat wilde wijt.</l>
+</lg2>
+<lg2><l>Want in dat wide</l>
+<l>Es men blide</l>
+<l>Jn hope so groet,</l>
+<l n="40">Datmen daer altoes</l>
+<l>Scijnt sorgheloes</l>
+<l><milestone unit="fol" n="88va"/> Van ewegher noet.</l>
+</lg2>
+<lg2><l><edition n="120"/>Het es hen grote scade</l>
+<l>Die traghen rade</l>
+<l n="45">Ghehorsam sijn,</l>
+<l>Ende nemmermeer en kinnen</l>
+<l>Wat bloter minnen</l>
+<l>Loen sal zijn.</l>
+</lg2>
+<lg2><l>Selker salegher minne</l>
+<l n="50">Wert onderlinghe oetkinne</l>
+<l>Wt gode in hen ontdect</l>
+<l>Metten gheeste ons heren</l>
+<l>Die in snel keren</l>
+<l>Jn hen ondersprect.</l>
+</lg2>
+</lg1>
+</text>
+<text><head type="comment"><pb n="121"/> 22</head>
+<lg1><lg2><l>Het ghebaert sine ghelike</l>
+<l>Jn bliscapen eeuwelike</l>
+<l>Een indeloes,</l>
+<l>Daer&lt;t&gt; blict in werdicheit</l>
+<l n="5">Die gheest der scierheit</l>
+<l>Der beider minne altoes.</l>
+</lg2>
+<lg2><l>Dit sijnu .IIJ. ghelike,</l>
+<l>Ewelike</l>
+<l>Ene enicheit</l>
+<l n="10">Ende .I. in drie;</l>
+<l>Aldus sijn sie</l>
+<l>Ene gheweldicheit.</l>
+</lg2>
+<lg2><l>Een ledich achten</l>
+<l>Siere ghedachten</l>
+<l n="15">Ouer lidende al</l>
+<l>Ghebaert alle dinc</l>
+<l>Die ye wesen ontfinc</l>
+<l>Ochte wesen sal.</l>
+</lg2>
+<lg2><l><edition n="122"/>Het heuet traghen spoet</l>
+<l n="20">Te berechtenne den moet</l>
+<l>Vte vremder tale:</l>
+<l>Die niet binnen en vaen</l>
+<l>Ende daer na staen</l>
+<l>Altemale</l>
+</lg2>
+<lg2><l n="25">Datse in hem dwinghen</l>
+<l>Dat hen toe bringhen</l>
+<l><milestone unit="fol" n="88vb"/> Vremde sinne,</l>
+<l>Si en weten niet</l>
+<l>Wat hen ghesciet</l>
+<l n="30">Die leuen in minne,</l>
+</lg2>
+<lg2><l>Daer minne leert</l>
+<l>Ende hare keert</l>
+<l>Jn die enecheit</l>
+<l>Der ghedachten inne</l>
+<l n="35">Materien minne</l>
+<l>Altoes ghereit;</l>
+</lg2>
+<lg2><l>Een soete gherief:</l>
+<l>Der memorien brief</l>
+<l>Altoes ontdaen;</l>
+<l n="40">Hen mach clene besluten</l>
+<l>Datse buten</l>
+<l>Moghen vaen.</l>
+</lg2>
+<lg2><l>Wantse die scole der minnen</l>
+<l>Leert van binnen</l>
+<l n="45">Altoes vele meer</l>
+<l>Met nuwer mare</l>
+<l>Jn dat bloete clare,</l>
+<l>Dan vremt gheleer.</l>
+</lg2>
+</lg1>
+</text>
+<text><head type="comment"><pb n="123"/> 23</head>
+<lg1><lg2><l>Ghebenedijt</l>
+<l>Jn alre tijt</l>
+<l>Moetti sijn,</l>
+<l>Ghi di verwect</l>
+<l n="5">Ende berecht</l>
+<l>Jn minnen fijn</l>
+</lg2>
+<lg2><l><edition n="124"/>Al datter in leuet,</l>
+<l>Ende ghi al gheuet</l>
+<l>Datse ontfaen,</l>
+<l n="10">Die contempleren</l>
+<l>Ende speculeren,</l>
+<l>Licht ende verstaen.</l>
+</lg2>
+<lg2><l>Ghi sijt licht,</l>
+<l>Ende bericht</l>
+<l n="15">Jn dat anschijn</l>
+<l>Der contemplacien;</l>
+<l>Te diere collacien</l>
+<l>En mach nieman sijn</l>
+</lg2>
+<lg2><l>Dan ghi Ende si</l>
+<l n="20"><milestone unit="fol" n="88vc"/> Allene vri</l>
+<l>Jn enecheit.</l>
+<l>Si verliest te diere vre</l>
+<l>Beelde ende figuere</l>
+<l>Ende ondersceit,</l>
+</lg2>
+<lg2><l n="25">Als ghi hare gheuet</l>
+<l>Daer si bi leuet</l>
+<l>Wt uwer wijsheit</l>
+<l>Daer se meer weet</l>
+<l>Dan si versteet</l>
+<l n="30">Vte uwer volheyt.</l>
+</lg2>
+<lg2><l>Welc prop[h]eten cesseren</l>
+<l>So reuleren,</l>
+<l>Minne heuet pays</l>
+<l>Jn de ghedachte,</l>
+<l n="35">Si bloet in crachte</l>
+<l>Jn dies hoghes palays.</l>
+</lg2>
+<lg2><l><edition n="125"/>Wat ghedachte vindet,</l>
+<l>Hi bliuet ongheindet</l>
+<l>Jn blote minne</l>
+<l n="40">Ende onuerseyt</l>
+<l>Na waerheyt</l>
+<l>Vte redenen sinne.</l>
+</lg2>
+<lg2><l>Heilicheyt</l>
+<l>Der godlijcheyt</l>
+<l n="45">Die complexie sijt</l>
+<l>der ghedacten,</l>
+<l>Die in v leuet sachte</l>
+<l>Ende al elre in strijt.</l>
+</lg2>
+<lg2><l>Eneghe materie vri,</l>
+<l n="50">Versamen di</l>
+<l>Jn puere minne</l>
+<l>Sonder onderscheyt</l>
+<l>Ene enicheit</l>
+<l>Bouen sinne.</l>
+</lg2>
+<lg2><l n="55">Die de verborghene fine</l>
+<l>Oefenen inden aenschine</l>
+<l>Haerre ghedachten enicheit,</l>
+<l>Die beslut vander doet</l>
+<l>Jn hare wijsheyt bloet</l>
+<l n="60"><milestone unit="fol" n="89ra"/> Die eweghe godheyt.</l>
+</lg2>
+<lg2><l><edition n="126"/>Hi bliuet ghepijnt</l>
+<l>Die dit gherijnt</l>
+<l>Om onderwinden:</l>
+<l>Die questie es so sterc,</l>
+<l n="65">Alre sciencien clerc</l>
+<l>Machse cume ontbinden.</l>
+</lg2>
+<lg2><l>Al bliues menech onvroet,</l>
+<l>Nochtan eest goet</l>
+<l>Dat mense in talen hebbe</l>
+<l n="70">Die questie daer omme,</l>
+<l>Datse en gheen domme</l>
+<l>En weder segghe,</l>
+</lg2>
+<lg2><l>Ende dats elc lye</l>
+<l>Ende niemant en si&lt;e&gt; partie</l>
+<l n="75">Vte siere doerheyt;</l>
+<l>Want het es claer</l>
+<l>Ende openbaer</l>
+<l>Der bloter waerheyt.</l>
+</lg2>
+</lg1>
+</text>
+<text><head type="comment"><pb n="127"/> 24</head>
+<lg1><lg2><l>Ic hebbe di gheproeuet</l>
+<l>Dat mi gheuoeghet</l>
+<l>Jn die heymelijcheit</l>
+<l>Diere ghedachten,</l>
+<l n="5">Dat doet mi sachte,</l>
+<l>Dat si ontseit</l>
+</lg2>
+<lg2><l>Alle onghelike,</l>
+<l>Ende houdet quite</l>
+<l>Van alle dien</l>
+<l n="10">Dar middelheit</l>
+<l>Onser enecheyt</l>
+<l>Af mochte ghescien.</l>
+</lg2>
+<lg2><l>Dat herte es bedroeft</l>
+<l>Dien niet en ghenoeft</l>
+<l n="15"><pb n="128"/> Dat mach vergaen,</l>
+<l>Alse dijn moet denct</l>
+<l>Jet dat ontwenct</l>
+<l>Dijn blote in staen.</l>
+</lg2>
+<lg2><l>Hi die es</l>
+<l n="20">Belouet hem des</l>
+<l>Jn wiene hi vendet</l>
+<l><milestone unit="fol" n="89rb"/> Dese ghelike</l>
+<l>Die hi heymelike</l>
+<l>Vte enen ontbendet.</l>
+</lg2>
+<lg2><l n="25">Die sonder wesen</l>
+<l>Hoghe lesen</l>
+<l>Ende niet el en kinnen</l>
+<l>Dan scriftuere</l>
+<l>Ende creatuere</l>
+<l n="30">Hen doet versinnen,</l>
+</lg2>
+<lg2><l>   Men machs niet achten</l>
+<l>Datse wachten</l>
+<l>Ende calengieren:</l>
+<l>Want si en willen daer bouen</l>
+<l n="35">Niemanne ghelouen</l>
+<l>Daer si faelgerien.</l>
+</lg2>
+<lg2><l>Voresien van binnen</l>
+<l>Maect buten ontkinnen</l>
+<l>Ende onachten;</l>
+<l n="40">Het hem allene ghenoech</l>
+<l>Die mach tgheuoech</l>
+<l>Sijns sceppers wachten.</l>
+</lg2>
+<lg2><l><edition n="129"/>Die wech es droeue</l>
+<l>Die gheet te ghenoeghe</l>
+<l n="45">Den creatueren,</l>
+<l>Ende so vol der mouden:</l>
+<l>Diere hen in houden</l>
+<l>En connen hen ghepueren.</l>
+</lg2>
+<lg2><l>Hoghe merken</l>
+<l n="50">Jn nederen werken</l>
+<l>Es minnen quellen.</l>
+<l>Hoghe wonen</l>
+<l>Ende neder tonen</l>
+<l>Bliuet sonder vellen.</l>
+</lg2>
+<lg2><l n="55">Die ontgonnen</l>
+<l>Ende verwonnen</l>
+<l>Heuet die minne,</l>
+<l>Dies hem veronnen</l>
+<l>Dat sijs begonnen</l>
+<l n="60">Sijn scalc van sinne.</l>
+</lg2>
+<lg2><l>Eer ic wiste</l>
+<l><milestone unit="fol" n="89rc"/> Der minnen liste</l>
+<l>Hadsi alle mijn onste;</l>
+<l>Jc en hadde gheen hoede</l>
+<l n="65">Datse iemanne moede</l>
+<l>Maken conste.</l>
+</lg2>
+<lg2><l>All esse fier,</l>
+<l>Si es oec ghier</l>
+<l>Ende scumet al</l>
+<l n="70">Ende verslindet</l>
+<l>Al datse vindet</l>
+<l>Sonder ghetal.</l>
+</lg2>
+<lg2><l><edition n="130"/>Maer dat es haer sede</l>
+<l>Si es melde mede</l>
+<l n="75">ende scinket van vollen;</l>
+<l>Maer die met haer drincken</l>
+<l>Doetse op een winken</l>
+<l>Bloet vertollen.</l>
+</lg2>
+<lg2><l>Maer drincken vaste</l>
+<l n="80">Al doetse haer gaste</l>
+<l>Aldus betalen,</l>
+<l>Si comen gherne</l>
+<l>Jn haer tauerne,</l>
+<l>Wiltse onthalen.</l>
+</lg2>
+<lg2><l n="85">Ghi maect vri, minne,</l>
+<l>Jn uwe sinne</l>
+<l>Vwe ghebuere,</l>
+<l>Die drincken te uwen,</l>
+<l>Ghi doet vernuwen</l>
+<l n="90">Hare natuere:</l>
+</lg2>
+<lg2><l>Den ouden man</l>
+<l>Doense vte, ende an</l>
+<l>Weder den nuwen.</l>
+<l>Dit es uwe beiach</l>
+<l n="95">Ende hare ghelach</l>
+<l>Die drincken te uwen.</l>
+</lg2>
+<lg2><l>Menne daerf niet haken,</l>
+<l>Salmen smaken;</l>
+<l><edition n="131"/>Het sal gheschien</l>
+<l n="100">Sonder wachten</l>
+<l>Der ghedachten</l>
+<l>Comen ende vlien.</l>
+</lg2>
+<lg2><l><milestone unit="fol" n="89va"/> Alse minne toent</l>
+<l>Datse hier loent</l>
+<l n="105">Heuet si onghelike,</l>
+<l>Alse hoghe verheuen</l>
+<l>Ende wedersleghen,</l>
+<l>Alse arm ende rike.</l>
+</lg2>
+<lg2><l>Onse weten</l>
+<l n="110">Moet op beten</l>
+<l>Jn twiuelheyt</l>
+<l>Ende alse op waen,</l>
+<l>Saelt ons staen</l>
+<l>Jn ghewarecheit.</l>
+</lg2>
+<lg2><l n="115">Het en si verborghen,</l>
+<l>Ochte wi ghestoruen,</l>
+<l>Wij sijn ghehoent:</l>
+<l>Die went der locht</l>
+<l>Waeyt wech die vrocht</l>
+<l n="120">Die daer vertoent.</l>
+</lg2>
+<lg2><l>Die macht si trect,</l>
+<l>Dat waert berect,</l>
+<l>Die minne si leidet.</l>
+<l><edition n="132"/>Also drucken sij</l>
+<l n="125">De ziele, de drie,</l>
+<l>Jn de enecheyt,</l>
+</lg2>
+<lg2><l>Daer in altemale</l>
+<l>Den heyleghen es wale</l>
+<l>Ende hebbe hare volheit,</l>
+<l n="130">Dat es in</l>
+<l>Dat yerste beghin,</l>
+<l>Jn die pure godheit.</l>
+</lg2>
+<lg2><l>En houdet mine woerde</l>
+<l>Noch ouer boerde</l>
+<l n="135">Noch ouer spel,</l>
+<l>Jc hebbe gheseit</l>
+<l>Gherechte waerheyt</l>
+<l>Ende niet el.</l>
+</lg2>
+<lg2><l>Die des wilt kinnen</l>
+<l n="140">Volghe der minnen</l>
+<l>Sonder keer.</l>
+<l>Ghelouet moet sijn</l>
+<l>Die godheyt fijn</l>
+<l>Emmermeer.</l>
+</lg2>
+</lg1>
+</text>
+<text><head type="comment"><pb n="133"/> 25</head>
+<lg1><lg2><l>Begheric iet dats mi oncont;</l>
+<l>Want in onwetenne sonder gront</l>
+<l>Vendic mi gheuaen in alre stont.</l>
+<l>Jc waent menschen sen nie en verstont,</l>
+<l n="5">So dat ghespreken mochte sijn mont</l>
+<l>Waer hi grondet die diepe slont.</l>
+</lg2>
+<lg2><l><edition n="134"/>Jc en wille mi menghen niet met hen</l>
+<l>Die omme loen dienen ocht omme ghewen.</l>
+<l>Vraghet mi iemant waer dat ics ben,</l>
+<l n="10">Jc segghe hem ic en weets meer no min;</l>
+<l>Want niet bat en caent ghetonen mijn sin,</l>
+<l>Dan een molesteen mach vlieten int swin.</l>
+</lg2>
+<lg2><l>Dit es ene wonderlike mare</l>
+<l>Dat mi houdet in meneghen vare;</l>
+<l n="15">Si es meneghen verholen ende mi openbare:</l>
+<l>Daer ic der minnen volghe[de] nare,</l>
+<l>Daer bleef ic in hare</l>
+<l>Verslonden in eenen eenuoldeghen stare.</l>
+</lg2>
+<lg2><l><milestone unit="fol" n="89vb"/> Die dit staren mach verstaen</l>
+<l n="20">Hi es ghebonden ende gheuaen</l>
+<l>Ende inder minnen prisoen so vast ghedaen,</l>
+<l>Hine mach hare nemmermeer ontgaen.</l>
+<l>Maer diere es luttel so ghedaeen,</l>
+<l>Datse der minnen so verre ghestaen.</l>
+</lg2>
+<lg2><l n="25">Ay, mi deus, wat es hem ghesciet,</l>
+<l>Die dat en horet noch en siet</l>
+<l>Dattenne iaghet ende daer hi vore vliet,</l>
+<l>Ende dat hi mint ende van minnen ontsiet:</l>
+<l>Der minnen iacht, hadde hi vore iet,</l>
+<l n="30">Jaghet hem van allen op een niet.</l>
+</lg2>
+</lg1>
+</text>
+<text><head type="comment"><pb n="135"/> 26</head>
+<lg1><lg2><l>Jc soude der minnen noch gherne naerre dringhen</l>
+<l>Constict van binnen wel toe bringhen.</l>
+<l>Maer si en moghen die liedekijn met mi niet singhen,</l>
+<l>Die hen vele met creatueren minghen.</l>
+</lg2>
+<lg2><l n="5"><pb n="136"/> De blote minne die niet en spaert</l>
+<l>Jn die weelde oueruaert</l>
+<l>Alse si alles toeuals wordt ontpaert,</l>
+<l>Comt si in hare[n] eenuoldeghen aert;</l>
+</lg2>
+<lg2><l>Jn bloeter minnen toeuerlaet</l>
+<l n="10">Moet sijn af der creaturen raet.</l>
+<l>Want si van hen alle vorme slaet</l>
+<l>Die si in hare simpelheyt ontfaet.</l>
+</lg2>
+<lg2><l>Daer werden si alle wisen quite</l>
+<l>Ende veruremdet van allen ghelike:</l>
+<l n="15">De arme van gheeste in eerdrike</l>
+<l>Houden van rechte dese vite.</l>
+</lg2>
+<lg2><l>Het en es niet allene om verre gaen</l>
+<l>Noch om broet noch om ander goet ontfaen:</l>
+<l>Die arm van gheeste sijn sonder waen</l>
+<l n="20">Jn die wide eenuoldicheit ontfaen,</l>
+</lg2>
+<lg2><l>Die en heeft inde noch beghin</l>
+<l>Noch vorme, noch wise, noch redene, noch sin</l>
+<l>Noch duncken, noch dincken, noch merken, no weten;</l>
+<l>Si es sonder cierkel wijt onghemeten.</l>
+</lg2>
+<lg2><l n="25">Jn dese weelde wide eenuldicheit</l>
+<l>Wonen die arme van gheeste in enecheyt.</l>
+<l><edition n="137"/>Daer en vendense niet dan ledicheit,</l>
+<l><milestone unit="fol" n="90ra"/> Die altoes antwerdet der ewicheyt.</l>
+</lg2>
+<lg2><l>Dit es gheseghet met corter tale;</l>
+<l n="30">Maer hare wech es lanc, dat wetic wale.</l>
+<l>Want si moeten doghen meneghe quale</l>
+<l>Die dit volproeuen altemale.</l>
+</lg2>
+</lg1>
+</text>
+<text><head type="comment"><pb n="138"/> 27</head>
+<lg1><lg2><l>Een edel licht lichtet in ons fijn</l>
+<l>Dat wilt altoes dat wij hem ledich sijn;</l>
+<l>Die puere vonke, dat ghensterkijn,</l>
+<l>Die leuelicheyt der zielen mijn,</l>
+<l n="5">Dat enech altoes met gode moet sijn,</l>
+<l>Daer lichtet god inne sinen eweghen scijn.</l>
+</lg2>
+<lg2><l>Dat es verborghen in ons binnen;</l>
+<l>Het en can redenne noch sin versinnen</l>
+<l>Niet anders dan met bloeter minnen.</l>
+<l n="10">Si sijn ouerformet diet bekinnen</l>
+<l>Ouernatuerleke vter vonken van binnen</l>
+<l>Jn een godlec eenuoldich kinnen.</l>
+</lg2>
+<lg2><l><edition n="139"/>De toeual der menichfuldicheit</l>
+<l>Benemt ons onse eenuldicheit,</l>
+<l n="15">Also sente ian ewangeliste seit:</l>
+<l>Dat licht lichtet inder demsterheit,</l>
+<l>Ende niet en begrijpse dies lichs claerheit</l>
+<l>Jn hare die donckere deemsterheit.</l>
+</lg2>
+<lg2><l>Waren wij comen te desen lichte,</l>
+<l n="20">So waren wij ledich in sijn ghesichte</l>
+<l>Van alre wise, van alre berichte,</l>
+<l>Van alre storien, van alre ghedichte;</l>
+<l>Jn een afgrondich onghestichte</l>
+<l>Saghen wij dan dat licht inden lichte.</l>
+</lg2>
+<lg2><l n="25">Scamt v, ghi die langhe hebt ghesecenen,</l>
+<l>Dat v so langhe moet toeual menen</l>
+<l>Ende onghewesent altoes cruept henen.</l>
+<l>Mochte eenuoldicheit v in hare ghewenen</l>
+<l>Datse v met haren lichte hadde ouerscenen,</l>
+<l n="30">So bleefdi van beelden, van formen ongherenen.</l>
+</lg2>
+<lg2><l>Ghi moecht v seluen zere versien</l>
+<l>Dat ghi dat licht soeket buten met pertien</l>
+<l>Ende in v gheel es ende v gheheel wilt vrien.</l>
+<l>Wilde derre philosophien</l>
+<l n="35"><pb n="140"/> Sijn meester, sone mogdi u selfs niet lien</l>
+<l><milestone unit="fol" n="90rb"/> Noch niets achten, maer alles vertien.</l>
+</lg2>
+<lg2><l>Ay, deus, hoe grote edelheyt</l>
+<l>Es dese vrie ledicheyt</l>
+<l>Daer van minnen minne al ontseyt</l>
+<l n="40">Ende niet en soect buten haers seluesheyt,</l>
+<l>Alse si die eweghe salicheyt</l>
+<l>Heuet besloten in hare enicheit.</l>
+</lg2>
+</lg1>
+</text>
+<text><head type="comment">28</head>
+<lg1><lg2><l>Ic late hare gherne af slaen mijn houet,</l>
+<l>Jndien datse doch mijnre noet ghelouet,</l>
+<l>Si die mi vanden sinne rouet</l>
+<l>Metter treckender chiere die si mi toghet.</l>
+</lg2>
+<lg2><l n="5">Waer omme toendi mi dat ghelaet</l>
+<l>Daer ghi mi namaels met verslaet?</l>
+<l>Want alst met mi ter noet wert gaet,</l>
+<l>So drijfdi met mi uwe baraet.</l>
+</lg2>
+<lg2><l><edition n="141"/>Ay, minne, v treken sijn te snel:</l>
+<l n="10">Alse ghi toent een, so meendi .J. el;</l>
+<l>Nu stappans suete, nv stappans fel;</l>
+<l>Bleefdi op een, soe daedi wel.</l>
+</lg2>
+<lg2><l>V baraet dat es te staerc</l>
+<l>Hen die dienen in vwe paerc</l>
+<l n="15">Ende altoe setten hare ghemarc</l>
+<l>Om te voldoene ws willen warc.</l>
+</lg2>
+<lg2><l>Ghi versouft wise ende vroede</l>
+<l>Ende settse in menechfoldeghen moede;</l>
+<l>Alsi meest scinen buten spoede,</l>
+<l n="20">Ghefdi hen uwe ghiften sonder hoede.</l>
+</lg2>
+<lg2><l>Ghi sijt scalc ende goedertieren;</l>
+<l>Saecht alse een lam, ende onghehiere</l>
+<l>Alse onghetemde welde diere</l>
+<l>Jn die woustine, sonder maniere.</l>
+</lg2>
+</lg1>
+</text>
+<text><head type="comment"><pb n="142"/> 29</head>
+<lg1><lg2><l>Willecome oerspronc van binnen,</l>
+<l>Du brenghes edel hemelsch kinnen;</l>
+<l>Du voeds altoes met nuwer minnen;</l>
+<l>Du houdes mi ledech in dijn versinnen</l>
+<l n="5">Alles toeuals met vutters kinnen.</l>
+</lg2>
+<lg2><l>Der bloter waerheyt enicheyt,</l>
+<l>Die al der redennen doen ontseyt,</l>
+<l>Houdet mi in die ledicheit</l>
+<l>Ende voeghet mi te diere evuldicheit</l>
+<l n="10">Des ewechs wesens ewicheyt.</l>
+</lg2>
+<lg2><l><milestone unit="fol" n="90rc"/> Daer bennic alder redennen ontpronden.</l>
+<l>Alle die nie scriftuere verstonden</l>
+<l>En mochtent met redenen niet orconden</l>
+<l>Dat ic bloet ende onbewonden</l>
+<l n="15">Hebbe in mi bouen redenne vonden.</l>
+</lg2>
+</lg1>
+<p>Deo gracias Amen.<milestone robbie="eindi195" /></p>
+</text>
+</group>
+<!--</ENTRY>
+--></TEI.2>

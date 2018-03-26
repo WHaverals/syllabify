@@ -1,0 +1,179 @@
+<?xml version='1.0'?><!DOCTYPE TEI.2 PUBLIC '-//TEI P4//DTD Main Document Type//EN' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd' [<!ENTITY % TEI.prose 'INCLUDE'><!ENTITY % TEI.linking 'INCLUDE'><!ENTITY % TEI.figures 'INCLUDE'><!ENTITY % TEI.analysis 'INCLUDE'><!ENTITY % TEI.corpus 'INCLUDE'><!ENTITY % TEI.XML 'INCLUDE'><!NOTATION TEI-XML PUBLIC 'TEI P4' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd'><!-- internal INL dtd --><!ELEMENT b (#PCDATA)><!ELEMENT l (#PCDATA | b)*><!-- end of internal INL dtd -->]><TEI.2><!--<ENTRY id="i547"><teiHeader><fileDesc><titleStmt><title>Collectief lunarium I (berijmd)</title>
+</titleStmt>
+<interpGrp type="pubYear_from"><interp value="1300"/></interpGrp>
+<interpGrp type="witnessYear_from"><interp value="1300"/></interpGrp>
+<interpGrp type="pubYear_to"><interp value="1320"/></interpGrp>
+<interpGrp type="witnessYear_to"><interp value="1320"/></interpGrp>
+<TITEL>Collectief lunarium I (berijmd)</TITEL>
+<author>Onbekend</author>
+<AARD>Rijm</AARD>
+<BRON nr="D6">Parijs, Biblioth&egrave;que Nationale, Lat. 7998</BRON>
+<DATUM>1300-1320</DATUM>
+<OMVANG>148 verzen</OMVANG>
+<BRON.OPM>Handschrift van 31 folia. Het lunarium bevindt zich op fol. 31r; de tekst (die slechts een onvolledige lunariumversie biedt) staat als proza genoteerd. Het handschrift bevat verder uitsluitend Latijnse teksten, in hoofdzaak werk van of in de Middeleeuwen toegeschreven aan Ovidius.</BRON.OPM>
+<EDITIE>G. Gerritsen-Geywitz en O. Lie: 'Een Middelnederlands lunarium in een Ovidiushandschrift'. In: Tussentijds. Bundel studies aangeboden aan W.P. Gerritsen ter gelegenheid van zijn vijftigste verjaardag. Utrecht, 1985, 115-137 (131-135).</EDITIE>
+<STATUS>Kritisch</STATUS>
+<BRONNEN>Parijs, Biblioth&egrave;que Nationale, Lat. 7998</BRONNEN>
+</fileDesc>
+</teiHeader>
+--><text>
+<lg1><lg2><l><edition n="131"/>Nu hoert, ghi heren, al besonder:</l>
+<l>Ic sal u segghen wonder!</l>
+<l>Wildijt te rechte marken</l>
+<l>Ende gire na wille t warken,</l>
+<l n="5">Het mach u lichte comen,</l>
+<l>Dat het u mach sere vromen.</l>
+<l>Wildiere omme nemen goem,</l>
+<l>Ghi moghet weten of u droem</l>
+<l>Di u nachtes comt tevoren,</l>
+<l n="10">Sal bliscap wesen ofte toren;</l>
+<l>Ende ghi suulde oec van der mane</l>
+<l>En deel verstaen, na minen wane,</l>
+<l>Des ghi suul te vroeder wesen.</l>
+<l>Nu hort wat wi vinden lesen,</l>
+<l n="15">Ende wat ons oec Sente Daniel,</l>
+<l><edition n="132"/>Die prophete, seghet wel</l>
+<l>(Want hijt verstont aldus van Gode,</l>
+<l>Bi den enghel, Sine bode)</l>
+<l>Alsoe alse ic u segghen sal.</l>
+<l n="20">God gheve mi dertoe gheval,</l>
+<l>Dat ict alsoe gheseggen moghe,</l>
+<l>Dat het mi ende u oec doghe.</l>
+<l>Nu, hebt herte ende sin,</l>
+<l>Ende onhoudet wel dar in,</l>
+<l n="25">Want het sijn vele doren,</l>
+<l>Die nie ne verstaen dat si horen.</l>
+<l>Ne sien die herten niet ondaen</l>
+<l>Tontfane die wort saen,</l>
+<l>Ende wat men seget mene onhoudet wale,</l>
+<l n="30">Soe est algader blinde tale.</l>
+<l>Nu moete mi God gehinghen,</l>
+<l>Dat ict soe mote vulbringen,</l>
+<l>Dat ics mote prijs ontfaen.</l>
+<l>Van der manen willic bestaen</l>
+<l n="35">Nu te seggene wat crahte</l>
+<l>Dat si hevet in elker nachte;</l>
+<l>Van den kijnde dat danne tevoren</l>
+<l>Comet ende wort gheboren,</l>
+<l>Ende hoe langhe dat het sal leven,</l>
+<l n="40">Ende van wat maniren wesen,</l>
+<l>Weder goet ofte quaet,</l>
+<l>Dat en es neghen baraet.</l>
+<l>Ende of die zieke sal ghenesen,</l>
+<l>Ofte langhe in qualen wesen;</l>
+<l n="45">Ende dat men stelet in der stonden,</l>
+<l>Oft blivet verloren ofte vonden;</l>
+<l>Ende wat die droeme sullen spellen,</l>
+<l>Dat sal ic algader tellen</l>
+<l>In elker nachtelike,</l>
+<l n="50">Dat segge ic u ghewarlike!</l>
+</lg2>
+<lg2><l>Alse prime es die mane,</l>
+<l>Es alle saken te bestane</l>
+<l>Best dincte ende goet;</l>
+<l>Ende het sal hebben goeden spoet</l>
+<l n="55"><pb n="133"/> Wat men danne wille anevaen.</l>
+<l>Ende die sieke sullen opstaen,</l>
+<l>Nochtanne sal hi langhe quellen.</l>
+<l>Ende dat danne dromt, dat sal bliscap spellen.</l>
+<l>Ende tkint dat danne wert geboren,</l>
+<l n="60">Het sal sonder groeten toren</l>
+<l>Leven eenne lange stont,</l>
+<l>Ende werden namecont.</l>
+</lg2>
+<lg2><l>Alse die mane es out dage tue,</l>
+<l>Es water guet te ledene,</l>
+<l n="65">Ende te winnen lant,</l>
+<l>Ende te copene ghewant,</l>
+<l>Ende te vercopene dat men hevet.</l>
+<l>Soe wat dat men danne stelet,</l>
+<l>Dat ne mach bliven niet verloren,</l>
+<l n="70">Al hebbens die liede groeten toren.</l>
+<l>Ende die dan met siecheden</l>
+<l>Wart bestaen, sal saen ghenesen.</l>
+<l>Ende dat dan in den slaep</l>
+<l>Comt tevoren, es niet quaet.</l>
+<l n="75">Ende tkint dat dan wert gheboren</l>
+<l>Hevet Onse Here vercoren,</l>
+<l>Ende gesaket te Sinen handen,</l>
+<l>Want hen sal leven niet lange.</l>
+</lg2>
+<lg2><l>Alse die mane es out drie daghe,</l>
+<l n="80">Dat en es oec negene sage,</l>
+<l>Soe ne doe niet in dijn hof:</l>
+<l>Daer soude quaet crut comen of.</l>
+<l>Ende diefte sal worden vonden,</l>
+<l>Dien men dan steelt in corten stonden.</l>
+<l n="85">Ende dat di dromet bediedet niet.</l>
+<l>Ende wie soe danne werdet siec,</l>
+<l>Ne mach met den live niet ontgaen.</l>
+<l>Dat machtu weten sonder waen,</l>
+<l>Want daer nes geen tvivel aen,</l>
+<l n="90">Hine moet endelike die doet ontfaen.</l>
+<l>Ende wort oec een kint</l>
+<l>Geboren, hen mach en tvint</l>
+<l><edition n="134"/>In dese werelt bliven</l>
+<l>Langer dan te halven live.</l>
+</lg2>
+<lg2><l n="95">Sente Daniel doet ons te verstane,</l>
+<l>Alse iv dage es out die mane,</l>
+<l>Dat dan alle dinch es goet</l>
+<l>Te werkene ende leidene vloet</l>
+<l>Daer watermolen bi mach gaen.</l>
+<l n="100">Ende die sieke sal cume ontgaen,</l>
+<l>Of hi sal sterven haestelike.</l>
+<l>God gheve hem hemelrike!</l>
+<l>Dat dan droemet sal dieden,</l>
+<l>Dat moghen wel verstaen die liede,</l>
+<l n="105">Si het goet, si het quaet.</l>
+<l>Ende tkint dat danne lijf ontfaet</l>
+<l>Sal hem vele wel generen</l>
+<l>Ende leven met groten heren.</l>
+</lg2>
+<lg2><l>Alse die mane v dage out es,</l>
+<l n="110">Des moghedi wale sin ghewes,</l>
+<l>Es sacrament te gevene goet,</l>
+<l>Maer het es vrese groet.</l>
+<l>Ende dat men dan steelet,</l>
+<l>Ne mach bliven niet ontweget.</l>
+<l n="115">Ende dat di dromet sal emmer wesen</l>
+<l>Overlanc; nem rat daer segen!</l>
+<l>Ende die oec wordet siec,</l>
+<l>Hine mach genesen niet.</l>
+<l>Ende tkint sal sterven haestelike</l>
+<l n="120">Ende varen te hemelrike.</l>
+</lg2>
+<lg2><l>Alse ses dage es out die mane,</l>
+<l>Daer nes oec geen tvivel ane,</l>
+<l>Dat danne sonder tvivel doet</l>
+<l>Met haveken tejagene goet,</l>
+<l n="125">Ende met allen vederspele.</l>
+<l>So wat dat men dan stele,</l>
+<l>Dat blivet emmer verloren.</l>
+<l>Ende dat di dan comt tevoren,</l>
+<l>Des machtu wale seker sijn,</l>
+<l n="130"><pb n="135"/> Dat het emmer sal gescien.</l>
+<l>Wachti, ende nemet segen raet.</l>
+<l>Ende tkint dat dan lijf ontfaet,</l>
+<l>Dat sal vele lange leven</l>
+<l>Ende goet ter werelt wesen.</l>
+</lg2>
+<lg2><l n="135">Ic segt u alsic wane:</l>
+<l>Alse VII dage es out die mane,</l>
+<l>Dat dan goet laten doet</l>
+<l>in dien selven dage bloet.</l>
+<l>Ende quickenoet dat men wille temen,</l>
+<l n="140">Dat het wale sal vernemen.</l>
+<l>Ende diefte sal worden vonden.</l>
+<l>Die sieke sal in corten stonden</l>
+<l>Genesen; ende dinen droem,</l>
+<l>Des nem oec goeden goem,</l>
+<l n="145">Hoe so hi di comt tevoren,</l>
+<l>Si het bliscaep ofte toren,</l>
+<l>Sal over lange tijt gescien.</l>
+<l>Des ne machtu niet ontflien.</l>
+</lg2>
+</lg1>
+</text>
+<!--</ENTRY>
+--></TEI.2>

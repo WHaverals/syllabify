@@ -1,0 +1,406 @@
+<?xml version='1.0'?><!DOCTYPE TEI.2 PUBLIC '-//TEI P4//DTD Main Document Type//EN' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd' [<!ENTITY % TEI.prose 'INCLUDE'><!ENTITY % TEI.linking 'INCLUDE'><!ENTITY % TEI.figures 'INCLUDE'><!ENTITY % TEI.analysis 'INCLUDE'><!ENTITY % TEI.corpus 'INCLUDE'><!ENTITY % TEI.XML 'INCLUDE'><!NOTATION TEI-XML PUBLIC 'TEI P4' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd'><!-- internal INL dtd --><!ELEMENT b (#PCDATA)><!ELEMENT l (#PCDATA | b)*><!-- end of internal INL dtd -->]><TEI.2><!--<ENTRY id="i600"><teiHeader><fileDesc><titleStmt><title>Onge&iuml;dentificeerd (3)</title>
+</titleStmt>
+<interpGrp type="pubYear_from"><interp value="1340"/></interpGrp>
+<interpGrp type="witnessYear_from"><interp value="1340"/></interpGrp>
+<interpGrp type="pubYear_to"><interp value="1360"/></interpGrp>
+<interpGrp type="witnessYear_to"><interp value="1360"/></interpGrp>
+<TITEL>Onge&iuml;dentificeerd (3)</TITEL>
+<author>Onbekend</author>
+<AARD>Rijm</AARD>
+<BRON nr="K94">Leiden, Bibliotheek der Rijksuniversiteit, Ltk. 1199 (fragm.)</BRON>
+<DATUM>1340-1360</DATUM>
+<OMVANG>380 verzen</OMVANG>
+<BRON.OPM>Twee bladen, waarvan het eerste onderaan meer en bovenaan minder is afgesneden dan het tweede. Per blad 2 kolommen en per kolom oorspronkelijk waarschijnlijk 50 regels (nu nog 49 regels (fol. 1) en 46 regels (fol. 2)). Waarschijnlijk hebben de fragmenten tot dezelfde codex behoord als de fragmenten van de Gwidekijn van Sassen (hs. Amsterdam, Universiteitsbibliotheek, I A 24&supj;). De tekst heeft als kader de historische samenzwering tegen Karel de Grote o.l.v. de bastaard Pepijn de Bochelaar (dit verraad wordt ook vermeld in de Derde Partie van Maerlants <XREF3 ref=i782>Spiegel historiael</XREF3>
+ VIII, xc, vs. 31-56). Hoofdpersonen in het fragment zijn Peppijn (een 'valsche naen', bastaard van Karel de Grote, met wie hij in oorlog is), Bertine (dochter van Karels trouwe hertog Florant), Florant (die in zijn eigen stad Grammont in Lotharingen gevangen zit) en bisschop Rucwaert.</BRON.OPM>
+<EDITIE>J. Verdam: 'Fragment van een onbekenden ridderroman'. In: TNTL 16 (1897), 294-305 (296-305).</EDITIE>
+<STATUS>Kritisch</STATUS>
+<BRONMNW>1276</BRONMNW>
+<BRONMNW>22 </BRONMNW>
+<EDITIE.OPM>Vanaf regel 50 wijkt de regelnummering af van die in de editie, waarin regel 49 foutief genummerd is als regel 50.</EDITIE.OPM>
+<BRONNEN>Leiden, Bibliotheek der Rijksuniversiteit, Ltk. 1199 (fragm.)</BRONNEN>
+</fileDesc>
+</teiHeader>
+--><text>
+<l parse="ignore"><pb n="296"/><milestone unit="fol" n="1ra"/> [...] die niemare vorden naen.</l>
+<l>Die seidi: "Ghewaerlike</l>
+<l>Het sijn die van Lottrike,</l>
+<l>Die stede heeft an sijn acort,</l>
+<l n="5">Galerant van Monfoort,</l>
+<l>Mijn wel goede camerlinc.</l>
+<l>Wij selent weten varinc:</l>
+<l>Men late al de wive in,</l>
+<l>Ende elc spele om sijn ghewin</l>
+<l n="10">Ende kiese een na sijn ghevouch",</l>
+<l>Sprac die bastaert, ende louch;</l>
+<l>"Ware Florants dochter her, Bertine,</l>
+<l><edition n="297"/>Die sonde emmer wezen mine".</l>
+<l>Maer elc die versta claerlike,</l>
+<l n="15">Hoet es ghevaren met Lottrike.</l>
+<l>Die verraders hebben verstaen</l>
+<l>Vele worde vanden naen;</l>
+<l>Toter porte datsi liepen,</l>
+<l>Daer die andere zere riepen,</l>
+<l n="20">Beide man ende wijf.</l>
+<l>Doe so vraeghden die keytijf,</l>
+<l>Wat si wouden ende wie si waren.</l>
+<l>Die wive ghingen hem verclaren,</l>
+<l>Als die qualec connen zwigen</l>
+<l n="25">Haer ghevaren, al te prigen,</l>
+<l>In wat manieren si waren gescant.</l>
+<l>Als dat horden die tyrant,</l>
+<l>Ontdaden si in corter stont</l>
+<l>Die porte van Grammont,</l>
+<l n="30">Dies die wive waren blide,</l>
+<l>Ende liepen in te stride,</l>
+<l>Als die waenden haren here</l>
+<l>Te voeten vallen van haren zere.</l>
+<l>Maer alsi binnen waren</l>
+<l n="35">Sloten die felle baren</l>
+<l>Die porten met groter haest.</l>
+<l>Die vrouwen die hem waren naest</l>
+<l>Gegrepen doe die keytive.</l>
+<l>Niet wisten die goede wive,</l>
+<l n="40">Watsi mettem wouden doen;</l>
+<l>Al omme leidense die glottoen</l>
+<l>In cameren, in torren, in stal.</l>
+<l>Die vrouwen maecten groot gescal</l>
+<l>Ende riepen hulpe ende wachermen,</l>
+<l n="45">Maer en baette niet haer kermen:</l>
+<l>Verraders met ongenade</l>
+<l>Haer gevouch mettem daden;</l>
+<l>Dat was cracht ende mort</l>
+<l>[D]ie ghevane hebben gehort</l>
+<l n="50"><milestone unit="fol" n="1rb"/> Dat sce[.............]</l>
+<l>So si al omme wa[........]</l>
+<l>Ende die man alt[........]</l>
+<l>De welke metten wiven quamen</l>
+<l><edition n="298"/>Waren ghevaen altezamen:</l>
+<l n="55">Inde torren mense leide</l>
+<l>Biden anderen, dats waerheide;</l>
+<l>Daer die hertoge Florant</l>
+<l>Ghevangen lach, si u becant,</l>
+<l>Quamen ridders ende cnapen,</l>
+<l n="60">Soe dadent clerke ende papen.</l>
+<l>Als die hertoge heeft vernomen,</l>
+<l>Vraeghdi hoe si daer sijn comen;</l>
+<l>Doe seiden si, die goede liede,</l>
+<l>Hoe dat metter stede ghesciede</l>
+<l n="65">Beide stille ende luut,</l>
+<l>Ende hoe si ontliepen wt</l>
+<l>Om an hem te doene clagen,</l>
+<l>Ende hoe si onderwegen zagen</l>
+<l>Die liede die hem maecten cont,</l>
+<l n="70">"Hoe wij u souden te Grammont</l>
+<l>Viinden in goeden state:</l>
+<l>Daer toe quamen wij te late,</l>
+<l>Want als wij binnen der porten quamen,</l>
+<l>Die verraders die wive namen</l>
+<l n="75">Ende leidense met hare macht,</l>
+<l>Daer si hem beraeden cracht,</l>
+<l>Ghelijc dat wij mogen horen:</l>
+<l>Vrouwen, jonfrouwen wel geboren,</l>
+<l>Maechden ende ghehude vrouwen,</l>
+<l n="80">Die haer ghezelscap waenden scouwen,</l>
+<l>Twelke dat al hier quam.</l>
+<l>Ons lieden men aldoe nam,</l>
+<l>Ende brocht ons hier gevaen.</l>
+<l>Met Lottrike eest vergaen</l>
+<l n="85">Jammerlike binnen der port:</l>
+<l>Vele volx es daer vermort</l>
+<l>Van die hem setten ter were;</l>
+<l>XLm ende mere</l>
+<l>Felle verraders sijnder binnen,</l>
+<l n="90">Die de torren ende die tinnen</l>
+<l>Hebben gewonnen al geheel;</l>
+<l>Bezet hebben si den casteel;</l>
+<l>Die scone Berte es ghevaen,</l>
+<l>Daer Pepijn, die felle naen,</l>
+<l n="95">Sinen wille met sal doen,</l>
+<l>Versiet niet ons here Jezoen.</l>
+<l><edition n="299"/>Ende die keyser merret lange:</l>
+<l>Het comt al in bedwange</l>
+<l><milestone unit="fol" n="1va"/> [...............] Vrankerike</l>
+<l n="100">[..............] wij vernomen</l>
+<l>[..........] die ons sal doemen",</l>
+<l>Sprac die oude vieliaert,</l>
+<l>"Hoe fel es dese naen bastaert.</l>
+<l>Ende hoe quaet es sijn begerte.</l>
+<l n="105">Ay werde dochter, scone Berte,</l>
+<l>Nu sal die overfelle glottoen</l>
+<l>Sinen wille met u doen!</l>
+<l>Sone verblidic nemmermere.</l>
+<l>Almachtech God, grote here,</l>
+<l n="110">Wat rouwen so es mien</l>
+<l>Cort toe comen onverzien!</l>
+<l>Ay, valsch bisscop Rucwaert!</l>
+<l>Bi u ic verraden waert;</l>
+<l>Op u moedic gheen traysoen,</l>
+<l n="115">Ende op die andere felloen,</l>
+<l>Die ghewide prelate zijn.</l>
+<l>Aylace! ic heb de liede mijn</l>
+<l>Verloren bi onverzienechede,</l>
+<l>Ende daer toe mine stede.</l>
+<l n="120">Mijn lant es in avonturen</l>
+<l>Entie felle creaturen</l>
+<l>Vercracbten die goede wiven.</l>
+<l>Ic horse groten rouwe driven</l>
+<l>Ende bitterlike carine.</l>
+<l n="125">Ten zouden gheen sarrasine,</l>
+<l>Dat wetic, inde werelt doen.</l>
+<l>Ay, Karel, edel keyser coen,</l>
+<l>Lettel wetti mine noot!</l>
+<l>Van rouwen salic bliven doot,</l>
+<l n="130">Eer ic u met ogen scouwe!</l>
+<l>Ay Maria, zoete vrouwe,</l>
+<l>Ontfaet de ziele van minen lieden,</l>
+<l>Die de felle meysenieden</l>
+<l>Jammerlijc hebben vermort".</l>
+<l n="135">Doe viel de hertoge rechtevort</l>
+<l>In ommacht van groten zere.</l>
+<l>Si scoten an haren here,</l>
+<l>Papen, clerke, leke mede.</l>
+<l><edition n="300"/>Daer mochtmen grote jammerhede</l>
+<l n="140">Sien onder die van Lottrike,</l>
+<l>Daer si horden so bitterlike</l>
+<l>Roupen ende criten ghinder</l>
+<l>Haer wijfs ende haer kinder,</l>
+<l>Haer moeders, zuster ende nichten,</l>
+<l n="145">[Men]ne zoude niet ghedichten</l>
+<l>Den jammer ende de grote noze</l>
+<l>Die si dreven, die Lottroze,</l>
+<l parse="ignore"><milestone unit="fol" n="1vb"/> Om den hertoge haren here</l>
+<l>Die vander [...........]</l>
+<l parse="ignore" n="150">Ic en wistu hoe ghenoemen</l>
+<l>Die clage ende den groten rouwe,</l>
+<l>Die hi dreef, die ghetrouwe,</l>
+<l>Ende sijn liede mede.</l>
+<l>"Ay God, dor dijn ontfermechede",</l>
+<l n="155">Seide de hertoge Florant,</l>
+<l>"Oft ic an hadde mijn ge[want]</l>
+<l>Met minen lieden, die sijn gevaen;</l>
+<l>Oft wij daer buten op den naen</l>
+<l>Striden mochten, op d[en] verradere,</l>
+<l n="160">Ende avonturen tlijf te [gadere]</l>
+<l>Oft lossen die vrouwen [wter noot],</l>
+<l>Daar souder vele bliven doo[t]</l>
+<l>Vanden verraders, die sijn fel,</l>
+<l>Eer wij storven, wetic wel;</l>
+<l n="165">Al waert dat wi so bleven doot,</l>
+<l>Wij zouden varen ter [bliscap] groot</l>
+<l>Ende Karel soude ons [wreken],</l>
+<l>Datmer of soude spreken</l>
+<l>M. jaer na ons doot.</l>
+<l n="170">Maer dits de jammerheide groot,</l>
+<l>Dat wij aldus sijn gevaen</l>
+<l>Ende wij niet in staden staen</l>
+<l>Mogen de ghene die wij minnen.</l>
+<l>Dat wij van rouwen niet ontzinnen,</l>
+<l n="175">Dat es wonder", sprac Florant;</l>
+<l>Ic en wiste hoe doen becant</l>
+<l>Die ontfermelike worde</l>
+<l>Diemen aldaer zeggen horde</l>
+<l>Onder cleine ende groot,</l>
+<l n="180">Maer het was dat niet besloot:</l>
+<l><edition n="301"/>Si moesten haren rouwe driven</l>
+<l>Om [die] verraders die metten wiven</l>
+<l>D[re]ven haer overdaet</l>
+<l>[T]oter wilen, dat verstaet,</l>
+<l n="185">Dat sijs hadden haer begeren.</l>
+<l>Die vrouwen mochten hem niet weren:</l>
+<l>Als die een hadde ghedaen,</l>
+<l>Quammer dander toe gegaen,</l>
+<l>Ghelijc oft si waren ghemene,</l>
+<l n="190">Dies si waren in groten gewene,</l>
+<l>Die wel goede creaturen.</l>
+<l>Ende die overscone figuren</l>
+<l>Waren beweent so jammerlike,</l>
+<l>Dat onzen here van hemelrike</l>
+<l n="195">Ontfermen mochte wel te rechte,</l>
+<l>Dattie overquade cnechte</l>
+<l><milestone unit="fol" n="2ra"/> Ende die cracht ende die ontrouwe</l>
+<l>Sal hem vergaen te groten rouwe,</l>
+<l>Als die dach comt van paymente!</l>
+<l n="200">Die vrouwen leden haer tormente</l>
+<l>Ten alder besten datsi conden.</l>
+<l>An die verraders si verstonden,</l>
+<l>Hoet verginc met haren lieden,</l>
+<l>Daer die vrouwen om verbrieden</l>
+<l n="205">Van roupen in de herte binnen,</l>
+<l>Maer sine mochtender an niet winnen</l>
+<l>Dan zeer ende droefhede.</l>
+<l>Alser die verraders mede</l>
+<l>Haren wille hadden ghedaen,</l>
+<l n="210">Ghingen die verraders zaen</l>
+<l>Alle ghemeinlike te rade,</l>
+<l>Watmen metten [vrou]wen best [d]ade</l>
+<l>[D]oe seiden si dat hem goet dachte</l>
+<l>Dat sise hielden ande nachte,</l>
+<l n="215">Ende sise dan lieten wandren;</l>
+<l>[D]en raet wouden si niet verandren,</l>
+<l>[D]ie wel overfelle keytiven.</l>
+<l>Des nachts waren si metten wiven,</l>
+<l>Beide buten ende binnen.</l>
+<l n="220">[I]nden woude, wilt verzinnen,</l>
+<l><edition n="302"/>Sire heymelijc met traken.</l>
+<l>Spize, wijn van goeder smaken</l>
+<l>Brachten de heren toe en[de] cnechten:</l>
+<l>Onderlinge sire om vechten</l>
+<l n="225">Dat elc die scoenste woude minnen.</l>
+<l>Beide buten ende binnen</l>
+<l>Werter omme groot discort:</l>
+<l>Deen heeft den andren vermort.</l>
+<l>Omder wrake der mesdaet</l>
+<l n="230">Onder die verraders quaet</l>
+<l>So es comen dit ghescal.</l>
+<l>Doe waren de vrouwen al</l>
+<l>Wel laten gaen te tide,</l>
+<l>Des si waren herde blide.</l>
+<l n="235">Maer die edelste, dat verstaet,</l>
+<l>Hielden de valsche prelaet,</l>
+<l>Ende die scoenste int vertogen;</l>
+<l>Ende die valsche hertogen,</l>
+<l>Ende die felle valsche naen</l>
+<l n="240">Was van moede so ontdaen</l>
+<l>Op ziere nichten der hertoginne</l>
+<l>Datti ghene ander minne</l>
+<l><milestone unit="fol" n="2rb"/> [...............]</l>
+<l>[...............]</l>
+<l n="245">[...............]</l>
+<l>[...............]</l>
+<l>Na sinen [..............]</l>
+<l>Metter [...............]</l>
+<l>Ende nem[..............]</l>
+<l n="250">Ewelike [.............]</l>
+<l parse= "ignore">Ende behuwen [.... L]ottrike,</l>
+<l parse= "ignore">Ende so an hem Vrankerike,</l>
+<l>Sone soudse niemen mogen verdriven,</l>
+<l>Sine souden here ende vrouwen bliven;</l>
+<l n="255">Maer het sal, wanic, anders gaen</l>
+<l>Dan hi vizi[ert, d]e felle naen:</l>
+<l>Ic wane so es [men]ich here</l>
+<l>Dicwile bedrogen zere,</l>
+<l>Alsoot cortelec zal sijn</l>
+<l n="260">Metten bastaert Pepijn.</l>
+<l>Van hem willic laten bliven</l>
+<l>Ende daertoe vanden wiven,</l>
+<l><edition n="303"/>Die rouwe dreven, si u cont.</l>
+<l>Vanden castele Grammont</l>
+<l n="265">Liepen si bi groten scaren,</l>
+<l>Alsi dies verledicht waren,</l>
+<l>Rouwe drivende ende zeer,</l>
+<l>Van uren turen lanc so meer.</l>
+<l>Elc claechde andren sine noot.</l>
+<l n="270">Ic zwige vanden rouwe groot,</l>
+<l>Dien si dreven, die goede wiven:</l>
+<l>Van Karel, den coninc, willic scriven</l>
+<l>Ende van ziere baronye:</l>
+<l>Die edele Karel hadde envie</l>
+<l n="275">So groot, datti waende bederven,</l>
+<l>Om datten woude onterven</l>
+<l>Die felle bastaert, sijn naen:</l>
+<l>Die toren condem niet vergaen</l>
+<l>Wter herte nacht no dach;</l>
+<l n="280">Gherusten datti niet en mach.</l>
+<l parse="ignore">Altoes riep die keyser       </l>
+<l parse="ignore">Stillekine: "ay fel[.......]</l>
+<l parse="ignore">Ongescepen boutseus[....]</l>
+<l parse="ignore">Wa[......]mach[......]</l>
+<l parse="ignore" n="285">Dat[....] boven m[......]</l>
+<l parse="ignore">[.........] ic neme u tleven</l>
+<l parse="ignore">N[....]eren u na u recht</l>
+<l parse="ignore">[.....] ongescepen cnecht</l>
+<l parse="ignore"><milestone unit="fol" n="2va"/> [...............]</l>
+<l parse="ignore" n="290">[...............]</l>
+<l parse="ignore">[...............]</l>
+<l parse="ignore">[.............] te mi</l>
+<l parse="ignore">[.............] sijt vroeder</l>
+<l parse="ignore">[.............] broeder</l>
+<l parse="ignore" n="295">[.............]dande</l>
+<l parse="ignore">[............] wten lande</l>
+<l parse="ignore">[............] jaren xiiij</l>
+<l parse="ignore">[...........] onder die payene</l>
+<l parse="ignore">Moeste dienen als soudenier</l>
+<l parse="ignore" n="300">[.....]n doe dede die goede Bayvier</l>
+<l parse="ignore">[.....]r ghetic nemmermere.</l>
+<l parse="ignore">Nochtan so halp mi ons here,</l>
+<l>Dat icse meesterde int ende</l>
+<l>Ende dat icse hinc ende blende,</l>
+<l n="305"><pb n="304"/> Die ghene die waren in haer gespan:</l>
+<l>Aldus salic die tyran</l>
+<l>Begaden gemeinlike.</l>
+<l>Waric binnen Vrankerike,</l>
+<l>Nemmermeer en siet mi man</l>
+<l n="310">Van desen dage vort an</l>
+<l>Halsberch comen wten live,</l>
+<l>Ic en sal de felle keytive</l>
+<l>Alle zien te mier ghenaden,</l>
+<l>Die mi hebben zo verraden!",</l>
+<l n="315">[D]oe beval die keyser fijn</l>
+<l>Datmen loede dat karijn:</l>
+<l>Hi woude des ander daghs tilike</l>
+<l>Varen dor Lottrike</l>
+<l>Bezien den goeden Florant</l>
+<l n="320">Ende ziere dochter ?aetsemant</l>
+<l>Berten, siere petrine;</l>
+<l>Ende het waer de rechte line</l>
+<l>Ter stede toe van Ryviere.</l>
+<l>Doe waren daer vele princhiere</l>
+<l n="325">Die gherne te lande waren gevaren,</l>
+<l>Daer si en quamen in vele jaren.</l>
+<l>Maer die coninc was so gram,</l>
+<l>Dat niemen, als ic vernam,</l>
+<l>Orlof an hem dorste nemen,</l>
+<l n="330">Maer alse [alle?] vrouden si ghetemen</l>
+<l parse= "ignore">[.......] si reden hare waert.</l>
+<l parse= "ignore">Nu so moet u sijn verclaert</l>
+<l parse= "ignore">Vanden boden ?felloen</l>
+<l parse= "ignore">Die vorden hertoge Gwelloen,</l>
+<l n="335"><milestone unit="fol" n="2vb"/> Hoet in Lottrike es gesciet.</l>
+<l>Doe seide tfelle diet,</l>
+<l>Datsi hem spoeden, si u cont,</l>
+<l>Te Lottrike te Grammont,</l>
+<l>T oudenarde, te Tornay,</l>
+<l n="340">Ende seiden hem alle tfray,</l>
+<l>Datsi hem gemeinlike</l>
+<l>Verzagen Karel van Vrankerike</l>
+<l>Meende te doene verdriet,</l>
+<l>Ende si hem verlieten niet</l>
+<l n="345"><pb n="305"/> Op enegen troost, op enech genade,</l>
+<l>Maer dat elc tquaetste dade,</l>
+<l>Dat hi mach ende can.</l>
+<l>Mochtse Karel, den hogen man</l>
+<l>Doot slaen ende Roelande,</l>
+<l n="350">Si bleven heren vanden lande,</l>
+<l>Want den jonghen Lodewike</l>
+<l>Ende Loyere der ghelike</l>
+<l>Souden si bringen wel ter doot.</l>
+<l>Doe sone letten smal no groot</l>
+<l n="355">Die felle spires, si u cont,</l>
+<l>Sine daden hem te Grammont,</l>
+<l>Den wech alsi ierst conden.</l>
+<l>Ende Gwelloen ghinc vermonden</l>
+<l>Sinen maghen ende verclaren,</l>
+<l n="360">Hoe die bastaert hadde gevaren.</l>
+<l>Doe drougen eens die keytiven,</l>
+<l>Datsi alle souden bliven</l>
+<l>Bi Karel in elker stont</l>
+<l>Ende hem raden metter mont</l>
+<l n="365">Scone dinc tsire onbaten,</l>
+<l>Want waert dat sine wouden laten</l>
+<l>Ende si tharen lande voeren,</l>
+<l>Si souden daer in beroeren</l>
+<l>Ende pensen zonderlinc</l>
+<l n="370">"Dat wij wisten vander dinc,</l>
+<l>Dies selen wij bliven biden man,</l>
+<l>Sone mach ons niemen tyen an</l>
+<l>Dat wire af weten twint.</l>
+<l>Pepijn es so hoech ghezint,</l>
+<l n="375">Hine souder af houden clein no groot,</l>
+<l>Hine slouge sinen vader doot,</l>
+<l>Quame hi in sijn gemoet".</l>
+<l>Dit so dochtem allen goet.</l>
+<l>Heymelike datse spreken:</l>
+<l n="380">"Mochten wij ons maghe wreken</l>
+</text>
+<!--</ENTRY>
+--></TEI.2>

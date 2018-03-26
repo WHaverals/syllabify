@@ -1,0 +1,430 @@
+<?xml version='1.0'?><!DOCTYPE TEI.2 PUBLIC '-//TEI P4//DTD Main Document Type//EN' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd' [<!ENTITY % TEI.prose 'INCLUDE'><!ENTITY % TEI.linking 'INCLUDE'><!ENTITY % TEI.figures 'INCLUDE'><!ENTITY % TEI.analysis 'INCLUDE'><!ENTITY % TEI.corpus 'INCLUDE'><!ENTITY % TEI.XML 'INCLUDE'><!NOTATION TEI-XML PUBLIC 'TEI P4' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd'><!-- internal INL dtd --><!ELEMENT b (#PCDATA)><!ELEMENT l (#PCDATA | b)*><!-- end of internal INL dtd -->]><TEI.2><!--<ENTRY id="i662"><teiHeader><fileDesc><titleStmt><title>Renout van Montalbaen</title>
+</titleStmt>
+<interpGrp type="pubYear_from"><interp value="1340"/></interpGrp>
+<interpGrp type="witnessYear_from"><interp value="1340"/></interpGrp>
+<interpGrp type="pubYear_to"><interp value="1360"/></interpGrp>
+<interpGrp type="witnessYear_to"><interp value="1360"/></interpGrp>
+<TITEL>Renout van Montalbaen</TITEL>
+<author>Onbekend</author>
+<AARD>Rijm</AARD>
+<BRON nr="K103">'s-Gravenhage, Koninklijke Bibliotheek, 133 L 11 (fragm.)</BRON>
+<DATUM>1340-1360</DATUM>
+<OMVANG>400 verzen</OMVANG>
+<BRON.OPM>Twee bladen, met nog zeer smalle marges; thans d.m.v. een strookje papier aan elkaar geplakt. Per bladzijde 2 kolommen en per kolom 50 regels. Volgens Duinhoven (1973), 179-180, behoorde fol. 2 tot hetzelfde katern als fol. 2-4 van de fragmenten Berlijn, Staatsbibliothek Preussischer Kulturbesitz, Germ. fol. 751,1. Tussen het Haagse blad en fol. 2 van de Berlijnse fragmenten ontbreekt &eacute;&eacute;n blad.</BRON.OPM>
+<VERWIJZING>Berlijn, Staatsbibliothek Preussischer Kulturbesitz, Germ. fol. 751,1 (fragm.)</VERWIJZING>
+<EDITIE>A.M. Duinhoven: 'De Haagse fragmenten van de Renout van Montalbaen'. In: NTg 66 (1973), 177-201 (185-194).</EDITIE>
+<STATUS>Diplomatisch</STATUS>
+<EDITIE.OPM>In de editie Duinhoven volgen achter de versregels cursieve cijfers, die verwijzen naar de corresponderende verzen in Pfaffs editie van een Middelduitse vertaling (F. Pfaff: Reinolt von Montelban oder die Heimonskinder. T&uuml;bingen, 1855 (Bibliothek des literarischen Vereins, 174)). Deze verwijzingen zijn hier niet overgenomen. Verder wordt in de editie Duinhoven bij de blad- en kolomaanduiding tussen haken verwezen naar de overeenkomstige passages in Overdieps editie van het volksboek (G.S. Overdiep: De historie van den vier Heemskinderen. Uitgegeven naar de druk van 1508, berustende op de Universiteitsbibliotheek te M&uuml;nchen. Groningen [etc.], 1931. (Groninger Bijdragen voor Taal- en Letterkunde, I)). Ook deze verwijzingen zijn hier niet overgenomen.</EDITIE.OPM>
+<BRONNEN>Van vier handschriften zijn er Middelnederlandse fragmenten overgeleverd. Edities zijn er van de volgende handschriften/fragmenten: Hs. I: - <x nr=K102>Berlijn, Staatsbibliothek Preussischer Kulturbesitz, Germ. fol. 751,1 (fragm.)</x>
+ - <x nr=K103>'s-Gravenhage, Koninklijke Bibliotheek, 133 L 11 (fragm.)</x>
+  Hs. II: - <x nr=K104>Leuven, Universiteitsbibliotheek(?) (fragm.) [verloren gegaan]</x>
+ Hs. III: - <x nr=K133>Riga, Stadsbibliotheek, 3 (fragm.) [zoek]</x>
+ Hs. IV: - <x nr=K105>Stockholm, Statens Historiska Museum, Inv. nr. 22895: 5 (fragm.)</x>
+</BRONNEN>
+<HSDRUK>Historie vanden vier heemskinderen</HSDRUK>
+</fileDesc>
+</teiHeader>
+--><text>
+<l n="1"><pb n="185"/><milestone unit="fol" n="1ra"/> Na die bisscoppen saten hertogen</l>
+<l>die rike waren ende vele mogen</l>
+<l>Na die hertogen saten grauen</l>
+<l>die rike waren van hauen.</l>
+<l n="5">daerna saten ic wilt bedieden</l>
+<l>vorste ridders van maisnieden</l>
+<l>die houesch waren ende milde</l>
+<l>daerna die ridders van .i. scilde</l>
+<l>Ic wane nieman dienen sach.</l>
+<l n="10">bet dat men daer diende vpden dach.</l>
+<l>Si saten alle na haer geuouch</l>
+<l>Entie scinkere gaf hem genouch</l>
+<l>vordie tafle stont renoudijn.</l>
+<l>ende diende den rechten. fijn</l>
+<l n="15">Ende adelaert die ridder snel</l>
+<l>diende vtermaten wel.</l>
+<l>Entie gebroedren altemale</l>
+<l>vordie heren inde zale</l>
+<l>Ic late bliuen vanden gerichten</l>
+<l n="20">Enmochte geen man gedichten.</l>
+<l>Ne geseggen ooc waer of</l>
+<l>Ende elc men daer te pointe gaf</l>
+<l><b>N</b>v latic vanden etene bliuen</l>
+<l>Ende sal v vort an bescriuen</l>
+<l n="25">doe damelaken vp waren gedaen</l>
+<l>brochtmen water ende ginc dwaen</l>
+<l>Ende dwougen daer alreest</l>
+<l>die rijcst waren ende meest</l>
+<l>daer was bliscap sonder scouwe</l>
+<l n="30">Elc hadde inde hant ene vrouwe</l>
+<l>die bagel was ende scone</l>
+<l>Ic seggu bi gode vanden trone</l>
+<l>althof mochtmen beset scouwen</l>
+<l>met vrouwen ende joncfrouwen</l>
+<l n="35">doeder water was genomen.</l>
+<l>Es die boutelgier metten wine comen</l>
+<l>hi gaf hem genouch ende renoudijn.</l>
+<l>dede daer ouervloeyen den wijn.</l>
+<l>doetochden haer spel dieder waren.</l>
+<l n="40">alle diegoede vedelaren.</l>
+<l>Elkerlijc van sinen spele</l>
+<l>wel te maten ende niet vele</l>
+<l>Lodewijcs vader ginc slapen.</l>
+<l>met hem rudders ende cnapen</l>
+<l n="45"><pb n="186"/> wel .cccc. bi getalle</l>
+<l>wel geachemeirt alle</l>
+<l>Lodewijc sprac lude ende stille</l>
+<l>Nv volge mi die goet hebben wille</l>
+<l>Ende helpt mi met ter vaert</l>
+<l n="50">In gonen sconen boongaert</l>
+<l><milestone unit="fol" n="1rb"/> Si holpen hem ter seluer stede</l>
+<l>Ende si volgeden hem alle mede</l>
+<l>doe ginc hi geuen scone gauen.</l>
+<l>Coningen hertogen ende grauen.</l>
+<l n="55">So dedi ooc ic wilt bedieden</l>
+<l>vorsten ridders van maisnieden</l>
+<l>die houesch waren ende milde</l>
+<l>daerna rudders van .i. scilde</l>
+<l>alle vergiftise ginder</l>
+<l n="60">Sonder sgrauen aymijns kinder</l>
+<l>biden here van nazarene</l>
+<l>hem ne gaf hi groot no clene</l>
+<l>doe gingen de broeders allegader.</l>
+<l>Ende seident aymijn haren vader.</l>
+<l n="65">als hi verstont die wort</l>
+<l>Sal hijt den keyser clagen vort</l>
+<l>Ende ginc ter camere daer hi lach</l>
+<l>als hine met ogen sach</l>
+<l>her keyser seiti nv sijn alleginder.</l>
+<l n="70">vergift sonder alle minne kinder.</l>
+<l><b>D</b>ie keyser sprac ic sal minnen neuen</l>
+<l>harde grote giften geuen.</l>
+<l>Ic wilse goeden also eerlike</l>
+<l>alse enige sijn in dit rike</l>
+<l n="75">doe ginc aymijn om sine kinder</l>
+<l>Ende brochtse vorden keyser ginder</l>
+<l>Siquamen ten bedde daer hi lach</l>
+<l>Ende seiden here god geue v goeden dach</l>
+<l>hi andworde sijt willecomen neuen.</l>
+<l n="80">Ic wille v scone giften geuen</l>
+<l>ritsaert ghi sijt bi getalle</l>
+<l>doutste vanden broedren alle</l>
+<l>het was mi wel geseit tevoren</l>
+<l>want ghi wart eerst geboren</l>
+<l n="85">Ic sal v geuen scat ende haue</l>
+<l>Ende maken v in spaingen graue</l>
+<l>adelaert wel coene wigant</l>
+<l>Ic geue v poelien dat rike lant</l>
+<l>Te wesene graue ende here</l>
+<l n="90">Tuwen liue emmermere</l>
+<l>ridsaert ic geue v seuen scilde met trouwen</l>
+<l>Tusscen parijs ende lauwen</l>
+<l><edition n="187"/>Ende moniu des berges voet</l>
+<l>bigode dits .i. scone goet</l>
+<l n="95">Enten .vi. penninc hebt mede</l>
+<l>Renout riepi ter seluer stede</l>
+<l>Ende seide lieue neue mijn</l>
+<l>Ghi moet wel gegift sijn.</l>
+<l>v geuic tlant van artoys.</l>
+<l n="100">Ende van angiers ende van bloys.</l>
+<l><milestone unit="fol" n="1va"/> Ende dat goede lant van blatoene</l>
+<l>daertoe geuic v rudder coene</l>
+<l>.I. busant van roden goude</l>
+<l>mettien boot hine renoude</l>
+<l n="105">Nemt hier neue renout</l>
+<l>dits recht ebreuchs gout</l>
+<l>In weet v wat senden mee</l>
+<l>god senden mi vter wilder zee</l>
+<l>Coper met broot ende wijn</l>
+<l n="110">Nauens wert de penninc dijn.</l>
+<l>Ic seggu met waerheden dat</l>
+<l>hijs beter dan al mijn scat</l>
+<l>hi weicht wel.vijftien pont</l>
+<l>Renout namene tier stont</l>
+<l n="115">Ende warpene tien tiden</l>
+<l>In .i. aelmoeseniere van ziden.</l>
+<l>doe knielden die heilden goet</l>
+<l>Ende custen skeysers voet</l>
+<l>Ende ontfingen haer goet te lene</l>
+<l n="120">haymijns kinder alle gemene</l>
+<l>Ende namen orlof ter vaert</l>
+<l>Ende streken inden boongaert</l>
+<l>dit cam lodewijc te voren</l>
+<l>des haddi toren</l>
+<l n="125">dat sal hi wel ondervinden</l>
+<l>Nv comt aymijn met sinen kinden</l>
+<l>Ende sprac verbolgenlike</l>
+<l>vorden coninc lodewike</l>
+<l><edition n="188"/><b>D</b>oe sprac lodewijc die coninc</l>
+<l n="130">mijn here heift v gegeuen scone dinc</l>
+<l>Ende vwen kinder sonder spanen.</l>
+<l>maer in waens niet ombaren</l>
+<l>wel die .ij. deel van minen rike</l>
+<l>Ic salt v nemen sekerlike</l>
+<l n="135">Icwilse ooc sien of sire toe dogen.</l>
+<l>dat si wapen dragen mogen</l>
+<l>Si moeten prouuen hare cracht gemene</l>
+<l>In dat werpen metten stene</l>
+<l>die hier leit inden boongaert</l>
+<l n="140">Lodewijc spranc vp ter vaert</l>
+<l>Ende riep ic vermete mi</l>
+<l>dat ic die starste si</l>
+<l>entie beste die leift.</l>
+<l>entie de welert binnen heift</l>
+<l n="145">van sconeiden van crachten</l>
+<l>Ende niemen si van meerder geslachte</l>
+<l>Ene werf seidi sinen wille</l>
+<l>Entie ridders zwegen stille</l>
+<l>Ende hi seit anderwerf boude</l>
+<l n="150">doe balch hem aymijn die oude</l>
+<l><milestone unit="fol" n="1vb"/> Ende sprac lodewijc wi kennen wel</l>
+<l>dat gi dapper sijt ende snel</l>
+<l>maer laet staen v hoge wort</l>
+<l>Sidi goethet comt wel vort</l>
+<l n="155">hier es sulc van .xv. iaren</l>
+<l>wildi sine cracht baren</l>
+<l>hi worpe also verre metten stene</l>
+<l>dat nes logene gene</l>
+<l>dats ware te doene talre stont</l>
+<l n="160">hi sprac god sat hebdi grijs hont</l>
+<l>Ende ooc v grise wangen</l>
+<l>Ende al dat gi hebt beuangen</l>
+<l>moete varen inder waert</l>
+<l>v houde hooft v grise baert</l>
+<l n="165">Ne lietict niet dor mine ere</l>
+<l>Ic soude v so hertelike sere</l>
+<l>met minen vusten slaen</l>
+<l>dat v dogen souden vergaen</l>
+<l>Nv willic dat hier kinder begene</l>
+<l n="170">haer cracht prouuen metten stene</l>
+<l>Lodewijc warp met aesten groot</l>
+<l><edition n="189"/>Neder mantel ende surcoot</l>
+<l>hi wart verbolgen ende erre</l>
+<l>Ende warpene .xij. voete verre</l>
+<l n="175">den zwaren steen die gonder lach</l>
+<l>daer menich man toe sach.</l>
+<l>daerna worpene aestelike</l>
+<l>die beste van kerstinrike</l>
+<l>beede meerre ende minder</l>
+<l n="180">Sonder sgrauen aymijns kinder.</l>
+<l>daer was niemen so starc no so goet</l>
+<l>Lodewijc nontwarpene .i. voet</l>
+<l>dordat lodewijc waren int lant</l>
+<l>Lieten si hem de vorderhant</l>
+<l n="185">alshi ontworpen hadde hem allen</l>
+<l>riepi mi es grote ere gauallen</l>
+<l>her grise w[aer] sijn v kinder.</l>
+<l>Twine gadi selue werpen ginder.</l>
+<l>hier es niemen also goet</l>
+<l n="190">In verwerpene enen voet</l>
+<l>gaet wech aelt renoude</l>
+<l>giseit dat hi mi ontwerpen soude</l>
+<l>Ic wanic v also harde</l>
+<l>Trecken sal bi vwen baerde</l>
+<l n="195">dat v selen in corter stonde</l>
+<l>die tande vliegen vten monde</l>
+<l><b>D</b>oe balch aymijn van dordoene</l>
+<l>Ende sprac gine wert niet so coene</l>
+<l>Ic moete varen inder waert</l>
+<l n="200">Quame v hant an minnen baert</l>
+<l><milestone unit="fol" n="2ra"/> Hare vader hadder dat was waer</l>
+<l>onthouden geweist ouer .vij. jaer</l>
+<l>hi verkende de rudders milde</l>
+<l><edition n="190"/>Biden wapinen biden scilde</l>
+<l n="205">hi seide ic sie wel dat ginder</l>
+<l>Comen gereiden aymijns kinder</l>
+<l>Ic kense wel bi apoline</l>
+<l>Ghersi der herberge minne</l>
+<l>dor de lieue van haren vader</l>
+<l n="210">Salicse onthouden alle gader</l>
+<l>hebsi haers vaders moet</l>
+<l>Ende si manlijc sijn ende goet</l>
+<l>Si sullen minne viande</l>
+<l>alle driuen vten lande</l>
+<l n="215"><b>D</b>oe ginc hi te dale waert</l>
+<l>die borch brugge metter vaert</l>
+<l>die rudders beetten van beyarde</l>
+<l>Neder vp die erde</l>
+<l>Ende gingen ten coninc daer sine sagen</l>
+<l n="220">die daer quam met sinen magen</l>
+<l>Si groeten met worden scone</l>
+<l>die coninc sprac god moets v lonen</l>
+<l>doe vragede die coninc milde</l>
+<l>wat si begerden ende wilden</l>
+<l n="225">doe seide renout openbare</l>
+<l>dathi gerne onthouden ware</l>
+<l>Ende sine broedren also wel</l>
+<l>die starc waren ende snel.</l>
+<l>doe andworde saforet</l>
+<l n="230">wildi gelouen an onse wet</l>
+<l>an mamette an boudewine</l>
+<l>Ende anden voget apoline</l>
+<l>Nenic sprac renout wete god</l>
+<l>dadic dat so waric sod</l>
+<l n="235">Ic wille gelouen an gode</l>
+<l>Ende altoos staen tsinen gebode</l>
+<l>Ende ant helige gods gewerke</l>
+<l>an papen ende an clerke</l>
+<l>Entie wet entie sede</l>
+<l n="240">dies men pliet in kerstinede</l>
+<l>Ende dienen v dagelijcs omme sout</l>
+<l>dit sprac mijn here renout</l>
+<l>Saforet sprac met sconre tale</l>
+<l>bi apoline ic jans v wale</l>
+<l n="245">helpt mi dwingen mine ommezaten</l>
+<l>In sal v niet gebreken laten.</l>
+<l>voert rudders goet van prise</l>
+<l>Ten castele dien ic v wise</l>
+<l>die ouer die porte staet gewracht</l>
+<l n="250">vp den mur bider gracht</l>
+<l><milestone unit="fol" n="2rb"/> Die herberghe lenic v</l>
+<l>geift mi vwen scat ic salne v nv</l>
+<l>houden wel met eren</l>
+<l><edition n="191"/>als ghi wilt van mi keren</l>
+<l n="255">Ic salne v geuen met groten loue</l>
+<l>wildi bliuen met mi te houe</l>
+<l>also lange alsic sal leuen</l>
+<l>So salic v genouch doen geuen</l>
+<l>Renout sprac ic bems vro</l>
+<l n="260">dat mi comen es also</l>
+<l><b>S</b>igauen hem ic seggu dat</l>
+<l>te bestadene haren scat</l>
+<l>Saforet die coene degen</l>
+<l>dedene biden sinen dregen.</l>
+<l n="265">Renout ende sine broedre</l>
+<l>Sijns vaders kinder ende sine moedre</l>
+<l>reden ten castele diemen hem wijst</l>
+<l>die so hoge was geprijst</l>
+<l>Si vonder vp wat si begerden</l>
+<l n="270">van dies wast bouen der herden</l>
+<l>Si bleuen metten coninc daer</l>
+<l>dat seget men ons ouer waer</l>
+<l>Ende dienden sowaer hi wilde</l>
+<l>beede met spere ende met scilde</l>
+<l n="275">orlogeden si dach ende nacht</l>
+<l>manlike met hare cracht</l>
+<l>hare cleder quamen selden uut</l>
+<l>Si moesten roten an de huut</l>
+<l>Si waren wel sciere versleten</l>
+<l n="280">dat yser hadse dor eten</l>
+<l>dus dienden si den coninc daer.</l>
+<l>.I. lettel min dan .iij. jaer</l>
+<l>dathi hem gene ere nedede</l>
+<l>No geretiere houescede</l>
+<l n="285">mijn here renout die graue</l>
+<l>bat dat men sinen scat gaue</l>
+<l>men seide datmen hem geuen soude</l>
+<l>Ende dagede dicken renoude</l>
+<l>hi onthilden hem nochtan.</l>
+<l n="290">doe balch renout die edele man</l>
+<l>arde vtermaten sere.</l>
+<l>Ende seide bi gode onsen here</l>
+<l>gheift hi ons onsen scat niet</l>
+<l>hem es euele gesciet</l>
+<l n="295">Ic voersene inder gelike</l>
+<l>alsic dede lodewike</l>
+<l>wat segdi sprac adelaert</l>
+<l>Biden here die gecruust waert</l>
+<l>Slouchdi desen coninc renout</l>
+<l n="300"><pb n="192"/> Sone wisten wi niewaer geen onthout</l>
+<l><milestone unit="fol" n="2va"/> Her renout sprac nochtan</l>
+<l>wi sijn ongeuallige man.</l>
+<l>alhadden wi seluer of gout root</l>
+<l>het werde coper ofte loot.</l>
+<l n="305">ganc wech sprac hi te sinen garsoene</l>
+<l>Tote saforette den coninc coene</l>
+<l>of hi ons cleder wille geuen an.</l>
+<l>willehi ons niet geuen dan.</l>
+<l>Seght hem ooc al dat</l>
+<l n="310">dathi ons geue onsen scat</l>
+<l>doet hijs niet bi mire trouwen</l>
+<l>het wert hem arde wel berouwen</l>
+<l>verstant wel wattie coninc seit.</l>
+<l>Ende segt mi aldie waerheit</l>
+<l n="315">die garsoen dorst laten niet</l>
+<l>hi dede dat hem sijn meester hiet.</l>
+<l>Ic seggu eist v bequame.</l>
+<l>windalin es sine name</l>
+<l>diegaersoen liep wech te hant</l>
+<l n="320">daer hi gonen coninc vant</l>
+<l>Hi groetene wel houescelike</l>
+<l>daerna seidi coninc rike</l>
+<l>mine heren bidden v sere</l>
+<l>dat ghi doet vwes selues ere</l>
+<l n="325">Entie ruddren vercleden doet</l>
+<l>Ende ghi hem geuet hare goet</l>
+<l>haren scat die si hier brochten</l>
+<l>doe si v herbergen sochten.</l>
+<l><b>H</b>i seide gaet och garsoen</l>
+<l n="330">quaden ende moeti doen</l>
+<l>Entie incomelinge v heren</l>
+<l>waer waert si hem bekeren.</l>
+<l>mi mochte lichte ic soudse vangen</l>
+<l>Ende bi hare kelen hangen</l>
+<l n="335">here seiti ghi daet ommate</l>
+<l>doe wincti sinen drussate</l>
+<l>In sarsasinoys sprac hi zaen</l>
+<l>dathiden garsoen soude slaen.</l>
+<l>hi was scinkere ende drussate mede</l>
+<l n="340">Nv mogedi horen wat hi dede</l>
+<l>Sine hant hi verdrouch</l>
+<l>vor de mont hine slouch.</l>
+<l>dathem neise ende lippe brac</l>
+<l>metten voete hine stac</l>
+<l n="345">Ende trakene dor tfier mede</l>
+<l>die garsoen liep wech ter stede</l>
+<l>Talreest hi vernam</l>
+<l>dat hi vor sinen here quam.</l>
+<l>hem liep tbloet tier stonde</l>
+<l n="350"><pb n="193"/> Ouer nese enten monde</l>
+<l><milestone unit="fol" n="2vb"/> Alsen renout bloeden sach.</l>
+<l>mogedi horen wies hi plach.</l>
+<l>hi sprac ter seluer stede</l>
+<l>Sech mi garsoen wiet di dede</l>
+<l n="355">Saforets scinkere heift mi te blouwen</l>
+<l>datseggic v in goeder trouwen</l>
+<l>hi es scinkere ende drussate</l>
+<l>Renout sprachi dede ommate</l>
+<l>waeromme slouch hi di dus sere</l>
+<l n="360">In weets niet bi onsen here.</l>
+<l>Renout sprac bi gode</l>
+<l>hi es sot die enen bode</l>
+<l>aldus sere soude slaen</l>
+<l>Enten here mach begaen</l>
+<l n="365">hi mire wet bi mire trouwen</l>
+<l>dat hi di slouch sal hem rouwen.</l>
+<l>waest. seide renout omme dat</l>
+<l>dat wi hiesten onsen scat</l>
+<l>onse gout ende onse haue</l>
+<l n="370">hi seide dat hi ons niet negauen.</l>
+<l>No weder cleder nochte paert</l>
+<l>hi seide gine warets niet waert</l>
+<l>No weder gout nochte scat</l>
+<l>Ia seide renout seiti dat</l>
+<l n="375">Ia hi here waerlike dinc</l>
+<l>Ende hi scalt .v incomelinc.</l>
+<l>Ende wincte den drussate daer hi stoet</l>
+<l>ende dede mi slaen vorde mont</l>
+<l>hi seide gi daet alst felle diet.</l>
+<l n="380">Iudaes die gode verriet</l>
+<l>hi seide gi sloucht vwen here</l>
+<l>daer renout balch hem sere</l>
+<l>hiseide waer bestu ridsaert</l>
+<l>Leet beyarde uut ter vaert</l>
+<l n="385">doe tors verdecken wale</l>
+<l>Ende hore na mine tale</l>
+<l>v ende writsarde</l>
+<l>So beuelic beyarde</l>
+<l>wapent v ende ledet uut</l>
+<l n="390">Stillekine sonder geluut</l>
+<l>Seide renout die rudder vri</l>
+<l>adelaert gi moet gaen met mi</l>
+<l>wi sullen ons wapenen ter vaert</l>
+<l>Ende dragen met ons onse zwaert</l>
+<l n="395">Ende nemen onse mantele groene</l>
+<l>Si nemen waren die ruddren coene</l>
+<l>geacement ende gereit</l>
+<l><edition n="194"/>Nv hort wat renout seit.</l>
+<l>met goeder trouwen seidi dat</l>
+<l n="400">onthout ons de coninc onsen scat</l>
+</text>
+<!--</ENTRY>
+--></TEI.2>

@@ -1,0 +1,228 @@
+<?xml version='1.0'?><!DOCTYPE TEI.2 PUBLIC '-//TEI P4//DTD Main Document Type//EN' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd' [<!ENTITY % TEI.prose 'INCLUDE'><!ENTITY % TEI.linking 'INCLUDE'><!ENTITY % TEI.figures 'INCLUDE'><!ENTITY % TEI.analysis 'INCLUDE'><!ENTITY % TEI.corpus 'INCLUDE'><!ENTITY % TEI.XML 'INCLUDE'><!NOTATION TEI-XML PUBLIC 'TEI P4' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd'><!-- internal INL dtd --><!ELEMENT b (#PCDATA)><!ELEMENT l (#PCDATA | b)*><!-- end of internal INL dtd -->]><TEI.2><!--<ENTRY id="i500"><teiHeader><fileDesc><titleStmt><title>Loyhier en Malaert</title>
+</titleStmt>
+<interpGrp type="pubYear_from"><interp value="1350"/></interpGrp>
+<interpGrp type="witnessYear_from"><interp value="1350"/></interpGrp>
+<interpGrp type="pubYear_to"><interp value="1400"/></interpGrp>
+<interpGrp type="witnessYear_to"><interp value="1400"/></interpGrp>
+<TITEL>Loyhier en Malaert</TITEL>
+<author>Onbekend</author>
+<AARD>Rijm</AARD>
+<BRON nr="K56">Antwerpen, Museum Plantin-Moretus, M. 15.10 (Cat. 202,2) (fragm.)</BRON>
+<DATUM>1350-1400</DATUM>
+<OMVANG>200 verzen</OMVANG>
+<BRON.OPM>Twee benedenhelften van een blad. Per bladzijde 2 kolommen; oorspronkelijke aantal regels per kolom is onbekend (nu nog 25).</BRON.OPM>
+<VERWIJZING>Gent, Bibliotheek der Rijksuniversiteit, 1648 (fragm.)</VERWIJZING>
+<EDITIE>K. Iwema: 'De Middelnederlandse fragmenten van Loyhier en Malaert. Een bronnenuitgave'. In: LB 75 (1986), 433-494 (449-483).</EDITIE>
+<STATUS>Diplomatisch</STATUS>
+<EDITIE.OPM>In de editie Iwema zijn lombarden vet afgedrukt, terwijl ze hier niet van een apart kenmerk zijn voorzien.</EDITIE.OPM>
+<BRONNEN>Van twee handschriften zijn er fragmenten overgeleverd: Hs. I, zie: - <x nr=K53>Leiden, Bibliotheek der Rijksuniversiteit, Ltk. 1774 (fragm.)</x>
+ - <x nr=K54>Leiden, Bibliotheek der Rijksuniversiteit, Ltk. 209 (fragm.)</x>
+ Hs. II, zie: - <x nr=K55>Gent, Bibliotheek der Rijksuniversiteit, 1648 (fragm.)</x>
+ - <x nr=K56>Antwerpen, Museum Plantin-Moretus, M. 15.10 (Cat. 202,2) (fragm.)</x>
+</BRONNEN>
+</fileDesc>
+</teiHeader>
+--><text>
+<l parse="ignore"><pb n="476"/><milestone unit="fol" n="1ra"/> Doet coeme minen vrient malaert</l>
+<l>Waer hi bi mi ic waer gesont</l>
+<l>Ne maer en segt hem niet den gront</l>
+<l parse="ignore">[.......]el dat hier es gesciet</l>
+<l parse="ignore" n="5">[B]i g[o]de die hem crucen liet</l>
+<l parse="ignore">[H]i sout maken al verbuert</l>
+<l parse="ignore">[.]e s[..]t cnape sijn paert hurt</l>
+<l parse="ignore">[E]nde ginc iaghen metten sporen</l>
+<l parse="ignore">[...]n wech die lach alsoe wi horen</l>
+<l parse="ignore" n="10">[...]r stede waert van parijs</l>
+<l parse="ignore">[E]nde malaert die dicke prijs</l>
+<l parse="ignore">[......]ghede die es op ghestaen</l>
+<l parse="ignore">[...]n pa[l]ayse es hi gegaen</l>
+<l parse="ignore">[...]i lodewike vant</l>
+<l parse="ignore" n="15">[......]groeten die wigant</l>
+<l parse="ignore">[......]men soude enen coninc</l>
+<l parse="ignore">[.........] wilde die iongelinc</l>
+<l parse="ignore">[.........]e waerheit altemale</l>
+<l parse="ignore">[......]di metten zwaerde van stale</l>
+<l parse="ignore" n="20">[........]se[k]er ges[..]n</l>
+<l parse="ignore">[.........]eide die coene degen</l>
+<l parse="ignore">[..........]t saelt gaen</l>
+<l parse="ignore">[...........]daen</l>
+<l parse="ignore">[V]an uwen broeder den keyser fijn</l>
+<l parse="ignore" n="25">[De] coninc seide [..] trouwen mijn</l>
+<l parse="ignore"><milestone unit="fol" n="1rb"/> [T]e h[.......] wra[k]e o[ntf]aen</l>
+<l parse="ignore">Al waert de coninc selue sijn broeder</l>
+<l parse="ignore">Bi [..]m d[........] [m]oeder</l>
+<l parse="ignore">V[......] [de]n here van hemelrike</l>
+<l parse="ignore" n="30">Ic maecte vanden liue qu[..]e</l>
+<l>Eer ic scede uter stede</l>
+<l>De cnape te malaerde sede</l>
+<l>Here dies en es ghene noet</l>
+<l>Maer spoet v met haesten groet</l>
+<l n="35">Hi sprake v mutermaten gerne</l>
+<l>Dies en staet mi niet tontberne</l>
+<l parse="ignore">Seide van mont[....] malaert</l>
+<l parse="ignore">Doen sciet hi met snelre vaert</l>
+<l>Sonder te spreken eneghe tale</l>
+<l n="40"><pb n="477"/> Van lodewike uter zale</l>
+<l>Alte wel seit hem die moet</l>
+<l>Datter el was dan goet</l>
+<l>Dus es hi ter herbergen coemen</l>
+<l>Tierst hi sijn uolc heeft vernoemen</l>
+<l n="45">Soe riep hi met snelre vaerde</l>
+<l>Ghi heren vullike te paerde</l>
+<l>Brinct mi gereet mijn corsier</l>
+<l>Doe spoeden hem die escuwier</l>
+<l parse="ignore">Die cnechten brochten den goeden malaert</l>
+<l parse="ignore" n="50">Haestelik[e]  [....] g[..] de paert</l>
+<l parse="ignore"><milestone unit="fol" n="1va"/> [Di.........]p[e .....]ij[.]</l>
+<l>Die voer emmer uaste voren</l>
+<l>Malaert die degen vut vercoren</l>
+<l>Die reet na met sinen gesinde</l>
+<l n="55">Doen sach hi voren met gheninde</l>
+<l>Loyers lieden ende die litiere</l>
+<l>Toten cnape seidi sciere</l>
+<l>Hoerstuut vrient wil mi gewaghen</l>
+<l>Moet men minen here dragen</l>
+<l n="60">Es hi gequetst of gewont</l>
+<l>Dat segt mi in corter stont</l>
+<l>Here seide die cnape dat suldi weten</l>
+<l><edition n="478"/>Dors heeft malaert met sporen gesteken</l>
+<l>Tote hem seluen dat hi sede</l>
+<l n="65">Nv wetic wel die waerhede</l>
+<l>Dat hi tontsteden heeft gesijn</l>
+<l>Wie dorste den lieuen here mijn</l>
+<l>Mesbieden oft iet mesdoen</l>
+<l>Biden goeden .S. symoen</l>
+<l n="70">Diet dede saelt emmer becopen</l>
+<l>Hine sal ontriden no ontlopen</l>
+<l>Binnen den lande van kerstijnhede</l>
+<l>Biden here die sine lede</l>
+<l>Om onsen wille ant cruce gaf</l>
+<l n="75">In leue nemmermeer den dach</l>
+<l parse="ignore"><milestone unit="fol" n="1vb"/> En [....] ve[..] ont[f]arme[l]ike</l>
+<l parse="ignore">En was mensche op erterike</l>
+<l>En hadde hem moghen deren</l>
+<l>Die hadde ghesien die groete heren</l>
+<l n="80">Soe sere weenden si alle bede</l>
+<l>Dat hem die sprake moeste verleden</l>
+<l>Ende voeren wel ter seluer wile</l>
+<l>Van maten ene vrancsche mile</l>
+<l>Dat haer ne gheen mochte spreken</l>
+<l n="85">Hem dochte beden therte breken</l>
+<l>Diere ierst sprac dat was malaert</l>
+<l>O her keyser here waert</l>
+<l>Salic niet op desen dach</l>
+<l>Weten wat v deren mach</l>
+<l n="90">Mijn herte sal van rouwen spliten</l>
+<l>Ghi sijt oec gewareliken</l>
+<l>Gesceden dorperlike uter stede</l>
+<l>Die kennen wille die waerhede</l>
+<l>Dat ghi tiegen lodewike</l>
+<l n="95">Vwen broeder properlike</l>
+<l>Selfs niet en naemt orlof</l>
+<l>Ende rumet alsoe spade sijn hof</l>
+<l>Soe groet .i. here als ghi sijt</l>
+<l>Hets v alte groeten verwijt</l>
+<l parse="ignore" n="100">Hets mi oec harde leet</l>
+<l parse="ignore"><pb n="479"/><milestone unit="fol" n="2ra"/> Al sprake hi nemermeer .i. w[.ert]</l>
+<l parse="ignore">Men souts niet achten een toert</l>
+<l>Mi seit aldus die walsche tale</l>
+<l>dat die legaet quam in die zale</l>
+<l n="105">Daer hi vant den coninc</l>
+<l>Ende oec alle in ware dinc</l>
+<l>Die welke te sinen rade waren</l>
+<l>Argher dan mordenaren</l>
+<l>Waren si al oppenbaer</l>
+<l n="110">Ende ic maegt met redene claer</l>
+<l>Seggen ende ouer waerhede</l>
+<l>Want si daden in kerstijnhede</l>
+<l>Steruen menech .i. man</l>
+<l>Die niet en vrucht gods ban</l>
+<l n="115">Luttel roect hem wat hi doet</l>
+<l>Nv soe quam des benic vroet</l>
+<l>Die legaet voer den coninc</l>
+<l>Ende hi seide dese dinc</l>
+<l>God die in hemelrike es here</l>
+<l n="120">Die moete van scanden ende van sere</l>
+<l>Verden onsen ertschen vader</l>
+<l>Ende den keyser bede gader</l>
+<l>Alsoe waerlike als hijs wel heeft die macht</l>
+<l>Ende hi verdoeme des gheens cracht</l>
+<l parse="ignore" n="125">Die na valschen rade staet</l>
+<l parse="ignore"><pb n="480"/><milestone unit="fol" n="2rb"/> [.nde ..edi v .g.]emen</l>
+<l parse="ignore">Fel coninc hoe mochti ghetemen</l>
+<l>Hem te doene sulke ouerdaet</l>
+<l>Biden here daert al an staet</l>
+<l n="130">Hi hadde lieuer des gheloeft</l>
+<l>Haddi hem ghenoemen sijn hoeft</l>
+<l>Ende soe hadde elc scamel man</l>
+<l>Nochtan soe es hi .i. lam</l>
+<l>Tuwaert ende soe goedertieren</l>
+<l n="135">Ja alsoe ic v uisiere</l>
+<l>Her coninc verstaet ende wel weit</l>
+<l>Wildi v vander dorperheit</l>
+<l>Claren hets hem harde lief</l>
+<l>En altemale sijn meskief</l>
+<l n="140">Dat wil hi gerne laten liden</l>
+<l>Maer ghi moet hem in corten tiden</l>
+<l>Senden eest v leet of lief</l>
+<l>Die hier staen in desen brief</l>
+<l>Dats den verrader sansoen</l>
+<l n="145">Aumarie ernien van lyoen</l>
+<l>Alorise ende berengieren</l>
+<l>Aymar ende gheraert den fieren</l>
+<l>Den graue van blaues ende den fellen ourijs</l>
+<l>Ysacaerde metter teste grijs</l>
+<l n="150">Coninc wat holpe lange tale</l>
+<l><pb n="482"/><milestone unit="fol" n="2va"/> [V]an ma[l]aerde [d]e g[h]e[s]elle [s]ijn</l>
+<l>Ne maer loyer die keyser fijn</l>
+<l parse="ignore">Ne sceet vut [v......nen] here</l>
+<l parse="ignore">Ic horet hem zweren alsoe sere</l>
+<l n="155">[G]hine sult tierst sijn verslegen</l>
+<l>Nv beraet v edel deghen</l>
+<l>Die vroeden raet nemt die es vroet</l>
+<l>Daer comt alle ere af ende al goet</l>
+<l>Als lodewijc die coninc verstont</l>
+<l n="160">Den legaet ic maecs v cont</l>
+<l>Sprac hi aldus ende seide</l>
+<l>Ten legaet sonder beide</l>
+<l>Ghi sult seggen den ertschen vader</l>
+<l>Ende minen broeder bede gader</l>
+<l n="165">So wat dat hem es mesdaen</l>
+<l>Segt hem wel ende doet verstaen</l>
+<l>Dat hijt tiegen die groete heren</l>
+<l>Verdie[n]de uele der onneren</l>
+<l>Te dier tijt dat onse vader</l>
+<l n="170">Leuede het weten al te gader</l>
+<l  parse="ignore">Die heren [nv] bi mi sijn</l>
+<l parse='ignore'>Dat l[...]r die broeder mijn</l>
+<l>Anu[er]de der groeter heren wiue</l>
+<l>Mijn vader moesten v[erd]riuen</l>
+<l n="175">Vut sinen lande .vij. iaer</l>
+<l><milestone unit="fol" n="2vb"/> A[ll]e [l]ande [s]u[ll]ent weten</l>
+<l>Ende oec soe sijn si gheseten</l>
+<l parse="ignore">[...........]de ende [....] maghen</l>
+<l parse="ignore">O[....]en mochte niemen versaghen</l>
+<l n="180">Want si sijn soe hoghe geboren</l>
+<l>[A]l haddict .c. waerf ghezworen</l>
+<l>Sine daden niet dan haer gebod</l>
+<l>Oec suldi seggen den ertschen god</l>
+<l>Eest dat hi mi verwaten doet</l>
+<l n="185">Hi heeft onrecht des sijt vroet</l>
+<l>[V]an der saken ic niet en mach</l>
+<l>Segt minen broeder ende doet gewach</l>
+<l>Wil hi die .xij. princen hebben</l>
+<l>Daer ic v af hore seggen</l>
+<l n="190">Dat hise selue halen coeme</l>
+<l>[Of] hi waent doen sine vroeme</l>
+<l>[T]e senden hen hebbic gheen macht</l>
+<l><edition n="483"/>Te groet soe es mi hare cr[acht]</l>
+<l>Tfeit es bi mi niet toe coemen</l>
+<l n="195">Om dat haer wiuen waren ghenoemen</l>
+<l>Alsijt niet ghebeteren mochten</l>
+<l>Soe waest dat siere nv om dochten</l>
+<l>Tfeit ic hem niet dede doen</l>
+<l>Die legaet seide bi .S. symoen</l>
+<l parse="ignore" n="200">Wine seggen v dat ghijt [...]</l>
+</text>
+<!--</ENTRY>
+--></TEI.2>

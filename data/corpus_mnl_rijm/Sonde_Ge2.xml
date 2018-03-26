@@ -1,0 +1,163 @@
+<?xml version='1.0'?><!DOCTYPE TEI.2 PUBLIC '-//TEI P4//DTD Main Document Type//EN' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd' [<!ENTITY % TEI.prose 'INCLUDE'><!ENTITY % TEI.linking 'INCLUDE'><!ENTITY % TEI.figures 'INCLUDE'><!ENTITY % TEI.analysis 'INCLUDE'><!ENTITY % TEI.corpus 'INCLUDE'><!ENTITY % TEI.XML 'INCLUDE'><!NOTATION TEI-XML PUBLIC 'TEI P4' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd'><!-- internal INL dtd --><!ELEMENT b (#PCDATA)><!ELEMENT l (#PCDATA | b)*><!-- end of internal INL dtd -->]><TEI.2><!--<ENTRY id="i940"><teiHeader><fileDesc><titleStmt><title>Spiegel der sonden (berijming)</title>
+</titleStmt>
+<interpGrp type="pubYear_from"><interp value="1350"/></interpGrp>
+<interpGrp type="witnessYear_from"><interp value="1350"/></interpGrp>
+<interpGrp type="pubYear_to"><interp value="1400"/></interpGrp>
+<interpGrp type="witnessYear_to"><interp value="1400"/></interpGrp>
+<TITEL>Spiegel der sonden (berijming)</TITEL>
+<author>Onbekend</author>
+<AARD>Rijm</AARD>
+<BRON nr="D69">Gent, Rijksarchief, s.o. (fragm.)</BRON>
+<DATUM>1350-1400</DATUM>
+<OMVANG>117 verzen</OMVANG>
+<BRON.OPM>Dubbelblad, doorgesneden in de lengte, alleen het onderste gedeelte bewaard; thans nog 31-32 regels per bladzijde, oorspronkelijk 40 regels per kolom. Het fragment bevat naast de 61 versregels (fol. 2) ook nog 56 regels uit het slot van de inhoudstafel die aan de eigenlijke tekst voorafgaat (fol. 1); op fol. 1v zijn voor de titels van de hoofdstukken ook nog de romeinse cijfers leesbaar die verwijzen naar de folio's van het handschrift; bij het versgedeelte (fol. 2) zijn kolom 2rb en 2va afgesneden.</BRON.OPM>
+<EDITIE>L. Willems (ed.): 'Middelnederlandsche fragmenten. I. Een onbekend fragment van den "Spiegel der Sonden".' In: VMKVA, 1922, 779-798 (783-786 en 793-796).</EDITIE>
+<STATUS>Kritisch</STATUS>
+<EDITIE.OPM>De verwijzingen naar en vergelijkingen met 1) M&uuml;nster, Universit&auml;tsbibliothek, Ms. 268 en 2) de Spiegel der sonden (proza), door Willems in of naast zijn tekst geplaatst, werden hier niet overgenomen; aan de verstekst werd een nummering toegevoegd, waarbij de ontbrekende regels niet meegeteld werden.</EDITIE.OPM>
+<BRONNEN>Het grootste gedeelte van de tekst van de Spiegel der sonden is bewaard gebleven in een Middelnederduitse (en door Verdam naar het Middelnederlands hertaalde) versie; verder zijn van de Middelnederlandse tekst nog enkele fragmenten bewaard, waarvan sommige ons in staat stellen het tekstverlies in het Middelnederduitse hs. gedeeltelijk aan te vullen. Voor het (hertaalde) Middelnederduitse hs. zie: - <x nr=D66>M&uuml;nster, Universit&auml;tsbibliothek, Ms. 268</x>
+ en - <x nr=D67>M&uuml;nster, Universit&auml;tsbibliothek, Ms. 268 (fragm.)</x>
+. Voor de fragmenten zie: - <x nr=D68>Gent, Bibliotheek der Rijksuniversiteit, 1635 a (fragm.)</x>
+ en - <x nr=D69>Gent, Rijksarchief, s.o. (fragm.)</x>
+</BRONNEN>
+</fileDesc>
+</teiHeader>
+--><text>
+<div type="chapter"><head type="chapter comment"><pb n="783"/><milestone unit="fol" n="1r"/> [Inhoudstafel]</head>
+<!--
+<l>...........</l>
+<l><b>W</b>[ives ansichte] es sere tontsiene.</l>
+<l>w[ijfs hebben] hem selven niet te betrouwene.</l>
+<l>vrecheit es te verhatene omme vele redenen.</l>
+<l>vrecheit es te verhatene omme die maledictie die God up werpt.</l>
+<l>vrecheit [sal hi] verhaten, die merken wille die grote van der zonde.</l>
+<l>v[recken zijn quaet] in Gode in hem selven ende in den evenkerstyn.</l>
+<l>[vrecheit es] ene afgoderie, dit toghet scrifture.</l>
+<l>[vrecheit] es ene zware gheestelike quale in den mensche.</l>
+<l>[vrecheit es ene zware] quale omme hare gheduricheit.</l>
+<l>[vrecheit es ene] onversadelike quale, seit scrifture.</l>
+<l>[vrecheit hout den] menschen in zwarer scalkernie.</l>
+<l>[vrecheit] hevet III bedecte strecke, menschen mede te vane.</l>
+<l>[vrecheit] sere es tontsiene omme de vele strecken, die zoe hevet.</l>
+<l>[vrecheit es sere] hatelic gode, dats ghetoghet claer.</l>
+<l>[vrecken doen Gode grote dorp]ernie.</l>
+<l>[vrecheit doet grote dere ende on]recht den evenkerstijn.</l>
+<l>[vrecheit quetst ende deert haren dr]aghere.</l>
+<l>.....</l>
+<l>.....</l>
+<l>.....</l>
+<l>.....</l>
+<l>.....</l>
+<l>.....</l>
+<l>.....</l>
+<l>.....</l>
+<l>W[ouker sal elc] vlien omme die zware plaghe die god daer omme sent.</l>
+<l><edition n="784"/>Wouker decken [lieden] menichsins om der werelt scame.</l>
+<l>Werckers [in huere ?] bi daghe doen dicken zonden in hare werc.</l>
+<l>Wouker es dicken bi den dobbelaers, dits ghetoghet.</l>
+<l>Vrecheit ontfaet dicken occusoen ute V zaken.</l>
+<l>... vander bedinghe.</l>
+<l><milestone unit="fol" n="1v"/> .....</l>
+<l>LXXIX. Wanhope es vreeselic ende quaet boven alle zonden.</l>
+<l>LXXXVI. Verwanichede es grote ende ombekennende zonde.</l>
+<l>LXXXVII. Verwanighe prisen hem selven ende haers selves doen.</l>
+<l>LXXXVII. Verheventhede begheren es grote vrese.</l>
+<l>LXXXVII. Verwanicheit mach zyn ende daer in IIII manieren.</l>
+<l>Werscepe houden omme die rike ende arme te verghetene, es quaet.</l>
+<l>XCIIII. Werdicheit moet elc doen hem vieren bi rechte.</l>
+<l>XCIII. Werdicheit moet zyn ghedaen meer den enen dan den anderen.</l>
+<l>CXXI. Verranesse moet men ontsien omme VI redenen.</l>
+<l>CVIII. Wrake te nemene ende niet willen vergheven es grote zothede.</l>
+<l>CXIX. Versweeren es zware zonde, dats ghetoghet.</l>
+<l><edition n="785"/>CXXII. Vlouken es ene zonde meest quetsende den gonen ute wien soe comt.</l>
+<l>CXXVI. Vule sprake messit sere ende corrumpeert diese horen.</l>
+<l>XL. Xr. armoede ghedinken ghevet grote remedie der gulsheit.</l>
+<l>LII. Xr. leert ons vlien vrecheit met hem selven.</l>
+<l>XLII. Xr. toghet dat gheestelyc goet niet en ...</l>
+<l>XLVII. Xr. weder ute steken als hi ontfaen es [es grote vrese].</l>
+<l>LII. Xr. armoede wiset ons te scuwene [gierighede].</l>
+<l>LII. Xr. wilde arem wesen om ons ...</l>
+<l>Xr. leert ons selve be[dinghe].</l>
+<l>LXIIIJ. Xr. pijnde om traegheit [af te doene].</l>
+<l>LXXXV. Xr. leerde ons omoed[igheit als hi mensche waert ?].</l>
+<l>C. Ydele glorie leert ons [Christus vlien].</l>
+<l>C. Ydele glorie roeft den [menschen syn gheestelyc goet].</l>
+<l>CI. Ydele glorie es somwile [menscelyc. somwilen duvelyc].</l>
+<l>CI. Ypocrisie es grote zonde ende daer god grammest up es.</l>
+<l>CI. Ypocrisie domet god boven allen andren zonden.</l>
+<l>I. Zonden zijn bequame den duvel, dats ghetoghet.</l>
+<l>I. Zonden zyn zere ghehaet met gode, toghen IIJ redenen.</l>
+<l>II. Zonden deren den mensche, dats gheprovet.</l>
+<l>II. Zonde ontrect den mensche VI profite.</l>
+<l><edition n="786"/>II. Zonden ebben anderen wech omme IIJ redenen.</l>
+</div>
+<div type="chapter"><head type="chapter comment"><pb n="793"/><milestone unit="fol" n="2ra"/> [Gulzigheid]</head>
+<l>.........................</l>
+-->
+<l parse="ignore">&para; Hier of scrivet [sente] Augustijn:</l>
+<l>"So waer tvleesch lovet zijn vermaken,</l>
+<l>Daer salt ghebrec in moghen smaken".</l>
+<l>Al heift ooc die gulse ghenouch</l>
+<l n="5">Spise ende dranc syn ghevouch</l>
+<l>Ende wel bereet, dan claecht hi allene</l>
+<l>Dat zyn buuc es al te cleene</l>
+<l><edition n="794"/>Datter niet al die spise in mach.</l>
+<l>Dus leift die gulse nacht ende dach</l>
+<l n="10">Onversaet in enigher wise,</l>
+<l>Want hem ghebreict buuc of spise.</l>
+<l>&para; Elc mach wel vroet zijn van desen</l>
+<l>Dat hi niet sonder hongher mach wesen</l>
+<l>In wien dat ute honghers breke,</l>
+<l n="15">Hongher gheboren es eenpaerleke.</l>
+<l>&para; Alse gulsen maeltijt es ghedaen</l>
+<l>Dan moet h[i weder] wandelen gaen</l>
+<l>Om hongher te [mak]ene ende appetijt</l>
+<l>Dus es die gulse versaet gheen tijt:</l>
+<l n="20">Si jagen den hongher in der manieren</l>
+<l>So men jaghet int foreest ten dieren;</l>
+<l>So onversaet es hem de moet.</l>
+</div>
+<div type="chapter"><head type="chapter">Gulsheit cranct zere ende quetst smenschen nature.</head>
+<l>Dander quade dat gulsheit doet</l>
+<l n="25">Den lichame in elker ure</l>
+<l>Dats dat soe quetst die nature.</l>
+<l>Hierup in Job ghescreven staet:</l>
+<l>"Als syn buuc in spisen versaet,</l>
+<l>Staet hi ghespannen als pesen;</l>
+<l n="30">Dan zal hem droufheit groot bi wesen.</l>
+<l>.....</l>
+<l>.....</l>
+<l parse="ignore"><pb n="795"/><milestone unit="fol" n="2vb"/> Daer so menich in mesvaert.</l>
+<l>Neense, ensi dat wi ghedwinghen</l>
+<l>Die weilde ende tonder b[rin]ghen.</l>
+<l>&para; Van der ontsiender w[ee]ldicheit</l>
+<l n="35">Ecclesiat[ic]us dus seit:</l>
+<l>"Ic hebbe vonden ghenoot</l>
+<l>Een wijf bittre dan die doot</l>
+<l parse="ignore">... dattie weilde van den vleesche</l>
+<l parse="ignore">... [mi]ds haren vulen heesche</l>
+<l n="40">Niet een alve doot brinct toe,</l>
+<l>So waer drievout - verstaet hoe:</l>
+<l>Soe brinct die doot toe van naturen;</l>
+<l>Dander doot doet soe besuren,</l>
+<l>Dats die doot van der mesdaet.</l>
+<l n="45">Die derde doot es, die niet vergaet,</l>
+<l>Dats die ewelike torment</l>
+<l>Daer die sondare [in e]s ghesent.</l>
+<l parse="ignore">&para; In proverbien [staet] ooc van</l>
+<l parse="ignore">... weilde die rike man</l>
+<l n="50">.....</l>
+<l parse="ignore">Ne waer int hende sal soe biten</l>
+<l parse="ignore">Als tserpent ende uut werpen venijn</l>
+<l parse="ignore">.....</l>
+<l parse="ignore">... welke gulsheit doet: dat die wie</l>
+<l parse="ignore" n="55">Met rechte in alre scalkernie</l>
+<l>Hebben sonden: gulse ute gulsheden</l>
+<l>Maken dien hem van hem leden</l>
+<l>Die se hout in alre scalkerlycheit.</l>
+<l>Hier of in proverbien seit</l>
+<l parse="ignore" n="60">Die wise Salemoen dat ...</l>
+<l parse="ignore">Die werdelyc voet sinen scalc</l>
+</div>
+</text>
+<!--</ENTRY>
+--></TEI.2>

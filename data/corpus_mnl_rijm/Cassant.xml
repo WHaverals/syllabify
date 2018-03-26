@@ -1,0 +1,89 @@
+<?xml version='1.0'?><!DOCTYPE TEI.2 PUBLIC '-//TEI P4//DTD Main Document Type//EN' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd' [<!ENTITY % TEI.prose 'INCLUDE'><!ENTITY % TEI.linking 'INCLUDE'><!ENTITY % TEI.figures 'INCLUDE'><!ENTITY % TEI.analysis 'INCLUDE'><!ENTITY % TEI.corpus 'INCLUDE'><!ENTITY % TEI.XML 'INCLUDE'><!NOTATION TEI-XML PUBLIC 'TEI P4' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd'><!-- internal INL dtd --><!ELEMENT b (#PCDATA)><!ELEMENT l (#PCDATA | b)*><!-- end of internal INL dtd -->]><TEI.2><!--<ENTRY id="i62"><teiHeader><fileDesc><titleStmt><title>Roman van Cassant</title>
+</titleStmt>
+<interpGrp type="pubYear_from"><interp value="1300"/></interpGrp>
+<interpGrp type="witnessYear_from"><interp value="1300"/></interpGrp>
+<interpGrp type="pubYear_to"><interp value="1400"/></interpGrp>
+<interpGrp type="witnessYear_to"><interp value="1400"/></interpGrp>
+<TITEL>Roman van Cassant</TITEL>
+<author>Onbekend</author>
+<AARD>Rijm</AARD>
+<BRON nr="K20">Gent, Bibliotheek der Rijksuniversiteit, 1732 (fragm.)</BRON>
+<DATUM>1300-1400</DATUM>
+<OMVANG>65 verzen</OMVANG>
+<BRON.OPM>Twee strookjes, die op geen enkele wijze aan elkaar passen. Gaan we uit van de wijze waarop ze thans zijn ingebonden, dan werd het bovenste strookje (fol. 1) horizontaal midden uit een blad gesneden, waarbij van kolom rb rechts en van kolom va links een gedeelte verloren is gegaan. Een kolom telt nog 8 &agrave; 9 regels. Het thans onderste strookje (fol. 2) werd horizontaal uit een dubbelblad gesneden. Van het voorste blad bleven, afgezien van wat er boven- en onderaan werd afgesneden, nog het linkerdeel van kolom ra en het rechterdeel van kolom vb bewaard, van het achterste blad kolom ra en de beginletters van kolom rb, terwijl op de versozijde van dit blad alleen bovenaan nog de onderste helft van een kapitaal D resteert. Een kolom telt nog 6 &agrave; 8 regels. Claassens (1993), 258-260, meent dat de bladzijde met de D-kapitaal de laatste was van de codex (of van dat gedeelte met de hier besproken roman). De andere zijden van het strookje bevatten ter hoogte van de D en daaronder namelijk nog tekst; bovendien zijn onderaan op fol. 2-2v nog vage notities zichtbaar, die waarschijnlijk afkomstig zijn van vroegere bezitters. De consequentie van Claassens' opvatting is dat er tussen fol. 2-1v en fol. 2-2r tekst ontbreekt; hoe groot de lacune exact is, valt niet meer vast te stellen (in verband met de lacune verwijst Claassens naar de twee bladen met 2-1 en 2-2; de foli&euml;ring van Claassens is hier overgenomen). Ook kan niet meer bepaald worden, of de eerste strook (fol. 1) afkomstig is uit hetzelfde of uit een ander katern van de codex. De titel van de tekst is afkomstig uit de editie Claassens; in Kienhorst (1988) zijn de fragmenten nog gerepertorieerd onder 'Onge&iuml;dentificeerd (7)'.</BRON.OPM>
+<EDITIE>G.H.M. Claassens: De Middelnederlandse kruisvaartromans. Amsterdam, 1993. Diss. Nijmegen, 258-275 (268-275).</EDITIE>
+<STATUS>Diplomatisch</STATUS>
+<EDITIE.OPM>Claassens geeft behalve de diplomatische ook de kritische editie (naast elkaar op de linker- en de rechterpagina). Voorts heeft hij onzekere lezingen tussen ronde haken geplaatst en conjecturen tussen rechthoekige haken, terwijl ze hier beide tussen rechthoekige haken zijn gezet.</EDITIE.OPM>
+<BRONNEN>Gent, Bibliotheek der Rijksuniversiteit, 1732 (fragm.)</BRONNEN>
+</fileDesc>
+</teiHeader>
+--><text>
+<lg><l><pb n="268"/><milestone unit="fol" n="1ra"/> Ic sal selue geloues mi</l>
+<l>Minen vader chavengy</l>
+<l>Varen halen in kerstinheide</l>
+<l>Bewaert ons pyramonde de steide</l>
+<l n="5">Teerst wi weid[er] keren</l>
+<l>Sullen wi onse siege meren</l>
+<l>Voor de steide van monbrant</l>
+<l>Die printsen seiden te hant</l>
+<l>[.........de.....]</l>
+<l n="10"><milestone unit="fol" n="1rb"/> Ne w[aer]t [.....g] [m]et g[...]</l>
+<l>Herminette de scone</l>
+<l>Ic sal spannen de cro[ne]</l>
+<l>Van den lande van E[rmenyen]</l>
+<l>Bi al mire mamett[eryen]</l>
+<l n="15">V vermeiten zere te gaet</l>
+<l><edition n="270"/>Dat sie ic wel an v g[elaet]</l>
+<l>[W]ant ghi zw[a]ert [ru.....]</l>
+<l><milestone unit="fol" n="1va"/> [......t]vp[.....]</l>
+<l>[.....]t den rudder preus</l>
+<l n="20">[......]eden hermite ydeus</l>
+<l>[.....]egh emen .i. paert</l>
+<l>[.....r] vp metter vaert</l>
+<l>[......]er was ooc geladen</l>
+<l>[.....]eren si de groene paden</l>
+<l n="25">[.....]eikende te zamen</l>
+<l><milestone unit="fol" n="1vb"/> [Als] dat v[er]stont die coninc</l>
+<l>Wart hi blide vander dinc</l>
+<l>Ende viel den vader up den voet</l>
+<l>Ende custene metter spoet</l>
+<l n="30">Vriendelike datti seide</l>
+<l>Vader here lijf ende leide</l>
+<l>Dat staet al in uwer ghenaden</l>
+<l>Jc bem emmertoe beraden</l>
+<l>[.........]ene doe[.....]</l>
+<l n="35"><milestone unit="fol" n="2-1ra"/> Saensi[...........]</l>
+<l>So verre v[.........]</l>
+<l><edition n="272"/>Datsi ca[........]</l>
+<l>Jn de ter[........]</l>
+<l>Dat int[........]</l>
+<l n="40">.J. hermit[........]</l>
+<l>[H ..d.........]</l>
+<l><milestone unit="fol" n="2-1vb"/> [........]en kere</l>
+<l>[........]steden</l>
+<l>[........]e mi verleden</l>
+<l n="45">[........]et de g[oe]de</l>
+<l>[........]et moede</l>
+<l>[........]int wel</l>
+<l>[...............]</l>
+<l><milestone unit="fol" n="2-2ra"/> [.]oe [........m]en dus was vergeuen</l>
+<l parse="ignore" n="50">Ende hoe hi selue adde versleigen</l>
+<l>Gahidore omme die dinc</l>
+<l>Ende vort hoe hi maecte coninc</l>
+<l>Meliore sinen broeder</l>
+<l>Noch maecti hem vroeder</l>
+<l n="55">Van herminette van ermenyen</l>
+<l>Ende hoe sine baronnyen</l>
+<l><milestone unit="fol" n="2-2rb"/> To[...........]</l>
+<l>O[m...........]</l>
+<l>Di[...........]</l>
+<l n="60">Sa[...........]</l>
+<l>Ca[...........]</l>
+<l>Di[...........]</l>
+<l><edition n="274"/>Di[...........]</l>
+<l>D[o............]</l>
+<l parse="ignore" n="65"><milestone unit="fol" n="2-2vb"/> [D]</l>
+</lg>
+</text>
+<!--</ENTRY>
+--></TEI.2>

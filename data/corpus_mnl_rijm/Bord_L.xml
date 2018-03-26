@@ -1,0 +1,380 @@
+<?xml version='1.0'?><!DOCTYPE TEI.2 PUBLIC '-//TEI P4//DTD Main Document Type//EN' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd' [<!ENTITY % TEI.prose 'INCLUDE'><!ENTITY % TEI.linking 'INCLUDE'><!ENTITY % TEI.figures 'INCLUDE'><!ENTITY % TEI.analysis 'INCLUDE'><!ENTITY % TEI.corpus 'INCLUDE'><!ENTITY % TEI.XML 'INCLUDE'><!NOTATION TEI-XML PUBLIC 'TEI P4' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd'><!-- internal INL dtd --><!ELEMENT b (#PCDATA)><!ELEMENT l (#PCDATA | b)*><!-- end of internal INL dtd -->]><TEI.2><!--<ENTRY id="i51"><teiHeader><fileDesc><titleStmt><title>Huge van Bordeeus</title>
+</titleStmt>
+<interpGrp type="pubYear_from"><interp value="1300"/></interpGrp>
+<interpGrp type="witnessYear_from"><interp value="1300"/></interpGrp>
+<interpGrp type="pubYear_to"><interp value="1350"/></interpGrp>
+<interpGrp type="witnessYear_to"><interp value="1350"/></interpGrp>
+<TITEL>Huge van Bordeeus</TITEL>
+<author>Onbekend</author>
+<AARD>Rijm</AARD>
+<BRON nr="K13">Leiden, Bibliotheek der Rijksuniversiteit, Ltk. 1352 (fragm.)</BRON>
+<DATUM>1300-1350</DATUM>
+<OMVANG>346 verzen</OMVANG>
+<BRON.OPM>Een dubbelblad waarvan meer dan de helft van het tweede blad is afgesneden. Van het tweede blad bleven alleen kolom ra en vc bewaard (oorspronkelijk 3 kolommen per bladzijde). Verder is het fragment onderaan zodanig besnoeid, dat een kolom nog 43 &agrave; 44 regels telt (oorspronkelijk aantal regels onbekend).</BRON.OPM>
+<EDITIE>J. Verdam: 'Een nieuw fragment van den Huge van Bordeeus'. In: TNTL 17 (1898), 89-104 (92-104).</EDITIE>
+<STATUS>Kritisch</STATUS>
+<BRONMNW>1276.23</BRONMNW>
+<EDITIE.OPM>De foli&euml;ring, die in de editie Verdam ontbreekt, is toegevoegd.</EDITIE.OPM>
+<BRONNEN>Van vier handschriften zijn er fragmenten overgeleverd. Edities en afschriften (J. Tersteeg) zijn er van de volgende handschriften/fragmenten: - <x nr=K13>Leiden, Bibliotheek der Rijksuniversiteit, Ltk. 1352 (fragm.)</x>
+ - <x nr=K14>Middelburg, Stadsarchief, z.s. (fragm.) [verloren gegaan]</x>
+</BRONNEN>
+<HSDRUK>Historie van Hughe van Bordeus</HSDRUK>
+</fileDesc>
+</teiHeader>
+--><text>
+<l><pb n="92"/><milestone unit="fol" n="1ra"/> Dus ghinc hi vaste wert in:</l>
+<l>Hine wiste meer no min</l>
+<l>In wat lande dat hi was;</l>
+<l>Ende sine ogen ras</l>
+<l n="5">Liet hi altoes omme gaen,</l>
+<l>Als een dief die gevaen</l>
+<l>Wesen waent met siere proie;</l>
+<l>Soe sere was hi te vernoye</l>
+<l>Mids sine naecten leden.</l>
+<l n="10">Soe verre quam hi gescreden,</l>
+<l><edition n="93"/>Dat hi mercte ende nam goom</l>
+<l>Menegen sconen figeboom,</l>
+<l>Die sere wel geladen</l>
+<l>Waren met figen ende met bladen;</l>
+<l n="15">Daer wert die ridder ghinc,</l>
+<l>Ende plocte varinc</l>
+<l>Vanden figen, vanden bladen,</l>
+<l>Ende wert soe beraden</l>
+<l>Dat hi vanden figen at,</l>
+<l n="20">Want sijn herte nalinx mat</l>
+<l>Worden was van droocheden</l>
+<l>Vanden rouwe, die hi leden</l>
+<l>Ende vanden tranen heet</l>
+<l>Hadde, ende wel gereet</l>
+<l n="25">Wert hi al doe beraden,</l>
+<l>Dat hi tacken ende bladen</l>
+<l>Alsoe vele ave brac,</l>
+<l>Ende scuerde ende trac,</l>
+<l>Ten besten dat hi mochte,</l>
+<l n="30">Ende trac ende knochte</l>
+<l>Tsamen geliken worden.</l>
+<l>Doe ghinc hiere hem met gorden</l>
+<l>Ten III steden ofte vieren,</l>
+<l>Dat men in gere manieren</l>
+<l n="35">Sijn blote lijf mochte sien.</l>
+<l>Blide was hi vandien,</l>
+<l>Want hi hem, die hoge genaemde,</l>
+<l>Te voren in hem selven scaemde:</l>
+<l>Soe bewijsde die natuere.</l>
+<l n="40">Hi hadde beter aetsemuere</l>
+<l>Ghedragen, die vrome man</l>
+<l>Dan hi an sijn lijf hadde an,</l>
+<l parse="ignore">Jegen swerden ende speren</l>
+<supplied resp="editor">[Enige regels weggesneden]</supplied>
+<l><pb n="94"/><milestone unit="fol" n="1rb"/> Die ghinc aldus wel III dage,</l>
+<l n="45">Dat sine ogen ne sagen</l>
+<l>Daer binnen noit creatuere</l>
+<l>Die ie moeder wert te sure,</l>
+<l>Hine hadde hem selven gesien.</l>
+<l>Wonder soe haddi vandien,</l>
+<l n="50">Die wel edel wigant:</l>
+<l>Hi was op I eylant,</l>
+<l>Dat sere wilt was ende woeste;</l>
+<l>Vanden frute dat hi moeste</l>
+<l>Van honger eten over al.</l>
+<l n="55">Het was recht sijn geval,</l>
+<l>Dat fruut was in sinen tijt,</l>
+<l>Daer hi menich imbijt</l>
+<l>Ende menich mael met dede,</l>
+<l>Ende natuere voede mede</l>
+<l n="60">Bede spade ende vroech,</l>
+<l>Soe dat hi sijn lijf ontdroech.</l>
+<l>An die doerne, an die bramen</l>
+<l>Scuerdi sine cleder tsamen,</l>
+<l>Soe dedi daertoe vel ende huut,</l>
+<l n="65">Datter trode bloet liep wt.</l>
+<l>Sine voeten tien stonden</l>
+<l>Die hadden menege wonden</l>
+<l>Ende daer toe menege bleine,</l>
+<l>Want hine vant wege geine</l>
+<l n="70">Die welke getorden waren,</l>
+<l>Maer herten, hinden ende baren,</l>
+<l>Evers, denen ende liebaert,</l>
+<l>Tygers ende lupaert</l>
+<l>Die soe sach hi menich een,</l>
+<l n="75">Ende menegen herden steen,</l>
+<l>Ende menege rootse hoge</l>
+<l>Ende menege velde droge,</l>
+<l>Maer menege dicke sant,</l>
+<l>Maer gene fonteine hi vant</l>
+<l n="80">Binnen dachverden drie.</l>
+<l>Van dorste soe waer hie</l>
+<l><edition n="95"/>Doot bleven die ridder reen,</l>
+<l>Ne waer om den dieren steen,</l>
+<l>Die stont in dat vingerlijn;</l>
+<l n="85">Ende menich quaet venijn</l>
+<l>Hadden oec gevimeert</l>
+<supplied resp="editor">[Enige regels weggesneden]</supplied>
+<l><milestone unit="fol" n="1rc"/> Dat hi ewelike moeste</l>
+<l>Aldaer bliven in dat woeste</l>
+<l>Ghelijc enen wilden man,</l>
+<l n="90">Want gemerken hi niet ne can</l>
+<l>Hoe hi over comen soude.</l>
+<l>Neder soe ghinc die boude</l>
+<l>Opden oever sitten daer:</l>
+<l>Hi mercte ende wort gewaer</l>
+<l n="95">Dat dat water was al root,</l>
+<l>Dies hi hadde wonder groot,</l>
+<l>Want het sceen al I bloot;</l>
+<l>Dat daden die stenen goet,</l>
+<l>Die welke lagen inden gront,</l>
+<l n="100">Dat Huge was oncont.</l>
+<l>Dus waende die ridder goet,</l>
+<l>Dat water al root bloot</l>
+<l>Altemale hadde gesijn.</l>
+<l>Te hem selven sprac Hugelijn:</l>
+<l n="105">"Daer es emmer gevochten sere,</l>
+<l>Daer dit grote wide mere</l>
+<l>Aldus bloedich ave si:</l>
+<l>Ic wildicker hadde bi</l>
+<l>Ghewesen te dier stat</l>
+<l n="110">Ende ic wapen hadde gehadt,</l>
+<l>Al soudic in dien swaren stoet</l>
+<l>Hebben gebleven doot,</l>
+<l><edition n="96"/>Op datter kerstine mede waren."</l>
+<l>Daer aldus die vrome baren</l>
+<l n="115">Es geseten op die marine</l>
+<l>Studerende metten ogen sine,</l>
+<l>Hevet die ridder coen</l>
+<l>Ghesien comen Maleproen</l>
+<l>Ghevloten in die wilde see.</l>
+<l n="120">Huge hadde wonders mee</l>
+<l>In sine hertegedochte</l>
+<l>Wat dinge het wesen mochte,</l>
+<l>Dan hi ie hadde te voren.</l>
+<l>Dien ridder wel geboren</l>
+<l n="125">Quam te voren in sijn gedochte</l>
+<l>Dat die necker wesen mochte</l>
+<l>Of die viant uter helle,</l>
+<l>Want bin enen swarten velle</l>
+<l>Hi in dat water vloot</l>
+<l n="130">[...............] root</l>
+<supplied resp="editor">[Enige regels weggesneden]</supplied>
+<l><milestone unit="fol" n="1va"/> Dat het quam te hemwaert.</l>
+<l>Hi spranc op metter vaert:</l>
+<l>Enen stoc addi in die hant;</l>
+<l>Waert necker of viant,</l>
+<l n="135">Wildi hem comen aen,</l>
+<l>Hi souden metten stocke slaen,</l>
+<l>Dat hi soude hebben quaet geval.</l>
+<l>Aldus quam hi als I bal</l>
+<l>Ghewentelt, Maleproen;</l>
+<l n="140">Daert aensach Hugoen,</l>
+<l>Scudde hi met leden snel</l>
+<l><edition n="97"/>Ave dat swarte vel,</l>
+<l>Ende seide: "here Hugoen,</l>
+<l>God die ter rechter noen</l>
+<l n="145">Opten vridach sterf ant cruus</l>
+<l>Omme te behouden huus,</l>
+<l>Huge, moet u achterwaren</l>
+<l>Ende alsoe lange sparen,</l>
+<l>Dat gi pais ende soen</l>
+<l n="150">Metten coninc Ebroen,</l>
+<l>Vrome ridder, hebben moet!"</l>
+<l>Alse die ridder goet</l>
+<l>Coninc Ebroen hoerde noemen,</l>
+<l>Seidi: "vrient, wel sijt comen!</l>
+<l n="155">Doer den here god, here Jhesoen,</l>
+<l>Wie bestu?" "Ic ben Maleproen",</l>
+<l>Vrome ridder Hugelijn,</l>
+<l>"Ende moet die penitencie mijn</l>
+<l>Aldus doen in die see,</l>
+<l n="160">Ende hebbe jaren mee</l>
+<l>Ghedaen dan ic geseggen can.</l>
+<l>V vader, die edel man,</l>
+<l>Van Boerdeus Saisvijn,</l>
+<l>Die soe was die neue mijn.</l>
+<l n="165">Contrarie den gebode,</l>
+<l>Die ons sijn geset van gode,</l>
+<l>Leefdic op erterike,</l>
+<l>Daerom moetic swaerlike</l>
+<l>Dese penitencie doen.</l>
+<l n="170">Ne waer die coninc Ebroen,</l>
+<l>Diere heeft geboden voren,</l>
+<l>Ic waer ewelike verloren,</l>
+<l>In dat vermalendide vier,</l>
+<l>[Di]es benic sijn messagier</l>
+<supplied resp="editor">[Enige regels weggesneden]</supplied>
+<l n="175"><pb n="98"/><milestone unit="fol" n="1vb"/> Wesen die int water sijn</l>
+<l>Ende opt lant, Hugelijn;</l>
+<l>Ic die soude in corter stont</l>
+<l>Halen opter see gront</l>
+<l>Cop, halsberch ende horen,</l>
+<l n="180">Ende tswert, dat gi verloren</l>
+<l>Hebt, ende den groten scat</l>
+<l>Weder halen, maer dat</l>
+<l>Mi verboden heeft Ebroen.</l>
+<l>Ic die sal moeten doen</l>
+<l n="185">Mine penitencie swaer</l>
+<l>Doer uwen wille te langer .I. jaer,</l>
+<l>Omdat ic te desen male</l>
+<l>Jegen u houde tale,</l>
+<l>Ende ic u nu, sonder duecht mee</l>
+<l n="190">Te doene, over die rode see</l>
+<l><edition n="99"/>Al nu te dragen mene</l>
+<l>Van desen eylande onrene</l>
+<l>Tote int conincrike van Monbrant.</l>
+<l>Om uwen wille, vrome wigant,</l>
+<l n="195">Soe droegic teser stonde</l>
+<l>Die scone Claremonde</l>
+<l>Van ere rootse uter see,</l>
+<l>Die u M werven ende mee,</l>
+<l>Neve, bi mi groeten doet,</l>
+<l n="200">Want ic haer maecte vroet</l>
+<l>Dat gi noch levende waert</l>
+<l>Ende u god hadde gespaert,</l>
+<l>Ende gi laget in een hol.</l>
+<l>Soe die hadde gegeven tol</l>
+<l n="205">Vanden live, Claremonde,</l>
+<l>Ende in der see gronde</l>
+<l>Ghesprongen bides viants raet,</l>
+<l>Ne waer tbeelde van Monseraet,</l>
+<l>Dat na Mari&euml;n es gemielt.</l>
+<l n="210">Huge daer neder knielt</l>
+<l>Int sant voer Maleproen</l>
+<l>Ende seide: "dat u Jhesoen,</l>
+<l>Die sone van Mari&euml;n,</l>
+<l>Moete gebenedi&euml;n</l>
+<l n="215">Ende vergeven uwe sonden.</l>
+<l>Secht mi van Claremonden,</l>
+<l parse="ignore">In wat steden dat soe si</l>
+<supplied resp="editor">[Enige regels weggesneden]</supplied>
+<l><pb n="100"/><milestone unit="fol" n="1vc"/> Dat heefti ane gedaen;</l>
+<l>Voer Huge es hi gestaen</l>
+<l n="220">Ende seide: "sit op mi,</l>
+<l>Ic sal u ouer dragen vri</l>
+<l>Tote ane den anderen cant</l>
+<l>In dat rike van Mombrant;</l>
+<l>Daer seldi die avontueren</l>
+<l n="225">Nemen die u mach gebueren</l>
+<l>Niet anders canic doen.</l>
+<l>Dat gi den coninc Ebroen</l>
+<l>Met uwen sonden hebt verwrocht,</l>
+<l>Dies waerdi qualike bedocht.</l>
+<l n="230">Ende wilt mi vragen niet,</l>
+<l>Ghine selt geen bediet</l>
+<l>Van mi mogen weten mee:</l>
+<l>Dit soe is die rode see</l>
+<l>Die van arde es dus root</l>
+<l n="235">Om die stene groot,</l>
+<l>Die welke teser stont</l>
+<l>Liggen in der see gront,</l>
+<l>Alle root van natueren.</l>
+<l>Nu sit op ter goeder uren</l>
+<l n="240">Dat god opten esel sat,</l>
+<l>Daer hi mede in die stat</l>
+<l>Reet van Jherusalem."</l>
+<l>Huge die seinde hem</l>
+<l>Ende peinsde tier uren,</l>
+<l n="245">Dat hijt soude avonturen.</l>
+<l>Gode dat hi hem beval,</l>
+<l>Siere moeder ende den heiligen al,</l>
+<l>Die behoren te hemelrike.</l>
+<l>Hi die sat; vlichtelike</l>
+<l n="250">Droegene over Maleproen.</l>
+<l>Eer men een orisoen</l>
+<l><edition n="101"/>Van enen pater noster lanc</l>
+<l>Hadde gelesen; groten danc</l>
+<l>Seide hem doe Hugelijn,</l>
+<l n="255">Want hem een dropelkijn</l>
+<l>Des waters genaecte niet.</l>
+<l>Gherne haddi tbediet</l>
+<l>Gheweten van Claremonde,</l>
+<l>Waer hise soude hebben vonden,</l>
+<l parse="ignore" n="260">Ende sine vrienden allegader</l>
+<supplied resp="editor">[Enige regels weggesneden]</supplied>
+<l><pb n="102"/><milestone unit="fol" n="2r"/> Bloedich hadde in die hant;</l>
+<l>Als een leeu sonder bant</l>
+<l>Soe stoet hi aldaer gemoet.</l>
+<l>Haddem iemen die daer stoet</l>
+<l n="265">Willen mesbieden iet,</l>
+<l>Hi hadde, dat vrome diet,</l>
+<l>Hem getoocht sulke chiere,</l>
+<l>Als hi elken poertiere</l>
+<l>Dede, die daer stille lagen;</l>
+<l n="270">Sere dat sine besagen,</l>
+<l>Die drossate ende sijn sone;</l>
+<l>Een tekijn van Babilone</l>
+<l>Hadde ane Astramant</l>
+<l>Ende sine neve Fortunant.</l>
+<l n="275">Den vromen Hugelijn,</l>
+<l>Dien haddi een teekijn</l>
+<l>Aldaer gegeven mede.</l>
+<l>Die drossate al doe sede:</l>
+<l>"O wi, felle mordenaren,</l>
+<l n="280">Hebdi mine portenaren</l>
+<l>Bede aldus vermoort!</l>
+<l>Daer ane dat verboort</l>
+<l>Sijn uwer beder live,</l>
+<l>Al waerdi VII werf vive</l>
+<l n="285">Die met u hadde gesijn partie,</l>
+<l>Bi al miere mametterie,</l>
+<l><edition n="103"/>Si die souder al om steruen</l>
+<l>Ende vanden live derven.</l>
+<l>Jane benic in sconinx stede,</l>
+<l n="290">Wien dus gedane lelichede</l>
+<l>Binnen sinen hove es gedaen!"</l>
+<l>"Here drossate, wilt verstaen",</l>
+<l>Seide doe Astramant,</l>
+<l>"Wi behoren den soudant</l>
+<l n="295">Toe vanden rike van Babilone.</l>
+<l>Al es hi gevaen, die gone,</l>
+<l>Noch sone es hi niet doot.</l>
+<l>Ende omdat ons omboot</l>
+<l>Die coninc sijn broeder Yvorijn</l>
+<l n="300">Ende Ydonie sijn dochterkijn,</l>
+<l>Soe sijn wi comen in sijn rike,</l>
+<l>Ende omdat dus claerlike</l>
+<l parse="ignore">Ons beden was weten laten</l>
+<supplied resp="editor">[Een aantal regels ontbreekt]</supplied>
+<l><milestone unit="fol" n="2v"/> Weder eten noch drincken,</l>
+<l n="305">Want sijn sorgen ende sijn dincken</l>
+<l>Ende sine smerte die was groot</l>
+<l>Vander wonden in sijn hoot.</l>
+<l>Doe sprac die vrouwe vaeliant:</l>
+<l>"Lieve meester Astramant,</l>
+<l n="310">Truert om u leven niet</l>
+<l>Ende op uwen geselle siet,</l>
+<l>Ende eet, alsoe hi doet,</l>
+<l>Ende maect goeden moet</l>
+<l>Ende speelt ons een liedekijn:</l>
+<l n="315">Die rike coninc Yvorijn</l>
+<l>Die sal uwes genadich wesen.</l>
+<l>Mochti met spele genesen</l>
+<l>Sijn herte vanden rouwe</l>
+<l>Ende Ydonie, die joncfrouwe,</l>
+<l n="320">Der liever nichte mijn,</l>
+<l>Het soude u wel vergolden sijn."</l>
+<l>Astramant wel verstoet,</l>
+<l>Dat hem die vrouwe goet</l>
+<l><edition n="104"/>Doe was in allen kere,</l>
+<l n="325">Ende sonder letten mere</l>
+<l>Dedi sine vedelen bringen</l>
+<l>Die daer in der sale hingen,</l>
+<l>Hine wilder niet om opstaen,</l>
+<l>Die vedelen heefti wt gedaen</l>
+<l n="330">Ende gaf Huge den wigant</l>
+<l>Ene vedele in die hant,</l>
+<l>Ende bat hem dat hi spelen woude.</l>
+<l>Maer liever hadde die ridder boude,</l>
+<l>Met enen swerde, des gelooft,</l>
+<l n="335">Te speelne na sulker hooft</l>
+<l>Die daer saten in die zale,</l>
+<l>Dan te strikene tien male</l>
+<l>Al daer op die vedelsnaren.</l>
+<l>Men mochte an den vromen baren</l>
+<l n="340">Wel die waerheit merken das,</l>
+<l>Dat hi ongewillich was:</l>
+<l>Herde node hiere an</l>
+<l>Quam, die vri edel man;</l>
+<l>Nochtan ghinc hiere hem toe voegen;</l>
+<l n="345">Die paiene daer omme loegen.</l>
+<l parse="ignore">Hadde die vrome Hugelijn</l>
+</text>
+<!--</ENTRY>
+--></TEI.2>

@@ -1,0 +1,1731 @@
+<?xml version='1.0'?><!DOCTYPE TEI.2 PUBLIC '-//TEI P4//DTD Main Document Type//EN' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd' [<!ENTITY % TEI.prose 'INCLUDE'><!ENTITY % TEI.linking 'INCLUDE'><!ENTITY % TEI.figures 'INCLUDE'><!ENTITY % TEI.analysis 'INCLUDE'><!ENTITY % TEI.corpus 'INCLUDE'><!ENTITY % TEI.XML 'INCLUDE'><!NOTATION TEI-XML PUBLIC 'TEI P4' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd'><!-- internal INL dtd --><!ELEMENT b (#PCDATA)><!ELEMENT l (#PCDATA | b)*><!-- end of internal INL dtd -->]><TEI.2><!--<ENTRY id="i123"><teiHeader><fileDesc><titleStmt><title>Esopet</title>
+</titleStmt>
+<interpGrp type="pubYear_from"><interp value="1340"/></interpGrp>
+<interpGrp type="witnessYear_from"><interp value="1340"/></interpGrp>
+<interpGrp type="pubYear_to"><interp value="1360"/></interpGrp>
+<interpGrp type="witnessYear_to"><interp value="1360"/></interpGrp>
+<TITEL>Esopet</TITEL>
+<author>Calfstaf en Noydekin(?)</author>
+<AARD>Rijm</AARD>
+<BRON nr="K156">Leiden, Bibliotheek der Rijksuniversiteit, Ltk. 191</BRON>
+<DATUM>1340-1360</DATUM>
+<OMVANG>1563 verzen</OMVANG>
+<BRON.OPM>Handschrift Ltk. 191 is een convoluut van zes handschriften (in totaal 2+146+2 bladen). De Esopet bevindt zich op fol. 85-94 (vierde handschrift). Per bladzijde 2 kolommen en per kolom 40 regels. De codex bevat nog vijf andere teksten: de Ferguut (fol. 1-32), Floris ende Blancefloer (fol. 33-58), Der ystorien bloeme (fol. 59-84), de Bediedenisse van der missen (fol. 95-103), de Dietsche doctrinale (fol. 104-146). Floris ende Blancefloer en Der ystorien bloeme zijn volgens Lieftinck door dezelfde kopiist geschreven. Het convoluut wordt door Lieftinck en Deschamps ca. 1350 gedateerd; volgens W. Kuiper echter is het gedeelte met de Esopet jonger: ca. 1350-1375 lijkt hem aannemelijk (zie W. Kuiper: 'De Middelnederlandse Esopet'. In: Spektator 21 (1992), 35-54, vooral p. 37). De Ferguut en de Dietsche doctrinale schijnen al in de 15e eeuw samengebonden te zijn geweest; zie Kienhorst (1988), 37-38. Of Calfstaf en Noydekin als de auteurs van de <XREF3 ref=i123>Esopet</XREF3>
+ kunnen worden beschouwd, een veronderstelling die stoelt op een mededeling van Jacob van Maerlant in de <XREF3 ref=i782>Spiegel historiael</XREF3>
+, wordt door Kuiper ernstig betwijfeld. Op grond van een aantal argumenten meent hij dat de <XREF3 ref=i123>Esopet</XREF3>
+, zoals we die kennen uit het Leidse handschrift, het werk is van &eacute;&eacute;n auteur. De mededeling van Maerlant zou volgens Kuiper verwijzen naar een andere, niet bewaarde, versie van de <XREF3 ref=i123>Esopet</XREF3>
+ (zie voor de auteurskwestie Kuiper (1992), 4448).</BRON.OPM>
+<EDITIE>Afschrift W. Kuiper</EDITIE>
+<STATUS>Kritisch</STATUS>
+<BRONMNW>416 (andere editie)</BRONMNW>
+<EDITIE.OPM>Een elektronische versie van de tekst werd ons ter beschikking gesteld door W. Kuiper. Net als in de versie Kuiper zijn de opgeloste afkortingen gecursiveerd. Afwijkend van de versie Kuiper is dat de beginletters van de verzen, die in het handschrift in een aparte hoofdletterkolom staan, hier als kapitalen zijn weergegeven. Verder zijn de asterisken, waarmee Kuiper enkele door hem aangebrachte emendaties heeft gemarkeerd, verwijderd: r. 158: "moghen" i.p.v. "mede"; r. 209: "rijm" i.p.v. "rijn"; r. 229: "sweech" i.p.v. "sweesch"; r. 418: "goet" i.p.v. "quaet"; r. 424: ontfarmen i.p.v. ontfermen; r. 513: "sprac" i.p.v. "spac" (de "r" is toegevoegd boven de regel); r. 725: "hi" i.p.v. "die"; r. 761: "Nawe" i.p.v. "Nuwe"; r. 774: "Dat" i.p.v. "Det"; r. 957: "alle" i.p.v. "ale"; r. 1020: "blijft" i.p.v. "blijf"; r. 1151: "si" i.p.v. "sjj"; r. 1178: "heb ic" i.p.v. "hebdi"; r. 1201: "tscimminkel" i.p.v. "tsimminkel"; r. 1240: "mijn" i.p.v. "dijn"; r. 1249: "man" i.p.v. "mam"; r. 1260: "seget" i.p.v. "segest"; r. 1273: "Die scinet" i.p.v. "Du singest"; r. 1312: "hadden" i.p.v. "hadde"; r. 1323: "was" i.p.v. "wat"; r. 1443: "verwoyt" i.p.v. "vermoyt"; r. 1554: "doet" i.p.v. "dooet". In de editie Stuiveling worden nog enkele emendaties genoemd (ook bij Kuiper, maar niet gemarkeerd): "te legghene" i.p.v. "telegghene"; r. 57: "bevuulst" i.p.v. "bewulst"; r. 60: "te mi" i.p.v. "te mr"; r. 120: "onteren" i.p.v. "ont eren"; r. 462: "ten" i.p.v. "den"; r. 647: "Doe" i.p.v. "Die"; r. 674: "der" i.p.v. "d" (afkoringsteken vergeten); r. 704: "beruwet" i.p.v. "beruwent"; r. 817: "DIe" i.p.v. "Ie"; r. 933: "Al sidi" i.p.v. "Alsidi"; r. 1291: "present" i.p.v. "psent"; r. 1414: "luttel" i.p.v. "lutten"; r. 1423: "Nochtan" i.p.v. "Nachtan"; r. 1504: "Mesquam" i.p.v. "Mesquan"; r. 1516: "sine lede" i.p.v. "sijn leet"; r. 1555: "ermoeden" i.p.v. "er moeden"; r. 1559: "doet" i.p.v. "dooet"; zie G. Stuiveling (ed.): <i>Esopet. Facsimile-uitgave naar het enig bewaard gebleven handschrift.</i> Amsterdam, 1965. 2 dln. (Ad fontes. Facsimile-uitgaven van zeldzame Nederlandse letterkundige werken). De foli&euml;ring is afkomstig uit de editie Stuiveling, evenals de nummering van de fabels (1-67). In het handschrift waren de fabels oorspronkelijk niet genummerd, maar konden ze van elkaar worden onderscheiden, doordat ze met een lombarde beginnen. Later zijn alle fabels van een nummer voorzien door Zacharias Hendrik Alewijn, schepen te Amsterdam, die het handschrift had verworven op de veiling-Huydecoper en het in 1789 legateerde aan de Maatschappij der Nederlandsche Letterkunde te Leiden (zie Stuiveling (1965), 38-39). Betreffende de twee lege regels in fabel 67 kan hier worden opgemerkt dat deze corresponderen met twee witregels die door de kopiist werden ingelast voor twee ontbrekende versregels.</EDITIE.OPM>
+<BRONNEN>Leiden, Bibliotheek der Rijksuniversiteit, Ltk. 191</BRONNEN>
+</fileDesc>
+</teiHeader>
+--><text>
+<head type="title"><milestone unit="fol" n="85ra"/> ESOPET.</head>
+</div>
+<div type="chapter"><head type="chapter comment">[Proloog]</head>
+<l><b>I</b>C wille v in die ere ons heren</l>
+<l>Bi beesten en<i>de</i> bi vogelen leren</l>
+<l>Wisen en<i>de</i> wel bedieden</l>
+<l>Die nature van den lieden</l>
+<l n="5">Elke beeste heeft hare manieren</l>
+<l>Deene soe es fel dander goedertiere<i>n</i> </l>
+<l>D<i>us</i> sijn die man maer die quade</l>
+<l>V<i>er</i>winne<i>n</i> die goede dat es scade</l>
+<l>Die ene beeste driuet gh<i>er</i>ne</l>
+<l n="10">Dand<i>er</i> daer si mach te sch<i>er</i>ne</l>
+<l>D<i>us</i> es elc man op and<i>re</i>n fel</l>
+<l>Bedi slachte<i>n</i> si den beeste<i>n</i> wel</l>
+<l>Al eest scande te segghene</l>
+<l>Man ieghe<i>n</i> beeste<i>n</i> te legghene</l>
+<l n="15">Aen .c. beeste<i>n</i> es nochtan</l>
+<l>Min valscheden dan an .i. man</l>
+<l>Ic sal v hier exemple make<i>n</i> </l>
+<l>Van beeste<i>n</i> recht of si sprake<i>n</i> </l>
+<l>Maer merket en<i>de</i> hoert</l>
+<l n="20">Meer die redene dan die woert</l>
+<l>Ontdoet elc wort ghi vint<i>er</i> in</l>
+<l>Redene en<i>de</i> goeden sin</l>
+<l>Die goede redene bringhet voert</l>
+<l>D<i>aer</i> si qualijc es ghehoert</l>
+<l n="25">Hi worpt op de<i>n</i> steen sijn saet</l>
+<l>D<i>aer</i>t ne<i>m</i>mermeer vut en gaet</l>
+<l>Die vroede horet vroescap g<i>er</i>ne</l>
+<l>Die dulle nemet al in scherne</l>
+<l>Selke liede horen gh<i>er</i>ne tgoede</l>
+<l n="30">Dat es die semple en<i>de</i> die vroede</l>
+<l>Bedi en latic niet nochtan</l>
+<l>Ic en sal segghe<i>n</i> dat ic can</l>
+<l>Bedi en es no wijf no man</l>
+<l>Hine magh<i>er</i> lere<i>n</i> vroescap an</l>
+<l n="35">Hier beghint esopet</l>
+<l>V<i>er</i>stadine v w<i>er</i>des te bet</l>
+</div>
+<div type="chapter"><head type="chapter comment">1</head>
+<l><b>I</b>Nt mes daer .i. hane sochte</l>
+<l>Spise die hi eten mochte</l>
+<l>D<i>aer</i> vant hi .i. diere<i>n</i> steen</l>
+<l n="40">Doe seide die hane haddi een</l>
+<l><milestone unit="fol" n="85rb"/> Ghierech man aldus hier vonden</l>
+<l>Hi soudi doen met sinen ponden</l>
+<l>Hi soude met di make<i>n</i> feeste groet</l>
+<l>Dijns en hebbic ghene<i>n</i> noet</l>
+<l n="45">Ic quam hier soeke<i>n</i> mine spise</l>
+<l>Die ic voer alle stene prise</l>
+<l>Wat doestu hier dine mach van mi</l>
+<l>Gheen goet ghescie<i>n</i> no mi van di</l>
+<l>Dese fauele es gheseit</l>
+<l n="50">Van de<i>n</i> ghene<i>n</i> die vroescap hebbe<i>n</i> leit</l>
+<l>Die no doghet no redene</l>
+<l>Int h<i>er</i>te en roeken te bestedene</l>
+</div>
+<div type="chapter"><head type="chapter comment">2</head>
+<l><b>E</b>En wolf en<i>de</i> .i. lam goedertiere<i>n</i> </l>
+<l>Quame<i>n</i> drinke<i>n</i> tere riuieren</l>
+<l n="55">Si ghinghe<i>n</i> drinke<i>n</i> in .ij. steden</l>
+<l>Die wolf dra<i>n</i>c boue<i>n</i> dlam benede<i>n</i> </l>
+<l>Doe seide die wolf du bevuulst mi al</l>
+<l>Dwater dat ic drinken sal</l>
+<l>Ay h<i>er</i>e sprac dlam wat segdi</l>
+<l n="60">Dwat<i>er</i> comt van v te mi</l>
+<l>Ia seide die wolf vloecstu mi toe</l>
+<l>Dlam antworde h<i>er</i>e in doe</l>
+<l>Du doest sprac hi dus dede dijn vader</l>
+<l>Wile<i>n</i> eer en<i>de</i> dijn gheslachte algader</l>
+<l n="65">Dlam sprac in was doe niet ghebore<i>n</i> </l>
+<l>Twi soudick<i>er</i> af hebbe<i>n</i> toren</l>
+<l>Noch seide die wolf horic di spreke<i>n</i> </l>
+<l>Ic wane wel ic saels mi wreke<i>n</i> </l>
+<l>Die wolf sloech te sticke<i>n</i> en<i>de</i> scoert</l>
+<l n="70">Dlam nochtan hads niet v<i>er</i>boert</l>
+<l>D<i>us</i> vint .i. quaet man occusoen</l>
+<l>Als hi den goede<i>n</i> quaet wille doe<i>n</i> </l>
+</div>
+<div type="chapter"><head type="chapter comment">3</head>
+<l><b>E</b>En muus wilde tenen tiden</l>
+<l>Ov<i>er</i> .i. riuiere liden</l>
+<l n="75">Ghene muus bat .i. puut</l>
+<l>Dat hi haer ov<i>er</i> holpe ganser huut</l>
+<l>Hi bant die muus an sine<i>n</i> voet</l>
+<l>En<i>de</i> swam in die vloet</l>
+<l>Die puut liet he<i>m</i> int wat<i>er</i> sinke<i>n</i> </l>
+<l n="80">Omdat hi wilde die muus v<i>er</i>drinke<i>n</i> </l>
+<l><milestone unit="fol" n="85va"/> Die muus en mochte dwat<i>er</i> ni<i>et</i> ghedoghe<i>n</i> </l>
+<l>Een wuwe quam daer gheuloghe<i>n</i> </l>
+<l>Die de muus int water vinc</l>
+<l>En<i>de</i> den puut die an haer hinc</l>
+<l n="85">Die valscheit penst tand<i>re</i>n wart</l>
+<l>Hets recht dat hi mesuaert</l>
+<l>Hets recht dat valsche tauerniere</l>
+<l>Drinke<i>n</i> van hars selfs biere</l>
+<l>Het es oec recht dat quaet ma<i>n</i> sneeft</l>
+<l n="90">En<i>de</i> die quaet iaeght dat hi quaet heeft</l>
+</div>
+<div type="chapter"><head type="chapter comment">4</head>
+<l><b>T</b>ote ene<i>n</i> scape tere stont</l>
+<l>Quam .i. h<i>er</i>de pijnlijc hont</l>
+<l>Gef hare seiti die hont mijn broet</l>
+<l>Dat ic di leende in grot<i>er</i> noet</l>
+<l n="95">Tscaep en weet niet wat hi meent</l>
+<l>Mi en heefstu niet gheleent</l>
+<l>Ic doe seit hi ic saelt wel proeue<i>n</i> </l>
+<l>Met liede<i>n</i> meer dan mi behoeue<i>n</i> </l>
+<l>Tscaep q<i>ua</i>m voert mette<i>n</i> honde</l>
+<l n="100">D<i>aer</i> seide die wolf sine orconde</l>
+<l>Ic ben seide hi wel sek<i>er</i> das</l>
+<l>Dat dbroet den scape gheleent was</l>
+<l>Die wuwe seide op mine<i>n</i> eet</l>
+<l>Nemic oec dat ict wel weet</l>
+<l n="105">Doe quam mijn h<i>er</i>e die hauech voert</l>
+<l>En<i>de</i> seide ten scape dese woert</l>
+<l>W<i>aer</i>o<i>m</i>me loechenstu eens dinges</l>
+<l>Die du openbare ontfinges</l>
+<l>Tscaep was in corten stonde<i>n</i> </l>
+<l n="110">V<i>er</i>wonne<i>n</i> met .iij. valsche<i>n</i> orconde<i>n</i> </l>
+<l>Doe moeste tscaep sijn vlies v<i>er</i>cope<i>n</i> </l>
+<l>Bescore<i>n</i> en<i>de</i> al naect lopen</l>
+<l>En<i>de</i> moeste om onrechte dinc</l>
+<l>Ghelde<i>n</i> dat het noit ontfinc</l>
+<l n="115">Bi deser fauele<i>n</i> soe bespelle<i>n</i> </l>
+<l>Die valsch sijn en<i>de</i> valscheit tellen</l>
+<l>Die quade die de goede quelle<i>n</i> </l>
+<l>Met orconde<i>n</i> van hare<i>n</i> gheselle<i>n</i> </l>
+<l>Die niet en roeke<i>n</i> wat si swere<i>n</i> </l>
+<l n="120">Moghen si .i. and<i>re</i>n onteren</l>
+</div>
+<div type="chapter"><head type="chapter comment">5</head>
+<l><milestone unit="fol" n="85vb"/> <b>O</b>ver .i. brugghe ghinc .i. hont</l>
+<l>Die .i. been droech in de<i>n</i> mont</l>
+<l>Doe<i>n</i> hi die scade int wat<i>er</i> sach</l>
+<l>Van de<i>n</i> bene hort wat hi plach</l>
+<l n="125">Hi snauwede omt stic van onder</l>
+<l>D<i>us</i> wert hi van de<i>n</i> bene sonder</l>
+<l>Dese fauele es gheseit van die<i>n</i> </l>
+<l>Die al wille<i>n</i> hebbe<i>n</i> dat si sie<i>n</i> </l>
+<l>Die emmer and<i>er</i>s goet begare<i>n</i> </l>
+<l n="130">Onblide worden si van de<i>n</i> hare<i>n</i> </l>
+</div>
+<div type="chapter"><head type="chapter comment">6</head>
+<l><b>T</b>scaep die coe die geet mette<i>n</i> barde</l>
+<l>Gheselde<i>n</i> hem mette<i>n</i> liebarde</l>
+<l>Doen dese .iiij. iaghen ginghe<i>n</i> </l>
+<l>Gheuiel dat si .i. hert vinghe<i>n</i> </l>
+<l n="135">Si deelde<i>n</i> den hert in .iiij. quartiere<i>n</i> </l>
+<l>Die lieb<i>ar</i>t sprac te<i>n</i> and<i>re</i>n diere<i>n</i> </l>
+<l>Deen stic nemic alse here</l>
+<l>Dand<i>er</i> dat ic liep soe sere</l>
+<l>Des derds magic niet faelgiere<i>n</i> </l>
+<l n="140">Want ic ben sterx van ons viere</l>
+<l>Die tfierde stic name hi soude</l>
+<l>D<i>aer</i> om hebbe<i>n</i> mine onhoude</l>
+<l>D<i>us</i> hadde hi den hert allene</l>
+<l>Die si vinghe<i>n</i> alghemene</l>
+<l n="145">Bi deser fauele<i>n</i> soe bespellet</l>
+<l>Die an heerscap es ghesellet</l>
+</div>
+<div type="chapter"><head type="chapter comment">   7</head>
+<l><b>H</b>Et was .i. dief die huwe<i>n</i> soude</l>
+<l>Doer sine<i>n</i> wille en<i>de</i> doer sine houde</l>
+<l>Quame<i>n</i> siere gheselle<i>n</i> vele</l>
+<l n="150">Te siere brulocht te sine<i>n</i> spele</l>
+<l>Dit sach .i. vroet man en<i>de</i> seide</l>
+<l>Dit spel mach wel v<i>er</i>gae<i>n</i> te leide</l>
+<l>Hoert na mi wel lieue ghebure</l>
+<l>Ic sal v segghe<i>n</i> .i. auenture</l>
+<l n="155">Die sonne wilde tene<i>n</i> tide<i>n</i> beghinne<i>n</i> </l>
+<l>Huwe<i>n</i> en<i>de</i> kinder winnen</l>
+<l>Hare ghebure seid<i>er</i> ieghe<i>n</i> </l>
+<l>Hoe soude<i>n</i> wi dat ghedoghe<i>n</i> moghen</l>
+<l>Al es die sonne nv allene</l>
+<l n="160">Si v<i>er</i>bornt ons ghemene</l>
+<l><milestone unit="fol" n="86ra"/> Of si dan kinder heeft</l>
+<l>So ne ontgaet haer man die leeft</l>
+<l>D<i>us</i> segghic v van desen dief</l>
+<l>Al es v nv die brulocht lief</l>
+<l n="165">Die kinder sele<i>n</i> hare<i>n</i> vad<i>er</i> slachten</l>
+<l>Alsoe vele te meer moete<i>n</i> wi ons wachte<i>n</i> </l>
+<l>Van dinghen es blide menech man</l>
+<l>D<i>aer</i> hi luttel winnet an</l>
+</div>
+<div type="chapter"><head type="chapter comment">8</head>
+<l><b>E</b>En wolf becnaegde bene vele</l>
+<l n="170">Hem bleef .i. stekende in die kele</l>
+<l>Hi beloefdem giften groet</l>
+<l>Diene holpe vter noet</l>
+<l>Met langhe<i>n</i> halse quam daer een</l>
+<l>Crane die he<i>m</i> trac vte dat been</l>
+<l n="175">Als die wolf al was ghenese<i>n</i> </l>
+<l>Wilde die crane ghepayt wese<i>n</i> </l>
+<l>Doe seide die wolf hi es wel onvroet</l>
+<l>Mijn h<i>er</i>e die crane die om tgoet</l>
+<l>Niet en penst dat men he<i>m</i> doet</l>
+<l n="180">Hi pensder o<i>m</i>me w<i>aer</i> hi vroet</l>
+<l>Hi stac sijn hoeft in mine<i>n</i> mont</l>
+<l>Ic liete<i>n</i> kere<i>n</i> al ghesont</l>
+<l>Hoert hier wond<i>er</i> soete liede</l>
+<l>Nochta<i>n</i> wil hijs hebbe<i>n</i> miede</l>
+<l n="185">Souder emmer miede sijn</l>
+<l>M<i>et</i> meere<i>n</i> rechte w<i>aer</i> si mijn</l>
+<l>D<i>us</i> mach hi winne<i>n</i> die doet</l>
+<l>Den quade<i>n</i> ere en<i>de</i> goet</l>
+</div>
+<div type="chapter"><head type="chapter comment">9</head>
+<l><b>E</b>Ne teue ghinc swaer met welpe<i>n</i> </l>
+<l n="190">Soe dat si haer niet en conste gehelpe<i>n</i> </l>
+<l>Si bat .i. der and<i>er</i> teue<i>n</i> orlof</l>
+<l>Te gheligghene in haer hof</l>
+<l>En<i>de</i> in hare<i>n</i> nest op houesschede</l>
+<l>Die teue dede der and<i>er</i> bede</l>
+<l n="195">Alse die teue gheleghe<i>n</i> was</l>
+<l>En<i>de</i> van .ij. welpene<i>n</i> ghenas</l>
+<l>Dand<i>er</i> bat dat si boude</l>
+<l>Hare stede rume<i>n</i> soude</l>
+<l>Die ghene en wilde doer h<i>aer</i> niet vlie<i>n</i> </l>
+<l n="200">Si seide wie soude di ontsien</l>
+<l><milestone unit="fol" n="86rb"/> Wiltu vechte<i>n</i> ieghe<i>n</i> ons drien</l>
+<l>Di magher wel leit aue ghescie<i>n</i> </l>
+<l>Het wort met storme en<i>de</i> met wighe<i>n</i> </l>
+<l>Seldi uwe<i>n</i> nest wed<i>er</i> ghecrighe<i>n</i> </l>
+<l n="205">Die al gheloeft dat hi hoert</l>
+<l>Scone sprake en<i>de</i> scone woert</l>
+<l>Wort dicke te scerne ghedreue<i>n</i> </l>
+<l>Dit leert ons dbispel van d<i>er</i> teue<i>n</i> </l>
+</div>
+<div type="chapter"><head type="chapter comment">10</head>
+<l><b>E</b>En man vant ligghende inde<i>n</i> rijm</l>
+<l n="210">.I. ionc serpent in swijm</l>
+<l>Die man naemt in sine<i>n</i> arm</l>
+<l>En<i>de</i> maket daer soe warm</l>
+<l>Dat het van d<i>er</i> coude<i>n</i> ghenas</l>
+<l>D<i>aer</i>t te vore<i>n</i> siec af was</l>
+<l n="215">Doe want omtrent sine<i>n</i> h<i>er</i>e</l>
+<l>En<i>de</i> het dedem daer soe sere</l>
+<l>Doe seide die man ganc wech serpent</l>
+<l>Twi doestu mi soe groet torment</l>
+<l>Tserpent en wilde nieuw<i>er</i> gaen</l>
+<l n="220">D<i>us</i> heuet den man gheuaen</l>
+<l>D<i>us</i> es die goede man ghehoent</l>
+<l>D<i>us</i> es he<i>m</i> goet met quade gheloent</l>
+<l>Die den quade<i>n</i> doet vt<i>er</i> pine</l>
+<l>Hi v<i>er</i>dient ghepijnt te sine</l>
+</div>
+<div type="chapter"><head type="chapter comment">11</head>
+<l><b>E</b>En esel sach .i. euerswijn</l>
+<l>God houdi lieue broed<i>er</i> mijn</l>
+<l>Die esel loech en<i>de</i> hilt sijn scere<i>n</i> </l>
+<l>Dan mochte de<i>n</i> euer niet ghedere<i>n</i> </l>
+<l>Dat ev<i>er</i>swijn sweech en<i>de</i> hadt o<i>m</i>mare</l>
+<l n="230">En<i>de</i> voer of he<i>m</i> no weders en ware</l>
+<l>Het ware seit hi grote scande</l>
+<l>Bewuldic hier an mine tande</l>
+<l>Selc hout met and<i>re</i>n sijn scere<i>n</i> </l>
+<l>W<i>aer</i> hi vroet hi souts ontbere<i>n</i> </l>
+<l n="235">Dit fauelkijn leert ons nochta<i>n</i> </l>
+<l>V<i>er</i>draghen ene<i>n</i> dulle<i>n</i> man</l>
+</div>
+<div type="chapter"><head type="chapter comment">12</head>
+<l><b>E</b>Ne portmuus ghinc o<i>m</i>me m<i>er</i>ghe<i>n</i> </l>
+<l>M<i>et</i> ere veltmuus herberghe<i>n</i> </l>
+<l>Die veltmuus leide hare<i>n</i> gast te vore<i>n</i> </l>
+<l n="240">Ene ecle en<i>de</i> een gersten coren</l>
+<l><milestone unit="fol" n="86va"/> Smerghens leedde die portmuus</l>
+<l>Dandere met hare thuus</l>
+<l>Gheent huus was van grote<i>n</i> prise</l>
+<l>Bewaert wel van goed<i>er</i> spise</l>
+<l n="245">Die waert seide het es al vse</l>
+<l>Dat hier es in desen huse</l>
+<l>Si ware<i>n</i> te ghemake t<i>er</i> cure</l>
+<l>Mettie<i>n</i> quam daer .i. ter dure</l>
+<l>Doe liep die portmuus thare<i>n</i> hole</l>
+<l n="250">M<i>aer</i> die and<i>er</i> was in dole</l>
+<l>Si liep al o<i>m</i>me hare<i>n</i>tare</l>
+<l>Sine was noit eer in selke<i>n</i> vare</l>
+<l>Die man ghinc wed<i>er</i> vutw<i>aer</i>t</l>
+<l>Doe q<i>ua</i>m voert mijn h<i>er</i>e die w<i>aer</i>t</l>
+<l n="255">En<i>de</i> hi sprac al onghespaert</l>
+<l>Twi bestu seit hi soe v<i>er</i>uaert</l>
+<l>Comt hare seit hi bi miere side</l>
+<l>Et en<i>de</i> drinct en<i>de</i> maect v blide</l>
+<l>In mach niet ete<i>n</i> sprac die gone</l>
+<l n="260">Hier en ben ic niet ghewone</l>
+<l>In prise niet .i. twint dijn duut</l>
+<l>Ic wildic wed<i>er</i> ware daer vut</l>
+<l>D<i>aer</i> etic bone<i>n</i> en<i>de</i> cruut</l>
+<l>D<i>aer</i> soe hebbic mijn deduut</l>
+<l n="265">Al en vindic daer niet vele</l>
+<l>Ic ete met ioyen en<i>de</i> met spele</l>
+<l>Ic ben daer soe wel te ghemake</l>
+<l>Ic en ontsie ghene sake</l>
+<l>Wat prisic dan hier te sine</l>
+<l n="270">In dese sorghe in dese pine</l>
+<l>Men vanghet di met valle<i>n</i> hier</l>
+<l>Die catte<i>n</i> bite<i>n</i> di ond<i>er</i> dijn lier</l>
+<l>Het es al met pine<i>n</i> dattu leues</l>
+<l>En<i>de</i> met sorghe<i>n</i> dattu heues</l>
+<l n="275">V<i>er</i>stonde<i>n</i> wi dit wel wi soude<i>n</i> </l>
+<l>Ons tonse<i>n</i> huus ov<i>er</i> ghepayt houde<i>n</i> </l>
+<l>Een luttel smaket bet met spele</l>
+<l>Dan met sorghen vele</l>
+</div>
+<div type="chapter"><head type="chapter comment">13</head>
+<l><b>E</b>En are<i>n</i> nam wile<i>n</i> ere vossinne<i>n</i> </l>
+<l n="280">Haer ionc m<i>et</i> blide<i>n</i> sinne<i>n</i> </l>
+<l><milestone unit="fol" n="86vb"/> Droech hise te sine<i>n</i> kinden</l>
+<l>Die hi hongherech waende vinde<i>n</i> </l>
+<l>Doe was die vosinne gram</l>
+<l>En<i>de</i> liep tessi ten bome quam</l>
+<l n="285">D<i>aer</i> die are<i>n</i> op sat m<i>et</i> sine<i>n</i> broede</l>
+<l>Si bat hem doer omoede</l>
+<l>Dat hi haer kind<i>er</i> wed<i>er</i> gaue</l>
+<l>Sine bat he<i>m</i> and<i>er</i> haue</l>
+<l>Hine wils niet doe<i>n</i> hi hadt o<i>m</i>mare</l>
+<l n="290">Want hi sat hoghe boue<i>n</i> hare</l>
+<l>Doe<i>n</i> wassi sere tonghemake</l>
+<l>Si ghinc hale<i>n</i> .i. stake</l>
+<l>Al bornende en<i>de</i> stroes vele</l>
+<l>D<i>aer</i> speelde si van Reinaerts spele</l>
+<l n="295">Doe<i>n</i> ghinc si m<i>et</i> behendichede<i>n</i> </l>
+<l>Den boe<i>m</i> ontsteke<i>n</i> van benede<i>n</i> </l>
+<l>Dat vier sloech op te<i>n</i> neste w<i>ar</i>t</l>
+<l>Dit sach die are<i>n</i> en<i>de</i> w<i>er</i>t v<i>er</i>uart</l>
+<l>Doe gaf hi wed<i>er</i> ter seluer stont</l>
+<l n="300">Hare kind<i>er</i> al ghesont</l>
+<l>Dit fauelkijn leert rike<i>n</i> liede<i>n</i> </l>
+<l>Dat si den weke<i>n</i> niet mesbiede<i>n</i> </l>
+<l>Doe<i>n</i> sijt oec ic weet .i. dier</l>
+<l>Datse borne<i>n</i> sal int vier</l>
+</div>
+<div type="chapter"><head type="chapter comment">14</head>
+<l><b>W</b>Ile<i>n</i> vant .i. aren .i. slecke</l>
+<l>Hi namse en<i>de</i> droechse op bide<i>n</i> becke</l>
+<l>Die slecke sloet h<i>aer</i> in die scelle</l>
+<l>Dat haer die are<i>n</i> daer ic af telle</l>
+<l>In ghere maniere<i>n</i> mochte dare<i>n</i> </l>
+<l n="310">Doe seide die wuwe tote<i>n</i> are<i>n</i> </l>
+<l>Du dragest daer .i. diere gherechte</l>
+<l>Constuut gherede<i>n</i> te sine<i>n</i> rechte</l>
+<l>Doe seide die are<i>n</i> wiltuut mi wise<i>n</i> </l>
+<l>Ic gheue di van miere spise<i>n</i> </l>
+<l n="315">Ia ic seide die wuwe nem dine<i>n</i> vloge</l>
+<l>Vliech op tote<i>n</i> wolkine<i>n</i> hoghe</l>
+<l>Laet valle<i>n</i> die slecke int h<i>er</i>de lant</l>
+<l>En<i>de</i> dan vliech hare te hant</l>
+<l>Ald<i>us</i> sal breke<i>n</i> hare scelle</l>
+<l n="320">Dan nem die slecke bi de<i>n</i> velle</l>
+<l><milestone unit="fol" n="87ra"/> Op vloech die are<i>n</i> en<i>de</i> vant soe groet</l>
+<l>Die hitte dat hiere om bleef doet</l>
+<l>En<i>de</i> die slecke viel opt lant</l>
+<l>Soe datse ghene wuwe vant</l>
+<l n="325">En<i>de</i> hiefse op te hant</l>
+<l>En<i>de</i> sloechse in sine<i>n</i> tant</l>
+<l>D<i>us</i> comt lacht<i>er</i> en<i>de</i> scade</l>
+<l>Meneghe<i>n</i> ma<i>n</i> bi q<i>ua</i>de<i>n</i> rade</l>
+<l>Oec es menech ma<i>n</i> soe quaet</l>
+<l n="330">Die .i. and<i>re</i>n gheuet raet</l>
+<l>Alsoe hiere best siet in</l>
+<l>Sijns selfs vrome en<i>de</i> sijn ghewin</l>
+</div>
+<div type="chapter"><head type="chapter comment">15</head>
+<l><b>O</b>p .i. boem sat tere stont</l>
+<l>.I. roec en<i>de</i> hadde in sine<i>n</i> mont</l>
+<l n="335">.I. case dit sach Reinaert</l>
+<l>En<i>de</i> sp<i>ra</i>c ald<i>us</i> ten roeke w<i>aer</i>t</l>
+<l>Dine vedere<i>n</i> sijn soe scone</l>
+<l>Du mochts boue<i>n</i> alle<i>n</i> vogle<i>n</i> crone</l>
+<l>Draghe<i>n</i> hadstu clare<i>n</i> sanc</l>
+<l n="340">Bi gode ia ic seidi goddanc</l>
+<l>Doe<i>n</i> toendi aldaer sijn luut</l>
+<l>Hi gapede en<i>de</i> die case viel vut</l>
+<l>Den case greep die vos Reinaert</l>
+<l>En<i>de</i> liep te sine<i>n</i> hole waert</l>
+<l n="345">D<i>us</i> siinre vele te sch<i>er</i>ne ghedreue<i>n</i> </l>
+<l>Bi prise die si he<i>m</i> hore<i>n</i> gheue<i>n</i> </l>
+</div>
+<div type="chapter"><head type="chapter comment">16</head>
+<l><b>W</b>Ilen was .i. liebaert</l>
+<l>Van oude<i>n</i> ghecranct en<i>de</i> gheswaert</l>
+<l>Soe dat hi op sine<i>n</i> ende lach</l>
+<l n="350">Alse dat deuerswijn v<i>er</i>sach</l>
+<l>Het galt hem den oude<i>n</i> slach</l>
+<l>Die hi he<i>m</i> gaf ov<i>er</i> meneghe<i>n</i> dach</l>
+<l>Die stier wrac he<i>m</i> met sine<i>n</i> hore<i>n</i> </l>
+<l>Van dat hi he<i>m</i> hadde ghedae<i>n</i> te vore<i>n</i> </l>
+<l n="355">Die esel tert he<i>m</i> op sijn hoeft</l>
+<l>Hoert hoes he<i>m</i> die liebart loeft</l>
+<l>Wach sprac hi als ic was ionc</l>
+<l>En<i>de</i> wel op mine<i>n</i> spronc</l>
+<l>Doe dwa<i>n</i>ct ict al doe was ic h<i>er</i>e</l>
+<l n="360">Doe diende<i>n</i> si mi doe dade<i>n</i> si mi ere</l>
+<l><milestone unit="fol" n="87rb"/> Nv doen si mi onw<i>er</i>dichede</l>
+<l>En<i>de</i> slaen te sticke mine lede</l>
+<l>Edele en<i>de</i> onnedele mede</l>
+<l>En<i>de</i> daer toe mede clene<i>n</i> vrede</l>
+<l n="365">Ten ghene<i>n</i> spreect dit bispel</l>
+<l>Die vele mach en<i>de</i> dan es fel</l>
+<l>Alse hi tsine heeft v<i>er</i>loren</l>
+<l>Hi moet sijn sacht<i>er</i> dan te vore<i>n</i> </l>
+</div>
+<div type="chapter"><head type="chapter comment">17</head>
+<l><b>E</b>En rijc man hadde tere stont</l>
+<l n="370">Ene<i>n</i> ezel en<i>de</i> .i. hont</l>
+<l>Om dat hi hadde de<i>n</i> hont soe wert</l>
+<l>Droech desel nijt ten honde w<i>er</i>t</l>
+<l>Hi sach den hont in grot<i>er</i> weelde</l>
+<l>En<i>de</i> dat sijn h<i>er</i>e ieghe<i>n</i> he<i>m</i> speelde</l>
+<l n="375">Ia penst mijn h<i>er</i>e Boudewijn</l>
+<l>Wat meent mijn h<i>er</i>e wat mach dit sijn</l>
+<l>Twi maect hi dus grote feeste</l>
+<l>M<i>et</i> ere quad<i>er</i> vuld<i>er</i> beeste</l>
+<l>Ic ben bet<i>er</i> dan die hont</l>
+<l n="380">Menech ambacht es mi cont</l>
+<l>Ic doe meer pine<i>n</i> dan si twee</l>
+<l>Ic draghe ic hale ic hebbe wee</l>
+<l>Ic wille oec sijn mijns h<i>er</i>en vrient</l>
+<l>En<i>de</i> diene<i>n</i> he<i>m</i> daer he<i>m</i> die hont af dient</l>
+<l n="385">Mettie<i>n</i> quam mijn h<i>er</i>e die w<i>er</i>t</l>
+<l>Die esel hief op sine<i>n</i> stert</l>
+<l>Hi maecte feeste hi loech hi sanc</l>
+<l>Soe dat hi op sine<i>n</i> h<i>er</i>e spranc</l>
+<l>Met sine<i>n</i> vordre<i>n</i> voete<i>n</i> bede</l>
+<l n="390">En<i>de</i> dede hem h<i>er</i>de lede</l>
+<l>Hi wilde<i>n</i> cusse<i>n</i> an sine<i>n</i> mont</l>
+<l>In dier wise van den hont</l>
+<l>Helpe helpe riep die h<i>er</i>e</l>
+<l>Dese quetset mi h<i>er</i>de sere</l>
+<l n="395">Doe quam die cnape ghelope<i>n</i> </l>
+<l>En<i>de</i> dedem sine quaetheit becope<i>n</i> </l>
+<l>Si sloeghe<i>n</i> en<i>de</i> si blouwen</l>
+<l>Dat hem sijn leue<i>n</i> mochte rouwe<i>n</i> </l>
+<l>Ald<i>us</i> sijn vele liede die prien</l>
+<l n="400">Om eens and<i>er</i>s heerscepien</l>
+<l><milestone unit="fol" n="87va"/> Si hebbens nijt si hebbens sprake</l>
+<l>Dat ieme<i>n</i> es met ghemake</l>
+</div>
+<div type="chapter"><head type="chapter comment">18</head>
+<l><b>D</b>aer in .i. hout sliep .i. lieb<i>aer</i>t</l>
+<l>.I. muus liep ov<i>er</i> sine<i>n</i> baert</l>
+<l n="405">Die lieb<i>aer</i>t vinc die muus t<i>er</i> vaert</l>
+<l>En<i>de</i> woudse dode<i>n</i> onghespaert</l>
+<l>Ghenade seit soe soete h<i>er</i>e</l>
+<l>V<i>er</i>gheuet mi in doet ne<i>m</i>mere</l>
+<l>Die lieb<i>aer</i>t dochte het ware o<i>n</i>nere</l>
+<l n="410">Dat musekijn te quetsen sere</l>
+<l>Oec docht he<i>m</i> scande dat hijt hilde</l>
+<l>Doe liet hijt lope<i>n</i> d<i>aer</i> het wilde</l>
+<l>D<i>aer</i> na gheuiel dat die lieb<i>ar</i>t</l>
+<l>In .i. strec gheuanghe<i>n</i> w<i>ar</i>t</l>
+<l n="415">Hi riep lude hi was v<i>er</i>uaert</l>
+<l>Doe q<i>ua</i>m daer die muus t<i>er</i> vart</l>
+<l>H<i>er</i>e seit si al doet ment selde<i>n</i> </l>
+<l>Ic sal v goet met goede gelde<i>n</i> </l>
+<l>Si beet ontwee m<i>et</i> hare<i>n</i> becke</l>
+<l n="420">Al die bande van de<i>n</i> strecke</l>
+<l>Ware<i>n</i> si cleine ofte groet</l>
+<l>En<i>de</i> halp de<i>n</i> lieb<i>ar</i>t vt<i>er</i> noet</l>
+<l>D<i>us</i> soude die rike man de<i>n</i> arme<i>n</i> </l>
+<l>V<i>er</i>draghe<i>n</i> en<i>de</i> sijns ontfarme<i>n</i> </l>
+<l n="425">Doet hijt hine es niet ghehoent</l>
+<l>Bedi het wort hem wel gheloent</l>
+</div>
+<div type="chapter"><head type="chapter comment">19</head>
+<l><b>D</b>Ie wuwe lach ene w<i>er</i>uen</l>
+<l>Soe siec dat si waende sterue<i>n</i> </l>
+<l>Si bat hare moed<i>er</i> dat si vare</l>
+<l n="430">In peelgrimagien ov<i>er</i> hare</l>
+<l>Tallen k<i>er</i>ke<i>n</i> die si vint</l>
+<l>Doe seide die moed<i>er</i> lieue kint</l>
+<l>Het gaet al ov<i>er</i> niet mijn vare<i>n</i> </l>
+<l>Du heefst die k<i>er</i>ke<i>n</i> en<i>de</i> die outare<i>n</i> </l>
+<l n="435">Bevult soe dicke en<i>de</i> besmet</l>
+<l>Gheneestu oec soe saltu bet</l>
+<l>Du heuest die heilighe<i>n</i> soe v<i>er</i>wrocht</l>
+<l>Dine diet ghene hulpe an he<i>m</i> ghesocht</l>
+<l>Bi deser fauele<i>n</i> wi v<i>er</i>staen</l>
+<l n="440">Die in peelgrimagien gaen</l>
+<l><milestone unit="fol" n="87vb"/> En<i>de</i> h<i>aer</i> sonde<i>n</i> met hem draghe<i>n</i> </l>
+<l>Hets om niet dat si jaghe<i>n</i> </l>
+</div>
+<div type="chapter"><head type="chapter comment">20</head>
+<l><b>G</b>rote veede droech .i. part</l>
+<l>En<i>de</i> grote<i>n</i> nijt ten h<i>er</i>te w<i>ar</i>t</l>
+<l n="445">Om dat het sach den hert soe licht</l>
+<l>Sijn hoerne groet sijn h<i>aer</i> soe slicht</l>
+<l>Geent part qua<i>m</i> tene<i>n</i> ma<i>n</i> ghegae<i>n</i> </l>
+<l>Hadstu seidet ghevaen</l>
+<l>.I. hert die ic di sal wisen</l>
+<l n="450">Sijn vleesch dat ware goet te spise<i>n</i> </l>
+<l>Beide sijn hoerne en<i>de</i> sijn vel</l>
+<l>Dat soutstu v<i>er</i>copen wel</l>
+<l>In wat maniere<i>n</i> seide die man</l>
+<l>Moghe<i>n</i> wiere best come<i>n</i> an</l>
+<l n="455">Sit op seide tpart ic sal di draghe<i>n</i> </l>
+<l>Wi sele<i>n</i> daer o<i>m</i>me vare<i>n</i> jaghe<i>n</i> </l>
+<l>Die man sat op en<i>de</i> v<i>er</i>sach</l>
+<l>Den hert al staphans daer hi lach</l>
+<l>Die hert was dapper en<i>de</i> snel</l>
+<l n="460">En<i>de</i> ontliep den parde wel</l>
+<l>Tierste<i>n</i> dat geent part was mat</l>
+<l>Het sprac ten man die op he<i>m</i> sat</l>
+<l>Soete vrient beet of</l>
+<l>Ic ben moede gef mi orlof</l>
+<l n="465">Ic hebdi seidi soe gheuae<i>n</i> </l>
+<l>Dune const mi ni<i>et</i> ontgae<i>n</i> </l>
+<l>Ic dwinghe di mette<i>n</i> breidele vore<i>n</i> </l>
+<l>En<i>de</i> dine side<i>n</i> mette<i>n</i> spore<i>n</i> </l>
+<l>Dattu mi niet ontgae<i>n</i> en macht</l>
+<l n="470">Al daetsture toe al dine cracht</l>
+<l>Die valt in sijns selfs net</l>
+<l>Dat hi spredet en<i>de</i> set</l>
+<l>Hine mochte geensins vare<i>n</i> bet</l>
+<l>Te sine<i>n</i> rechte te siere wet</l>
+<l n="475">Hi es sot die d<i>aer</i> begint vechte<i>n</i> </l>
+<l>D<i>aer</i> hi hem niet en can v<i>er</i>rechten</l>
+</div>
+<div type="chapter"><head type="chapter comment">21</head>
+<l><b>E</b>En esel sprac tene<i>n</i> lieb<i>ar</i>t</l>
+<l>Van mi sele<i>n</i> sijn v<i>er</i>uart</l>
+<l>Beeste<i>n</i> vele ic saelti toghe<i>n</i> </l>
+<l n="480">Op ghene<i>n</i> berch vor dine<i>n</i> oge<i>n</i> </l>
+<l><milestone unit="fol" n="88ra"/> Doe seide die lieb<i>ar</i>t tsine<i>n</i> scerne</l>
+<l>H<i>er</i> esel dit sagic gherne</l>
+<l>Alsi op den berch ware<i>n</i> </l>
+<l>Begonste desel soe ghebare<i>n</i> </l>
+<l n="485">Dattie hase<i>n</i> hare<i>n</i>tare</l>
+<l>En<i>de</i> die geeten vloe<i>n</i> van vare</l>
+<l>Her esel sprac die liebart</l>
+<l>Ic ware oec van v v<i>er</i>uaert</l>
+<l>M<i>aer</i> onse vrienscap es soe goet</l>
+<l n="490">Ic hope dat ghi mi niet en doet</l>
+<l>Die luttel mach en<i>de</i> beroemt vele</l>
+<l>Hets recht dat me<i>n</i> met he<i>m</i> spele</l>
+<l>Wachtens he<i>m</i> dies he<i>m</i> beroeme<i>n</i> </l>
+<l>Men sieter nieme<i>n</i> ere af come<i>n</i> </l>
+</div>
+<div type="chapter"><head type="chapter comment">22</head>
+<l><b>E</b>En roec wilde .i. feeste houde<i>n</i> </l>
+<l>Hi bat den vogle<i>n</i> dat si soude<i>n</i> </l>
+<l>Met hem ete<i>n</i> op houeschede</l>
+<l>Die vogle dade<i>n</i> sine bede</l>
+<l>En<i>de</i> alsi waende<i>n</i> come<i>n</i> eten</l>
+<l n="500">Worde<i>n</i> si van de<i>n</i> roec v<i>er</i>beten</l>
+<l>Selc waent te feeste<i>n</i> en<i>de</i> te spele</l>
+<l>Gaen hi vint<i>er</i> rouwe<i>n</i> vele</l>
+</div>
+<div type="chapter"><head type="chapter comment">23</head>
+<l><b>E</b>En lieb<i>ar</i>t seide op .i. stont</l>
+<l>Dat hi siec ware en<i>de</i> onghesont</l>
+<l n="505">Die beesten diene quame<i>n</i> vande<i>n</i> </l>
+<l>Onthaelde hi met sine<i>n</i> tande<i>n</i> </l>
+<l>En<i>de</i> v<i>er</i>beetse elc acht<i>er</i> andre<i>n</i> </l>
+<l>Doe q<i>ua</i>m daer voer die dore wand<i>re</i>n</l>
+<l>Reinaert die vos en<i>de</i> sach in w<i>ar</i>t</l>
+<l n="510">God houdu h<i>er</i>e her liebart</l>
+<l>Reinaert seidi comt bet naer</l>
+<l>Comt int huus wat sta di daer</l>
+<l>Reinaert sprac wat mijns ghesciet</l>
+<l>In come binne<i>n</i> uw<i>er</i> dore niet</l>
+<l n="515">Ic sie hier voespore<i>n</i> inw<i>ar</i>t stae<i>n</i> </l>
+<l>Ic en sie ghene vutw<i>ar</i>t gae<i>n</i> </l>
+<l>Hi es vroet die hem selue<i>n</i> can</l>
+<l>Castie<i>n</i> bi .i. and<i>re</i>n man</l>
+<l>Selc gaet te houe w<i>ar</i>t met ere<i>n</i> </l>
+<l n="520">Hi moet m<i>et</i> scande<i>n</i> wed<i>er</i> kere<i>n</i> </l>
+</div>
+<div type="chapter"><head type="chapter comment">24</head>
+<l><milestone unit="fol" n="88rb"/> <b>W</b>Ilen sayde .i. man sijn saet</l>
+<l>Als die swaluwe dit v<i>er</i>staet</l>
+<l>Si geeft den andere<i>n</i> vogele<i>n</i> raet</l>
+<l>Wi doe<i>n</i> seegt si ons selue<i>n</i> quaet</l>
+<l n="525">Wine treckent vut eert meer vut gaet</l>
+<l>Ic ontsie des mans baraet</l>
+<l>Die vogle hild<i>er</i> mede haer scere<i>n</i> </l>
+<l>Si ne pensde<i>n</i> niet wat he<i>m</i> mochte dere<i>n</i> </l>
+<l>D<i>aer</i>na quaemt he<i>m</i> al te quade</l>
+<l n="530">Si hadde<i>n</i> bat ghewrocht bi rade</l>
+<l>Alst core<i>n</i> vut ginc me<i>n</i> leide strecke</l>
+<l>En<i>de</i> vincse doe<i>n</i> bi hare<i>n</i> becke</l>
+<l>M<i>aer</i> die swaluwe<i>n</i> dade<i>n</i> beste</l>
+<l>En<i>de</i> maecte<i>n</i> in die huse h<i>aer</i> neste</l>
+<l n="535">Die heeft goede<i>n</i> raet onw<i>ar</i>t</l>
+<l>D<i>us</i> siet me<i>n</i> dicke dat hi vart</l>
+</div>
+<div type="chapter"><head type="chapter comment">25</head>
+<l><b>D</b>Ie pude ware<i>n</i> sonder h<i>er</i>e</l>
+<l>En<i>de</i> si beclaegde<i>n</i> he<i>m</i> h<i>er</i>de sere</l>
+<l>Si bade<i>n</i> h<i>er</i>de dat me<i>n</i> hem gaue</l>
+<l n="540">.I. meest<i>er</i> .i. graue</l>
+<l>Diese dwonghe te hare<i>n</i> rechte</l>
+<l>Als .i. h<i>er</i>e doet sine knechte</l>
+<l>Ghene<i>n</i> pude was ghesent</l>
+<l>.I. meest<i>er</i> dat was tserpent</l>
+<l n="545">Diese dwanc en<i>de</i> al v<i>er</i>beet</l>
+<l>Dat he<i>m</i> was lief was he<i>m</i> doe leet</l>
+<l>D<i>us</i> hebbe<i>n</i> die pude gheuare<i>n</i> </l>
+<l>Die te vore<i>n</i> weeldich ware<i>n</i> </l>
+<l>Hets recht die wed<i>er</i>seget tgoede</l>
+<l n="550">Dat hi hebbe armoede</l>
+</div>
+<div type="chapter"><head type="chapter comment">26</head>
+<l><b>D</b>Ie wuwe dwanc die duue<i>n</i> sere</l>
+<l>Doe ghinghe<i>n</i> si soeke<i>n</i> .i. and<i>re</i>n h<i>er</i>e</l>
+<l>Den hauec bade<i>n</i> si dat hi soude</l>
+<l>Hem ontfae<i>n</i> in sine houde</l>
+<l n="555">Te wachtene en<i>de</i> te acht<i>er</i>w<i>er</i>ne</l>
+<l>Die hauec sprac hi deet gh<i>er</i>ne</l>
+<l>Als hise hadde in siere warde</l>
+<l>D<i>aer</i> en was noit .i. die hi sparde</l>
+<l>Hine dede he<i>m</i> alle<i>n</i> pijnlijchede</l>
+<l n="560">Meer dan die wuwe te vore<i>n</i> dede</l>
+<l><milestone unit="fol" n="88va"/> Doe seide daer .i. wi sijns wel w<i>aer</i>t</l>
+<l>Dat wi vare<i>n</i> hinderwaert</l>
+<l>Dese hauec es ons vele wreder</l>
+<l>Dan die wuwe en<i>de</i> doet ons leder</l>
+<l n="565">D<i>us</i> siet me<i>n</i> dat die ghene vare<i>n</i> </l>
+<l>Die emmer nieu heerscap gare<i>n</i> </l>
+</div>
+<div type="chapter"><head type="chapter comment">27</head>
+<l><b>E</b>En dief boet .i. honde broet</l>
+<l>Die hont sprac in hebs ghene<i>n</i> noet</l>
+<l>Men geeft mi seegt hi broets ghenoech</l>
+<l n="570">Du bids mi om dijn gheuoech</l>
+<l>Du hads wel g<i>er</i>ne dus ghestole<i>n</i> </l>
+<l>Mijns here<i>n</i> goet dat mi es beuole<i>n</i> </l>
+<l>Lietic mine<i>n</i> h<i>er</i>e aldus ontgoede<i>n</i> </l>
+<l>Wat soudic doe<i>n</i> soutstu mi voede<i>n</i> </l>
+<l n="575">Neen du niet nv vlie nv vlie</l>
+<l>Dune vlies ic wroeghe die</l>
+<l>Ic basse ic make selc gheluut</l>
+<l>Dat mijn h<i>er</i>e comet vut</l>
+<l>Die hont en slacht niet de<i>n</i> riese<i>n</i> </l>
+<l n="580">Die om .i. luttel al v<i>er</i>liesen</l>
+<l>Die om .i. cort delijt v<i>er</i>bure<i>n</i> </l>
+<l>Dat ewelijc sal ghedure<i>n</i> </l>
+</div>
+<div type="chapter"><head type="chapter comment">28</head>
+<l><b>E</b>En wolf quam daer in pine<i>n</i> </l>
+<l>.I. soghe ginc van v<i>er</i>kine<i>n</i> </l>
+<l n="585">Ic wille sijn dijn heuemoeder</l>
+<l>Van selk<i>er</i> sake<i>n</i> ben ic vroed<i>er</i> </l>
+<l>Dan ieme<i>n</i> es die ic weet</l>
+<l>Brenc voert dine vrucht ghereet</l>
+<l>Ic sal doe<i>n</i> datt<i>er</i> toe staet</l>
+<l n="590">Die soch bekende<i>n</i> ov<i>er</i> quaet</l>
+<l>Soete vrient seit soe nv vlie</l>
+<l>Ic sal wel doe<i>n</i> sond<i>er</i> die</l>
+<l>Oec hadstu moed<i>er</i> edel h<i>er</i>e</l>
+<l>Spare mi doer diere moed<i>er</i> ere</l>
+<l n="595">Die wolf ginc wech die soch dede</l>
+<l>Met v<i>er</i>de<i>n</i> hare v<i>er</i>hole<i>n</i>hede</l>
+<l>Hadse de<i>n</i> valsche<i>n</i> gheloeft</l>
+<l>Haer kind<i>er</i> ware<i>n</i> h<i>aer</i> gheroeft</l>
+<l>Hine es gheen vroet ma<i>n</i> die pleg<i>et</i> </l>
+<l n="600">Te ghelouen dat me<i>n</i> he<i>m</i> seghet</l>
+<l><milestone unit="fol" n="88vb"/> Bedi die and<i>re</i>n wille bedrieghe<i>n</i> </l>
+<l>Hem es luttel om .i. lieghe<i>n</i> </l>
+</div>
+<div type="chapter"><head type="chapter comment">29</head>
+<l><b>I</b>N .i. berch hoerde<i>n</i> lieden</l>
+<l>Groet gheluut soe dat si he<i>m</i> beriede<i>n</i> </l>
+<l n="605">Wat he<i>m</i> best te doene ware</l>
+<l>Sine ware<i>n</i> noit eer in selke<i>n</i> vare</l>
+<l>Mettie<i>n</i> quam .i. muus daer vut</l>
+<l>Die ghemaect hadde dat gheluut</l>
+<l>D<i>us</i> heeft me<i>n</i> vaer en<i>de</i> sorghe groet</l>
+<l n="610">Dicwile al sonder noet</l>
+</div>
+<div type="chapter"><head type="chapter comment">30</head>
+<l><b>E</b>En hont sach wile<i>n</i> ond<i>er</i> geete<i>n</i> </l>
+<l>.I. lammekijn lope<i>n</i> en<i>de</i> bleete<i>n</i> </l>
+<l>Die hont seide tote<i>n</i> lammekine</l>
+<l>Dine bestaet niet hier te sine</l>
+<l n="615">Volch diere moed<i>er</i> die di vliet</l>
+<l>Si es mette<i>n</i> scape<i>n</i> si ne es hier niet</l>
+<l>In soek<i>er</i> niet sprac dlam</l>
+<l>Si es dicke te mi w<i>ar</i>t gram</l>
+<l>Die mi .ix. maende droech</l>
+<l n="620">Ic hebbe hier bat mijn gheuoech</l>
+<l>Van deser geet die bi mi staet</l>
+<l>An hare es al mijn toeuerlaet</l>
+<l>Ieghe<i>n</i> mi en spaert si niet .i. twint</l>
+<l>Si voet mi als h<i>aer</i>s selfs kint</l>
+<l n="625">Nochta<i>n</i> seit hi es si di naer</l>
+<l>Die di droech dlam seide hets waer</l>
+<l>Als in die<i>n</i> dat si mi wan</l>
+<l>M<i>aer</i> daer es .i. and<i>er</i> redene an</l>
+<l>Si vliet mi die soude broede<i>n</i> </l>
+<l n="630">Bi naturen en<i>de</i> voede<i>n</i> </l>
+<l>En<i>de</i> dese die mi niet en bestaet</l>
+<l>Geeft mi troest helpe en<i>de</i> raet</l>
+<l>En<i>de</i> voet mi met hare spise</l>
+<l>Soe eest recht dat icse prise</l>
+<l n="635">D<i>us</i> mach .i. meer goets beiaghe<i>n</i> </l>
+<l>An vremde liede da<i>n</i> an maghe<i>n</i> </l>
+</div>
+<div type="chapter"><head type="chapter comment">31</head>
+<l><b>H</b>Et was .i. sterc ho<i>n</i>t en<i>de</i> .i. ionc</l>
+<l>En<i>de</i> wel op sine<i>n</i> spronc</l>
+<l>Hi hadde ghesijn goet vrient</l>
+<l n="640">Dicke en<i>de</i> wel ghedient</l>
+<l><milestone unit="fol" n="89ra"/> Als hi quam te sine<i>n</i> jare<i>n</i> </l>
+<l>Begonsti crancke<i>n</i> en<i>de</i> sware<i>n</i> </l>
+<l>Hi v<i>er</i>loes sine<i>n</i> loep te hande<i>n</i> </l>
+<l>En<i>de</i> die bete<i>n</i> van de<i>n</i> tande<i>n</i> </l>
+<l n="645">Hi quam daer hi waende vae<i>n</i> </l>
+<l>.I. hase die hem es ontgaen</l>
+<l>Doe sprac die h<i>er</i>e ten honde w<i>er</i>t</l>
+<l>Dune best niet ere blase<i>n</i> w<i>er</i>t</l>
+<l>Die hont seide h<i>er</i>e ic volges v</l>
+<l n="650">Nochta<i>n</i> soudi mi spare<i>n</i> nv</l>
+<l>En<i>de</i> pense<i>n</i> om grote doghet</l>
+<l>Die ic dede in miere joghet</l>
+<l>Die he<i>m</i> wel proefde ionc hi soude</l>
+<l>Met rechte gheeert sijn in sine oude</l>
+</div>
+<div type="chapter"><head type="chapter comment">32</head>
+<l><b>D</b>Ie hasen liepe<i>n</i> harentare</l>
+<l>In sorghe<i>n</i> en<i>de</i> in grote<i>n</i> vare</l>
+<l>Doe begonste<i>n</i> si he<i>m</i> bedinke<i>n</i> </l>
+<l>Dat si he<i>m</i> woude<i>n</i> gae<i>n</i> v<i>er</i>drinke<i>n</i> </l>
+<l>Doe vonde<i>n</i> si pude in .i. riuiere</l>
+<l n="660">Sittende als die pude die diere</l>
+<l>Saghe<i>n</i> ware<i>n</i> si sere v<i>er</i>uaert</l>
+<l>En<i>de</i> si vloe<i>n</i> te watre waert</l>
+<l>Ha ha seide .i. hase wat ic nv sie</l>
+<l>Dese pude sijn blod<i>er</i> dan wie</l>
+<l n="665">Laet ons leue<i>n</i> dats mijn raet</l>
+<l>En<i>de</i> doghe<i>n</i> dat ons ov<i>er</i>gaet</l>
+<l>Die merket op eens and<i>er</i>s pine</l>
+<l>Te min v<i>er</i>noyt he<i>m</i> die sine</l>
+</div>
+<div type="chapter"><head type="chapter comment">33</head>
+<l><b>D</b>Ie geet ghinc wile<i>n</i> te velde</l>
+<l n="670">Hare<i>n</i> kinde hiet si dat helde</l>
+<l>Sine dore beslote<i>n</i> wel</l>
+<l>Vor de<i>n</i> wolf die es soe fel</l>
+<l>Vor de dore ghinc hi bleete<i>n</i> </l>
+<l>In die wise van d<i>er</i> geete<i>n</i> </l>
+<l n="675">Dat geetkijn sach vut doer .i. gat</l>
+<l>Ay dief seidsoe bestu dat</l>
+<l>Twi heefstu dijn luut v<i>er</i>keert</l>
+<l>Voer gode moetstu sijn onteert</l>
+<l>Tkint es te bet<i>er</i> en<i>de</i> vroeder</l>
+<l n="680">Horet na vad<i>er</i> en<i>de</i> na moeder</l>
+</div>
+<div type="chapter"><head type="chapter comment">34</head>
+<l><milestone unit="fol" n="89rb"/> <b>E</b>En serpent quam bi costumen</l>
+<l>Teens arms mans huse diet mette<i>n</i> crume</l>
+<l>Van siere tafele<i>n</i> voede wel</l>
+<l>Doe w<i>ar</i>t die man rike en<i>de</i> fel</l>
+<l n="685">En<i>de</i> sloech ts<i>er</i>pent m<i>et</i> ere aex</l>
+<l>H<i>et</i> en hadde daer noit soe vele ghemaex</l>
+<l>Alst sm<i>er</i>te<i>n</i> hadde doe<i>n</i>t sach sijn bloet</l>
+<l>Nv w<i>ar</i>t de<i>n</i> man v<i>er</i>dwene<i>n</i> sijn goet</l>
+<l>Soe dat hi dochte in sine<i>n</i> moet</l>
+<l n="690">Dat ic ts<i>er</i>pent sloech dat doet</l>
+<l>Dat ic dus beghinne weeke<i>n</i> </l>
+<l>Doe begonsti wed<i>er</i> smeeke<i>n</i> </l>
+<l>Mi es leet dat ic mesdede</l>
+<l>V<i>er</i>gheuet mi op houesschede</l>
+<l n="695">Eest di leet seide dat serpent</l>
+<l>En<i>de</i> ic v<i>er</i>gete<i>n</i> mach de<i>n</i> torment</l>
+<l>Van de<i>n</i> felle<i>n</i> slaghe ic moet</l>
+<l>V<i>er</i>geue<i>n</i> di mine<i>n</i> euele<i>n</i> moet</l>
+<l>M<i>aer</i> wachti wel dat seggic die</l>
+<l n="700">Alsoe langhe alsic tlitteke<i>n</i> sie</l>
+<l>Die vrienscap en wort ne<i>m</i>m<i>er</i>meer</l>
+<l>Alsoe goet alsi was eer</l>
+<l>D<i>us</i> siet me<i>n</i> die betruwet</l>
+<l>Sine<i>n</i> oude<i>n</i> viant dats he<i>m</i> beruwet</l>
+<l n="705">D<i>aer</i> bliuet gh<i>er</i>ne .i. wortelkijn</l>
+<l>D<i>aer</i> nijt en<i>de</i> haetscap heeft ghesijn</l>
+</div>
+<div type="chapter"><head type="chapter comment">35</head>
+<l><b>D</b>Ie hert quam mette<i>n</i> wolf ghegae<i>n</i> </l>
+<l>D<i>aer</i> hi vele scaep sach staen</l>
+<l>Van ghene<i>n</i> scape<i>n</i> bat hi ene<i>n</i> </l>
+<l n="710">Dat hi he<i>m</i> terwe soude lene<i>n</i> </l>
+<l>Des boet hi he<i>m</i> de<i>n</i> wolf te borghe</l>
+<l>Tscaep hadde van de<i>n</i> wolue sorghe</l>
+<l>Te wed<i>er</i>segghene dese dinc</l>
+<l>M<i>aer</i> doe die wolf wech ginc</l>
+<l n="715">Sprac tscaep ald<i>us</i> tote<i>n</i> herte</l>
+<l>Ic kenne wel seit hi dijn h<i>er</i>te</l>
+<l>Ten ierste<i>n</i> dat die dach sal come<i>n</i> </l>
+<l>Van geldene die ghi hebt ghenome<i>n</i> </l>
+<l>Du loeps mette<i>n</i> h<i>er</i>te<i>n</i> int wout</l>
+<l n="720">Wie<i>n</i> heischic dan mine scout</l>
+<l><milestone unit="fol" n="89va"/> Dijn borghe es valsch en<i>de</i> quaet</l>
+<l>Dune best oec niet sond<i>er</i> baraet</l>
+<l>Die vele beslae<i>n</i> en<i>de</i> luttel sorghe<i>n</i> </l>
+<l>Soeken gh<i>er</i>ne valsche borghe<i>n</i> </l>
+<l n="725">M<i>aer</i> hi es .i. vroet man</l>
+<l>Diere he<i>m</i> vore<i>n</i> wachte<i>n</i> can</l>
+</div>
+<div type="chapter"><head type="chapter comment">36</head>
+<l><b>D</b>Ie vlieghe beet .i. caluwe<i>n</i> man</l>
+<l>Opt hoeft die geen haer hadde an</l>
+<l>Hi gaf he<i>m</i> selue<i>n</i> slaghe groet</l>
+<l n="730">Om die vlieghe te slane doet</l>
+<l>Hi sloech te sticke<i>n</i> sine kake<i>n</i> </l>
+<l>Hine conste die vlieghe niet gherake<i>n</i> </l>
+<l>Die vlieghe dede he<i>m</i> h<i>er</i>de seer</l>
+<l>En<i>de</i> si bete<i>n</i> soe lanc soe meer</l>
+<l n="735">Als hi acht<i>er</i> die vlieghe sloech</l>
+<l>En<i>de</i> missede die vlieghe loech</l>
+<l>Doe seide die caluwe man t<i>er</i> vlieghe<i>n</i> </l>
+<l>Du doest mijn hant dicke na di vlieghe<i>n</i> </l>
+<l>Al bestu hier d<i>us</i> menech w<i>er</i>ue<i>n</i> </l>
+<l n="740">Ontgae<i>n</i> <b>.</b> nochta<i>n</i> moesture om sterue<i>n</i> </l>
+<l>Du lachges alsic placte mi</l>
+<l>Du salt st<i>er</i>ue<i>n</i> gherakic di</l>
+<l>Die vele pijnlijchede<i>n</i> maket</l>
+<l>Int ende w<i>er</i>t hi gheraket</l>
+<l n="745">Soe langhe stuuct me<i>n</i> en<i>de</i> steect</l>
+<l>Den stoep te watre dat hi breect</l>
+</div>
+<div type="chapter"><head type="chapter comment">37</head>
+<l><b>E</b>En vos die met he<i>m</i> ete<i>n</i> dede</l>
+<l>.I. odeuare op houesschede</l>
+<l>Hi goet he<i>m</i> in .i. coel vat</l>
+<l n="750">Dat ondiep was en<i>de</i> plat</l>
+<l>.I. poelment was claer en<i>de</i> dinne</l>
+<l>Nv et sprac hi met soete<i>n</i> sinne</l>
+<l>Die odeuare begonste pecke<i>n</i> </l>
+<l>M<i>aer</i> hine conste niet ghetrecke<i>n</i> </l>
+<l n="755">D<i>us</i> at die vos ne ware</l>
+<l>D<i>aer</i> bleef .i. hongerich odeuare</l>
+<l>Smergens at met he<i>m</i> Reinaert</l>
+<l>Die was gast moeste nv sijn w<i>aer</i>t</l>
+<l>D<i>us</i> dreef hi oec den vos te sch<i>er</i>ne</l>
+<l n="760">Hi gaf he<i>m</i> tete<i>n</i> vut eere kerne</l>
+<l><milestone unit="fol" n="89vb"/> Nawe lanc en<i>de</i> diep daer binne<i>n</i> </l>
+<l>Doe ne mochts Reijnaert n<i>iet</i> gewinne<i>n</i> </l>
+<l>Die odeuare at emm<i>er</i> toe</l>
+<l>Twine doestu Reinaert alsic doe</l>
+<l n="765">Sprac hi <b>.</b> du lerest mi dit spel</l>
+<l>Besie canic mine lesse wel</l>
+<l>D<i>aer</i> men quaet m<i>et</i> quade loent</l>
+<l>D<i>aer</i> es deen van de<i>n</i> and<i>re</i>n wel ghehoent</l>
+</div>
+<div type="chapter"><head type="chapter comment">38</head>
+<l><b>E</b>En groensel dat was houerdich</l>
+<l n="770">En<i>de</i> vele meer dant was w<i>er</i>dich</l>
+<l>H<i>et</i> vant die vedere<i>n</i> van de<i>n</i> pau</l>
+<l>Die scone was groene en<i>de</i> blau</l>
+<l>H<i>et</i> versierde soe daer mede</l>
+<l>Dat het bi siere houerdichede</l>
+<l n="775">Den sine<i>n</i> onw<i>er</i>scepe dede</l>
+<l>Het decte al sine lede</l>
+<l>Mette<i>n</i> vedere<i>n</i> van de<i>n</i> pauwe<i>n</i> </l>
+<l>Alse dit saghe<i>n</i> die mette<i>n</i> clauwe<i>n</i> </l>
+<l>Trocke<i>n</i> si he<i>m</i> die vedere<i>n</i> vut</l>
+<l n="780">En<i>de</i> scoerde<i>n</i> he<i>m</i> al sine huut</l>
+<l>Doe moeste dat groensel m<i>et</i> o<i>n</i>nere<i>n</i> </l>
+<l>Te sine<i>n</i> maghe<i>n</i> weder kere<i>n</i> </l>
+<l>Alsijt d<i>us</i> lelijc come<i>n</i> saghe<i>n</i> </l>
+<l>Doe seide daer .i. van sine<i>n</i> maghe<i>n</i> </l>
+<l n="785">Dies en hadstu ghene<i>n</i> noet</l>
+<l>Haddi ghenoeghet dijn ghenoet</l>
+<l>En<i>de</i> diere nature<i>n</i> cleder</l>
+<l>Nv wortstu emm<i>er</i>meer te led<i>er</i> </l>
+<l>En<i>de</i> tonw<i>er</i>d<i>er</i> met ons allen</l>
+<l n="790">D<i>us</i> siet me<i>n</i> van de<i>n</i> ghene<i>n</i> gheualle<i>n</i> </l>
+<l>Die sine houerdichede driuet</l>
+<l>Met dinghe<i>n</i> die he<i>m</i> niet en bliuet</l>
+<l>Wanneer dat hijt heeft v<i>er</i>lore<i>n</i> </l>
+<l>Soe es hi keytiuer dan te vore<i>n</i> </l>
+</div>
+<div type="chapter"><head type="chapter comment">39</head>
+<l><b>H</b>Et mende .i. man m<i>et</i> .ij. mulinne<i>n</i> </l>
+<l>Int lamoen ghinc die .i. binne<i>n</i> </l>
+<l>D<i>aer</i> hi op sat ende reet</l>
+<l>.I. vlieghe diese beet</l>
+<l>Doe seide die vlieghe dese wort</l>
+<l n="800">Auant mulinne ganc bet vort</l>
+<l><milestone unit="fol" n="90ra"/> Ic saldi soe sere stoten</l>
+<l>Du salt bet herd<i>er</i> lopen</l>
+<l>Die mulinne antworde van die</l>
+<l>Ne achtic niet maer ic ontsie</l>
+<l n="805">Den ghene<i>n</i> meer die sit op mie</l>
+<l>Die heuet scerper roede<i>n</i> drie</l>
+<l>Die mi gheiaghet bringhet</l>
+<l>En<i>de</i> met sine<i>n</i> breidele dwinghet</l>
+<l>En<i>de</i> met sine<i>n</i> gerde<i>n</i> slaet</l>
+<l n="810">An he<i>m</i> es dat mijn leue<i>n</i> staet</l>
+<l>Du ne mogest mi doe<i>n</i> no goet no quaet</l>
+<l>Al segestu dine ov<i>er</i>daet</l>
+<l>Ald<i>us</i> sijn vele quad<i>er</i> lieden</l>
+<l>Die .i. goede<i>n</i> man mesbiede<i>n</i> </l>
+<l n="815">Alsine te v<i>er</i>noye sien</l>
+<l>Al v<i>er</i>noy moet he<i>m</i> ghescie<i>n</i> </l>
+</div>
+<div type="chapter"><head type="chapter comment">40</head>
+<l><b>D</b>Ie vlieghe street met grot<i>er</i> prie</l>
+<l>Ieghe<i>n</i> .i. wilt om heerscepie</l>
+<l>Doe begonste die vlieghe segghe<i>n</i> </l>
+<l n="820">Ieghe<i>n</i> mi en dorstu di niet legghe<i>n</i> </l>
+<l>W<i>aer</i> soe men .i. beeste spit</l>
+<l>Ic ben dierste diere onbit</l>
+<l>Ic sitte op eens co<i>ninx</i> houet boue<i>n</i> </l>
+<l>Van meer maghic mi beloue<i>n</i> </l>
+<l n="825">Ic cusse v<i>ro</i>uwe<i>n</i> en<i>de</i> ioncfr<i>ouwen</i> </l>
+<l>Swijch ic raedt di bi miere trouwe<i>n</i> </l>
+<l>Antworde dwilt en<i>de</i> seide</l>
+<l>Noch maegt di wel v<i>er</i>gae<i>n</i> te leide</l>
+<l>Dijn heerscap dattu noemes</l>
+<l n="830">En<i>de</i> dine quaetheit daer du di af beroemes</l>
+<l>Du best quaet en<i>de</i> du best fel</l>
+<l>En<i>de</i> dune best niew<i>er</i> come<i>n</i> wel</l>
+<l>Du segest emm<i>er</i> hets al dijn</l>
+<l>Nochta<i>n</i> moetstu onw<i>er</i>t sijn</l>
+<l n="835">Si v<i>er</i>iaghe<i>n</i> di en<i>de</i> dwinghe<i>n</i> </l>
+<l>Met waye<i>n</i> en<i>de</i> m<i>et</i> and<i>re</i>n dinghe<i>n</i> </l>
+<l>In somer mogestu iet</l>
+<l>Inde<i>n</i> wint<i>er</i> en mogestu niet</l>
+<l>M<i>aer</i> ic ben soe te ghemake</l>
+<l n="840">In ontsie ghene sake</l>
+<l><milestone unit="fol" n="90rb"/> Mine draghet nieme<i>n</i> nijt</l>
+<l>Waer ic ben daer es delijt</l>
+<l>Wint<i>er</i> somer allen tijt</l>
+<l>D<i>us</i> ben ic bet<i>er</i> dan ghi sijt</l>
+<l n="845">D<i>us</i> scelde<i>n</i> dicke die domme</l>
+<l>Nochta<i>n</i> en wete<i>n</i> si w<i>aer</i> o<i>m</i>me</l>
+<l>Si dale<i>n</i> alsi wane<i>n</i> risen</l>
+<l>Die ghene die he<i>m</i> selue<i>n</i> prisen</l>
+</div>
+<div type="chapter"><head type="chapter comment">41</head>
+<l><b>E</b>En wesel vinc eene muus</l>
+<l n="850">Doe<i>n</i> vinc die h<i>er</i>e van de<i>n</i> huus</l>
+<l>Dat wesel en<i>de</i> quetset sere</l>
+<l>Ghenade seit hi lieue here</l>
+<l>Ic hebbe al uwe muse gete<i>n</i> </l>
+<l>M<i>et</i> rechte soudijs mi danc wete<i>n</i> </l>
+<l n="855">Danc seide die ma<i>n</i> hoe mach dat sijn</l>
+<l>Du ne dadest niet doer de<i>n</i> wille mijn</l>
+<l>Du doest o<i>m</i> dattu selue wils leue<i>n</i> </l>
+<l>Bid<i>er</i> spise<i>n</i> die he<i>m</i> es bleue<i>n</i> </l>
+<l>Du nemest al du doest mi scade</l>
+<l n="860">Bedi en doe ic di ghene ghenade</l>
+<l>Al waenstu wel sijn ontlade<i>n</i> </l>
+<l>Ic bens noch al onberade<i>n</i> </l>
+<l>D<i>us</i> es menech man die doet</l>
+<l>.I. dinc doer sijns selfs goet</l>
+<l n="865">En<i>de</i> wille .i. and<i>re</i>n doe<i>n</i> v<i>er</i>stae<i>n</i> </l>
+<l>Dat hijt doer he<i>m</i> heeft ghedae<i>n</i> </l>
+</div>
+<div type="chapter"><head type="chapter comment">42</head>
+<l><b>E</b>En puut sach .i. osse staen</l>
+<l>Ic wildic ware ald<i>us</i> ghedae<i>n</i> </l>
+<l>Die puut goet sine<i>n</i> buuc vol wase<i>n</i> </l>
+<l n="870">Hi dranc en<i>de</i> begonste blase<i>n</i> </l>
+<l>Doe sach hi sitte<i>n</i> sine kind<i>er</i> </l>
+<l>Nv siet seit hi ben ic noch mind<i>er</i> </l>
+<l>Dan die osse die staet int velt</l>
+<l>Ia ghi seide<i>n</i> si die helt</l>
+<l n="875">Die puut dranc meer en<i>de</i> hi v<i>er</i>blies</l>
+<l>Nv siet seit hi wat segget gies</l>
+<l>Lieue vader seide<i>n</i> si</l>
+<l>Die osse es vele meerre dan ghi</l>
+<l>Doe dranc hi soe ter derd<i>er</i> w<i>er</i>ue<i>n</i> </l>
+<l n="880">Dat hiere om moeste sterue<i>n</i> </l>
+<l><milestone unit="fol" n="90va"/> Wie es die ghene die dat doet</l>
+<l>.I. man die he<i>m</i> v<i>er</i>smort int goet</l>
+<l>En<i>de</i> draghet selke<i>n</i> ov<i>er</i>moet</l>
+<l>Int h<i>er</i>te dat hiere af splite<i>n</i> moet</l>
+</div>
+<div type="chapter"><head type="chapter comment">43</head>
+<l><b>E</b>En lieb<i>ar</i>t sach int velt .i. paert</l>
+<l>En<i>de</i> hi ghinc ten parde waert</l>
+<l>Die lieb<i>ar</i>t pensde en<i>de</i> dochte</l>
+<l>Hoe hijt best ghecrighe<i>n</i> mochte</l>
+<l>Ic ben seit hi arsatre goet</l>
+<l n="890">Dit hoerde tpart en<i>de</i> v<i>er</i>stoet</l>
+<l>H<i>er</i>de wel des lieb<i>ar</i>ts baraet</l>
+<l>Meest<i>er</i> seit hi geeft mi raet</l>
+<l>Ic hebbe .i. dore<i>n</i> in mine<i>n</i> voet</l>
+<l>Die mi h<i>er</i>de wee doet</l>
+<l n="895">Doe begonste die lieb<i>ar</i>t hope<i>n</i> </l>
+<l>En<i>de</i> q<i>ua</i>m van acht<i>er</i> toe ghelope<i>n</i> </l>
+<l>En<i>de</i> soude trecke<i>n</i> vut de<i>n</i> dore<i>n</i> </l>
+<l>M<i>aer</i> hadde sine hure te voren</l>
+<l>Tpaert gaf de<i>n</i> lieb<i>ar</i>t .i. slach</l>
+<l n="900">Dat hi daer in o<i>m</i>macht lach</l>
+<l>Als hi van de<i>n</i> slaghe ghenas</l>
+<l>En<i>de</i> hi te he<i>m</i> selue<i>n</i> come<i>n</i> was</l>
+<l>Doe seide hi ic bens wel w<i>ar</i>t</l>
+<l>Oit quamic als .i. liebart</l>
+<l n="905">En<i>de</i> woude mi arsatre make<i>n</i> </l>
+<l>Dat becochte<i>n</i> mine kake<i>n</i> </l>
+<l>Die tone<i>n</i> dat si noit en ware<i>n</i> </l>
+<l>Doer baraet d<i>us</i> moete<i>n</i> si vare<i>n</i> </l>
+</div>
+<div type="chapter"><head type="chapter comment">44</head>
+<l><b>E</b>En paert droech .i. v<i>er</i>gult ghesmide</l>
+<l n="910">.I. esel sneef an sine side</l>
+<l>Tpaert v<i>er</i>balch he<i>m</i> en<i>de</i> seide</l>
+<l>Siestu niet mijn scoe<i>n</i> ghereide</l>
+<l>En<i>de</i> mine<i>n</i> breidel claer van goude</l>
+<l>Hets wond<i>er</i> dat ic mi onthoude</l>
+<l n="915">In stake di met mine<i>n</i> voete</l>
+<l>Twi quaemstu in mine<i>n</i> ghemoete</l>
+<l>Twine hadstu stille ghestae<i>n</i> bede<i>n</i> </l>
+<l>Tes ic v<i>er</i>re ware leden</l>
+<l>Die esel seide ay h<i>er</i>e ghenade</l>
+<l n="920">In mochte ic q<i>ua</i>m soe ghelade<i>n</i> </l>
+<l><milestone unit="fol" n="90vb"/> M<i>aer</i> hi pensde sond<i>er</i> spreke<i>n</i> </l>
+<l>God moete dese ov<i>er</i>daet wreke<i>n</i> </l>
+<l>D<i>aer</i>na begonste tpart van pine<i>n</i> </l>
+<l>Breke<i>n</i> cranke<i>n</i> dwinen</l>
+<l n="925">Als sine cracht d<i>us</i> was v<i>er</i>dorue<i>n</i> </l>
+<l>Me<i>n</i> dede he<i>m</i> draghe<i>n</i> mes m<i>et</i> korue<i>n</i> </l>
+<l>Dit sach die esel en<i>de</i> loech</l>
+<l>W<i>aer</i> es seidi dijn vorboech</l>
+<l>Van wat tornoye comestu</l>
+<l n="930">W<i>aer</i> es dine sierheit nv</l>
+<l>Al warstu te ghemake .i. stic</l>
+<l>Wat bestu scoenre nv dan ic</l>
+<l>Al sidi h<i>er</i>e op .i. tijt</l>
+<l>Ic rade v dat ghi ghemate sijt</l>
+<l n="935">Penst om die auenture</l>
+<l>Die na tsoete gheuet sure</l>
+</div>
+<div type="chapter"><head type="chapter comment">45</head>
+<l><b>H</b>Et was die hadde tonghe<i>n</i> twee</l>
+<l>Hi dede he<i>m</i> selue<i>n</i> herde wee</l>
+<l>Om te make<i>n</i> tussche<i>n</i> .ij. vriende<i>n</i> </l>
+<l n="940">Haetscap dies noit en v<i>er</i>die<i>n</i>de<i>n</i> </l>
+<l>Hi sprac an bede<i>n</i> side<i>n</i> quaet</l>
+<l>Quaet en<i>de</i> valsch was al sijn raet</l>
+<l>Int ende als sijn baraet vut q<i>ua</i>m</l>
+<l>Ware<i>n</i> die .ij. liede gram</l>
+<l n="945">Opde<i>n</i> quade<i>n</i> valsche<i>n</i> man</l>
+<l>Die dus doe<i>n</i> d<i>us</i> winne<i>n</i> sier an</l>
+</div>
+<div type="chapter"><head type="chapter comment">46</head>
+<l><b>D</b>Ie beeste<i>n</i> hadde<i>n</i> grote<i>n</i> strijt</l>
+<l>Ieghe<i>n</i> die vogle op .i. tijt</l>
+<l>Die vled<i>er</i>muus hilt mette<i>n</i> beeste<i>n</i> </l>
+<l n="950">Als mette<i>n</i> stercste<i>n</i> en<i>de</i> mette<i>n</i> meeste<i>n</i> </l>
+<l>Si ontsach haer en<i>de</i> si dochte</l>
+<l>Dat si daer sek<i>er</i> wese<i>n</i> mochte</l>
+<l>Doe q<i>ua</i>m mijn h<i>er</i>e die aren</l>
+<l>M<i>et</i> siere grot<i>er</i> cracht gheuare<i>n</i> </l>
+<l n="955">Hi hadde die gracie ent gheual</l>
+<l>Dat hi v<i>er</i>wan die beeste<i>n</i> al</l>
+<l>Doe q<i>ua</i>me<i>n</i> alle die vogle gemene</l>
+<l>Op die vled<i>er</i>muus allene</l>
+<l>En<i>de</i> trake<i>n</i> haer die plume<i>n</i> vut</l>
+<l n="960">Doe moeste si vlieghe<i>n</i> blot<i>er</i> huut</l>
+<l><milestone unit="fol" n="91ra"/> Bi nachte algader niet bi daghe</l>
+<l>Om dat si liet hare selfs maghe</l>
+<l>D<i>us</i> es hi over al ghehaet</l>
+<l>Met rechte die de sine laet</l>
+</div>
+<div type="chapter"><head type="chapter comment">47</head>
+<l><b>E</b>En hauec vant .i. nachtegale</l>
+<l>In hare<i>n</i> nest met soet<i>er</i> tale</l>
+<l>Bat si he<i>m</i> dat hise soude spare<i>n</i> </l>
+<l>En<i>de</i> hare ionghe diere in ware<i>n</i> </l>
+<l>Gh<i>er</i>ne seit hi wiltu singhe<i>n</i> </l>
+<l n="970">Die nachtegale liet h<i>aer</i> dwinghe<i>n</i> </l>
+<l>Van de<i>n</i> hauec en<i>de</i> si sanc</l>
+<l>M<i>et</i> droeuer h<i>er</i>te<i>n</i> doer sijn bedwanc</l>
+<l>Du ne heuest seit hi niet wel ghesonghe<i>n</i> </l>
+<l>Doe greep hi .i. van hare<i>n</i> ionghe<i>n</i> </l>
+<l n="975">Staphans q<i>ua</i>m daer .i. ma<i>n</i> die scoet</l>
+<l>M<i>et</i> sine<i>n</i> boghe de<i>n</i> hauec doet</l>
+<l>Die emm<i>er</i> wille de<i>n</i> andre<i>n</i> vae<i>n</i> </l>
+<l>Nemm<i>er</i>meer en moet hijs o<i>n</i>tgae<i>n</i> </l>
+</div>
+<div type="chapter"><head type="chapter comment">48</head>
+<l><b>E</b>En wolf hadde in sijn hol ghedraghe<i>n</i> </l>
+<l n="980">Spise ghenoech te .xl. daghe<i>n</i> </l>
+<l>Om met ghemake daer in te sine</l>
+<l>Sond<i>er</i> sorghe en<i>de</i> sond<i>er</i> pine</l>
+<l>Dit v<i>er</i>stont die vos Reinaert</l>
+<l>En<i>de</i> maectem swolfs hole w<i>aer</i>t</l>
+<l n="985">Oem seegt hi god moet v minne<i>n</i> </l>
+<l>En<i>de</i> al v meisniede daer binne<i>n</i> </l>
+<l>Het es seit hi somech dach</l>
+<l>Dat ic v niet int velt en sach</l>
+<l>In wiste wat v was ghesciet</l>
+<l n="990">Soete h<i>er</i>e oem mescomt v iet</l>
+<l>Die wolf v<i>er</i>stont des vos baraet</l>
+<l>Du best seegt hi valsch en<i>de</i> quaet</l>
+<l>Hier en comstu niet bi minne<i>n</i> </l>
+<l>M<i>aer</i> om dattu wanest winne<i>n</i> </l>
+<l n="995">Van mine<i>n</i> goede van hier binne<i>n</i> </l>
+<l>H<i>et</i> en wort di niet m<i>et</i> minne<i>n</i> </l>
+<l>Doe was Reinaert h<i>er</i>de gram</l>
+<l>Hi liep tes hi ten h<i>er</i>de quam</l>
+<l>Robijn seit hi hebdi mi lief</l>
+<l n="1000">Of ic v wise de<i>n</i> valsche<i>n</i> dief</l>
+<l><milestone unit="fol" n="91rb"/> Die v dicke heeft ghestole<i>n</i> </l>
+<l>Die beeste<i>n</i> die v sijn beuole<i>n</i> </l>
+<l>Lief ia ic bi gode seegt hi</l>
+<l>En<i>de</i> wils v<i>er</i>diene<i>n</i> ieghe<i>n</i> di</l>
+<l n="1005">Doe seide die vos tussche<i>n</i> .ij. linde<i>n</i> </l>
+<l>In sijn hol saltune vinde<i>n</i> </l>
+<l>Doe ghinc hine steke<i>n</i> in de<i>n</i> buuc</l>
+<l>Int hol d<i>aer</i> haddijs goet gebruuc</l>
+<l>Doe sanc Reinaert en<i>de</i> loech</l>
+<l n="1010">En<i>de</i> hadde van ghere spise<i>n</i> ghenoech</l>
+<l>Sid<i>er</i> was hi selue ghewont</l>
+<l>Al tot<i>er</i> doet van .i. hont</l>
+<l>Allaes seegt hi Reinaert</l>
+<l>Al hebbic pine ic bens wel w<i>aer</i>t</l>
+<l n="1015">Oit wasic quaet en<i>de</i> fel</l>
+<l>Nv scijnt mi mine quaetheit wel</l>
+<l>Dese fauele soude<i>n</i> hore<i>n</i> die gone</l>
+<l>Die ter quaetheit sijn ghewone</l>
+<l>Wachtes v wel het es vorsproke<i>n</i> </l>
+<l n="1020">Negeen quaet blijft onghewroke<i>n</i> </l>
+</div>
+<div type="chapter"><head type="chapter comment">49</head>
+<l><b>E</b>En hert q<i>ua</i>m drinke<i>n</i> tere riuiere</l>
+<l>Hi sach sijn horne die hi diere</l>
+<l>Prijsde <b>.</b> maer sine beene</l>
+<l>V<i>er</i>sprac hi om dat si ware<i>n</i> clene</l>
+<l n="1025">Mettie<i>n</i> q<i>ua</i>m daer .i. ma<i>n</i> m<i>et</i> honde<i>n</i> </l>
+<l>Die de<i>n</i> hert daer staende vonde<i>n</i> </l>
+<l>Sine beene ware<i>n</i> soe snel</l>
+<l>Dat hi ontliep den honde<i>n</i> wel</l>
+<l>Al dore .i. velt in .i. foreest</l>
+<l n="1030">D<i>aer</i> bome en<i>de</i> telgre ware<i>n</i> meest</l>
+<l>D<i>aer</i> bleef hi vaste m<i>et</i> sine<i>n</i> hore<i>n</i> </l>
+<l>Ay mi seegt hi ic be<i>n</i> v<i>er</i>lore<i>n</i> </l>
+<l>Nv sie ic wel al eest te spade</l>
+<l>Ic lacht<i>er</i>de tgoede ic prijsde tquade</l>
+<l n="1035">Ald<i>us</i> es menech ma<i>n</i> v<i>er</i>nest</l>
+<l>Die tgoede laet en<i>de</i> tquade mest</l>
+<l>Hi mochte winne<i>n</i> daer hi v<i>er</i>liest</l>
+<l>Core hi tgoede daer hi tquade kiest</l>
+</div>
+<div type="chapter"><head type="chapter comment">50</head>
+<l><b>T</b>Ene<i>n</i> hope stonde<i>n</i> in .i. perc</l>
+<l n="1040">Goede weders en<i>de</i> sterc</l>
+<l><milestone unit="fol" n="91va"/> Alsi den vleeschhouw<i>er</i> saghe<i>n</i> comen</l>
+<l>Dene woude acht<i>er</i> de<i>n</i> andre<i>n</i> drome<i>n</i> </l>
+<l>Elc woude and<i>re</i>n steke<i>n</i> voert</l>
+<l>Int ende viele<i>n</i> si alle ov<i>er</i> boert</l>
+<l n="1045">Die vleeschouw<i>er</i> sloech sine hant</l>
+<l>Ane den vortste<i>n</i> die hi vant</l>
+<l>En<i>de</i> dodene mett<i>er</i> vaert</l>
+<l>Doe doke<i>n</i> die and<i>er</i> acht<i>er</i>w<i>aer</i>t</l>
+<l>Elc riep daer hi lach en<i>de</i> doec</l>
+<l n="1050">Ic bens ontgaen soe ben ic oec</l>
+<l>Als men den acht<i>er</i>ste<i>n</i> soude slae<i>n</i> </l>
+<l>Nv eest seegt hi wel te rechte v<i>er</i>gaen</l>
+<l>Soe hert eest hoeft ande<i>n</i> weder</l>
+<l>Wi hadde<i>n</i> wel ghesteke<i>n</i> neder</l>
+<l n="1055">Hadde<i>n</i> wijs ghedreghe<i>n</i> ov<i>er</i> een</l>
+<l>Wi hadde<i>n</i> quade<i>n</i> raet dat sceen</l>
+<l>Nochtan eest .i. ghemeen ghebod</l>
+<l>Helpt di selue<i>n</i> soe helpti god</l>
+<l>Es .i. gheslachte groet van maghe<i>n</i> </l>
+<l n="1060">En<i>de</i> cone<i>n</i> si niet ov<i>er</i> .i. ghedraghe<i>n</i> </l>
+<l>Hare cracht es al v<i>er</i>loren</l>
+<l>Als bide<i>n</i> wed<i>er</i> van te voren</l>
+</div>
+<div type="chapter"><head type="chapter comment">51</head>
+<l><b>H</b>Et sate<i>n</i> vogelkine vele</l>
+<l>Op .i. boem m<i>et</i> grote<i>n</i> spele</l>
+<l n="1065">En<i>de</i> met solace sate<i>n</i> si daer</l>
+<l>Bedi si ware<i>n</i> sond<i>er</i> vaer</l>
+<l>Doe quam daer .i. vogelare</l>
+<l>En<i>de</i> w<i>er</i>t der vogelkine gheware</l>
+<l>Gheen voghelare hadde doghe<i>n</i> seer</l>
+<l n="1070">En<i>de</i> si drope<i>n</i> emmermeer</l>
+<l>Hi ginc spanne<i>n</i> sine<i>n</i> boghe</l>
+<l>Ten bome w<i>ar</i>t keerdi sijn oghe</l>
+<l>Dit saghe<i>n</i> ghene vogelkine</l>
+<l>En<i>de</i> si seide<i>n</i> al stillekine</l>
+<l n="1075">Gheent es die beste man</l>
+<l>Die noit lijf ghewan</l>
+<l>Hi ne mach van grot<i>er</i> iamm<i>er</i>hede</l>
+<l>Op ons sien hi ne wene mede</l>
+<l>.I. vogel was dar was h<i>er</i>de vroet</l>
+<l n="1080">Die beide quaet wiste en<i>de</i> goet</l>
+<l><milestone unit="fol" n="91vb"/> Lieue gheselle<i>n</i> seghet hie</l>
+<l>Die dlijf behoude<i>n</i> wille hi vlie</l>
+<l>Ic ke<i>n</i>ne wel des mans raet</l>
+<l>Dat hi iaghet dat es quaet</l>
+<l n="1085">Het es om v al dat hi spiet</l>
+<l>Hi sal v sciete<i>n</i> ghi ne vliet</l>
+<l>Sijn oghe<i>n</i> die ghi drupe<i>n</i> siet</l>
+<l>Sijn he<i>m</i> seer si ne wene<i>n</i> niet</l>
+<l>Eens vroets ma<i>n</i>s raet mach vele ma<i>n</i> </l>
+<l n="1090">Wel helpe<i>n</i> <b>.</b> wille<i>n</i> siere he<i>m</i> houde<i>n</i> an</l>
+</div>
+<div type="chapter"><head type="chapter comment">52</head>
+<l><b>E</b>En recht man en<i>de</i> .i. valsch tyra<i>n</i>t</l>
+<l>Quame<i>n</i> te gader in .i. lant</l>
+<l>D<i>aer</i> me<i>n</i> vele scimmincle vant</l>
+<l>D<i>aer</i> en ginc oec geen in bant</l>
+<l n="1095">.I. scimminkel was d<i>aer</i> h<i>er</i>e</l>
+<l>En<i>de</i> dwanc al dand<i>er</i> sere</l>
+<l>H<i>et</i> was co<i>ninc</i> en<i>de</i> h<i>et</i> droech c<i>ro</i>ne</l>
+<l>Nochta<i>n</i> waren si eue<i>n</i> scone</l>
+<l>H<i>et</i> sat hoghe boue<i>n</i> die<i>n</i> andre<i>n</i> </l>
+<l n="1100">Doe saegt .ij. mans daer wand<i>re</i>n</l>
+<l>H<i>et</i> riep de<i>n</i> valsche<i>n</i> ma<i>n</i> tote he<i>m</i> </l>
+<l>Wat duncti seget dat ic be<i>m</i> </l>
+<l>Doe seide die man du best .i. h<i>er</i>e</l>
+<l>.I. co<i>ninc</i> w<i>er</i>dich van alre ere</l>
+<l n="1105">En<i>de</i> wat duncti seg<i>et</i> hi</l>
+<l>Van dese<i>n</i> volke dat hier si</l>
+<l>Dat sijn v ridd<i>er</i>s seegt die gone</l>
+<l>Die tuwe<i>n</i> dienste sijn gewone</l>
+<l>Hi prijsde<i>n</i> soe dat hi ne dede</l>
+<l n="1110">Ontfae<i>n</i> met grot<i>er</i> w<i>er</i>dichede</l>
+<l>Als dit die rechte ma<i>n</i> v<i>er</i>stoet</l>
+<l>Ia pensdi in sine<i>n</i> moet</l>
+<l>Na die<i>n</i> dat me<i>n</i> dese<i>n</i> doet</l>
+<l>Om sijn lieghe<i>n</i> d<i>us</i> groet goet</l>
+<l n="1115">Seggic waer van deser sake</l>
+<l>Ic worde vele bet te ghemake</l>
+<l>Tote dese<i>n</i> man sprac Martijn</l>
+<l>Die soe h<i>er</i>e wilde sijn</l>
+<l>Wat duncti seghet hi nv besie</l>
+<l n="1120">Van dese<i>n</i> heren en<i>de</i> van mie</l>
+<l><milestone unit="fol" n="92ra"/> Een scimminkel seghet hi</l>
+<l>Bestu <b>.</b> en<i>de</i> dand<i>er</i> slachte<i>n</i> di</l>
+<l>Doe dede<i>n</i> tscimminkel daer v<i>er</i>bite<i>n</i> </l>
+<l>Al te sticken ende sliten</l>
+<l n="1125">Die mett<i>er</i> waerheit emm<i>er</i> voert</l>
+<l>Wille <b>.</b> hi ne es niet ghehoert</l>
+<l>M<i>aer</i> dats .i. gheminnet man</l>
+<l>Die sijn heerscap smeke<i>n</i> can</l>
+</div>
+<div type="chapter"><head type="chapter comment">53</head>
+<l><b>H</b>Et gheuiel in .i. stonden</l>
+<l n="1130">Dat me<i>n</i> .i. hert iagede m<i>et</i> honde<i>n</i> </l>
+<l>Soe dat hi vloe daer osse<i>n</i> stonde<i>n</i> </l>
+<l>Vele ane .i. crebbe ghebonde<i>n</i> </l>
+<l>Die hert ginc ligghe<i>n</i> in die crebbe</l>
+<l>Met hoye decti sine rebbe</l>
+<l n="1135">Doe seide .i. osse dul keytijf</l>
+<l>Hier en machtu niet behoude<i>n</i> tlijf</l>
+<l>Twine hadstu int foreest geuloe<i>n</i> </l>
+<l>Hier bestu doet wat seltu doen</l>
+<l>Laet mi hier sijn edel here<i>n</i> </l>
+<l n="1140">Tot<i>er</i> nacht dan salic kere<i>n</i> </l>
+<l>Sossen wachters q<i>ua</i>me<i>n</i> in</l>
+<l>Sine w<i>er</i>de<i>n</i> gheware meer no min</l>
+<l>Van den hert die gind<i>er</i> lach</l>
+<l>D<i>aer</i> ne was nieme<i>n</i> diene sach</l>
+<l n="1145">Doe seide .i. van ghene<i>n</i> ossen</l>
+<l>Wi soude<i>n</i> die van d<i>er</i> doet v<i>er</i>lossen</l>
+<l>En saghe di mijn h<i>er</i>e niet</l>
+<l>Die met .c. oghen siet</l>
+<l>Mettie<i>n</i> q<i>ua</i>m daer mijn h<i>er</i>e gheghae<i>n</i> </l>
+<l n="1150">Ter cribbe<i>n</i> daer die ossen stae<i>n</i> </l>
+<l>Hi taste of si hadde<i>n</i> core<i>n</i> </l>
+<l>En<i>de</i> sloech sijn hant op .i. hore<i>n</i> </l>
+<l>Helpe seit hi wat vindic hier</l>
+<l>Wane<i>n</i> q<i>ua</i>m hier d<i>us</i>daen dier</l>
+<l n="1155">Doe q<i>ua</i>me<i>n</i> die cnape<i>n</i> m<i>et</i> grot<i>er</i> feeste</l>
+<l>En<i>de</i> doedde<i>n</i> ghene beeste</l>
+<l>Bi dese<i>n</i> cnape<i>n</i> es v<i>er</i>stae<i>n</i> </l>
+<l>Die duuel die de<i>n</i> ma<i>n</i> sal vae<i>n</i> </l>
+<l>Die hier wel decket sine sonde<i>n</i> </l>
+<l n="1160">Hi slacht de<i>n</i> hert die daer was vonde<i>n</i> </l>
+<l><milestone unit="fol" n="92rb"/> Die met .c. oghen siet</l>
+<l>Dats god die al weet wat ghesciet</l>
+<l>Voer he<i>m</i> en es v<i>er</i>holen niet</l>
+<l>Me<i>n</i> machen te sch<i>er</i>ne oec driue<i>n</i> niet</l>
+</div>
+<div type="chapter"><head type="chapter comment">54</head>
+<l><b>D</b>Ie lieb<i>ar</i>t die boue<i>n</i> alle diere<i>n</i> </l>
+<l>Co<i>ninc</i> was <b>.</b> begonste antiere<i>n</i> </l>
+<l>Die doghet <b>.</b> en<i>de</i> die quaetheit late<i>n</i> </l>
+<l>Hi wilde sijn in caritaten</l>
+<l>En<i>de</i> trecke<i>n</i> alle dinc vorw<i>aer</i>t</l>
+<l n="1170">D<i>aer</i>na berau hem siere weldaet</l>
+<l>Doe dedi siere nature<i>n</i> raet</l>
+<l>Soe dat hi vant .i. groet maelgaet</l>
+<l>Dit grote goet vindic hiere</l>
+<l>Dat riep hi te sine<i>n</i> diere</l>
+<l n="1175">Hi riep die beeste<i>n</i> te sine<i>n</i> rade</l>
+<l>Ic wane seegt hi ic ga te quade</l>
+<l>Mi dunke ic be<i>n</i> onghesont</l>
+<l>Ic vraghe v heb ic quade<i>n</i> mont</l>
+<l>Soe wat si seide<i>n</i> ia of neen</l>
+<l n="1180">He<i>m</i> ne ontgink<i>er</i> ne<i>m</i>mer een</l>
+<l>D<i>aer</i> na qua<i>m</i> tscimminkel voert</l>
+<l>En<i>de</i> seide te<i>n</i> lieb<i>ar</i>t dese woert</l>
+<l>Dijn mont es soet<i>er</i> dan .i. cruut</l>
+<l>En<i>de</i> soete<i>n</i> roke gater vut</l>
+<l n="1185">H<i>et</i> gaf de<i>n</i> lieb<i>ar</i>t selke<i>n</i> prijs</l>
+<l>Dat hi he<i>m</i> in d<i>us</i>daneg<i>er</i> wijs</l>
+<l>In ghere maniere<i>n</i> ghenake<i>n</i> mochte</l>
+<l>Soe dat die lieb<i>ar</i>t he<i>m</i> bedochte</l>
+<l>Hi maecte he<i>m</i> siec en<i>de</i> onsiene</l>
+<l n="1190">Doe quame<i>n</i> siere om te besiene</l>
+<l>En<i>de</i> taste<i>n</i> sine puls nochta<i>n</i> </l>
+<l>En vonde<i>n</i> siere ghene siecheit an</l>
+<l>Si hiete<i>n</i> he<i>m</i> ete<i>n</i> ganse spise</l>
+<l>En<i>de</i> leue<i>n</i> co<i>nin</i>x wise</l>
+<l n="1195">En<i>de</i> doe<i>n</i> al dat he<i>m</i> dochte goet</l>
+<l>Si dade<i>n</i> wel si ware<i>n</i> vroet</l>
+<l>Noch eest costume dat me<i>n</i> moet</l>
+<l>Prise<i>n</i> al dat heerscap doet</l>
+<l>Doe riep die lieb<i>ar</i>t gef mi vleesch</l>
+<l n="1200">Van .i. scimmincle dats mijn eesch</l>
+<l><milestone unit="fol" n="92va"/> Doe w<i>er</i>t tscimminkel daer gheuae<i>n</i> </l>
+<l>Dat wel waende sijn ontgaen</l>
+<l>Soe wat cnape<i>n</i> doe<i>n</i> of late<i>n</i> </l>
+<l>Hebbe<i>n</i> si here<i>n</i> diese hate<i>n</i> </l>
+<l n="1205">Emmer vinde<i>n</i> si occusoe<i>n</i> </l>
+<l>Dat si hem pijnlijchede doe<i>n</i> </l>
+</div>
+<div type="chapter"><head type="chapter comment">55</head>
+<l><b>E</b>En vos sach .i. besie hanghe<i>n</i> </l>
+<l>En<i>de</i> he<i>m</i> begonst<i>er</i> o<i>m</i>me langhe<i>n</i> </l>
+<l>Hi sprank<i>er</i> na en diede niet</l>
+<l n="1210">Die besie bleef daer hise liet</l>
+<l>Doe was h<i>er</i>de gram Reinaert</l>
+<l>En<i>de</i> sprac ald<i>us</i> ter besie<i>n</i> w<i>aer</i>t</l>
+<l>Du best soe hert en<i>de</i> soe groene</l>
+<l>Blijf daer dijns en hebbic niet te doene</l>
+<l n="1215">Quaet man die cranc es in die daet</l>
+<l>Ten minste<i>n</i> sal hi spreke<i>n</i> quaet</l>
+</div>
+<div type="chapter"><head type="chapter comment">56</head>
+<l><b>E</b>En wesel was soe out van daghe<i>n</i> </l>
+<l>Si ne conste h<i>aer</i> selue<i>n</i> ni<i>et</i> ontdraghe<i>n</i> </l>
+<l>In plumekine ginc si h<i>aer</i> decke<i>n</i> </l>
+<l n="1220">Om datse woude die muus getrecke<i>n</i> </l>
+<l>Doe quame<i>n</i> daer die muse ghereet</l>
+<l>Die de wesel al v<i>er</i>beet</l>
+<l>Nv was daer .i. oude muus</l>
+<l>Dat was die vroetste van de<i>n</i> huus</l>
+<l n="1225">Si wiste die quade treke<i>n</i> alle</l>
+<l>Van d<i>er</i> cat en<i>de</i> van der valle</l>
+<l>Van stricke<i>n</i> en<i>de</i> van alre dinc</l>
+<l>D<i>aer</i> men muse mede vinc</l>
+<l>Ten wesel quam si ghegaen</l>
+<l n="1230">Waenstu mi aldus vaen</l>
+<l>Alse du dand<i>er</i> heuest ghedaen</l>
+<l>Neen du du salt<i>er</i> bloet af slae<i>n</i> </l>
+<l>Ic weet ghenoech van dine<i>n</i> spele</l>
+<l>Die langhe leeft hi siet vele</l>
+<l n="1235">D<i>us</i> siet men dat behendichede</l>
+<l>Bet<i>er</i> es dan sterchede</l>
+</div>
+<div type="chapter"><head type="chapter comment">57</head>
+<l><b>E</b>En man iaegde .i. wolf opt velt</l>
+<l>Tote .i. herde die beeste<i>n</i> helt</l>
+<l>Sprac die wolf ay here</l>
+<l n="1240">Behout mi mijn lijf datti god ere</l>
+<l><milestone unit="fol" n="92vb"/> Ic sal hier gaen ter recht<i>er</i> hant</l>
+<l>Of mi hier soeket .i. seriant</l>
+<l>Sech dat ic liep an dand<i>er</i> side</l>
+<l>Gh<i>er</i>ne seegt hi nv sijt blide</l>
+<l n="1245">Staphans quam d<i>aer</i> die ma<i>n</i> ghereet</l>
+<l>En<i>de</i> vragede of .i. wolf daer leet</l>
+<l>Ia seide die h<i>er</i>de ic sachen lide<i>n</i> </l>
+<l>T<i>er</i> lucht<i>er</i> hant daer beside<i>n</i> </l>
+<l>Al sprac die h<i>er</i>de dus te<i>n</i> man</l>
+<l n="1250">We<i>n</i>cte hi op he<i>m</i> nochtan</l>
+<l>En<i>de</i> woude he<i>m</i> wete<i>n</i> doen</l>
+<l>W<i>aer</i> die wolf waer gheuloe<i>n</i> </l>
+<l>Ant winke<i>n</i> niet maer ant woert</l>
+<l>Hilt he<i>m</i> die iagere en<i>de</i> ginc voert</l>
+<l n="1255">Dit horde die wolf en<i>de</i> sach</l>
+<l>D<i>aer</i> hi ond<i>er</i> die haghe lach</l>
+<l>En<i>de</i> q<i>ua</i>m voert dat seggic v</l>
+<l>H<i>er</i> wolf seegt die h<i>er</i>de nv</l>
+<l>Hebbic vele ghedae<i>n</i> doer v</l>
+<l n="1260">Ia seget die wolf dat hebstu</l>
+<l>Ic danke diere tonghe<i>n</i> al goet</l>
+<l>M<i>aer</i> al euel en<i>de</i> blentheit moet</l>
+<l>Den valsche<i>n</i> oghe<i>n</i> come<i>n</i> an</l>
+<l>Die soe wencte<i>n</i> op de<i>n</i> man</l>
+<l n="1265">Hets menech ma<i>n</i> al seegt hi wel</l>
+<l>Sine h<i>er</i>te es emmer fel</l>
+</div>
+<div type="chapter"><head type="chapter comment">58</head>
+<l><b>E</b>En pau q<i>ua</i>m claghe<i>n</i> siere v<i>r</i>ouwe<i>n</i> </l>
+<l>Ic st<i>e</i>rue seegt hi van rouwe<i>n</i> </l>
+<l>Om die nachtegale dat soe</l>
+<l n="1270">Scoenre singt dan ic doe</l>
+<l>Du clagest seegt si sond<i>er</i> noet</l>
+<l>Dine scoenheit es soe groet</l>
+<l>Die scinet clare h<i>er</i>de vele</l>
+<l>Dan d<i>er</i> nachtegale kele</l>
+<l n="1275">Wat redene seegt hi es daer toe</l>
+<l>Dat si bet singt dan ic doe</l>
+<l>D<i>aer</i> es seegt si redene goet</l>
+<l>God die alle dinc bi redene<i>n</i> doet</l>
+<l>Heeft hier in v<i>er</i>licht v leue<i>n</i> </l>
+<l n="1280">Een deel gracie<i>n</i> ghegeue<i>n</i> </l>
+<l><milestone unit="fol" n="93ra"/> Du best scone die swaluwe snel</l>
+<l>Die nachtegale singet wel</l>
+<l>Die duue es sempel die are<i>n</i> sterc</l>
+<l>Die vled<i>er</i>muus en doet geen werc</l>
+<l n="1285">Sond<i>er</i> dat si vlieget vut</l>
+<l>In dauonstonde blot<i>er</i> huut</l>
+<l>Die hane crayet en<i>de</i> wacht</l>
+<l>Al die getide<i>n</i> van d<i>er</i> nacht</l>
+<l>Die leew<i>er</i>ke groet de<i>n</i> dach</l>
+<l n="1290">D<i>us</i> doet elc dat hi v<i>er</i>mach</l>
+<l>D<i>us</i> hout hem elc an sijn p<i>re</i>sent</l>
+<l>Dat he<i>m</i> van die gode es ghesent</l>
+<l>Dese pau slacht den man</l>
+<l>Die meer begeert dan he<i>m</i> god an</l>
+</div>
+<div type="chapter"><head type="chapter comment">59</head>
+<l><b>E</b>En hinde q<i>ua</i>m in vremd<i>er</i> stede</l>
+<l>D<i>aer</i> men haer luttel ere<i>n</i> dede</l>
+<l>Doe viel die hinde in .i. pit</l>
+<l>Als die liede saghe<i>n</i> dit</l>
+<l>Ware<i>n</i> si blide en<i>de</i> si loeghe<i>n</i> </l>
+<l n="1300">En<i>de</i> scoudense en<i>de</i> sloeghe<i>n</i> </l>
+<l>Ghenade seit si laet mi gae<i>n</i> </l>
+<l>Allaes wat hebbic v mesdae<i>n</i> </l>
+<l>Some hadde<i>n</i> sijs iamm<i>er</i>hede</l>
+<l>Dat me<i>n</i> haer soe grote pine dede</l>
+<l n="1305">En<i>de</i> si worpe<i>n</i> haer broet</l>
+<l>D<i>aer</i> si lach in grot<i>er</i> noet</l>
+<l>Dand<i>er</i> gaue<i>n</i> haer slaghe groet</l>
+<l>En<i>de</i> lietense ligghe<i>n</i> ov<i>er</i> doet</l>
+<l>D<i>aer</i>na als die hinde ghenas</l>
+<l n="1310">En<i>de</i> si te haer selue<i>n</i> come<i>n</i> was</l>
+<l>Doe q<i>ua</i>m si ten ghene<i>n</i> gae<i>n</i> </l>
+<l>Die haer hadden quaet ghedae<i>n</i> </l>
+<l>D<i>aer</i> ginc si bite<i>n</i> slae<i>n</i> en<i>de</i> steke<i>n</i> </l>
+<l>En<i>de</i> hare leelijchede wreke<i>n</i> </l>
+<l n="1315">Ic weet wel seegt si ic bens vroet</l>
+<l>Di mi quaet dede ofte goet</l>
+<l>Ic wille quaet met q<i>ua</i>de gelde<i>n</i> </l>
+<l>Ende goet m<i>et</i> goede al doet ment selde<i>n</i> </l>
+<l>Hets dorperheit te doene scande</l>
+<l n="1320">.I. man in vremde<i>n</i> lande</l>
+<l><milestone unit="fol" n="93rb"/> Diet doet mach noch wel gherake<i>n</i> </l>
+<l>D<i>aer</i> mens come<i>n</i> sal te wrake<i>n</i> </l>
+</div>
+<div type="chapter"><head type="chapter comment">60</head>
+<l><b>H</b>Et was .i. hoghe coninghinne</l>
+<l>Dat was Iuno die goddinne</l>
+<l n="1325">Si prijsde sere hare<i>n</i> lieden</l>
+<l>Suuerhede <b>.</b> en<i>de</i> dede ghebiede<i>n</i> </l>
+<l>Dat elc wijf name<i>n</i> .i. man</l>
+<l>Sond<i>er</i> meer en<i>de</i> hild<i>er</i> haer an</l>
+<l>Doe q<i>ua</i>m mijn v<i>ro</i>uwe Venus voert</l>
+<l n="1330">En<i>de</i> seide te Iuno dese woert</l>
+<l>V<i>ro</i>uwe Iuno seegt si op mine<i>n</i> vloer</l>
+<l>Gaet .i. hinne die ic beswoer</l>
+<l>En<i>de</i> bat haer of si woude wisen</l>
+<l>Hoe vele dat h<i>aer</i> bedorste spisen</l>
+<l n="1335">Dat ic hebbe etic seegt soe</l>
+<l>Nochta<i>n</i> scrauic emmer toe</l>
+<l>Of ic di van miere haue</l>
+<l>.IJ. half viertel tarwe<i>n</i> gaue</l>
+<l>Soutstu dan dijn scraue<i>n</i> late<i>n</i> </l>
+<l n="1340">Nenic seegt si bi caritate<i>n</i> </l>
+<l>Al ontdadi mi die dure</l>
+<l>En<i>de</i> liet mi lope<i>n</i> in die scure</l>
+<l>Doe riepe<i>n</i> si alle laet ons wachte<i>n</i> </l>
+<l>Die wiue sele<i>n</i> der hinne<i>n</i> slachten</l>
+<l n="1345">Doe liepe<i>n</i> si alle te hope ghemene</l>
+<l>Jonc out groet en<i>de</i> clene</l>
+<l>Man en<i>de</i> wijf here<i>n</i> en<i>de</i> v<i>ro</i>uwe<i>n</i> </l>
+<l>D<i>aer</i> en hilt nieme<i>n</i> and<i>re</i>n trouwe</l>
+<l>Dit was costume van wile<i>n</i> eer</l>
+<l n="1350">M<i>aer</i> goddanc me<i>n</i> doets nemmeer</l>
+<l>Die goede wijf sijn alle goet</l>
+<l>Diese lachtert hi mesdoet</l>
+</div>
+<div type="chapter"><head type="chapter comment">61</head>
+<l><b>I</b>N .i. graf soe was begrauen</l>
+<l>.I. h<i>er</i>de rijc man van hauen</l>
+<l n="1355">Sijn wijf ginc ligghe<i>n</i> op sijn graf</l>
+<l>Si ne woud<i>er</i> niet schede<i>n</i> af</l>
+<l>En<i>de</i> dreef daer hare<i>n</i> rouwe groet</l>
+<l>Om hare<i>n</i> man die d<i>aer</i> lach doet</l>
+<l>Nv hinc daer .i. dief vaste an</l>
+<l n="1360">Ane .i. galghe de<i>n</i> welke<i>n</i> .i. man</l>
+<l><milestone unit="fol" n="93va"/> Te wachtene op sijn hoeft nam</l>
+<l>Alst bi d<i>er</i> midd<i>er</i>nacht quam</l>
+<l>Doe hadde die man de<i>n</i> dorst soe groet</l>
+<l>Dat hi liep met grot<i>er</i> noet</l>
+<l n="1365">Om drinke<i>n</i> daer die v<i>ro</i>uwe lach</l>
+<l>Hi ginc bet naer als hise sach</l>
+<l>Vrouwe seegt hi god houde v</l>
+<l>Ay mi seegt si wie es daer nv</l>
+<l>V<i>ro</i>uwe seegt hi hier es .i. man</l>
+<l n="1370">Ay mi seegt si nv vlie dan</l>
+<l>Nemm<i>er</i>meer so ne willic come<i>n</i> </l>
+<l>Of god wilt daer me<i>n</i> man hort noeme<i>n</i> </l>
+<l>Ay mi seegt si hier leget doet</l>
+<l>Mijn soete vrient mijn bedde ghenoet</l>
+<l n="1375">Die mi soe grote w<i>er</i>dichede</l>
+<l>En<i>de</i> soe meneghe ere dede</l>
+<l>Bi gode seegt hi lieue v<i>ro</i>uwe</l>
+<l>Mi es h<i>er</i>de leet v rouwe</l>
+<l>M<i>aer</i> die leuende en<i>de</i> die dode</l>
+<l n="1380">Moete<i>n</i> scede<i>n</i> al doe<i>n</i> sijt node</l>
+<l>V en es niet soe goet als goet v<i>er</i>drach</l>
+<l>Dat me<i>n</i> v<i>er</i>beteren niet en mach</l>
+<l>V<i>er</i>draghet v<i>ro</i>uwe als ghi best moghet</l>
+<l>En<i>de</i> penst om v ionghe joghet</l>
+<l n="1385">Vrouwe ghi sijt soe scone .i. wijf</l>
+<l>Twi v<i>er</i>liesdi dus v lijf</l>
+<l>Selk<i>er</i> v<i>ro</i>uwe<i>n</i> sate wel</l>
+<l>Joye bliscap en<i>de</i> spel</l>
+<l>Al was hi goet als hi was</l>
+<l n="1390">Men vint noch betre dan hi was</l>
+<l>Bet<i>re</i> seegt si aymi aymie</l>
+<l>Wie soude dat sijn segt mi wie</l>
+<l>Vrouwe seegt hi dat ben ic</l>
+<l>Die v ghemint hebbe .i. stic</l>
+<l n="1395">Ghi hout v scare<i>n</i> ic wane seegt soe</l>
+<l>God weet v<i>ro</i>uwe seegt hi in doe</l>
+<l>Soe langhe sprac hi en<i>de</i> soe vele</l>
+<l>Dat hi haer speelde van sine<i>n</i> spele</l>
+<l>Doe keerde die man en<i>de</i> vant v<i>er</i>loren</l>
+<l n="1400">Den dief daer ic af sprac te vore<i>n</i> </l>
+<l><milestone unit="fol" n="93vb"/> Doe quam hi tot<i>er</i> vrouwe<i>n</i> ghegae<i>n</i> </l>
+<l>Allaes wat hebbic ghedaen</l>
+<l>Mi es te nacht .i. dief v<i>er</i>stole<i>n</i> </l>
+<l>Die mi opt hoeft was beuole<i>n</i> </l>
+<l n="1405">Ia goede vrient seegt si watta<i>n</i> </l>
+<l>Wi sele<i>n</i> daer hanghe<i>n</i> mine<i>n</i> man</l>
+<l>D<i>aer</i> toe wetic raeds ghenoech</l>
+<l>Hoe mocht bet sijn o<i>n</i>s gheuoech</l>
+<l>Staphans nam sine vut sine<i>n</i> ghedelue</l>
+<l n="1410">En<i>de</i> hinke<i>n</i> an die galghe selue</l>
+<l>Tverwoede wijf es h<i>er</i>de coene</l>
+<l>Hare<i>n</i> wille in quade te doene</l>
+<l>Die wiue<i>n</i> segghe<i>n</i> lelijchede</l>
+<l>Si doe<i>n</i> he<i>m</i> luttel ere<i>n</i> daer mede</l>
+<l n="1415">Si bliuens gh<i>er</i>ne sond<i>er</i> ere</l>
+<l>Die goede wijf wille<i>n</i> ontere<i>n</i> </l>
+</div>
+<div type="chapter"><head type="chapter comment">62</head>
+<l><b>H</b>Et was .i. ioncfr<i>ouwe</i> vroet van sinne</l>
+<l>Die an nieme<i>n</i> en droech minne</l>
+<l>Si hadde bedroghe<i>n</i> meneghe<i>n</i> ma<i>n</i> </l>
+<l n="1420">Si was diere vele af can</l>
+<l>Si quam an .i. ionghelinc</l>
+<l>Die<i>n</i> si vriendelike ontfinc</l>
+<l>Nochtan hadse hem te vore<i>n</i> gheloghe<i>n</i> </l>
+<l>Menech werf en<i>de</i> bedroghen</l>
+<l n="1425">Si toendem .i. scoen baraet</l>
+<l>Bute<i>n</i> scone en<i>de</i> binne<i>n</i> quaet</l>
+<l>Al heeft mi seegt si becocht</l>
+<l>Menech man en<i>de</i> gifte<i>n</i> brocht</l>
+<l>Nochtan seegt si min ic die</l>
+<l n="1430">Voer al die ghene die ic sie</l>
+<l>Soe doe ic v seegt hi ioncfr<i>ouwe</i> </l>
+<l>Nochta<i>n</i> en dadi mi noit trouwe</l>
+<l>M<i>aer</i> tsolaes van mine<i>n</i> liue</l>
+<l>Doet mi dat ic an v bliue</l>
+<l n="1435">Hets menech man die wel v<i>er</i>staet</l>
+<l>Dat hi doet dulheit en<i>de</i> quaet</l>
+<l>Nochtan so ne mach hijs late<i>n</i> niet</l>
+<l>Ald<i>us</i> es den ionghelinc ghesciet</l>
+<l>Die in sijn h<i>er</i>te heeft ghescreue<i>n</i> </l>
+<l n="1440">D<i>er</i> wiue sin en<i>de</i> haer leuen</l>
+<l><milestone unit="fol" n="94ra"/> Hi soude hem alle<i>n</i> orlof gheuen</l>
+<l>Wildi leede<i>n</i> .i. heilech leuen</l>
+</div>
+<div type="chapter"><head type="chapter comment">63</head>
+<l><b>E</b>En man hadde .i. <i>ver</i>woyt kint</l>
+<l>Hen woude doer nieme<i>n</i> doe<i>n</i> .i. twint</l>
+<l n="1445">Hi hadde cnape<i>n</i> de<i>n</i> welke<i>n</i> hi hiet</l>
+<l>Tkint te dwinghe<i>n</i> si ne dadens niet</l>
+<l>D<i>us</i> liet die man sijn kint ontfechte<i>n</i> </l>
+<l>Int ende en mochte hijt niet v<i>er</i>rechte<i>n</i> </l>
+<l>In diere ghelike was .i. man</l>
+<l n="1450">Die sijn lant sieu en<i>de</i> wan</l>
+<l>Hi spien in die egede sijn</l>
+<l>.I. osse en<i>de</i> een caluekijn</l>
+<l>Tcalf was ionc en<i>de</i> het ontsloech</l>
+<l>Alt hernasch dat dosse droech</l>
+<l n="1455">Ia seegt die man als hi dit siet</l>
+<l>Van dine<i>n</i> w<i>er</i>ke en achtic niet</l>
+<l>M<i>aer</i> ic wille mijn calfkijn dwinghe<i>n</i> </l>
+<l>En<i>de</i> in goede<i>n</i> poente bringhen</l>
+<l>Hadde die man ald<i>us</i> bedwonghe<i>n</i> </l>
+<l n="1460">Sijn kint en ware he<i>m</i> niet ontspronghe<i>n</i> </l>
+<l>Me<i>n</i> soude de kindere<i>n</i> in die ioghet</l>
+<l>Dwinghe<i>n</i> en<i>de</i> lere<i>n</i> doghet</l>
+<l>.I. roedekijn soude daer boeghe<i>n</i> </l>
+<l>.I. boem en souds niet doghe<i>n</i> </l>
+</div>
+<div type="chapter"><head type="chapter comment">64</head>
+<l><b>I</b>Nt wout ghemoete .i. wolf .i. hont</l>
+<l>Hoe bestu seegt hi die wolf d<i>us</i> ront</l>
+<l>En<i>de</i> dus vet om dat ic wachte</l>
+<l>Seegt die hont dus wel bi nachte</l>
+<l>Ic v<i>er</i>iaghe meneghe<i>n</i> dief</l>
+<l n="1470">D<i>aer</i> bi heeft mi mijn h<i>er</i>e lief</l>
+<l>En<i>de</i> die kindre alle ghemene</l>
+<l>Si gheue<i>n</i> mi vleesch en<i>de</i> bene</l>
+<l>Ontgaet mi tgrote ic neme tsmale</l>
+<l>Emmer vullic mine male</l>
+<l n="1475">Ic can wel seegt hi die ghene smeke<i>n</i> </l>
+<l>Die mi voede<i>n</i> en<i>de</i> queken</l>
+<l>Doe seide die wolf ic woudic mochte</l>
+<l>Metti leue<i>n</i> aldus sochte</l>
+<l>Soe comt seegt die hond met mie</l>
+<l n="1480">Te mine<i>n</i> huus <b>.</b> doe ginghe<i>n</i> sie</l>
+<l><milestone unit="fol" n="94rb"/> Die wolf sach an des honts hals .i. rinc</l>
+<l>Van ere ketene<i>n</i> daer hi in ghinc</l>
+<l>Wat bediet seegt hi dese dinc</l>
+<l>Ic sie an dine<i>n</i> hals .i. rinc</l>
+<l n="1485">Ic saelt die segghe<i>n</i> seegt die hont</l>
+<l>Ic sta ghebonde<i>n</i> some stont</l>
+<l>Om dat ic sal te wred<i>er</i> sijn</l>
+<l>Doe seide die wolf nv si al dijn</l>
+<l>Dine grote weelde dine vite</l>
+<l n="1490">En<i>de</i> dine affare sceldic quite</l>
+<l>Ic hebbe alre weghe ghewout</l>
+<l>Ic lope sond<i>er</i> vaer int wout</l>
+<l>Mine dwinghet strec no bant</l>
+<l>Ic doer lope menech lant</l>
+<l n="1495">Ic ben altoes in grot<i>er</i> feeste<i>n</i> </l>
+<l>Ic ete tseisoe<i>n</i> van de<i>n</i> beeste<i>n</i> </l>
+<l>Ic en prise niet metti te sine</l>
+<l>Hout dine vite ic houde die mine</l>
+<l>Hets v<i>er</i>noy te sine langhe</l>
+<l n="1500">In eens and<i>er</i>s mans bedwanghe</l>
+<l>M<i>aer</i> die sine<i>n</i> wille al vut</l>
+<l>Mach doe<i>n</i> <b>.</b> dats .i. groet ghebruuc</l>
+</div>
+<div type="chapter"><head type="chapter comment">65</head>
+<l><b>B</b>eide den voeten en<i>de</i> den handen</l>
+<l>Mesquam en<i>de</i> begonste<i>n</i> anden</l>
+<l n="1505">Dat si pijnde<i>n</i> dat hi at</l>
+<l>Die buuc die emmer leghet sat</l>
+<l>Doe sate<i>n</i> si stille binne<i>n</i> .iij. daghe<i>n</i> </l>
+<l>Ne wilde<i>n</i> si he<i>m</i> niet ontdraghe<i>n</i> </l>
+<l>Doe seide die buuc brenc hare broet</l>
+<l n="1510">Ic hebbe seegt hi hongher groet</l>
+<l>Hi riep me<i>n</i> gaf hem niet</l>
+<l>Doe die buuc sijn roepe<i>n</i> liet</l>
+<l>Die hande wilde<i>n</i> he<i>m</i> geue<i>n</i> broet</l>
+<l>Doe waest te spade die buuc was doet</l>
+<l n="1515">D<i>us</i> moeste die buuc van honger sterue<i>n</i> </l>
+<l>En<i>de</i> al sine lede daer bi ontderue<i>n</i> </l>
+<l>Die ghene en wreke<i>n</i> he<i>m</i> niet wel</l>
+<l>Die he<i>m</i> selue<i>n</i> slae<i>n</i> int vel</l>
+<l>Een man es maer .i. ma<i>n</i> allene</l>
+<l n="1520">Hi ne hebbe vrient sine macht es cleene</l>
+<l><milestone unit="fol" n="94va"/> Die die sine laet hi moet</l>
+<l>Selue valle<i>n</i> onder voet</l>
+<l>Die boem moet dwine<i>n</i> en<i>de</i> cranke<i>n</i> </l>
+<l>Als hi v<i>er</i>liest sine branke<i>n</i> </l>
+</div>
+<div type="chapter"><head type="chapter comment">66</head>
+<l><b>T</b>scimminkel sach den vos Reinaert</l>
+<l>Draghen .i. langhe<i>n</i> staert</l>
+<l>Ay Reinaert seegt hi edel h<i>er</i>e</l>
+<l>Dijn stert v<i>er</i>weegt di soe sere</l>
+<l>Gheefs mi .i. luttel op houeschede</l>
+<l n="1530">Bachte<i>n</i> mi te decke<i>n</i> mede</l>
+<l>Ic hadde lieuer seide Reinaert</l>
+<l>Dat ic noch ware meer v<i>er</i>swaert</l>
+<l>En<i>de</i> hi mi vele meer v<i>er</i>woeghe</l>
+<l>Dan ics di gaue te dine<i>n</i> gheuoeghe</l>
+<l n="1535">En<i>de</i> du driue<i>n</i> souds daer mede</l>
+<l>Dine grote w<i>er</i>dichede</l>
+<l>Ald<i>us</i> es menech rijc man</l>
+<l>Al haddi goets te vele nochtan</l>
+<l>Soude hijt late<i>n</i> eer v<i>er</i>dwine<i>n</i> </l>
+<l n="1540">Eer hi iet gaue van de<i>n</i> sine<i>n</i> </l>
+<l>Bedi sal hi inde<i>n</i> ketel driue<i>n</i> </l>
+<l>Mette<i>n</i> and<i>re</i>n keytiuen</l>
+</div>
+<div type="chapter"><head type="chapter comment">67</head>
+<l><b>T</b>Ere iaermerct voer .i. man</l>
+<l>Met sine<i>n</i> esel daer hi an</l>
+<l n="1545">Begonste mette<i>n</i> garde<i>n</i> nope<i>n</i> </l>
+<l>Om dat hi soude te sere lopen</l>
+<l>Hi wiste wel quame hi te spade</l>
+<l>Dat hijs soude neme<i>n</i> scade</l>
+<l>Die esel hadde die pine soe groet</l>
+<l n="1550">Dat hi begerde te sine doet</l>
+<l>Dat hi hoepte in mind<i>er</i> pine</l>
+<l>Acht<i>er</i> sine doet te sine</l>
+<l>Doe begonsti soe v<i>er</i>moede<i>n</i> </l>
+<l>Dat hi ter doet w<i>er</i>t moeste spoede<i>n</i> </l>
+<l parse= "ignore" n="1555">D<i>us</i> sterf hi van ermoeden</l>
+<l parse="ignore">[...]</l>
+<l parse="ignore">Men maecte van de<i>n</i> velle</l>
+<l parse="ignore">[...]</l>
+<l parse="ignore">Die emm<i>er</i> m<i>et</i> ghemake leue<i>n</i> </l>
+<l>D<i>us</i> dogede desel pine groet</l>
+<l><milestone unit="fol" n="94vb"/> Beide leuende en<i>de</i> doet</l>
+<l n="1560">Die keytijf die hier soe leeft</l>
+<l>Dat hi in dand<i>er</i> werelt heeft</l>
+<l>Min dan hi hadde te voren</l>
+<l>Ter quad<i>er</i> tijt w<i>er</i>t hi gheboren</l>
+<l parse="ignore">Laus deo amen</l>
+</text>
+<!--</ENTRY>
+--></TEI.2>

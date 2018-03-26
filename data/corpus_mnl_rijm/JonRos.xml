@@ -1,0 +1,1234 @@
+<?xml version='1.0'?><!DOCTYPE TEI.2 PUBLIC '-//TEI P4//DTD Main Document Type//EN' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd' [<!ENTITY % TEI.prose 'INCLUDE'><!ENTITY % TEI.linking 'INCLUDE'><!ENTITY % TEI.figures 'INCLUDE'><!ENTITY % TEI.analysis 'INCLUDE'><!ENTITY % TEI.corpus 'INCLUDE'><!ENTITY % TEI.XML 'INCLUDE'><!NOTATION TEI-XML PUBLIC 'TEI P4' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd'><!-- internal INL dtd --><!ELEMENT b (#PCDATA)><!ELEMENT l (#PCDATA | b)*><!-- end of internal INL dtd -->]><TEI.2><!--<ENTRY id="i256"><teiHeader><fileDesc><titleStmt><title>Jonathas ende Rosafiere</title>
+</titleStmt>
+<interpGrp type="pubYear_from"><interp value="1490"/></interpGrp>
+<interpGrp type="witnessYear_from"><interp value="1490"/></interpGrp>
+<interpGrp type="pubYear_to"><interp value="1510"/></interpGrp>
+<interpGrp type="witnessYear_to"><interp value="1510"/></interpGrp>
+<TITEL>Jonathas ende Rosafiere</TITEL>
+<author>Onbekend</author>
+<AARD>Rijm</AARD>
+<BRON nr="K40">Amsterdam, Universiteitsbibliotheek, I A 24&supm; (fragm.)</BRON>
+<DATUM>1490-1510</DATUM>
+<OMVANG>1208 verzen</OMVANG>
+<BRON.OPM>Een papieren handschrift dat in een zeer slechte staat verkeert en bestaat uit een octern van in elkaar gevoegde bladeren, met nog vier losse folia en een blad van twee folia aan elkaar. Huizinga (1975) heeft aangetoond dat de oorspronkelijk toestand van het handschrift anders was dan wordt voorgesteld in de editie De Pauw: - Oorspr. hs. fol. 19 is bij De Pauw fol. 20, vs. 1049-1100; - Oorspr. hs. fol. 20 is bij De Pauw fol. 19, vs. 997-1048; - Oorspr. hs. fol. 21, 22 en 23 ontbreken; - Oorspr. hs. fol. 24 is bij De Pauw fol. 21, vs. 1101-1154; - Oorspr. hs. fol. 25 is bij De Pauw fol. 22, vs. 1155-1208; - Oorspr. hs. fol. 26-32 ontbreken (zie D. J. Huizinga: 'Jonathas ende Rosafier. Een onbekend postincunabel-fragment en de oorspronkelijk vorm van het handschrift'. In: <i>TNTL</i> 91 (1975), 175-212.). In de volgorde van de tekst die Huizinga aanhoudt, zijn er dus twee nieuwe aansluitingen: 1. de aansluiting van fol. 18 op fol. 20 De Pauw, ofwel van vs. 996 op vs. 1049; 2. de aansluiting van fol. 20 De Pauw op fol. 19, ofwel van vs. 1100 op vs. 997. Wat betreft de tweede aansluiting: tussen vs. 1100 en 997 moeten twee verzen zijn weggevallen wil het rijm kloppen. Dat komt doordat op deze plaats de bovenkant van fol. 19r De Pauw (evenals 19v, vs. 1022) afgesneden is. Zie verder voor beide aansluitingen en de lijn van het verhaal, Huizinga (1975), 196 e.v. Hier is de tekstschikking aangehouden van Huizinga, terwijl de foli&euml;ring en de regelnummering afkomstig zijn uit de editie De Pauw. Voorts zijn op de plaatsen waar de foli&euml;ring van de editie De Pauw afwijkt van die van het oorspronkelijke handschrift, tussen ronde haken, ook de folionummers van het oorspronkelijke handschrift opgenomen.</BRON.OPM>
+<EDITIE>N. de Pauw: Middelnederlandsche gedichten en fragmenten. Dl. 1. Gent, 1893-1897, 494-529.</EDITIE>
+<STATUS>Kritisch</STATUS>
+<BRONMNW>676 </BRONMNW>
+<BRONNEN>Amsterdam, Universiteitsbibliotheek, I A 24&supm; (fragm.)</BRONNEN>
+<HSDRUK>Roman van Jonathas ende Rosafiere</HSDRUK>
+</fileDesc>
+</teiHeader>
+--><text>
+<l parse="ignore"><pb n="494"/><milestone unit="fol" n="1r"/> Met swaren rouwe, sonder saghen;</l>
+<l>Die sake was al te groot,</l>
+<l>Maria datselve ontboot.</l>
+<l>Hij moeste den rouwe altene draghen</l>
+<l n="5">In sijn hertte, sonder claghen.</l>
+<l><edition n="495"/>Nu hoert, op den lesten dach,</l>
+<l>Als die scriftuere doet ghewach,</l>
+<l>Ende Eglentijn hadde onttaen</l>
+<l>Die crone van goude, sonder waen;</l>
+<l n="10">Sij was huesch ende goedertieren.</l>
+<l>Nu keer ic weder tot Rosafiere,</l>
+<l>Die commen was in haeren sinne</l>
+<l>Bij Marien, der coninghinnen,</l>
+<l>Doen ghinc sij met listen,</l>
+<l n="15">Daer sij scoen hende wele wiste;</l>
+<l>Doen dede sij aen, sonder beijden,</l>
+<l>Een hemdeken wan witter sijden;</l>
+<l>Daerover dede die maghedijn</l>
+<l>Eene pelse wit eermerien;</l>
+<l n="20">Daerboven dede die kussche smale</l>
+<l>Eenen rock die haer stont wale.</l>
+<l>Doen nam sij, al metter spoet,</l>
+<l>Eenen mantel van prijsse groet,</l>
+<l>Ende sette op haer hoot een crone</l>
+<l n="25">Die rickelijc was ende scoene;</l>
+<l>Doen sij die crone hadde ontfaen,</l>
+<l>Was sy scoene ende welghedaen.</l>
+<l>Doen ghinc sij in de sale,</l>
+<l><milestone unit="fol" n="1v"/> Rosafiere, die scoene smale,</l>
+<l n="30">In der ghelijcken, in der ghebare</l>
+<l>Oft eyneghe belde waere.</l>
+<l>Doen stont op menich heere vrome,</l>
+<l>Ende hyeten die maghet willecome;</l>
+<l>Doen soe trac sij achterwert</l>
+<l n="35">Ende was seer verwaert,</l>
+<l>Ende seide: "Ghij [heren], wats ghesciet?</l>
+<l>Des en ben ic werdich niet,</l>
+<l>Dat ghij teghen my sout opstaen."</l>
+<l>Doen dede si se sitten saen.</l>
+<l n="40">Doen ghinc Rosafier altehant;</l>
+<l><edition n="496"/>Daer sij haeren suster want;</l>
+<l>Sij seide: "Suster, quaden dach</l>
+<l>Ghe[ve] u God, diet wel doen mach!</l>
+<l>"Hoe waert dij noet soe coene</l>
+<l n="45">Dat ghij dit bestont te doene,</l>
+<l>Dat ghij myn lief hebt ghenoemen?</l>
+<l>Seker het sal u lettel vromen.</l>
+<l>Ic woude, ic u nu hier ter stede</l>
+<l>Met mynen handen hadde doet ghescleghen.</l>
+<l n="50">Ic mach wel segghen: Wach armen,</l>
+<l>Dat ghij sult ligghen in sinen armen,</l>
+<l>Dien ic hadde soe seer ghemynt,</l>
+<l>En hads u ghelovet twint."</l>
+<l>Hort wat die conijnghinne dede;</l>
+<l n="55">Sij was hovesch van seden</l>
+<l><milestone unit="fol" n="2r"/> [..............]aen</l>
+<l>[..............]edaen</l>
+<l>[.........] ic wil se u gheven</l>
+<l>[..............]even</l>
+<l n="60">Ende [daer] tuwe [mijn] conincricke</l>
+<l>Ende u lief ghetruwichlijcke:</l>
+<l>Wi en sijn maer ons tween</l>
+<l>Noch en sullen nemmermer.</l>
+<l>Onse moeder hebben wij verloeren,</l>
+<l n="65">Die scone was ende welgheboren;</l>
+<l>Onse vader liet ons in swaren pijnen,</l>
+<l>Doen hij voer op die Sarasinen;</l>
+<l>Nu sijn wij verdreven uutten lande,</l>
+<l>Dat[s] jammer grot ende scande.</l>
+<l n="70">Nu gaet sitten in myn side,</l>
+<l>Ende nempt die crone, die ic u gheve;</l>
+<l>U camieriere soe willic bliven</l>
+<l>Totten ende van mynen live. "</l>
+<l>Als dit hoerde Rosafiere,</l>
+<l n="75">Die hovesch was ende goedertieren,</l>
+<l><edition n="497"/>Sij sede: "Suster, hier ter steede</l>
+<l>Dwijnghedij my met hoveschede;</l>
+<l>Mijn lief en mach ic nomen niet,</l>
+<l>Lieve zuster, wat ghesciet.</l>
+<l n="80">Hij heeft my seker ghelaten,</l>
+<l>Maer en wet niet die sake.</l>
+<l>Het es bij Marien tuwecomen,</l>
+<l><milestone unit="fol" n="2v"/> Dat hebbic herde [wel vernomen],</l>
+<l>Want hij mint se b[ov]en a[l],</l>
+<l n="85">Dat hij doer haer doen most [geval];</l>
+<l>Hij mint se boven allen [er]trick[e],</l>
+<l>Mar[i]a en moet ons niet beswij[c]ken."</l>
+<l>"Suster, ic moet die sake weten</l>
+<l>Oft mijn hertte sal mij breken."</l>
+<l parse="ignore" n="90">Doen liet si haer nedersencken</l>
+<l parse="ignore">Neven haeren suster sijde</l>
+<l>Ende seide: "Suster, op edeleheyden,</l>
+<l>Nu soe doet my eene bede."</l>
+<l>Sij antworden met dien:</l>
+<l n="95">"Suster, dat sal u ghescien;</l>
+<l>Bit my om silver ende om gout,</l>
+<l>Ic saelt u gheven menichwout."</l>
+<l>"Het es een ander sake,</l>
+<l>Ic salt u segghen achter sprake</l>
+<l n="100">Waer ic bij hem in eenegher listen,</l>
+<l>Dat daer niement af en wiste</l>
+<l>Ende hij waenden onghespaert,</l>
+<l>Suster, dat ghijt selve waert,</l>
+<l>Hij soude my segghen in corter stont</l>
+<l n="105">Die waerheijt sijns hertten gront;</l>
+<l>Ende ic moet die waerheyt weten</l>
+<l>Eer ic nemmermeer drincke of eete.</l>
+<l>Lieve suster, sonder beijden,</l>
+<l>Laet my ter nacht slapen bij siere siden</l>
+<l n="110">Ende en doet ghij niet, ic moet st[erven]</l>
+<l><edition n="498"/>Ende die bidtere doot verwerven."</l>
+<l><milestone unit="fol" n="3r"/> [...............]</l>
+<l parse="ignore">[....] met eenen oetmoedighen sijnne</l>
+<l parse="ignore">Ende seide: "Suster, bij waerheijden,</l>
+<l parse="ignore" n="115">Ghij hebt my een bede ghebeden</l>
+<l>Ic gave u liever sekerlijcke,</l>
+<l>Suster, half myn conincricke,</l>
+<l>Maer en wilt u ontsegghen niet,</l>
+<l>Lieve suster, wats ghesciet.</l>
+<l n="120">Ghij moetten doen verholen</l>
+<l>Dat niement te wetene en comme,</l>
+<l>Ende dat wij gheen scande ontfaen,</l>
+<l>Lieve zuster, sonder waen.</l>
+<l>"Nu swijt" seitsij, "edele wijf,</l>
+<l n="125">Het soude my eer costen dlijf!"</l>
+<l>Met dien lieten sij die tale.</l>
+<l>Rosafiere kerde in de sale;</l>
+<l>Het was den avent haerdde bij.</l>
+<l>Hoert wat dede dije maghet vrij</l>
+<l n="130">Sij ghinc in die camere met liesten,</l>
+<l>Dat daer niement af en wiste</l>
+<l>Ende decte haer, sonder pine,</l>
+<l>Al onder eene gordine</l>
+<l>Rosafiere, die scoene smale.</l>
+<l n="135">Nu keer ic weder in de sale</l>
+<l>TOri&euml;nten in de stede.</l>
+<l>Nu hoert, wat feesten men daer dede.</l>
+<l parse="ignore">[..............]out,</l>
+<l parse="ignore"><milestone unit="fol" n="3v"/> Daer was feeste menichfout.</l>
+<l n="140">Als die feeste was ghedaen</l>
+<l>Van den avonde, sonder waen,</l>
+<l>Doen stont op die coninghinne,</l>
+<l>Mijns lief moeder met sinne,</l>
+<l>Ende nam die coninghinne metter hant,</l>
+<l n="145">Van prijsse die vrouwe faeilant,</l>
+<l><edition n="499"/>Ende dade stillen dat gheluyt</l>
+<l>Ende ghinnen beyde toter bruyt,</l>
+<l>Ende seiden: "In waren saken,</l>
+<l>Ghij sult gaen rusten ende slapen",</l>
+<l n="150">Ende namen die bruyt met eeren,</l>
+<l>Dat doet ons die scrieftuere leeren,</l>
+<l>Ende ledese met blijden sinne</l>
+<l>Vriendelijcke ter cameren inne;</l>
+<l>Ende die tortijssen, doen ic u weten,</l>
+<l n="155">Waren by der bruyt ontsteken.</l>
+<l>Sij ghinc te bedde, sonder blame,</l>
+<l>Alsoe haer eerlijc was ende betame:</l>
+<l>Doen kerden sij in dat palas.</l>
+<l>Nu hoert wat dede Jonitas</l>
+<l n="160">Hy ghinc voet over voet,</l>
+<l>Sijn sins was hy onvroet</l>
+<l>Ende riep: "Maria, nu eest tijt</l>
+<l>Dat ghij mijns ghehuldich sijt.</l>
+<l>Vrouwe, ic hebbe u langhe dient;</l>
+<l n="165"><milestone unit="fol" n="4r"/> Op oetmoet sijt uwe my[n] vrien[t];</l>
+<l>Wairtuwe es myn lief gheboren</l>
+<l>Van miere moeder h[ier] te voeren?</l>
+<l>Eer ic se liet in [groete]r noet,</l>
+<l>Ic [sou]de hair b[idden] broot.</l>
+<l n="170">[Mochtic] myn lief op bedde weijden,</l>
+<l>[Ic s]ouder haestelijc op springhen.</l>
+<l>Ay vach! lacen! neen ic niet,</l>
+<l>Dies moet ic doghen swaer verdriet. "</l>
+<l>Doen dit seede die coninc,</l>
+<l n="175">In die camere dat hij ghinc,</l>
+<l>Voir dat bedde ghinc hij staen;</l>
+<l>Sine cleederen heeft hij uutghedaen</l>
+<l>Vriendelijcke daer ter steden.</l>
+<l>Nu suldij hoeren wat hij dede.</l>
+<l n="180">Men deden die tortijssen uut;</l>
+<l><edition n="500"/>Als dat vernam die scoene bruyt,</l>
+<l>Ghinc sij herde lijsselijcke</l>
+<l>Van den bedde, die vrouwe rijcke,</l>
+<l>Ende op dat bedde quam sciere</l>
+<l n="185">Die overscone Rosafiere</l>
+<l>Ende strecte haer ter selven tijden</l>
+<l>Op dat bedde, sonder beyden;</l>
+<l>Sy was scoene van leden.</l>
+<l>Nu hoert wat die coninc dede.</l>
+<l n="190">Doen so ghinc hij metter spoet</l>
+<l>Lighen op dat bedde goet;</l>
+<l parse="ignore"><milestone unit="fol" n="4v"/> Doen [g]hinc hij ooc, sonde[r] letten,</l>
+<l parse="ignore">[.........] in dat bedde sett[en].</l>
+<l>Als [hij daer] was tehande,</l>
+<l n="195">Nam hij s[ine snee]witte handen</l>
+<l>Ende seinde h[aer; sij se]de "Wader,</l>
+<l>Hier willic sijn in uw[er g]hen[aden],</l>
+<l>Dat ic dit houwelijc moe[t anegaen]</l>
+<l>Ende dat tuwer eeren sijn gheda[en];</l>
+<l n="200">Ende, als wij niet langher en sullen leven,</l>
+<l>Moetti ons hemelrijc gheweghen</l>
+<l>Ende voeren ons, dit sijt wijs</l>
+<l>In dat soete Paradijs."</l>
+<l>Dus bewael hem die coninc</l>
+<l n="205">Ende strecte hem metter dinc</l>
+<l>Sekerlijcke ter selven tijde</l>
+<l>Neven Rosafiere sijde:</l>
+<l>Sinen aerme heeft hij verheven</l>
+<l>Ende waenden over zijn wijf hebben gheslegen.</l>
+<l n="210">Hi sloch se over Rossafiere,</l>
+<l>Die hovesch was ende goedertieren;</l>
+<l>Hij sede: "Willecom, vrouwe!</l>
+<l>Met hertten ben ic u ghetruwe.</l>
+<l>Ghij sijt myn wijf, ic ben u man,</l>
+<l n="215">Want ic u eere ende ducht an;</l>
+<l><edition n="501"/>Wij sijn beyde ende bloet,</l>
+<l>Edele vrouwe, ende goet,</l>
+<l>Bi der Heylegher Kerken,</l>
+<l>God, Ons Heere, die moet ons ghesterken.</l>
+<l parse="ignore" n="220">Maer ic moet u, edele vrouwe,</l>
+<l parse="ignore"><milestone unit="fol" n="5r"/> [...............]</l>
+<l parse="ignore">[...............]</l>
+<l parse="ignore">Ende mij soe seer verweghet.</l>
+<l>Ic minne soe seere Rosafieren,"</l>
+<l n="225">Doen weende die coninc herde sere</l>
+<l>"Dat sij my doet thertte breken,</l>
+<l>Soe seere ben ic met haeren minnen ontsteken</l>
+<l>Ende en wisten wien dat seghen</l>
+<l>Noch nement te voeren legghen,</l>
+<l n="230">Ghij sijt haer suster goede,</l>
+<l>Haers waders kint ende haers moeders;</l>
+<l>Up trouwe ende op edelhede;</l>
+<l>Daeromme biddic u een bede,</l>
+<l>Dat ghij haer, sonder leetten,</l>
+<l n="235">Sulken clederen wilt doen sceppen,</l>
+<l>Als ghij sult draghen, edele vrouwe.</l>
+<l>Dies biddic u op rechter trouwe,</l>
+<l>Ende laet se sijn bij uwer sijden</l>
+<l>Allen daghe ende allen tijde;</l>
+<l n="240">Ic moet se allen daghe scouwen</l>
+<l>Oft ic blijve doot van rouwe.</l>
+<l>Sij antworden met stillen talen</l>
+<l>Dat hijt niet en verstont wale,</l>
+<l>Ende sede: "Coninc, van allen desen</l>
+<l n="245">Dinct my groot wonder wesen.</l>
+<l>Dits emer een groote sake,</l>
+<l>Daer ghij mynder suster om latet</l>
+<l>Boven my es sij soe scoene,</l>
+<l>Dat sij mocht draghen croene.</l>
+<l n="250"><milestone unit="fol" n="5v"/> [...............]</l>
+<l>Op myn [..............]</l>
+<l><edition n="502"/>Hi siede: "Vrouwe, oft ghijt ghebie[t],</l>
+<l>Die sake en moch dij weten n[iet];</l>
+<l>Sij es seker al te groet,</l>
+<l n="255">Want my Maria selve ontboet."</l>
+<l>Doen soe swoer hij eenen neet,</l>
+<l>Dat hem was herdde leet.</l>
+<l>"Her coninc", setsy, "moet dit bliven,</l>
+<l>Ic en ligghe nemmermeer bij uwer sijden</l>
+<l n="260">Noch en comme in u bedde,</l>
+<l>Ghij en sult my die waerheyt segghen. "</l>
+<l>Doen antworde hij tehant:</l>
+<l>"Vrouwe, gheeft my eenen pant."</l>
+<l>Sy antworden, sonder tsneven</l>
+<l n="265">"Heere, wat pant soude ic u gheven?"</l>
+<l>"Ic saelt u segghen, edele vrouwe,</l>
+<l>Nyet dan nyale trouwe,</l>
+<l>Dat ghijt niemet en sult segghen,</l>
+<l>No man no wive te woeren legghen</l>
+<l n="270">Voer dat compt den Lesten Dach,</l>
+<l>Dat ment niet langher heelen en mach."</l>
+<l>Sij lede haer hant, te dien tijde,</l>
+<l>Den coninc over sijn side;</l>
+<l>Daer ghelofde hem trouwe</l>
+<l n="265">Rosafier, die scone joncvrouwe,</l>
+<l>Dat sijt niement en soude segghen.</l>
+<l><milestone unit="fol" n="6r"/> Nocht haer suster te voeren legghen</l>
+<l>"Sonder u, vri edele heere."</l>
+<l>Dan versuchten herde seere.</l>
+<l n="280">"Nu hoert naer my, lieve vrouwe,</l>
+<l>Op susterlijcke [tro]uwe,</l>
+<l>[Wan]t ic [was] al ghereet</l>
+<l>Die maghet te truwene welghereet</l>
+<l>Ende haer te nemenne tenen wijve,</l>
+<l n="285">Maer, lacen het moeste achterbliven.</l>
+<l>Ic woude Maria sijn onderdaen</l>
+<l><edition n="503"/>Ende in haeren dienste staen.</l>
+<l>Doen ghinc hij altehant</l>
+<l>Daer ic Maria belde want;</l>
+<l n="290">Doen viel ic over myn knieden</l>
+<l>Ende leide mijn hant tegader mettien.</l>
+<l>[D]oen seidic: Maria, edele rose,</l>
+<l>[Be]richt my, al sonder boese,</l>
+<l>Waert u lijf ende bequame</l>
+<l n="295">Dat ic myn lyf penne[tencie] name? "</l>
+<l>Doen ghinc hij hair, sonder letten,</l>
+<l>Die gherechte waerheijt segghen,</l>
+<l>Alsoe hem dinghel hadde gheseit:</l>
+<l>Nu hoert, vrouwe, op edelheit,</l>
+<l n="300">Doen moest ic die waerheyt w[eten],</l>
+<l>Dit horde ic den inghel spreken,</l>
+<l>Hier suldy ontfermerticheyt hooren</l>
+<l><milestone unit="fol" n="6v"/> Onder een planete es sij gheboren,</l>
+<l>Dat sij haren wader moet draghen kint,</l>
+<l n="305">Dat en mach achterbliven twint;</l>
+<l>Ende ooc moet si oppenbaere</l>
+<l>Der werelt [wijt gae]n VII jaer.</l>
+<l>Om dese sware sake[n],</l>
+<l>Vrouwe, moet ic Rosafiere laten."</l>
+<l n="310">Als dit horde die jonghe vrouwe,</l>
+<l>Was sij bena doet van rouwe,</l>
+<l parse="ignore">Ende keerde met snelder vaert</l>
+<l parse="ignore">Ende versuchte haerde ontsachte,</l>
+<l parse="ignore">Dat sij cume spreken mochte.</l>
+<l n="315">"Vrouwe", seet hij, "ghij en doet niet wale,</l>
+<l>Dat ghij ghewaghet deser talen."</l>
+<l>Doen antworde sij met desen</l>
+<l>"Dinc u dat ennich wonder wesen?</l>
+<l>D[ie] boetscap gaet my al te naer,</l>
+<l n="320">Des es mijn hertte harde swae[r].</l>
+<l>Het es ende [was] myn suster goede,</l>
+<l><edition n="504"/>Myns v[ade]rs kint ende mynder mo[eder].</l>
+<l>Nu bidde ic u, her coninc uutvercoeren,</l>
+<l>Na dien dat sij daer es gheboren,</l>
+<l n="325">Ende sijt niet en mach ontgaen,</l>
+<l>Dat ghij hair wilt vriendelijc bijstaen</l>
+<l>O[m] al te latene sekerlijcke. "</l>
+<l>"U, vrouwe, ende myn conincrijcke;</l>
+<l>Wan lande te landen soude ic haer bidden broet</l>
+<l n="330">Eer ic se liet in eynegher noet.</l>
+<l parse="ignore">Doen verblijde die joncvrouwe</l>
+<l parse="ignore"><milestone unit="fol" n="7r"/> [...............]</l>
+<l parse="ignore">[..............] wive.</l>
+<l parse="ignore">[...]s sc[.............]</l>
+<l n="335">Dan ve[r]droch hem ter [selve]r uren</l>
+<l>[D]en edele coninc [pu]ere</l>
+<l>Ende nam in den aerme sijn</l>
+<l>Rosafiere, dat maghedijn.</l>
+<l>Doe wart sij seer verwaert</l>
+<l n="340">Ende trac haer achterwert</l>
+<l>Ende seide: "Edele coninc fijn,</l>
+<l>Doer Gode, nu hoert naer my.</l>
+<l>Ic gheloefde in g[o]ede[r] trouwen</l>
+<l>Maria, Onser lieve V[rou]wen,</l>
+<l n="345">Den eersten man, die ic soude truwen.</l>
+<l>Her coninc, dat suldi s[cuw]en,</l>
+<l>Dat ic, in waerheden,</l>
+<l>Maria h[ouden] soude suverhede</l>
+<l>Ende suver bliven den eersten nacht.</l>
+<l n="350">Nu bidde ic u, door Maria cracht,</l>
+<l>Ende doer hare reynicheden,</l>
+<l>Laet my volcomen myne bede."</l>
+<l>Die coninc antworde met dien:</l>
+<l>"Doer Maria salt u ghescieden.</l>
+<l n="355">Doen kerde hem omme die coninc,</l>
+<l>Ende sliep met der dinc.</l>
+<l><edition n="505"/>Als dat Rosafier wiste,</l>
+<l>Ghinc sy van den bedde met listen</l>
+<l>Ende doen quam, sonder gheluyt,</l>
+<l n="360">Up dat bedde die scoene bruyt</l>
+<l><milestone unit="fol" n="7v"/> [...............]</l>
+<l>Wie sij [....] eeren [........]</l>
+<l>Dus laghen si, twaren,</l>
+<l>Totten daghe, sonder sparen.</l>
+<l n="365">Als den coninc sach den dach,</l>
+<l>Stont hij op, alsoe hij plach,</l>
+<l>Ende grottese hoghelijke,</l>
+<l>Die vrouwe van Orienten rijcke,,</l>
+<l>Ende sij groettenne die coninc vroeme.</l>
+<l n="370">Nu es hij in die sale comen;</l>
+<l>Hij groette sinder moeder goedertieren.</l>
+<l>Nu hort wat dede Rosafiere.</l>
+<l>Uutten cameren ghinc sij met liesten,</l>
+<l>Dat daer niment van en wijste,</l>
+<l n="375">Ende quam den coninc daer te ghemoete.</l>
+<l>Nu hoert hoe sine grotten:</l>
+<l>"Her coninc", seetsij, "lieve heere,</l>
+<l>God gheve u lachter emmermere;</l>
+<l>Ghij sijt dongetrouste een,</l>
+<l n="380">Die noet sonne ofte mane besceen.</l>
+<l>Waeromme hebdij my ghelaten?</l>
+<l>Hets emmer een swaer sake."</l>
+<l>Al lachende dat hijt verdroech,</l>
+<l>Sijn oghen hij vriendelijc op haer sloech</l>
+<l n="385">"Trouwe lief, gheloeves my,</l>
+<l>Ghen sake en wetic aen dij.</l>
+<l>Ic minne u boven allen vrouwen,</l>
+<l>Al en mocht ic u niet trouwen.</l>
+<l><milestone unit="fol" n="8r"/> Ic salle u selke ghiften gheven,</l>
+<l n="390">Vulmaect lief, alhier ter steden;</l>
+<l>Scoene wijf es een conincrijcke,</l>
+<l><edition n="506"/>Ontfaet dat van my blydelijke."</l>
+<l>Sij sprac: "Her coninc, dit sermoen</l>
+<l>En dorfdy aldus voer mi niet doen;</l>
+<l n="395">Ic segghe u dat, al sonder blijven:</l>
+<l>Ic lach te nacht bij uwer sijden.</l>
+<l>Als dit die coninc hoerden,</l>
+<l>Versuchti metten worde</l>
+<l>Ende sede: "Scoene, wat vraegdij dan?</l>
+<l n="400">Sekerlijc ghij wetet al.</l>
+<l>Wie heeft my ghedaen dese scande?</l>
+<l>Hij en es soe hoeghe in mynen lande,</l>
+<l>Al waert oec mijns selves wijf,</l>
+<l>Sekerlijcke ic nam haer dlijf. "</l>
+<l n="405">Sij riep: "Ghenade, edele man;</l>
+<l>Die scoenste, die nie lijf ghewan.</l>
+<l>Het heeft ghedaen myn suster goede,</l>
+<l>Mijns vaders kint ende mynder moeder;</l>
+<l>Verghevet haer, op rechte minne</l>
+<l n="410">Die wie draghen in onsen sinne."</l>
+<l>Doen soe sprac hij, sonder tsneven</l>
+<l>"Vulmaect lijf het es al vergheven,</l>
+<l>Al hadde sij vele meer mesdaen</l>
+<l>Doer dinen wille, sonder waen."</l>
+<l n="415">Si sede: "Her coninc, dat loen u God,</l>
+<l>Die over allen die werelt heeft ghebot;</l>
+<l><milestone unit="fol" n="8v"/> [N]u bidde ic u op hoveschede,</l>
+<l>[Dat] ghij my doet eene bede.</l>
+<l>[Na]dien dat ic ben vercoeren</l>
+<l n="420">[T]en swaren sonden ende gheboren,</l>
+<l>Ende ics niet en mach ontgaen,</l>
+<l>Soe bidde ic u lijf sonder waen,</l>
+<l>Voert my met ghestade sinne</l>
+<l>Teenen grauwen cloesteren inne,</l>
+<l n="425">Ende laet my draghen ter selver tijt</l>
+<l>Die covele ende dat abijt.</l>
+<l><edition n="507"/>Dat bidde ic u, lieve heere,</l>
+<l>Marien te love, ende thoer eren,</l>
+<l>Dat sij my moet verdinghen</l>
+<l n="430">Ende uutten swaeren sonden brenghen."</l>
+<l>Hij antwoerde haer met dien</l>
+<l>Vrouwe, dat sal u ghescieden."</l>
+<l>Up sijn paert nam hij se met liesten</l>
+<l>Dat daer nienen af en wijste,</l>
+<l n="435">Ende vordese met blijden sinne</l>
+<l>Teenen grauwen cloesteren inne.</l>
+<l>Doen sij in den cloester quam,</l>
+<l>Ende dabdijsse dat vernam,</l>
+<l>Viel sij over haer kniden,</l>
+<l n="440">Ende weende seere met dien</l>
+<l>Ende sprac: "Vrouwe, om Onsen Heere,</l>
+<l>Die hem liet pinen herde seere,</l>
+<l>Ende doer ons sterf die bittere doot,</l>
+<l><milestone unit="fol" n="9r"/> Gheeft my clederen ende broot,</l>
+<l n="445">Alsoe [lang]he als ic sal l[even]."</l>
+<l>Dabdijsse sprac: "Men salt u ghev[en],</l>
+<l>Ende doer den coninc, die hier staet,</l>
+<l>Die sal u gheven goeden raet."</l>
+<l>Doen bracht men haer ter selver tijt</l>
+<l n="450">Die covele ende dat abijt.</l>
+<l>Nu hoort wat die coninc d[e]de,</l>
+<l>Hij gaf haer ter selver steeden</l>
+<l>Den closteren x dusentich po[nt]</l>
+<l>Doer die minne van haer, sij [on]s cont.</l>
+<l n="455">Hij sede: "Scoen lief, ende vrie,</l>
+<l>Allen daghe com ic te die,</l>
+<l>Ende tr[oste] dij van uwen rouwe."</l>
+<l>[Si] weende seere, d[ie jonc]vrouwe,</l>
+<l>[Ende] sprac te hem, sonder tsneven</l>
+<l n="460">"[Al]dus, lief, en mocht ic niet lev[en],</l>
+<l>Ende en seeg[t m]ynder suster niet</l>
+<l><edition n="508"/>Mynen rouwe ende myn verdriet."</l>
+<l>Hij sede: "Lijf, wel scoene kint,</l>
+<l>Soe wair ic herde seere verble[n]t."</l>
+<l n="465">Doen nam hij orlof aen haer</l>
+<l>Ende en reet wech, sonder sparen.</l>
+<l>Doen quam teghen hem die coninghinne</l>
+<l>Ende groettene met blijden sinne.</l>
+<l>Doen sprac si: "Her coninc, ter steden</l>
+<l n="470">Uwen orlof willic nemen;</l>
+<l><milestone unit="fol" n="9v"/> [Mij]nder s[u]ster willic soek[en] gaen;</l>
+<l>[Met rouwen e]s hair hertte [bevaen],</l>
+<l>[Si dog]het wel, sy es uut haren sinne,</l>
+<l>Edele coninc, doer u minne."</l>
+<l n="475">Doe dit hoerde d[ie] edele heere</l>
+<l>"[Vr]ouwe", set hij "dese tale en segt niet mere."</l>
+<l>Doen sweech die vrouwe goedertieren.</l>
+<l>[Nu] keeric weder tot Rosafiere,</l>
+<l>[D]ie in den cloestere was ghedaen.</l>
+<l n="480">[Vore] dabdisse ghinc si staen</l>
+<l parse="ignore">[...]at aldaer tersteden</l>
+<l parse="ignore">"[....]en [am]bacht [sul]di mi gheven."</l>
+<l parse="ignore">"Wat am[bacht ... wil]di hebben?"</l>
+<l parse="ignore">[Dab]disse [en] willet haer n[iet] ontsegghen.</l>
+<l parse="ignore" n="485">W[..] sij, "voer d[ie] porte willic s[aen]</l>
+<l parse="ignore">Dit am[bacht] willic aengaen;</l>
+<l>[Ic] ben haerde goet van [..] uwe [..]</l>
+<l>[Ic] nam waken sc[...] ende vr[....]</l>
+<l>Die porte sal ic wel wachten,</l>
+<l n="490">Beede [bi] daghe ende bij nachten.</l>
+<l>[Te]r porten sal ic wesen snel</l>
+<l>[Ende] laten niement in, en kennen wel."</l>
+<l>[Doe] antworde die abdisse met desen</l>
+<l>"Dit ambacht sal ic u gheven."</l>
+<l n="495">Doen ghinc sij ter porten waert</l>
+<l>Met bitteren tranen onghespaert.</l>
+<l><edition n="509"/>Daer stont sij woer VII jaer,</l>
+<l>Dat segghic u overwaer.</l>
+<l parse="ignore">Dit dede sij algader.</l>
+<l parse="ignore" n="500">[...............]</l>
+<l parse="ignore"><milestone unit="fol" n="10r"/> Ende waende haer ooghen [...]</l>
+<l parse="ignore">Ontgaen, maer lacen neen si niet.</l>
+<l>Si wasser seker tuwe gheboren.</l>
+<l>Nu suldi van haren vader hoeren</l>
+<l n="505">Hi hadde gheleghen in swader pinen</l>
+<l>Jeghen die felle Sarasinen</l>
+<l>Om te wrekene dat soete bloet,</l>
+<l>Dat doer ons aen cruce stont,</l>
+<l>Ende es te lande comen,</l>
+<l n="510">Ende heeft die waerheyt al vernoemen</l>
+<l>Dat sijn dochter in den cloester es ghedaen</l>
+<l>Ende heeft die waerheijt al verstaen.</l>
+<l>Doen swoer hij met sterken moede,</l>
+<l>Want hem was wee te moede,</l>
+<l n="515">Dat hij soude, lude ende stille,</l>
+<l>Met haer doen sinen wille.</l>
+<l>Hij quam dicke te cloestere ghereden</l>
+<l>Voer die porte, up ende neder.</l>
+<l>Sij kendene utermaeten wel,</l>
+<l n="520">Maer sij sloet die porte snel,</l>
+<l>Ende en woudene niet enlaten;</l>
+<l>Dat was hem een droefve sake.</l>
+<l>Hij quam ghereden met groeter cracht</l>
+<l>Tusschen dach ende nacht.</l>
+<l n="525">In den derden dach van Meye</l>
+<l>Voer den cloesteren in een valleye,</l>
+<l><milestone unit="fol" n="10v"/> [...............]</l>
+<l>[...............]</l>
+<l>[Die] sede: "Vrient, waer w[ildi] waren,</l>
+<l n="530">In desen nacht, al sonder sparen?</l>
+<l>Hier es menich mordenaer int wout,</l>
+<l><edition n="510"/>Al waerdi noch alsoe stout,</l>
+<l>Ghij en mocht int riden noch ontgaen."</l>
+<l>Doe antworde die boesse saen:</l>
+<l n="535">"Wildi mi gheven, sonder blijf;</l>
+<l>U siele ende u lijf,</l>
+<l>Ic sal u hulpen, ridder vroeme,</l>
+<l>Dat ghij in den clostere sult comen."</l>
+<l>Nu hoert wat dede die kettijf:</l>
+<l n="540">Hij gaf op siele ende lijf</l>
+<l>Den viant op die selve stat</l>
+<l>Om een soende, dien groeten scat.</l>
+<l>Doe sciep hij hen beijden in twee nonnen</l>
+<l>Haestelijcke ter dien stonden,</l>
+<l n="545">Ende hij ghinc al onghespaert</l>
+<l>Met haren vaderen ten cloester waert.</l>
+<l>Doen liet haer Rosafiere gheleiden</l>
+<l>Voer eene venstere ter dien tijde</l>
+<l>Ende waende twee nonnen hebben ghesien</l>
+<l n="550">Van haeren cloesteren met dien.</l>
+<l>Doen liet sij inne die felle gasten</l>
+<l>Ende sloet die porte waste.</l>
+<l parse="ignore">Den quaden gheest ende haren waderen</l>
+<l parse="ignore"><milestone unit="fol" n="11"/> [..........] noch al gare</l>
+<l n="555">Nu hoert wat die duvel dede.</l>
+<l>Hij leedde haren vader ter stede,</l>
+<l>Daer Rosafiere te sclapene plach,</l>
+<l>Alsoe haer ordene was.</l>
+<l>Doen ghinc hi, al sonder letten,</l>
+<l n="560">Hemselven up dat bedde strecken.</l>
+<l parse="ignore">Die quaden gheest sciet van daer,</l>
+<l parse="ignore">Hi en mochte hare doen cleene blame,</l>
+<l>Aen haer en hadde hij ghen macht,</l>
+<l>Hij moeste rumen met grooter cracht.</l>
+<l n="565">Ons seit die Heileghe Gheest,</l>
+<l>Dat ons trost es aldermeest,</l>
+<l parse="ignore"><edition n="511"/>Dat gheen kint ghewonnen en mach wesen,</l>
+<l>In wat sonden dat sij,</l>
+<l>Gods gratie moeter wesen bij.</l>
+<l n="570">Nu hoert wat dede die scoene smale</l>
+<l>Sij las haer ghetijdene wale;</l>
+<l>Voer Maria ghijnc sij staen,</l>
+<l>Dat segghe ic u al sonder waen,</l>
+<l>Ende knielde oetmoedelijcke</l>
+<l n="575">Voer Maria van hemelrijcke</l>
+<l>Ende rieppe: "Ghenade, Vrouwe" metdien</l>
+<l>Mijn hertte wilt mi ontvlieen."</l>
+<l>Sij riep: "Ghenade, wolle vloet;</l>
+<l>Sint dat ic in die capelle stoet,</l>
+<l n="580">My en was noet soe wee.</l>
+<l>Hadde myn hertte moghen breken ontwee</l>
+<l><milestone unit="fol" n="11v"/> Als tuwe op [deser uere]</l>
+<l>Moeder ende maghet pu[ere],</l>
+<l>Wat sal my nu[w]e ghescien</l>
+<l n="585">Myn hertte wijlt my nu ontflien."</l>
+<l>Sij rieppe: "Ghenade, edele Vrouwe,</l>
+<l>Slaet u oghen op mynen rouwe;</l>
+<l>Ic bidde u, doer dieselve wee,</l>
+<l>Die ghi claghet an Salomee,</l>
+<l n="590">Dat ghij my hulpt op dese tijt,</l>
+<l>Want ghij moeder ende maghet sijt."</l>
+<l>Doen seide sij: "Salve Regina"</l>
+<l>Met dien sciet sij van daer</l>
+<l>Met [ve]le bitteren rouwe,</l>
+<l n="595">Rosafiere, die scone vrouwe.</l>
+<l>Doen ghinc sij, sijt seker das,</l>
+<l>Daer sij altoes te slapene plach,</l>
+<l>Ende bat haerde vriendelijcke</l>
+<l><edition n="512"/>Der fonteynen van hemelricke:</l>
+<l n="600">"Nu moet dij mijn troester wesen."</l>
+<l>Hair wader stont aen haer met desen,</l>
+<l>Die te haer was herde fel.</l>
+<l>Bi den aedem kendene sij hem wel.</l>
+<l parse="ignore">Doen riep sij: "Lieve wader,</l>
+<l parse="ignore" n="605">Onser beede hebt ghij ghenade;</l>
+<l parse="ignore">Ghij wilt ons bringhen in sware plaghen.</l>
+<l parse="ignore">Om Gode, laet deser sonden ave;</l>
+<l parse="ignore">Ghij sijt mijn wader, ic ben u kint.</l>
+<l parse="ignore">Nu laet ons deser sonden ghedenken</l>
+<l n="610">Ende penst om die moerderlijcke trouwe,</l>
+<l>Die Maria, Ons Vrouwe,</l>
+<l><milestone unit="fol" n="12"/> [...............]</l>
+<l>[...............]</l>
+<l>Dadi die sonden in desen stonden</l>
+<l n="615">Ghij jacht die siele ter hellen gronde.</l>
+<l>Wat sij sprac ofte riep</l>
+<l>En mocht haer al hulpen niet.</l>
+<l>Daer wan hij al sonder sparen,</l>
+<l>Een kint in der nacht aen haere.</l>
+<l n="620">Nu mach sij wel lien,</l>
+<l>Dat verwlt es die profesie,</l>
+<l>Die van hare was gheseet.</l>
+<l>Dies dref sij groote jamerheyt,</l>
+<l>Ende sij riep: "Onsalege name",</l>
+<l n="625">Sprac Rosafiere, die scoene smale.</l>
+<l parse="ignore">Doen sach sij den dach verclaren</l>
+<l parse="ignore">Dat dede natuere die dwanc.</l>
+<l>Den wader nam sy bi der hant</l>
+<l>Ende sede haeren wadere tehant</l>
+<l parse="ignore" n="630">Ende leidde met der waert.</l>
+<l>Doen nam sij hair rechte hant</l>
+<l>Ende sede haeren wader te hant,</l>
+<l>Ende seide: "God, dor uwe oetmoet,</l>
+<l><edition n="513"/>Die ant cruce storte sijn bloet</l>
+<l n="635">Ende ontfinc meneghe wonde,</l>
+<l>Ontfermt u my miere sonden.</l>
+<l parse="ignore">Doen quam die coninc ghereden</l>
+<l parse="ignore">Ende riep lude: "Ontdoet, ontdoet!"</l>
+<l parse="ignore">Ter porten quam sij duwe</l>
+<l parse="ignore" n="640"><milestone unit="fol" n="12v"/> [...............]</l>
+<l parse="ignore">Therte waen haer ontlijden,</l>
+<l>In ommacht dat sij nedersloech.</l>
+<l>Daer doghede sij pine ende onghewoech,</l>
+<l>Doen bette sij neder ter eerden.</l>
+<l n="645">Nu hoert van den coninc werde,</l>
+<l>"O lief", seet hij, "edele figuere,</l>
+<l>Sprect teghen my te deser ure,</l>
+<l>Ende en sprecti niet, ic blive doot,</l>
+<l>Soete lief, in deser noot.</l>
+<l n="650">Heeft u iement iet mesdaen?</l>
+<l>Segt my dat, al sonder waen,</l>
+<l>Want ic en machs niet langher vieren,</l>
+<l>Ic moete weten herde sciere.</l>
+<l>Nu segt my, vriedele wijf;</l>
+<l n="655">En sprectij niet, het cost my dlijf.</l>
+<l>Ic sal my strecken bij uwer sijden,</l>
+<l>Dan sullen wij te gader ghelijden,</l>
+<l>Dan sullen wij varen, dies sij wijs</l>
+<l>In dat soete Paradijs.</l>
+<l n="660">Daer sullen wij bliven sonder rouwe."</l>
+<l>Doen antworde die joncvrouwe,</l>
+<l>Ende becomen van der ommacht</l>
+<l>Daer sij voer den coninc lach:</l>
+<l>"Scoen lief", seet sij,</l>
+<l n="665">En segt niet meer macht te my,</l>
+<l>Mynen maghedoem es verloeren,</l>
+<l>Dies heb ic rouwe ende toeren.</l>
+<l><milestone unit="fol" n="13r"/> [...............]</l>
+<l><edition n="514"/>Be[.....]n eender[......]per[...]</l>
+<l n="670">[..............]wel</l>
+<l>Du[...]te[..] es [.....] ende te snel.</l>
+<l>Her coninc, doet my eene bede</l>
+<l>Up trouwe ende op edelheijde:</l>
+<l parse="ignore">Jonitas, dat scoene joncheere,</l>
+<l parse="ignore" n="675">En bidde u dan [.....] nemmermere.</l>
+<l parse="ignore">O scone lief ende vrij</l>
+<l parse="ignore">Updat die bede we[......]</l>
+<l>Ende ic niet en [.......]</l>
+<l>Soe wort u [............]</l>
+<l parse="ignore" n="680">Die bede mach [.......] sijn</l>
+<l parse="ignore">Edele vrouwe ende fijn,</l>
+<l>En dat se niet om allen goet</l>
+<l>Dat comt uuter seen vloet."</l>
+<l>Doen sede sij: "Edele conic stout,</l>
+<l n="685">Voert my buten in dat wout,</l>
+<l>Ende set my te middewaert,</l>
+<l>Dies bidde ic u al onghespaert;</l>
+<l>Dan sal ic sijn te ghemake.</l>
+<l>Ic vergheve u sonden ende sake,</l>
+<l n="690">De dieren sullen my hebben saen verbeten</l>
+<l>Metten tanden, ende gheten,</l>
+<l>Dan en sal niement, sonder sparen,</l>
+<l>Weten waer ic ben ghevaren."</l>
+<l>"Laet staen die tale, edele wijf,</l>
+<l n="695">Ic name my selver liever dlijf.</l>
+<l><milestone unit="fol" n="13"/> Troest u lijf op Onser Vrouwen,</l>
+<l>Die sal u altoes sijn ghetruwe,</l>
+<l>Ende sij en sal u niet begheven</l>
+<l>Doer haer groote ontfermicheiden,</l>
+<l n="700">Ende als ghij, lieve vriendinne,</l>
+<l>Hier niet langher en moghes sijn inne,</l>
+<l>Dan segt my hoe met u staet.</l>
+<l>Ic sal u gheven raet;</l>
+<l><edition n="515"/>Ic sal u voeren in vremden landen</l>
+<l n="705">Daer suldij bliven sonder scande.</l>
+<l parse="ignore">"Ic wille my [t]rosten [......] man</l>
+<l parse="ignore">Ende met Maria overal;</l>
+<l>En segt mynder suster niet myn elende,</l>
+<l>Waerwert dat ic my bewende."</l>
+<l n="710">Doen reet die coninc onghespaert</l>
+<l>Droeffelijcke tuuswaert.</l>
+<l>Doen quam teghen hem die coninghinne,</l>
+<l>Die hovesch was ende vroet van sinne.</l>
+<l>In elleke hant brocht sy een kint</l>
+<l n="715">Ende sede: "Willecome, edele coninc</l>
+<l>Metten derden ghinc sij swaer,</l>
+<l>Want sij en ghinc niet langhe daernaer</l>
+<l>Doen sede sij: "Edele coninc,</l>
+<l>Gheeft my orlof ende mijn kint,</l>
+<l n="720">Want ic moet, sonder waen,</l>
+<l>Mynder suster soeken gaen,</l>
+<l parse="ignore">Die in swaeren elenden sijn</l>
+<l parse="ignore"><milestone unit="fol" n="14r"/> [...............]</l>
+<l>Ontfermt der vruch in mynen lichame.</l>
+<l n="725">Comter af u eyneghe blame,</l>
+<l>Vrouwe, het soude u costen dlijf."</l>
+<l>Doen soe swech dat edele wijf,</l>
+<l>Die hovesche was ende goedertieren.</l>
+<l>Nu hoort weder te Rosafiere.</l>
+<l n="730">Si diende altoos ghetruwelicke</l>
+<l>Der moeder Gods van hemelricke,</l>
+<l>Dat si se moeste verdinghen</l>
+<l>Ende uutten swaren sonden brenghen.</l>
+<l>Ende allen daghe reet die coninc</l>
+<l n="735">Ende troeste dat scoene kint;</l>
+<l>Ende alse die coninc wiste, sonder waen,</l>
+<l>Dat sij bijna hadde volgegaen,</l>
+<l>Alsoo hij hem hadde gheseet,</l>
+<l><edition n="516"/>Ghinc die coninc wel ghemeit</l>
+<l n="740">Ende sat op een dier ghesneden</l>
+<l>Ten cloester waert voude hij riden</l>
+<l>Ende nam over hem met ghewout</l>
+<l>Beede silver ende gout.</l>
+<l>Dat was op derden dach van Meye</l>
+<l n="745">Quam hij ghereden in een valleye</l>
+<l>Voer den colosteren alsoe saen.</l>
+<l>Die porte heeft hij wijde ontdaen.</l>
+<l>Doen groetten sij den coninc rijcke</l>
+<l><milestone unit="fol" n="14v"/> Ende hij haer vriendelijcke.</l>
+<l>"Nu segt my, lief, hoet met u staet,</l>
+<l>Ic sal u gheven goeden raet.</l>
+<l>Hoert, lief, ic doen u ghewach,</l>
+<l>Blivic hier noch eenen dach,</l>
+<l>Sij sullent allen werden ghewaer</l>
+<l n="755">Van den cloesteren haer ende daer;</l>
+<l>Hier es myn paert ende mijn ghesijnde,</l>
+<l>Wij sullen te gader henen rijden.</l>
+<l>Sij seide: "Her coninc, bij mynder trouwen,</l>
+<l>Ic wille gaen dienen Onser Vrouwen."</l>
+<l n="760">Ende sij riep ontfermelijcke</l>
+<l>"O fonteijne van hemelrijcke,</l>
+<l>Nu soe moet ic van u sceeden</l>
+<l>My en ghescie noet soe leide.</l>
+<l>Ic moet dolen, en wet hoe naer</l>
+<l n="765">Achter landen, ic en wet waer.</l>
+<l>Wat sal ic doen, allendich wijf,</l>
+<l>Dat ic noet ontfinc lijf</l>
+<l>Hoe sal ic my ter werlet setten?</l>
+<l>Sij es soe vol quader trecken,</l>
+<l n="770">Die draghic in myn hertte verdriet."</l>
+<l>Die conic sprac: "Volmaec lijf,</l>
+<l>Maria en sals u niet afgaen,</l>
+<l>Ende ic sal vriendelijcke u bijstaen.</l>
+<l><edition n="517"/>My en rout myns lievens niet,</l>
+<l n="775">Ic ville doen, lijf, dat ghij ghebijt</l>
+<l parse="ignore"><milestone unit="fol" n="15r"/> [...............]</l>
+<l parse="ignore">[...... d]oet my een bede."</l>
+<l>"Her [c]oninc," setsy, "wat myns ghesciet,</l>
+<l>En hebbe u te gheven niet."</l>
+<l parse="ignore" n="780">Die coninc sprac aldaer ter steden</l>
+<l parse="ignore">"Al hadde ghij, lijf, [......] heden</l>
+<l>Diere lijf en begher ic [n]iet,</l>
+<l>Mijn herte doghet swaer verdriet,</l>
+<l>Maer ic bidde u, scoene smale,</l>
+<l n="785">Tghelt dat ghij went met uwen lichaem[e],</l>
+<l>Dat ghijt niet en sult verteren,</l>
+<l>Maer ghevet dor die moeder Ons H[eren],</l>
+<l>Dat sij u moet verdinghen</l>
+<l>Ende ter hoogher blijsscap bringhen.</l>
+<l n="790">Ic sal u alsoe wele gheven,</l>
+<l>Ghij sult er VII jaer af lieven.</l>
+<l>Al soudic van hongher bliven doot,</l>
+<l>En sal u laten in ghender noet.</l>
+<l>Hovesch lief ende vrie,</l>
+<l n="795">Ic sal hier oec comen te dien</l>
+<l>Telker maent, scoene joncvrouwe,</l>
+<l>[Ende tro]osten u bij goeder trouwen.</l>
+<l>[Ic] soude van rouwe blijven doot."</l>
+<l>"Ghy so[ut m]y bringhen in sulker noot,</l>
+<l n="800">Maer als die VII jaer sijn leden,</l>
+<l>Suldij co[men] hier ter steeden</l>
+<l><milestone unit="fol" n="15v"/> [...............]</l>
+<l>[...............]</l>
+<l>[...............]</l>
+<l n="805">[..............] u ghescieden</l>
+<l>[..............] niet om besien</l>
+<l>[...] sal [.........] doen soe[...]</l>
+<l>Hij gaf h[aer] selver ende gout</l>
+<l><edition n="518"/>Ende cleederen menichfout;</l>
+<l n="810">Hadde sij ghewilt, overwaer,</l>
+<l>Sij hadder of gheliev[et] VII jaer.</l>
+<l parse="ignore">Sij sp[raken] menich soete wort</l>
+<l parse="ignore">[.............daer]tuwe behort</l>
+<l parse="ignore">[...............] spreken</l>
+<l parse="ignore" n="815">[Den coninc] dochte, therte soude hem breken.</l>
+<l>Doen reet die coninc tuswaert,</l>
+<l>Sijn hertte was hem seere beswaert,</l>
+<l>En hadde die moeder Gods ghedaen,</l>
+<l>Hij hadde verdoelt gat, sonder waen,</l>
+<l n="820">Mer dinghel van den Paradijs[e]</l>
+<l>Moeste hem den wech wijsen</l>
+<l>Rech tot dat hij thuus quam.</l>
+<l>Sine vrouwe dat hij vernam;</l>
+<l>Doen custen sine aen sinen mont</l>
+<l n="825">Vriendelijcke aldaer terstont.</l>
+<l>Doen sede sij: "Coninc, edele here,</l>
+<l>Vaerom droefdij aldus seere?</l>
+<l>Ghij hebt al ander dinc</l>
+<l><milestone unit="fol" n="16r"/> Int hertte dan ic weet, edel coninc.</l>
+<l n="830">Gheeft my orlof, maecht ghesc[ien],</l>
+<l>Met mynen kinderen allen drie</l>
+<l>Mynder suster moet ic soeken gaen,</l>
+<l>Haer doghen gaet my al te naer."</l>
+<l>Doen sprac die coninc, die edele heere:</l>
+<l n="835">"Vrouwe, dese tale en segt niet mere."</l>
+<l>Doen swech die vrouw goedertieren,</l>
+<l>Nu keric weder to Rosafiere,</l>
+<l>Die buten vech was ghegaen.</l>
+<l>Haer doghen suldij nuue verstaen;</l>
+<l n="840">Sij riep: "Sone ende Wader,</l>
+<l>Ende Heylege Ghest algader,</l>
+<l>Wat sal ic nuue bestaen?</l>
+<l>Ter quader werlet moet ic gaen.</l>
+<l><edition n="519"/>Wat sal ic doen, aerme kettive?</l>
+<l n="845">Troest my nu van den lijve</l>
+<l>Doer u groote ontfermicheit!</l>
+<l>Een jonghelijnc quam daer ter steden</l>
+<l>Up een ors van stercker lede.</l>
+<l>Nu mochdij hoeren wat hij sede:</l>
+<l n="850">Hi sede: "Troest u, scoene joncvrouwe,</l>
+<l>In desen doghene, in desen rouwe!</l>
+<l>Ghij s[ult] myn vriendinne bliven</l>
+<l>Totten ende van dinen lijvve."</l>
+<l>Sij sede: "Wat dat myns ghesciet,</l>
+<l n="855">Uwen [am]ye en blivic niet,</l>
+<l>Maer en verbiede u, lude noch stille,</l>
+<l><milestone unit="fol" n="16v"/> Met my te doende allen uwen wille."</l>
+<l>[Dit] was dierste dat sij misdede</l>
+<l>Buten wineghem, dats die waerheyde.</l>
+<l n="860">Doen ghinc haer, sonder letten,</l>
+<l>In die quade werelt setten,</l>
+<l>Ende waert dat quaeste wijf</l>
+<l>Die nie ontfinc van moeder dlijf.</l>
+<l>Haer eeden waren soe groot,</l>
+<l n="865">Ende dicke swoer sij Gods bloet</l>
+<l parse="ignore">An den cruce, daer hij stont,</l>
+<l parse="ignore">Daer hij ons allen gaf sijn bloet.</l>
+<l parse="ignore">Ghelt, daer sij op soude hebben ghelevet VII jaer,</l>
+<l parse="ignore">Dat hadde sij in seven weken verdaen.</l>
+<l n="870">Allen, dat haer die coninc seede,</l>
+<l>Hadde sij vergheten, in waerheiden.</l>
+<l>Si en achte op God, groet noch clene,</l>
+<l>Maer emmer diende sij die maghet reijne</l>
+<l>Der fonteyne van hemelricke</l>
+<l n="875">Dat si se niet en moeste beswijken.</l>
+<l>Daer soe ghinc sy, overwaer,</l>
+<l>In swaeren sonden VII jaer,</l>
+<l>Niet wele men, niet vele meere.</l>
+<l><edition n="520"/>Nu suldij hoeren van den heere</l>
+<l n="880">Die bij synder vrouwen was gheleghen,</l>
+<l>Alsoe hij dicwille dede.</l>
+<l>Sinen aerm sloech hij over h[are]</l>
+<l>Ende sede: "Scoene smale,</l>
+<l><milestone unit="fol" n="17r"/> Morghen moet ic onghespaert</l>
+<l n="885">Waren te Sinte J[aco]p waert."</l>
+<l>Doen sprac die [e]dele vrouwe:</l>
+<l>"O coninc g[oet ende] ghetruwe,</l>
+<l>So moet ic waren bij uwer sijden,</l>
+<l>Binnen den muren (?) en willic niet bliven."</l>
+<l n="890">"Edele vrouwe, ghij hebt onrecht,</l>
+<l>Met my en sal waren man no knecht."</l>
+<l>Dus laghen sij totten daghe</l>
+<l>Onder hen beiden met groten claghen.</l>
+<l>Als die coninc sach den dach,</l>
+<l n="895">Stont hij op, allen dat hij mach.</l>
+<l>Doen ontboet die coninc goede</l>
+<l>Beijde wader ende moeder.</l>
+<l>Hij sede: "Wader, bewaert myn kint,</l>
+<l>Het es u herde wel becant;</l>
+<l n="900">Ende ghij, moeder, bewaert myn wijf,</l>
+<l>Ghelijc u selves lijf,</l>
+<l>Ende myn kinderen allen drie,"</l>
+<l>Op sijn paert sat hij met dien,</l>
+<l>Ende allen dat volc van den lande</l>
+<l n="905">Hadde rouwe ende vranc sijn handen</l>
+<l>Ende [re]den metten coninc, twaren,</l>
+<l>Tot dat sij quamen aen sijn palen.</l>
+<l>Doen dese wederkeeren,</l>
+<l>Die coninc ende die eedele heere,</l>
+<l n="910">Ende nam allene die waert</l>
+<l>Te Sente Jacop in Galissie waert,</l>
+<l><milestone unit="fol" n="17v"/> [Ende] als die coninc s[ach]</l>
+<l>Dat men niet meer s[ien] en mach,</l>
+<l><edition n="521"/>Doen liet hij die w[ae]rt</l>
+<l n="915">TSintte Jacop [waert]</l>
+<l>Ende voer ter steden, daer hij se liet;</l>
+<l>Dat en woude hij laten niet.</l>
+<l>Ende als hij ter stat quam</l>
+<l>Ende hij se daer niet en vernam,</l>
+<l n="920">Doen soe maecti jamer groot</l>
+<l>Ende seide: "Lief, sijdij in u sonden doot,</l>
+<l>Dats groete jamerheijde.</l>
+<l>Ende wende seer ter steden</l>
+<l>Ende sede:"Eynich quaet meensche, sonder blijf,</l>
+<l n="925">Sal u hebben ghenoemen dlijf.</l>
+<l>Constic uwen licham vinden,</l>
+<l>Seker ic souden ter eerden brenghen</l>
+<l>Ende bidden over dij</l>
+<l>Ende uwer sielen ghehulpich sijn."</l>
+<l n="930">Doen dede die coninc, sonder leten,</l>
+<l>Over in Venegen setten</l>
+<l>Om te soekene die scoene figuere.</l>
+<l>Soe langhe reet hij die stat duere,</l>
+<l>Daer sij voer eenen kelder sat</l>
+<l n="935">Met VII putiers, ende at.</l>
+<l parse="ignore">Nu verstaet my herde wel,</l>
+<l parse="ignore">Metten terlinghen oppenbaer</l>
+<l parse="ignore">Werp sij die cansse, verstaet my wale.</l>
+<l>Haer overste cleet hadde sy uutghereet</l>
+<l n="940">Ende teender canssen bijgheseet</l>
+<l parse="ignore"><milestone unit="fol" n="18r"/> [...] coninc [.............]</l>
+<l>Doen hief hij op sijn hant,</l>
+<l>Ende sede hem te hant,</l>
+<l>Ende seide: "God, hemelsche wader,</l>
+<l n="945">Waerom onwerpt haer die mensche algader?</l>
+<l>Waertoue es dese joncvrouwe comen?</l>
+<l>Sij en hadde niet eenen eet in haer ghenoemen</l>
+<l>Over X jaer om een conincrijcke;</l>
+<l><edition n="522"/>Sij swersse nu om een mite.</l>
+<l n="950">Mochtic in den kelder comen,</l>
+<l>M[aer] ic duchte, het soude my lettel vroemen.</l>
+<l>Haer gheselcap es so fel,</l>
+<l>Sij souden mij doeden, dat wetic wel."</l>
+<l>Met desen heeft sy hem ghesien,</l>
+<l n="955">Ende quam op die strate met dien,</l>
+<l>Ende begonste wast te houdene</l>
+<l>Bi den breydel, fijn van goude,</l>
+<l>[Ende] seide: "Coninc, ic cenne u wel,</l>
+<l>Al ben ic quaet ende fel;</l>
+<l n="960">Maer die trouwe, sonder waen,</l>
+<l>Die ghij mi dicke hebt ghedaen,</l>
+<l>Soe willic van u scouwen, heere;</l>
+<l>Waert vech ende blijf in u eere.</l>
+<l>Myn ghesellen sijn soe fel,</l>
+<l n="965">Heere, ghij en sijt hier niet wel;</l>
+<l>Ic ben een dat quaeste wijf,</l>
+<l>Die nie ontfinc van moeder dlijf</l>
+<l><milestone unit="fol" n="18v"/> [...............]</l>
+<l>[...............]</l>
+<l n="970">Soud[e ic] langhe bij u [staen],</l>
+<l>Letter ere soudi van mi ontfaen.</l>
+<l>Vaert wech, blijft in u eere;</l>
+<l>Te mynen ghesellen willic keren."</l>
+<l>Hi antworde van haren g[as]te</l>
+<l n="975">Ende sprac, al sonder raste</l>
+<l>"Al stontdi xx daghe bij my,</l>
+<l>Edele lief ende vrij,</l>
+<l>Ghene scande en soude ic ontfaen,</l>
+<l>Scoene lijf al sonder waen."</l>
+<l n="980">Doen nam hij haer hant al metter [spo]et</l>
+<l>Ende dwansse, dat er bloet</l>
+<l>Te haeren naghele uut woet.</l>
+<l>"Saghent myn ghesellen, heere, ghi waert d[oot];</l>
+<l parse="ignore"><edition n="523"/>Vaert vech, het es u eere groet."</l>
+<l n="985">"Segt my dan, lyf, hoe met u staet</l>
+<l>Ic sal u gheven goeden raet.</l>
+<l>God heeft sin aermen ontdaen,</l>
+<l>Hij sal u vriendelijc ontfaen</l>
+<l>Ende sal u vergheven uwe sonden</l>
+<l n="990">Ende toghen u sijn opene wonden."</l>
+<l>Doen begonste sij te lachene zeere</l>
+<l>Ende sede: "Swijcht, lieve heere;</l>
+<l>Sage ic ghender, sonder leetten,</l>
+<l>Eene scoene tafele sette[n],</l>
+<l n="995">Daeraf soude ic wesen blijde,</l>
+<l>Ende IJc terlinghen te selven tijde</l>
+<l n="1048"><milestone unit="fol" n="20(19)r"/> Alse die me[sse was ghedaen],</l>
+<l>Voer Marien moeti gaen</l>
+<l n="1050">Ende bidden ghetrouwelicke</l>
+<l><edition n="525"/>Der moeder Gods van hemelricke</l>
+<l>Dat sij my doen verstaen</l>
+<l>Hoet met my sal vergaen,</l>
+<l>Ic en ben niet alsoe stout.</l>
+<l n="1055">Dies droef ic menichwout</l>
+<l>Dat ic voer haer derre gaen;</l>
+<l>Haer suverheyt es soe claer</l>
+<l>Ende myn senden sijn soe groet.</l>
+<l>Edele coninc ende ghenoot,</l>
+<l n="1060">Ic soude my scamen al te zere</l>
+<l>Te gaene voer die maghet reine;</l>
+<l>Hovesch lijf ende vrij,</l>
+<l>Sij sal u bat hoeren dan mij.</l>
+<l>Sij es wolmaect ende goet,</l>
+<l n="1065">Gaen wij te gadere metter spoot.</l>
+<l>Sij es moeder ende maghet bleven</l>
+<l>Doer die sonden, dats vergheven."</l>
+<l>Hij heefse bij der hant ghenoemen,</l>
+<l>Ende sijn voer Maria comen</l>
+<l n="1070">Ende vielen over hare kniden,</l>
+<l>Ende leiden hare handen te gader met dien.</l>
+<l parse="ignore">Sij riep: "Ghe[na]d[e, mo]eder Ons Heeren</l>
+<l parse="ignore">Nu moett[i ............ k]eeren</l>
+<l parse="ignore">[...............]ren</l>
+<l parse="ignore" n="1075"><milestone unit="fol" n="20(19)v"/> Moeder Gods werdi vercoren,</l>
+<l parse="ignore">Wij bidden u doer die bitter wee,</l>
+<l>Die ghij claghet an Solome,</l>
+<l>Ontfermt ons, Rosa bloeme!</l>
+<l parse="ignore">Up uwen trost ben ic her comen."</l>
+<l n="1080">Sij begonsten seer te kaermen.</l>
+<l>Der moeder Gods begonste tonfermen</l>
+<l>Ende liet haer dalen daer ter steden</l>
+<l>Met eender groeter claerhede.</l>
+<l>"W[e]llecome", seet sij, "soene mijn,</l>
+<l n="1085">Saleghe moeder sal ic u sijn;</l>
+<l><edition n="526"/>Ghij hebt goed middelaer ghewest,</l>
+<l>Van sonden sijt ghij ghenesen</l>
+<l>Ende uwen lief sijn vergheven</l>
+<l>Haer sonden alhier ter steden.</l>
+<l n="1090">Siet, soene, sonder waen,</l>
+<l>Wat ic doer u hebbe ghedaen.</l>
+<l>Ic hebbe voer die portte ghestaen</l>
+<l>Ende heb se gheloeken ende ontdaen,</l>
+<l parse="ignore">Dat daer niement af [.....] sinne,</l>
+<l parse="ignore" n="1095">Sij en was altoes te[n cloesteren] binnen</l>
+<l>Dat es voer dij, lieve [kin]t!</l>
+<l>Met hertten heb ic u g[hem]int,</l>
+<l parse="ignore">Rosafieren, sij [..] voer [......]</l>
+<l parse="ignore">Haer sonden in [...........]</l>
+<l parse="ignore" n="1100">Morghen sal sij o[ntfaen]</l>
+<l parse="ignore" n="997"><milestone unit="fol" n="19(20)r"/> Ic ken se bat dan ymen el;</l>
+<l>Sij es hovesch ende velgheraect</l>
+<l>Ende in allen duechden volmaect.</l>
+<l n="1000">Oec sal sij morghen, sonder waen,</l>
+<l>Dat abatscap ontfaen.</l>
+<l>Haer soete lijf es hier ontboden,</l>
+<l>Dat hij ter festen soude comen,</l>
+<l>Ende oec sijn goede wijf,</l>
+<l n="1005">Ende sijn kinderen, sonder blijf,</l>
+<l>Ende oec sijn wader ende sijn moeder;</l>
+<l>Die waerheyt maec ic u vroeder,</l>
+<l>Ende oec heeft sij, overwaer,</l>
+<l>Porttersse ghewest VII jaer.</l>
+<l n="1010">Alse die coninc dat hadde verstaen,</l>
+<l>Dancte hij Maria saen.</l>
+<l>D[oe]n seidi: "Lijf, al sonder waen,</l>
+<l>Al u doeghen es ghedaen;</l>
+<l>In den cloestere suldi comen</l>
+<l n="1015">Tuwer eeren ende tuwer vroemen."</l>
+<l><edition n="524"/>Sij antworde: "Wats myns ghesciet,</l>
+<l>In den cloestere en come ic niet;</l>
+<l>Mynen lichaem en mochs niet bestaen,</l>
+<l>Dat ic in die kerke soude gaen.</l>
+<l n="1020">Ic wille voer u [k]nielen ter eerden,</l>
+<l><milestone unit="fol" n="19(20)v"/> Myn hooft afte sclaende met een en swerde</l>
+<l parse="ignore">[...............]</l>
+<l parse="ignore">Ende sijn ooghen op my sclaen."</l>
+<l>Jonitas seide: "Lief sonder gheno[ot],</l>
+<l n="1025">Ic soude eer selve bliven doot."</l>
+<l>Doen nam hi se in den aermen sijn,</l>
+<l>Jonitas, die joncghelinc fijn,</l>
+<l>Ende droechsse ter kerken doere,</l>
+<l>Al wert hem noch soe suere.</l>
+<l n="1030">Maria was wel bedacht</l>
+<l>Ende heeft [ha]er dabbijt bracht,</l>
+<l>Haer cledere mijnlyc ende soete</l>
+<l>Vanden hoofden totte wotten,</l>
+<l>Vriendeiijc, sonder beyden.</l>
+<l n="1035">Hoert wat Rosafier seede</l>
+<l>"O lijf; ghij hebt mij gheleyt met listen,</l>
+<l>Dat icker niet af en wiste."</l>
+<l>Doen was sij uutermaten bly[de].</l>
+<l>Die nonnen quamen te strijde;</l>
+<l n="1040">Doen quam die abdisse</l>
+<l>Ende seide "Lijf kint, sengt u lesse."</l>
+<l>Doen antworden sij met dien:</l>
+<l>"Vrouwe, dat sal u ghescieden."</l>
+<l parse="ignore">Si nammer tuwe w[..........]</l>
+<l parse="ignore" n="1045">Ende ghinghen te g[ade]r [...]</l>
+<l parse="ignore">Ende begonsten [...........]</l>
+<l parse="ignore">Een mese v[..............]</l>
+<l parse="ignore">[Hier ontbreken drie folia: oorspr. fol. 21-23]</l>
+<l parse="ignore" n="1101"><milestone unit="fol" n="21(24)r"/> Dat abdisscap, sonder waen.</l>
+<l>Dat heb ic ghedaen, lude ende stille,</l>
+<l>Lieve kint, om dinen wille;</l>
+<l>Ende dinen wader ende diner moeder</l>
+<l n="1105">Heb ic altoes in goeder hoeden,</l>
+<l>Ende u kinderen allen drie</l>
+<l>Heb ic in hemelricke met my</l>
+<l>Hierboven in den hoeghen troone,</l>
+<l>Daer die enghelen singhen scoene.</l>
+<l n="1110">U goede wijf die es alleene</l>
+<l>In rouwen ende in groeter wenen.</l>
+<l>En hadde myn troest ghedaen</l>
+<l>Sij vaer doot, sonder waen.</l>
+<l>Nu vaert thuus te dien lande</l>
+<l n="1115">Ende troest u wijf te hande,</l>
+<l>Ende segt haer, sonder waen,</l>
+<l>[Hoet] met haeren suster es vergaen</l>
+<l>Ende dan gheeft u conincricke</l>
+<l>Doer myn k[in]t mindelijcke.</l>
+<l n="1120">Van henden [........] XL daghen</l>
+<l><edition n="527"/>Sal ic comen s[.......]aghen</l>
+<l>Ende nemen u [.......] kinde</l>
+<l>Alle drie s[...........]</l>
+<l>Up eenen dac[h ............]</l>
+<l n="1125">Ende ic sal [...] u [.........]</l>
+<l>Ende breng[h]en u [..........]</l>
+<l parse="ignore"><milestone unit="fol" n="21(24)v"/> Alhier ten cloestren binnen;</l>
+<l>Dan sal ic halen die joncvrouwe,</l>
+<l>Die ligghen sal in groeten rouwe;</l>
+<l n="1130">Ic sal haer vraghen ghevaerlijcke</l>
+<l>Oft sij wilt waren in hemelricke,</l>
+<l>Ende sclaet dijn oeghen, overwaer,</l>
+<l>In den hemel, die scoene es ende claer;</l>
+<l>Siet wat lieve ghij sult ontfaen</l>
+<l n="1135">Voer die [dueg]het die ghij hebt ghedaen."</l>
+<l parse="ignore">Doe[n] scloech [...]i op onghespaert,</l>
+<l parse="ignore">Sin[e] oeghen ten hemel waert;</l>
+<l>Doen sach hij in den troone staen</l>
+<l>Drie setelen welghedaen</l>
+<l n="1140">Aen elcken hinc een croone,</l>
+<l>Die rickelijc was ende scoene.</l>
+<l>Doen riep hij: "Maria, vrouwe,</l>
+<l>Laet my desen setele scuwen</l>
+<l parse="ignore">Moeder ende maghet reyne,</l>
+<l parse="ignore" n="1145">Ghen andere blijsscap en ghere</l>
+<l>Dat es een cleyn[n]e [........]</l>
+<l>Als ghij s[u]l[t ..........]</l>
+<l>Ende sin over [...........]</l>
+<l>Dan sal [..............]</l>
+<l n="1150">Maria nu [..............]</l>
+<l>Ic saelt s[..............]</l>
+<l>Dat doer d[..............]"</l>
+<l>Als [..............]</l>
+<l>[...............]</l>
+<l n="1155"><milestone unit="fol" n="22(25)r"/> O soete lijf hebdij ghehort</l>
+<l><edition n="528"/>Van Maria dese wort?</l>
+<l>"Ja ic", seetsij, "ghebenedijt</l>
+<l>Moetti sijn op dese tijt;</l>
+<l>Lief, het es al bij uwen sculden</l>
+<l n="1160">Dat ic sekeren ben behou[de]n.</l>
+<l>Nu troest u selven, scoene smale;</l>
+<l>Te mynen lande willic waren.</l>
+<l>Doen weendes herde bitterlijcke</l>
+<l>Ende hij voer wech, die coninc rijcke.</l>
+<l n="1165">Alsoe Maria selve seide,</l>
+<l>Troeste hij sijn wijf, sonder beiden;</l>
+<l>Ende hoet metter suster is ghesciet</l>
+<l>Seede hare, ende ic en lieghe u niet.</l>
+<l>[Do]en dancte hij oetmoedelijcke</l>
+<l n="1170">[De]r moeder Gods van hemelrijcke.</l>
+<l>[Doe]n ghinc die coninc metter spoet</l>
+<l>[Ende ga]f om Goede allen sijn goet,</l>
+<l>[Pennetienc]ie dedi XL daghen.</l>
+<l>[Doen] quam Maria, sonder saghen,</l>
+<l parse="ignore" n="1175">[Ende] seide: "Soene, sonder wanc</l>
+<l parse="ignore">[Wildi] waren int soete lant</l>
+<l parse="ignore">[............]m hij met ghenent</l>
+<l parse="ignore">[..............]ken der sacrament</l>
+<l parse="ignore">[..............] myn</l>
+<l parse="ignore" n="1180">[..............] sin</l>
+<l parse="ignore">[............]e v[roe]men conroot.</l>
+<l parse="ignore"><milestone unit="fol" n="22(25)v"/> Sij nam die ziele met haesten groot</l>
+<l>Alle beide, onghespaert,</l>
+<l>Ende voer dese ten cloestere waert.</l>
+<l n="1185">Doen was daer groot hantghesclach;</l>
+<l>Menich riep: "O wij, o wach!</l>
+<l>Wat sal dit cloester nuue verliesen?</l>
+<l>Waer sullen wij nu ander kiesen?</l>
+<l>Dies hebben wij wel groeten rouwe;</l>
+<l n="1190">Noet en was ghen soe ghetrouwe."</l>
+<l><edition n="529"/>Doen liet haer dese Rosa bloeme</l>
+<l>Dalen, die daer was comen,</l>
+<l>Met grooter inglenscare,</l>
+<l>Ende songhen oppenbare.</l>
+<l n="1195">Maria seide: "Dochter mijn,</l>
+<l>Ghetruwich vrient sal ic u sijn,</l>
+<l>Wilt ghij met mich waren seke[rlic]ke</l>
+<l>Rechte voert in hemelricke?</l>
+<l>Sij sede: "Vrouwe, wat myns ghesciet,</l>
+<l n="1200">In hemelrike en wille ic noch niet."</l>
+<l>[Do]en songhen dinghlen herde clare</l>
+<l>Met eender stemmen, dat was waer.</l>
+<l>Maria sprac: "Wats u ghesciet,</l>
+<l>En vildij waren ten hemelr[icke] niet?"</l>
+<l n="1205">"Vrouwe, soe waer ic dat quaeste wijf</l>
+<l>Die nie [ontfi]nc van moeder dlijf,</l>
+<l parse="ignore">Con[stic minen] wader laten</l>
+<l parse="ignore">In d[...........] sake,</l>
+<l parse="ignore">[Hier ontbreken 7 folia: fol. 26-32]</l>
+</text>
+<!--</ENTRY>
+--></TEI.2>

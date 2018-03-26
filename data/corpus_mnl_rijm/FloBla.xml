@@ -1,0 +1,4119 @@
+<?xml version='1.0'?><!DOCTYPE TEI.2 PUBLIC '-//TEI P4//DTD Main Document Type//EN' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd' [<!ENTITY % TEI.prose 'INCLUDE'><!ENTITY % TEI.linking 'INCLUDE'><!ENTITY % TEI.figures 'INCLUDE'><!ENTITY % TEI.analysis 'INCLUDE'><!ENTITY % TEI.corpus 'INCLUDE'><!ENTITY % TEI.XML 'INCLUDE'><!NOTATION TEI-XML PUBLIC 'TEI P4' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd'><!-- internal INL dtd --><!ELEMENT b (#PCDATA)><!ELEMENT l (#PCDATA | b)*><!-- end of internal INL dtd -->]><TEI.2><!--<ENTRY id="i135"><teiHeader><fileDesc><titleStmt><title>Floris ende Blancefloer</title>
+</titleStmt>
+<interpGrp type="pubYear_from"><interp value="1340"/></interpGrp>
+<interpGrp type="witnessYear_from"><interp value="1340"/></interpGrp>
+<interpGrp type="pubYear_to"><interp value="1360"/></interpGrp>
+<interpGrp type="witnessYear_to"><interp value="1360"/></interpGrp>
+<TITEL>Floris ende Blancefloer</TITEL>
+<author>Diederic van Assenede</author>
+<AARD>Rijm</AARD>
+<BRON nr="K131">Leiden, Bibliotheek der Rijksuniversiteit, Ltk. 191</BRON>
+<DATUM>1340-1360</DATUM>
+<OMVANG>3973 verzen</OMVANG>
+<BRON.OPM>Handschrift Ltk. 191 is een convoluut (2+146+2 bladen). De Floris ende Blancefloer bevindt zich op fol. 3358. Per bladzijde 2 kolommen en per kolom 40 regels. De codex bevat nog vijf andere teksten: Ferguut (fol. 1-32), Der ystorien bloeme (fol. 59-84), Esopet (fol. 85-94), de Bediedenisse van der missen (fol. 95-103), de Dietsche doctrinale (fol. 104-146). Floris ende Blancefloer en Der ystorien bloeme zijn volgens Lieftinck door dezelfde kopiist geschreven. De Ferguut en de Dietsche doctrinale schijnen al in de 15e eeuw samengebonden te zijn geweest; zie Kienhorst (1988), 37-38. De <XREF3 ref=i135>Floris ende Blancefloer</XREF3>
+ in dit hs. gaat terug op de zgn. 'version aristocratique' van de Oudfranse roman <i>Floire et Blancheflor</i>. Daarnaast kennen we nog de Middelnederlandse <XREF3 ref=i397>Floyris ende Blantseflur</XREF3>
+ (fragmentarisch overgeleverd: <x nr=K142>Trier, Stadtbibliothek, Mappe X, mhd. Fragmente, Nr. 13 (fragm.)</x>
+), die terug zou gaan op een oudere, niet overgeleverde versie van de Oudfranse roman.</BRON.OPM>
+<EDITIE>J.J. Mak (ed.): Diederic van Assenede: Floris ende Blancefloer. Uitgegeven met inleiding en aantekeningen. 3e dr. Culemborg, 1970. (Klassieken uit de Nederlandse Letterkunde).</EDITIE>
+<STATUS>Kritisch</STATUS>
+<BRONMNW>433.1 (andere editie)</BRONMNW>
+<BRONMNW>434 (andere editie)</BRONMNW>
+<EDITIE.OPM>De tekst is door Mak uitgegeven naar de editie Leendertz uit 1912 (zie P. Leendertz (ed.): Floris ende Blancefloer van Diederic van Assenede. Leiden, 1912. (Bibliotheek van Middelnederlandsche Letterkunde)). Van de ca. 90 verzen die op vs. 2588 volgen, zijn door verminking van de twee bladen in het handschrift slechts enkele schamele resten overgebleven. Daarom is tussen de regels 2588 en 2589 de betreffende passage naar de prozatekst van het volksboek geplaatst.</EDITIE.OPM>
+<BRONNEN>Leiden, Bibliotheek der Rijksuniversiteit, Ltk. 191</BRONNEN>
+<HSDRUK>Historie van Floris ende Blancefloer</HSDRUK>
+</fileDesc>
+</teiHeader>
+--><text>JABBEDABBEDOE<ENTRY id="i136" anno="a136"><TITLE>Floris ende Blancefloer [0001-1000]</TITLE>
+<DATE><FROM>1340</FROM>
+<TO>1360</TO>
+</DATE>
+<TITEL>Floris ende Blancefloer</TITEL>
+<author>Diederic van Assenede</author>
+<AARD>Rijm</AARD>
+<BRON>Leiden, Bibliotheek der Rijksuniversiteit, Ltk. 191</BRON>
+<DATUM>1340-1360</DATUM>
+<OMVANG>3973 verzen</OMVANG>
+<BRON.OPM>Handschrift Ltk. 191 is een convoluut (2+146+2 bladen). De Floris ende Blancefloer bevindt zich op fol. 3358. Per bladzijde 2 kolommen en per kolom 40 regels. De codex bevat nog vijf andere teksten: Ferguut (fol. 1-32), Der ystorien bloeme (fol. 59-84), Esopet (fol. 85-94), de Bediedenisse van der missen (fol. 95-103), de Dietsche doctrinale (fol. 104-146). Floris ende Blancefloer en Der ystorien bloeme zijn volgens Lieftinck door dezelfde kopiist geschreven. De Ferguut en de Dietsche doctrinale schijnen al in de 15e eeuw samengebonden te zijn geweest; zie Kienhorst (1988), 37-38. De <XREF3 ref=i135>Floris ende Blancefloer</XREF3>
+ in dit hs. gaat terug op de zgn. 'version aristocratique' van de Oudfranse roman <i>Floire et Blancheflor</i>. Daarnaast kennen we nog de Middelnederlandse <XREF3 ref=i397>Floyris ende Blantseflur</XREF3>
+ (fragmentarisch overgeleverd: <x nr=K142>Trier, Stadtbibliothek, Mappe X, mhd. Fragmente, Nr. 13 (fragm.)</x>
+), die terug zou gaan op een oudere, niet overgeleverde versie van de Oudfranse roman.</BRON.OPM>
+<EDITIE>J.J. Mak (ed.): Diederic van Assenede: Floris ende Blancefloer. Uitgegeven met inleiding en aantekeningen. 3e dr. Culemborg, 1970. (Klassieken uit de Nederlandse Letterkunde).</EDITIE>
+<STATUS>Kritisch</STATUS>
+<BRONMNW>433.1 (andere editie)</BRONMNW>
+<BRONMNW>434 (andere editie)</BRONMNW>
+<EDITIE.OPM>De tekst is door Mak uitgegeven naar de editie Leendertz uit 1912 (zie P. Leendertz (ed.): Floris ende Blancefloer van Diederic van Assenede. Leiden, 1912. (Bibliotheek van Middelnederlandsche Letterkunde)). Van de ca. 90 verzen die op vs. 2588 volgen, zijn door verminking van de twee bladen in het handschrift slechts enkele schamele resten overgebleven. Daarom is tussen de regels 2588 en 2589 de betreffende passage naar de prozatekst van het volksboek geplaatst.</EDITIE.OPM>
+<BRONNEN>Leiden, Bibliotheek der Rijksuniversiteit, Ltk. 191</BRONNEN>
+<HSDRUK>Historie van Floris ende Blancefloer</HSDRUK>
+<l><edition n="21"/>Nu hoert na mi, ic sal beghinnen</l>
+<l>Ene aventure tellen van minnen,</l>
+<l>Die den dorperen no den doren</l>
+<l>Niet bestaet, dat sise horen.</l>
+<l>5  Maer die redene merken connen</l>
+<l>Ende van minnen hebben ghewonnen</l>
+<l>Beide bliscap ende rouwe,</l>
+<l>Sijt clerc, zijt leec, zijt hoefsche vrouwe,</l>
+<l>Dien annics datter wese bi</l>
+<l>10  Daer dese aventure vertellet si.</l>
+<l>Oec en willics niet verbieden</l>
+<l>Te hoerne allen hoefschen lieden,</l>
+<l>Die evel ende ghoet bekinnen.</l>
+<l>Hets al van ener ghestadegher minnen,</l>
+<l>15  Beide van bliscapen ende van rouwen.</l>
+<l>Nu merct, ghi heren ende ghi vrouwen,</l>
+<l>Dies heeft die minne vremden zede,</l>
+<l>Dat haer die rouwe volghet mede.</l>
+<l><edition n="22"/>Men moet corten ende linghen</l>
+<l>20  Die tale, sal mense te rime bringhen,</l>
+<l>Ende te redenen die aventure.</l>
+<l>Hets worden herde te sure</l>
+<l>Van Assenede Diederike.</l>
+<l>Dien seldijs danken ghemeenlike,</l>
+<l>25  Dat hijt uten Walsche heeft ghedicht</l>
+<l>Ende verstandelike in Dietsche bericht</l>
+<l>Den ghenen, diet Walsche niet en connen.</l>
+<l>Tierst heeft hi dus beghonnen,</l>
+<l>Ende segt, hoe ghedane wijs</l>
+<l>30  Blancefloer ende Florijs,</l>
+<l>Twee scone kinder, worden gheboren,</l>
+<l>Die in haren live meneghen toren</l>
+<l>Hadden van minnen ende rouwen vele</l>
+<l>Ende dicke bliscap met groten spele.</l>
+<l>35  Soe wie so rechter minnen pleghet,</l>
+<l>Ende si hem ghestadelike leghet</l>
+<l>Vaste in siere herten binnen,</l>
+<l>Dicke ghevalt dat hem van minnen</l>
+<l>Gheschiet gheval na onghevalle,</l>
+<l>40  Dies hebben wi ghenoech gheweten alle,</l>
+<l>Ende na gheluc groot ongheval,</l>
+<l>Als ic van desen tween tellen sal</l>
+<l>In der historien, die ghi selt horen,</l>
+<l>Hoe meneghen rouwe, hoe meneghen toren</l>
+<l>45  <pb n="23"/> Si beide ghewonnen in haren daghen</l>
+<l>Van rechter minnen, die si plaghen.</l>
+<l>Ooc waren si dicke zoe vro,</l>
+<l>Dat si liever hadden te leven also</l>
+<l>Dan te zijn in hemelrike.</l>
+<l>50  Binnen dien quam een ongheval haestelike</l>
+<l>Ende warpse beide van hoghen neder</l>
+<l>Uter bliscap inden rouwe weder.</l>
+<l>Daer zijn vele die dat segghen</l>
+<l>Vanden ghenen, die haer herte legghen</l>
+<l>55  Soe ghestadelike an die minne,</l>
+<l>Dat hem comt van dommen zinne;</l>
+<l>Dat selen wi over loghen houden.</l>
+<l>Wi hebben ghehoort van Ysouden,</l>
+<l>Hoe si minde haers mans neve Trustram,</l>
+<l>60  Ende hoe Parijs minde Helenam,</l>
+<l>Ende van anderen vele niemaren,</l>
+<l>Die hovesch ende natuerlic waren,</l>
+<l>Dier men seyt ende tellet vele</l>
+<l>In aventuren ende in spele,</l>
+<l>65  Maer des en quam mi niet te voren</l>
+<l>Van dommen lieden ende van doren,</l>
+<l>Dat si noit van herten minden.</l>
+<l><edition n="24"/>Wilden sijs hem ooc onder winden,</l>
+<l>Si souden die minne verwerken zeere.</l>
+<l>70  Si beghevens bat ende doen haer eere</l>
+<l>Dat si die minne niet verwerken,</l>
+<l>Ende latenre pleghen hovesschen clerken,</l>
+<l>Ende hovesschen ridderen ende hovesschen vrouwen.</l>
+<l>Dat zijn die minnen met rechter trouwen</l>
+<l>75  Ende emmer der minnen zijn onderdaen.</l>
+<l>Haer en mach ghene cracht wederstaen.</l>
+<l>Si en doet dat haer becomt te doene.</l>
+<l>Dat scheen den wisen Salomoene:</l>
+<l>Al hadde hi cracht ende wijsdom groot,</l>
+<l>80  Hi moeste minnen als zijt gheboet,</l>
+<l>Al ware hire gherne bleven sonder.</l>
+<l>Bedi en darf niement hebben wonder,</l>
+<l>Dat si dese twee kinder dwanc.</l>
+<l>Die beide waren jonc ende cranc,</l>
+<l>85  Daer ic of segghe daventure</l>
+<l>Ende telle, al wort het mi te sure,</l>
+<l>Een deel van harre gherechter minnen.</l>
+<l>Nu hoort, hoe ic u sel beghinnen.</l>
+<l>Wi vinden ghescreven, als ghi selt horen,</l>
+<l>90  Dat bi ouden tiden hier te voren</l>
+<l>Een heyden coninc uut Spaengen quam,</l>
+<l>Tierst dat hi den somer vernam</l>
+<l><edition n="25"/>Bringhen dat nuwe loof ende dat gras;</l>
+<l>Fenus dies conincs name was.</l>
+<l>95  Te scepe quam hi met vele lieden,</l>
+<l>Als hem zijn vroede man rieden.</l>
+<l>Hi sciere meerde an een sant,</l>
+<l>Ende ghinc op inder kerstinen lant.</l>
+<l>Roof ende brant dedi stichten,</l>
+<l>100  Die mure breken, die borghe slichten;</l>
+<l>Cloesters, monstre ende gods huus</l>
+<l>Dede testoren die coninc Fenus.</l>
+<l>Man ende wijf si al versloeghen,</l>
+<l>Haren roof si te scepe droeghen.</l>
+<l>105  Soe waest ghewoest in viertich daghen,</l>
+<l>Dat si der kerstinen gheen en saghen</l>
+<l>No en vonden der haven mee</l>
+<l>Binnen dertich milen vander zee.</l>
+<l>Als sijt al hadden ghestoort,</l>
+<l>110  Menighe scone borch ende poort,</l>
+<l>Gheboot die coninc, dat men loede</l>
+<l>Die scepen metten groten ghoede.</l>
+<l>Hier binnen quam hem te voren,</l>
+<l>Dat hi viertich ridderen hadde vercoren,</l>
+<l>115  Die duchtich ende van prise waren.</l>
+<l>Wapenen dede hise ende hietse varen</l>
+<l>Op die montaenge ende beriden</l>
+<l>Die weghen, die straten in allen ziden</l>
+<l><edition n="26"/>Ende roven die pelgrime of sise vonden;</l>
+<l>120  Men soude binnen der selver stonden</l>
+<l>Die scepen laden ende reden die vaert,</l>
+<l>Te keerne weder te Spaengen waert.</l>
+<l>Si wapenden hem haestelike</l>
+<l>Ende voeren wech gheweldelike,</l>
+<l>125  Ende beleiden die borghe in allen ziden,</l>
+<l>Al daer wech was ende lide.</l>
+<l>Si reden vort, si reden weder;</l>
+<l>Doe saghen si vanden borghe neder</l>
+<l>Pelgreme, die vele moede quamen.</l>
+<l>130  Tierst dat sise vernamen,</l>
+<l>Reden si hem tenen ghemoete,</l>
+<l>Ende beghondense roven onsoete,</l>
+<l>Ende sloeghen diese wilden slaen.</l>
+<l>Die pelgreme en mochten niet ontghaen</l>
+<l>135  No met crachte hem onthouden.</l>
+<l>Doe si saghen, dat si sterven souden,</l>
+<l>Si boden haer handen ende ghaven</l>
+<l>Een groot deel van harre haven,</l>
+<l>Ende verdingheden lijf ende lede.</l>
+<l>140  Daer was oec een Fransoys mede,</l>
+<l>Die grave was ende van edelen gheslachte.</l>
+<l>Om dat hi hem weerde met crachte,</l>
+<l><edition n="27"/>En wilden die Torke niet leven laten.</l>
+<l>Die bleef daer versleghen inder straten.</l>
+<l>145  Ene zijn dochter hi met hem hadde brocht,</l>
+<l>Die een heylichdom soude hebben besocht</l>
+<l>Te Rome, daerse haer bisscop sinde.</l>
+<l>Haer man hadse ghelaten met kinde,</l>
+<l>Daer hi was inden stride bleven doot.</l>
+<l>150  Daer was si doe in groter noot:</l>
+<l>Si sach verslaen haren vader.</l>
+<l>Dat moestese ghedoghen algader</l>
+<l>Ende nochtan vele meer daer toe,</l>
+<l>Want si namen haer selven doe</l>
+<l>155  Ende voerdense wenende ende claghende sere</l>
+<l>Voor den coninc haren here,</l>
+<l>Die hem so willecome was.</l>
+<l>Doe hise sach, ghedacht hem das,</l>
+<l>Doe hi vander coninginne sciet</l>
+<l>160  In sijn lant, daer hise liet,</l>
+<l>Dat si seide hoe gherne si name</l>
+<l>Ene kerstijn joncfrouwe, of hire an quame,</l>
+<l>Dat hise vinghe ende hise haer brachte.</l>
+<l>Als hise sach ende hijs ghedachte,</l>
+<l>165  Seide hi dat hise haer voeren soude,</l>
+<l>Ende dede craieren dat hi varen woude.</l>
+<l>Doe traken si alle te scepe waert.</l>
+<l>Hem was wel verghaen haer vaert,</l>
+<l><edition n="28"/>Si hadden ghewonnen herde vele,</l>
+<l>170  Ende voeren wech met vollen zele</l>
+<l>Ende worden in corter stont gheset</l>
+<l>In Spaengen indie haven van Tolet.</l>
+<l>Die niemare liep voren indie poort:</l>
+<l>Die ierst ghevreischt, hi tellet voort;</l>
+<l>175  Dus maket deen den andren cont,</l>
+<l>Dattie coninc waer comen ghesont</l>
+<l>Ende alle die waren inde vaert.</l>
+<l>Die lieden liepen ter havenen waert</l>
+<l>Ende waren blide van haren maghen,</l>
+<l>180  Dat sise behouden comen saghen.</l>
+<l>Men ontfinc den coninc met groter eeren,</l>
+<l>Beide vrouwen ende heeren</l>
+<l>Ende der kindren volghden vele.</l>
+<l>Vrolike ghinc hi op die zele</l>
+<l>185  Ende beghan te deelen zijn ghewin:</l>
+<l>Somen gaf hi meer, somen min,</l>
+<l>Dat conste hi wel bescheidelike.</l>
+<l>Doen nam hi herde hovesschelike</l>
+<l>Bider hant die ghevanghen vrouwe,</l>
+<l>190  Die int herte droech groten rouwe,</l>
+<l>Dat mochtmen wel an haer bekinnen;</l>
+<l>Die ghaf hi te deele der coninginne,</l>
+<l>Diese alte hant inde camere dede,</l>
+<l>Ende gaf haer orlof haren zede</l>
+<l>195  Te houden ende die selve wet,</l>
+<l><edition n="29"/>Die den kerstinen lieden was gheset.</l>
+<l>Haer wet hielt si alsoe redelike,</l>
+<l>Harre vrouwen dienese ghetrouwelike</l>
+<l>In allen tiden spade ende vroe,</l>
+<l>200  Want het stont haer daer toe,</l>
+<l>Si leerde haer Fransoys ghenoech;</l>
+<l>Soe bewarf si ende bedroech</l>
+<l>Dat si wart van groten love</l>
+<l>Beide inden lande ende inden hove;</l>
+<l>205  Het was goet al dat si wrachte.</l>
+<l>Dat si was van hoghen gheslachte</l>
+<l>Mochtmen an haer ghedochte merken.</l>
+<l>Tenen tiden soudese werken</l>
+<l>Haren heere den coninc ene baniere;</l>
+<l>210  Si wrachter in menighe diere;</l>
+<l>Indie middel wracht zire inne</l>
+<l>Met den coninc die coninginne.</l>
+<l>Daer wart die coninginne gheware</l>
+<l>An haer ghelaet, an haer ghebare,</l>
+<l>215  Daer sise sach roden ende bleiken</l>
+<l>Ende metten handen ten lanken reiken</l>
+<l>Ende menighe varwe ontfaen,</l>
+<l>Dat si met kinde was bevaen.</l>
+<l>Doe beghan sijt haer an tien</l>
+<l>220  Ende bad haer, dat sijt soude lien,</l>
+<l>Of si kint droech, jeghen hare,</l>
+<l><edition n="30"/>Ende welctijt het ghewonnen ware.</l>
+<l>Doe seide sijt haer bescheidenlike.</l>
+<l>Die vrouwe seide dier ghelike,</l>
+<l>225  Dat si vanden selven stonden</l>
+<l>Hadde kint ghedraghen, ende si begonden</l>
+<l>Te rekenen, alse de vrouwen pleghen,</l>
+<l>Datsi even langhe hadden ghedreghen</l>
+<l>Ende binnen enen daghe souden ghenesen,</l>
+<l>230  Ende even varinghe quite wesen.</l>
+<l>Die tijt leed also God woude,</l>
+<l>Dattie coninginne ghenesen soude</l>
+<l>Entie termt volcomen was.</l>
+<l>Eens Palmen sondaechs si ghenas</l>
+<l>235  Van enen sconen knapeline.</l>
+<l>Doe ghaven hem die maghesine</l>
+<l>Uut haren boeken, na hare wijs,</l>
+<l>Een sconen name ende hieten Florijs.</l>
+<l>Dies selves daghes ghenas van kinde</l>
+<l>240  Die ghevangen vrouwe, alsict bescreven vinde,</l>
+<l>Ende brachte inde werelt een maghedijn.</l>
+<l>Doe dedem hebben die moeder sijn</l>
+<l>Na onse wet zijn kerstenhede;</l>
+<l>Blancefloer zijt heten dede.</l>
+<l>245  Doe waren die kinder beide gheboren,</l>
+<l>Daer ghi daventure of selt horen.</l>
+<l>Nu ghewan die coninc sijn kint</l>
+<l>Soe lief ende hi haddet so ghemint,</l>
+<l>Dat si peinsden, hi ende sijn moeder,</l>
+<l>250  <pb n="31"/> Wien zijt mochten bevelen vroeder.</l>
+<l>Si mindent ghelijc haers selfs lijf,</l>
+<l>Ende bevalent den kerstinen wijf,</l>
+<l>Dat sijt soude houden ende voeden.</l>
+<l>Maer men hiet haer des behoeden,</l>
+<l>255  Dat sijt selve en soeghde niet.</l>
+<l>Men bevalt te soghene ende hiet</l>
+<l>Eenre heydenre voestre, diere toe dochte,</l>
+<l>Dat si conincs kint soghen mochte.</l>
+<l>Nu hadde die kersten die kinder beide;</l>
+<l>260  Daer toe hadsi goede ghereide</l>
+<l>In allen tiden spade ende vroe,</l>
+<l>Ende dede, dat hem behoorde daer toe:</l>
+<l>Te tide slapen, te tide waken,</l>
+<l>Te tide haer bad ende bedde maken.</l>
+<l>265  Soe lief had sise beide ghewonnen,</l>
+<l>Dat wi ghelesen niet en connen,</l>
+<l>Na dien datmen ghescreven vint,</l>
+<l>Welc si hadde meest ghemint,</l>
+<l>Soe haer dochter, soe des conincs zone.</l>
+<l>270  Si was emmer dies ghewone,</l>
+<l>Dat sise beide leide te samen.</l>
+<l>Eer si tharen vijf jaren quamen,</l>
+<l>Die minne scootse int herte richte</l>
+<l>Ende wondese soe met enen schichte;</l>
+<l>275  Dat schicht was van goeden ghewerke,</l>
+<l>Ende deedse minnen even sterke.</l>
+<l><edition n="32"/>Nu hoort vremtheit, die si daden.</l>
+<l>Dat si te gader souden baden,</l>
+<l>Herde goetliken si hem onder saghen,</l>
+<l>280  Ende onder custen hem, daer si laghen</l>
+<l>Beide te gader in ene wieghe.</l>
+<l>Dat was al waer, ons en bedrieghe</l>
+<l>Dese boec ende andre, daer wi inne</l>
+<l>Al vinden ghescreven haer minne.</l>
+<l>285  Als si waren comen tharen vijf jaren,</l>
+<l>Van scoenre groten si beide waren</l>
+<l>Ende tallen goeden werken ghekeert.</l>
+<l>Diese ghewijst hadden ende gheleert,</l>
+<l>Si waren waert van groten lone.</l>
+<l>290  Die kinder waren beide so scone,</l>
+<l>Datmen daer no in gheen lant</l>
+<l>Soe scone twee kinder noit en vant.</l>
+<l>Als die coninc hadde vernomen,</l>
+<l>Dat zijn kint soe verre was comen,</l>
+<l>295  Dat het mochte ter scole ghaen</l>
+<l>Ende lettren kennen ende verstaen,</l>
+<l>Riep hi te hem sinen zone,</l>
+<l>Als hi dicke was ghewone.</l>
+<l>"Minne", seit hi, "ic sal di ter scolen doen:</l>
+<l>300  Di sal leren meester Gaydoen,</l>
+<l>Een wijs meester ende een vroet."</l>
+<l>Florise bedroefde herde zijn moet,</l>
+<l>Dat moeste hi daer te hant toghen;</l>
+<l>Hem braken die tranen uten oghen.</l>
+<l>305  "Soete heere", seit hi, "en mach niet wesen:</l>
+<l><edition n="33"/>In sal moghen scriven no lesen</l>
+<l>No der leringhen niet verstaen,</l>
+<l>Ghi en doet Blancefloere met mi gaen."</l>
+<l>Doe gheloefde hem al daer zijn vader,</l>
+<l>310  Dat hise zoude zenden beide gader</l>
+<l>Ter scolen, ende hi dede alsoe.</l>
+<l>Des waren die kinder beide vro.</l>
+<l>Men dedese ter scolen, ende si leerden;</l>
+<l>Si ghingen te gader ende si keerden.</l>
+<l>315  Van harre ouden, van haren daghen</l>
+<l>Consten si van minnen, die si plaghen,</l>
+<l>Menighen raet ende vele treken.</l>
+<l>Doe mochtsi vriliken spreken</l>
+<l>Haer ghelijc andren sinen wille</l>
+<l>320  Verholentlike ende stille.</l>
+<l>Si ghingen ter scole gestadelike.</l>
+<l>Si onder minden hem verholenlike.</l>
+<l>Als deen bi den andren niet en was,</l>
+<l>Vergat hi wat hi hoerde of las;</l>
+<l>325  Ende wat so men hem seggen hiet,</l>
+<l>Des en mocht hi onthouden niet.</l>
+<l>Ter minnen hadden si goede stade.</l>
+<l>Si waren beide van enen rade,</l>
+<l>Van ere scoenheit, van enen sinne,</l>
+<l>330  Ende even gestadech an die minne,</l>
+<l><edition n="34"/>Dat si oec dicke lesen horden</l>
+<l>Die treken, die ter minnen horden,</l>
+<l>Ende mense oec te lesene sette</l>
+<l>in Juvenale ende in Panflette</l>
+<l>335  Ende in Ovidio de Arte Amandi,</l>
+<l>Daer si vele leerden bi,</l>
+<l>Dat hem bequam ende dochte goet.</l>
+<l>Dus hadden si ter minne spoet.</l>
+<l>Die boeke dadense haesten so</l>
+<l>340  Ter minnen, dat si dicke vro</l>
+<l>Beide waren ende in sorgen groet,</l>
+<l>Dat si hadden liever te wesene doet</l>
+<l>Dan gesceden lange te sine.</l>
+<l>Dus leefden si in soeter pine,</l>
+<l>345  In soeten rouwe, in soeten bedwange.</l>
+<l>Die nachte dochten hem vele te lange,</l>
+<l>Die dage waren hem te cort vele</l>
+<l>Te harre bliscap, te haren spele.</l>
+<l>Sint dat si leren begonsten,</l>
+<l>350  Binnen vijf jaren die kinder consten</l>
+<l>Latijn spreken wel te maten.</l>
+<l>Doe mochten si in wege ende in straten</l>
+<l>Ende in den hove seggen in Latijn</l>
+<l>Haerlijc andren den wille sijn,</l>
+<l>355  Dattie leeke niet en mochten verstaen.</l>
+<l>Dit hadden si so lange gedaen</l>
+<l>Ende der minnen so lange geplogen,</l>
+<l><edition n="35"/>Dattie niemare was gevlogen</l>
+<l>Ende ment seide openbare.</l>
+<l>360  Tierst dattie coninc die niemare</l>
+<l>Ghevreeschte, dat Floris sijn kint</l>
+<l>Blancefloere so hadde gemint,</l>
+<l>Dat hi el ne gene name</l>
+<l>Nemmermeer, die hem getame,</l>
+<l>365  Ocht mens hem gehingede ende liet also,</l>
+<l>Doe balch hi harde ende wart onvro.</l>
+<l>Het dochte hem wonderlike dinc.</l>
+<l>Erlike hi te sire vrouwen ginc</l>
+<l>Ter cameren, daer hise vant inne,</l>
+<l>370  Raet te nemene, hoe hi die minne</l>
+<l>Van den kindren mochte testoren.</l>
+<l>"Vrouwe", seit hi, "wi hebben verloren</l>
+<l>Florise ons kint, so ict bevroede."</l>
+<l>Die vrouwe was van gestaden moede,</l>
+<l>375  Te meer was sijs in groten vare:</l>
+<l>An sine varwe wart si geware,</l>
+<l>Dat hi gram was ende verbolgen,</l>
+<l>Ende peinsde hoe si hem mochte volgen</l>
+<l>Minlike ende met soeter spraken.</l>
+<l>380  "Ay here", seit si, "bi welker saken</l>
+<l>Selen wi onse kint verliesen?</l>
+<l>Segt, ende wi selen kiesen</l>
+<l><edition n="36"/>Den besten raet, die wi mogen vinden."</l>
+<l>"Vrouwe", seit hi, "ic wil u ombinden:</l>
+<l>385  Floris heeft met al sinen sinne</l>
+<l>An Blancefloere sine minne</l>
+<l>So harde gekeert utermaten</l>
+<l>Ende seit, dat hise niet sal laten</l>
+<l>Alsoe lange als hi sal leven.</l>
+<l>390  Vrouwe, wildire raet toe geven</l>
+<l>Ende dunket u oec wel gedaen,</l>
+<l>Ic wille haer thoeft doen ave slaen:</l>
+<l>Alse dan die leede niemare</l>
+<l>Florise te voren quame van hare,</l>
+<l>395  Dat si doet es, so wanic wel weten,</l>
+<l>Dat hi haers al sal vergeten</l>
+<l>Ende sine minne an ene ander keren,</l>
+<l>Die hi minnen moge met eren.</l>
+<l>Dan willic, dat hi te sinen rechte</l>
+<l>400  Neme een wijf van hogen geslechte."</l>
+<l>Tierst dattie conincinne vernam</l>
+<l>Die sake, die den coninc mesquam,</l>
+<l>Si was hoefsch ende goedertiere,</l>
+<l>Ende bepeinsde haer harde sciere</l>
+<l>405  Ende dachte, hoe si mochte verwerven,</l>
+<l>Dattie joncfrouwe niet soude sterven,</l>
+<l>Ende gesachten mochte des coninx moet.</l>
+<l>"Here", seit sie, "dese raet es niet goet.</l>
+<l>Na dien dat gi segt dat staet,</l>
+<l>410  Salic ons geven betren raet.</l>
+<l><edition n="37"/>Machlichte Floris heeft gemint</l>
+<l>So gestadelike dat hoefsche kint,</l>
+<l>Blancefloere, die scone es,</l>
+<l>Dat ic mi sere ontsie des</l>
+<l>415  Ende bens in harde groten vare,</l>
+<l>Tierst dat hi gevreischte die niemare,</l>
+<l>Dat hi lichte mochte bederven</l>
+<l>Ende van groten rouwe sterven;</l>
+<l>Dan ware onse scade ende onsen toren</l>
+<l>420  Meerre dan hi was te voren.</l>
+<l>Men gewons nemmer prijs no lof,</l>
+<l>Noch vrome en quamer nemmer of,</l>
+<l>Dat mense versloege, ende messate.</l>
+<l>Hets beter dat mense leven late."</l>
+<l>425  "Vrouwe", seit hi, "nu raet daertoe."</l>
+<l>"Here, ic segt u wat men doe.</l>
+<l>Sijn meester sal hem siec maken</l>
+<l>Ende onmachtech: bi derre saken</l>
+<l>Seldine ter Montorien ter scolen sinden,</l>
+<l>430  Daer te leerne met andren kinden,</l>
+<l>Des sijn meester es genesen.</l>
+<l>Hi sal daer willecome wesen:</l>
+<l>Vrouwe Sante, die vrouwe vander port,</l>
+<l>Tierst datse dese sake hort,</l>
+<l>435  Dat hi ene kerstene heeft gemint,</l>
+<l>Ende hi daer omme si daer gesint,</l>
+<l><edition n="38"/>Si salse hem met liste verleden.</l>
+<l>Joncfrouwe Sibilie salne leden</l>
+<l>Onder die kinder, haer gespele,</l>
+<l>440  Die hi daer sal vinden vele,</l>
+<l>Dor te cortene sinen dach.</l>
+<l>Dies hi ne hort geen gewach</l>
+<l>Daer hi spelen nu mede pleget,</l>
+<l>Ende hem so na int herte nu leget,</l>
+<l>445  Dan sal hi beginnen coelen,</l>
+<l>Ende sijn herte in lanc so min gevoelen</l>
+<l>Van Blancefloere der starker minnen,</l>
+<l>Ende selke nuwe beginnen,</l>
+<l>Die hem die oude sal verdriven.</l>
+<l>450  Dus moghen die kinder levende bliven.</l>
+<l>Maer alse Floris dat sal gevreischen</l>
+<l>Hi sal wenen ende eischen,</l>
+<l>Dat men met hem Blancefloere</l>
+<l>Ter Montorien ter scole voere.</l>
+<l>455  Des selen wi hebben goeden raet:</l>
+<l>Haer moeder sal maken een gelaet</l>
+<l>Ende een gebaer ocht si siec ware.</l>
+<l>Dit moet si doen: wi selent hare</l>
+<l>Bevelen vaste bi haren live,</l>
+<l>460  Dat si op haer bedde blive,</l>
+<l>Ende si bidde, dat men harre dochter</l>
+<l>Met hare late, want si haer sochter</l>
+<l><edition n="39"/>Ende bat bewaren dan een ander sal,</l>
+<l>Dus selen wi onse dinc vorachten al.</l>
+<l>465  Dan seldi geloven over waer,</l>
+<l>Dat gise hem selt senden naer</l>
+<l>Binnen viertien nachten, daer hi es,</l>
+<l>Ende hi niet en twivele des."</l>
+<l>Dit dede men harde verholenlike.</l>
+<l>470  Doe omboet die coninc haestelike</l>
+<l>Florise, dat hi te heme quame.</l>
+<l>"Sone", seit hi, "u si gename,</l>
+<l>U meester es siec ende heeft gelegen,</l>
+<l>Dat hi der clerke niet mach plegen,</l>
+<l>475  No der scolen onder winden.</l>
+<l>Bedi salic u ter Montorien sinden,</l>
+<l>Daer seldi willecome sijn ende wel ontfaen;</l>
+<l>Ghi selt daer bliven enter scole gaen</l>
+<l>Ende leren lesen ende scriven."</l>
+<l>480  "Here", sprac Floris, "waer sal dan bliven</l>
+<l>Blancefloer?" "Minne", seit hi, "hier."</l>
+<l>Hem liepen die trane over sine lier</l>
+<l>Ende began te weenne harde sere.</l>
+<l>"Dit en doet niet", seit hi, "here;</l>
+<l>485  Dit gebod waer mi te swaer.</l>
+<l>Ghi en doet Blancefloere met mi daer,</l>
+<l>In salre mogen wonen niet."</l>
+<l>Doe bad hem die coninc ende hiet,</l>
+<l><edition n="40"/>Dat hi blidelike voere:</l>
+<l>490  Hi soude hem senden Blancefloere</l>
+<l>Binnen viertien nachten oft eer.</l>
+<l>Dat minderde hem harde sijn seer,</l>
+<l>Al dede hijt node, hi lovet al dus.</l>
+<l>Doen dede sijn vader, die coninc Fenus,</l>
+<l>495  Roepen enen sinen camerlinc,</l>
+<l>Die listech was ende vroet talre dinc;</l>
+<l>Dien hiet hi varen met sinen kinde</l>
+<l>Ter Montorien, daer hine sinde,</l>
+<l>Ende gaf hem al dies hem behoevede.</l>
+<l>500  Maer Floris sere droevede</l>
+<l>Ende weende al daer hi sciet</l>
+<l>Van Blancefloere ende hise liet.</l>
+<l>Doe al gereet was sine vaert,</l>
+<l>Voer hi wech ter Montorien waert.</l>
+<l>505  Daer vant hi dien hertoge Goras,</l>
+<l>Dien hi willecome was.</l>
+<l>Vrouwe Sante ontfingene blidelike;</l>
+<l>Si dede harde hoefschelike</l>
+<l>Harre dochter, joncfrouwe Sibilien,</l>
+<l>510  Heme leeden dicwilen</l>
+<l>Onder die joncfrouwen van der port,</l>
+<l>Dat hi soude horen selc wort,</l>
+<l>Ende hi bi lichte mochte gewinnen</l>
+<l>In die scole ene andre minnen,</l>
+<l>515  Daer hi hem selven bi soude verhogen</l>
+<l>Ende Blancefloere vergeten mogen.</l>
+<l><edition n="41"/>Men wijsde hem vele ende leerde,</l>
+<l>Daer hi lettel toe keerde</l>
+<l>Sinen sin, so wat soet was.</l>
+<l>520  Al dat hi hoerde ende las,</l>
+<l>Altoes was hem die gedane te voren</l>
+<l>Van Blancefloere, die hi hadde vercoren</l>
+<l>Boven alle die hi nie gesach,</l>
+<l>Die hem so vaste int herte lach,</l>
+<l>525  Dat sine dede leven in groten bedwange.</l>
+<l>Die wile dochte hem lange,</l>
+<l>Beide bi dage ende bi nachte.</l>
+<l>Dicke versuchte hi harde onsachte</l>
+<l>Te halven woerde an sine sprake.</l>
+<l>530  Dus leefde hi met ongemake,</l>
+<l>Ende clagede dicke sijn ellende,</l>
+<l>Eer die viertien nacht quamen ten ende.</l>
+<l>Alse volcomen was die termt,</l>
+<l>Daer hi omme hadde gekermt,</l>
+<l>535  Entie viertien dage waren comen ten ende,</l>
+<l>Ende men hem Blancefloere niet sende,</l>
+<l>Doe was hi in sorgen groet,</l>
+<l>Dat si soude wesen doet.</l>
+<l>Doe was hi droever dan hi was eer.</l>
+<l>540  Die rouwe wies hem in lanc so meer,</l>
+<l>Hine mochte haers niet vergeten.</l>
+<l>Doe liet hi slapen ende eten,</l>
+<l>Beide dat eten ende dat drinken,</l>
+<l>Doghen begonsten hem ontsinken,</l>
+<l>545  <pb n="42"/> Want heme sijn vleesch al ave ginc.</l>
+<l>Doe warts geware die camerlinc.</l>
+<l>Haestelike hi ten coninc sinde,</l>
+<l>Ende ontboet hem van sinen kinde.</l>
+<l>Die niemare hem harde mesquam.</l>
+<l>550  Hi wart wonderlike gram</l>
+<l>Ende riep die conincinne te hem.</l>
+<l>"Vrouwe", seit hi, "en weet wie ic bem</l>
+<l>Dus wonderlike comen an dese dinc.</l>
+<l>Ons heeft ontboden die camerlinc</l>
+<l>555  Van onsen sone quade niemare.</l>
+<l>Nu siet, hoe menre best toe vare.</l>
+<l>In weet, ocht si bi toverien</l>
+<l>Van Blancefloere, sire amien,</l>
+<l>Ocht hi verwoet si selve Florijs,</l>
+<l>560  Dat si hem dus gedane wijs</l>
+<l>Sinen sin al heeft genomen.</l>
+<l>Men doese mi haestelike comen;</l>
+<l>Ic wille haer te hant doen thoeft af slaen.</l>
+<l>Hi saels lichte dan ave staen</l>
+<l>565  Ende der minne al vergeten</l>
+<l>Van hare, als hise doet sal weten."</l>
+<l>Here God, hoe groet es die dompheit,</l>
+<l>Die de coninc heeft geseit,</l>
+<l>Datse toverie soude hebben gedaen!</l>
+<l>570  So tielic hadse die minne ontfaen,</l>
+<l><edition n="43"/>Doe hise tierst minnen begonste,</l>
+<l>Dat si no goet no quaet ne conste.</l>
+<l>Si mindene weder utermaten.</l>
+<l>Sint dat hise hadde gelaten</l>
+<l>575  Ende hi haer ontvoer ter Montorien waert,</l>
+<l>Dat si nie sint blide en waert.</l>
+<l>Met pinen leidde si haer leven,</l>
+<l>Haer suchten ende haer beven</l>
+<l>Hadde haer deten al benomen,</l>
+<l>580  Maer des en hadsi niet vernomen,</l>
+<l>Dat dus gedane tale om haer was.</l>
+<l>Doe pijnde haer echter die vrouwe das,</l>
+<l>Hoe sise mochte ledegen vander doot.</l>
+<l>"Ay here", seit si, "het ware sonde groet,</l>
+<l>585  Beide sonde ende scade,</l>
+<l>Dat men so scone een kint verdade!</l>
+<l>Hets beter, dat men Blancefloere</l>
+<l>Te Nicle ter merct te cope voere.</l>
+<l>Daer Sijn comannen comen van verren,</l>
+<l>590  Die onlange selen merren.</l>
+<l>Alsi des worden geware,</l>
+<l>Dat si so scone es ende het wert mare,</l>
+<l>Si selenre haven vele omme geven.</l>
+<l>Doet dit, hets best, ende laetse leven.</l>
+<l>595  Si selense dan voeren so verre,</l>
+<l>Dat ghire nemmeer omme wert erre;</l>
+<l>Dan dorvedi manslachtech werden niet."</l>
+<l><edition n="44"/>Doet hem die vrouwe so harde riet,</l>
+<l>Ende sijt erenstelike woude,</l>
+<l>600  Seide hi, dat hijt doen soude,</l>
+<l>Ende omboet twee portren vander stat,</l>
+<l>Dien geboet hi ende gebat,</l>
+<l>Want si lustege comanne waren,</l>
+<l>Dat si te Nicle souden varen</l>
+<l>605  Ende met hem senden ende voeren</l>
+<l>Te cope die scone Blancefloere.</l>
+<l>Si gereidden haer vaert ende namen</l>
+<l>Blancefloere met hem, ende alsi quamen</l>
+<l>Te Nicle ende sise ter marct brochten,</l>
+<l>610  Doe vonden si comans, diese cochten</l>
+<l>Met groten scatte, met vele haven.</l>
+<l>Nu hoert, wat sire omme gaven,</l>
+<l>Dat willic u maken cont:</l>
+<l>Si gaven van goude sestich pont,</l>
+<l>615  Van zilvere hondert bi getale,</l>
+<l>Hondert pellene, hondert sendale,</l>
+<l>Hondert bliaude purper sanguine,</l>
+<l>Hondert mantele rode pelline,</l>
+<l>Driehondert vogle, die goet waren:</l>
+<l>620  Hondert valken, haveke, sporewaren,</l>
+<l>Hondert ors groet ende snel.</l>
+<l>Si gaven oec, dat weetic wel,</l>
+<l>Na dien dat dystorie seit</l>
+<l>Ende gewaget die rechte waerheit,</l>
+<l>625  Enen cop gewraclit van goude.</l>
+<l><edition n="45"/>Die nu so gedanen maken soude,</l>
+<l>Hi soude groten cost doen daer toe.</l>
+<l>No daer te voren, no sident, no doe</l>
+<l>En sach nieman genen so goet.</l>
+<l>630  Nu hoert, wat daer an gemaket stoet:</l>
+<l>Daer stoet, hoe gedane wijs</l>
+<l>Des coninx sone van Troien Parijs</l>
+<l>Helenam voerde ende gewan</l>
+<l>Ende hem na volgede haer man,</l>
+<l>635  Die coninc Menelaus, verbolgen sere;</l>
+<l>Ende hoe Agamemnon leidde there,</l>
+<l>Des hi vele hadde utermaten;</l>
+<l>Entie Grieken Troien besaten,</l>
+<l>Ende si die mure met storme versochten,</l>
+<l>640  Ende hoe si van binnen weder vochten.</l>
+<l>An den scedel oec gemaket was,</l>
+<l>Hoe Juno, Venus ende Pallas</l>
+<l>Enen appel vonden van goude</l>
+<l>Ende streden, welc harre hebben soude;</l>
+<l>645  Want in den appel stont gescreven,</l>
+<l>Dat menne der scoenster soude geven;</l>
+<l>Ende hoe sijt keerden op Parise,</l>
+<l>Dat hi tvonnesse te rechte wise,</l>
+<l>Ende hi sciede sonder gedinge;</l>
+<l>650  <pb n="46"/> Ende hoe haer gelijc sprect sonderlinge;</l>
+<l>Ende hoe hem Juno behiet rijcheit vele;</l>
+<l>Pallas seit, dat sine maken wele</l>
+<l>Den besten riddre die ie gewan lijf;</l>
+<l>Venus behiet hem dat scoenste wijf,</l>
+<l>655  Die nie van moeder wart geboren;</l>
+<l>Ende hoe hi dat wijf heeft vercoren,</l>
+<l>Ende hoe hi den appel Venuse geeft,</l>
+<l>Ende seit, dat sine met rechte heeft.</l>
+<l>Opten scedel stont een carbonkel steen;</l>
+<l>660  Ens kelre so donker ne geen,</l>
+<l>Al eiser in licht no vier,</l>
+<l>Daerne in die hant hout die bottelgier,</l>
+<l>Hi maket so licht daer binnen,</l>
+<l>Dat men daer bi moge bekinnen,</l>
+<l>665  So wat haven soet moge sijn,</l>
+<l>Moraet, clareit ochte wijn.</l>
+<l>Dien carbonkel hadde in den voet</l>
+<l>Een vogel, die daer boven stoet.</l>
+<l>Die den vogel sach, hem dochte,</l>
+<l>670  Dat hi levede ende vliegen mochte.</l>
+<l>Desen cop makede Vulcanus,</l>
+<l>Dien ic hebbe bescreven dus.</l>
+<l>Het brachtene uut Troien Eneas,</l>
+<l>Doe die stat te storet was;</l>
+<l>675  <pb n="47"/> Sint liet hine ere sire amien</l>
+<l>In dat land van Lombardien;</l>
+<l>Daer naer wart hi gegeven voert,</l>
+<l>Dat hi te Roeme quam in die poert,</l>
+<l>In des keisers stat, ende hi verstarf</l>
+<l>680  Vanden een opten anderen so menich warf,</l>
+<l>Dat hi den keyser was comen toe;</l>
+<l>Ende een dief hadden gestolen doe</l>
+<l>Ende hadden te Nicle ter merct brocht,</l>
+<l>Daerne die comanne hadden gecocht,</l>
+<l>685  Diene om Blancefloere gaven voert,</l>
+<l>Als ghi te voren hebt gehoert.</l>
+<l>Die comanne der joncfrouwen blide waren.</l>
+<l>So wel waenden si hebben gevaren,</l>
+<l>Mochten si te Babylonien comen binnen,</l>
+<l>690  Dat sire twiscatte an souden winnen.</l>
+<l>Si voeren wech, ende haer vaert</l>
+<l>Beviel hem wel te Babylonien waert.</l>
+<l>Tierst dat si te Babylonien quamen,</l>
+<l>Blidelike si die joncfrouwe namen</l>
+<l>695  Ende gavense te prosente den ammirale,</l>
+<l>Dien si alte hant bequam so wale,</l>
+<l>Tierst dat hise met oghen sach,</l>
+<l>Dat hise hem tienvout met goude wach.</l>
+<l>Dies waren die comanne harde vro,</l>
+<l>700  Dat si hem was vergouden so.</l>
+<l><edition n="48"/>Si dancten hem ende namen orlof,</l>
+<l>Ende rumeden met bliscapen thof</l>
+<l>Die joncfrouwe heeft so goede seden,</l>
+<l>So goede gescepe van haren leden,</l>
+<l>705  Die oghen so scone, die huut so claer,</l>
+<l>So wale sit hare dat scone haer,</l>
+<l>Datter die ammirael merct bi</l>
+<l>Dat si van hogen geslachte si.</l>
+<l>Hi was gewone al sijn lijf,</l>
+<l>710  Elcs jaers te hebbene een wijf;</l>
+<l>Die seden, seit hi, sal hi breken</l>
+<l>Dor haren wille ende bespreken,</l>
+<l>Dat hise sal nemen ende houden te wive,</l>
+<l>Ende el ne gene bi sinen live</l>
+<l>715  Nemmermeer ne sal minnen.</l>
+<l>Hi deedse in enen tor binnen;</l>
+<l>Daer vant si scone joncfrouwen in</l>
+<l>Sevene ende twintech meer no min.</l>
+<l>Alle dien beval hi met goeder trouwe</l>
+<l>720  Goem te nemen te dier joncfrouwe</l>
+<l>Ende te dienen dagelijc.</l>
+<l>Doe seide hi ende bat haer gelijc</l>
+<l>Dat sise troesten ende haer seiden,</l>
+<l>Dat hi een jaer noch sal beiden</l>
+<l>725  Eer hi haer wille genaken,</l>
+<l>Ende hi dat doe bi derre saken,</l>
+<l>Dat si die seden daer binnen sal leren;</l>
+<l>Ende wilsi haren sin dan keren</l>
+<l><edition n="49"/>Them ende haers rouwen vergeten,</l>
+<l>730  Daer tenden mach si weten,</l>
+<l>Dat men hare verwedemen sal</l>
+<l>Dat lant van Babylonien al,</l>
+<l>Ende mense sal cronen eerlike</l>
+<l>Ende makense vrouwe van den rike.</l>
+<l>735  Nu es Blancefloer in vremden lande</l>
+<l>Hoe sere wringt si haer hande</l>
+<l>Met groter clage, met groten wene!</l>
+<l>In al der werelt quam nie gene</l>
+<l>Clusenersse no so godelic wijf,</l>
+<l>740  Die so lettel acht om haer lijf</l>
+<l>Alse Blancefloer doet om dat hare.</l>
+<l>Sine weet van rouwen hoe gebaren;</l>
+<l>Hoe dicke seit si: "keitivech wijf,</l>
+<l>Hoe sere rouwet mi mijn lijf!</l>
+<l>745  Mi heeft verloren die scone Florijs,</l>
+<l>Mijn soete lief, mijn soete amijs.</l>
+<l>Ter bliscap daden wi scone begin,</l>
+<l>Maer wi waren onlange daer in.</l>
+<l>Tierst leefden wi met soeten spele,</l>
+<l>750  Nu moeten wi droeven vele</l>
+<l>Ende bliven emmer in den toren.</l>
+<l>Die wile dat ic wart geboren,</l>
+<l>Die moet sijn vermaledijt.</l>
+<l>Dit heeft beraden die leede nijt.</l>
+<l>755  <pb n="50"/> Hi si vermaledijt, diet beriet</l>
+<l>Dat men Florise van mi sciet.</l>
+<l>Ay nijt, hoe quaet es dine nature!</l>
+<l>Ochtu best enege creature,</l>
+<l>Dier goet of evel mach gescien</l>
+<l>760  Entie men mach horen ochte sien,</l>
+<l>Ende daer men toe moge spreken,</l>
+<l>So moet mi God over di wreken</l>
+<l>Ende moet di senden ter dieper hellen,</l>
+<l>Daer di die duvele moeten quellen</l>
+<l>765  Emmermeer al sonder ende.</l>
+<l>Du heefs mi gesent int ellende;</l>
+<l>Ic wane, du Floris oec heves doet,</l>
+<l>Ochte bracht in also grote noet,</l>
+<l>Dat hem rouwet dat hi levet</l>
+<l>770  Dor den rouwe, die hi om mi hevet.</l>
+<l>Ay arme, twi segic om mi?</l>
+<l>En weet ic wel dat Floris si</l>
+<l>Van Spaengien eens heidens coninc kint?</l>
+<l>Al hebbicken domlike gemint,</l>
+<l>775  Ic weet wel dat hi mi niet geteme,</l>
+<l>Ende mi niet en bestaet van heme,</l>
+<l>Ende hem niet van mi te rechte;</l>
+<l>Hi es van so hogen geslechte,</l>
+<l>Dat ic sijns werdech niet en bem,</l>
+<l>780  Maer dat hi mi mint ende ic hem.</l>
+<l>Florijs mint mi utermaten,</l>
+<l>So doe ic hem, in caent gelaten;</l>
+<l><edition n="51"/>Mijns en canic raet geweten,</l>
+<l>Sijns en canic niet vergeten.</l>
+<l>785  Mocht sijn dat ict gedade,</l>
+<l>Dat ic vergate so groter scade</l>
+<l>Ende mochte bliven sonder toren</l>
+<l>Van Florise, die ic hebbe vercoren,</l>
+<l>Dien ic so van herten minne,</l>
+<l>790  Dat waer groet cracht van minen sinne.</l>
+<l>Soete vrient, en mach niet sijn,</l>
+<l>Die rouwe sal bliven int herte mijn;</l>
+<l>Beide bi dage ende bi nachte</l>
+<l>Saltu sijn in mijn gedachte;</l>
+<l>795  Alsic dijns genoeme ende gewage,</l>
+<l>Daer bi cortic mine dage;</l>
+<l>Die rouwe sal bliven met ons beden.</l>
+<l>Talrerst worden wi gesceden</l>
+<l>Bi groten nide, wel soete vrient.</l>
+<l>800  Du best so hoefsch, du heefs verdient,</l>
+<l>Datti alle die gene minnen</l>
+<l>Van dien lande, die di kinnen.</l>
+<l>God ware werd van grote lone,</l>
+<l>Die di maecte: du best so scone,</l>
+<l>805  So hovesch, so goet, so goedertieren,</l>
+<l>Men soude cume vinden hem vieren</l>
+<l>In der werelt, die di geliken.</l>
+<l>Du vermaets di getrouweliken,</l>
+<l>Dattu mi niet en souds begeven;</l>
+<l>810  Nu moetic dor dinen wille leven</l>
+<l><edition n="52"/>Sonder bliscap emmermeer.</l>
+<l>Dese rouwe ende dit grote seer</l>
+<l>Ne magic meer nu verwinnen,</l>
+<l>Floris, en si bi diere minnen."</l>
+<l>815  Al dus heeft Blancefloer geclaget</l>
+<l>Dien rouwe, die si int herte draget,</l>
+<l>Al daer si es in vremden lande.</l>
+<l>Vor haer herte leit si haer hande,</l>
+<l>Haer dunct dat hare herte sal breken,</l>
+<l>820  Van rouwen mach si niewet spreken.</l>
+<l>Die joncfrouwen, die bi haer saten,</l>
+<l>Ende sagense so harde meslaten,</l>
+<l>Entie grote clage hoerden,</l>
+<l>Si troestense met soeten woerden</l>
+<l>825  Ende seiden, si dorste haer niet ontsien,</l>
+<l>Haer en soude maer al goet gescien.</l>
+<l>Nu latic van Blancefloere bliven,</l>
+<l>Ende wille u seggen ende bescriven</l>
+<l>Vanden portren, diese brochten</l>
+<l>830  Ter marct te Nicle ende daer vercochten.</l>
+<l>Si hadden haers heren gebod gedaen,</l>
+<l>Haer dinc was hem wel vergaen.</l>
+<l>Si hadden gewonnen harde vele</l>
+<l>Ende keerden weder met groten spele.</l>
+<l>835  Met groter bliscap mense ontfinc,</l>
+<l>Ende gavense op haren here den coninc,</l>
+<l>Als hi geboet ende woude,</l>
+<l>Dat silver metten groten goude</l>
+<l>Daer toe die pellene entie sindale</l>
+<l>840  Die heme bequamen harde wale,</l>
+<l><edition n="53"/>Die bliaude purper sanguine,</l>
+<l>Die mantele rode pelline,</l>
+<l>Die valken, die haveke, die sporewaren,</l>
+<l>Die ors, die harde goet waren;</l>
+<l>845  Den guldinen cop si daer toe gaven,</l>
+<l>Die werd was vele haven.</l>
+<l>Dien nam die coninc in sijn hant;</l>
+<l>En was geen so goet in sijn lant,</l>
+<l>Ende alle, die waren in die zele,</l>
+<l>850  Si prijsdene ende besagene vele.</l>
+<l>Nu hoert, wat doet die conincinne:</l>
+<l>Si was noch droeve in haren sinne,</l>
+<l>Dies en nam si gene ware.</l>
+<l>"Here", seit si, "noch ben ic in vare</l>
+<l>855  Ende ontsie noch ander ongeval,</l>
+<l>Alse Floris weder comen sal</l>
+<l>Ende om Blancefloere sal vraghen,</l>
+<l>Wies wi dan best over een draghen,</l>
+<l>Dat wi antworden, waer si es.</l>
+<l>860  Ic ontsie mi ende sorge des</l>
+<l>Alse hise hier niet en vint</l>
+<l>Die hi so van herten mint,</l>
+<l>Dat hem die droefheit entie smerte</l>
+<l>So vaste moge liggen int herte</l>
+<l>865  Ende hi den rouwe gewinne so groet,</l>
+<l>Dat hi hem selven sla te doet</l>
+<l>Ocht in eneger manieren verdoe.</l>
+<l>List ende raet behoeft daer toe,</l>
+<l>Wat men hem best geseggen moge,</l>
+<l>870  <pb n="54"/> Daer men sine droeve herte bi verhoge</l>
+<l>Ende menne met list levende behoude.</l>
+<l>Verliesen wine, hets bi onser scoude."</l>
+<l>"Vrouwe", sei hi, "gi segt wel,</l>
+<l>Ic does uwen raet ende niet el."</l>
+<l>875  "Here", seit si, "gi selt doen touwen</l>
+<l>Een graf ende dat van marbre houwen,</l>
+<l>Beide van marbre ende van kerstale;</l>
+<l>Dat doet maken ende bewerpen wale</l>
+<l>Beide met zilvere ende met goude.</l>
+<l>880  Dan mach menne ontbieden houde,</l>
+<l>Ende als hire omme vraget, so mogen wi</l>
+<l>Doen seggen, dat si begraven si.</l>
+<l>Hi en sal niet lange merren,</l>
+<l>Dat mochter ons lichte ane werren,</l>
+<l>885  Des selen wi te harder haesten daer mede."</l>
+<l>Te hant die coninc ombieden dede,</l>
+<l>Na dien dat sijn moet gedroech,</l>
+<l>Goede meestre ende diere genoech,</l>
+<l>Ende daer toe diere goutsmede.</l>
+<l>890  Hi wijsde hem ene scone stede</l>
+<l>Ende seide, dat si namen goem.</l>
+<l>Doe begonnen si werken onder enen boem</l>
+<l>Vor enen monster een eerlijc graf,</l>
+<l>Daer men wonder mag seggen af.</l>
+<l>895  Het was van kerstale ende van marberstene,</l>
+<l><edition n="55"/>En was creature ne gene</l>
+<l>Si en stonder in gescreven:</l>
+<l>Die vogel die in die lucht sweven,</l>
+<l>Serpente, liebarde met andren dieren,</l>
+<l>900  Ende vissche die in der rivieren,</l>
+<l>In des zeewes gronde swemmen.</l>
+<l>Met dieren stenen ende met gemmen</l>
+<l>Scierden die goutsmede haer werke.</l>
+<l>Ten hoefden setten si opten serke,</l>
+<l>905  Daer ment best moge bescouwen,</l>
+<l>Een beelde van finen marbre gehouwen,</l>
+<l>Beworpen van zilvere ende van goude</l>
+<l>Ende van varwen menichfoude,</l>
+<l>Blauwe, roet, gelu ende groene.</l>
+<l>910  Bider wijsheit van Salomoene</l>
+<l>Ende bi haers selfs list groet</l>
+<l>Makeden sijt, dat emmer boet</l>
+<l>Sijn hant ter sonnen waert gerect,</l>
+<l>Al waest metten swerke bedect;</l>
+<l>915  Ende also die sonne daer ane sceen,</l>
+<l>Sone was man in die werelt geen,</l>
+<l>Die so claer hadde die oghen</l>
+<l>Dat hi den scijn mochte gedogen.</l>
+<l>Si setten midden op dien sarc</l>
+<l>920  <pb n="56"/> Twee kinder, die werd waren meneger marc,</l>
+<l>Ocht mense vercopen soude.</l>
+<l>Si waren al gewracht van goude</l>
+<l>Ende waren harde rijclijc.</l>
+<l>Deen was Florise ane gelijc;</l>
+<l>925  Dat ander stoet in diere gebare,</l>
+<l>Ocht Blancefloer sine amie ware.</l>
+<l>Blancefloer hadde van goude roet</l>
+<l>In die hant ene rose, die se boet</l>
+<l>Ende hilt vor dansichte haers amijs.</l>
+<l>930  Al dies gelike hilt Florijs</l>
+<l>Ene lylie vor sire amien.</l>
+<l>Die bloemen waren bi meestrien</l>
+<l>Naturlic gemaect ende scone.</l>
+<l>Haergelijc hadde ene guldene crone</l>
+<l>935  Opt hoeft wonderlike goet.</l>
+<l>In Florijs crone een carbonkel stoet,</l>
+<l>Diet so licht om hem maecte,</l>
+<l>Weltijt sore iemen bi genaecte,</l>
+<l>Dat hi also claer daer bi gesach</l>
+<l>940  Ocht sonne scijn waer ende middach.</l>
+<l>Hoert noch wat men lesende vint:</l>
+<l>Daer mocht men sien den wint</l>
+<l>Ende lange pipen, daert waide dore;</l>
+<l>Alle den genen, diere leeden vore,</l>
+<l>945  Dochtet wonderlike dinc.</l>
+<l>Van den winde, die dor die pipen ginc,</l>
+<l><edition n="57"/>Waest so gemaect met luste,</l>
+<l>Dat deen den andren dicke custe,</l>
+<l>Beide custe ende helsede vele.</l>
+<l>950  Al waiende stoeden si met spele.</l>
+<l>Als die wint weder gelach,</l>
+<l>Haer gelijc bleef staende ende sach</l>
+<l>Vriendelijc ins anders oghen.</l>
+<l>Doe begonden si die bloemen toghen,</l>
+<l>955  Die si in haer hande droeghen;</l>
+<l>Als ocht si hem onder loeghen</l>
+<l>Ende leefden, also gebaerden si;</l>
+<l>Dat dochte hem allen dier waren bi.</l>
+<l>Daer was oec een boem geplant,</l>
+<l>960  So gedanen vint men genen int lant,</l>
+<l>Die was geset int graf ten hoefden;</l>
+<l>Sine swige bloeiden ende loefden</l>
+<l>In allen tiden van den jare,</l>
+<l>Dat was die waerheit openbare.</l>
+<l>965  Dien boem willic u noemen:</l>
+<l>Hi hiet ebenus, sine bloemen</l>
+<l>Waren wit ende roet;</l>
+<l>Sijn hout hadde nature groet:</l>
+<l>Al warp ment in een vier binnen,</l>
+<l>970  En mochte vier no brant gewinnen;</l>
+<l>Sine loever gaven oec</l>
+<l>Den soetsten roke, dien ie man roec,</l>
+<l>Ende soeter dan wi geseggen connen.</l>
+<l>Ten voeten stoet oec jegen der sonnen</l>
+<l>975  <pb n="58"/> Een boem, die heet tyrebijn;</l>
+<l>Sijn roke mochte niet soeter sijn.</l>
+<l>An die rechter side stoet een crismier,</l>
+<l>Ende an die luchtre een balsemier,</l>
+<l>Die gerechte balseme gaf;</l>
+<l>980  Daer mocht men die balseme sien vallen af;</l>
+<l>Van den crismiere droep crisme neder.</l>
+<l>Van dien tween bomen en was no weder,</l>
+<l>Hi en gaf den roke so goet,</l>
+<l>Dat hem dochte dier onder stoet,</l>
+<l>985  Dat hi ware int paradijs.</l>
+<l>Die dese viere bome plante, was wijs.</l>
+<l>Alle die gode, die waren doe</l>
+<l>Doe hise sette, hi beswoerre toe.</l>
+<l>Die gode die daden die boeme groeien,</l>
+<l>990  Alt jaer loeven ende bloeien.</l>
+<l>Daer boven plaghen altoes te sine</l>
+<l>Ende in te singene vogelkine,</l>
+<l>Die nie en worden so bedwonghen,</l>
+<l>No somer no winter, si en songhen.</l>
+<l>995  So soete geluut si onder hem maecten,</l>
+<l>Weltijt dat si twee daer genaecten,</l>
+<l>Eneghe joncfrouwe met enegen jongelinge,</l>
+<l>Die gelieve waren onderlinge,</l>
+<l>Die hovesch ende naturlec waren,</l>
+<l>1000  Die moesten te hant haer minne baren;</l>
+JABBEDABBEDOE<ENTRY id="i137" anno="a137"><TITLE>Floris ende Blancefloer [1001-2000]</TITLE>
+<DATE><FROM>1340</FROM>
+<TO>1360</TO>
+</DATE>
+<TITEL>Floris ende Blancefloer</TITEL>
+<author>Diederic van Assenede</author>
+<AARD>Rijm</AARD>
+<BRON>Leiden, Bibliotheek der Rijksuniversiteit, Ltk. 191</BRON>
+<DATUM>1340-1360</DATUM>
+<OMVANG>3973 verzen</OMVANG>
+<BRON.OPM>Handschrift Ltk. 191 is een convoluut (2+146+2 bladen). De Floris ende Blancefloer bevindt zich op fol. 3358. Per bladzijde 2 kolommen en per kolom 40 regels. De codex bevat nog vijf andere teksten: Ferguut (fol. 1-32), Der ystorien bloeme (fol. 59-84), Esopet (fol. 85-94), de Bediedenisse van der missen (fol. 95-103), de Dietsche doctrinale (fol. 104-146). Floris ende Blancefloer en Der ystorien bloeme zijn volgens Lieftinck door dezelfde kopiist geschreven. De Ferguut en de Dietsche doctrinale schijnen al in de 15e eeuw samengebonden te zijn geweest; zie Kienhorst (1988), 37-38. De <XREF3 ref=i135>Floris ende Blancefloer</XREF3>
+ in dit hs. gaat terug op de zgn. 'version aristocratique' van de Oudfranse roman <i>Floire et Blancheflor</i>. Daarnaast kennen we nog de Middelnederlandse <XREF3 ref=i397>Floyris ende Blantseflur</XREF3>
+ (fragmentarisch overgeleverd: <x nr=K142>Trier, Stadtbibliothek, Mappe X, mhd. Fragmente, Nr. 13 (fragm.)</x>
+), die terug zou gaan op een oudere, niet overgeleverde versie van de Oudfranse roman.</BRON.OPM>
+<EDITIE>J.J. Mak (ed.): Diederic van Assenede: Floris ende Blancefloer. Uitgegeven met inleiding en aantekeningen. 3e dr. Culemborg, 1970. (Klassieken uit de Nederlandse Letterkunde).</EDITIE>
+<STATUS>Kritisch</STATUS>
+<BRONMNW>433.1 (andere editie)</BRONMNW>
+<BRONMNW>434 (andere editie)</BRONMNW>
+<EDITIE.OPM>De tekst is door Mak uitgegeven naar de editie Leendertz uit 1912 (zie P. Leendertz (ed.): Floris ende Blancefloer van Diederic van Assenede. Leiden, 1912. (Bibliotheek van Middelnederlandsche Letterkunde)). Van de ca. 90 verzen die op vs. 2588 volgen, zijn door verminking van de twee bladen in het handschrift slechts enkele schamele resten overgebleven. Daarom is tussen de regels 2588 en 2589 de betreffende passage naar de prozatekst van het volksboek geplaatst.</EDITIE.OPM>
+<BRONNEN>Leiden, Bibliotheek der Rijksuniversiteit, Ltk. 191</BRONNEN>
+<HSDRUK>Historie van Floris ende Blancefloer</HSDRUK>
+<l>Van selker naturen was die sanc,</l>
+<l><edition n="59"/>Tierst dat si horden dat geclanc,</l>
+<l>Si liepen te samen haestelike</l>
+<l>Ende onder custen hem vriendelike.</l>
+<l>1005  Die minne was soeter, die si dreven,</l>
+<l>Dan ic u telle of vinde gescreven.</l>
+<l>Maer was een dorper ocht een dore,</l>
+<l>Als hi lieden soude daer vore,</l>
+<l>Tierst hi hoerde der vogle sanc,</l>
+<l>1010  Hi gewan daer af so groet bedwanc,</l>
+<l>Dat hi hem gere minnen daer naer</l>
+<l>Ne onder want, maer al daer</l>
+<l>Moest hi slapen ter selver stede,</l>
+<l>So besweken hem alle die lede.</l>
+<l>1015  Dese boeme stoeden alle viere</l>
+<l>Om dat graf, dat so diere</l>
+<l>Was ende so goet, dat ict geprisen</l>
+<l>Niet en mach na sire wisen.</l>
+<l>Om ene joncfrouwe was niene geen</l>
+<l>1020  So goet gemaect; menich rijclec steen</l>
+<l>Waser an geset, daer dogede an lagen</l>
+<l>Ende oec miracle te doene plagen:</l>
+<l>Sofiere, jogonten, calcedonien,</l>
+<l>Miraude, bericolen ende sardonen,</l>
+<l>1025  Jaspen, crisoliten, diamanten,</l>
+<l>Ametisten, topasen, jocanten.</l>
+<l><edition n="60"/>Met dieren lijsten waest graf bevaen.</l>
+<l>Daer mocht men oec sien ane staen</l>
+<l>Lettren al gescreven van goude,</l>
+<l>1030  So openbare, wie so woude</l>
+<l>Ende lesen conde, dat hi las.</l>
+<l>Nu hoert, ic seggu wat dat was:</l>
+<l>Daer stont: "Hier leget Blancefloer</l>
+<l>In dit graf, op desen vloer,</l>
+<l>1035  Die de jonchere Floris, dat scone kint,</l>
+<l>Met gestadeger herte hadde gemint."</l>
+<l>Doe dede die coninc over al gebieden</l>
+<l>Van sinen lande alle den lieden,</l>
+<l>Kint ende kinne, man ende wijf,</l>
+<l>1040  Also lief alsi hadden haer lijf,</l>
+<l>Dat niemen der waerheit soude lien</l>
+<l>Jegen Florise van siere amien,</l>
+<l>Ende niet souden seggen el van hare</l>
+<l>Dan dat si doet ende begraven ware.</l>
+<l>1045  Doe ontboet men Florise dat hi quame.</l>
+<l>Die boedscap was hem wel gename;</l>
+<l>Hi gereidde hem ende nam orlof</l>
+<l>An alle die gene, die waren int hof.</l>
+<l>Willike keerde hi te lande weder.</l>
+<l>1050  Hi reet in die zale; daer beette hi neder;</l>
+<l>Hi groete sire moeder ende sinen vader,</l>
+<l>Ende daer na dandre alle gader.</l>
+<l>Hi vraechde te hant om sire amien;</l>
+<l>Hem antworde niemen no dorste lien</l>
+<l>1055  <pb n="61"/> Die rechte waerheit, alse mense wiste.</l>
+<l>Doe hise niet sach ende hise gemiste,</l>
+<l>Wart hi vervaert ende sere ondaen</l>
+<l>Ende liep wech ter cameren saen,</l>
+<l>Daer hi haerre moeder in bevoer.</l>
+<l>1060  "Vrouwe", seit hi, "waer es Blancefloer,</l>
+<l>Mine amie, die ic hier liet?"</l>
+<l>"U amie, des en weet ic niet."</l>
+<l>"Ghi houd u sceren." "In doe." "Gi doet."</l>
+<l>Die vrouwe wart droeve in haren moet,</l>
+<l>1065  Alsi hoerde gewagen van harre dochter.</l>
+<l>Florise wart in lanc so onsochter:</l>
+<l>"Roepse mi", seit hi, "haestelike!"</l>
+<l>Si antwerdde wider vroedelike</l>
+<l>Ende seide, sine wiste niet waer si ware.</l>
+<l>1070  Hi wart in lanc so meer in vare:</l>
+<l>"Vrouwe", seit hi, "ghi doet guaet,</l>
+<l>Wijstse mi ende doet den raet</l>
+<l>Dat ghise mi haestelike doet sien!"</l>
+<l>Does ander raet en mochte gescien,</l>
+<l>1075  Hi en moeste iet van haer weeten,</l>
+<l>Seide si, alse haer was geheten,</l>
+<l>Dat si doet ende begraven ware.</l>
+<l>Doe en wilde hijs niet geloeven hare</l>
+<l>Onthier ende sijt hem swoer.</l>
+<l>1080  "Ay mi", seit hi, "es Blancefloer</l>
+<l>Mine wel soete amie doet?"</l>
+<l>Hi wart in dansichte harde roet,</l>
+<l><edition n="62"/>Daer na so wonderlike bleec,</l>
+<l>Dat sine varwe enen doden geleec.</l>
+<l>1085  Doe moest hi al met allen swigen,</l>
+<l>Want hi began daer neder sigen</l>
+<l>Ende viel in onmacht optie erde.</l>
+<l>Die vrouwe haer dies ververde</l>
+<l>Ende gaf enen crijt harde luut,</l>
+<l>1090  Dat ment in den hof ende daer uut</l>
+<l>Mochte horen gereedelike.</l>
+<l>Doe quam gelopen haestelike</l>
+<l>Beide gader ter cameren binnen</l>
+<l>Die coninc metter conincinnen,</l>
+<l>1095  Ende dreven groet seer ten selven stonden,</l>
+<l>Daer si haer kint in onmacht vonden.</l>
+<l>Floris lach lange in onmacht;</l>
+<l>Als hi bequam ende hem wart gesacht:</l>
+<l>"Ay mi, wat heeft mi die doet geweten,"</l>
+<l>1100  Seit hi, "dat si mijns heeft vergeten</l>
+<l>Ende Blancefloere nam? Sine dede niet wale:</l>
+<l>Noch biddic haer dat si mi hale,</l>
+<l>Ende si mi lede ende wise</l>
+<l>Int gebloeide velt ten paradise,</l>
+<l>1105  Daer ombeit mijns haer ziele.</l>
+<l>Wat waendi, ocht so geviele,</l>
+<l>Hoe blide ic van haer wesen soude!</l>
+<l>Ay arme, ocht mi leiden woude</l>
+<l>Tharen grave iemen goeder!"</l>
+<l>1110  <pb n="63"/> Doe namen die conincinne, sijn moeder,</l>
+<l>Ende leidden selve al daer,</l>
+<l>Daer si hem seide over waer</l>
+<l>Dat Blancefloer begraven lach.</l>
+<l>Tgraf dochtem scone, daer hijt sach.</l>
+<l>1115  Hi vant die lettren ende las</l>
+<l>Wat so daer ane gescreven was.</l>
+<l>Hi las: "Hier leget Blancefloer</l>
+<l>In dit graf, op desen vloer,</l>
+<l>Die de jonchere Floris, dat scone kint,</l>
+<l>1120  Met gestadeger herten hadde gemint."</l>
+<l>Doe sach hi kinder lachgende staen,</l>
+<l>Van rouwen wart hi so ondaen,</l>
+<l>Dat hi drie werf beswalt achter een,</l>
+<l>No mochte spreken wort ne geen,</l>
+<l>1125  No mochte sien no antwerden.</l>
+<l>Sijn moeder stont daer te jegen werden.</l>
+<l>Als hi bequam them selven weder,</l>
+<l>Vor die kinder ginc hi liggen neder</l>
+<l>Ende weende ende claegde sijn ongeval groet</l>
+<l>1130  Van Blancefloere ende van haerre doet.</l>
+<l>"Ay Blancefloer", sei hi, "Blancefloer,</l>
+<l>Sident dat ic van di voer,</l>
+<l>Leefdic met groten ongemake.</l>
+<l>Wistic op wien, hoe gerne ict wrake,</l>
+<l>1135  Dat ic di dus hebbe verloren.</l>
+<l>Wi waren in enen dag geboren,</l>
+<l>Ende gewonnen in ere nacht</l>
+<l><edition n="64"/>Dus waest gerekent ende geacht</l>
+<l>Gehouden ende geleert te samen,</l>
+<l>1140  Onthier ende wi so verre quamen,</l>
+<l>Dat men verriet ende sciet ons beden.</l>
+<l>Met rechte soudwi henen sceden</l>
+<l>Vander werelt binnen enen dage.</l>
+<l>Niemen wancons mi, dat ic di clage.</l>
+<l>1145  Ic ben serech utermaten,</l>
+<l>Te minen live heefstu mi gelaten</l>
+<l>In rouwen ende in groten wene.</l>
+<l>So hovesch en sach nieman gene</l>
+<l>In der werelt, no soeter wijf.</l>
+<l>1150  So scone, so soete was dijn lijf,</l>
+<l>Dat ict geseggen niet en can.</l>
+<l>Ic wane dat in dese werelt man</l>
+<l>So vroet ne geen es, die can gescriven</l>
+<l>Te rechte die scoenheit van dinen live.</l>
+<l>1155  Du waers spiegel van al den rike;</l>
+<l>Du hilts di harde suverlike.</l>
+<l>Nie gewan wijf so goede seden</l>
+<l>Als du hads, no so scone leden,</l>
+<l>So scone ogen, den mont so soete,</l>
+<l>1160  So scone antwerde, so scone groete.</l>
+<l>Du verwons met dogeden al dine gespele,</l>
+<l>Du hads gemaect vriende so vele,</l>
+<l>Dat si di loveden ende minden</l>
+<l>Ende priseden alle, die di kinden.</l>
+<l>1165  <pb n="65"/> Niemen darf mi wanconnen dies,</l>
+<l>Dat mi nie verleedde no verwies</l>
+<l>Dat ic di minde gestadelike.</l>
+<l>Wi onder minden ons verholenlike:</l>
+<l>Beide met scriven ende in Latijn</l>
+<l>1170  Dedic di verstaen den wille mijn</l>
+<l>Ende minen raet, so dadestu mi,</l>
+<l>Dat sijs niet verstonden dier waren bi.</l>
+<l>Ay doet, hoe nidech ende hoe sure</l>
+<l>Sijn dine seden ende dine nature!</l>
+<l>1175  Du best mordadech als een dief,</l>
+<l>Du haets die di hebben lief,</l>
+<l>Maer siestu iemen leven met spele</l>
+<l>Ende der bliscapen hebben vele,</l>
+<l>Dien biedstu storm ende wijch</l>
+<l>1180  Ende sets an hem dinen crijch;</l>
+<l>Dien neemstu en werpsen openbare</l>
+<l>Uter bliscapen, daer hi gerne in ware.</l>
+<l>Maer roept di een arm keytijf,</l>
+<l>Die onwerd heeft sijn arme lijf,</l>
+<l>1185  Dien oec selden goet gesciet,</l>
+<l>Te hem en wiltu comen niet.</l>
+<l>Des heefstu enen vremden sede:</l>
+<l>Du en wils die di volgen mede,</l>
+<l>Dat mach men an mi merken wel.</l>
+<l>1190  Jc roepe, ende du best so fel,</l>
+<l><edition n="66"/>Dattu mire clage niet wils horen.</l>
+<l>Ic sal mi harde cume verhoren,</l>
+<l>In sal di soeken ende vinden gereet.</l>
+<l>Ic sal doen na dien dat mi steet,</l>
+<l>1195  So waer so ic mi sal bewenden.</l>
+<l>Eer dese dach sal comen ten ende,</l>
+<l>Salic mi selven nemen dat lijf.</l>
+<l>Ens in der werelt man no wijf,</l>
+<l>Hi en mogre lichte bewerven,</l>
+<l>1200  Dat hi hem selven snieme doe sterven.</l>
+<l>Ic sal mi doden, ic hebbe die gewelt</l>
+<l>Ende varen int gebloeide velt,</l>
+<l>Daer Blancefloeren siele jegen die mine</l>
+<l>Gadert ende leset bloemekine."</l>
+<l>1205  Doe rechte hem Floris van den grave,</l>
+<l>Niet verre bleef hi staende daer ave;</l>
+<l>Tenen griffie voedersele hi vinc</l>
+<l>Daer ene guldine griffie in hinc,</l>
+<l>Die hem hadde gegeven Blancefloer</l>
+<l>1210  Op minne, doe hi van haer voer.</l>
+<l>Alse Floris die griffie uut trac,</l>
+<l>Hi hiltse vor hem ende sprac:</l>
+<l>"Dese griffie, Blancefloer, daeddi maken</l>
+<l>Ende gaefse mi bi derre saken,</l>
+<l>1215  Als icse dan saghe, dat si woude</l>
+<l>Dat ic haers gedinken soude.</l>
+<l><edition n="67"/>Nu leget mijn troest an di allene,</l>
+<l>Du salt mi lossen uten wene,</l>
+<l>Daer ic in ben, ende nemen mi dat leven,</l>
+<l>1220  Al ne waerstu mi niet daer toe gegeven.</l>
+<l>Haest, dats wesen sal, dat doe."</l>
+<l>Metten woerde droech hise hem toe</l>
+<l>Ende wildse te sire herten steken inne.</l>
+<l>Dit sach sijn moeder, die conincinne,</l>
+<l>1225  Ende liep te hem waert ende prant</l>
+<l>Haestelike die greffie uut sire hant.</l>
+<l>Nu hort, hoe sine daer na begonste</l>
+<l>Te castiene, alsi wel conste:</l>
+<l>"Floris", sei si, "wel lieve kint,</l>
+<l>1230  Hoe domplike heefstu gemint</l>
+<l>Ende best keytijf van dinen live,</l>
+<l>Dattu dor die minne van enen wive</l>
+<l>Di selven wilds verslaen ter doet</l>
+<l>Ende dogen dor haer die grote noet.</l>
+<l>1235  Ens in der werelt niemen altoes</l>
+<l>No verwoet no sinneloes</l>
+<l>Hi en hadde liever in grote pine</l>
+<l>Blint ende doef ende stom te sine</l>
+<l>In dese werelt emmermeer</l>
+<l>1240  In rouwen ende in groet seer,</l>
+<l>Dan te dogene die bitter doet:</l>
+<l>Die anxt van haer hi es so groet.</l>
+<l>Wat waenstu datti soude vromen</l>
+<l>Dattu di versloeges? Waenstu dan comen</l>
+<l>1245  <pb n="68"/> Int gebloeide velt int paradijs?</l>
+<l>Neen du niet, dies benic wijs,</l>
+<l>Dat en sal di niet mogen gescien,</l>
+<l>Daer en saltu Blancefloere niet sien:</l>
+<l>Daer es binnen so grote core,</l>
+<l>1250  Dat men hem allen verseit die dore,</l>
+<l>Ende menre niemen wille gehoren,</l>
+<l>Die besondecht sijn te voren.</l>
+<l>Du salt dijn woninge kiesen elre,</l>
+<l>Ende varen ter helle in den donkren kelre,</l>
+<l>1255  Daer Biblis es ende Dido,</l>
+<l>Die so serich sijn ende so onvro,</l>
+<l>Datsi met clagene die wincle vervuilen.</l>
+<l>Daer soeken si ende soeken sullen</l>
+<l>Emmermeer ende niewet vinden</l>
+<l>1260  Haer amise, die si minden</l>
+<l>Ende so starke minne droegen,</l>
+<l>Dat sire hem selven omme versloegen.</l>
+<l>Floris, nu hebt goeden troest:</l>
+<l>In toewaert bestu wel na verloest;</l>
+<l>1265  Di sal noch vele goeds gescien:</l>
+<l>Ic wane, du salt noch levende sien</l>
+<l>Blancefloeren, diere amie;</l>
+<l>Ic weet noch selke ersatrie,</l>
+<l>Dat icse bider cracht, dier leget ane,</l>
+<l>1270  Levende weder gewinnen wane."</l>
+<l><edition n="69"/>Doe ginc si wech ten coninc waert</l>
+<l>Rouwech ende sere vervaert.</l>
+<l>"Here", sei si, "hoe gerne ic u bade,</l>
+<l>Dat ghi ons kints hadt genade.</l>
+<l>1275  Siet hier die griffie, die hi hadde geset</l>
+<l>In sijn herte te stekene; ne haddict belet,</l>
+<l>Hi ware doet te derre stede.</l>
+<l>Ic was daer bi ende ic dede</l>
+<l>Den raet dat ics hem bi liste</l>
+<l>1280  Ontrac, eer hijs selve iet wiste."</l>
+<l>"Vrouwe", seit hi, "nu en weest niet te ga:</l>
+<l>Ic wane, hi hem selven niet versla;</l>
+<l>Ghi selt varinge sien dat hi sal</l>
+<l>Sire sericheit vergeten al."</l>
+<l>1285  "Here", seit si, "dan mach niet wesen:</l>
+<l>Van den rouwe sal hi cume genesen,</l>
+<l>En si dat hi sterve ende niet eer.</l>
+<l>Wine hebben al der kinder meer</l>
+<l>Dan hem, ende ocht wi dat verslaen,</l>
+<l>1290  Het sal ute breken saen,</l>
+<l>Dat si bi ons, ende die niemare</l>
+<l>Sal lopen ende worden mare.</l>
+<l>Dan sal groet sijn onse scande</l>
+<l>Ende onse lachter in allen lande."</l>
+<l>1295  "Vrouwe", seit hi, "het ware quaet,</l>
+<l><edition n="70"/>Dadics el dan uwen raet;</l>
+<l>Van hem beden volgics u."</l>
+<l>"Here", seit si, "wel segdi nu.</l>
+<l>Wi moghen oec weten wel gerede,</l>
+<l>1300  Dat wise te gader selen hebben bede</l>
+<l>Ochte gader beide verliesen</l>
+<l>Van desen moeten wi dat beste kiesen."</l>
+<l>"Vrouwe", seit hi, "so segget heme,</l>
+<l>Dat hi ne genen rouwe neme</l>
+<l>1305  Ende hi blide wese ende vro,</l>
+<l>Want die rechte waerheit draget also,</l>
+<l>Dat Blancefloer sine amie levet,</l>
+<l>Die hi harde gemint hevet."</l>
+<l>Si keerde haer omme ende loech,</l>
+<l>1310  Der woerde dochten haer genoech,</l>
+<l>Ende ginc te Florise weder allene.</l>
+<l>"Sone", seit si, "niet en wene,</l>
+<l>Ic sal di seggen ende lien</l>
+<l>Die rechte waerheit van dire amien:</l>
+<l>1315  Si levet, daer es niet int graf.</l>
+<l>Wi hebben di geseit logene daer af,</l>
+<l>Ende daden seggen beide gader</l>
+<l>Bi onser lust, ic ende dijn vader,</l>
+<l>Dat si doet ware. Dat wi dat seiden,</l>
+<l>1320  Daer bi waenden wise di verleiden.</l>
+<l>Wi waenden, als duse doet souds weten</l>
+<l>Dattu haerre minne souds vergeten</l>
+<l>Ende nemen dan eens coninx dochter;</l>
+<l><edition n="71"/>Des souden wi hebben geleeft te sochter</l>
+<l>1325  Dan ochti Blancefloer bleve te wive</l>
+<l>Emmermeer te dinen live.</l>
+<l>Om dat si onedel ende kersten es,</l>
+<l>Entijn vader wilde niet gehingen des</l>
+<l>Dat si dijn wijf soude wesen bleven,</l>
+<l>1330  Wilde hise verdoen; maer hi lietse leven</l>
+<l>Bi den rade, die wi hem rieden,</l>
+<l>Ende bevalse comannen ende deedse bieden</l>
+<l>Te cope ter marct, daer hise sande.</l>
+<l>Daer cochtense comanne van verren lande</l>
+<l>1335  Met groten scatte haestelike,</l>
+<l>Ende voerdense wech in vreemden rike."</l>
+<l>"Vrouwe", seit hi, "segdi mi waer?"</l>
+<l>"Jaic", seit si al sonder vaer</l>
+<l>"Ic salt die doen sien ogelinge."</l>
+<l>1340  Doe deedsi roepen jongelinge,</l>
+<l>Die dapper waren ende starc.</l>
+<l>Ende dede oplichten den sarc.</l>
+<l>Alse Floris niet en vant daer onder,</l>
+<l>Hi dankes Gode, het dochtem wonder,</l>
+<l>1345  Doe seide hi dat hi wilde leven.</l>
+<l>Daer wart die rouwe sciere verdreven</l>
+<l>Vander bliscap; hi wart so blide,</l>
+<l>Dat hi hem vermat te verne sonder bide</l>
+<l>Ende ne ghere rasten onder winden,</l>
+<l>1350  <pb n="72"/> Hi en soudse soeken ende vinden,</l>
+<l>Waer sose ware, genendelike</l>
+<l>Ende brengense weder blidelike.</l>
+<l>Maer hi des niet merken woude,</l>
+<l>Wat pinen hi daer omme dogen soude,</l>
+<l>1355  Ende hoese hem soude werden te sure.</l>
+<l>Dat seide Diederic, die dese aventure</l>
+<l>In Dietsche uten Walsche vant,</l>
+<l>Dat menre soude lettel vinden in dlant,</l>
+<l>Die souden willen geloeven dies,</l>
+<l>1360  Dat iemen so sot ware ende so ries</l>
+<l>Ochte van so coenen sinne,</l>
+<l>Die soude dorren dor enege minne</l>
+<l>Die grote coenheit doen, die hi sal bestaen.</l>
+<l>Vander bliscap, die hi heeft ontfaen,</l>
+<l>1365  Sone roeket hem wat over geet.</l>
+<l>Hi gaet ten coninc, daer hine weet,</l>
+<l>Ende sijn moeder emmer an sijn side.</l>
+<l>Hi gaet serech ende hi gaet blide,</l>
+<l>Om Blancefloere serich ende erre,</l>
+<l>1370  Dat si es gesent so verre,</l>
+<l>Ende andersins blide dat si levet.</l>
+<l>"Here", seit hi, "ic bidde u dat gi mi gevet</l>
+<l>Orlof te varne, ic wilse soeken,</l>
+<l>Blancefloer, wat darf mi roeken,</l>
+<l>1375  In welken lande ic mi bekere?</l>
+<l>Des icse vinde; noch biddic, here,</l>
+<l><edition n="73"/>Beide u ende mire moeder,</l>
+<l>Dat ghijs mi noch maect vroeder</l>
+<l>End mi geraet, alse mi gedoge,</l>
+<l>1380  In welken lande icse vinden moge."</l>
+<l>Doe seide hem haergelijc ende swoer,</l>
+<l>Dat sine wisten waer si voer.</l>
+<l>Doe lachterdet die coninc ende seide, hoe quaet</l>
+<l>Hadde geweest der vrouwen raet,</l>
+<l>1385  Dat si riet, dat mense vercochte;</l>
+<l>Maer Floris dat beter dochte</l>
+<l>Dat si levede dan si doet ware.</l>
+<l>Si pensede om hem ende hi om hare,</l>
+<l>Want hi soude haer volgen, waer si doot,</l>
+<l>1390  Ende genieten des selfs dies si genoet.</l>
+<l>Nu es die coninc harde verdroeft;</l>
+<l>Hem dunct dat hi raets behoeft</l>
+<l>Ende list, hoe hine behouden mach.</l>
+<l>Hi vloekede die wile ende den dach,</l>
+<l>1395  Doe hise ter marct te cope sinde.</l>
+<l>So sere ontsach hi hem van sine kinde,</l>
+<l>Dat hijt om hare verliesen soude,</l>
+<l>Ende hise gerne weder copen woude</l>
+<l>Twivout dierre dan hise vercochte,</l>
+<l>1400  Waer iemen diese hem weder brochte.</l>
+<l>Hi vloeckte oec harde den selven tijt,</l>
+<l>Dat hi moeste sijn vermaledijt,</l>
+<l>Doe hi alrerst harre moeder vant,</l>
+<l>Daer hi roefde in der kerstine lant.</l>
+<l>1405  <pb n="74"/> Noch bidt hi sinen sone, dat hi blive,</l>
+<l>Hi sal hem selke geven te wive,</l>
+<l>Die scone sal sijn ende van hogen magen,</l>
+<l>Die crone met eren moge dragen.</l>
+<l>"Here", seit hi, "ocht gi mi mint,</l>
+<l>1410  Sone gewages nemmer, bedi men vint</l>
+<l>In al der werelt wijf ne gene,</l>
+<l>Die ic minnen mach sonder haer allene.</l>
+<l>So ghi mi henen haestet meer,</l>
+<l>So wi beide weder keren eer."</l>
+<l>1415  "Sone, nu hebt den orlof mijn,</l>
+<l>Na dien dats ander raet en mach sijn.</l>
+<l>Ic sal di helpen ende gewinnen al</l>
+<l>Datti daer toe behoeven sal:</l>
+<l>Rijclike pellene ende cleder van siden</l>
+<l>1420  Ende goede ors met dieren gesmiden,</l>
+<l>Daer toe gout ende silver te vullen</l>
+<l>Ende knapen, die di dienen sullen.</l>
+<l>Maer ic bidde di, dattu dies</l>
+<l>Goeden goem neems ende besies,</l>
+<l>1425  In welker maniere duse soeken salt,</l>
+<l>Ende ochti oec so gevalt</l>
+<l>Dattuse vints, in welker gebare</l>
+<l>Du di mocht vertogen dare,</l>
+<l>Ende hoe duse best salt mogen gewinnen,</l>
+<l>1430  Want grote list behort ter minnen."</l>
+<l><edition n="75"/>"Here", seit hi, "nu hoert na mi.</l>
+<l>Ic wane, dat dit die beste raet si,</l>
+<l>Die men daer toe gepensen can:</l>
+<l>Ic sal varen gelijc enen coman,</l>
+<l>1435  Die wille copen ende vercopen.</l>
+<l>Twelf someren selen vor mi lopen;</l>
+<l>So willic dat men bi uwen rade</l>
+<l>Die drie met silvere ende met goude lade;</l>
+<l>Dander drie selen dragen gemunte penninge,</l>
+<l>1440  Dat wi mogen onse teringe</l>
+<l>Ende onse wedden quiten te gereder;</l>
+<l>Die twee selen dragen goede cleder,</l>
+<l>Pellene, samite, scarlaken diere;</l>
+<l>So willic dat dragen de viere</l>
+<l>1445  Bont werc, grau ende sabelijn.</l>
+<l>Metten twelf someren selen sijn,</l>
+<l>Dier goem selen nemen, twelf garsoene.</l>
+<l>Dit staet u alre best te doene.</l>
+<l>Met mi selen varen twelf scilt knechte,</l>
+<l>1450  Die mi connen dienen te rechte</l>
+<l>Ende goem selen nemen ten rossiden</l>
+<l>Ende ten orssen ende ten gesmiden.</l>
+<l>Ic wille oec een van uwen drossaten,</l>
+<l>Die milde es ende hem best can gelaten,</l>
+<l>1455  Ende daer toe uwen camerlinc,</l>
+<l>Die hovesch ende vroet es talre dinc.</l>
+<l>Dese selen mi ter noet geradech sijn</l>
+<l><edition n="76"/>Ende copen mijn eten ende minen wijn.</l>
+<l>Die twee portren willic voeren met,</l>
+<l>1460  Diese vercochten, want si weten bet</l>
+<l>Dan ic ochter enich ander coman voere,</l>
+<l>Ende weten oec bat van Blancefloere,</l>
+<l>Waer sise vercochten, ende hoe gedanen lieden,</l>
+<l>Ende waer si achterst van haer scieden.</l>
+<l>1465  Haer raet mach mi wel vromen.</l>
+<l>Wi selen seggen waer wi comen,</l>
+<l>Dat wi varen om copinge alse coman.</l>
+<l>Gevallet oec dats mi God an,</l>
+<l>Dat wire omme vragen ende eischen,</l>
+<l>1470  Ende wise ieweren mogen gevreischen,</l>
+<l>Ende wise mogen gewinnen met scatte,</l>
+<l>Ende men ons doe te wetene datte,</l>
+<l>Wine selent om gene have laten,</l>
+<l>Wi en selenre omme geven utermaten</l>
+<l>1475  Der haven so vele, mogen wi met eren</l>
+<l>Ende blidelike weder te lande keren."</l>
+<l>Floris heeft sine tale gheent.</l>
+<l>Die coninc hem droevelike omme went</l>
+<l>Ende doet gereiden ende gewinnen al,</l>
+<l>1480  Des hi in den wege behoeven sal;</l>
+<l>Hi gaf hem dat hi hebben woude.</l>
+<l>Ende alse Floris orlof nemen soude,</l>
+<l>Ende al gereet was sine vaert,</l>
+<l><edition n="77"/>Die coninc dede brengen een teldende paert</l>
+<l>1485  Al gesadelt, dat hi harde minde,</l>
+<l>Ende gaeft Florise sinen kinde.</l>
+<l>So gedaen ne vant men verre no wide</l>
+<l>In al der werelt: sijn een side</l>
+<l>Si was wit ende dander roet,</l>
+<l>1490  Dat dochte den menegen wonder groet.</l>
+<l>Sijn hoeft was al besprinct met bloemen</l>
+<l>Menegerhande, die ic niet can genoemen,</l>
+<l>Vele naturliker dan ofse een man</l>
+<l>Met varwen hadde gemaket daer an,</l>
+<l>1495  Ende die nature hadt also te voren</l>
+<l>Gemaect ende wart daer mede geboren.</l>
+<l>Het was scone ende snel</l>
+<l>Ende harde fier, dat weet ic wel.</l>
+<l>Van den gesmide salic u seggen een deel.</l>
+<l>1500  Van spaenscen pellene was die paneel,</l>
+<l>Met siden gewracht, gestict, gescakiert</l>
+<l>Ende was utermaten geciert.</l>
+<l>Van den gereide die sadelbome</l>
+<l>Hadde een sadelere gemaect van Rome</l>
+<l>1505  Ende gesneden van visch rebben,</l>
+<l>Die van naturen rode varwe hebben.</l>
+<l>Daer mocht men merken an den snede</l>
+<l>Wonderlec werc ende bendechede.</l>
+<l>Van pelline was al gewracht die coverture;</l>
+<l>1510  Daer was in gewracht menege creature,</l>
+<l><edition n="78"/>Onder vissche, vogle ende serpent.</l>
+<l>Twee darengerden waren den coninc gesent</l>
+<l>Van Poelien, die toten gereide</l>
+<l>Wel voegeden ende waren sidijn beide.</l>
+<l>1515  Goud drade mocht mer in sien lopen.</l>
+<l>Men soudse harde diere copen,</l>
+<l>Die nu so gedane hebben woude.</l>
+<l>Die gespen waren zilveren, die tongen van goude,</l>
+<l>Van siden waren al te samen</l>
+<l>1520  Die sloppen die daer jegen quamen.</l>
+<l>Die vorboech, die daer toe behorde,</l>
+<l>Was ene rikelike gout borde,</l>
+<l>Binnen gevoedert van corduwane;</l>
+<l>Menegerande bellekine hinger ane.</l>
+<l>1525  Van goude waren die stegebande;</l>
+<l>Met rechte soudmen die hande,</l>
+<l>Diese wrachten, prisen ende loven.</l>
+<l>Hi hadde van beneden tote boven</l>
+<l>So wonderlec werc gewracht daer an,</l>
+<l>1530  Dat ict vertellen niet en can.</l>
+<l>Van den gereide hebdi gehort;</l>
+<l>Nu salic u een deel seggen vort</l>
+<l>Van den breidele, so ic best mach.</l>
+<l>Ic wane uwer geen nie en sach</l>
+<l>1535  So rikeliken breidel bi sinen tiden.</l>
+<l>Thoeftstoel was al gewracht van siden,</l>
+<l><edition n="79"/>Daer ane stoet menich ledekijn,</l>
+<l>Deen van goude, dander zilverijn,</l>
+<l>Gewracht met meestrien alle.</l>
+<l>1540  Stenekine alse kerstalle</l>
+<l>Stonden bendelike daer in geset,</l>
+<l>Een gouden belleken an elc let.</l>
+<l>Dat seiden, die de steenkine sagen</l>
+<l>Ende kinden, datter dogede an lagen</l>
+<l>1545  Meer dans mi iemen geloeven soude.</l>
+<l>Die braken entie ketenen waren van goude,</l>
+<l>Tgebet was silverijn in den mont,</l>
+<l>Die togel siden, geweven ront;</l>
+<l>Twee goudine braken daer tenden hingen,</l>
+<l>1550  Ende daer tenden dor die braken gingen</l>
+<l>Ten andren, ende an den togel hinc</l>
+<l>Van goude een wel gemaect rinc.</l>
+<l>Met desen gesmide gaf die coninc tpaert</l>
+<l>Sinen sone te helpen te sire vaert,</l>
+<l>1555  Ende dede hem spannen twee goudine sporen,</l>
+<l>Die hi te sijns selfs boef hadde vercoren.</l>
+<l><edition n="80"/>Een vingerlijn hem sijn moeder gaf,</l>
+<l>Daer si hem dogeden vele seide af</l>
+<l>"Minne", seit si, "ic biddi dattu altoes</l>
+<l>1560  Minen raet niet en verroekeloes,</l>
+<l>Du en voers met di dit vingerlijn;</l>
+<l>Also lange alst over di sal sijn,</l>
+<l>En darfstu niet vruchten van quaden diere,</l>
+<l>No van watre no van viere:</l>
+<l>1565  Dine sal mogen scaden wapen no geen man.</l>
+<l>Daer liggen oec meerre dogede an,</l>
+<l>Dies ic geloeve ende seker bem:</l>
+<l>Wie soet draget over hem,</l>
+<l>Ende soeket enege dinc gestadelike,</l>
+<l>1570  Hi salse vinden, ende gewinnen sekerlike,</l>
+<l>Dat hi soeket spade ende vroe."</l>
+<l>An sinen vinger deedsijt hem doe.</l>
+<l>Hi ontfinc ende dankes sire moeder</l>
+<l>Van so scoenre gichte ende so goeder,</l>
+<l>1575  Daer hi Blancefloere mede waende gewinnen</l>
+<l>Ende weder te Spaengen bringen binnen.</l>
+<l>Hi nam orlof ende wilde varen.</l>
+<l>Daer mocht men sere sien mesbaren</l>
+<l>Ende utermaten wenen bede</l>
+<l>1580  Vader ende moeder tien gescede,</l>
+<l>Haer hande wringen ende sliten haer haer.</l>
+<l>Alle die gene die waren daer,</l>
+<l><edition n="81"/>Si weenden ende hadden rouwe also groet,</l>
+<l>Als hi vor hem lage doet.</l>
+<l>1585  Maer sijn moeder dreef den meesten ween</l>
+<l>Ende custen tienwerf al in een,</l>
+<l>Ende dicker hadde gedaen, maer haer benam</l>
+<l>Die coninc sijn vader, die totem quam,</l>
+<l>Ende custen oec an sinen mont</l>
+<l>1590  Drie werf ter selver stont.</l>
+<l>Emmer waren si in dien,</l>
+<l>Dat sine nemmermeer waenden sien.</l>
+<l>Hen gesciede alsijt ontsagen,</l>
+<l>Want sine nemmermeer en sagen.</l>
+<l>1595  Floris sach se so groten rouwe driven;</l>
+<l>Met Gode hiet hise alle bliven.</l>
+<l>Doe riepen si alle man ende wijf</l>
+<l>Ende bevalen te Gode sijn scone lijf.</l>
+<l>Hi voer wech soeken Blancefloere</l>
+<l>1600  Ende seide, en ware dat hise bevoere,</l>
+<l>Hi soudse soeken sonder inde</l>
+<l>Ende euwelike int ellinde.</l>
+<l>Nu es Floris comen buter stat</l>
+<l>Ende sine someren wel op haren pat.</l>
+<l>1605  Hi achte sijn dach vaerde ende sijn dinc,</l>
+<l>Ende nam raet met sinen camerlinc,</l>
+<l>Welcsins mense best tierst sochte.</l>
+<l>Die camerlinc seide, dat hem best dochte,</l>
+<l><edition n="82"/>Dat si voeren ter havenen daer Blancefloer</l>
+<l>1610  Metten comannen scepede ende voer.</l>
+<l>"Si voeren so lange dat sire quamen.</l>
+<l>Haer herberge si met enen portre namen,</l>
+<l>Die gewone was te herbergen coman</l>
+<l>Ende hovessche liede wel onthalen can.</l>
+<l>1615  Sijn gesate was buten harde rijclic,</l>
+<l>Binnen scone ende suverlic.</l>
+<l>Men stalde die paerde, ende dede hem geven</l>
+<l>Te vollen van hoie ende van even.</l>
+<l>Some gaen si ter marct als hem was geheten,</l>
+<l>1620  Om haren dranc ende om haer eten.</l>
+<l>Ter herbergen si genoech weder senden,</l>
+<l>Dat dierste eten, datsi te cope venden,</l>
+<l>Broet ende wijn ende als te vullen,</l>
+<l>Dat si ten etene behoeven sullen,</l>
+<l>1625  Ende doen gereden houde dat eten,</l>
+<l>Dat hadde hem Floris te voren geheten,</l>
+<l>Dien si eren ede groet heerscap houden.</l>
+<l>Si seggen, dat si coman sijn ende gerne wouden</l>
+<l>Tilike scepen ende over varen,</l>
+<l>1630  Ende an ander copinge haer goet bewaren.</l>
+<l>Als haer eten was gereet,</l>
+<l>Men rechte die taflen, die waren breet,</l>
+<l>Men eisschede water, ende si dwoegen,</l>
+<l>Twee ende twee hem te gader voegen.</l>
+<l>1635  Die werd hadde therte vro ende blide,</l>
+<l>Dien jonchere sette hi neven sire side,</l>
+<l><edition n="83"/>Ende si begonden eten ende drinken.</l>
+<l>Daer mocht men doe den wijn sien scinken,</l>
+<l>Daer gingen die guldine coppe entie silverine,</l>
+<l>1640  Beide met clareite ende met wine,</l>
+<l>Onder heren ende knechten gemeenlike.</l>
+<l>Die te voren hadden geseten moedelike,</l>
+<l>Si dronken wel ende aten,</l>
+<l>Dat si der moetheit al vergaten,</l>
+<l>1645  Ende seiden, alsi gevoelden des wijns,</l>
+<l>Si hadden die herberge Sente Mertijns.</l>
+<l>Si loegen ende spraken haer ende geins.</l>
+<l>Maer Floris hadde al ander gepeins,</l>
+<l>Hine hadde bliscap no ioie gene</l>
+<l>1650  Sonder om Blancefloere allene.</l>
+<l>Te hare waert hadhi emmer sijn gedochte.</l>
+<l>Binnen den etene hi sere onsochte</l>
+<l>Ende dicke om haer versochte,</l>
+<l>No eten no drinken dat hi mochte.</l>
+<l>1655  So lettel hi op sine hande sach</l>
+<l>Van den gepeinse, dat hem int herte lach,</l>
+<l>Dat hine wiste wedert was broet</l>
+<l>So vleesch, dat hi te monde boet.</l>
+<l>Dit dede hi so dicke ende so openbare,</l>
+<l>1660  Dats die vrouwe wart geware.</l>
+<l>Haren here nopede si behendelike:</l>
+<l>"Here, en siedi niet, hoe droevelike</l>
+<l><edition n="84"/>Hem die jonchere gelaet ende versucht?</l>
+<l>In weet, wat hi peinst ede vrucht.</l>
+<l>1665  Hine et geredelike no drinct wijn.</l>
+<l>Al seggen si dat si comanne sijn,</l>
+<l>Si sijn elre omme geport uut."</l>
+<l>Doe sprac si te hem over luut:</l>
+<l>"Jonchere, ic hebbe gemerct an u,</l>
+<l>1670  Van beginne van den etene tote nu</l>
+<l>Hebbics ware genomen ende geweten,</l>
+<l>Dat gi vele hebt gepenst ende lettel geten.</l>
+<l>In weet niet wat u deert,</l>
+<l>Lichte waert te cope dat gi verteert.</l>
+<l>1675  Oec sagic hier, des es niet lange leden,</l>
+<l>Ene joncfrouwe van den selven seden,</l>
+<l>Die mi dochte dat al dus voer;</l>
+<l>Haer selven noemetsi Blancefloer.</l>
+<l>Gi dinct mi harde geliken hare</l>
+<l>1680  Beide van hude ende van hare.</l>
+<l>Van pensene hilt si gene mate.</l>
+<l>Ghi dinct mi van dien gelate</l>
+<l>Ende van der voeren, dat si mi dochte.</l>
+<l>Si versuchte over etene dicke onsochte</l>
+<l>1685  Ende gewoech dicke eens haers amijs,</l>
+<l>Dien si harde minde ende hiet Florijs,</l>
+<l>Daerse omme was versent ende vercocht.</l>
+<l>Dat seiden diese hier hadden brocht,</l>
+<l><edition n="85"/>Dat sise voert vercopen wouden</l>
+<l>1690  Ende te Babylonien met hem voeren souden."</l>
+<l>Alse Floris Blancefloer noemen horde,</l>
+<l>Hine gaf der vrouwe gene antworde.</l>
+<l>Van der groter bliscap, die hi ontfinc,</l>
+<l>Hine wiste wat hem over ginc.</l>
+<l>1695  So harde verwandelde hem sijn moet,</l>
+<l>Dat hi enen nap met wine, die vor hem stoet,</l>
+<l>Met enen messe al omme sloech.</l>
+<l>Doe spraker die werd toe ende loech</l>
+<l>Te spele ende seide openbare,</l>
+<l>1700  Dat hi boete sculdech ware,</l>
+<l>Dat hi omme sloech den wijn,</l>
+<l>Die mesdaet moeste gebetert sijn.</l>
+<l>Doe dede Floris reken in sine male</l>
+<l>Enen guldinen cop al metter scale,</l>
+<l>1705  Die rijclic was ende harde groet.</l>
+<l>Blidelike hine der vrouwen boet.</l>
+<l>"Vrouwe, desen cop gevic u,</l>
+<l>Bedi gi hebt mi vertellet nu</l>
+<l>Van Blancefloere dierste niemare,</l>
+<l>1710  Die ic gevreischen conde van hare.</l>
+<l>Tote nu ne wisticse soeken waer,</l>
+<l>Nu salicse soeken, ende volgen haer naer</l>
+<l>Te Babylonien in die stat, daer gise mi</l>
+<l>Hebt gewijst ende waent dat si si."</l>
+<l>1715  Die vrouwe nam den cop in die hant;</l>
+<l><edition n="86"/>Ic wane, menre lettel so scone vant</l>
+<l>Te dien stonden in die port.</l>
+<l>Haren man gaf sine vort</l>
+<l>Ende dancte den jonchere van den lone</l>
+<l>1720  Ende bad Gode, dat hi die scone</l>
+<l>Te sinen wille noch moeste gewinnen</l>
+<l>Ende weder bringen te lande binnen.</l>
+<l>Doe seide Floris, dat hi betren woude</l>
+<l>Die mesdaet, die hi bi sire scoude</l>
+<l>1725  Optie tafle den wijn verstiet.</l>
+<l>Sinen drossate hi gebiet,</l>
+<l>Dat hi scinke den besten wijn</l>
+<l>Alle den genen, die daer sijn</l>
+<l>Binnen den huus, die wille drinken.</l>
+<l>1730  Daer mocht men mildelike sien scinken,</l>
+<l>Daer gingen die guldene coppe al omme,</l>
+<l>Daer wart geradech ende vroet de domme,</l>
+<l>Daer dochte den bloden, dat hi es coene,</l>
+<l>Daers geen so arm onder die garsoene,</l>
+<l>1735  Hem en dunct, dat hi si so rike,</l>
+<l>Dat hi den hogesten cume gelike.</l>
+<l>Met groter bliscap hebben si bracht</l>
+<l>Den tijt wel naer ter midder nacht.</l>
+<l>Doe ginc die jonchere een lettel slapen.</l>
+<l>1740  So daden scilt cnechte ende cnapen,</l>
+<l>Die van den wege waren gemoeit.</l>
+<l><edition n="87"/>Mettien waest hoge gevloeit,</l>
+<l>Die wint keerde hem omme int nort.</l>
+<l>Doe dede die verman roepen in die port,</l>
+<l>1745  Ochter enege coman waren,</l>
+<l>Die te Babylonien wilden varen,</l>
+<l>Dat si ter havenen voeren daden</l>
+<l>Haer gewant, men soude die scepe laden.</l>
+<l>Alse dit Floris hoerde, het bequam hem wel</l>
+<l>1750  Ende wart blide, dat hem gevel</l>
+<l>Te Babylonien so gereet te verne,</l>
+<l>Daer hi soude wesen gerne.</l>
+<l>Hi dede quiten dat hi hadde vertert</l>
+<l>Ende nam orlof an sinen wert;</l>
+<l>1755  Met Gode hiet hise alle bliven.</l>
+<l>Sine someren dedi vor hem driven</l>
+<l>Ter havene waert, daer hi vant</l>
+<l>Goede scepinge ende werpte te hant.</l>
+<l>Doe seiden die meestre, dier waren an vroet,</l>
+<l>1760  Dat si den wint hadden te seilne goet,</l>
+<l>Die lucht claer ende gestade weder.</l>
+<l>Tghetelt daden si breken neder</l>
+<l>Haren cnapen, dien sijt bevalen.</l>
+<l>Ten hunnen daden si tseil op halen,</l>
+<l>1765  Some vingen si ten gerden ende some ten corden.</l>
+<l>Met enen gestaden winde van norden</l>
+<l>Rumeden si die havene van der stat.</l>
+<l><edition n="88"/>Nu hort wat Floris den stierman bat,</l>
+<l>Die van den scepe was geherst:</l>
+<l>1770  Dat hine ant lant sette alrerst</l>
+<l>Dat hi in die stat te Babylonien mocht comen.</l>
+<l>Bedi hem was geseit ende hadde vernomen,</l>
+<l>Dat van dien dage over dertech nacht</l>
+<l>Alle die coninge hadden geacht,</l>
+<l>1775  Die van den ammirael hilden haer rike,</l>
+<l>Dat si ter feesten alle gemeenlike</l>
+<l>Te hove te Babylonien souden varen,</l>
+<l>Alsi elcs jaers gewone waren;</l>
+<l>Mocht hi die feeste daer belopen,</l>
+<l>1780  Hi soude sijn goet daer wel vercopen,</l>
+<l>Sine scarlakene ende sijn sidene cleder</l>
+<l>Vele te dierre ende te gereder.</l>
+<l>Die stierman geloefde aldus Florise.</l>
+<l>Daer was in den scepe vele spise</l>
+<l>1785  Van brode, van vleesche ende van wine,</l>
+<l>Alse met conincs kinde behoeft tsine.</l>
+<l>Si hadden wint te maten ende niet te vele</l>
+<l>Ende seilden acht dage met vollen zele,</l>
+<l>Sint dat sijs alre ierst begonsten,</l>
+<l>1790  Dat si lant ne geen gesien en consten,</l>
+<l>No daden seil daar binnen striken.</l>
+<l>Eens anders dages sagen si bliken</l>
+<l>Ene roke, daer op was geseten</l>
+<l>Ene stat, die Blandas was geheten.</l>
+<l>1795  <pb n="89"/> Van der stat sach men in die zee</l>
+<l>Twintech milen verre ende mee.</l>
+<l>Daer seide die scipman over waer,</l>
+<l>Ware Floris met sinen gewande daer,</l>
+<l>Hi mochte binnen vier dagen vort</l>
+<l>1800  Te Babylonien varen in die port</l>
+<l>Ende met hem driven sine someren alle,</l>
+<l>Si en worden belet met ongevalle.</l>
+<l>Tierst dattie stierman versach de stat,</l>
+<l>Hi stierde derwaert den rechten pat,</l>
+<l>1805  Die hi conste ende si gewonnen</l>
+<l>Die havene bi den lichte vander sonnen.</l>
+<l>Men galt den verman den verscat scone</l>
+<l>Ende gaf hem boven al sinen lone</l>
+<l>Meer dan hi eisschede ende hebben woude.</l>
+<l>1810  Twintech marc van silvere ende tien van goude</l>
+<l>Dede hem selve hebben Florijs.</l>
+<l>Hem dochte, hi hadden gevoert int paradijs,</l>
+<l>Doe hine ant lant hadde geset,</l>
+<l>Dat hi vinden waende, hi en worde belet</l>
+<l>1815  Bi andren ongevalle, Blancefloere</l>
+<l>Ende gewinnen, ocht hise bevoere.</l>
+<l>Sijn orsse ende sijn someren dede hi ontscepen,</l>
+<l>Sijn scrinen, sijn malen te lande slepen.</l>
+<l>Hi verwarf des avonts ende gewan</l>
+<l>1820  <pb n="90"/> Sijn herberge met enen riken man,</l>
+<l>Die menege wege waren cont.</l>
+<l>Hi hadde in die havene sinen drachmont</l>
+<l>Ende was gewone, dat hine laden dede,</l>
+<l>Ende als hi was geladen, dat hire mede</l>
+<l>1825  In Spaengen ocht in andren lande voer.</l>
+<l>Mettien scepe was Blancefloer</l>
+<l>Van Spaengen te Blandas over brocht</l>
+<l>Metten comannen, diese hadden gecocht.</l>
+<l>Ten selven huus hadsi gelegen ene nacht,</l>
+<l>1830  Daer Floris hadde te herbergen geacht.</l>
+<l>Daer mach hi andre niemare horen</l>
+<l>Van Blancefloere, die hi hadde vercoren.</l>
+<l>Tierst dat si ter herbergen quamen,</l>
+<l>Men hiet den cnapen dat si goem namen</l>
+<l>1835  Ten someren ende ten andren paerden,</l>
+<l>Datsise corenden ende wel bewaerden.</l>
+<l>Si vonden die herberge wel bewest</l>
+<l>Van dies hem behoefde best.</l>
+<l>Orscoren genoech ende voeder.</l>
+<l>1840  Van so scoenre herberge ende so goeder</l>
+<l>Vant men quaden coeder daer,</l>
+<l>So wel waest bewist van spisen alt jaer.</l>
+<l>Si vonder genoech broet ende wijn.</l>
+<l>Ende verken vleesch ende renderijn,</l>
+<l>1845  Gesouten ende ongesouten bede,</l>
+<l><edition n="91"/>Ende van menegen dinge scone gerede.</l>
+<l>Alse die scilt cnechte ende die garsoene</l>
+<l>Hadden gedaen dat hem stoet te doene,</l>
+<l>Haers selves gemaecs si doe plagen,</l>
+<l>1850  Want si waren verpijnt in negen dagen</l>
+<l>Ende binnen negen nachten in die zee;</l>
+<l>Des haeste men teten te mee.</l>
+<l>Daer vonden si oec in enen quaden sede,</l>
+<l>Want dammirael daer nemen dede</l>
+<l>1855  Harde swaren tol enen sinen seriant,</l>
+<l>Die tgerechte van hem hilt int lant.</l>
+<l>Waest recht, waest onrecht, si vertolden daer</l>
+<l>Van haren goede swaren vaer.</l>
+<l>Doe si haren tol hadden af gedaen,</l>
+<l>1860  Deten was gereet ende gingen dwaen.</l>
+<l>Die jonchere was int scoenste geseten.</l>
+<l>Doe dede men vort bringen dat eten;</l>
+<l>Men diende hem rijclic alrerst,</l>
+<l>Want hi van hem allen was geherst,</l>
+<l>1865  Met guldinen ende met silverinen vaten.</l>
+<l>Si dronken alle vrolike ende aten.</l>
+<l>Maer hi selve des lettel achte.</l>
+<l>Emmer hadde hi in sine gedachte,</l>
+<l>Daer hi omme was geporret uut.</l>
+<l>1870  Dit vernam die werd ende sprac over luut:</l>
+<l>"Jonchere, mi dinct dat gi lettel et;</l>
+<l><edition n="92"/>Ic wane u harde an u eten let</l>
+<l>Ende u harde mescomt in uwen moede</l>
+<l>Dese grote tol van uwen goede."</l>
+<l>1875  "Here", seit hi, "dat moechdi weten wel,</l>
+<l>Dat daer omme si ende niewer omme el,</l>
+<l>Dat ic dus peinse ende droeve bem."</l>
+<l>Doe antwerde die werd ende sprac te hem:</l>
+<l>"Here," seit hi, "bi dire voeren gedinkes mi nu</l>
+<l>1880  Ende bi den gelate dat ic verneme an u:</l>
+<l>Hier was een geselscap van comannen tjaren,</l>
+<l>Die ic wane dat van Spaengen waren.</l>
+<l>In dese herberge lagen si enen nacht.</l>
+<l>Van Spaengen had icse vor mi bracht</l>
+<l>1885  Al hier in die port met minen drachmonde.</l>
+<l>Alle waren si blide davontstonde.</l>
+<l>Maer daer was mede ene scone joncfrouwe,</l>
+<l>Die vele peinsde ende hadde rouwe,</l>
+<l>Dat sine mochte drinken no eten.</l>
+<l>1890  Blancefloer seidsi, dat si was geheten,</l>
+<l>Ende also noemdense, die met haer waren."</l>
+<l>Floris was blide van der niemaren.</l>
+<l>"Ay here", seit hi, "moechdi nu vort tellen</l>
+<l>Van dier joncfrouwen ende van dien gesellen,</l>
+<l>1895  Ocht gi iet vernaemt, hoe si hem berieden,</l>
+<l>Waer si souden varen, doe si henen scieden?"</l>
+<l>"Jonchere", seit hi, "si achten te verne her vort</l>
+<l>Te Babylonien in die port."</l>
+<l>Doe dede Floris reken van scarlaken roet</l>
+<l>1900  <pb n="93"/> Enen mantel, die hi sinen werd boet,</l>
+<l>Ende enen silverinen nap, beide vier nuwe:</l>
+<l>"Her werd, dese gichten sijn beide uwe;</l>
+<l>Derre seldi Blancefloere weten danc.</l>
+<l>Van harre minne hebbic so groet bedwanc,</l>
+<l>1905  Dat ic dor haren wille moet varen dolen</l>
+<l>In minen lande wart si mi verstolen,</l>
+<l>Ende nu weet ic waer icse vinden sal.</l>
+<l>"Here", seit hi, "God geve hem ongeval,</l>
+<l>Die u beraden heeft dit leet!</l>
+<l>1910  God moetu u amie wisen gereet</l>
+<l>Ende moet u noch met haer geven</l>
+<l>Bliscap, spel ende lange leven."</l>
+<l>Doe saten si over etene ende spraken</l>
+<l>Van desen ende van andren saken,</l>
+<l>1915  Maer Floris conde haers niet vergeten.</l>
+<l>Doe si genoech alle hadden geten,</l>
+<l>Ende op waeren gedaen die scoenlakene,</l>
+<l>Floris geboet die bedden te makene.</l>
+<l>Selve ginc hi opt scoenste slapen.</l>
+<l>1920  Doe gingen te bedde heren ende cnapen.</l>
+<l>Daer Floris sliep, hem droemde sochte</l>
+<l>Om Blancefloere, want hem dochte,</l>
+<l>Dat hise met sinen ogen sach</l>
+<l>Ende hi in haren armen lach,</l>
+<l>1925  Si in den sinen, ende hi in den haren.</l>
+<l>Als hi ontspranc, wart hi geware,</l>
+<l><edition n="94"/>Dat het droem was ende logene al.</l>
+<l>Doe vloecte hi sere sijn ongeval,</l>
+<l>Dat die bliscap te niete bleef,</l>
+<l>1930  Die hem dochte dat hi dreef.</l>
+<l>Die nacht leet, die hem verwies.</l>
+<l>Smargens alse die wachter blies,</l>
+<l>Ende Floris sach dattie dageraet op ginc,</l>
+<l>Doe wecte hi selve sinen camerlinc.</l>
+<l>1935  Doe porden scilt cnechte ende garsoene,</l>
+<l>Ende daden dat hem bestoet te doene.</l>
+<l>Die someren dreef men als men noch pliet.</l>
+<l>Doe en wilde Floris langer merren niet.</l>
+<l>Die werd gebrachtene uter stat</l>
+<l>1940  Te Babylonien opten rechten pat.</l>
+<l>Des nachts herbergeden si in een casteel,</l>
+<l>Daer si haers willen oec hadden een deel.</l>
+<l>Si vonden scone herberge ende goeden wert,</l>
+<l>Ende gouden blidelike dat si hadden vertert,</l>
+<l>1945  Ende porden sanders mergens vroe.</l>
+<l>In ene dorp marct herbergeden si doe,</l>
+<l>Daer men hem seide, dat mense hadde sien liden</l>
+<l>Ende met comannen te Babylonien riden.</l>
+<l>Des anders dages porden si metten dage</l>
+<l>1950  Ende voeren vort optie rechte slage</l>
+<l><edition n="95"/>Ende quamen omtrent die vespertijt</l>
+<l>Tenen watre, dat snel was ende wijt,</l>
+<l>Die Fire hiet ende was harde diep,</l>
+<l>Een arm vander zee die so sere liep,</l>
+<l>1955  Datter nie brugge over ginc.</l>
+<l>Een horen daer an enen stake hinc;</l>
+<l>Die horen was yvoren, cypres die stake,</l>
+<l>Ende was daer gehangen om die sake,</l>
+<l>Die den verman hebben woude,</l>
+<l>1960  Dat hi den horen blasen soude.</l>
+<l>An dander side stont Monflijs.</l>
+<l>Den horen nam in die hant Florijs</l>
+<l>Ende setten te monde ende blieser mede,</l>
+<l>Dat hijt te Monflijs horen dede.</l>
+<l>1965  Die scepeliede te hem quamen,</l>
+<l>Tierst dat si den horen vernamen,</l>
+<l>Ende loeden int scip in corter stonden</l>
+<l>Wat so si te voerne vonden.</l>
+<l>Die meester was selve met enen bote over comen</l>
+<l>1970  Ende hadde Floris met hem int scip genomen.</l>
+<l>Alsi hadden geladen, keerden si weder.</l>
+<l>Floris wart pensende ende sloech thoeft neder,</l>
+<l>Als hi gewone was ende dicke plach.</l>
+<l>Doe hi vernam ende den jongelinc sach</l>
+<l>1975  Van so edelre gedane ende so droeflec gebaren,</l>
+<l>"Jonchere", seit hi, "welcsins wildi varen</l>
+<l>Ende wat saken soecti in dit lant?"</l>
+<l>Floris antwerde hem te hant:</l>
+<l><edition n="96"/>"Meester, dat moegdi selve sien,</l>
+<l>1980  Dat wi coman sijn ende copingen plien.</l>
+<l>Te Babylonien hebwi geacht te verne,</l>
+<l>Maer te nacht souden wi bliven gerne.</l>
+<l>Hets ons te nachtelic te porne vort.</l>
+<l>Hebdi enech huus in dese port,</l>
+<l>1985  Dat gi mi moegt herbergen met minen gesellen,</l>
+<l>Onse someren ende onse paerde stellen?"</l>
+<l>"Here", seit hi, "ic hebbe herberge goede,</l>
+<l>Dat ic u wane herbergen tuwen gemoede</l>
+<l>Ende al uwen gesellen doen gemac.</l>
+<l>1990  Dat ic u eer vragede ende an u sprac,</l>
+<l>Dat was bedi mi dochte des,</l>
+<l>Ic weet wel dat cume leden es</l>
+<l>Dat vierendeel van enen jare,</l>
+<l>Dat ene joncfrouwe van dien gebare</l>
+<l>1995  Aldus met mi hier over voer.</l>
+<l>Die liede noemdense Blancefloer,</l>
+<l>Diese met hem hadden brocht.</l>
+<l>Dat seidsi, dat mense hadde vercocht</l>
+<l>Om enen jonchere, die in Spaengen bleef,</l>
+<l>2000  Daer si groet seer omme dreef."</l>
+JABBEDABBEDOE<ENTRY id="i138" anno="a138"><TITLE>Floris ende Blancefloer [2001-3000]</TITLE>
+<DATE><FROM>1340</FROM>
+<TO>1360</TO>
+</DATE>
+<TITEL>Floris ende Blancefloer</TITEL>
+<author>Diederic van Assenede</author>
+<AARD>Rijm</AARD>
+<BRON>Leiden, Bibliotheek der Rijksuniversiteit, Ltk. 191</BRON>
+<DATUM>1340-1360</DATUM>
+<OMVANG>3973 verzen</OMVANG>
+<BRON.OPM>Handschrift Ltk. 191 is een convoluut (2+146+2 bladen). De Floris ende Blancefloer bevindt zich op fol. 3358. Per bladzijde 2 kolommen en per kolom 40 regels. De codex bevat nog vijf andere teksten: Ferguut (fol. 1-32), Der ystorien bloeme (fol. 59-84), Esopet (fol. 85-94), de Bediedenisse van der missen (fol. 95-103), de Dietsche doctrinale (fol. 104-146). Floris ende Blancefloer en Der ystorien bloeme zijn volgens Lieftinck door dezelfde kopiist geschreven. De Ferguut en de Dietsche doctrinale schijnen al in de 15e eeuw samengebonden te zijn geweest; zie Kienhorst (1988), 37-38. De <XREF3 ref=i135>Floris ende Blancefloer</XREF3>
+ in dit hs. gaat terug op de zgn. 'version aristocratique' van de Oudfranse roman <i>Floire et Blancheflor</i>. Daarnaast kennen we nog de Middelnederlandse <XREF3 ref=i397>Floyris ende Blantseflur</XREF3>
+ (fragmentarisch overgeleverd: <x nr=K142>Trier, Stadtbibliothek, Mappe X, mhd. Fragmente, Nr. 13 (fragm.)</x>
+), die terug zou gaan op een oudere, niet overgeleverde versie van de Oudfranse roman.</BRON.OPM>
+<EDITIE>J.J. Mak (ed.): Diederic van Assenede: Floris ende Blancefloer. Uitgegeven met inleiding en aantekeningen. 3e dr. Culemborg, 1970. (Klassieken uit de Nederlandse Letterkunde).</EDITIE>
+<STATUS>Kritisch</STATUS>
+<BRONMNW>433.1 (andere editie)</BRONMNW>
+<BRONMNW>434 (andere editie)</BRONMNW>
+<EDITIE.OPM>De tekst is door Mak uitgegeven naar de editie Leendertz uit 1912 (zie P. Leendertz (ed.): Floris ende Blancefloer van Diederic van Assenede. Leiden, 1912. (Bibliotheek van Middelnederlandsche Letterkunde)). Van de ca. 90 verzen die op vs. 2588 volgen, zijn door verminking van de twee bladen in het handschrift slechts enkele schamele resten overgebleven. Daarom is tussen de regels 2588 en 2589 de betreffende passage naar de prozatekst van het volksboek geplaatst.</EDITIE.OPM>
+<BRONNEN>Leiden, Bibliotheek der Rijksuniversiteit, Ltk. 191</BRONNEN>
+<HSDRUK>Historie van Floris ende Blancefloer</HSDRUK>
+<l>Alse Floris van haer spreken horde,</l>
+<l>So wel behaegden hem die worde,</l>
+<l>Dat hi hem te blideliker geliet.</l>
+<l>"Here", seit hi, "waer voerse, doe si henen sciet?"</l>
+<l>2005  "Vrient, ic segt u alsict hebbe vernomen:</l>
+<l>Die comanne, daer si mede was comen,</l>
+<l><edition n="97"/>Vercochtense den ammirael om groten scat,</l>
+<l>Ende si bleef te Babylonien in die stat,</l>
+<l>Dat weet ic wel sekerlike."</l>
+<l>2010  Daer hilt hem Floris vroedelike,</l>
+<l>Die wilde sine sake niet laten verstaen,</l>
+<l>Als hi den andren hadde gedaen.</l>
+<l>Doe si haer goet te lande hadden bracht,</l>
+<l>Si traken ter herbergen ende bleven den nacht</l>
+<l>2015  Gemackelike metten goeden man.</l>
+<l>Des mergens alst dagen began,</l>
+<l>Quiten si haer wedden ende namen orlof vroe.</l>
+<l>Tien pont gaf Floris sinen werd doe,</l>
+<l>Om dat hi hem vriendelike hadde gedient:</l>
+<l>2020  "Her werd, ic biddu, of gi enegen vrient</l>
+<l>Te Babylonien hebt in die stat,</l>
+<l>Die dor u soude doen iet wat,</l>
+<l>Daer ons te herbergen voechde te sine,</l>
+<l>Dat gi hem ombiet met uwen littekine,</l>
+<l>2025  Dat icker hebbe te doene, dat hi mi</l>
+<l>Gehulpech ende geradech si."</l>
+<l>Die werd seide: "gerne, ic seg u, wat gi doet:</l>
+<l>Buten Babylonien vindi ene vloet,</l>
+<l>Die snel es, diep ende breet,</l>
+<l>2030  Die brugge, die daer over geet,</l>
+<l>Begoemt een goet man ende sitter besiden,</l>
+<l>Dat daer niemen en mach liden,</l>
+<l><edition n="98"/>Hi en moet verdingen jegen heme.</l>
+<l>Also alsic den verscat neme,</l>
+<l>2035  Neemt hi den tol van der bruggen daer.</l>
+<l>Wi hebben gesellen gesijn menich jaer.</l>
+<l>Wat so wi verhogen ende winnen,</l>
+<l>Delen wi getrouwelike ende met minnen.</l>
+<l>Te Babylonien in die scone strate</l>
+<l>2040  Heeft hi staende sine gesate</l>
+<l>Met vasten torren ende met hogen.</l>
+<l>Dit vingerlijn seldi hem togen</l>
+<l>Te littekene, dat hi u dor minen wille</l>
+<l>Beide openbare ende stille</l>
+<l>2045  Gehulpech si, ocht gijs hebt noet."</l>
+<l>Floris nam dat vingerlijn, als hijt hem boet,</l>
+<l>Ende dancte hem harde, doe hi van hem sciet,</l>
+<l>Dat hi hem te sinen saken geriet.</l>
+<l>Hi nam orlof ende voer met sinen goede.</l>
+<l>2050  Vor middach quamen si ter selver vloede,</l>
+<l>Daer af getellet te voren was.</l>
+<l>Den portre vonden si sittende op een gras</l>
+<l>An deen side onder enen boem,</l>
+<l>Om sinen tol doen nemen goem.</l>
+<l>2055  Daer had hi van allen een denier van goude,</l>
+<l>Waest man of paert datter liden soude,</l>
+<l>Daer moest hi vertollen, die over die brugge leet</l>
+<l><edition n="99"/>Van so rijcliken clederen was hi gecleet,</l>
+<l>Dat hi sceen die rijclicste vander stat.</l>
+<l>2060  Floris ginc te hem waert daer hi sat,</l>
+<l>Van al den goden quedde hine over luut.</l>
+<l>Daer na seide hi hem groet saluut</l>
+<l>Van sinen geselle ende togede hem tvingerlijn:</l>
+<l>"Siet hier gewarech littekijn.</l>
+<l>2065  Nu hort, ic seg u, wat u ombiet:</l>
+<l>Ocht so gevallet, dat ons noet gesciet,</l>
+<l>Dat ghi ons helpt ende geraet,</l>
+<l>Als ghi hem soud doen ende niet en laet</l>
+<l>Beide openbare ende stille,</l>
+<l>2070  Ende gi ons herberget dor sinen wille,</l>
+<l>Ende peinst ende acht om onse vrome."</l>
+<l>Den goeden man was hi willecome.</l>
+<l>Tierst dat hi verkinde tvingerlijn,</l>
+<l>Hi naemt ende gaf hem weder dat sijn,</l>
+<l>2075  Ende wijsde hem enen tor in ene strate.</l>
+<l>"Vrient," seit hi, "siet ginder mijn gesate;</l>
+<l>Daer vindi mijn wijf ende mijn maisniede.</l>
+<l>Vaert daer ende segt, dat ic haer ombiede,</l>
+<l>Dat si u herberge ende wel onthale</l>
+<l>2080  U ende u geselscap altemale,</l>
+<l>Ende toget haer oec mijn vingerlijn.</l>
+<l>Ghi selt haer willecome sijn."</l>
+<l><edition n="100"/>Doe voer Floris van hem blidelike</l>
+<l>Te sire herbergen, daer hi hoveschelike</l>
+<l>2085  Ontfaen was, hi entie sine,</l>
+<l>Ende geherberget bi den littekine.</l>
+<l>Nu es Floris comen daer hi wesen soude.</l>
+<l>Hem bedarf wel dat hi hem houde</l>
+<l>Met sinne ende pense weder ende vort.</l>
+<l>2090  Al es hi comen in die port,</l>
+<l>Daer hi Blancefloere in weet,</l>
+<l>Nochtan dunct hem harde ongereet</l>
+<l>So getrouwe vrient, dat hi moge</l>
+<l>Te sire saken geraden, alst hem doge,</l>
+<l>2095  Ende helpen met liste, dat hise gewinne.</l>
+<l>Selve wart hi peisende in sinen sinne,</l>
+<l>Dat hi grote sotheit heeft bestaen.</l>
+<l>Floris sprac te hem selven: "wat heefstu gedaen?</l>
+<l>Waer omme heefstu geruumt dijn rike?</l>
+<l>2100  Du heves gedaen onvroedelike.</l>
+<l>Nu bestu comen daer Blancefloer es.</l>
+<l>Wien machtu nu getrouwen des?</l>
+<l>Dune kens hier niemen, die di geve raet.</l>
+<l>Lijstuus jegen iemene, hets di quaet,</l>
+<l>2105  Ende het den ammirael wert vort geseit,</l>
+<l>Hi soude di doen becopen dine dompheit,</l>
+<l>Hi soude di doen slepen ende vangen</l>
+<l>Ende daer na verbernen oft hangen.</l>
+<l><edition n="101"/>Begef diere sotheit, die du heefs geacht,</l>
+<l>2110  Kere weder te lande so du ierst macht.</l>
+<l>Dijn vader sal di selc wijf gewinnen,</l>
+<l>Die du wel salt mogen minnen,</l>
+<l>Die scone sal sijn ende van hogen geslachte.</l>
+<l>Here God, wanen quam mi dit gedachte?</l>
+<l>2115  Wat heefstu geseit? bepeins di bet!</l>
+<l>En gedinct di niet, dattu hads geset</l>
+<l>Dine griffie te diere herte binnen,</l>
+<l>Ende soutti hebben verslegen dor haer minne,</l>
+<l>Om dattu wanes dat si waer doet,</l>
+<l>2120  Maer dat mijn moeder sach ende mi verboet?</l>
+<l>Ende soutstuse al hier weder soeken,</l>
+<l>Te waren ja du!, wat darf di dan roeken,</l>
+<l>Dattu best daer duse soeken souts?</l>
+<l>Om also vele silvers ende gouts,</l>
+<l>2125  Alse te Babylonien in die stat es binnen</l>
+<l>Ende dammirael selve soude gewinnen,</l>
+<l>So weet ic wel, dat ic niet en voere</l>
+<l>Weder te lande sonder Blancefloere.</l>
+<l>Behouden minen live ende mire eren</l>
+<l>2130  Ne magic sonder hare niet weder keren.</l>
+<l>Ic sal bliven noch ende sien</l>
+<l>Ochtic emmer moge comen an dien,</l>
+<l><edition n="102"/>Die mi gehelpe, dat icse spreke.</l>
+<l>Ter minnen es so menegen treke.</l>
+<l>2135  Si maect saen menegen gesont,</l>
+<l>Dien si te voren heeft gewont.</l>
+<l>Dier lettel op hopet, dien geeft si geval.</l>
+<l>Des hopic te bat, dat icse gewinnen sal.</l>
+<l>Dat bliven es mi best na dien dat nu staet.</l>
+<l>2140  Si sal selve daer toe soeken raet,</l>
+<l>Mocht sijt gevreischen, dat ic waer hier.</l>
+<l>Men seit dat quaet te wachten es dat dier,</l>
+<l>Dat te woude waert lopen wille.</l>
+<l>Dat seit die dorper in sinen bispille:</l>
+<l>2145  God helpt ter dinc dicke den man,</l>
+<l>Daer hi selve de hant slaet an."</l>
+<l>In desen twivele stoet hi lange,</l>
+<l>Van minnen stoet hi in groten bedwange.</l>
+<l>Dat hem die sorge verboet te doene,</l>
+<l>2150  Dat hiet hem die minne ende maecten coene.</l>
+<l>Die minne troestene ende seide "blijf",</l>
+<l>Die sorge hiet hem behouden dlijf,</l>
+<l>Ende keren te lande ende wesen blide.</l>
+<l>So lange was hi in desen stride,</l>
+<l>2155  Dat sijn werd ter herbergen quam.</l>
+<l>Tierst dat hine sach ende vernam</l>
+<l>Peisende staende ende harde verdroevet,</l>
+<l>Alse een die wel raets behoevet:</l>
+<l><edition n="103"/>"Soete vrient", seit hi, "scone jongelinc,</l>
+<l>2160  Mescomt u van derre herbergen enege dinc?</l>
+<l>Dat icker u ane gebetren moge,</l>
+<l>Dat salic u betren, sijt wel in hoge."</l>
+<l>"Here", seit hi, "God lone uwer scoenre sprake.</l>
+<l>An dherberge mescomt mi gene sake,</l>
+<l>2165  Maer ic danker u ende bidde te Gode,</l>
+<l>Dat hi mi noch tuwen bode</l>
+<l>Late gescien, dat ic u moet</l>
+<l>Der eren danken, die gi mi doet.</l>
+<l>Maer ic sorge ende bens in vare,</l>
+<l>2170  Dat ic cume sal vinden die ware,</l>
+<l>Die ic soeke te desen stonden;</l>
+<l>Ende al gevallet oec, dat si worde vonden,</l>
+<l>Dat icse cume gewinnen sal,</l>
+<l>En doe goet raet ende groet geval."</l>
+<l>2175  "Vrient", seit hi, "nu gawi eten</l>
+<l>Daer na willic u sake weten.</l>
+<l>Na dien dat ic hore dat u staet,</l>
+<l>Salic u geven den besten raet,</l>
+<l>Dien icker can gepeinsen toe."</l>
+<l>2180  Men gaf water ende si dwoegen doe.</l>
+<l>Die werd was vroet ende van gestaden sinne,</l>
+<l>Te hem riep hi die werdinne.</l>
+<l>"Vrouwe", seit hi, "pleget des joncheren,</l>
+<l>Ontfaten blidelike ende met eren,</l>
+<l>2185  Ende merct oec wel, oft gi iewren bekint</l>
+<l><edition n="104"/>Ocht gesaget so scone een kint."</l>
+<l>Doe gingen si sitten alle drie te samen.</l>
+<l>Ic wille u noemen harre drier namen:</l>
+<l>Die werd hiet Daries, sine werdinne Licoris,</l>
+<l>2190  Tusschen hem tween sat Floris.</l>
+<l>Men dede voert dat eten bringen.</l>
+<l>Der scinken vele daer omme gingen.</l>
+<l>Tusschen die goudine coppe entie silverine</l>
+<l>Scincten si den clareit metten wine,</l>
+<l>2195  Moraet ende andren dieren dranc.</l>
+<l>Het soude u allen dinken te lanc,</l>
+<l>Noemdic u die gerechten alle.</l>
+<l>Om dat ic wane dat u bet bevalle,</l>
+<l>Salict u corten daer ic mach.</l>
+<l>2200  Ic weet wel, dat uwer geen en sach</l>
+<l>No onder heren no onder cnechte</l>
+<l>So wel gedient ende so menich gerechte,</l>
+<l>Als men daer ter taflen droech.</l>
+<l>Alle dier waren hadden genoech.</l>
+<l>2205  Tachterst die werd bringen dede</l>
+<l>Van crude, daer si hem mergeden mede,</l>
+<l>Ende corten haren tijt ende gerne aten.</l>
+<l>Si dronken haren wijn ende si saten</l>
+<l>Blidelike ende met groter mergingen.</l>
+<l>2210  Doe dede Floris enen goudinen cop bringen</l>
+<l>Al vol gescinct met dieren wine,</l>
+<l>Die wel voegde eens coninx te sine,</l>
+<l><edition n="105"/>Daer Blancefloer omme was gegeven,</l>
+<l>Diene doet met groten pinen leven.</l>
+<l>2215  Tierst dat hire an sach gemaelt,</l>
+<l>Hoe Helene was in Grieken gehaelt,</l>
+<l>Die Parijs onscoec, die jongelinc</l>
+<l>Ene grote hitte hem over ginc,</l>
+<l>Ende daer na ene coude so groet,</l>
+<l>2220  Dat hi beefde ende verscoet,</l>
+<l>Ende een suchten van sire herten trac.</l>
+<l>Nu hort wat hi them selven sprac:</l>
+<l>"Ay Floris", seit hi, "ongevallege Florijs,</l>
+<l>En siestu, hoe geluckech was Parijs</l>
+<l>2225  Wat werelden dreef hi, ende hoe soete lijf,</l>
+<l>Doe hi den coninc van Grieken sijn scone wijf</l>
+<l>Helenen ontvoerde over zee?</l>
+<l>Here God, en sal mi nemmermee</l>
+<l>Dat mogen gescien, dat ic sal voeren</l>
+<l>2230  Al dus der scoenre Blancefloeren?</l>
+<l>Hoe lange mach mi dat eten dinken,</l>
+<l>Dit lange eten, dit dicke drinken!</l>
+<l>Ja en hevet hem die werd des vermeten,</l>
+<l>Dat hi di sal, als wi hebben geten,</l>
+<l>2235  Geradech ende gehulpech sijn</l>
+<l>Dor sijns gesellen littekijn!</l>
+<l><edition n="106"/>Hoe sere vernoeit mi des sittens hier!"</l>
+<l>Doe liepen hem die tranen over die lier,</l>
+<l>So dats die werdinne wart geware.</l>
+<l>2240  Tierst dat sijt sach, ontfarmets hare,</l>
+<l>Ende began te merkene sine seden,</l>
+<l>Die gesceppenisse van sinen leden,</l>
+<l>Sine edele gedane, sine witte huut,</l>
+<l>Sine scone ogen, daer die tranen uut</l>
+<l>2245  Liepen gedichte over die liere.</l>
+<l>Die vrouwe was hovesch ende goedertiere</l>
+<l>Ende sprac tharen man ende toget heme:</l>
+<l>"Here, nu merct wat ic hier verneme:</l>
+<l>Des es leden goet stic, dat ict versach,</l>
+<l>2250  Dat dit kint des etens lettel plach;</l>
+<l>Doet wel, doet op die tafle dragen,</l>
+<l>Ende weten troesten ende vragen,</l>
+<l>Wat hem mescomt of wat hem dert,</l>
+<l>Dat hi dus droevet. "Doe dede die wert</l>
+<l>2255  Also als hem die vrouwe riet.</l>
+<l>Men las op damlaken, als ment hiet.</l>
+<l>Daer bleven si beide, hi entie vrouwe,</l>
+<l>Florise te troesten van sinen rouwe.</l>
+<l>"Vrient", seit Daris, "en heelt mi niet:</l>
+<l>2260  So wat vernoye u es gesciet,</l>
+<l><edition n="107"/>Dies en hebt oec gene scame,</l>
+<l>Gine segt mi al uwe mesquame;</l>
+<l>Ic salre u toe raden so ic best can."</l>
+<l>Doe sprac die vrouwe te haren man:</l>
+<l>2265  "Here, ic peinse ende merke des</l>
+<l>Dat Blancefloer die hier boven es,</l>
+<l>Die dammirael so heeft gemint,</l>
+<l>Wondert mi daer ic dit kint</l>
+<l>Die selve gedane, die selve gebare</l>
+<l>2270  Sie ic an hem, die ic sach an hare.</l>
+<l>So harde gelijct hi haer van seden,</l>
+<l>Van hude, van hare, van allen leden,</l>
+<l>Mi en bedriege sine gedane,</l>
+<l>Bi dien dat icker merke ane,</l>
+<l>2275  So ben ic seker ende weet,</l>
+<l>Dat hi der joncfrouwen iet besteet.</l>
+<l>In dit huus was si vijftien dage</l>
+<l>In groten rouwen ende in clage</l>
+<l>Om enen Floris, die si minde,</l>
+<l>2280  Daer mense alrerst omme versinde</l>
+<l>Ende vercochte in vremden lande.</l>
+<l>Si sleet haer haer ende wranc haer hande,</l>
+<l>Ende dreef utermaten groten rouwe.</l>
+<l>Doe cochte dammirael die joncfrouwe,</l>
+<l>2285  Die hi so gerne hebben woude,</l>
+<l>Dat hise tien werf woech met goude</l>
+<l><edition n="108"/>Den comannen, daer hise jegen cochte.</l>
+<l>Dicke sagicse harde onsochte</l>
+<l>Versuchten ende harde meslaten</l>
+<l>2290  Ende wenen trane utermaten</l>
+<l>Om den genen, diese hadde gemint,</l>
+<l>Her Daris, besiet wel dat kint:</l>
+<l>Dat weet ic wel ende geloeve des,</l>
+<l>Dat dese jonchere deen weder es</l>
+<l>2295  Der joncfrouwen broeder ocht haer lief."</l>
+<l>Met desen woerde Floris thoeft op hief,</l>
+<l>Om haren name wart hi so vro</l>
+<l>In sire herten, dat hem dochte so</l>
+<l>Ocht hi ware int paradijs.</l>
+<l>2300  "Vrouwe", seit hi, "niet broeder, maar amijs."</l>
+<l>Doe hem dit woert was ontvlogen,</l>
+<l>"Vrouwe", seit hi, "ic heb u gelogen:</l>
+<l>Wi hebben enen vader ende ene moeder,</l>
+<l>Si es mijn suster, ende ic haer broeder."</l>
+<l>2305  Dus began hi in sine tale werren.</l>
+<l>"Vrient", seit Daris, "wat helpt dit erren?</l>
+<l>Gi segt ende weder segt u woert,</l>
+<l>Gaet bi der waerheit rechte voert.</l>
+<l>Maer ic seg u over luut,</l>
+<l>2310  Sidi om hare geporret uut,</l>
+<l>So sidi dompelike hier comen.</l>
+<l>Ic weet wel, hadt dammirael vernomen,</l>
+<l>Dat hi u al te sticken trecken dade."</l>
+<l>"Here", seit Floris, "dor God genade,</l>
+<l>2315  <pb n="109"/> Ic sal der waerheit lien al gader:</l>
+<l>Die coninc van Spaengen es mijn vader.</l>
+<l>Ic hebbe van lande te lande varen dolen</l>
+<l>Om Blancefloere, die mi es verstolen,</l>
+<l>Daer ghi af sprect ende oec wel kint.</l>
+<l>2320  Ic hebse van herten gemint,</l>
+<l>Dat ic sonder hare niet mach leven.</l>
+<l>Here, moegdire mi raet toe geven,</l>
+<l>Ende ic gewinnen mochte u houde,</l>
+<l>Waert met silvere, waert met goude,</l>
+<l>2325  Des soudic u geven also vele,</l>
+<l>Alse gijs woud hebben tuwen dele.</l>
+<l>Dus eest ende hoe so ment gedoet,</l>
+<l>Dat icse in derre maent hebben moet,</l>
+<l>Ocht dor haren wille bliven doet."</l>
+<l>2330  "Vrient", sprac Daris, "dat waer scade groet,</l>
+<l>Dat u dor minne van enen wive</l>
+<l>Mesval gesciede van uwen live.</l>
+<l>Maer daer toe ne canic gepensen,</l>
+<l>No list no raet gevensen,</l>
+<l>2335  Dier goet toe waer ochte mochte gedogen,</l>
+<l>Dat mense soude gewinnen mogen</l>
+<l>Behouden onsen live ende sonder toren.</l>
+<l>Dat beste, dat icker toe weet, moegdi horen,</l>
+<l>Maer gi en selet niet dorren bestaen;</l>
+<l>2340  Gi waert saen van den live ondaen,</l>
+<l><edition n="110"/>Word geseit den ammirale.</l>
+<l>Des ben ic seker ende weet oec wale,</l>
+<l>Dat geen coninc es die draget crone,</l>
+<l>Al minde hi Blancefloere die scone</l>
+<l>2345  Ende wilde hi hem onder winden dies,</l>
+<l>Dies gi u onder wint, hi en waer een ries.</l>
+<l>Alle die nu sijn in erterike</l>
+<l>Ende waren te voren, arm ende rike,</l>
+<l>Ende droegens over een al te samen,</l>
+<l>2350  Ic weet wel, dat sise niet en namen</l>
+<l>Den ammirael, no ne gewonnen</l>
+<l>Bi al der bendecheden, die si connen.</l>
+<l>No list no cracht doger toe</l>
+<l>No gokelie, no gene dinc die men doe.</l>
+<l>2355  Ons ammirael heeft so groet gewout,</l>
+<l>Dat van hondert ende vijftech coninge niemen en es so stout</l>
+<l>Dat hijt dorre laten of merren iet,</l>
+<l>Hi en come te Babylonien, als menne ombiet.</l>
+<l>Babylonie die stat es binnen</l>
+<l>2360  Twintech milen wijt in allen sinnen.</l>
+<l>Die ommeloep es ront, of hi waer gepast.</l>
+<l>Die muer es dicke ende so vast</l>
+<l>Gewracht van selken morter binnen,</l>
+<l>Datten no yser no stael mach gewinnen.</l>
+<l>2365  Seven ende twintech gelachte es hoge die muer.</l>
+<l><edition n="111"/>Nemmer ne wart wijch no storm so suer,</l>
+<l>Dat men van buten iemene ontsie.</l>
+<l>Dertech staline porten ende drie</l>
+<l>Sijn bi meestrien in den muer gescicht,</l>
+<l>2370  Also menich tor daer op gericht.</l>
+<l>Alle dage int jaer eser volle feeste.</l>
+<l>Binnen der stat staen torren de meeste,</l>
+<l>Die ie man sach, noch seven hondert.</l>
+<l>Mi es leet ende mi wondert,</l>
+<l>2375  Dat gi de sotheit hebt bestaen te doene.</l>
+<l>Dese torre houden seven hondert baroene,</l>
+<l>Van Babylonien die hoechste entie beste,</l>
+<l>Die berechten die stat entie veste.</l>
+<l>Van desen baroenen, die ic mene,</l>
+<l>2380  En heeft en geen die gewelt so clene,</l>
+<l>Dat hi den keyser van Rome gewike,</l>
+<l>No coninc ne geen, die si so rike.</l>
+<l>In de middelt staet oec vander stat</l>
+<l>Een tor, die coste groten scat</l>
+<l>2385  Ende was gemaect bi ouden tide,</l>
+<l>Hondert gelachte hoge ende hondert wide.</l>
+<l>Boven dandre mach menne scouwen,</l>
+<l>Van roden marbre es hi gehouwen</l>
+<l>Ende ront gemaect al uten gronde</l>
+<l>2390  Bat dan iemen geseggen conde.</l>
+<l>Dat verwelf es binnen van kerstale,</l>
+<l>Die huve buten es gesmeet van stale;</l>
+<l><edition n="112"/>Dat mach scouwen so wie so wille.</l>
+<l>Hondert voete es lanc die stille,</l>
+<l>2395  Gewracht van goude van Romenie.</l>
+<l>Daer boven moegdi grote meestrie</l>
+<l>An den appel sien, een diere werc.</l>
+<l>Daer was toe van goude drie hondert merc;</l>
+<l>Bet gemaecten ne sach nieman geen.</l>
+<l>2400  Daer op staet een carbonkel steen,</l>
+<l>Die so bernet bi nachte ende bliket</l>
+<l>So claer, dat hi der sonne geliket.</l>
+<l>Dese stat maect hi binnen so licht,</l>
+<l>Dat no weder garsoen no cnecht</l>
+<l>2405  Ne darf dragen in sijn hant</l>
+<l>Vier in lanterne no brant.</l>
+<l>Diene over twintech milen siet</l>
+<l>Ende daer af te voren en weet niet,</l>
+<l>Hem dunct, dat hire bi</l>
+<l>2410  In ene mile gehinde si.</l>
+<l>Vier woningen sijn in desen torre,</l>
+<l>Daer ic u dese tale af porre.</l>
+<l>Die vloere sijn al van marberstene</l>
+<l>Ende hebben onthoutnesse el ne gene,</l>
+<l>2415  Maer datter een pilaer in die middelt staet,</l>
+<l>Die dor elken vloer in den hogesten gaet.</l>
+<l>Van kerstale es al die pilaer.</l>
+<l>Daer binnen clemt ene fonteine claer</l>
+<l>Toter hogester woningen ende keert weder</l>
+<l>2420  Bi enen condute toten andren neder.</l>
+<l><edition n="113"/>Groten wijsdom die meester conste,</l>
+<l>Die so danech werc ierst begonste,</l>
+<l>Ende dat water bergen ende dalen dede;</l>
+<l>Daer mocht men merken bendechede.</l>
+<l>2425  In die vierde woninge opten hoechsten vloer</l>
+<l>Daer woent joncfrouwe Blancefloer.</l>
+<l>Daer heeft elke haer camere binnen</l>
+<l>Van seven werf twintech harre gesellinnen.</l>
+<l>In den pilaer steken tappe,</l>
+<l>2430  Daer mogen si met bekeren ende met nappen,</l>
+<l>Alsi die tappe willen trecken ute,</l>
+<l>Ontfaen dat water van den condute.</l>
+<l>Die cameren, daer si wonen boven,</l>
+<l>Ne mach niemen genoech loven</l>
+<l>2435  No tharen rechte prisen nemmer.</l>
+<l>Die doren hebben so gedaen temmer</l>
+<l>Ende thout es van selker naturen,</l>
+<l>Dat si emmermeer mogen geduren.</l>
+<l>"Vrient", seit hi, "nu merct ende nemt goem:</l>
+<l>2440  Ebenus heet die boem,</l>
+<l>Daer die doren af sijn, ende es so diere,</l>
+<l>Dat hine mach verbernen van viere.</l>
+<l>Die venstren sijn van selken houte oec,</l>
+<l>Dat nie was roke, die so soete roec.</l>
+<l>2445  Dats een boem, ochter iemen omme vraget,</l>
+<l>Die myrre heet ende myrre draget.</l>
+<l>En mach dor die venstre liden</l>
+<l>Vliege no mosie te genen tiden,</l>
+<l>No ne gerande worm des gewinnen</l>
+<l>2450  <pb n="114"/> Vernoy dien joncfrouwen, dier wonen binnen.</l>
+<l>Die doren luken daer in den mure,</l>
+<l>Die sijn met goude ende met lasure</l>
+<l>Gemalen buten ende binnen.</l>
+<l>Het behoeft, dat si lettren kinnen</l>
+<l>2455  Ende wel geleert sijn inder scrifturen,</l>
+<l>Die die jeeste ende daventuren</l>
+<l>Bekinnen soude ende die beelden,</l>
+<l>Dier an gemaelt sijn van goude, heelden.</l>
+<l>In den tor sijn joncfrouwen gedaen,</l>
+<l>2460  Die vroet ende hovesch sijn ende wel gedaen,</l>
+<l>Seven werf twintech no meer no min.</l>
+<l>Om datter joncfrouwen wonen in,</l>
+<l>Es hi der joncfrouwen tor geheten.</l>
+<l>Dat merkic selve, ende wilt weten,</l>
+<l>2465  Die joncfrouwen moeten neder gaen daer</l>
+<l>Uut haren cameren neven den pilaer</l>
+<l>Van den torre bi enen grade</l>
+<l>Tote des ammiraels kemenade.</l>
+<l>Nu pleget dammirael ende dinct hem goet,</l>
+<l>2470  Dat hi hem twee joncfrouwen dienen doet</l>
+<l>Viertien nacht al omme ende nemmeer.</l>
+<l>Die gaen den graet, dien ic seide eer;</l>
+<l>Dene draget water, dander de dwale,</l>
+<l>Te diene den here, den ammirale,</l>
+<l>2475  <pb n="115"/> Daer moetsi haer gedachte leggen ane</l>
+<l>Te sinen slapen, te sinen opstane.</l>
+<l>Vrient", seit hi, "hets waerheit al,</l>
+<l>Dat ic seggen ende vertellen sal.</l>
+<l>Die portwerdre es so fel ende so geware,</l>
+<l>2480  Dat niemen den mure der genaken dare,</l>
+<l>Dat hi nemmer si so coene,</l>
+<l>Hi en toge, wat hire heeft te doene.</l>
+<l>In elke woningen wonen wachtren viere,</l>
+<l>Fel ende quaet ende putertiere.</l>
+<l>2485  Haerlijc draget altoes onder sinen arme</l>
+<l>Sijt swaert och knijf och gisarme.</l>
+<l>Bi goeclien sijn si so gemaect,</l>
+<l>Dat hen no dach no nacht en vaect.</l>
+<l>Altoes wachten si ende waken.</l>
+<l>2490  Tierst dat sire iemene sien genaken,</l>
+<l>Hi en moge togen redelike sake</l>
+<l>Sonder gedreech ende weder sprake,</l>
+<l>Sone mager niemen wesen bi,</l>
+<l>Si en slane te doet, wie so hi si.</l>
+<l>2495  Vrient", seit hi, "ic sal u seggen waer.</l>
+<l>Onse ammirael es gewone een jaer</l>
+<l>Ende niet langer te houdene een wijf;</l>
+<l>Dies heeft hi geplogen al sijn lijf,</l>
+<l>Dat si nemmer sijn so scone</l>
+<l>2500  Dat loent hi haer met vremden lone.</l>
+<l><edition n="116"/>Als dat jaer entie termt ute es,</l>
+<l>Des mogedi recht sijn gewes,</l>
+<l>So ontbiet hi met sinen salute</l>
+<l>Sine man, dat si comen ute,</l>
+<l>2505  Ende bi sinen lettren gemeinlike</l>
+<l>Oec alle die hogeste van den rike,</l>
+<l>Coninge, hertogen, graven vele.</l>
+<l>Alsi vergadert sijn in die zele,</l>
+<l>Doet hi die vrouwe bringen geleet.</l>
+<l>2510  Tierst dat hijt heet, so es gereet</l>
+<l>Een ridder, die hare thoeft af slaet.</l>
+<l>Des pleget hi, dus gedraegt sijn raet,</l>
+<l>Dus moet int inde copen die vrouwe</l>
+<l>Die ere met groten rouwe.</l>
+<l>2515  Dat doet hi in dien, ende omme dat,</l>
+<l>Dat niemen die vrouwe, die hi heeft gehad,</l>
+<l>Ende te bedde heeft gegaen met heme,</l>
+<l>No clerc no riddre meer ne neme.</l>
+<l>Als hi dan kiest een ander wijf weder,</l>
+<l>2520  Alle die joncfrouwen doet hi dan neder</l>
+<l>Van den torre gaen in enen bogaert.</l>
+<l>Daer gaen si serech ende vervaert.</l>
+<l>Daer ne roect gene te hebbene de ere</l>
+<l>Om die doet, die si vruchten sere,</l>
+<l>2525  Bedi dat si sekerlike weet</l>
+<l><edition n="117"/>Die doet tenden jare gereet,</l>
+<l>So welke so daer toe wert gecoren.</l>
+<l>Van den bogarde moechdi horen,</l>
+<l>Waer omme die joncfrouwen daer inne gaen.</l>
+<l>2530  Die bogaert es al omme bevaen</l>
+<l>Ende besloten met enen mure,</l>
+<l>Daer met goude ende met lasure</l>
+<l>Ende met andren varwen gemaect es an</l>
+<l>Meer dan ic u geseggen can.</l>
+<l>2535  So es hi besloten in allen sinnen,</l>
+<l>Datter niet mach comen inne.</l>
+<l>Een water daer al dore gaet,</l>
+<l>Die van den torre neder in den bogaert gaet.</l>
+<l>Ene flume es ons uten paradise gesent,</l>
+<l>2540  Die loept den bogaert al omtrent.</l>
+<l>Daer vint men in mengertiere,</l>
+<l>Menege scone stene ende diere.</l>
+<l>Die bogaert staet alt jaer gebloeit.</l>
+<l>Wat waendi, vrient, hoe suete het doeit</l>
+<l>2545  Ende hoe bequamelic daer in te sine?</l>
+<l>Daer sitten alt jaer die vogelkine</l>
+<l>Harentare in den gebloeiden swigen,</l>
+<l>Die altoes singen ende niet swigen.</l>
+<l>Daer singt emmer die nachtegale,</l>
+<l>2550  Die merle entie wedewale,</l>
+<l>Daer mach men die lijstren horen clemmen</l>
+<l>Ende neder gaen met harre stemmen,</l>
+<l>Ende andre vogle clene ende grote,</l>
+<l><edition n="118"/>Die daer maken menege soete note.</l>
+<l>2555  Ic weet oec, dat geen boem es,</l>
+<l>No sicmoer, no cypres,</l>
+<l>No vigeboem, no olivier,</l>
+<l>No platanus, no castaengier,</l>
+<l>Die so diere es of so ghoet</l>
+<l>2560  Of die so ghedane vrucht doet,</l>
+<l>Men maghen scone vinden daer</l>
+<l>Ghebloeyt staen altoes int jaer.</l>
+<l>Van turibim, van balsamiere,</l>
+<l>Van acoleien, van eglentiere</l>
+<l>2565  Machmen daer vinden ene grote scole;</l>
+<l>Rosen, lelien, menighe viole,</l>
+<l>Suker, mirre ende wierooc,</l>
+<l>Dat machmen daer binnen vinden ooc;</l>
+<l>Galigaen, prumegarnaten,</l>
+<l>2570  Cardemonie, note messcaten</l>
+<l>Ende van menighen andren cruden een deel;</l>
+<l>Daer wast gingebare ende caneel,</l>
+<l>Geroffels nagle, seware.</l>
+<l>Soe wie so inden boghaert ware</l>
+<l>2575  Entie stemmen hoerde clinken,</l>
+<l>Hoghe clemmen ende neder sinken</l>
+<l>Den soeten sanc metten soeten lude,</l>
+<l>Ende roke die soetheit vanden crude,</l>
+<l><edition n="119"/>Ende saghe so menich ghebloeyt rijs,</l>
+<l>2580  Hi soude wanen sijn int paradijs.</l>
+<l>Ene fonteyne sprinct daer inde middewaert</l>
+<l>Indie scoenste stat vanden boghaert.</l>
+<l>Daer boven staet ghewassen een boom:</l>
+<l>Diere so na comet, dat hire nemet goom,</l>
+<l>2585  Dats no loghen no fabele gheveinst,</l>
+<l>Dat hi nemmer die varwe ghepeinst,</l>
+<l>No nemmer die varwe can ghenomen,</l>
+<l>Hi en magher sien also ghedaen blomen,</l>
+<l>ende alsoo geringhe als een bloem valt, oft daer af gepluckt</l>
+<l>wort, so geringhe isser weder een andere aen gewassen. Dan</l>
+<l>gaet den admirael sitten met sijn heeren neffens den boom,</l>
+<l>ende dan moeten de joncvrouwen daer passeren elck by-</l>
+<l>5  sonder voorby der fonteynen, ende als sy daer voorby</l>
+<l>passeren die maecht sijn so blijft het water vander fonteynen</l>
+<l>schoon ende claer, ende die mach met blijschappen keeren.</l>
+<l>Ende comt daer yemant voorby, die geen maecht en is,</l>
+<l>so wert het water vander fonteynen dic ende onclaer, ende</l>
+<l>10  die vrouwe wert root als een bloedt. Ende dan doet den</l>
+<l>admirael de joncfrouwen weder comen onder den boom,</l>
+<l>die daer ghebloeyet staet, ende op wien dat de bloeme</l>
+<l>valt, die neemt hy voor alle d'ander dat jaer tot eenen wijve,</l>
+<l><edition n="120"/>ende doetse met eeren croonen, maer ten eynde vanden</l>
+<l>15  jare doet hyse sterven. Ende isser ooc eenige vande jonck-</l>
+<l>frouwen die hy meest bemindt, daer doet hy met tooverijen</l>
+<l>de bloeme op vallen. Nu schoon jonckheer ick en weet</l>
+<l>geenen so wijs die hier toe raet gheven soude dat ghy</l>
+<l>Blanchefleur mocht ghecrijghen, want noch binnen eender</l>
+<l>20  maent sal den admirael sijn heeren ontbieden, om de feeste</l>
+<l>te houden van sijnder bruyloft, ende dan sullen alle de</l>
+<l>jonckfrouwen voor hem inden boomgaert comen, ende</l>
+<l>soo ick gehoort hebbe, soo bemint hy Blanchefleur soo</l>
+<l>seer om haer schoonheyt, dat hyse trouwen sal, ende</l>
+<l>25  houdense zijn leven lanck voor hem, ende den admirael</l>
+<l>dunckt den dach te lanck. Och lieve heere weert, seyde</l>
+<l>Floris, gheeft my raet wat ick best mach doen, oft ickse</l>
+<l>opentlijck wil eysschen, maer dan soude my den admirael</l>
+<l>verslaen, maer wat ick lijde voor haer en sal my niet pijnen,</l>
+<l>30  soo verre als zijt vernemen mach, want ick weet wel sy</l>
+<l>en sal dan cortelijck de doot besueren, ende volgen my</l>
+<l>nae, ende dan [sal] haer ziele comen by de mijne bloemkens</l>
+<l>lesen in d'aertsche paradijs, ende daer sullen wy dan blijven</l>
+<l>Ende onse bliscap te gader driven".</l>
+<l>2590  "Vrient", sprac Daris, "dor u groot meslaet</l>
+<l>Salic u gheven den besten raet,</l>
+<l>Dien ic tuwen saken weet.</l>
+<l>Morghen tilijc so sijt ghereet</l>
+<l>Ende vaert ten torre ghelijc enen man,</l>
+<l>2595  Die hoghe dinc visieren can.</l>
+<l>Met uwen voeten metet de wide</l>
+<l>Ende bescout den tor an weder side,</l>
+<l><edition n="121"/>Die hoechte, die dicte merket wel.</l>
+<l>Dien poortwerder seldi vinden so fel,</l>
+<l>2600  In talen so sal hi u setten surlike,</l>
+<l>Ende antwerd hem gestadelike,</l>
+<l>Dat ghi sijt comen den tor te merken,</l>
+<l>Ende als ghi comt te lande, na dien te werken,</l>
+<l>Enen andren ende enen beteren te maken.</l>
+<l>2605  Als hi u hoort spreken van so hogen saken,</l>
+<l>Hi sal hem jegen u becondighen saen</l>
+<l>Ende noden u, oft ghi wilt spelen gaen,</l>
+<l>Dat sal sijn scaecs ende niet el.</l>
+<l>Ic weet wel, hi speelt gherne dat spel,</l>
+<l>2610  Als hi vint jeghen wien, hi pleges vele.</l>
+<l>Hondert bisanten set tenen spele,</l>
+<l>Om also vele speelt ende niet min.</l>
+<l>Gheeft u God seghe ende ghewin,</l>
+<l>Dat sine seldi hem weder gheven,</l>
+<l>2615  Daer toe dat uwe, mindi u leven.</l>
+<l>Sander daghes keert weder ende set te spele</l>
+<l>Der bisanten twee werf so vele.</l>
+<l>Dat sine ghevet hem weder, of ghi wint.</l>
+<l>Ende des uwes hout niet een twint.</l>
+<l>2620  Daer sal u gichte ende u goet</l>
+<l>Verweken sinen evelen moet.</l>
+<l><edition n="122"/>Des derden daghes ghi niet en let,</l>
+<l>Nemet uwen cop met u ende set</l>
+<l>Vier hondert besanten te gader int spel,</l>
+<l>2625  Ende speelt oec niet, ghi en kennet wel</l>
+<l>Datter also vele jegen staen.</l>
+<l>Ende oft gi wint, gheeft hem weder saen</l>
+<l>Tsine metten uwen, als ic seide eer:</l>
+<l>Dus ghewindi sine hulde ie lanc so meer.</l>
+<l>2630  Maer ic rade u ende bevele,</l>
+<l>Dat ghi uwen cop niet en set te spele.</l>
+<l>Daer na, alst ghenoeghet u beiden,</l>
+<l>Dan sel hi u met hem ter herberghen leiden</l>
+<l>Ende bidden, dat ghi met hem et.</l>
+<l>2635  An uwen cop sel hi hebben gheset</l>
+<l>So herde sinen sin, dat hire gherne soude</l>
+<l>Gheven om dusent maerc van goude;</l>
+<l>Maer ghi en selten hem vercopen niet.</l>
+<l>Als ghine daer ane so hanghen siet,</l>
+<l>2640  Soe bietten hem ende bid heme,</l>
+<l>Dat hine op vrienscapen in gichten neme.</l>
+<l>Dus seldine met uwen gichten drinken</l>
+<l>Sine sure herte, dan sel hi dinken</l>
+<l>Ende peinsen, hoe hi u mach dat grote goet</l>
+<l>2645  Enter eren ghedanken, die ghi hem doet;</l>
+<l>Sijn hande sal hi u bieden te werdene u man.</l>
+<l>Des weest ghereet ende ontfaten dan,</l>
+<l><edition n="123"/>Sine manscip ende sine sekerheit.</l>
+<l>Dan moeghdi lien die waerheit</l>
+<l>2650  Boudelike, ende weset coene</l>
+<l>Te telne u sake die ghi hebt te doene,</l>
+<l>Beide u mesquame ende u ongheval,</l>
+<l>Ic weet wel, mach hi, dat hi dan sal</l>
+<l>Uwen wille vordren ende daer an berechten.</l>
+<l>2655  En doet hijs niet, het sal hem ontvechten."</l>
+<l>Doe hem die waerd desen raet gaf,</l>
+<l>Hi dankes hem ende verblider af.</l>
+<l>Smorghens vroe sat hi op sijn paert</l>
+<l>Ende reet rikelic ten torre waert.</l>
+<l>2660  Drie scilt knechte hi met hem nam.</l>
+<l>Als hi ten voeten vanden torre quam,</l>
+<l>Herde condelike leide hire an zijn oghen.</l>
+<l>Hi merkede ende besach die hoghe,</l>
+<l>Die wide mat hi met sinen voeten.</l>
+<l>2665  Doe quam die poortwerder met onsoeten</l>
+<l>Ende met bittren woerden, als hem was gheseit.</l>
+<l>"Vrient", seit hi, "ic merke dijn dompheit,</l>
+<l>Die so groot es, want du ghebaers</l>
+<l>Oftu spiere of verrader waers.</l>
+<l>2670  Mi wondert, dattu of iement dorre</l>
+<l>Soe na comen onsen torre."</l>
+<l>"Heere", seit hi, "spiere en wasic nie:</l>
+<l>Dat ic den tor dus herde besie,</l>
+<l><edition n="124"/>Dats bedi oft mochte wesen,</l>
+<l>2675  Alsic com te lande, dat ic na desen</l>
+<l>Enen andren sel stichten ende maken."</l>
+<l>Doe verwonderde hem van so groten saken</l>
+<l>Den poortwerder ende besach sijn ghedane</l>
+<l>Ende sijn fierlic ghelaet ende mercter ane,</l>
+<l>2680  Dat hi was van hoghen gheslachte.</l>
+<l>Als hi dat sach ende hem bedachte,</l>
+<l>Dat hi so rijclike tale hoorde,</l>
+<l>Beghaf hi thant sine sure woorde.</l>
+<l>"Vrient", seit hi, "ghi sijt ghedaen</l>
+<l>2685  Soe edelike, dat wi wel verstaen,</l>
+<l>Dat ghi spiere niet en sijt.</l>
+<l>Wildi comen corten u tijt</l>
+<l>Ende spelen scaec, ghelievet u iet?"</l>
+<l>"Heere", seit hi, "mi en lustes niet</l>
+<l>2690  Te scake nu of tenighen spele</l>
+<l>Te sitten, en si om haven vele."</l>
+<l>Die poortwerder vraeghde hem schiere,</l>
+<l>Hoe hoghe hi spelen wilde ende hoe diere.</l>
+<l>Floris seide, hi speelde een spel</l>
+<l>2695  Om hondert bisanten ende niet el.</l>
+<l>Doe loefden sijt beide ghemene.</l>
+<l>Men brochte hem een scaec van ivorenbene,</l>
+<l>Dat scone was ende rijclijc.</l>
+<l>Hondert bisanten sette haerlijc.</l>
+<l>2700  Si setten haer spel ende begonsten</l>
+<l><edition n="125"/>Haer ghelijc spelen, als si wel consten.</l>
+<l>Floris const best ende want al.</l>
+<l>Doe dedi als hem sijn waerd beval,</l>
+<l>Ende gaf hem weder dat sine ende al daer met</l>
+<l>2705  Dat hi selve hadde op gheset.</l>
+<l>Den poortwerder wonderde herde daar ave</l>
+<l>Ende dancte hem vander groter have.</l>
+<l>Die gichte was hem herde ghename</l>
+<l>Ende bad hem, dat hi weder quame</l>
+<l>2710  Sanderdaghes te corten hem den dach.</l>
+<l>Smerghens, als Floris sine tijt sach,</l>
+<l>Twee hondert bisanten voerde hi voer hem doe.</l>
+<l>Jeghen also vele sette hise toe.</l>
+<l>Ten scake ghinghen si sitten neder.</l>
+<l>2715  Hj want echt, ende ghaft hem weder</l>
+<l>So wat so hi op hem ghewan,</l>
+<l>Ende daer toe tsine; doe was die man</l>
+<l>So blide dat hi in dire stonde</l>
+<l>Een woort ghespreken niet en conde.</l>
+<l>2720  Daer na sprac hi over lanc</l>
+<l>Ende seide hem der gichten danc,</l>
+<l>Die hi hem hadde ghegheven,</l>
+<l>Ende swoer, also langhe als hi sal leven</l>
+<l>Dat hi te sinen dienste soude sijn ghereet.</l>
+<l>2725  Dats Florise een scoen beheet.</l>
+<l>Des derden daghes Floris met hem nam</l>
+<l>Sinen ghuldinen cop ende quam</l>
+<l><edition n="126"/>Al daer weder ter selver stat.</l>
+<l>Tierst dat hi ten scake sat,</l>
+<l>2730  Ende den scilt knecht, dien hijt gheboot,</l>
+<l>Vier hondert bisanten daer op goet,</l>
+<l>Die in Spaengen nuwelinge waren gheslaghen,</l>
+<l>Die portwerder setter jeghen also vele haven.</l>
+<l>Elc sette sijn spel na sine sede</l>
+<l>2735  Ende togheden beide haer behendichede</l>
+<l>Ende pijnden hem te spelen wel.</l>
+<l>Floris dede voertgaen sijn spel,</l>
+<l>Hi leider an herde sijn ghedochte,</l>
+<l>Ende maecte nauwe drachte, ende sochte.</l>
+<l>2740  Binnen der wilen hi een dracht vercoes</l>
+<l>Daer die portwerder bi verloos</l>
+<l>Een riddere ende een roc van sinen spele</l>
+<l>Ende ooc van sinen vinden vele.</l>
+<l>Des saghen Floris herde ondaen.</l>
+<l>2745  Met crachte quam hi op hem gheghaen,</l>
+<l>Hi vanten ghesconfiert ende sonder cracht,</l>
+<l>Ende setten binnen der derden dracht</l>
+<l>Met enen ouden scaec ende maecten mat</l>
+<l>Ende wanre mede alden scat.</l>
+<l>2750  Des sach hine hebben groten toren</l>
+<l>Om dat goet, dat hi hadde verloren.</l>
+<l>Doen en wilde hijs doen en ghene bide,</l>
+<l><edition n="127"/>Hi gaeft hem weder ende maecten blide.</l>
+<l>Doe de portwerder hadde weder sijn goet</l>
+<l>2755  Ende daer toe datter jeghen stoet,</l>
+<l>Doe vraeghde hi den kinde, oft woude</l>
+<l>Den cop setten, die van goude</l>
+<l>So rijclijc was ende ghemaect so wele,</l>
+<l>Hi souder jeghen setten haven so vele.</l>
+<l>2760  Floris en wouds hem niet onder winden.</l>
+<l>Als hijs an hem niet conde vinden,</l>
+<l>Doen en wilde hijs hem nemmer verghen</l>
+<l>Ende leidene met hem ter herberghen</l>
+<l>Ende bat hem, dat hi met hem at.</l>
+<l>2765  Hi moodene ende eerden om den scat,</l>
+<l>Die hi hem hadde ghegheven te voren</l>
+<l>Ende met gherechten spele verloren</l>
+<l>Doe saten si ende spraken haer ende gheins.</l>
+<l>Die portwerder hadde groot ghepeins</l>
+<l>2770  Ende was in anxte in sire herten binnen,</l>
+<l>Hoe hi den cop moghe ghewinnen.</l>
+<l>Hi besachen boven ende onder,</l>
+<l>Hi vanter an ghescreven wonder.</l>
+<l>Hi besach den voghel, diere boven stoet</l>
+<l>2775  Ende den kerbonkel hilt onder sinen voet,</l>
+<l>Ende seide, dat hi gherne soude</l>
+<l>Dusent maerc daer om gheven van goude,</l>
+<l>Ende bat dat hine hem vercochte.</l>
+<l><edition n="128"/>Doet Floris sach ende het hem tijt dochte,</l>
+<l>2780  Hi namen inde hant ende helten voor hem.</l>
+<l>"Here", seit hi, "om dat ic des seker bem,</l>
+<l>Oft mi noot gheschiede, van uwer hulden</l>
+<l>Ende ic u vrientscap wille versculden,</l>
+<l>Sone willicken niet vercopen u,</l>
+<l>2785  Maer in gichten ghevicken nu."</l>
+<l>Die portwerder ontfinghen blidelike</l>
+<l>Ende swoer ende seide ghetrouwelike,</l>
+<l>Wat hi hem hiete ende wilde gherenst,</l>
+<l>Hi souder an legghen sinen erenst.</l>
+<l>2790  Met leide hine in sinen boghaert</l>
+<l>Ende boot hem sine handen ende wart</l>
+<l>Verholenlike al daer sijn man,</l>
+<l>Des hi berouwenesse daer na ghewan.</l>
+<l>Floris ontfingne ende dede als de vroede,</l>
+<l>2795  Hi hoepte dat hem comen soude te goede.</l>
+<l>"Vrient", seit hi, "mijn man sidi nu,</l>
+<l>Nu betrouwe ic ende ghelove u</l>
+<l>Als enen minen man, dat ghi mi</l>
+<l>Ghehulpich selt sijn, waer het si.</l>
+<l>2800  Ic sel mi ghetroosten vanden rade</l>
+<l>Ende setten mijn lijf in uwe ghenade.</l>
+<l>Het doet mi die noot, dat ics u lie:</l>
+<l><edition n="129"/>Hier boven inden tor es mine amie,</l>
+<l>Daer es die scone Blancefloer,</l>
+<l>2805  Die mi sident dat ic van haer voer,</l>
+<l>In groten seere heeft ghelaten.</l>
+<l>Die mindic so utermaten;</l>
+<l>Dat vernoyde minen vader ende docht hem quaet</l>
+<l>Ende mire moeder, ende daden den raet,</l>
+<l>2810  Dat si mi daer omme wart verstolen.</l>
+<l>Nu hebbic so langhe varen dolen</l>
+<l>Van Spaengen ende daer om gheeisschet</l>
+<l>Dat icse inden tor hebbe ghevreisschet.</l>
+<l>In can gheseggen hoe gherne icse saghe.</l>
+<l>2815  Ic sel doot bliven binden vierden daghe,</l>
+<l>Of ic selse hebben, hoement ghedoe.</l>
+<l>Soete vrient, nu troost ende raet daer toe."</l>
+<l>Doe die portwerder sine reden verstoet,</l>
+<l>"Heere", seit hi, "mi hevet verleidet u goet,</l>
+<l>2820  Des ben ic te spade worden gheware.</l>
+<l>Ghi hebt ghedaen als die voghellare,</l>
+<l>Die scone pipet ende blaset,</l>
+<l>Daer hi die voghelkine mede verdwaset.</l>
+<l>Met liste hebdi mi ghevaen,</l>
+<l>2825  Datic met eren u niet mach ontgaen.</l>
+<l>Comet te scaden of te vromen,</l>
+<l>Nadien dat het dus es comen,</l>
+<l>Salic u gheleisten mine trouwe</l>
+<l>Ic weet wel, dat ghi entie joncfrouwe</l>
+<l>2830  <pb n="130"/> Ende ic daer omme selen sterven</l>
+<l>Ende emmer willic pensen ende werven</l>
+<l>Om helpe ende raet te gheven u.</l>
+<l>Ghi selt ter herberghen varen nu,</l>
+<l>Dat wanic dat best si.</l>
+<l>2835  In derden daghe comt hier weder tot mi,</l>
+<l>Dat sal dierste dach van Meie wesen.</l>
+<l>Ic sal mi bewissen ende doen lesen</l>
+<l>Dierste bloemen, die men mach venden,</l>
+<l>Ende salse onsen joncfrouwen senden.</l>
+<l>2840  Dan sel ic soeken selke behendichede,</l>
+<l>Alsic sende blomen, dat icker u mede</l>
+<l>Der joncfrouwen Blancefloere senden sal;</l>
+<l>Hier toe behoeft ons goet gheval."</l>
+<l>Doe weende Floris ende seide,</l>
+<l>2845  Dat hem de termt entie beide</l>
+<l>Soude dinken utermaten lanc;</l>
+<l>Maer dander, die sonder bedwanc</l>
+<l>Daer om waent vallen in groter noot,</l>
+<l>Het docht hem cort te sire doot.</l>
+<l>2850  Deen hadde bliscap, dander rouwe.</l>
+<l>Te dien dat Floris die joncfrouwe</l>
+<l>Te sinen wille hebbe ghesien,</l>
+<l>Hem en roect, wat hem daer na sel ghescien.</l>
+<l>Floris voer te siere herberghen waert.</l>
+<l>2855  Dander bleef in rouwen ende seere vervaert.</l>
+<l>Hi sende boden ende dede soeken</l>
+<l><edition n="131"/>In bogharden, in wouden ende in broeken</l>
+<l>Rosen ende bloemen menigherhande.</l>
+<l>En bleef nerghen in alden lande</l>
+<l>2860  Bloeme ne gheen, diere toe dochte,</l>
+<l>Hi en bewarf, dat mense hem brochte,</l>
+<l>No acoleie, no lelie, no rose, no viole.</l>
+<l>Corven dedi vollen ene grote scole</l>
+<l>Ende seide, dat hise senden soude</l>
+<l>2865  Den joncfrouwen, te verdienen haer houde.</l>
+<l>Nu es comen die Meye dach,</l>
+<l>Daer Floris sin al ane lach,</l>
+<l>Dien hi node soude hebben verseten,</l>
+<l>Hi quam ghecleet, als hem was gheheten,</l>
+<l>2870  Van enen roden bliaude als hem wel sat.</l>
+<l>Dat was hem gheraden omme dat,</l>
+<l>Dattie bliaut ghelijc was den rosen</l>
+<l>Entie nature minst soude nosen.</l>
+<l>Die portwerder, als hi hadde gheacht,</l>
+<l>2875  Enen corf die scone was ende best ghewracht,</l>
+<l>Dede hi draghen in sine camere binnen</l>
+<l>Ende seide Florise, soudi ghewinnen</l>
+<l>Die joncfrouwe ende bi liste bejaghen,</l>
+<l>Men souden metten corve op draghen.</l>
+<l>2880  Doe gincker Floris ligghen inne.</l>
+<l>Dier es vele, die ic kinne,</l>
+<l>Die nie so starker minnen plaghen,</l>
+<l><edition n="132"/>Dat si hem hadden laten draghen.</l>
+<l>Die portwerder sette hem enen hoet</l>
+<l>2885  Opt hooft van rosen, die hem wel stoet,</l>
+<l>Ende decten met rosen, daer hi lach</l>
+<l>In den corf, datten niement en sach.</l>
+<l>Twee cnapen riep hi te hem doe,</l>
+<l>Die duchtich waren ende goet daer toe.</l>
+<l>2890  "Nemet", seit hi, "dese rosen ende gaet</l>
+<l>Ten torre ende clemt den hoechsten graet,</l>
+<l>Tes ghi comt ten hoechsten vloere,</l>
+<l>Ende segt mire joncfrouwen Blancefloere,</l>
+<l>Dat icse haer sende, si selre uut lesen</l>
+<l>2895  Selke, die haer bequame sal wesen;</l>
+<l>Ende segt haer ghetrouwelike mijn saluut,</l>
+<l>Ende keert te handen weder uut,</l>
+<l>Ende comt haestelike weder te mi,"</l>
+<l>Doe hijt hem hiet, doe namen si</l>
+<l>2900  Den corf metten rosen ende beghonsten</l>
+<l>Te cliven, so si ghevoechlicst consten</l>
+<l>Van grade te grade wel bi stade.</l>
+<l>So herde waren si gheladen,</l>
+<l>Dat si vloecten diese loet.</l>
+<l>2905  Si seiden ende peinsden in haren moet,</l>
+<l>Dat si bloemen nie en saghen</l>
+<l>No droeghen, die herder waghen.</l>
+<l>Dat seiden si, ende seiden waer.</l>
+<l>Daer clommen si neven den pilaer,</l>
+<l>2910  <pb n="133"/> Tes si quamen opten hoechsten vloer</l>
+<l>Ende misten der cameren, daer Blancefloer</l>
+<l>In woende, ende lietense staen</l>
+<l>Ter rechter hant, ende quamen ghegaen</l>
+<l>Ter ander camer, daer woende inne</l>
+<l>2915  Ene joncfrouwe met ghestaden sinne.</l>
+<l>Si haesten ende wilden niet beiden,</l>
+<l>Ende spraken ter ghere ende seiden:</l>
+<l>"Joncfrouwe Blancefloer, dit prosent</l>
+<l>Hevet u onse heere de portwerder ghesent."</l>
+<l>2920  Die joncfrouwe niet en ghewoech,</l>
+<l>Dat sijt waer, maer si loech,</l>
+<l>Om dat si Blancefloer hoerde noemen,</l>
+<l>Ende ere ander gaven die bloemen.</l>
+<l>Si dankes, ende setten neder</l>
+<l>2925  Den corf metten rosen ende keerden weder.</l>
+<l>Doe ghinc si ten corve ende nam</l>
+<l>Ene rose, die haer best bequam.</l>
+<l>Floris waende, dat Blancefloer ware,</l>
+<l>Ende spranc uten rosen jeghen hare.</l>
+<l>2930  Die joncfrouwe spranc op ende wart,</l>
+<l>Daer sine sach, so seere vervaert,</l>
+<l>Dat si vloe ende van hem liep</l>
+<l>Ende "helpe! helpe!" al vliende riep,</l>
+<l>"Wat bloemen sijn dit? wat comter uut?"</l>
+<l>2935  Si creesch ende maecte een gheluut,</l>
+<l>Dat alle die joncfrouwen worden vervaert</l>
+<l>Ende quamen ghelopen thaer waert.</l>
+<l><edition n="134"/>Si vraechden ende vreyscheden om mare,</l>
+<l>Wat haer mesquame ende haer ware.</l>
+<l>2940  Als hi dat hoerde, viel hi neder</l>
+<l>Ende decte hem metten bloemen weder.</l>
+<l>Die joncfrouwe was bepeinst sciere,</l>
+<l>Want si was hovesch ende goedertiere.</l>
+<l>Haer quam ghelopen in haren sinne</l>
+<l>2945  Van Blancefloere, haer ghesellinne,</l>
+<l>Dat si haer dicken claechde ende ghewoech</l>
+<l>Eens joncheeren, des minne si droech,</l>
+<l>Ende van Spaengen was gheboren.</l>
+<l>Si hadde haer ooc gheseit te voren,</l>
+<l>2950  Dat hi haer herde ghelijc ware,</l>
+<l>Als sine sach, so dochts hare,</l>
+<l>Ende pensede, dat onder dat prosent</l>
+<l>Met liste haer waer Floris ghesent.</l>
+<l>Si antwerde den joncfrouwen, die tot haer quamen</l>
+<l>2955  Ende dat helpgheroep vernamen.</l>
+<l>Si pensede enen list ende loech,</l>
+<l>Dat ene viveltre uten bloemen vloech</l>
+<l>Int ansichte met haren monde,</l>
+<l>Dat si haer niet onthouden conde,</l>
+<l>2960  Dat si an haer huut quam ghevaren,</l>
+<l>Si en moeste crijschen ende also ghebaren.</l>
+<l>Doe keerden si weder al te samen,</l>
+<l><edition n="135"/>Dat si ter cameren niet in quamen.</l>
+<l>Nu moeghdi weten, dat herde groot</l>
+<l>2965  Die anxt was ende die noot,</l>
+<l>Die Floris hadde, tkint van Spaengen.</l>
+<l>Die joncfrouwe was van Aelmaengen,</l>
+<l>Eens hertoghen dochter ende hiet Clarijs,</l>
+<l>Ende hadde naest Blancefloere den meesten prijs</l>
+<l>2970  Boven alle dander vander zele.</l>
+<l>Si was ooc so wel haer ghespele,</l>
+<l>Dat dene der ander niet en hal,</l>
+<l>Si en seide haer dat si wiste al.</l>
+<l>Si dienden te gader den ammirale,</l>
+<l>2975  Dene droech twater, dander de dwale</l>
+<l>Elcs daechs in zire kemenade</l>
+<l>Smerghens vroe ende tsavents spade.</l>
+<l>Haer cameren waren niet verre ghesceden,</l>
+<l>Ene dore hadden si onder hem beden,</l>
+<l>2980  Daer dene bi totter ander ghinc,</l>
+<l>Als si hadden te spreken enighe dinc.</l>
+<l>Si ghinc wech ende loec haer dore,</l>
+<l>Bedi, of iement lede daer vore,</l>
+<l>Dat hi des joncheeren niet en verneme.</l>
+<l>2985  Een woort en sprac si niet te heme.</l>
+<l>Si gaet te Blancefloere, daer sise vint,</l>
+<l>Die vele peinst om dien si mint</l>
+<l>Ende dicke versuchte herde onsochte</l>
+<l>Met swaren ghepeinse ende ghedochte,</l>
+<l>2990  <pb n="136"/> Met groter claghen ende met droeven sinne.</l>
+<l>"Blancefloer", seit si, "soete minne,</l>
+<l>Wilde ghaen met mi, ic sel u toghen</l>
+<l>Selke bloemen, dat ghi met uwen oghen</l>
+<l>Ne saghet bloeme no so rose nie,</l>
+<l>2995  Die ghi eer sout sien dan die."</l>
+<l>"Claris", seit si, "soete ghespele,</l>
+<l>Mijns onwillen heb ic so vele,</l>
+<l>Dat mi der bloemen wel staet tomberne.</l>
+<l>Dat ghi te mi comt met uwen scherne,</l>
+<l>3000  Daer seldi mede sonde ghewinnen.</l>
+JABBEDABBEDOE<ENTRY id="i139" anno="a139"><TITLE>Floris ende Blancefloer [3001-3973]</TITLE>
+<DATE><FROM>1340</FROM>
+<TO>1360</TO>
+</DATE>
+<TITEL>Floris ende Blancefloer</TITEL>
+<author>Diederic van Assenede</author>
+<AARD>Rijm</AARD>
+<BRON>Leiden, Bibliotheek der Rijksuniversiteit, Ltk. 191</BRON>
+<DATUM>1340-1360</DATUM>
+<OMVANG>3973 verzen</OMVANG>
+<BRON.OPM>Handschrift Ltk. 191 is een convoluut (2+146+2 bladen). De Floris ende Blancefloer bevindt zich op fol. 3358. Per bladzijde 2 kolommen en per kolom 40 regels. De codex bevat nog vijf andere teksten: Ferguut (fol. 1-32), Der ystorien bloeme (fol. 59-84), Esopet (fol. 85-94), de Bediedenisse van der missen (fol. 95-103), de Dietsche doctrinale (fol. 104-146). Floris ende Blancefloer en Der ystorien bloeme zijn volgens Lieftinck door dezelfde kopiist geschreven. De Ferguut en de Dietsche doctrinale schijnen al in de 15e eeuw samengebonden te zijn geweest; zie Kienhorst (1988), 37-38. De <XREF3 ref=i135>Floris ende Blancefloer</XREF3>
+ in dit hs. gaat terug op de zgn. 'version aristocratique' van de Oudfranse roman <i>Floire et Blancheflor</i>. Daarnaast kennen we nog de Middelnederlandse <XREF3 ref=i397>Floyris ende Blantseflur</XREF3>
+ (fragmentarisch overgeleverd: <x nr=K142>Trier, Stadtbibliothek, Mappe X, mhd. Fragmente, Nr. 13 (fragm.)</x>
+), die terug zou gaan op een oudere, niet overgeleverde versie van de Oudfranse roman.</BRON.OPM>
+<EDITIE>J.J. Mak (ed.): Diederic van Assenede: Floris ende Blancefloer. Uitgegeven met inleiding en aantekeningen. 3e dr. Culemborg, 1970. (Klassieken uit de Nederlandse Letterkunde).</EDITIE>
+<STATUS>Kritisch</STATUS>
+<BRONMNW>433.1 (andere editie)</BRONMNW>
+<BRONMNW>434 (andere editie)</BRONMNW>
+<EDITIE.OPM>De tekst is door Mak uitgegeven naar de editie Leendertz uit 1912 (zie P. Leendertz (ed.): Floris ende Blancefloer van Diederic van Assenede. Leiden, 1912. (Bibliotheek van Middelnederlandsche Letterkunde)). Van de ca. 90 verzen die op vs. 2588 volgen, zijn door verminking van de twee bladen in het handschrift slechts enkele schamele resten overgebleven. Daarom is tussen de regels 2588 en 2589 de betreffende passage naar de prozatekst van het volksboek geplaatst.</EDITIE.OPM>
+<BRONNEN>Leiden, Bibliotheek der Rijksuniversiteit, Ltk. 191</BRONNEN>
+<HSDRUK>Historie van Floris ende Blancefloer</HSDRUK>
+<l>Die in goeden hopen sijn van minnen,</l>
+<l>Hem staet wel te pleghen der blomekine,</l>
+<l>Om te vergheten der pine,</l>
+<l>Maer mi naect droefheit ende niet el.</l>
+<l>3005  Soete vriendinne, nu weti wel,</l>
+<l>Dat ic minen lieve verre bem,</l>
+<l>Hi verre van mi, ic verre van hem.</l>
+<l>Nu es hier dammirael, die ooc waent,</l>
+<l>Dat hi mi binnen derre maent</l>
+<l>3010  Sekerlike sal nemen te wive.</l>
+<l>Neen ic, beghavic binnen minen live</l>
+<l>Floris, dat waer grote mesdaet:</l>
+<l>Ic selre toe soeken selken raet,</l>
+<l>Dat ic mi cortelinge sel verslaen,</l>
+<l>3015  En magic hem anders niet ontgaen.</l>
+<l><edition n="137"/>Wat magic doen, ellendich wijf?</l>
+<l>Ic heb liever te verliesen mijn lijf</l>
+<l>Dan ic Floris levende verliesen soude.</l>
+<l>Die minne quam van mi, bi mire scoude."</l>
+<l>3020  "Blancefloer", seit si, "soete ghesellinne,</l>
+<l>Nu manic u bi Florijs minne</l>
+<l>Ende dor sinen wille, dat ghi met mi</l>
+<l>Die bloeme comt sien, hoe scone si si."</l>
+<l>Tierst dat sise bi hem beswoer,</l>
+<l>3025  Stont op die scone Blancefloer</l>
+<l>Ende ginc met haer die bloeme scouwen.</l>
+<l>Floris hevet der joncfrouwe</l>
+<l>Tale ghehoort ende es seker des,</l>
+<l>Dat Blancefloer binnen der cameren es.</l>
+<l>3030  Hi rechte hem op ende spranc uut.</l>
+<l>Dat scoenste haer entie witste huut</l>
+<l>So hadde hi, dat ie man ghewan.</l>
+<l>Hi hadde enen roden bliaut an.</l>
+<l>Die hoet, die hem was gheset</l>
+<l>3035  Opt hooft, hi stont hem vele bet</l>
+<l>Dan ic u gheseggen mach.</l>
+<l>Blancefloer kenden, alsine sach.</l>
+<l>Si kinde hem ende hi kinde hare,</l>
+<l>Beide verloren si haer ghebare,</l>
+<l>3040  Datsi een woort spreken en mochten.</l>
+<l>Daer na, als si hem bedochten,</l>
+<l>Al swighende liepen si te samen,</l>
+<l>Daer si hem metten armen onder namen.</l>
+<l><edition n="138"/>Haer gelijc andren an hem dwanc.</l>
+<l>3045  Dat cussen ende dat helsen was so lanc,</l>
+<l>Datmen mochte in de selve wile</l>
+<l>Hebben gheghaen ene grote mile.</l>
+<l>Als si hem van den cussen droeghen,</l>
+<l>Al swighende si hem onder loeghen</l>
+<l>3050  Ende herde minliken si hem onder saghen.</l>
+<l>Doe sprac Claris ende begonde haer vraghen</l>
+<l>Ghestadelike ende wel bi sinne:</l>
+<l>"Blancefloer", seit si, "soete ghesellinne,</l>
+<l>Kindi de bloeme, daer ic om poghede</l>
+<l>3055  U vele, eer icse u toghede?</l>
+<l>Mi dinct, dat ghise an u draghet,</l>
+<l>Sint ghise alre eerst saghet,</l>
+<l>So dinct mi, dat ghi sijt verhoghet.</l>
+<l>Ic wane, dat daer an leghet grote doghet,</l>
+<l>3060  Andie bloeme, die ene joncfrouwe</l>
+<l>So sciere hevet verlost van haren rouwe.</l>
+<l>Een luttel eer wildise niet sien,</l>
+<l>Nu duncti mi bevaen in dien,</l>
+<l>Dat ghi der ghere sout sijn hout,</l>
+<l>3065  Daer ghise jeghen deilen sout."</l>
+<l>"Deilen ?" seit si, "En es dit Florijs,</l>
+<l>Mijn soete lief, mijn soete amijs,</l>
+<l><edition n="139"/>Als ic u dicken hebbe gheseghet,</l>
+<l>Daer mijn lijf ende mijn doot an leghet?</l>
+<l>3070  Dit es mijn troost, mijn toeverlaet,</l>
+<l>An heme leghet al mijn raet."</l>
+<l>Doe baden si Clarise beide,</l>
+<l>Dat si haer minne niet brachte te leide</l>
+<l>Ende sise decte ende hale,</l>
+<l>3075  Want wort gheseit den ammirale,</l>
+<l>Si wisten wel, si souden sterven</l>
+<l>Entie bliscap van harre minnen derven.</l>
+<l>"Nu weest", sprac Claris, "al onvervaert,</l>
+<l>Ende hebt ghene hoede te mi waert.</l>
+<l>3080  In ben niet so dul van seden ende van sinne,</l>
+<l>Dat ic mine gherechte ghesellinne</l>
+<l>Met enigher valscheit bedrieghen soude.</l>
+<l>Ic sel u doen alsic selve woude,</l>
+<l>Of ics hadde te doen, datmen mi dade.</l>
+<l>3085  Beide met hulpen ende met rade</l>
+<l>Salic u emmer ghehulpich sijn:</l>
+<l>Onser beide eten ende onsen wijn</l>
+<l>Dat selen wi eten onder ons drien.</l>
+<l>Ghi selt mi ghetrouwe vinden in dien</l>
+<l>3090  Altoes te vorderne uwen wille,</l>
+<l>Beide openbare ende stille."</l>
+<l>Als dit was gheseit, te hant</l>
+<l>Nam Blancefloer Floris bider hant</l>
+<l><edition n="140"/>Vrolike ende met bliden sinne,</l>
+<l>3095  Ende leidene ter cameren, daer si woende inne.</l>
+<l>Een rijclijc culct op haer bedde lach,</l>
+<l>Daer si op te slapen plach.</l>
+<l>Daer op ghingen si sitten beide</l>
+<l>Ende begonsten te spreken van den leide,</l>
+<l>3100  Ende hoe si hadden ghevaren,</l>
+<l>Sint dat si ierst ghesceiden waren.</l>
+<l>Floris sprac: "Blancefloer, nu hebic u vonden!</l>
+<l>Mine bliscap es nu te desen stonden</l>
+<l>So groot, dat ict gheseggen niet en mach.</l>
+<l>3105  Sint quam die leede dach,</l>
+<l>Datmen maecte tusschen ons een ghesceet,</l>
+<l>Hebbe ic ghedoghet menich leet;</l>
+<l>Nu es mi mine pine wel verghanghen.</l>
+<l>In groten seere ende in langhen</l>
+<l>3110  Hebbic gheweest ende in groter noot</l>
+<l>Dor uwen wille ende wel na doot."</l>
+<l>"Floris", seit si, "sidi dan dit,</l>
+<l>Die weder mi spreect ende neven mi sit?</l>
+<l>Ic sie wel ende kinne dat ghijt sijt,</l>
+<l>3115  Die van mi nam u vader dor nijt</l>
+<l>Ende ter Montorien sende ter scole.</l>
+<l>Ic soude u houden herde in dole</l>
+<l>Ende over herde onvroet,</l>
+<l>Gheloofdi, dat iet was in minen moet</l>
+<l>3120  Dan rouwe ende seer nacht ende dach</l>
+<l>Sint dat ic u niet en sach.</l>
+<l><edition n="141"/>Mi wondert herde in minen sinne,</l>
+<l>Bi welker list ghi sijt comen hier inne;</l>
+<l>Ic waent al bi gokelien es.</l>
+<l>3125  Nu vruchtic ende ben in twifele des,</l>
+<l>Dat Floris niet es, die bi mi sit.</l>
+<l>Wat seg ic? Ic kenne wel, hi es dit.</l>
+<l>Soete vrient, keert u hare te mi."</l>
+<l>So wie sore hadde gheweest bi,</l>
+<l>3130  Ende hadde ghesien de bliscap, die de kinder</l>
+<l>Met cussen ende helsen hadden ghinder,</l>
+<l>Die bliscap ende dat grote spel,</l>
+<l>Hi waer te rechte sculdich wel</l>
+<l>Te gheloven anden sone Veneris,</l>
+<l>3135  Die rechter ende god vander minne is.</l>
+<l>Doe toghede hi haer sijn vingherlijn;</l>
+<l>Die doghet, die lach ant steenekijn,</l>
+<l>Hoe nuttelic ende hoe goet het ware,</l>
+<l>Dat seide hi ende vertellet hare,</l>
+<l>3140  Doe beghonste si tellen, wat haer was ghesciet</l>
+<l>Vandien dat hise liet</l>
+<l>Ende hi haer ter scolen ontvoer,</l>
+<l>Tote dier wilen, dat hise bevoer</l>
+<l>Inde stat te Babylonien ende si te samen</l>
+<l>3145  Boven inden hoechsten tor quamen.</l>
+<l>Claris was wijs ende van sinne,</l>
+<l>Ende decte harre twier minne,</l>
+<l><edition n="142"/>Ende was emmer begrepen in dien,</l>
+<l>Datsi gherne hadde ghesien,</l>
+<l>3150  Dat verholen ware bleven</l>
+<l>Die minne, die de kinder dreven,</l>
+<l>Alse van haer selven ware.</l>
+<l>Si ghinc dicke te hem ende si te hare,</l>
+<l>Ende aten ende dronken al te samen,</l>
+<l>3155  Dats dander joncfrouwen niet vernamen,</l>
+<l>Ende hadden te gader haer dach cortinge.</l>
+<l>Die twee ghelieven leden onderlinge</l>
+<l>Die beste werlt ende dat scoenste lijf</l>
+<l>Dat noit hadde man of wijf.</l>
+<l>3160  Si ne gheerden te hebben niewet el,</l>
+<l>No meerre bliscap, no meerre spel.</l>
+<l>Hadt hem moghen also duren!</l>
+<l>Neent, die goddinne vander aventuren,</l>
+<l>Mijn vrouwe Fortune benijdse des</l>
+<l>3165  Ende speelde, alsi ghewone es,</l>
+<l>Haer spel, alder werelt bekent.</l>
+<l>Haer wiel loopt al ontrent:</l>
+<l>Dat nu es boven, es sciere onder,</l>
+<l>Van haer moechdi horen wonder,</l>
+<l>3170  Van harre naturen, van haren sede.</l>
+<l>Als si wel gheweest heeft mede</l>
+<l>Den man, ende heeften ghebracht so hoghe</l>
+<l>Bi haren wille, bi haren ghedoghe,</l>
+<l><edition n="143"/>Dat hi hem niet ontsiet van vallen,</l>
+<l>3175  Eer hijt weet, hi es weder met allen</l>
+<l>Onder die voete gheworpen neder.</l>
+<l>Datsi gheeft den man, dat nemt si weder,</l>
+<l>Dat hine weet, hoe hijs ghedervet.</l>
+<l>Menighen prince heeft si ontervet,</l>
+<l>3180  Menighen dwaes maect si heere,</l>
+<l>Ende gheeft hem rijcheit ende ere,</l>
+<l>Tellende paerde met dieren ghesmiden,</l>
+<l>Ende cleeten met bonten ende met siden,</l>
+<l>Ende maecten heere ende rechter int lant,</l>
+<l>3185  Enen biscop maect si van enen truwant,</l>
+<l>Enen broot bidder maect si van enen clerc.</l>
+<l>Des pleghet si, dus ghedaen es haer werc.</l>
+<l>Haer ghichten sijn herde onghestade,</l>
+<l>Herde onghestade sijn al haer dade.</l>
+<l>3190  Si es wandel ende menichfout:</l>
+<l>Hi blijft gheboont, diere hem an hout.</l>
+<l>Nu hadde si dese twee so hoge verheven,</l>
+<l>Datsi vro waren ende hem luste leven</l>
+<l>Ende also te bliven emmermeer.</l>
+<l>3195  Doe werp sise in rouwen ende in zeer</l>
+<l>Uter bliscap, daer sise brachte toe.</l>
+<l>Het gheviel, dat Claris eens merghens vroe</l>
+<l>Ontspranc ende wart gheware,</l>
+<l>Dat hoech dach was, ende vervaerde hare,</l>
+<l>3200  <pb n="144"/> Want sijs toren waende gewinnen.</l>
+<l>Te Blancefloere riep si, haer ghesellinne,</l>
+<l>Ende seide haer dat hoghe waer opten dach.</l>
+<l>Blancefloer herde vacrech lach</l>
+<l>Ende andwoorde, als sise roepen hoorde:</l>
+<l>3205  "Ic come" seit si. Metten woorde</l>
+<l>Bleef si liggende ende sliep.</l>
+<l>Claris haestelic ten condute liep,</l>
+<l>In haer becken si twater ontfinc</l>
+<l>Ende vervaerdelic si neder ghinc</l>
+<l>3210  Voor haren heere den ammirale.</l>
+<l>Daer waende si vinden metter dwale</l>
+<l>Blancefloere, die in haer camere lach.</l>
+<l>Alse dammirael niet en sach,</l>
+<l>So wonderde hem ende hi vraechde hare,</l>
+<l>3215  Waer Blancefloer merde ende bleven ware,</l>
+<l>Si soude te sinen dienste wesen.</l>
+<l>"Here", sprac Claris, "si heeft ghelesen</l>
+<l>Al desen nacht haer boekelkijn</l>
+<l>Om u langhe lijf, dat ghi moet sijn</l>
+<l>3220  Met eren inde werelt vortwaert meer,</l>
+<l>Ende si bleef slapende een lettel eer."</l>
+<l>"Eist waer?" seit hi. "Here, seit si, "jaet".</l>
+<l>"Te waren", seit hi, "dats ene edele daet;</l>
+<l>Wel met rechte mach si sijn mijn wijf,</l>
+<l>3225  Die bit om mijn ere ende langhe lijf."</l>
+<l>Dit liet hi also ghewerden doe.</l>
+<l>Het gheviel eens anders merghens vroe,</l>
+<l><edition n="145"/>Dat Claris ontspranc ende sach,</l>
+<l>Dat hoghe was op den dach,</l>
+<l>3230  Ende riep Blancefloere ende hietse opstaen.</l>
+<l>Blancefloer hietse om twater ghaen,</l>
+<l>Si soude voren ghaen metter dwale</l>
+<l>Ende wesen daer eer; ende binnen der tale</l>
+<l>Floris Blancefloer te hem dwanc</l>
+<l>3235  Ende si hem weder. Daer waest so lanc</l>
+<l>Dat cussen ende dat helsen ghedreven,</l>
+<l>Dat si beide in slapen bleven,</l>
+<l>Mont an mont, kin an kinne.</l>
+<l>Binnen dien was Claris, haer ghesellinne,</l>
+<l>3240  Verdelike ten pilore gheghaen</l>
+<l>Ende hadde dat water ontfaen</l>
+<l>In enen becken van goude,</l>
+<l>Ende als si weder keren soude</l>
+<l>Ende liden der doren, lude si roep:</l>
+<l>3245  "Joncfrouwe, haest u." Blancefloer sliep</l>
+<l>So vaste, dat sijs niet en hoorde,</l>
+<l>Ende gaf haer weder ghene antwoorde.</l>
+<l>Claris waende, dat si voor haer ghinge,</l>
+<l>Ende vruchte haer lange merringhe,</l>
+<l>3250  Ende haeste te meer. Dat si quam</l>
+<l>Voerden ammirael, ende hi vernam,</l>
+<l>Dat Blancefloer niet quam met hare,</l>
+<l>Vraechde hi, waer si bleven ware.</l>
+<l>Joncfrouwe Claris ontvruchte seere:</l>
+<l>3255  <pb n="146"/> "Ghenade", seit si, "soete heere,</l>
+<l>Een lettel eer, doe ic was op ghestaen,</l>
+<l>Ende ic om water soude ghaen,</l>
+<l>Riep icse, eer ic hare cameren leet.</l>
+<l>Si antwerde ende seide, sie waer ghereet,</l>
+<l>3260  Si soude hier eer sijn dan ic."</l>
+<l>Doe bepeinsde hem dammirael een stic;</l>
+<l>Het dochte hem wonderlike dinc.</l>
+<l>Hi riep te hem sinen camerlinc.</l>
+<l>Hi sat verbolghen ende seere vererret:</l>
+<l>3265  "Ghanc", seit hi, "sie, waer merret</l>
+<l>Blancefloer, ende doetse haestelike comen."</l>
+<l>Die ghene en hadde niet vernomen,</l>
+<l>Dat hi Claris voor sinen heere liet staen.</l>
+<l>In Blancefloeren camer quam hi gheghaen,</l>
+<l>3270  Daer vant hi so grote claerheit binnen</l>
+<l>Van dieren stenen in allen sinnen.</l>
+<l>Een rijclic bedde hi versach,</l>
+<l>Daer Blancefloer bi Florise op lach.</l>
+<l>Als hi haerre twier wart gheware</l>
+<l>3275  Te gader ligghen, hi waende dat ware</l>
+<l>Blancefloer ende Claris, hare ghespele,</l>
+<l>Bedi hi en merkets niet so vele,</l>
+<l>Dat hi des jonghelincs in inne wart:</l>
+<l>Floris en hadde graen no baert.</l>
+<l>3280  Daerne was inden tor ne ghene</l>
+<l>So scone als hi was sonder Blancefloere allene.</l>
+<l><edition n="147"/>Doe hise sach slapen so soetelike</l>
+<l>Ende hebben behelst so vriendelike,</l>
+<l>Jammerde hem, dat hise soude wecken</l>
+<l>3285  Ende beghan te hant achtertrecken.</l>
+<l>Hi keerde weder te sinen heere.</l>
+<l>Die niemare mesquam hem seere.</l>
+<l>"Heere", seit hi, "ghi en saghet nie so grote minne</l>
+<l>Als Blancefloer ende haer ghesellinne</l>
+<l>3290  Claris hevet, want si slapen te samen.</l>
+<l>Dat dochte mi, heere, so wel ghetamen,</l>
+<l>Daer ic voor hem stoet ende sach,</l>
+<l>Hoe haer ghelijc in anders arme lach,</l>
+<l>Die vrientscap ende die grote minne,</l>
+<l>3295  Mont an mont, kin an kinne:</l>
+<l>In dorstse wecken no inne wonde,</l>
+<l>Des ic vruchte, dat icse pinen soude."</l>
+<l>Claris bevede, daer si hoorde dat,</l>
+<l>Dammirael verstiet hem ende versat:</l>
+<l>3300  Hi wart bleec ende root daer naer.</l>
+<l>Hi ontsach ende hadde groten vaer,</l>
+<l>Dat iement bi Blancefloer laghe</l>
+<l>Ende verholentlike harre minnen plaghe.</l>
+<l>"Reect", seit hi, "mijn swaert; ic sal gaen scouwen</l>
+<l>3305  Die sameninge vanden tween joncfrouwen.</l>
+<l>Du heves gheloghen: hier staet Clarijs,</l>
+<l>Daer du ave seits, hoe ghedane wijs</l>
+<l>Si in Blancefloeren armen leghet."</l>
+<l><edition n="148"/>Noch seit hi, wat iement seghet,</l>
+<l>3310  Dat niement so coene si, dat hi dorre</l>
+<l>Enigher joncfrouwen ghenaken inden torre.</l>
+<l>Met hem dede hi ghaen sinen camerlinc.</l>
+<l>Hi clam den graet op ende ghinc,</l>
+<l>Daer hi die kinder slapende vant.</l>
+<l>3315  Dat swaert hilt hi al baer in sijn hant,</l>
+<l>Ende ghinc ten bedde, ende bleef staen daer vore.</l>
+<l>Men ontsloot die venstren, daer sceen dore</l>
+<l>Die sonne ende maket so licht daer binnen.</l>
+<l>Doe sach hi die kinder met groter minnen</l>
+<l>3320  Ligghen ghehelst, als hem was geseit.</l>
+<l>Nie en ghesciede hem meere leit.</l>
+<l>Blancefloere kinde hi, als hise sach,</l>
+<l>Maer Florise, die bi haer lach,</l>
+<l>Ne hadde hi nie te voren ghesien.</l>
+<l>3325  Nu moghen wi alle [wonder sien]</l>
+<l>Alse dammirael [dit scouwede an],</l>
+<l>"Here god", seit hi, "[eest wijf of man]?"</l>
+<l>Te hem riep hi sinen camerlinc:</l>
+<l>"Ontdect", seit hi, "haer borste". Die gene ginc</l>
+<l>3330  Ten bedde ende beghanse ontdecken</l>
+<l>Liselike, dat hise niet soude wecken.</l>
+<l>Doe wart hi gheware, dat deen was een man.</l>
+<l>So groten toren hi des ghewan,</l>
+<l><edition n="149"/>Dat hi een woort niet mochte spreken;</l>
+<l>3335  Van torne docht hem therte breken.</l>
+<l>Dat swaert verdroech hi ende wilde slaen;</l>
+<l>Mettien ontsprongen si ende saghen staen</l>
+<l>Voer hem den vruchteliken heere</l>
+<l>Met enen baren swaerde verbolghen seere.</l>
+<l>3340  Van vruchten waenden si bederven,</l>
+<l>Si en twifelden niet si en souden sterven.</l>
+<l>Doe sach op Floris Blancefloer;</l>
+<l>Een suchten haer vander herten voer,</l>
+<l>Hi beghonde te wenen ende soe.</l>
+<l>3345  Dammirael stoet erre ende sacht toe.</l>
+<l>Si lagen hem te ghereit te slane beide;</l>
+<l>Hi sette Floris in talen ende seide:</l>
+<l>"Wie bestu, ellendich keytijf,</l>
+<l>Ja en seltu nu verliesen dijn lijf?</l>
+<l>3350  Hoe waerstu ie so dul ende soe coene</l>
+<l>Dus groten lachter mi te doene</l>
+<l>Ende te slapen bi minen lieve?</l>
+<l>Du best comen ghelijc enen dieve.</l>
+<l>Dat saltu met dinen live copen seere.</l>
+<l>3355  Bi alden goden, die ic eere,</l>
+<l>Ic seldi verslaen ende dine pute.</l>
+<l>Heden sel ghaen u minne ute,</l>
+<l>Die ghi nu hebt ghedreven ende echt.</l>
+<l>Waer dat mijn eere ende mijn recht,</l>
+<l>3360  <pb n="150"/> Dat ic u liete leven? Neent.</l>
+<l>Sint dat ghi minen tor dus hebt ontreent</l>
+<l>So moeti sterven, dat weet wale."</l>
+<l>Doe antwoorde Floris den ammirale</l>
+<l>Herde oetmoedelike ende weende seere:</l>
+<l>3365  "Ghenaden", seit hi, "soete heere,</l>
+<l>Dit es ene die mi mint</l>
+<l>Voor alle die ghene, die si kint,</l>
+<l>Ende ic hare voor alle, die ic kinne.</l>
+<l>Nie wart so ghestadighe minne,</l>
+<l>3370  No so gherechte, no so gheware,</l>
+<l>Als si te mi draghet ende ic te hare."</l>
+<l>Als hi niet langher spreken dorste,</l>
+<l>Bat hi, dat hi hem ghave vorste,</l>
+<l>Des si moesten comen voor sine man,</l>
+<l>3375  Ende mense bi vongnessen verdade dan.</l>
+<l>Hi gaf hem vorste ende hietse neder bringen</l>
+<l>Twee serianten, daer hi soude dinghen.</l>
+<l>Maer si moesten hem teersten cleden</l>
+<l>Ende ten vreseliken ordeele ghereden.</l>
+<l>3380  Nu quam die feeste entie dach,</l>
+<l>Diemen elcs jaers te hebben plach,</l>
+<l>Dat dammirael wijf nemen soude.</l>
+<l>Daer waren vergader tjonghe ende oude,</l>
+<l>Coninghen, hertoghen ghemeenlike,</l>
+<l>3385  Ende aldie hoechste vanden rike.</l>
+<l><edition n="151"/>Herde rijclijc was binnen de zale,</l>
+<l>Die pilare waren alle van kerstale.</l>
+<l>Teben no Troien en hadden nie gheen</l>
+<l>So rijclijc palas als dat was een.</l>
+<l>3390  Dat was ere milen wijt ende lanc,</l>
+<l>Van goude was al die inganc.</l>
+<l>Daer ane was ghemaect menich wonder:</l>
+<l>Die hemel boven, die aerde onder;</l>
+<l>Omtrent der aerden liep de zee;</l>
+<l>3395  Dat clare licht tusschen die twee,</l>
+<l>Inden hemel ghelijc ghemaet ere sterren,</l>
+<l>Also sceent daer van verren;</l>
+<l>Inder erden den man ende menigherhande diere,</l>
+<l>Menighen berch, menich dal, menighe riviere,</l>
+<l>3400  Menighe bosscaelie met groten bosschen,</l>
+<l>Daer boven die lucht, die vogle tusschen;</l>
+<l>Inde zee vissche groot ende clene.</l>
+<l>Nie wart ghesien creature ghene</l>
+<l>Van allen den ghenen, die nu leven,</l>
+<l>3405  Men mochtse daer vinden ghescreven.</l>
+<l>Alse gheseten waren alle die heren,</l>
+<l>Ende dammirael alre hoechst met groter eren,</l>
+<l>Hi stoet ende maecte een ghestille</l>
+<l>Metter hant ende seide sinen wille:</l>
+<l>3410  "Ghi heren, verneemt mine woort,</l>
+<l>Ende na der talen, die ghi hoort,</l>
+<l>Antwoerd so dat ghijs hebt ere.</l>
+<l>Van u allen en es niement so here,</l>
+<l><edition n="152"/>Wilde hi breken ende ontkeren trecht,</l>
+<l>3415  Ic seg hem over waer ende over plecht,</l>
+<l>Dat an sijn lijf ende an sijn eere sel gaen."</l>
+<l>Die doe iet waende hebben mesdaen</l>
+<l>Ende besculdicht was jeghen den ammirale,</l>
+<l>Hi vruchte herde dese tale.</l>
+<l>3420  "Nu hoort", seit hi, "ic segghe u voort.</l>
+<l>Van Blancefloere hebdi ghehoort,</l>
+<l>Die hier es inden torre boven</l>
+<l>Van so groten prise ende van loven.</l>
+<l>Des es cume drie maent leden,</l>
+<l>3425  Dat mi so wel bequamen haer seden</l>
+<l>Ende haer ghelaet, ende si mi dachte</l>
+<l>Van so hoghen ende van so edelen gheslachte,</l>
+<l>Dat icse tienvout met goude dede weghen,</l>
+<l>Den comannen, daer icse cochte jeghen.</l>
+<l>3430  Als icse hadde ghecocht, dedicse te hant</l>
+<l>Hier boven inden tor, daer si vant</l>
+<l>Seven werf twintich joncfrouwen in.</l>
+<l>So wel bequam mi in minen sin</l>
+<l>Haer ghedene ende haer goede seden,</l>
+<l>3435  Dat icse boven hem allen dede.</l>
+<l>Ic hadde mi ooc vermeten des,</l>
+<l>Om dat si so overscone es,</l>
+<l>Ic soudese hebben ghenomen te wive</l>
+<l><edition n="153"/>Ende emmermeer ghehouden te minen live.</l>
+<l>3440  Ic deedse mi dienen te minen opstane,</l>
+<l>Dies ic elcs daghes haer ghedane,</l>
+<l>Die ic hadde vercoren, wilde sien.</l>
+<l>Nu gheviel tere stonde binnen dien,</l>
+<l>Datse te minen dienste niet en quam</l>
+<l>3445  Ene werd ende ander werf wardic gram.</l>
+<l>Ic sendde om haer minen camerlinc,</l>
+<l>Hi ghinc wech ende vant enen jonghelinc</l>
+<l>Herde soetelike slapende bi hare.</l>
+<l>Hi waende, dat Claris haer ghesellinne ware,</l>
+<l>3450  Te gader laghen si herde vriendelike.</l>
+<l>Dit seide hi ende swoer sekerlike</l>
+<l>Ende telde mi die minne, die si twee</l>
+<l>Onderlinge dreven, ende mi wart wee,</l>
+<l>Om dat ic Clarise voer mi sach,</l>
+<l>3455  Die hi mi seide, dat bi Blancefloere lach,</l>
+<l>Dat ic een woort niet mochte spreken</l>
+<l>Ende peinsde, hoe ict mochte wreken.</l>
+<l>Mijn swaert namic in mijn hant</l>
+<l>Ende ghinc daer icse slapende vant,</l>
+<l>3460  Ende metten armen te gader ghedrongen.</l>
+<l>Ic vertoghet swaert ende si ontsprongen,</l>
+<l>Ende spraken te mi ende baden ghenade.</l>
+<l>Doe bepeinsdic mi, dat ic mesdade</l>
+<l>Ende onrecht waer ende quaet,</l>
+<l>3465  Of icse versloeghe sonder uwen raet</l>
+<l>Ende sonder vongnesse van u allen.</l>
+<l><edition n="154"/>Ghi heren, dus eist mi ghevallen.</l>
+<l>Nu manic u allen ende beswere,</l>
+<l>Dat ghi peinst om mijn eere,</l>
+<l>3470  Hoe ic die mesdaet best ghewreke,</l>
+<l>Dat mi tfolc gheen lachter en spreke."</l>
+<l>Doe spraken si alle ghemeenlike:</l>
+<l>"Ammirael, heere, wreect haestelike</l>
+<l>Den lachter, die di es ghedaen,</l>
+<l>3475  Met groten tormenten doese verslaen."</l>
+<l>Alle die ghene, die waren ghinder,</l>
+<l>Wijsden te verdoen die kinder.</l>
+<l>Daer en was niement in haer ghedinge;</l>
+<l>Some riedense, dat mense hinge;</l>
+<l>3480  Some, dat mense op rade brake;</l>
+<l>Some, dat mense met paerden trake;</l>
+<l>Some, dat mense berne in enen viere;</l>
+<l>Some, dat mense indie riviere</l>
+<l>Met swaren stenen versinken soude;</l>
+<l>3485  Alle, diere bi waren, jonghe ende oude,</l>
+<l>Wijsden hem martelien ghenoech,</l>
+<l>Welcsins dat haer raet gedroech.</l>
+<l>Doe stoet op een coninc, die Alfages hiet:</l>
+<l>"Ghi heren," seit hi, "dit en es recht niet.</l>
+<l>3490  Menne ghewinnes nemmer lof</l>
+<l>Dat vor minen heere ende in sijn hof</l>
+<l>Dus groet gheroep es te sinen ghedinge.</l>
+<l>Uwerlijc heeft hier sonderlinghe</l>
+<l><edition n="155"/>Sijn vongnesse gheseit ende sinen wille;</l>
+<l>3495  Doet wel ende swighet stille,</l>
+<l>Ende latet tenen hoefde comen.</l>
+<l>Wi hebben ghehoert ende vernomen</l>
+<l>Ons heren lachter ende sine woert.</l>
+<l>Nu sijn wi sculdich te horen voert</l>
+<l>3500  Der kinder antwoerde ende haer tale,</l>
+<l>So moghen wi na rechte doemen wale</l>
+<l>Ende segghen recht van so hogher sake</l>
+<l>Tusschen onsen heere ende der kinder sprake."</l>
+<l>In dander side stoet op mijn heere Gaifier,</l>
+<l>3505  Een coninc van Arabien stout ende fier:</l>
+<l>"Heere her coninc, wat es so ghedaen sede?</l>
+<l>In prijs nemmer no love dusdane reden,</l>
+<l>Die ghi ons segt ende doet verstaen.</l>
+<l>Hebben si onsen heere lachter ghedaen,</l>
+<l>3510  Soe es wel recht, datmense verdoe</l>
+<l>Sonder weder tale, ic seg u hoe.</l>
+<l>Die enen dief met dieften vinghe,</l>
+<l>Quaet ware quame hi int ghedinge</l>
+<l>Jeghen iement of te weder talen.</l>
+<l>3515  Onse heere, hi doe dese twee halen</l>
+<l>Ende doese te samen verbernen bede."</l>
+<l>Dese surlike woerde ende wrede</l>
+<l><edition n="156"/>Loefden si alle ende sochter toe.</l>
+<l>Om die kinder sende men doe.</l>
+<l>3520  Twee serianten brachtense voert,</l>
+<l>Droef ende serech, als ghi hebt ghehoert,</l>
+<l>Om die mertelie, die si ontsaghen.</l>
+<l>Datsi hem al ghaende onder saghen,</l>
+<l>Haerlijc ontfarmde anders seere.</l>
+<l>3525  Doe sprac te Blancefloere die joncheere:</l>
+<l>"Soete minne, wi sijn der doot</l>
+<l>Nu seker ende in groter noot.</l>
+<l>Nu moeten wi sterven, weten wi wel.</l>
+<l>Dats mijn scout ende niemens el.</l>
+<l>3530  Bi mi es comen, scone joncfrouwe,</l>
+<l>Uwe herte in groten rouwe.</l>
+<l>Hadde ic hier tote u comen niet,</l>
+<l>So en waer u desen toren niet ghesciet.</l>
+<l>Maer sel dammirael na recht rechten,</l>
+<l>3535  Ghi selt met rechte der doot ontvechten.</l>
+<l>Tonrechte soudi sterven nu,</l>
+<l>Bedi en es niet comen bi u.</l>
+<l>Soete, nu nemet dit vingherlijn:</l>
+<l>Also langhe alst over u sel sijn,</l>
+<l>3540  Ne moghedi sterven in ghere wijs."</l>
+<l>"Florijs," seitsi, "wel soete amijs,</l>
+<l>Herde onrecht dinct mi u tale:</l>
+<l>Die scout es mijn, dat wetic wale.</l>
+<l>Bi mi hebdi dese grote scande</l>
+<l>3545  Ende quaemt mi soeken uut uwen lande,</l>
+<l><edition n="157"/>Ende sijt dor mi comen hier inne.</l>
+<l>Bedi weet ic wel ende verkinne,</l>
+<l>Dat ic voor u sterven soude,</l>
+<l>Ofmen na recht rechten woude.</l>
+<l>3550  Doer ne ghene anxt vander doot,</l>
+<l>No dor ghene martelie so groot</l>
+<l>Ne willic houden tvingherlijn,</l>
+<l>Bedi die sculden sijn alle mijn."</l>
+<l>Florijs seide, hine conde ghedoghen,</l>
+<l>3555  Dat si soude sterven voer sinen oghen</l>
+<l>Ende hi selve leven soude.</l>
+<l>Hi bat haer, dat sijt name, ende sine woude.</l>
+<l>Hi warp hare ende sijt hem weder</l>
+<l>So langhe, dat viel daer neder</l>
+<l>3560  Onder die voete; si ghingen voert.</l>
+<l>Een hertoghe ghegreept, diet hadde ghehoort</l>
+<l>Den prijs die hem Floris gaf;</l>
+<l>Sijn herte verblide hem daer af.</l>
+<l>Blancefloer sprac: "Floris, het waer onrecht groot,</l>
+<l>3565  Dat ghi voor mi ontfinct de doot,</l>
+<l>Bedi ic weet wel, sterfdi voren,</l>
+<l>Dammirael heeft so vercoren</l>
+<l>Mine scoonheit, dat hi mi houden sal."</l>
+<l>"Minne", seit hi, "hets mijn scout al:</l>
+<l>3570  Ic wil vor u die doot ontfaen."</l>
+<l>Aldus quamen si int palas ghegaen</l>
+<l>Voer den ammirael ende sine baroene,</l>
+<l><edition n="158"/>Diese hadden ghewijst te verdoene.</l>
+<l>Dammirael dede int palas ghebieden</l>
+<l>3575  Een ghestille maecte hi alle den lieden.</l>
+<l>Dese twee weenden ende suchten</l>
+<l>Om die martelie, die si vruchten,</l>
+<l>Herde onseker waren si haers lives.</l>
+<l>Nie en was vorme mans no wives</l>
+<l>3580  So wel ghedaen ende so scone,</l>
+<l>Met scoenheden verwonnen si Absolone</l>
+<l>Floris en hadde maer jare vijftiene</l>
+<l>Ende was een jonghelinc sterc ende siene,</l>
+<l>Hi was wel ghescepen ende smal,</l>
+<l>3585  Van sinen live was hi over al</l>
+<l>Die beste ghescepene jonghelinc,</l>
+<l>Die ie van moeder lijf ontfinc.</l>
+<l>Voer den ammirael quam hi gheleet,</l>
+<l>Met enen purpure was hi ghecleet;</l>
+<l>3590  Sine ploeien stoeden hem wale.</l>
+<l>Alle die waren indie zale</l>
+<l>En mochten niet ghenoech bescouwen.</l>
+<l>En hadde hi niet gheweest in rouwen,</l>
+<l>Hi hadde vele scoenre gheweest.</l>
+<l>3595  Menne seit van niemen no en leest,</l>
+<l>Die so scone was als hi.</l>
+<l>Sine soete amie stoet daer bi,</l>
+<l>Die hi met scoenheden niet verwan.</l>
+<l>Si hadde enen pellen an;</l>
+<l>3600  Haer huut was wit als die snee.</l>
+<l><edition n="159"/>Wat magicker of segghen mee?</l>
+<l>Scone ende wel ghescepen was haer lijf.</l>
+<l>Nie en sach man so sconen wijf.</l>
+<l>Daer ne was niement int perlement</l>
+<l>3605  So vroet, die hadde bekent,</l>
+<l>Welc die scoenste was van hem tween.</l>
+<l>Daer ne was so fel no so quaet gheen,</l>
+<l>Hi en weende ende ontfarmde</l>
+<l>Harre martelien ende carmde</l>
+<l>3610  Om haer doot ende haren torment.</l>
+<l>Haer vongnesse hadden si gherne ghewent,</l>
+<l>Hadden si ghedorren dor haren here.</l>
+<l>Dammirael sat verbolghen sere,</l>
+<l>Dat hem haers ontfarmde niet.</l>
+<l>3615  Hi deedse ontcleeden ende hiet,</l>
+<l>Dat mense bonde met vasten banden.</l>
+<l>Al ghebonden dede hise te handen</l>
+<l>In enen pleine buten den palaeis leden,</l>
+<l>Daer hi een vier hadde doen ghereden,</l>
+<l>3620  Ende hietse werpen inden viere.</l>
+<l>Beide goede ende quadertiere</l>
+<l>Weenden, daer sise leiden saghen,</l>
+<l>Ende seiden, dorsten sijs ghewaghen,</l>
+<l>Dat sise gherne copen souden</l>
+<l>3625  <pb n="160"/> Met scatte ende haer lijf behouden.</l>
+<l>Daer was al over al jammer groot,</l>
+<l>Si weenden ende claeghden der noot</l>
+<l>Ende seiden: "here God, waer om saltu</l>
+<l>Dus scone kinder verliesen nu?</l>
+<l>3630  Ter quader tijt waren si gheboren,</l>
+<l>Dat si dus selen bliven verloren."</l>
+<l>Doe quam die hertoghe, die tvingherlijn vant,</l>
+<l>Dat Blancefloer liet vallen uter hant,</l>
+<l>Claeghde ende weende jammerlike,</l>
+<l>3635  Voer sinen here knielde hi oemoedelike,</l>
+<l>Ende telde hem al die selve woort,</l>
+<l>Die hi vanden kindren hadde ghehoort,</l>
+<l>Daer si den graet te dale ghinghen.</l>
+<l>Doe hiet hise hem weder bringhen,</l>
+<l>3640  Bedi dat hi horen woude,</l>
+<l>Wat elc ten andren segghen soude.</l>
+<l>Die knapen, diese leeden uter zale,</l>
+<l>Als mense riep, het bequam hem wale</l>
+<l>Ende brachtense weder blidelike.</l>
+<l>3645  Dammirael sprac te Florise wredelike:</l>
+<l>"Hoe es dijn name? Ic wilt weten."</l>
+<l>"Here", seit hi, "ic ben Floris gheheten.</l>
+<l>Ter Montorien wasic ghesent ter scolen,</l>
+<l>Binnen dien wart mi mijn lief verstolen,</l>
+<l>3650  Blancefloer, die hier bi mi staet.</l>
+<l>Het waer onrecht, dade men haer quaet</l>
+<l>Of enich vernoy hier omme dade.</l>
+<l><edition n="161"/>In quam hier niet bi haren rade,</l>
+<l>Dat der ic wel op die heilighen sweren</l>
+<l>3655  Vor u ende vor al dese heren.</l>
+<l>Nu doet wel ende dor u selves ere</l>
+<l>Laet Blancefloere leven, edel here,</l>
+<l>Si es onsculdich, die scout es mijn,</l>
+<l>Doet becopen dies de sculde sijn."</l>
+<l>3660  "Heere", sprac Blancefloer, "an dese woort</l>
+<l>En hout u niet, die ghi hebt ghehoort.</l>
+<l>Ic ben die sake, die scout es mijn;</l>
+<l>En haddic inden tor niet ghesijn,</l>
+<l>Sone waer mijn lief niet comen daer.</l>
+<l>3665  Ic der wel segghen over waer,</l>
+<l>Dat hi eens conincs sone si;</l>
+<l>Verlore hi sijn lijf dor de minne van mi,</l>
+<l>Dat ware scade ende onrecht groot.</l>
+<l>Soete here, laet hem leven ende slaet mi doot."</l>
+<l>3670  "Neen", sprac Floris, "here, laet ghaen</l>
+<l>Mine amie, doet mi verslaen."</l>
+<l>Doe antwoerde dammirael ende seide:</l>
+<l>"Sonder twifel seldi sterven beide.</l>
+<l>Ic sel u selve te handen slaen</l>
+<l>3675  Ende wreken den lachter, die mi es ghedaen."</l>
+<l>Een swaert nam hi in sijn hant al bare.</l>
+<l>Blancefloer spranc voert ende verhaeste hare</l>
+<l>Ende boot haer hoeft af te slane.</l>
+<l>Florise spronghen uten oghen die tranen</l>
+<l>3680  <pb n="162"/> Ende liep an hare ende tracse achter:</l>
+<l>"Soete minne", seit hi, "des soude mi lachter</l>
+<l>Al tfolc spreken, die hier dit siet.</l>
+<l>Om dat ic ben man, en seldi niet</l>
+<l>Hier vor mi die doot ontfaen."</l>
+<l>3685  Doe recte hi sinen hals ende hiet hem slaen</l>
+<l>Ende bat, dat hi haeste, hi waer ghereet.</l>
+<l>Blancefloer liep an hem ende greep sijn cleet</l>
+<l>Ende traken weder ende liep vor hem:</l>
+<l>"Here", seit si, "ne siedi, dat ic bem</l>
+<l>3690  Ter dood ghereet? Mijn es die scult.</l>
+<l>Twi ne sladi, of ghi sult?"</l>
+<l>Si pijnden hem beide te sine voren,</l>
+<l>Maer haer ne weder conde ghehoren</l>
+<l>No ghesien dat jammer, no ghedoghen,</l>
+<l>3695  Dat dander soude sterven voer sijn oghen.</l>
+<l>Die hoghe lieden entie baroene,</l>
+<l>Diese hadden ghewijst te verdoene,</l>
+<l>Die daer waren te jeghen woerden,</l>
+<l>Daer si dit saghen ende hoerden,</l>
+<l>3700  Si weenden ende hadden groot seer.</l>
+<l>Om een vongnesse sachmen noit eer</l>
+<l>Wenen so menighen hoghen here.</l>
+<l>Den ammirael jammerde selve so sere,</l>
+<l>Dor al dat hi was verbolghen so,</l>
+<l>3705  Hi wart so serich ende so onvro</l>
+<l>Ende weende so, dat hi haers rouwen</l>
+<l><edition n="163"/>Nemmeer van jammere conste ghescouwen.</l>
+<l>Als hi hoorde dese seerlike woert,</l>
+<l>Ende hi den enen sach comen voert,</l>
+<l>3710  Om dat hi woude sterven voren,</l>
+<l>Ende Blancefloere, die hi hadde vercoren,</l>
+<l>Sach so tonghereke wesen, doe</l>
+<l>Quam hem so ghedaen jammer toe,</l>
+<l>Dat hijt swaert uter hant liet vallen.</l>
+<l>3715  Doe waser bliscap onder hem allen,</l>
+<l>Si weenden ende si waren blide,</l>
+<l>Alle waren si inder kinder side.</l>
+<l>Die hertoghe, die tvingerlijn hadde op gheheven,</l>
+<l>Hi pijnde hem herde om der kinder leven.</l>
+<l>3720  Nu docht hem tijt te spreken goet,</l>
+<l>Want elc es sculdech om sijns heren moet</l>
+<l>Te wachten ende nemen ware.</l>
+<l>Hi sprac ten baroenen al openbare:</l>
+<l>"Ghi heren, nu gheraden wi</l>
+<l>3725  Onsen here, dat hi sonder lachter si,</l>
+<l>Ende tperlement met sire eren scede!</l>
+<l>Die kinder waren ghewijst te verdoene bede:</l>
+<l>Nu gheraet, ghi heren, ghi baroene,</l>
+<l>Onsen here sijn eere hier mede te doene.</l>
+<l>3730  Bi minen sinne, bi minen wane,</l>
+<l><edition n="164"/>So leghet so lettel sire eren daer ane,</l>
+<l>Al mach hijt doen, dat hise verdade,</l>
+<l>Hi heeft haer lijf in sire ghenade.</l>
+<l>Ic neemt bi Gode ende mire wet,</l>
+<l>3735  Dat mi dinct sijn ere bet,</l>
+<l>Dan mense verdade, al waert recht.</l>
+<l>Want dammirael mach hem wachten echt</l>
+<l>Jeghen so ghedane list ende bliven voort</l>
+<l>Jeghen Gode sonder sonde ende moort:</l>
+<l>3740  Mi dinct vroetheit, dat hijt doe.</l>
+<l>Dits u ere spade ende vroe."</l>
+<l>"Here, doet wel u ere ende dit doet:</l>
+<l>Dat loven wi alle, ende die raet es goet."</l>
+<l>Alse dammirael hoerde, dat sine baroene</l>
+<l>3745  Dit baden hem ende rieden te doene,</l>
+<l>Was hi blider dan hi sinen lieden</l>
+<l>Te verstane dede, diet hem rieden,</l>
+<l>Ende seide hem, dat hijt doen soude,</l>
+<l>Te dien dat Floris segghen woude,</l>
+<l>3750  Hoe hi so hoghen tor opclam,</l>
+<l>Ende hoe hi in Blancefloeren camer quam,</l>
+<l>Bi welker list, bi welken sinne,</l>
+<l>Dat niemen int hof wart in inne.</l>
+<l>"Here", seit Floris, "des en doe ic niet,</l>
+<l>3755  So wat vernoye so mi ghesciet,</l>
+<l><edition n="165"/>Ensi dat ghijs haerlijc verghevet,</l>
+<l>Dier mi toe riet ende gheholpen hevet,</l>
+<l>Of ghi over hem hebt ghewelt,</l>
+<l>El ne werdet van mi ghetelt."</l>
+<l>3760  Doe vernuwede den ammirael sijn seer</l>
+<l>Ende vermat hem, dat hi nemmermeer</l>
+<l>Dor niemens bede soude vergheven,</l>
+<l>Si en souden beide verliesen haer leven,</l>
+<l>Dat mochten si niet maken onder hem allen.</l>
+<l>3765  Binnen dien so quam ghevallen</l>
+<l>Een bisscop den ammirael te voeten</l>
+<l>Met minliken woerden ende met soeten:</l>
+<l>"Ammirael, here, nu eist dus comen:</l>
+<l>Of mense verdoet, wat selt u vromen?</l>
+<l>3770  Ghi siet, dat si slijfs niet roeken.</l>
+<l>Dat uwe baroene an u soeken,</l>
+<l>Dat dinct mi reden, dat ghijt doet.</l>
+<l>Vergheeft hem lieden uwen evelen moet</l>
+<l>Ende hem allen, die hem ghehulpich waren.</l>
+<l>3775  Laet Floris segghen, hoe hi heeft ghevaren:</l>
+<l>Het soude u becomen vele bat</l>
+<l>Ende alle uwen mannen te hoerne dat</l>
+<l>Dan te siene, dat mense verdade.</l>
+<l>An hare doot laghe grote scade;</l>
+<l>3780  Nie makede God so sconen lijf</l>
+<l><edition n="166"/>No an man, alsi hadden, no an wijf,</l>
+<l>Soe scone ghedane, so scone sede."</l>
+<l>Doe riepen die heren alle mede:</l>
+<l>"[Here, nadien dat aldus staet],</l>
+<l>3785  [So vergevet hem beiden die mesdaet]</l>
+<l>[Ende verhoort uwer heren bede],</l>
+<l>[Want dat ware grote edelhede],</l>
+<l>Dat [ghi ghenade hadt te desen]".</l>
+<l>Doe en wilde hi jeghen hem allen niet wesen,</l>
+<l>3790  Om dat sijs so oemoedelike baden.</l>
+<l>Den kindren ende diet hem hadden gheraden,</l>
+<l>Vergaf hijt al, dies hadde hi lof</l>
+<l>Van allen den ghenen, die waren int hof.</l>
+<l>Doe saghen die kinder haren bliden dach.</l>
+<l>3795  Herde minlic elc op andren sach,</l>
+<l>Het was hem comen na haren wille.</l>
+<l>Doe dede men maken een ghestille.</l>
+<l>Floris beghan sijn ghesciente tellen</l>
+<l>Voerden ammirael ende sine ghesellen,</l>
+<l>3800  Dat sijt alle wel mochten horen.</l>
+<l>Tierst telde hi, hoe si waren gheboren;</l>
+<l>Hoe tilec haerlijc andren minde;</l>
+<l>Hoe menne daer omme ter Montorien sinde,</l>
+<l>Dat hi daer soude ghaen ter scolen,</l>
+<l>3805  Ende hoe si hem binnen dien wart verstolen;</l>
+<l>Ende hoese sijn vader dede vercopen</l>
+<l>Te Nicle ter marct, ende dede lopen</l>
+<l>Die niemare, dat si ware doot;</l>
+<l><edition n="167"/>Ende hoene sijn vader doe onboot;</l>
+<l>3810  Ende hoe groten rouwe hi om haer dreef,</l>
+<l>Dat hijs cume te live bleef,</l>
+<l>Ende hijs die waerheit doe ghevreischte,</l>
+<l>Ende hi haer volghde ende om haer eischte;</l>
+<l>Hoe grote pine hi doeghde om hare mee,</l>
+<l>3815  Meneghen anxt opt lant, menighen in der see;</l>
+<l>Hoe hi te Babylonien quam in die stat</l>
+<l>Ende sinen waert om raet bat,</l>
+<l>Ende hoe wel hi hem gheriet daer toe,</l>
+<l>Ende hoe hi den portwerder verlistechde doe;</l>
+<l>3820  Met sire haven, met sinen scatte</l>
+<l>Vercreech hi an hem datte,</l>
+<l>Dat menne met rosen inden corf droech.</l>
+<l>Tierst dat hi des ghewoech,</l>
+<l>Datten si twee [dus hadden gedregen],</l>
+<l>3825  Doe [wonderde hem allen, dier waren jegen],</l>
+<l>Ende [damirael selve loech];</l>
+<l>Ende hoe [men hem te Clarise droech],</l>
+<l>Toter wile dat[se damirael vant],</l>
+<l>Ende tswaert over hem hilt in die hant.</l>
+<l>3830  Als hi gheent hadde sine tale,</l>
+<l>Ghinc hi bet naerre den ammirale</l>
+<l>Ende viel opt erde hem te voete neder</l>
+<l>Ende bat, dat hi hem ghave weder</l>
+<l><edition n="168"/>Daer hi dor doeghde so grote pine,</l>
+<l>3835  Ende seide, hi hadde liever te sine</l>
+<l>In groten tormente ende te stervene</l>
+<l>Dan levende Blancefloeren te dervene.</l>
+<l>Nu moeghdi horen grote edelhede,</l>
+<l>Die dammirael an Florise dede,</l>
+<l>3840  Alle diet saghen warens blide:</l>
+<l>Hi dede sitten neven sire side,</l>
+<l>Blancefloere dede hi comen te hem</l>
+<l>Ende namse bider hant ende seide: "Vrient, nem,</l>
+<l>Hier ghevic di weder dese joncfrouwe</l>
+<l>3845  Ende beveelse di op dine trouwe.</l>
+<l>U beiden ghevic lijf ende lede,</l>
+<l>Dor Gode ende der heren bede</l>
+<l>Blijfdi verlost van groten lede."</l>
+<l>Doe vielen si hem te voete bede.</l>
+<l>3850  Hi cussese ende deedse op staen.</l>
+<l>Florise maecte hi ridder saen,</l>
+<l>Als men daer plach int lant.</l>
+<l>Blancefloere dede hi nemen te hant</l>
+<l>Ende leiden te monstre met groter eren.</l>
+<l>3855  Beide der vrouwen ende der heren</l>
+<l>Volgheden hem utermaten vele,</l>
+<l>Doe ontboet hi Clarise haer ghespele,</l>
+<l>Dat hise te wive nemen woude</l>
+<l>Ende te haerre beider live houden soude,</l>
+<l>3860  Ende deedse cronen herde eerlike</l>
+<l><edition n="169"/>Ende makese vrouwe vanden rike</l>
+<l>Voer die heren ende sine ghenote.</l>
+<l>Daer maectemen brulochte grote.</l>
+<l>Daer waren speel mannen vergadert vele</l>
+<l>3865  Met menigher manieren van snaer spele,</l>
+<l>Vedelen, gigen, herpen, roten,</l>
+<l>Met soeten gheclanke ende met soeten noten.</l>
+<l>Beide inden palaise ende daer uut</l>
+<l>Was groot gheclanc ende gheluut.</l>
+<l>3870  Daer was ghegheven menich rijclic cleet.</l>
+<l>Binnen dien was dat eten ghereet</l>
+<l>Met dieren gherechten ende dies ghenoech.</l>
+<l>Men eisschede water ende men dwoech.</l>
+<l>Die ammirael ghinc sitten inde scoenste stede,</l>
+<l>3875  Opt rikelicste sitten, ende hi dede</l>
+<l>Neven hem sitten sijn wijf Clarise;</l>
+<l>Blancefloere die hovessche entie wise</l>
+<l>Dede hi sitten bander side.</l>
+<l>Neven haer sat Floris vro ende blide.</l>
+<l>3880  Daer was vol hof ende brulocht groot.</l>
+<l>Daer ne hadde niement wenschens noot.</l>
+<l>Die daer ten etene waren gheseten,</l>
+<l>Men brachte hem vort ghedichte eten;</l>
+<l>Inne can ghenomen elc gherecht.</l>
+<l>3885  Al sonder garsoen ende knecht,</l>
+<l>Die daer vele waren utermaten,</l>
+<l><edition n="170"/>So dienden daer wel hondert drossaten,</l>
+<l>Hondert spindren, hondert bottelgiere.</l>
+<l>So rijclic eten noch so diere</l>
+<l>3890  Ne was nie ghereet tenen hove,</l>
+<l>No so scone ghedient, no so wel te love.</l>
+<l>Daer was als ghenoech, wilt ende tam:</l>
+<l>So wat so elken wel bequam,</l>
+<l>Des dede men hem te vollen bringhen.</l>
+<l>3895  Der goudine coppen daer vele gingen</l>
+<l>Met dieren clareite ende al omme te stride</l>
+<l>Met morate, met wine an elke side.</l>
+<l>Dat wilde God niet, dat iement soude</l>
+<l>Uut nappen drinken, hi ne waer van goude.</l>
+<l>3900  Binnen dien dat si dus saten</l>
+<l>Met groter bliscap ende aten,</l>
+<l>Quamen twee riddren, die Floris sochten</l>
+<l>Met seghelen ende met brieven, die si brochten.</l>
+<l>Ghestadelike quamen si ende met sinne.</l>
+<l>3905  Den ammirael grueten si ten iersten beghinne;</l>
+<l>Daer na seiden si groot saluut</l>
+<l>Florise, daer si omme quamen uut,</l>
+<l>Ende seiden hem, dat beide gader</l>
+<l>Doot waren moeder ende vader.</l>
+<l>3910  "Here", seggen si, "hoort wat u onbieden</l>
+<l><edition n="171"/>U man entie hoechste van uwen lieden,</l>
+<l>Die ons te lanc waren te noemene nu:</l>
+<l>Si bidden herde ende onbieden u,</l>
+<l>Dat ghi te lande comt haestelike</l>
+<l>3915  Te berechten u lant ende u rike."</l>
+<l>Doe Floris vernam sijns vader doot</l>
+<l>Ende siere moeder, doe hadde hi rouwe groot,</l>
+<l>Beide hi ende Blancefloer hadden groot seer,</l>
+<l>Elc dier waren droefden te meer.</l>
+<l>3920  Si keerden weder ten ammirale</l>
+<l>Al wenende met soeter tale</l>
+<l>Ende baden orlof te lande te verne.</l>
+<l>Dammirael hadse onthouden gherne</l>
+<l>Ende bat vriendelike, dat si bleven,</l>
+<l>3925  Hi soude hem al, des si behoefden, gheven.</l>
+<l>Florijs seide, no scat, no have,</l>
+<l>No goet ne gheen, dat men hem gave,</l>
+<l>En mochten int lant niet behouden.</l>
+<l>Alse dammirael vernam, dat sine wouden</l>
+<l>3930  Te hem niet bliven, wi vinden ghescreven,</l>
+<l>Dat hi Florise te sire vaert dede gheven</l>
+<l>Van sinen silvere ende van sinen goude</l>
+<l>So vele, dat hijs nemmeer en woude.</l>
+<l>Si ghereeden hem ende namen orlof</l>
+<l>3935  An alle die ghene, die waren int hof.</l>
+<l>Hem allen jammerde die daer waren,</l>
+<l>Daer sise uten palaise saghen varen,</l>
+<l>Ende bevalen Gode haer lijf ende haer ere.</l>
+<l><edition n="172"/>Floris voer wech verdroevet sere,</l>
+<l>3940  Om dat beide gader</l>
+<l>Doot waren moeder ende vader,</l>
+<l>Ende andersins blide, dat Blancefloer</l>
+<l>Met hem weder te lande voer.</l>
+<l>Sonder lachter voerde hise ende scande</l>
+<l>3945  Te Spaengen binnen sinen lande.</l>
+<l>Daer was hi willecome ende wel ontfaen,</l>
+<l>Alt conincrike wart hem onderdaen.</l>
+<l>Doe waest hem comen herde scone.</l>
+<l>Sine man daden hem draghen crone</l>
+<l>3950  Ende maecten coninc ende conincinne sijn wijf,</l>
+<l>Die hi minde vor al sijn selfs lijf.</l>
+<l>Om dat Blancefloer ooc kersten was,</l>
+<l>Gheliefde hem ende luste das,</l>
+<l>Dat hi wart kersten ende hem dopen dede</l>
+<l>3955  Ende al tvolc van sinen lande mede.</l>
+<l>Sint versterf hem al Hongerie</l>
+<l>Van enen sinen oom ende al Bulgerie:</l>
+<l>Dus hoghe quam hi in sinen live.</l>
+<l>Ene dochter haddi bi sinen wive,</l>
+<l>3960  Daer wi een deel of seggen moeten,</l>
+<l>Baerte hietsi metten breden voeten,</l>
+<l>Maer des en sel niet vele zijn.</l>
+<l>Die nam te wive die coninc Puppijn,</l>
+<l>Een gheweldich coninc, ende wan an hare</l>
+<l>3965  <pb n="173"/> Een kint, daer vele af te segghen ware,</l>
+<l>Dat was die coninc Kaerle van Vrankerike,</l>
+<l>Die menighen borch wan gheweldelike.</l>
+<l>Hier salic enden dese aventure.</l>
+<l>Blancefloer wart Florise sere te sure,</l>
+<l>3970  Hi pijnder hem om, God halper hem toe,</l>
+<l>So moete hi ons spade ende vroe,</l>
+<l>Dat wi alle onse daden te goeden dingen</l>
+<l>Ten jonxten daghe moeten bringen.</l>
+<l parse="ignore">Amen.</l>
+</text>
+<!--</ENTRY>
+--></TEI.2>

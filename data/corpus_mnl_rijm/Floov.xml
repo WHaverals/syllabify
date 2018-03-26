@@ -1,0 +1,665 @@
+<?xml version='1.0'?><!DOCTYPE TEI.2 PUBLIC '-//TEI P4//DTD Main Document Type//EN' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd' [<!ENTITY % TEI.prose 'INCLUDE'><!ENTITY % TEI.linking 'INCLUDE'><!ENTITY % TEI.figures 'INCLUDE'><!ENTITY % TEI.analysis 'INCLUDE'><!ENTITY % TEI.corpus 'INCLUDE'><!ENTITY % TEI.XML 'INCLUDE'><!NOTATION TEI-XML PUBLIC 'TEI P4' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd'><!-- internal INL dtd --><!ELEMENT b (#PCDATA)><!ELEMENT l (#PCDATA | b)*><!-- end of internal INL dtd -->]><TEI.2><!--<ENTRY id="i144"><teiHeader><fileDesc><titleStmt><title>Flovent, Floovent</title>
+</titleStmt>
+<interpGrp type="pubYear_from"><interp value="1440"/></interpGrp>
+<interpGrp type="witnessYear_from"><interp value="1440"/></interpGrp>
+<interpGrp type="pubYear_to"><interp value="1460"/></interpGrp>
+<interpGrp type="witnessYear_to"><interp value="1460"/></interpGrp>
+<TITEL>Flovent</TITEL>
+<TITEL>Floovent</TITEL>
+<author>Onbekend</author>
+<AARD>Rijm</AARD>
+<BRON nr="K34">Neurenberg, Bibliothek des Germanischen Nationalmuseums, 18423 (fragm.)</BRON>
+<DATUM>1440-1460</DATUM>
+<OMVANG>639 verzen</OMVANG>
+<BRON.OPM>Een dubbelblad, waarvan de hoeken zijn afgesneden. Per bladzijde 3 kolommen en per kolom 53 regels. Onderaan kol. 2vb zijn door de kopiist drie regels toegevoegd. De tekst van de twee bladen sluit niet op elkaar aan, zodat het dubbelblad niet het binnenste van een katern geweest kan zijn.</BRON.OPM>
+<EDITIE>G. Kalff: Middelnederlandsche epische fragmenten, met aanteekeningen. Groningen, 1885, 180-203 (187-203).</EDITIE>
+<STATUS>Kritisch</STATUS>
+<BRONMNW>437.2</BRONMNW>
+<BRONNEN>Neurenberg, Bibliothek des Germanischen Nationalmuseums, 18423 (fragm.)</BRONNEN>
+</fileDesc>
+</teiHeader>
+--><text>
+<l><pb n="187"/><milestone unit="fol" n="1ra"/> Ende oec die knapen</l>
+<l>Ende sette te poente haer wapen.</l>
+<l>Doen was daer geen langer sparen:</l>
+<l>Men vergorde die orse twaren,</l>
+<l n="5"><pb n="188"/> Si saten weder op sciere</l>
+<l>Ende [elc] ontwant sine baniere.</l>
+<l>Si reden haren stap recht voert.</l>
+<l>Cortelijc hebben si gehoert</l>
+<l>Groet geluut ende groet riveel;</l>
+<l n="10">"Dat sijn die liggen om den casteel"</l>
+<l>Seide Ritsier, "dat wetic wale."</l>
+<l>"Blasen wi ons horne van metale"</l>
+<l>Sprac die hertoge Hemelyoen,</l>
+<l>Dat ons ridder no garsoen</l>
+<l n="15">Verwite, dat wi besloeplijc comen."</l>
+<l>"Dese raet was wt goeder herten genomen"</l>
+<l>Seide Ritsier ende die coninc Flure.</l>
+<l>Menegen horen blies men ter ure</l>
+<l>Beide van latoene ende van metale,</l>
+<l n="20">Dat horden die Sarrasine wale.</l>
+<l>Dit horde damirael Galien</l>
+<l>Ende menech ander payen.</l>
+<l parse="ignore">Hi battelierdem met dien:</l>
+<l>LXm. man haddi teere scaren,</l>
+<l n="25">Hier met quam hi gevaren.</l>
+<l>Jostamont volgede met groten geere,</l>
+<l>Bi hem haddi al sijn heere.</l>
+<l>Die coninc Postamont quam gevaren,</l>
+<l>XXXm. man in siere scaren.</l>
+<l n="30">Die kerstine gemoeten die Sarrasinen</l>
+<l>Daer ginct te sorgen ende te pinen.</l>
+<l>Ritsier stac enen dore den buuc</l>
+<l>Ende werpene doet ten zadele wt.</l>
+<l>Hemelyoen van Bayviere</l>
+<l n="35">Dede oec enen tumelen sciere,</l>
+<l>Dat heme therte brac</l>
+<l>Ende nemmer meer woert en sprac.</l>
+<l>Lucari, die goede hermite,</l>
+<l>Werd oec van enen quite;</l>
+<l n="40">Soe dede van Antsay die coninc goet,</l>
+<l>Hi dede oec een herde scoen ontmoet,</l>
+<l>Die iegen hem es comen,</l>
+<l>Datti hem dlijf heeft genomen.</l>
+<l>Die kerstine reden coenlijc in,</l>
+<l n="45"><pb n="189"/> Want si sagen een scoen begin.</l>
+<l>[F]lovent heft den wijch vernomen;</l>
+<l>Die XII genote sijn ute comen,</l>
+<l>Wel gewapent ter cuere.</l>
+<l>Haer orsse hebben si verdect ter ure.</l>
+<l n="50">Margalie die coninginne</l>
+<l>Ontsloet die porte met bliden sinne.</l>
+<l>Die heren reden daer buten</l>
+<l>Ende daden die porte vaste sluten.</l>
+<l><milestone unit="fol" n="1rb"/> Margalie die damoyseele</l>
+<l n="55">Keerde boven ten carteelen,</l>
+<l>Sere bat si over haer lief Flovent,</l>
+<l>Datti keeren moeste ongescent</l>
+<l>Ende di kerstine, die met hem waren;</l>
+<l>Sere began hare therte swaren.</l>
+<l n="60">Si sach Jostamonde den payen,</l>
+<l>Datti hem sere dede ontsien.</l>
+<l>Hi sloech der kerstine vele,</l>
+<l>Dat was qualijc van der jonfrouwen spele.</l>
+<l>Binnen dien heft men vernomen,</l>
+<l n="65">Dat Flovent te wige es comen.</l>
+<l>Die genoete van Vrankerike</l>
+<l>Sloegen in degenlike.</l>
+<l>Die Fransoyse waren coene,</l>
+<l>Si hilden tfelt alse twee lyoene;</l>
+<l n="70">So lange vochten si te samen,</l>
+<l>Datsi diepe in hen quamen.</l>
+<l>Flovent sach vore hem vechten Ritsiere</l>
+<l>Ende Hemelyoene van Bayviere</l>
+<l>Ende van Antsay den coninc Fluere.</l>
+<l n="75">Mallijc custe andren daer ter ure,</l>
+<l>Niet vele si te gader spraken,</l>
+<l>Si hadden te doene ander zaken.</l>
+<l>Sere bitter was die wijch,</l>
+<l>Dat coste daer menegen dlijf,</l>
+<l n="80">Sere verbolgen was die Jostamont,</l>
+<l>God en maecte noyt argeren hont;</l>
+<l>Hi dede den kerstinen meer scaden</l>
+<l>Dan half die Sarrasine daden.</l>
+<l><edition n="190"/>Den hermite Lucari heeft hi vernomen</l>
+<l n="85">Ende es met crachte op hem comen.</l>
+<l>Hi gaf hem enen slach metten swerde,</l>
+<l>Datti man ende paert sloech ter erde.</l>
+<l>Die kerstine sloegen coenlijc an</l>
+<l>Ende soccorsden den goeden man.</l>
+<l n="90">Dit sach Ritsier ende seide: "Flovent,</l>
+<l>Van gode mote Jostamont sijn gescent,</l>
+<l>Want ghine mi niet en liet verslaen."</l>
+<l>Flovent seide: "vaert, slaten saen!</l>
+<l>Hi es al te lange gespaert.</l>
+<l n="95">God mote verdoemen den viliaert,</l>
+<l>Datti nie lijf gewan."</l>
+<l>Ritsier noepte dors ende reet coenlijc an</l>
+<l>Ende verlaysierde dat goede paert.</l>
+<l>In sijn gemoet quam die viliaert.</l>
+<l n="100">Ritsier vragede saen:</l>
+<l>Ochti siere wet wilde afgaen.</l>
+<l>Hi seide: "glottoen, du best hier qualijc comen,</l>
+<l>Mamet mote di verdoemen,"</l>
+<l>Ende hief tswert ende sloech na Ritsiere</l>
+<l n="105">Ende clovede den scilt van quartiere.</l>
+<l>Ritsier galt hem den slach wale,</l>
+<l><milestone unit="fol" n="1rc"/> Ende doresloech den helm van stale,</l>
+<l>In die palette maecti eene scure,</l>
+<l>Dat swert ginc ten zadele duere;</l>
+<l n="110">Ter erden storte doet die payen.</l>
+<l>Dit versach damirael Galyen:</l>
+<l>Die hem al die werelt hadde gegeven,</l>
+<l>Hine ware daer niet langer bleven.</l>
+<l>Te Basele reet hi met crachte,</l>
+<l n="115">Al dat hi geriden machte;</l>
+<l>Cume mochti den hals ontdragen,</l>
+<l>Hine woude daer niet langere dagen.</l>
+<l>Si vloen, des hadden si lachter,</l>
+<l>Geene liede volgeden achter.</l>
+<l n="120">Si keerden weder ten casteele,</l>
+<l>Si namen Marga[lie] die damoyseele</l>
+<l>Ende setten hare op 't ho[eft] eene crone,</l>
+<l>Doen was si utermaten scone,</l>
+<l>Dus voeren si te samen,</l>
+<l n="125"><pb n="191"/> Tes si te Bayvier binnen quamen;</l>
+<l>Daer was grote feeste gedreven.</l>
+<l>Smorgens alse die maeltijt was leden,</l>
+<l>Wilde die coninc Fluer niet beiden:</l>
+<l>Hi dede sijn hernasch gereiden,</l>
+<l n="130">Die XII. genote, die daer waren,</l>
+<l>Bat hi, dat si met hem souden varen.</l>
+<l>Si seiden, dat sijt gerne daden,</l>
+<l>Si warens saen beraden;</l>
+<l>Flovent gereidem ende Ritsier,</l>
+<l n="135">Sere was droeve die hertoge van Bayvier,</l>
+<l>Dat Jordaen entie heren</l>
+<l>Also saen van hove keeren.</l>
+<l>Margalie die goedertiere</l>
+<l>Bereide hare sciere;</l>
+<l n="140">Men hiefse op enen muul amblant,</l>
+<l>Hi hadde enen sachten ganc.</l>
+<l>Die heren namen orlof te male</l>
+<l>Ende rumden borch ende zale.</l>
+<l>Hemelyoen gebrachtse met sinen lieden.</l>
+<l n="145">Lucari ende Hemelioen van Bayviere;</l>
+<l>Die coninc Fluere ende [die] andre heren</l>
+<l>Voeren t' Antsay waert met eeren.</l>
+<l>So lange voeren si te samen,</l>
+<l>Datsi t' Antsay binnen quamen.</l>
+<l n="150">Ende alsi dar comen waren,</l>
+<l>Dede Ritsier sonder sparen</l>
+<l>Fluer die rose onder trouwe,</l>
+<l>Dies sere blide was die ioncfrouwe.</l>
+<l>Die coninc van Antsay vergichtem thant</l>
+<l n="155">Met siere dochter al sijn lant.</l>
+<l>God, hoe blide was sijn vader</l>
+<l>Ende sijn broeder ende sijn mage al gader.</l>
+<l>Die coene Flovent van Vrankerike</l>
+<l>Troude sanderdages blidelike</l>
+<l n="160"><milestone unit="fol" n="1va"/> Margalien die damoysele.</l>
+<l>Sine hadde borge no casteele,</l>
+<l>Maer Ritsier en faelierdem niet,</l>
+<l>Dien grote eere es gesciet:</l>
+<l>H[i] wer[d] coninc van hoger name,</l>
+<l n="165">H[et w]as recht, hi was sonder blame.</l>
+<l>Vander bruloft latic staen</l>
+<l><edition n="192"/>[E]nde ander redene anevaen:</l>
+<l>H[i] adde gesent in menech lant</l>
+<l>Van Galiene den tyrant</l>
+<l n="170">Sine boden bi crachte,</l>
+<l>Beide bi dage ende bi nachte.</l>
+<l>Die coninc van Corden en van Affrike</l>
+<l>Quam daerwaert crachtelike.</l>
+<l>Doen seide die s[oud]aen van Damast:</l>
+<l n="175">"I[c] sal u bring[e]n menegen gast"</l>
+<l>Ende die soutaen van Persie,</l>
+<l>Die stoute here ende die vrie,</l>
+<l>Ende van Babylonien die soudaen,</l>
+<l>XIIIJ. coninge sonder waen</l>
+<l n="180">Quamen Galiene te hulpen daer</l>
+<l>(Do[en] levedi sonder vaer)</l>
+<l>Ende voeren met hem in die vaert</l>
+<l>Te Parijs waert.</l>
+<l>Ende doen si ter Saynen quamen,</l>
+<l n="185">Mochten si niet over te samen.</l>
+<l>Si macten daer ene brugge starc:</l>
+<l>Noyt man sach sulc warc.</l>
+<l>Si [v]oeren daer over met starker vloet,</l>
+<l>Want si was starc ende goet.</l>
+<l n="190">Doen vernamen si niemare,</l>
+<l>Dat die coninc te Lodine ware.</l>
+<l>Si [v]o[er]en [da]er over met crachte</l>
+<l>En[d]e met fellen gedachte.</l>
+<l>Si sloegen datsi vonden al,</l>
+<l n="195">Hen en ontgincs groet no smal.</l>
+<l>Si bernden dorpe ende staden,</l>
+<l>Noyt [en] was kerstenheit so verladen.</l>
+<l>Si quamen op d' Oise die was diep;</l>
+<l>Si sagen wel, sine mochten over niet.</l>
+<l n="200">Doen haelden si hout met groten gere</l>
+<l>Ende maecten een brugge, hiet Pontere,</l>
+<l>Die vast was ende wel gewracht.</l>
+<l>Si reden over met groter cracht.</l>
+<l>Te Lodine op e[n]en sconen velde</l>
+<l n="205">Sloegen si haer getelde.</l>
+<l>Dat sceed ons dystorie over waer,</l>
+<l>Eer siere af scieden [vort] vier iaer;</l>
+<l><edition n="193"/>Damirael stichte in corter stont</l>
+<l>Enen casteel hiet Pierlepont;</l>
+<l n="210">Vier milen staet hi van Lodine.</l>
+<l>Daer logierden die Sarrasine.</l>
+<l>Desen casteel dede damirael maken;</l>
+<l><milestone unit="fol" n="1vb"/> Ic mach u seggen bi wat zaken:</l>
+<l>Hi micte, datti hadde benomen,</l>
+<l n="215">Dat van Antsay nieman soude comen</l>
+<l>No geen socors van dare.</l>
+<l>XL mans tee[re scare]</l>
+<l>Dedi op den casteel thant,</l>
+<l>Hi bevalse Boudefeer den wigant.</l>
+<l n="220">Die rike coninc van paradyse</l>
+<l>Beware den coninc Clovise:</l>
+<l>Met rechte was hi blide ende erre,</l>
+<l>Hi was beleid na ende verre,</l>
+<l>En waren maer in Vrancrike</l>
+<l n="225">Bleven XXV. scilde gewaerlike.</l>
+<l>Doen seide die coninginne van Parijs:</l>
+<l>"Wat hebdi gaens, Clovijs?</l>
+<l>God belget hem op ons, wetic wel</l>
+<l>Dat ghi Flovente waert so fel.</l>
+<l n="230">D[or]e Salvaerde, god geve hem scande,</l>
+<l>Biendi Flovente u[t]en lande."</l>
+<l>Clovijs seide: "als[o] moet mi goet gescien,</l>
+<l>Flovent mijn kint soudic gerne sien.</l>
+<l>Wilt god, ic namen gerne hier</l>
+<l n="235">Ende den goeden k[necht] Ritsier."</l>
+<l>Sere clagede die coninc sinen toren,</l>
+<l>Hi seide: "twi wasic ye geboren?"</l>
+<l>Rigande iammerde sere,</l>
+<l>Dat hem so mesliet sijn here.</l>
+<l n="240">Die portere sprac met zueter tale:</l>
+<l>"Here, troest u selven, so doedi wale,</l>
+<l>Ic hebbe in minen kelre gedaen</l>
+<l>CC. vaet wijne sonder waen,</l>
+<l>Oec hebbic rogge ende mele</l>
+<l n="245">Ende tarwen herde vele.</l>
+<l>Vort seggic u in waeren zaken:</l>
+<l>Ic hebbe noch driehondert baken</l>
+<l>Ende XVI scone zonen,</l>
+<l><edition n="194"/>Die alle ten wapenen conen,</l>
+<l n="250">Ende penninge in miere gewouden</l>
+<l>Meer dan twee paerde dragen souden.</l>
+<l>Dit goed werd iegen u niet gespert.</l>
+<l>Nemes also vele als gi begert,</l>
+<l>Mine zonen zeldi ridder maken,</l>
+<l n="255">Mi selven salic gen [geven?] ten wapen;</l>
+<l>Die sinen here begeeft ter noet,</l>
+<l>Sterven moet hi quader doet."</l>
+<l>Doen seide die coninc: "doet comen u kinder,</l>
+<l>Beide meerre ende minder."</l>
+<l n="260">Te sinen huus[e] ginc Rigant,</l>
+<l>Daer hi sine kinder vant.</l>
+<l>Hi deedse vore den coninc gaen,</l>
+<l>Diese riddere maecte saen.</l>
+<l>Hi maecte ridders al die knapen</l>
+<l n="265">Ende gaf hen ors ende wapen.</l>
+<l><milestone unit="fol" n="1vc"/> Rigant quam te hove gevaren,</l>
+<l>Die coninc maecten ridder twaren;</l>
+<l parse="ignore">Die coninc gordem een swaert,</l>
+<l parse="ignore">Dat dochtem gaute d[r]ie [.....]</l>
+<l parse="ignore" n="270">Hi [.....] e [..] e [...] altemale.</l>
+<l parse="ignore">Die coninc zeide: "hets g[ae]r van stale."</l>
+<l>Rigant seide: "soudicker mi mede weren,</l>
+<l>In prijset niet twee peeren."</l>
+<l>Thuuswerd is h[i] gegaen,</l>
+<l n="275">Sinen vierc[an]ten staf greep hi saen,</l>
+<l>Die prumeren was ende dicke,</l>
+<l>Die dochtem bat gemicke.</l>
+<l>Die staf was gebonden wale.</l>
+<l>Si brochten vore den coninc in die zaie.</l>
+<l n="280">Rigaut seide: "doet die [por]te [ont]sluten!</l>
+<l>Hier met salic vechten daer buten."</l>
+<l>"Nu troest ons god van paradijs!"</l>
+<l>Seide die coninc Clovijs.</l>
+<l>Alle die riddere, die daer waren,</l>
+<l n="285">Saten op alsonder sparen.</l>
+<l>Over waer waren d[aer] meerre ende minder</l>
+<l>XXV. ende de z[estien] kinder</l>
+<l><edition n="195"/>[D]it heersca[p voer t]er porten uut.</l>
+<l>Die Sarrasi[ne mae]cten groet gelunt.</l>
+<l parse="ignore" n="290">Die coninc van D[ama]st quam [geva]ren</l>
+<l parse="ignore">Ende seide hem [...] geen [o]ntvaren.</l>
+<l>Hi was een prince sere ontsien,</l>
+<l>XVIm. mans saten op mettien;</l>
+<l>Jegen Clovijse voeren si sciere</l>
+<l n="295">Elc ontwonden hare baniere</l>
+<l>Ende v[oer] menlijc op anderen sciere</l>
+<l>Si reden h[em jegen harde f]iere.</l>
+<l>Rigant conste genen scacht breken</l>
+<l>Ende ginc metten stave steken.</l>
+<l n="300">Hi moeste staerv[en], die vore hem quam</l>
+<l>Ende onder sin[en] staf ran.</l>
+<l>Die staf was [ge]bon[de]n wel</l>
+<l>Rigant was op die Sarrasinen fel.</l>
+<l>Clovijs die coninc van Vrankerike</l>
+<l n="305">Werdem herde degenlike.</l>
+<l>So dede sijn sone G[erm]ijn</l>
+<l>Ende sijn sone Severijn.</l>
+<l>God wat versloeg d[e] si tien stonden,</l>
+<l>Vanden Sarrasinen honden!</l>
+<l n="310">Ende Rigants kinder,</l>
+<l>Beide me[erre ende] minder,</l>
+<l>Werden hen wale</l>
+<l>Ende die genoeten altemale.</l>
+<l>Die soudaen van Damast</l>
+<l n="315">Verloes daer menegen gast,</l>
+<l>Van sinen volke dmeeste deel,</l>
+<l>Die bleven verslegen algeheel,</l>
+<l parse="ignore">Alle waren siere [...] m wae[r] dinc</l>
+<l parse="ignore">[...............]</l>
+<l><milestone unit="fol" n="2ra"/> Had hen also mogen gescien.</l>
+<l n="320">Maer god can alle dinc versien.</l>
+<l>Hi keert na sinen wille.</l>
+<l>Vp dese [re]den swi[gi]c stille,</l>
+<l>D[ie gi eer] hebt gehoert</l>
+<l>Ende wel v[an] der ave[nt]uren voert.</l>
+<l n="325"><pb n="196"/> Claude die coninginne</l>
+<l>Was solinden haren zinne:</l>
+<l>S[in]e mochte slapen no rusten,</l>
+<l>D[ie] vrese ne liet haer niet lusten.</l>
+<l>Smorgens stont si op mettien dage,</l>
+<l n="330">Ten ca[n]tele[n] ginc si met groter clage,</l>
+<l>Want si dier costumen plach</l>
+<l>Menech iaer ende menegen dach;</l>
+<l>Sine sach niet anders anden velden grone</l>
+<l>Dan tinten ende pa[we]lyoene.</l>
+<l n="335">Alsi lange hevet gelegen,</l>
+<l>Heeft si haer ogen op gedregen,</l>
+<l>Doen mercte [si in] corter stont</l>
+<l>Die baniere [te] Pierlepont:</l>
+<l>Jordaen [ver]ken[d]e si haestelike</l>
+<l n="340">Ende die baniere [va]n Vrankerike</l>
+<l>Ende des [bi]sscops Maer[t]en van [Tuur]en</l>
+<l>Verken[de] si in ein[er ure]</l>
+<l>Op die tekene sach si al in een,</l>
+<l>Dat gout herde clare sceen.</l>
+<l n="345">D[i]e zonne scheen daer ane scone.</l>
+<l>"Hulpe god van den throne,"</l>
+<l>Die vrouwe was goet ende wijs,</l>
+<l>Si ginc totten coninc Clovijs.</l>
+<l>Tfolc, datter ginc altemale,</l>
+<l n="350">Riep si [op die grote zale.]</l>
+<l parse="ignore">Doensi vore he[m] was [...] comen:</l>
+<l parse="ignore">"Goeden raet hebbic ver[no]men,</l>
+<l parse="ignore">Die genoete[n] wetic [w]ale,</l>
+<l parse="ignore">Si sijn te Pierlepont, [...] t [...] altemale;</l>
+<l parse="ignore" n="355">Gi moged' die [...] lu scouwen."</l>
+<l parse="ignore">Doe stonden op heren ende vrouwen.</l>
+<l parse="ignore">[R]igant was metten [....] ele comen.</l>
+<l parse="ignore">[A]ls hi die [nie]mere heft vernomen,</l>
+<l>[S]eidi: "laet ons wapen[e]n saen,</l>
+<l n="360">Hier moet een pong[ijst] sijn gedaen."</l>
+<l>"[H]ets goet gedaen" seide Clovijs,</l>
+<l>"Nu berade ons god van paradijs."</l>
+<l><edition n="197"/>Si gingen neder in die zale,</l>
+<l>Het ginc hem wapenen altemale.</l>
+<l n="365">Rigant h[erde degenli]k[e]</l>
+<l>Ende die coninc van Vrancrike,</l>
+<l>Si voeren ute sonder sparen</l>
+<l>Vromelike met groten scaren.</l>
+<l>Die coninc van Oliferne heeft se vernomen,</l>
+<l n="370">Tierst si uter stat sijn comen.</l>
+<l>Met XX. M. man</l>
+<l><milestone unit="fol" n="2rb"/> Reet hi den kerstenen an.</l>
+<l>Rigant reet in den hoep.</l>
+<l>Sine cochten nie so dieren coep:</l>
+<l n="375">[Den hi] metten stave ger[ach],</l>
+<l>S[eg]gic dat die v[ore] h[em lach];</l>
+<l>[Doe] storte, wat vo[re hem q]uam</l>
+<l>Ende onder sinen staf ran.</l>
+<l>Clovijs, die coninc van Vrankerike</l>
+<l n="380">Werdem herde degenlike.</l>
+<l>Hort, wat Disdier sijn sone dede:</l>
+<l>Hi lietse vechten daer ter stede</l>
+<l>Ende ontsloep alse een dief.</l>
+<l>Kerstenheit haddi noyt lief;</l>
+<l n="385">Leede mote hem gescien.</l>
+<l>Hi voer ten amirael Galien</l>
+<l>Ende bat hem, dat hine woude ontfaen:</l>
+<l>[H]i wo[ud]e Mamette sijn [onder]daen.</l>
+<l>Doen seide Galien:</l>
+<l n="390">"Wie sidi? goet mote u gescien."</l>
+<l>"Here" seit hi, "gew[aer]like</l>
+<l>Clovijs zone van Vra[nke]rike."</l>
+<l>Doen seide Disdier die dief:</l>
+<l>"Mi[ne br]uder [ne] haddic nie lief."</l>
+<l n="395">Als G[al]ien dit heft vernomen:</l>
+<l>"Wel moetti mi sijn comen!</l>
+<l>Ic sal u van Ba[viere] maken here."</l>
+<l>Disdier dankes hem sere,</l>
+<l>Hi seide: "ic vare slaen</l>
+<l n="400">Die kerstine, daer icse c[an] begaen."</l>
+<l>Metten selven es hi c[omen],</l>
+<l>Daer [hi enen] kerstine heeft vernomen;</l>
+<l>Hi stackene do[re den] buuc</l>
+<l><edition n="198"/>Ende werpene do[et ten zad]ele ut.</l>
+<l parse="ignore" n="405">Dit Rig[ant] s[ac]h, god[s ..] e [..] gier</l>
+<l parse="ignore">Hi seide: "Severijn deg[en] fier</l>
+<l>Sent u [bro]ede[r] es v[er]no[yer]t,</l>
+<l>Nu merct, hoe hi torniert:</l>
+<l parse="ignore">Hi heft ten d [....] e dore [bre]ken".</l>
+<l parse="ignore" n="410">Als Severin dit horde spreken,</l>
+<l>Hi reet tote Disdiere haestelike.</l>
+<l>Hi seide: "dore god van hemelrike!</l>
+<l parse="ignore">Wer [...] ne dode di [dr]ossate G[ar]nier".</l>
+<l parse="ignore">Doen antworde Disdier:</l>
+<l parse="ignore" n="415">"I scam [..] aldes bi Apo[l]lyne</l>
+<l parse="ignore">Ende [ic] hate die kerstine</l>
+<l>Ende hare geloeve mede."</l>
+<l>D[a]t ors noe[p]ti ter stede</l>
+<l>Ende liet [sin]ken sinen scacht</l>
+<l n="420">Op Severine met zulker cracht</l>
+<l>Dit heeft Rigant vernomen:</l>
+<l>D[a]t moestem te pinen comen.</l>
+<l>Disdier stacken dore den buuc</l>
+<l>End[e] werpen doet ten zadele ut.</l>
+<l n="425"><milestone unit="fol" n="2rc"/> Clovijs moeste vlien dore noet,</l>
+<l>Sijn zone heeft sine hulpe doet.</l>
+<l>Het werd hem sere te suere,</l>
+<l>Eer si quamen binnen muere.</l>
+<l>Sijn volc was verslegen:</l>
+<l n="430">Heme en waren maer seven scilde bl[even].</l>
+<l>Nu hort in corter stont</l>
+<l>Vanden genen te Pierlepont:</l>
+<l>Si vrageden: "selen wi liggen als clu[s]enaren?"</l>
+<l>Daer en was geen langer sparen</l>
+<l n="435">Ende wape[n]den hen wel ter cuere</l>
+<l>Ende daden hen ane haer achemuere.</l>
+<l>Si bonden die helme van stale,</l>
+<l>Hare orse waren verdect wale.</l>
+<l>Ende gesadelt wel ter cure.</l>
+<l n="440">Si saten op in corter [u]re;</l>
+<l><edition n="199"/>Die bisscop gaf hen algader</l>
+<l>Die benedictie van gode onsen vader.</l>
+<l>Dus sijn si enwech gereden;</l>
+<l>Twee sciltknapen sijnre binnen bleven,</l>
+<l n="445">Omme ware te nemen te Pierlepont.</l>
+<l>Die kerstene reden onlange stont,</l>
+<l>Die coninc van Spanien heefse vernomen</l>
+<l>Ende es iegen heme ute comen.</l>
+<l>Ritsier reet in degenlike</l>
+<l n="450">Ende die genoete van Vrancrike;</l>
+<l>Menegen da[den se ter] erden tumen</l>
+<l>Ende me[ne]gen sinen z[a]del rumen.</l>
+<l>Alse die scachte tebroken waren,</l>
+<l>Vingen si ten swaerden sonder sparen.</l>
+<l n="455">Daer ginct over die quade honde,</l>
+<l>Die daer gelegen hadden lange stonde.</l>
+<l>Ritsier maecte in corter tijt</l>
+<l>Vore hem die plaetse wijt.</l>
+<l>Flovent, dat oer van Vrankerike,</l>
+<l n="460">Sloech in hen dapperli[ke]:</l>
+<l>Watti met Joyousen con[de] geraken,</l>
+<l>Moeste die bitter doet smaken.</l>
+<l>Die XII. genoten deden wale</l>
+<l>Entie kerstine altema[le],</l>
+<l n="465">Het ginc al uten kere</l>
+<l>Metten coninc van Spanyien den here.</l>
+<l>Daer werd een groet gecri</l>
+<l>Van verren ende van bi.</l>
+<l>Men riep te wapenen in corter stont:</l>
+<l n="470">"Die kerstine comen ut Pierlepont!"</l>
+<l>(Daer werd een groet gecri</l>
+<l>Van verren ende van bi)</l>
+<l>Daer werd verstormt over al</l>
+<l>Beide op berch ende op dal.</l>
+<l n="475">Damirael quam met crachte,</l>
+<l>Met al dat hi geleisten machte,</l>
+<l>Hem volgede menech Affricant,</l>
+<l>Menech barbarien, menech Persant</l>
+<l><milestone unit="fol" n="2va"/> Coninge, souda[n]e, amirale,</l>
+<l n="480">Het volgedem altemale.</l>
+<l>Die kerstine versageden hen niet,</l>
+<l>Sine vlien niet, wats gesciet.</l>
+<l>Si setten hen ter were:</l>
+<l><edition n="200"/>Noyt man sach so crachtech here.</l>
+<l n="485">Die hertoge Hemelioen van Bayvier</l>
+<l>Sloech doet den coninc Galifier.</l>
+<l>Onder die payene</l>
+<l>Maecti hem seere tontsiene.</l>
+<l parse="ignore">Die coninc Postamast errede hem sere,</l>
+<l parse="ignore">[...............]</l>
+<l n="490">"Wat heeft gedaen die pautenier?</l>
+<l>Hi heeft doet den coninc Galifier."</l>
+<l>Mettien liet hi sinken sijn spere</l>
+<l>Ende reet op den hertoge met gere</l>
+<l>Ende stakene dore den buuc</l>
+<l n="495">Ende werpene doet ten zadele ut.</l>
+<l>Ten sinen riep hi metter spoet:</l>
+<l>"Deze sijn te dors[t]ekene goet."</l>
+<l>Als Ritsier dit verstoet,</l>
+<l>Keerdi hem omme metter spoet,</l>
+<l n="500">Ende hevet mettien</l>
+<l>Sinen oem ter erden gesien.</l>
+<l>Alse hine doet sach,</l>
+<l>Haddijs swaer verdrach.</l>
+<l>Niet langere heft hi ontbeden:</l>
+<l n="505">Op Postamast es hi gereden,</l>
+<l>Dat swert hief hi met beiden handen</l>
+<l>Ende clovede hem thoeft toten tanden.</l>
+<l>Die payen viel uten gereide,</l>
+<l>Met hem en was geen langer beide.</l>
+<l n="510">Hi sloech den coninc van Arabien</l>
+<l>Ende den coninc van Turkien,</l>
+<l>Noyt en werd ?Liberdune so verbolgen</l>
+<l>Hine mochte vlien no volgen.</l>
+<l>Den rouwe van sinen oem derden meer</l>
+<l n="515">Dore den rouwe ende dat seer,</l>
+<l>Datti sinen neve Geraerde versloech,</l>
+<l>Want hijs groten rouwe droech.</l>
+<l>God! wat wrachte die edel man!</l>
+<l>Hi sloech al dat vore hem quam;</l>
+<l n="520">En was helm no plate so goet,</l>
+<l>Dat sijn swerd wederstoet,</l>
+<l>Want hise verloeste van scaden,</l>
+<l>Die kerstine, daer hise sach verladen.</l>
+<l>Ende Flovent, die ridder coene,</l>
+<l n="525"><pb n="201"/> Hadde oec gnoech te doene,</l>
+<l>Daer hi reet op die waerde,</l>
+<l>Want hi Joyousen niet en spaerde.</l>
+<l>Ende die genoten van Vrancrike</l>
+<l>Vochten oec degenlike</l>
+<l n="530">Weder ende vort sonder blijf</l>
+<l>Menegen Sarrasin nam hi dlijff.</l>
+<l>Die coninc Clovijs es inden wijch comen,</l>
+<l>Meerre wijch werd noyt vernomen.</l>
+<l><milestone unit="fol" n="2vb"/> Groet gecri maecte Galien:</l>
+<l n="535">"Mamet here, wat saels gescien?</l>
+<l>Men mach hier anders niet sien dan doden.</l>
+<l>Mijn volc es in groter noden,</l>
+<l>Met ons gheet al uten kere,</l>
+<l>Mi dunct, dat Mamet ons here</l>
+<l n="540">Heft ons altemale vergeten."</l>
+<l>"Oem, ic hore u ongelove spreken"</l>
+<l>Seide die coninc Boudefeer;</l>
+<l>Hi noepte dors ende dede enen keer.</l>
+<l>Den hermite Lucari heeft hi vernomen</l>
+<l n="545">Jegen heme gereden comen,</l>
+<l>Ende sloegen in den stalijn hoet,</l>
+<l>Dat tswert ten tanden dorewoet.</l>
+<l>Vort reet hi metter uere</l>
+<l>Ende versloech den coninc Fluere.</l>
+<l n="550">Dese scade heeft Ritsier vernomen</l>
+<l>Ende es met crachte op hem comen.</l>
+<l>Die payem settem ter were:</l>
+<l>Dan bescoet hem niet ene pere.</l>
+<l>Ritsier geraecten ten scoudren boven,</l>
+<l n="555">Dat hem thoeft quam afgevlogen.</l>
+<l>Hi clagede die doet van sinen sweer:</l>
+<l>Die rouwe was hem vele meer,</l>
+<l>Dat Lucari sijn oem was verslegen.</l>
+<l>Hi seide: "god mote uwer zielen plegen."</l>
+<l n="560">Hi noepte dors mettien,</l>
+<l>Hi waende riden op Galien;</l>
+<l>Disdier heeft hem die vart benomen,</l>
+<l>Die in sijn gemoet es comen.</l>
+<l>Metten swerde sloech hi Disdier</l>
+<l n="565">Ende seide: "bi gode, gi blives hier,</l>
+<l><edition n="202"/>Hebdi u vernoyeert, fel baren,</l>
+<l>Sone willic u niet langer sparen,</l>
+<l>Want, u leste dach es comen."</l>
+<l>Ritsier hevet tswert genomen</l>
+<l n="570">Ende quanteleerde hem altemale</l>
+<l>Den goeden helm van brunen stale.</l>
+<l>Int beckeneel maecti ene scure,</l>
+<l>Dat tswert ginc ten zadele dure.</l>
+<l>Ritsier riep metter spoet:</l>
+<l n="575">"Dese sijn te baken goet!"</l>
+<l>Alse dit verstoet Galien,</l>
+<l>Waendi met crachte ontvlien.</l>
+<l>Ritsier dede sijn ors met crachte</l>
+<l>Na loepen al dat hi machte.</l>
+<l n="580">"Keerdu" seide Ritsier,</l>
+<l>"Her Sarrasin, gi blives hier.</l>
+<l>Alsi sach, datti met crachte</l>
+<l>Niet ontriden machte,</l>
+<l>Op Ritsier sloech hi met gewilt</l>
+<l n="585">Ende clovede ter middelt sinen scilt.</l>
+<l>Ritsier gout hem den slach wale</l>
+<l><milestone unit="fol" n="2vc"/> Ende clovede hem den helm van stale,</l>
+<l>Maer dbeckeneel was so goet,</l>
+<l>Datter tswert op onstoet.</l>
+<l n="590">Si vochten ene lange poesen,</l>
+<l>Dat deen den andren niet mochte noesen.</l>
+<l>Galien was van groter macht</l>
+<l>Ende werde hem met cracht.</l>
+<l>Ritsier werd verstormt sere,</l>
+<l n="595">Hine prijsdem selven niet ene pere,</l>
+<l>Datti Sarrasin voer hem hilt.</l>
+<l>Sijn swert nam hi met gewilt,</l>
+<l>Met beiden handen heeft hijt verheven</l>
+<l>Ende na Galiene geslegen,</l>
+<l n="600">Ende geraecten ten scoudren boven,</l>
+<l>Dat thoeft quam af gevlogen.</l>
+<l>Doen keerdi weder in den wijch,</l>
+<l>Menegen Sarrasin nam hi dlijf.</l>
+<l>Clovijs, die goede here,</l>
+<l n="605"><pb n="203"/> Werdem utermaten sere.</l>
+<l>Die Sarrasine waren bet te lande bleven,</l>
+<l>Want si worden alle verslegen:</l>
+<l>Boudefeer, coninge ende soudaen</l>
+<l>Moesten alle ter doet gaen.</l>
+<l n="610">Al waren daer kerstene een clein getal,</l>
+<l>Onse here verleenden goet geval.</l>
+<l>Hi can den sinen wel beraden,</l>
+<l>Als hijt gebiet ende staen in staden.</l>
+<l>Bedi en soude geen man van loven</l>
+<l n="615">Genen groten rouwe dogen,</l>
+<l>Die in sinen dienste steervet.</l>
+<l>Hi werd ewelike geervet</l>
+<l>Boven in sijn rike.</l>
+<l>God verleene ons gemeenlike.</l>
+<l n="620">Doen voer Ritsier sonder beide,</l>
+<l>Beide montaengie ende heide;</l>
+<l>Daer sochte die degen coene</l>
+<l>Sinen oem Hemelyoene.</l>
+<l>So lange sochti tien stonden</l>
+<l n="625">Dat hine hevet vonden.</l>
+<l>Die ziele beval hi onsen here,</l>
+<l>Hi hieffen op met groten sere.</l>
+<l>"Ay here" seide Ritsier die coene</l>
+<l>"Raet mi, ic hebs nu best te doene:</l>
+<l n="630">Ic hebbe verslegen Flovents broeder,</l>
+<l>Nu sal mi haten vader ende moeder;</l>
+<l>Ic hebbe verslegen Flovents sweer</l>
+<l>Margalie mint mi nemmermeer;</l>
+<l>Ic versloech sijns oems zone Gerarde,</l>
+<l n="635">Dat rouwet mi vele harde.</l>
+<l>Nu willic werden hermite,</l>
+<l>Dat god hare ziele quite,</l>
+<l>Ende moet hen staen in staden</l>
+<l>Ende hen allen die met zonden zijn geladen."</l>
+</text>
+<!--</ENTRY>
+--></TEI.2>

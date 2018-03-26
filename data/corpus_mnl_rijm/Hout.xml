@@ -1,0 +1,877 @@
+<?xml version='1.0'?><!DOCTYPE TEI.2 PUBLIC '-//TEI P4//DTD Main Document Type//EN' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd' [<!ENTITY % TEI.prose 'INCLUDE'><!ENTITY % TEI.linking 'INCLUDE'><!ENTITY % TEI.figures 'INCLUDE'><!ENTITY % TEI.analysis 'INCLUDE'><!ENTITY % TEI.corpus 'INCLUDE'><!ENTITY % TEI.XML 'INCLUDE'><!NOTATION TEI-XML PUBLIC 'TEI P4' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd'><!-- internal INL dtd --><!ELEMENT b (#PCDATA)><!ELEMENT l (#PCDATA | b)*><!-- end of internal INL dtd -->]><TEI.2><!--<ENTRY id="i50"><teiHeader><fileDesc><titleStmt><title>Boec van den houte (berijmde versie), Van den drie gaerden</title>
+</titleStmt>
+<interpGrp type="pubYear_from"><interp value="1339"/></interpGrp>
+<interpGrp type="witnessYear_from"><interp value="1339"/></interpGrp>
+<interpGrp type="pubYear_to"><interp value="1339"/></interpGrp>
+<interpGrp type="witnessYear_to"><interp value="1339"/></interpGrp>
+<TITEL>Boec van den houte (berijmde versie)</TITEL>
+<TITEL>Van den drie gaerden</TITEL>
+<author>Onbekend</author>
+<AARD>Rijm</AARD>
+<BRON nr="D32">Groningen, Bibliotheek der Rijksuniversiteit, 405</BRON>
+<DATUM>1339</DATUM>
+<OMVANG>850 verzen</OMVANG>
+<BRON.OPM>Het hs., ook bekend als het Zutphens- Groningse Maerlanthandschrift, telt 235 bladen, 2 kolommen per bladzijde, 48 tot 51 regels per kolom. De tekst bevindt zich op fol. 225v-229v. Het hs. bevat, naast enige artesteksten en berijmde gebeden, verder o.m. nog Jacob van Maerlants Rijmbijbel of Scholastica (fol. 15r-192r) en acht van zijn Strofische Gedichten (zie Strofische gedichten (Maerlant)).</BRON.OPM>
+<EDITIE>L. Hermodsson (ed.): Dat boec van den houte. Eine mittelniederl&auml;ndische Dichtung von der Herkunft des Kreuzes Christi. Uppsala - Wiesbaden, 1959, 121-154.</EDITIE>
+<STATUS>Kritisch</STATUS>
+<BRONMNW>1318 (andere editie)</BRONMNW>
+<EDITIE.OPM>Hermodsson hanteert bij zijn editie een andere foli&euml;ringswijze dan de bij dit hs. gebruikelijke: doordat hij de folia voorafgaand aan Maerlants Rijmbijbel niet meerekent, bevindt de tekst van Dat boec van den houte zich volgens zijn telwijze op fol. 210v-214v; deze foli&euml;ring werd door ons in zijn tekst niet gewijzigd. De verzen die de editeur uit het Hulthemse hs. inlaste (131-132, 207-212 en 567-568), zijn hier cursief weergegeven; de superscripte tekens boven enkele letters werden niet overgenomen, men zie daarvoor de inleiding bij de editie, p. 36. Tussen haakjes geeft Hermodsson bovenaan elke blz. van zijn editie de corresponderende nummering in de Hulthemse versie aan; deze werd hier niet overgenomen.</EDITIE.OPM>
+<BRONNEN>Groningen, Bibliotheek der Rijksuniversiteit, 405</BRONNEN>
+</fileDesc>
+</teiHeader>
+--><text>
+<head type="title"><pb n="121"/> <b>Van den drie gaerden.</b> </head>
+<l>Van den hout daer aen verstarf</l>
+<l>der maeghede zoen om ons bedarf,</l>
+<l>heb ic ghelesen, hoet ghewies.</l>
+<l>nu bidde wij Gode dies</l>
+<l n="5">dat hi mi zulke leringhe zeinde</l>
+<l>dat ic van beghin ten einde</l>
+<l>alle dese pointen moeghe vertrecken</l>
+<l>zonder loeghelike vlecken.</l>
+<l>wat hulpt dat ic vele vertoghe</l>
+<l n="10">dit ghedicht in langher prologhe.</l>
+<l>Adaem was die ierste man</l>
+<l>die oyt menschen vorme ghewan.</l>
+<l>ende hoe hi bi zijns wijfs rade</l>
+<l>creech swaer vernoy ende groten scade</l>
+<l n="15">ende van eenre cleinre spise</l>
+<l>ghewijst waert vten paradise,</l>
+<l>bi wat zaken dat dat ghesciede</l>
+<l>weten noch wael vele liede.</l>
+<l><edition n="122"/>daer om laet ict achter bliuen,</l>
+<l n="20">dat ic daer niet af en wil scriuen.</l>
+<l>het zijn vele liede die hebben ghehoert</l>
+<l>van des quaden Cayns moert.</l>
+<l>hi was Adaems ierste kijnt.</l>
+<l>in nide wart hi zo verblijnt</l>
+<l n="25">dat hi bi rade des duuels fel,</l>
+<l>doet sloech zinen broeder Abel.</l>
+<l>doe Adaem dese moert vernam,</l>
+<l>doe wart hi in hem zeluen gram.</l>
+<l>hi sprac: "wats mi ghesciet, keytiue?</l>
+<l n="30">bi den ghewerke van minen wiue</l>
+<l>is mi dit comen ende menich blame.</l>
+<l>nu en wil ic met haren lichame</l>
+<l>tedoene hebben nemmerme.</l>
+<l>Abels moert doet mi zo we."</l>
+<l n="35">daerna en was Adaem met Yeuen nie</l>
+<l>vleeschelijc in hondert jaren drie.</l>
+<l>God gheboet teinden driehondert iare</l>
+<l>Adaem dat hi met Yeuen ware</l>
+<l>ende ghemeinscap hadde met hare liue</l>
+<l n="40">alse een man met zinen wiue.</l>
+<l>daer wan hi zonder beiden een kijnt,</l>
+<l>dat Seth hiet ende den vader zijnt</l>
+<l>ghehoersam was ende onderdaen,</l>
+<l>alse ghi hier na wel zoelt verstaen.</l>
+<l n="45"><pb n="123"/> doe Adaem hadde gheleeft .ix&supc;. iaer</l>
+<l>ende dertich wael naer,</l>
+<l>doe was hi van ouder cranc</l>
+<l><milestone unit="fol" n="210vb"/> ende van aerbeide ghemanc.</l>
+<l>doe stoent hi metter spade ende wrochte</l>
+<l n="50">zo moede dat hi niet meer en mochte.</l>
+<l>hi loende ouer zinen spade ende ruste.</l>
+<l>luttel hem zijns leuens luste.</l>
+<l>cranclijc stoent hi ende stan.</l>
+<l>Seth, zinen zoene, riep hi an</l>
+<l n="55">in deser maniren ende seide:</l>
+<l>"lieue kijnt, gaet zonder beide</l>
+<l>op gherechte vaderlike minne</l>
+<l>toten inghel Cherubinne.</l>
+<l>dien zoeldi vijnden voer tparadijs.</l>
+<l n="60">bidt hem dat hi v maec wijs</l>
+<l>hoe langhe tijt ic zal ghemissen</l>
+<l>des olys der ontfarmenissen,</l>
+<l>die mi God zelue dede belouen,</l>
+<l>doe ic van danen wart ghescrouen.</l>
+<l n="65">en weset van den inghel niet ueruaert,</l>
+<l>al draeght hi een vierich swaert.</l>
+<l>hi hoedt daer mede die zaeleghe stede,</l>
+<l>daer rust in is ende ewelijc vrede."</l>
+<l>Seth sprac tot zinen vader:</l>
+<l n="70">"ic ben ghereet tedoen algader</l>
+<l>wat v is lief ende ghi ghebiet.</l>
+<l><edition n="124"/>mer ic en weet des weghes niet."</l>
+<l>hi sprac: "zoene, gaet op minen troest</l>
+<l>ende uolghet den weghe recht int oest</l>
+<l n="75">- dat ic v zegghe merket wale,</l>
+<l>hent dat ghi coemt tot enen dale,</l>
+<l>dat gheheten is dal van Ebroene.</l>
+<l>daer volghet enen weghe groene,</l>
+<l>daer die zelue voetstappen staen</l>
+<l n="80">die met rouwen quamen ghegaen</l>
+<l>ic ende vwe moeder mede,</l>
+<l>doe ons die inghel ontseide die stede</l>
+<l>die wij bi onzer scout verloren.</l>
+<l>noch staen die zelue voetsporen</l>
+<l n="85">verualuwet. daer en wies nie vut</l>
+<l>no loef, no gras, no ander cruut.</l>
+<l>ic zeg v ouer ene waerheit:</l>
+<l>ghi zelt daer vernemen ene claerheit</l>
+<l>comende uter zaeligher stede</l>
+<l n="90">met roec ghemanc der zoetichede.</l>
+<l>alsghi dat ziet veruaerdu niet."</l>
+<l>Seth na desen van dane sciet.</l>
+<l>hi dede dat hem zijn vader bat,</l>
+<l>hi streec al den zeluen pat</l>
+<l n="95">toten dale van Ebroene.</l>
+<l>hi hadde goeden wille tedoene</l>
+<l><edition n="125"/>dat hem zijn vader hadde beuolen.</l>
+<l>hi gheraecte zonder dolen</l>
+<l><milestone unit="fol" n="211ra"/> al daer die voetstappen stonden</l>
+<l n="100">verdroghet om Adaems zonden.</l>
+<l>zo langhe volghede hi hen naer</l>
+<l>dat hem ommoette ene scoenheit claer,</l>
+<l>die vten paradyse quam.</l>
+<l>doe Seth die claerheit vernam,</l>
+<l n="105">hi wart veruaert harde sciere.</l>
+<l>hi waende gheneken enen viere.</l>
+<l>doe peinsde hi om die claerheit</l>
+<l>daer hem zijn vader af hadde gheseit,</l>
+<l>die hem tieghen comen zoude.</l>
+<l n="110">doe trat hi daerwaert alse die boude</l>
+<l>ende trat ter doere met stouten zinne</l>
+<l>ende vant den inghel Cherubinne</l>
+<l>voer tparadijs met enen swaerde.</l>
+<l>die inghel vraghede wat hi begaerde,</l>
+<l n="115">wat hi iaghede of wat hi zochte</l>
+<l>of wat boetscape dat hi brochte.</l>
+<l>Seth sprac: "ic coem van Adame,</l>
+<l>die met groter misquame</l>
+<l>zinen licham heeft versleten.</l>
+<l n="120">hi bidt v dat ghi hem doet weten</l>
+<l>ene gherechte zekerhede</l>
+<l>des olys der ontfaermichede,</l>
+<l><edition n="126"/>die hem God zelue dede belouen,</l>
+<l>doe hi van henen wart ghescrouen."</l>
+<l n="125">die inghel sprac: "wel zoete minne,</l>
+<l>biedt v hoeft ter doeren inne</l>
+<l>ende ziet alomme int paradijs!</l>
+<l>met recht moeghdi hem gheuen prijs</l>
+<l>- dat weet ic wel - vor alle die steden</l>
+<l n="130">die den hemel zijn beneden.</l>
+<l><milestone robbie="openi2000" /><i>vraghet mi wat ghi daer siet.</i> </l>
+<l><i>ic saels v maken een bediet."</i><milestone robbie="eindi2000" /> </l>
+<l>Seth boet zijn hoeft der doeren in.</l>
+<l>hem verfroyde herte ende zin.</l>
+<l n="135">hi zach meerre scoenheit daer</l>
+<l>- dat dar ic zegghen ouerwaer,</l>
+<l>dan enich menschlijc ghedochte</l>
+<l>in hem zeluen begripen mochte.</l>
+<l>die crude gauen zoete lochte.</l>
+<l n="140">bome van mengherande urochte,</l>
+<l>die zach hi daer scone staen.</l>
+<l>Seth liet zine oghen omme gaen.</l>
+<l>midden in des paradijs pleine</l>
+<l>daer zach hi ene scone fonteine,</l>
+<l n="145">die haer deilt in vier riuiren,</l>
+<l>alsons die meester noch visiren.</l>
+<l><edition n="127"/>die ene was Gyon ghenant</l>
+<l>ende loept ouer een lant,</l>
+<l>dat heit Auelat.</l>
+<l n="150">dat maecsi met haren water nat.</l>
+<l><milestone unit="fol" n="211rb"/> daer vijntmen dat alre beste gout</l>
+<l>dat aertrike binnen houdt.</l>
+<l>oec vijntmen daer diere stene.</l>
+<l>dander riuire die ic mene,</l>
+<l n="155">heit Ewon in minen wane</l>
+<l>ende loept int lant der moriane,</l>
+<l>dat wij heiten swarte liede.</l>
+<l>die dorde riuier in corten bediede</l>
+<l>heit Tygris, alsict versta,</l>
+<l n="160">ende loept int lant van Azia.</l>
+<l>die vierde riuier - des zijt ghewes,</l>
+<l>die is gheheten Eufrates</l>
+<l>ende loept om dese werelt al.</l>
+<l>haer groette enheuet ghetal.</l>
+<l n="165">op die fonteine scoen ende claer,</l>
+<l>die Seth verzien heeft aldaer,</l>
+<l>stoent een boem ghewassen groet.</l>
+<l>alle zine telghen waren bloet.</l>
+<l>hi ne droech vrochte noch blade</l>
+<l n="170"><pb n="128"/> noch scors. dat dochthem wesen scade</l>
+<l>dat hi ghewassen stoent zo hoghe</l>
+<l>ende verdort was also droghe.</l>
+<l>Seth sloech zine oghen neder ende zach</l>
+<l>dat in den boem ghewonden lach</l>
+<l n="175">een serpent eyselijc ende groet.</l>
+<l>die wortele van dien bome bloet</l>
+<l>liepen doer die aerde diep in die helle.</l>
+<l>daer zach hi die ziel van Abelle.</l>
+<l>hi zach daer zonderlinghe wonder</l>
+<l n="180">an dien boem bouen ende onder.</l>
+<l>op thogheste van den bome lach</l>
+<l>een kijnt, alsic v zegghen mach,</l>
+<l>nijboren, in doeken ghewonden.</l>
+<l>hi horet wenen ten zeluen stonden.</l>
+<l n="185">doe Seth aldit hadde besien,</l>
+<l>doe keerde hi weder met dien,</l>
+<l>daer hi den inghel staende vant.</l>
+<l>hi begonde teuraghen altehant</l>
+<l>wat dat clene kijndekijn meende,</l>
+<l n="190">dat op den boem lach ende weende,</l>
+<l>die daer al verdort stont.</l>
+<l>die inghel sprac: "ic maect v kont:</l>
+<l>dat kijnt daer ghi om vraghet,</l>
+<l><edition n="129"/>dat zal noch an ene zuuer maghet</l>
+<l n="195">ontfanghen menschelike figure</l>
+<l>bouen den loep der nature.</l>
+<l>zo zal God hebben dat kijnt ghemene</l>
+<l>met eenre maghet die allene</l>
+<l>zal weder vijnden die ghenade</l>
+<l n="200">die Adaem bi Yeuen rade</l>
+<l>verloes met onghehoersamheden.</l>
+<l><milestone unit="fol" n="211va"/> daer zi beide aen misdeden,</l>
+<l>dat zal tkijnt allene becopen,</l>
+<l>alse die iaren zijn om ghelopen</l>
+<l n="205">volcomelike in haren tiden.</l>
+<l>niet eer en mach Adaem verbliden.</l>
+<l><milestone robbie="openi2000" /><i>dolie der ontfermecheden</i> </l>
+<l><i>sal den kinde vut sinen leden</i> </l>
+<l><i>gheperst werden soe vtermaten</i> </l>
+<l n="210"><i>dattie vader daer bi sal laten</i> </l>
+<l><i>hem ghenoeghen van alre scout</i> </l>
+<l><i>die hi opten mensche hout</i>.<milestone robbie="eindi2000" /></l>
+<l>aldus doet uwen uader teweten</l>
+<l>dat ghi zaghet een kijnt ghespleten</l>
+<l n="215">vter herten der godlichede,</l>
+<l>dat zoen zal heiten ende vader mede</l>
+<l>ende storten zal zijn heilighe bloet</l>
+<l><edition n="130"/>an thout dat noch wassen moet</l>
+<l>van drien corlekine tesamen,</l>
+<l n="220">die vten zeluen appel quamen</l>
+<l>ende ghewassen waren van den rise,</l>
+<l>daer Adaem in den paradyse</l>
+<l>die vrochte af smaecte ende ghenoet,</l>
+<l>daer hem God dat eten af verboet."</l>
+<l n="225">die inghel gaf Seth aldaer</l>
+<l>die drie greine - dat was waer,</l>
+<l>ende hieten gaen in Gods name</l>
+<l>ende zeide: "alsghi coemt tot Adame,</l>
+<l>zo vertelt hem algader voert</l>
+<l n="230">dat ghi hier ghesien hebt ende ghehoert.</l>
+<l>drie daghe na dien dat ghine ziet,</l>
+<l>zo zal hi leuen ende langher niet.</l>
+<l>ghi zelt grauen den lichame</l>
+<l>in enen dale scoen ende bequame</l>
+<l n="235">dat Ebron heit ende ghi wel wet.</l>
+<l>ende ziet dat ghijs niet verghet:</l>
+<l>alsghine legt in zijn graf,</l>
+<l>die drie greine die ic v gaf,</l>
+<l>die zoeldi legghen ter zeluer stont</l>
+<l n="240">onder zijn tonghe in zinen mont.</l>
+<l>ende graefse met hem onder der aerden.</l>
+<l>daer af zoelen wassen drie gaerden</l>
+<l>ende verbaren hem euen groet.</l>
+<l><edition n="131"/>die ene zal wesen cedrus ghenoet,</l>
+<l n="245">die wasset bouen alle bomen.</l>
+<l>daerbi machmen den vader gomen,</l>
+<l>wies moeghentheit gaet bouen al</l>
+<l>die was ende is ende wesen zal.</l>
+<l>die ander gherde - des zijt ghewes,</l>
+<l n="250">zal zijn ghelijc den cypres.</l>
+<l>daerbi zo is bediet die zoene,</l>
+<l>alse die cypres is ghewoene,</l>
+<l>wanneer datmen houwet ende ondoet,</l>
+<l>dat hi gheuet roeke goet.</l>
+<l n="255">noch alsmen den zoene zal blouwen,</l>
+<l>hande ende voete doerhouwen,</l>
+<l>ende die zide wordt oploken,</l>
+<l>daer zoelen vutgaen zo zoete roeken</l>
+<l><milestone unit="fol" n="211vb"/> dat die uader daerbi zal</l>
+<l n="260">Adaems misdaet vergheten al.</l>
+<l>die dorde gherde die zal wesen</l>
+<l>ghelijc den pijmboem, ende bi desen</l>
+<l>is ons die heilighe gheest bediet.</l>
+<l>want men an den pijmboem ziet</l>
+<l n="265">dat hi menich blat vut gheuet.</l>
+<l>ende alse hi alle zine telghen heuet,</l>
+<l>daermede versiert hi ende bespreet</l>
+<l>ende altoes euen gruene steet.</l>
+<l>des ghelike machmen merken</l>
+<l n="270"><pb n="132"/> den heilighen gheest an zinen werken</l>
+<l>ende zinen gauen haerentaere</l>
+<l>heimelijc ende openbaere</l>
+<l>zo menchuoudelike heeft bespreet</l>
+<l>dat menre ghetal gheen af en weet."</l>
+<l n="275">Seth en spaerde langher niet,</l>
+<l>doe hem die inghel hadde bediet</l>
+<l>wat an die drie gherden lach.</l>
+<l>doe ne gheruste hi nach noch dach,</l>
+<l>eer hi weder quam int lant</l>
+<l n="280">daer hi zinen vader uant.</l>
+<l>hi vertelde hem altemale</l>
+<l>van worde te worde in waerre tale,</l>
+<l>als hem die inghel hadde gheseit,</l>
+<l>dat die oly der onfarmicheit</l>
+<l n="285">van enen kijnde comen zoude.</l>
+<l>doe verblide hem die oude</l>
+<l>ende loegh als enewarf</l>
+<l>binnen zinen liue, eer hi verstarf.</l>
+<l>niet langhe enleuede hi na dien</l>
+<l n="290">dat hi die drie greine hadde ghesien.</l>
+<l>daer hi dede zijn einde,</l>
+<l>waren duuel bi gheheinde</l>
+<l>ende namen die ziel in haer ghewelt.</l>
+<l><edition n="133"/>Seth voerde den licham op tuelt.</l>
+<l n="295">dat was tot Ebron an die heide</l>
+<l>daer hine in die aerde leide.</l>
+<l>hi leghede hem in die zelue stede</l>
+<l>daer God vut nam zine lede.</l>
+<l>hi leide die drie greine tesamen</l>
+<l n="300">onder zine tonghe. daer af quamen</l>
+<l>drie gaerdekine smal ende cranc,</l>
+<l>elc om die mate eenre ellen lanc.</l>
+<l>daer stondenze altoes in enen doene,</l>
+<l>winters, somers euen groene,</l>
+<l n="305">twe ende dertich hondert iaer.</l>
+<l>Moyses, die vantze daer,</l>
+<l>doe hi dat israelsce here</l>
+<l>gheleit bracht ouer trode mere.</l>
+<l>hi leide tuolc doer ene woestine</l>
+<l n="310"><milestone unit="fol" n="212ra"/> daert drie daghe doghede pine,</l>
+<l>want zij en vonden water engheen.</l>
+<l>nochtan droeghen zij ouer een</l>
+<l>dat zij sloeghen pawelioene</l>
+<l>in den dale van Ebroene,</l>
+<l n="315">daer Adaem begrauen lach.</l>
+<l>Moyses die drie gaerden zach,</l>
+<l>mer hine wiste nochtan niet</l>
+<l>wat zaken daerbi was bediet.</l>
+<l><edition n="134"/>aldus liet hise daer staen.</l>
+<l n="320">hi ne dorster niet wael aneuaen.</l>
+<l>des anders daghes, doet waert lechte,</l>
+<l>zach Moyses, die Gods knechte,</l>
+<l>staen dat ene gaerdekine</l>
+<l>ten houeden van den bedde zine.</l>
+<l n="325">dander gaerdekijn dat ic mene,</l>
+<l>zach hi staen recht ende clene</l>
+<l>neuen zijnre rechter ziden.</l>
+<l>torde zach hi te dien tiden</l>
+<l>tot zijnre lochter ziden staen.</l>
+<l n="330">dat zeghet boec alzonder waen</l>
+<l>dat Moyses was veruaert,</l>
+<l>doe hi die ghaerden zach verbaert.</l>
+<l>hi lietse staen terzeluer stede.</l>
+<l>nu moeghedi horen wat hi dede.</l>
+<l n="335">hi voer van daer in Eylem.</l>
+<l>al dat volc dat was met hem.</l>
+<l>zij vieren daers hem luste</l>
+<l>des auontijds te nemen ruste.</l>
+<l>tseuentich palmen vonden zij daer</l>
+<l n="340">ende twentich fonteynen claer.</l>
+<l>zij sloeghen op dat groene uelt</l>
+<l>neuen dwater hare ghetelt.</l>
+<l>des anders daeghs - des zijt ghewes,</l>
+<l>vant die drie gaerden Moyses</l>
+<l n="345"><pb n="135"/> omtrent zine bedde staen,</l>
+<l>alse hi teuoren hadde ghedaen.</l>
+<l>doe propheteerde hi daer of.</l>
+<l>"God", seide hi, "hebs ghelof!</l>
+<l>eset alsic mi beuroede,</l>
+<l n="350">zo merc ic an dese drie roede</l>
+<l>dat hier is betekent mede</l>
+<l>die heilighe drieuoudichede."</l>
+<l>aldus liet hise daer staen.</l>
+<l>hi ne dorster niet wael ane vaen.</l>
+<l n="355">hi voer denen metten luden zine</l>
+<l>int lant van Raphatine.</l>
+<l>daer zij dwater bitter vonden,</l>
+<l>dat zij alle te dien stonden</l>
+<l>dorst ghedogheden ende onghemac.</l>
+<l n="360">zoete water hem daer ghebrac.</l>
+<l><milestone unit="fol" n="212rb"/> des clagheden zij alle, ionghe ende oude.</l>
+<l>zij gauen Moyses die scoude.</l>
+<l>des was hi bedroeuet zere.</l>
+<l>Gode bat hi, onzen here,</l>
+<l n="365">dat hi moeste zeinden zulke boete</l>
+<l>daert water af moest smaken zoete.</l>
+<l>want tuolc en liet hen niet gheroen,</l>
+<l>doe ghinc hi in een pawelioen.</l>
+<l>daer hi nam nachtruste doe</l>
+<l n="370">tot des anders daghes vroe.</l>
+<l><edition n="136"/>doe hi den dach hadde versien,</l>
+<l>stont hi op ende na dien</l>
+<l>vant hi die drie gaerdekine groene</l>
+<l>recht in den zeluen doene,</l>
+<l n="375">alse hise twewaerf hadde ghesien.</l>
+<l>doe viel hi op zine knien.</l>
+<l>hi bat Gode oft wesen mochte</l>
+<l>dat hi hem teuoeren brochte</l>
+<l>wat hi meinde met den gaerden</l>
+<l n="380">die hem alse die verbaerden.</l>
+<l>vele dacht hi haere ende ghens.</l>
+<l>God zeinde hem een ghepens</l>
+<l>dat hi die gaerdekine op trac</l>
+<l>ende menze in die fonteine stac.</l>
+<l n="385">doe verwandelde des waters bitterheide</l>
+<l>al in rechter zoeticheide.</l>
+<l>nu hoert hoet hierna ghesciede.</l>
+<l>Moyses ende zine liede</l>
+<l>zij voerden die ghaerdekine met hem</l>
+<l n="390">doer tlanscap van Raphatem.</l>
+<l>zij quamen met haren scaren</l>
+<l>omtrent enen berch gheuaren</l>
+<l>die Synai gheheten es.</l>
+<l>ende die prophete Moyses</l>
+<l n="395">hi liet die gaerdekine aldaer.</l>
+<l>men leghese in een water claer.</l>
+<l>hierna ghinc hi - ghelouets mi,</l>
+<l><edition n="137"/>op den berch tot Synai.</l>
+<l>daer was hi .xl. daghe met Gode.</l>
+<l n="400">hi bracht denen die .x. ghebode,</l>
+<l>ghescreuen in twe tafelen zine</l>
+<l>die beide waren stenine.</l>
+<l>doe hi van den berghe quam neder,</l>
+<l>voerde hi die gaerdekine zeder</l>
+<l n="405">te Moab in een conincrike.</l>
+<l>daer zette hise waerdelike</l>
+<l>in der aerden alle drie.</l>
+<l>nadien enzach hise nie.</l>
+<l>daer stonden zij wel menich iaer</l>
+<l n="410">dat zij en wiessen niet een haer</l>
+<l>ende bleuen altoes in enen doene</l>
+<l><milestone unit="fol" n="212va"/> winters, somers euen groene.</l>
+<l>voerwaer zeghede men ons dit</l>
+<l>datze die coninc Dauid</l>
+<l n="415">vant, als ic v zegghen mach.</l>
+<l>in zinen slaep aldaer hi lach,</l>
+<l>quam hem een inghel teuoren</l>
+<l>ende zeide: "coninc vutuercoren,</l>
+<l>nu hoer wes ic di vermane!</l>
+<l n="420">rijd enwech ouer die Iordane!</l>
+<l>daer zaltu vijnden drie gaerdekijn</l>
+<l>die van eenre groette zijn.</l>
+<l><edition n="138"/>die zaltu zetten in dinen hof.</l>
+<l>daer zal een boem wassen of</l>
+<l n="425">daer die ghene zal aen versteruen</l>
+<l>diet al weder zal verweruen</l>
+<l>dat bi Adaem verloren waert."</l>
+<l>Dauid ontwaecte ende waert veruaert.</l>
+<l>die nacht leet. des morghens vroe</l>
+<l n="430">stont hi op ende reide hem toe.</l>
+<l>met hem nam hi gheselscap</l>
+<l>ende woude int rike van Moab,</l>
+<l>dat leeght ouer die Iordane.</l>
+<l>hi was in hope ende in wane</l>
+<l n="435">te vijnden die drie roeden daer</l>
+<l>die Moyses ouer menich iaer</l>
+<l>daer in der aerden staende liet,</l>
+<l>alse hem God beual ende hiet.</l>
+<l>Dauid zach ene scone stede</l>
+<l n="440">daer hi zijn bedde op maken dede,</l>
+<l>omdat hi snachts rusten woude.</l>
+<l>des anders daghes also houde,</l>
+<l>doe hi versach des daghes lechte,</l>
+<l>vant hi die drie gaerdekine rechte</l>
+<l n="445">omtrent zinen bedde staende.</l>
+<l>Gode bat hi ende vermaende</l>
+<l>dat hi hem moest openbaren</l>
+<l>of dat die drie gaerden waren</l>
+<l>die hi zochte in dat lant.</l>
+<l n="450"><pb n="139"/> ene stemme riep altehant:</l>
+<l>"coninc goet, dat zijn die roeden</l>
+<l>die du zalt hebben in dire hoeden.</l>
+<l>ende voertse binnen Iherusalem!"</l>
+<l>tuolc dat comen was met hem,</l>
+<l n="455">was blide om den heilighen vont.</l>
+<l>Dauid ginc terzeluerstont</l>
+<l>ende toech die roeden vter erden</l>
+<l>ende voeredse danen met groter werden.</l>
+<l>daermense voerde ende droech</l>
+<l n="460">ende aen die zieke liede sloech,</l>
+<l>worden zij gans ende alghesont.</l>
+<l>dat wart den groten here cont</l>
+<l><milestone unit="fol" n="212vb"/> die Bixillus was gheheten.</l>
+<l>hi ontsoef der beten</l>
+<l n="465">die hem van den roeden quam.</l>
+<l>hi was veriecht ende daer toe lam</l>
+<l>ende van crancheide also mat</l>
+<l>dat hi met pinen dranc ende at.</l>
+<l>doe men die roeden an hem stac,</l>
+<l n="470">verloes hi al zijn onghemac.</l>
+<l>doe Bixillus was ghenesen,</l>
+<l>voer Dauid denen met desen.</l>
+<l>eer zij quamen ouer die Iordane</l>
+<l>ghemoeten hem drie moriane,</l>
+<l n="475">die heiten swarte liede.</l>
+<l>daer groet wonder aen ghesciede.</l>
+<l><edition n="140"/>die roeden stac an hem Dauid.</l>
+<l>zij worden zaen scoen ende wit</l>
+<l>beide van hude ende oec van hare.</l>
+<l n="480">dat zaghen zij al openbare,</l>
+<l>die daer metten coninc reden.</l>
+<l>doe zij ene wile waren leden</l>
+<l>die Iordane met haren scaren,</l>
+<l>zij quamen bi enen berch gheuaren</l>
+<l n="485">daer een lasers man in lach</l>
+<l>ende eenpaerlike daer tewonen plach.</l>
+<l>want bi enen weghe was</l>
+<l>ghelike als een ghemein tripas.</l>
+<l>.c. iaer ende .xxx. mede</l>
+<l n="490">was die man out, ende bi der bede</l>
+<l>had hi gheleuet langhe stont.</l>
+<l>hi voerzeide: "mi is cont</l>
+<l>dat hier een huden comen zal</l>
+<l>die mi van ziekheiden al</l>
+<l n="495">ghenesen zal met heilicheden.</l>
+<l>als Dauid daer quam ghereden</l>
+<l>ende voer den zieken liden zoude,</l>
+<l>sloech vten roeden also houde</l>
+<l>ene vlamme ten berghe waert,</l>
+<l n="500">die haestelike hadde vertaert</l>
+<l>aldie onghesonde vut smans leden.</l>
+<l>die liede quamen toe ghereden</l>
+<l><edition n="141"/>ende vonden den man al ghenesen,</l>
+<l>die langhe ziec hadde ghewesen.</l>
+<l n="505">des zelues daghes voer uespertijt</l>
+<l>quam binnen Iherusalem Dauid</l>
+<l>ende brocht die drie roeden daer.</l>
+<l>het gheuiel int tiende iaer</l>
+<l>dat hi coninc was ghecoren</l>
+<l n="510">int rike dat Saul hier teuoren</l>
+<l>met groten eren hadde beseten.</l>
+<l>nu wil ic v voert doen weten</l>
+<l>wat Dauid metten roeden dede,</l>
+<l><milestone unit="fol" n="213ra"/> doe hise bracht binnen der stede.</l>
+<l n="515">hi zettese in ene fonteine claer</l>
+<l>die bi zinen houe stont aldaer.</l>
+<l>des anders daeghs waende hise met loue</l>
+<l>hebben gheset in zinen houe.</l>
+<l>dat hem altedoene ontuacht,</l>
+<l n="520">want zij waren in der zeluer nacht</l>
+<l>daer ghewortelt in den gronde,</l>
+<l>dat menze niet ghetrecken en conde</l>
+<l>noch van denen niet ghebrenghen.</l>
+<l>God en wouds oec niet ghehenghen</l>
+<l n="525">dat zij iewer wiessen el.</l>
+<l><edition n="142"/>vergadert waren zij wel</l>
+<l>datmen niet en conste ghesien</l>
+<l>welc een gheweset hadde van drien,</l>
+<l>zonder an den hoghesten ende</l>
+<l n="530">bleuen zij datmen bekende</l>
+<l>dat hadden ghesijn drie roedekine.</l>
+<l>die cedrus, die cypres ende die pine</l>
+<l>wiessen tesamen al in een.</l>
+<l>noyt zachmen scoenre boem engheen</l>
+<l n="535">noch van hoghen, noch van grouen.</l>
+<l>mer ten hoghen einde bouen</l>
+<l>mochtmen openbaer aen zien</l>
+<l>dat hi versceden bleef aen drien.</l>
+<l>die coninc dede ten zeluen tiden</l>
+<l n="540">zinen hof leinghen ende widen,</l>
+<l>datmen den boem daer binnen brochte</l>
+<l>ende al met enen tune omwrochte.</l>
+<l>doe hi een iaer hadde ghestaen,</l>
+<l>dede Dauid daer om slaen</l>
+<l n="545">van witten ziluer enen rinc</l>
+<l>die hem alomtrent vinc.</l>
+<l>hi wies al tot .xxx. iaren.</l>
+<l><edition n="143"/>tot elken iaerlike twaren</l>
+<l>dede her Dauid, die coninc,</l>
+<l n="550">slaen enen zonderlinghen rinc.</l>
+<l>dat waren .xxx. ringhe,</l>
+<l>dat vele liede heiten penninghe.</l>
+<l>want Iudas vercoft daer vm</l>
+<l>den gods zoene Ihesum.</l>
+<l n="555">dertich iaer - dats ware dinc,</l>
+<l>was Dauid gheweldich coninc,</l>
+<l>na dien dat hi bracht met hem</l>
+<l>die roeden binnen Iherusalem,</l>
+<l>daer die zaelighe boem wies of,</l>
+<l n="560">diemen mach gheuen lof</l>
+<l>bouen alden houte cleine ende groet,</l>
+<l>die ie ghewies of vut aerden sproet.</l>
+<l>die coninc leghede al zinen vlijt,</l>
+<l>hi reide daer toe menich tijt.</l>
+<l n="565"><milestone unit="fol" n="213rb"/> hi plach tedoen ter zeluer stede</l>
+<l>oetmoedelike zine ghebede.</l>
+<l><milestone robbie="openi2000" /><i>hi hadde versament seluer ende gout</i> </l>
+<l><i>mede te copene steen ende hout</i>.<milestone robbie="eindi2000" /></l>
+<l>hi woude ter stede een bedehuus maken.</l>
+<l n="570">mer God verbaerde hem in spraken.</l>
+<l>hi zeide: "coninc, merket hier an!</l>
+<l><edition n="144"/>du bist een oerloeghs man.</l>
+<l>dune zalt mi gheen huus oprechten.</l>
+<l>dat heeft ghedaen dijn grote uechten.</l>
+<l n="575">en onderweints di niet te doene.</l>
+<l>het zal ghescien bi Salomoene,</l>
+<l>die na di zal berichten trike</l>
+<l>langhe tijt vreedzomlike."</l>
+<l>doe die coninc Dauid verstarf,</l>
+<l n="580">trijc an Salomon verwarf.</l>
+<l>hi wart gheweldich here.</l>
+<l>doe brachten God in zulken kere</l>
+<l>dat hi een bedehuus dede maken</l>
+<l>van den alre meesten zaken</l>
+<l n="585">die hi daertoe visieren mochte.</l>
+<l>het was langhe eerment uolbrochte.</l>
+<l>een scoen werc houdt dat voerwaer,</l>
+<l>mer een balc ghebrac hem daer.</l>
+<l>die meesters ghinghen ende zochten</l>
+<l n="590">dlant dore, ende zine mochten</l>
+<l>ghenen boem vijnden zo groet</l>
+<l>die hem dochte tot hare noet.</l>
+<l>dus ghinghen zij bedroeuet zere</l>
+<l><edition n="145"/>tot den coninc ende zeiden: "here,</l>
+<l n="595">wine connen ghenen balc vijnden</l>
+<l>dien wij mids int werke bijnden,</l>
+<l>enzi dat ghi laet houwen of</l>
+<l>den boem die staet in uwen hof</l>
+<l>ghebonden metten .xxx. ringhen."</l>
+<l n="600">dat woude die coninc node ghehinghen,</l>
+<l>wanten daer hadde gheset zijn vader.</l>
+<l>nochtan en woude hi niet algader</l>
+<l>dat scoen werc laten bederuen.</l>
+<l>hi hiet den boem houwen ende keruen</l>
+<l n="605">dien timmermans, hoe dat zij wouden.</l>
+<l>die .xxx. ringhe hiet hi houden</l>
+<l>ende algheheel in den tempel bringhen.</l>
+<l>daer zi menich iaer in hinghen</l>
+<l>tenen ghemenen orbare,</l>
+<l n="610">als noetlike tedoene ware.</l>
+<l>zo langhe hinghen zij aldaer</l>
+<l>dat verganghen waren die iaer</l>
+<l>datze die ioeden Iudase brochten,</l>
+<l>ende onzen heer daer om cochten.</l>
+<l n="615">nu hoert van den boeme uoert.</l>
+<l>hi lach ghehouwen ende gheboert</l>
+<l>ende al ghemic tote dien werke.</l>
+<l><milestone unit="fol" n="213va"/> die meesters namen hare merke.</l>
+<l>zij waenden wael legghen int pas.</l>
+<l n="620">mer als hi op gheheuen was,</l>
+<l><edition n="146"/>zo docht hem emmer dat hi sceen</l>
+<l>tecort vijf voete al in een.</l>
+<l>alsmen hen weder leghede neder,</l>
+<l>zo leinghedi vijf uoete weder.</l>
+<l n="625">dit hadde den timmermans wonder.</l>
+<l>zij maten den boem bouen ende onder.</l>
+<l>het was om niet dat zire aenwrochten,</l>
+<l>want zine conden noch en mochten</l>
+<l>van den hout ghenen balc ghemaken.</l>
+<l n="630">hi was ghewassen te andren zaken.</l>
+<l>hi moesten draghen te enen scilde</l>
+<l>die ons met zinen bloede wilde</l>
+<l>loessen van des duuels ghewelt,</l>
+<l>die ons in scalkernien helt.</l>
+<l n="635">doe die coninc hoerde zegghen</l>
+<l>datmen niet en conde ghelegghen</l>
+<l>tenen balc dat zaelighe hout,</l>
+<l>hi dede weder gaen int wout</l>
+<l>verre ende na in vele hoeken</l>
+<l n="640">enen andren bome zoeken,</l>
+<l>die vonden waert ten iersten daghe.</l>
+<l>dat zegghic v in waerre zaghe.</l>
+<l>hi was ghemic, no min no meer,</l>
+<l>ten werke daer ic af sprac eer.</l>
+<l n="645"><pb n="147"/> als ic heb horen lesen,</l>
+<l>lach thelighe hout na desen</l>
+<l>in dien tempel op die aerde,</l>
+<l>dats niemen en achte noch en gaerde.</l>
+<l>daer quam een wijf teenre stont.</l>
+<l n="650">Sibilla hiet zi, dats mi cont.</l>
+<l>zi ginc daer op zitten roekelose.</l>
+<l>daer begonstesi af tehebben nose.</l>
+<l>vut dien boem rees een brant</l>
+<l>die haer cleder altehant</l>
+<l n="655">met eenre vlammen al onstac.</l>
+<l>hoe lude riepsi ende sprac:</l>
+<l>"o boem, helicheiden vol!</l>
+<l>hoe was ic mijns zins zo dol</l>
+<l>dat ic op di zitten zoude!</l>
+<l n="660">andi zal om onze houde</l>
+<l>noch die gods zoene hanghen."</l>
+<l>die ioeden quamen toe gheganghen.</l>
+<l>met gheesselen ghinghen zise slaen.</l>
+<l>zij stietenze uten tempel zaen</l>
+<l n="665">ende leghedenze in enen kerker diep.</l>
+<l>zine wiste niet wat zi riep</l>
+<l>van den bome, noch meer no min,</l>
+<l>dan hore God zeinde in den zin.</l>
+<l><milestone unit="fol" n="213vb"/> zij deden haer zo grote noet</l>
+<l n="670"><pb n="148"/> dat zi bleef in den kerker doet.</l>
+<l>die ioeden ghinghen hem beraden</l>
+<l>wat zij metten bome daden.</l>
+<l>doe worden zij in dien begrepen</l>
+<l>dat zine deden daer slepen</l>
+<l n="675">vten tempel - hoerde ic zegghen,</l>
+<l>ende dedenen ouer ene beke legghen.</l>
+<l>daer zine langhe lieten ligghen</l>
+<l>alse tot eenre ghemeenre brigghen.</l>
+<l>doe waert ghetreden daer met voeten</l>
+<l n="680">die boem daer aen lach vele boeten.</l>
+<l>hierna quam tot Salomoene</l>
+<l>ene coninghinne van hoghen doene,</l>
+<l>om dat haer zo vele was gheseit</l>
+<l>van zijnre groter wijsheit.</l>
+<l n="685">zi quam eerlike tehem</l>
+<l>gheuaren binnen Iherusalem.</l>
+<l>doe die vrouwe quam terbeke</l>
+<l>daer thout op lach, daer ic af spreke,</l>
+<l>zeinde haer God int ghedochte zaen</l>
+<l n="690">dat zire niet ouer en wilde gaen.</l>
+<l>men zeeght dat zi baereuoet</l>
+<l>beneuen ouer dwater woet.</l>
+<l>zine dorste thout vol heilicheden</l>
+<l>met haren voeten niet betreden.</l>
+<l n="695">dit versach die coninc.</l>
+<l><edition n="149"/>het docht hem wonderlike dinc.</l>
+<l>hi zeide: "vrouwe, bericht mi dat:</l>
+<l>waer om maecti v zo nat</l>
+<l>ende v rikelike ghewade?"</l>
+<l n="700">zi sprac: "coninc, bi welken rade</l>
+<l>leeght dit hout te enen vonder?</l>
+<l>men heit v wijs, dat heeft mi wonder.</l>
+<l>witti niet dat daer aen zal</l>
+<l>hanghen die behouder der werelt al?"</l>
+<l n="705">die vrouwe was, als ict versta,</l>
+<l>coninghinne van Saba.</l>
+<l>zi gaf daertoe stene ende gout,</l>
+<l>daermen mede besloeghe dat hout.</l>
+<l>Salomon, die wise here,</l>
+<l n="710">deedt nemen met groter ere.</l>
+<l>men droeght in den tempel doe.</l>
+<l>hi dede met stene legghen toe</l>
+<l>alle die doeren grote ende clene</l>
+<l>van den tempel zonder ene.</l>
+<l n="715">hi dede thout daer dwers in voeghen,</l>
+<l>dat nieman en zoude moeghen</l>
+<l>daer in gaen spreken zine ghebede,</l>
+<l>hine neech den hout terzeluer stede.</l>
+<l>alle diet teuoren hadden ghetreden,</l>
+<l n="720"><milestone unit="fol" n="214ra"/> moestent daerna anebeden.</l>
+<l>Salomon starf ende na hem quam</l>
+<l><edition n="150"/>een coninc ende hiet Roboam,</l>
+<l>noch een ander daer na</l>
+<l>ende was gheheten Abya.</l>
+<l n="725">hi nam van dien houte rene</l>
+<l>tgout ende alle die diere stene</l>
+<l>daert mede was beslaghen.</l>
+<l>hi deedt vter doeren draghen,</l>
+<l>daert binnen lach bewrocht.</l>
+<l n="730">die ioeden waren zaen bedocht.</l>
+<l>zij quamen heimelike bi nachte</l>
+<l>ende groeuent meer dan .xx. ghelachte</l>
+<l>onder die aerde. daert in lach</l>
+<l>.cc. iaer dat nieman enzach.</l>
+<l n="735">daer gheuielt, alst God woude,</l>
+<l>datmen enen put niwe deluen zoude.</l>
+<l>daermen tuleische in zoude dwaen</l>
+<l>dat ten tempel worde ontfaen</l>
+<l>van den volc van den lande,</l>
+<l n="740">alst daer quame ter offerande.</l>
+<l>het was zede in die oude wet</l>
+<l>datmen lammer ende caluer vet</l>
+<l>te offeren plach ende ander beesten,</l>
+<l>daermen hoecheit hilt ende feesten.</l>
+<l n="745">men groef den put terzeluer stede</l>
+<l>daer in lach thout onzer zaelichede.</l>
+<l>het was vergheten langhe stonde.</l>
+<l><edition n="151"/>het hief hem zeluen vten gronde.</l>
+<l>het dreef daer in een water claer.</l>
+<l n="750">zente Jan zeit ouer waer</l>
+<l>dat alle daghe voer vespertijt</l>
+<l>een inghel quam ende dreef iolijt</l>
+<l>ende roerde dwater in die piscine.</l>
+<l>wie van ziekheiden hadde pine</l>
+<l n="755">ende naest den inghel int water quam,</l>
+<l>van allen pinen hi boete nam.</l>
+<l>aldus dreeft thout in die piscine,</l>
+<l>om dat Ihesus doer die zine</l>
+<l>daer aen naect steruen wonde.</l>
+<l n="760">nu merct alle, ionghe ende oude,</l>
+<l>hoe vele die godszoene doghede</l>
+<l>om den mensche, eerhine verhoghede</l>
+<l>ende weder bracht ter ghenaden.</l>
+<l>hi wart valschlike verraden</l>
+<l n="765">van Judas, als ghi moeght horen.</l>
+<l>hi quam metten ioeden voren</l>
+<l>in eenre donker auontstonde.</l>
+<l>den here cussede hi an zinen monde.</l>
+<l>die ioeden grepen hen ane.</l>
+<l n="770">zij leiden onwaerdelike dane</l>
+<l><milestone unit="fol" n="214rb"/> tot des biscops huus binnen.</l>
+<l>ic en can niet al verzinnen</l>
+<l><edition n="152"/>wat onwaerden ende wat smaden</l>
+<l>dat zij hem des nachts daden.</l>
+<l n="775">bi zinen barde wart hi ghetoghen.</l>
+<l>dat woude hi al om ons ghedoghen.</l>
+<l>des anders daghes wart hi brocht</l>
+<l>voer Pylatus ende wart berocht</l>
+<l>dat hi sculdich waer der doet.</l>
+<l n="780">tuolc riep al clein ende groet:</l>
+<l>"me cruce desen! hi heues verboert!"</l>
+<l>hare wille moest daer ganghen uoert.</l>
+<l>zij sloeghenen an ene columne onzochte.</l>
+<l>zij gheesseldenen zo dat men mochte</l>
+<l n="785">dat rode bloet zien lopen vut</l>
+<l>doer zine ghebenedide huut.</l>
+<l>nochtan en mocht zo niet bliuen.</l>
+<l>zij woudenen an een cruus ontliuen.</l>
+<l>des droeghen zij alle enen moet.</l>
+<l n="790">doe sprac een man die daerbi stoet:</l>
+<l>"ic weet een groet hout ende dic,</l>
+<l>tot zinen rugghe wael ghemic.</l>
+<l>al eest out, en scaedt hem niet.</l>
+<l>het drijft in der piscinen vliet."</l>
+<l n="795">die ioeden liepen daerwaert</l>
+<l>ende toghent vut metter uaert.</l>
+<l><edition n="153"/>thout dat langhe hier teuoren</l>
+<l>ten cruce ons heren was vercoren,</l>
+<l>het en bleef niet algheheel.</l>
+<l n="800">men hiewer af een dordendeel.</l>
+<l>dat was die stake die opwart stoet,</l>
+<l>van den cruce des kempen goet</l>
+<l>die voer ons allen zeghe uacht.</l>
+<l>hi nam den duuel zine macht.</l>
+<l n="805">daer op lach ghenaeghelt dwers</l>
+<l>een hout van enen cypers.</l>
+<l>die naghel, als ict bescreuen vant,</l>
+<l>die die twe houte tesamen bant,</l>
+<l>was van enen olyue ghehouwen.</l>
+<l n="810">Ihesus moest zelue met rouwen</l>
+<l>zijn cruus draghen dor die stede.</l>
+<l>tghemeine volc volghede mede</l>
+<l>op den berch te Caluaria.</l>
+<l>met rouwen quam daer Maria</l>
+<l n="815">ende zente Jan, haerre zuster zoene.</l>
+<l>dese twe waren die ghoene</l>
+<l>die bi hem onder den cruce bleuen,</l>
+<l>daer hi naect aen wart verheuen.</l>
+<l>zij sloeghen den here van menghen lande</l>
+<l n="820">twe plompe naghele dor zine hande</l>
+<l>ende dor zine voete enen.</l>
+<l><milestone unit="fol" n="214va"/> dat grote carmen ende dat wenen</l>
+<l><edition n="154"/>dat men aen Marien zach,</l>
+<l>dats meerre dan ic v zegghen mach,</l>
+<l n="825">want die passie niet en houdt.</l>
+<l>zo en ben ic tezegghen niet zo bout</l>
+<l>wat zij daer zeiden, min no me.</l>
+<l>mer hoerre herten was zo we</l>
+<l>dat daer doer leet een swaert des rouwen,</l>
+<l n="830">doe zi haren zoene zach blouwen</l>
+<l>ende hanghen in zo groter pinen</l>
+<l>dat die zonne liet haer scinen,</l>
+<l>die aerde beuede, die stene scoerden.</l>
+<l>dat bescrijft met waren woerden</l>
+<l n="835">zente Jan ewangeliste.</l>
+<l>die was die die waerheit wiste.</l>
+<l>die elemente waren in vare,</l>
+<l>eer Ihesus zinen gheest gaf dare.</l>
+<l>een ridder quam na zire doet</l>
+<l n="840">ende stacken, daer hi hinc al bloet,</l>
+<l>in zijnre ghebenedider ziden.</l>
+<l>daer vut zo ran ten zeluen tiden</l>
+<l>die olye der ontfarmicheit,</l>
+<l>aldaer Adaem af was gheseit</l>
+<l n="845">dat hi daerbi ghenesen zoude.</l>
+<l>nu bidde wij den here, ionghe ende oude,</l>
+<l>die ons verloeste met zinen bloede,</l>
+<l>dat hi ons neme in zine hoede.</l>
+<l>des on ons God, die hemelsce vader.</l>
+<l n="850">nu zegt amen allegader.</l>
+<l parse="ignore">Amen.</l>
+</text>
+<!--</ENTRY>
+--></TEI.2>

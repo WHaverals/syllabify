@@ -1,0 +1,121 @@
+<?xml version='1.0'?><!DOCTYPE TEI.2 PUBLIC '-//TEI P4//DTD Main Document Type//EN' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd' [<!ENTITY % TEI.prose 'INCLUDE'><!ENTITY % TEI.linking 'INCLUDE'><!ENTITY % TEI.figures 'INCLUDE'><!ENTITY % TEI.analysis 'INCLUDE'><!ENTITY % TEI.corpus 'INCLUDE'><!ENTITY % TEI.XML 'INCLUDE'><!NOTATION TEI-XML PUBLIC 'TEI P4' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd'><!-- internal INL dtd --><!ELEMENT b (#PCDATA)><!ELEMENT l (#PCDATA | b)*><!-- end of internal INL dtd -->]><TEI.2><!--<ENTRY id="i939"><teiHeader><fileDesc><titleStmt><title>Spiegel der sonden (berijming)</title>
+</titleStmt>
+<interpGrp type="pubYear_from"><interp value="1300"/></interpGrp>
+<interpGrp type="witnessYear_from"><interp value="1300"/></interpGrp>
+<interpGrp type="pubYear_to"><interp value="1400"/></interpGrp>
+<interpGrp type="witnessYear_to"><interp value="1400"/></interpGrp>
+<TITEL>Spiegel der sonden (berijming)</TITEL>
+<author>Onbekend</author>
+<AARD>Rijm</AARD>
+<BRON nr="D68">Gent, Bibliotheek der Rijksuniversiteit, 1635 a (fragm.)</BRON>
+<DATUM>1300-1400</DATUM>
+<OMVANG>86 verzen</OMVANG>
+<BRON.OPM>Fragment van een dubbelblad; 2 kolommen per bladzijde, elke kolom thans 22 verzen; het fragment is zeer beschadigd. De tekst behoort tot dat gedeelte, dat aan het begin van M&uuml;nster, Universit&auml;tsbibliothek, Ms. 268 ontbreekt, en is te vergelijken met Spiegel der sonden (proza), hoofdstuk E (Gulsicheit salmen haten om xiiij reden wille), fol. 11vb e.v.</BRON.OPM>
+<EDITIE>H. Neumann (ed.): 'Neue Fragmente aus dem verschollenen Anfang des westfl&auml;ischen "Spiegel der sonden"'. In: Nachrichten der Akademie der Wissenschaften in G&ouml;ttingen. I. Philologisch-historische Klasse, 1962, 1, 1-45 (34-40).</EDITIE>
+<STATUS>Kritisch</STATUS>
+<BRONMNW>914.X.1</BRONMNW>
+<EDITIE.OPM>Letters of woorden tussen vierkante haken zijn reconstructies. In de editie Neumann worden uitsluitend die verzen uitgegeven die thuishoren in het nu verdwenen aanvangsgedeelte van de Spiegel der sonden.</EDITIE.OPM>
+<BRONNEN>Het grootste gedeelte van de tekst van de Spiegel der sonden is bewaard gebleven in een Middelnederduitse (en door Verdam naar het Middelnederlands hertaalde) versie; verder zijn van de Middelnederlandse tekst nog enkele fragmenten bewaard, waarvan sommige ons in staat stellen het tekstverlies in het Middelnederduitse hs. gedeeltelijk aan te vullen. Voor het (hertaalde) Middelnederduitse hs. zie: - <x nr=D66>M&uuml;nster, Universit&auml;tsbibliothek, Ms. 268</x>
+ en - <x nr=D67>M&uuml;nster, Universit&auml;tsbibliothek, Ms. 268 (fragm.)</x>
+. Voor de fragmenten zie: - <x nr=D68>Gent, Bibliotheek der Rijksuniversiteit, 1635 a (fragm.)</x>
+ en - <x nr=D69>Gent, Rijksarchief, s.o. (fragm.)</x>
+</BRONNEN>
+</fileDesc>
+</teiHeader>
+--><text>
+<l parse="ignore"><pb n="34"/><milestone unit="fol" n="1ra"/> Deerste leeringhe so es claer,</l>
+<l>Dat ons nature wantroest te desen:</l>
+<l>In boucken van naturen wi lesen,</l>
+<l>Dat onder allen dieren van groten zeden (<i>l.</i> leden)</l>
+<l n="5">Sone heeft gheen den mont ghesneden</l>
+<l>So cleene als tmenschelike diet.</l>
+<l>Ende daer bi es ons wel bediet</l>
+<l>Dat wi in onse voetsel souden</l>
+<l>Ghetemperthede ende mate houden,</l>
+<l n="10">Ende altoes overmate vlien.</l>
+<l>Eene ander leeringhe es te dien</l>
+<l>Dat in ghulsheden rust die duvel.</l>
+<l>Hier up spreect sente Matheus wel:</l>
+<l>"Alse donsuvre gheest, viant,</l>
+<l n="15">Hute eenen meins[che] moet, te hant</l>
+<l>Wandelt hi bi steden droghe,</l>
+<l>Of hi daer ruste vinden moghe</l>
+<l>Maer neen hi, hine vintse daer niet."</l>
+<l>Die droghe steden zijn bediet</l>
+<l n="20">Die ghetempert leven ende wel:</l>
+<l>In dusdane ne vint de duvel</l>
+<l parse="ignore">Gheene stede, maer in de ghone</l>
+<l parse="ignore">......</l>
+<l parse="ignore">......</l>
+<l parse="ignore">......</l>
+<l><pb n="36"/><milestone unit="fol" n="1rb"/> Quade exemplen die si gheven</l>
+<l>Den ghenen voer wien si ghulselic leven.</l>
+<l>Sente Pauwels scrijft van desen</l>
+<l>In eene epistele die wi lesen:</l>
+<l n="5">"Vergrammet dijn broeder dor dine spise,</l>
+<l>Sone wandelstu in gheere wise</l>
+<l>Na dien dat caritate ghebiet.</l>
+<l>Verlies met diere spise die niet,</l>
+<l>Daer God omme gaf sijn leven".</l>
+<l n="10">In eene andre epistele bescreven</l>
+<l>So staet van den ghulsen [ditte].</l>
+<l>"Die ghulse die sijn selve [smitte];</l>
+<l parse="ignore">Werscepe makende in hare ..."</l>
+<l parse="ignore">Die ghulse zijn bi haerre glase</l>
+<l n="15">Van leckernien niet alleene [besmit],</l>
+<l>Maer si sijn smette, claer es [dit],</l>
+<l>Besmettende den evenkerst[ijn]</l>
+<l>Die naer hem lieden ziende [sijn]".</l>
+<l>Tander onrecht, des sijt vroet,</l>
+<l n="20">Dat ghulsheit den evenkersten doet,</l>
+<l parse="ignore">Dats dat een ghulse sijns ...</l>
+<l parse="ignore">In dassche vt ...</l>
+<l parse="ignore">.....</l>
+<l parse="ignore"><pb n="38"/><milestone unit="fol" n="1va"/> Hier [af] scrijft sente Augustijn:</l>
+<l>"[Die dinc wert meest] gheouffent van den man,</l>
+<l>[Daer hi] meest minnen heeft an:</l>
+<l parse="ignore">[Dese afgoderie is] aergher [in ve]len,</l>
+<l parse="ignore" n="5">[Dan daer die] heidine [in] ...elen:</l>
+<l>[Si aenbeden] goud, selver of steene:</l>
+<l>[Die] ghulse ane beedt alleene</l>
+<l parse="ignore">[Si]nen buuc over gode, die es</l>
+<l parse="ignore">[Niet anders] dan ... [mes] (?)</l>
+<l parse="ignore" n="10">... antieringhe ende ...</l>
+<l parse="ignore">[Die vijfte] (?) is .t (<i>l.</i> hi?) doet on[eer Gode]</l>
+<l parse="ignore">.....</l>
+<l parse="ignore">... te l...</l>
+<l parse="ignore">.....</l>
+<l parse="ignore" n="15">.....</l>
+<l parse="ignore">... zijt ghi lieden".</l>
+<l parse="ignore">[Die gulse mach wel een] kokene bedieden,</l>
+<l parse="ignore">... ghi horen sult,</l>
+<l parse="ignore">[Want hi met] spisen hem so vervult,</l>
+<l n="20">[Dat die] naturlike hitte</l>
+<l>[Niet en mach verteren] ditte.</l>
+<l parse="ignore">.....</l>
+<l parse="ignore">.....</l>
+<l parse="ignore"><pb n="40"/><milestone unit="fol" n="1vb"/> Ind ... e.gh ... comt</l>
+<l parse="ignore">Doer dat de mensche Gode vergheet.</l>
+<l parse="ignore">Hier up ... ee.ht et ...</l>
+<l parse="ignore">D ... zij ...</l>
+<l parse="ignore" n="5">.....</l>
+<l parse="ignore">.....</l>
+<l parse="ignore">Die seste .....ghet sij node</l>
+<l parse="ignore">Dat g..... henne Gode,</l>
+<l parse="ignore">In dat ... nuttens vlien</l>
+<l parse="ignore" n="10">Tgheen die lieve (?) God heeft vorsien.</l>
+<l parse="ignore">Sente Paulus ... scrijft te desen</l>
+<l parse="ignore">In eene epistele die wi lesen:</l>
+<l parse="ignore">"Weder ghi beede eet of drijnct,</l>
+<l parse="ignore">Alle dus .....er .d. gedinct",</l>
+<l parse="ignore" n="15">.....he. ...ch. .on. ..ijn.</l>
+<l parse="ignore">Hier up seet sente Augustijn:</l>
+<l parse="ignore">"Oftu nuttes dranc of spise,</l>
+<l parse="ignore">Nutte d[at in] sulke[r] wise,</l>
+<l parse="ignore">Dattu d...ch... wils wachten</l>
+<l parse="ignore" n="20">Te [behoudene dine] crachten.</l>
+<l parse="ignore">Lof si ... dien,</l>
+<l parse="ignore">[Die di in alles] heeft vorsien".</l>
+</text>
+<!--</ENTRY>
+--></TEI.2>

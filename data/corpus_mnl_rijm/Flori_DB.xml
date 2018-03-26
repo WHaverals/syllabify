@@ -1,0 +1,144 @@
+<?xml version='1.0'?><!DOCTYPE TEI.2 PUBLIC '-//TEI P4//DTD Main Document Type//EN' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd' [<!ENTITY % TEI.prose 'INCLUDE'><!ENTITY % TEI.linking 'INCLUDE'><!ENTITY % TEI.figures 'INCLUDE'><!ENTITY % TEI.analysis 'INCLUDE'><!ENTITY % TEI.corpus 'INCLUDE'><!ENTITY % TEI.XML 'INCLUDE'><!NOTATION TEI-XML PUBLIC 'TEI P4' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd'><!-- internal INL dtd --><!ELEMENT b (#PCDATA)><!ELEMENT l (#PCDATA | b)*><!-- end of internal INL dtd -->]><TEI.2><!--<ENTRY id="i142"><teiHeader><fileDesc><titleStmt><title>Florigout</title>
+</titleStmt>
+<interpGrp type="pubYear_from"><interp value="1375"/></interpGrp>
+<interpGrp type="witnessYear_from"><interp value="1375"/></interpGrp>
+<interpGrp type="pubYear_to"><interp value="1400"/></interpGrp>
+<interpGrp type="witnessYear_to"><interp value="1400"/></interpGrp>
+<TITEL>Florigout</TITEL>
+<author>Onbekend</author>
+<AARD>Rijm</AARD>
+<BRON nr="K32">'s-Hertogenbosch, Archivum Capuccinorum Hollandiae, z.s. (fragm.)</BRON>
+<DATUM>1375-1400</DATUM>
+<OMVANG>110 verzen</OMVANG>
+<BRON.OPM>Bovenste strook van een dubbelblad. Oorspronkelijk per bladzijde 2 kolommen en per kolom 50 regels (nu nog 13 &agrave; 14 regels).</BRON.OPM>
+<VERWIJZING>Leeuwarden, Provinciale Bibliotheek van Friesland, 1804 (fragm.)</VERWIJZING>
+<EDITIE>J.W.E. Klein: 'Een onbekend tekstfragment van de Florigout'. In: Spektator 11 (1981-1982), 480-495 (489-495).</EDITIE>
+<STATUS>Diplomatisch</STATUS>
+<EDITIE.OPM>De tekst, die verdeeld is over acht tekstfragmentjes, is in Klein (1981-1982) in de verkeerde volgorde afgedrukt. Hier is de juiste volgorde aangehouden, met de nieuwe foli&euml;ring en regelnummering en enkele verbeteringen en aanvullingen, volgens Klein (1984-1985) (zie J.W. Klein: 'Terugkeer naar Florigout'. In: Spektator 14 (1984-1985), 428-432.).</EDITIE.OPM>
+<BRONNEN>Van &eacute;&eacute;n handschrift zijn er fragmenten overgeleverd, die verspreid over drie verschillende collecties worden bewaard. Edities zijn er van de volgende fragmenten: - <x nr=K31>Leeuwarden, Provinciale Bibliotheek van Friesland, 1804 (fragm.)</x>
+ - <x nr=K32>'s-Hertogenbosch, Archivum Capuccinorum Hollandiae, z.s. (fragm.)</x>
+ De fragmenten te D&uuml;sseldorf (D&uuml;sseldorf, Universit&auml;tsbibliothek, Dauerleihgabe der Stadt D&uuml;sseldorf, K 2: F 48) zijn nog onuitgegeven. De fragmenten te 's-Hertogenbosch volgen inhoudelijk op die van Leeuwarden.</BRONNEN>
+</fileDesc>
+</teiHeader>
+--><text>
+<l parse="ignore" n="1"><pb n="495"/><milestone unit="fol" n="1ra"/> Hort vander vrouwen mine</l>
+<l>Een reyne edele omoedicheit</l>
+<l>Eerdat van mi ghezeit</l>
+<l>Sone wert sprac Florentine</l>
+<l n="5">Moetic zien de scouderen dine</l>
+<l>Stat tusscen 1 cruus van goude</l>
+<l>Over kint dat ic di houde</l>
+<l>Du clagest so zere die arbeden</l>
+<l>Die du over mi hebst leden</l>
+<l n="10">Dat icker hebbe twivel an</l>
+<l>Bescaemt wert die jonge man</l>
+<l>Up sine voete dat hi spranc</l>
+<l>Deus hoe sine wapine clanc</l>
+<l parse="ignore" n="14">Van den ghesteente diere</l>
+<l parse="ignore">[...............]</l>
+<l parse="ignore" n="51"><milestone unit="fol" n="1rb"/> Ende die scone maget hahaut</l>
+<l>An die coninginne scoot</l>
+<l>Diese vanden bloede root</l>
+<l>Vaechde met haren ghere</l>
+<l n="55">Om die minne vanden here</l>
+<l>[Yzaude] diere oec scoot toe</l>
+<l>Ende menich ander soe</l>
+<l>Die bo[gen] herde zaen</l>
+<l>Wenende es soe gestaen</l>
+<l n="60">Up van groter blijtheden</l>
+<l>Lieve kint al hebdi leden</l>
+<l>Vele dor mi sprac de vrouwe</l>
+<l>Wils doch hebben genen rouwe</l>
+<l parse="ignore" n="64">Mids dat ic dijn moeder si</l>
+<l parse="ignore">[...............]</l>
+<l n="101"><pb n="489"/><milestone unit="fol" n="1va"/> Ende seide vrouwe siet mi an</l>
+<l>Die vrouwe sprac ghi sijt .1. man</l>
+<l>Ende ghi hebbet oec daer toe</l>
+<l>Vor u houet enen scoe</l>
+<l n="105">Sulc littekijn ic noyt ne kinde</l>
+<l>An die maget Frinasinde</l>
+<l>Soe moeste soe zere wesen dan</l>
+<l>Verkeert soudse wesen man</l>
+<l>Ende hebben enen scoe vort hoeft</l>
+<l n="110">Ic bin dies u niet geloeft</l>
+<l>In hebder ander name bi</l>
+<l>Si seide vrouwe het ware mi</l>
+<l parse="ignore">U te tellen alte lanc</l>
+<l parse="ignore" n="114">Ghi hebt ghenouch an to[...]anc</l>
+<l parse="ignore">[...............]</l>
+<l n="151"><milestone unit="fol" n="1vb"/> Up elc andren ghingen daer</l>
+<l>Smiten metten vlegels zwaer</l>
+<l>Also vreeselike slagen</l>
+<l>Dat si tvier daer ute zagen</l>
+<l n="155">Vliegen ende die sperke dicken</l>
+<l>Ende daer toe grote sticken</l>
+<l>Slougen si andren vanden [leden]</l>
+<l>Dat men sach achter [treden]</l>
+<l>Die ghene diere waren bi</l>
+<l n="160">Ende spraken die vrouwen vri</l>
+<l>Hulpe hulpe goede lieden</l>
+<l>Willen ons deze verbieden</l>
+<l>Nu te gane in den pallas</l>
+<l n="164">Doe braken si oft ware glas</l>
+<l parse="ignore">[...............]</l>
+<l n="1"><pb n="491"/><milestone unit="fol" n="2ra"/> Thovet vanden buke slouch</l>
+<l>Daer hi woude ongevouch</l>
+<l>Der reynre maget hebben gedaen</l>
+<l>Soe die zaecht met ogen aen</l>
+<l n="5">Der ghelike sal zoe zien</l>
+<l>Dat ic sal onthoefden dien</l>
+<l>Want soe somen es met mi</l>
+<l>Fel payen ic rade di</l>
+<l>Dattu haels te deser uren</l>
+<l n="10">Vuten kerke Autefluren</l>
+<l>Den edelen rudder kerstijn</l>
+<l>Die welke metter moeder [mijn]</l>
+<l>Vandi beide waren ghevaen</l>
+<l n="14">Ende dattu te [ghaenaden] gaen</l>
+<l parse="ignore">[...............]</l>
+<l n="51"><milestone unit="fol" n="2rb"/> Ende gode te ghenaden comen</l>
+<l>Ende marien die wi nomen</l>
+<l>Te rechte maget ende moeder</l>
+<l>[Lapedante] dinen broeder</l>
+<l n="55">Dien sal ic bekeren wel</l>
+<l>Ic hebbe hem dicken in sijn vel</l>
+<l>Gherort metten zwerde mijn</l>
+<l>Hulp [Mamet] ende Apolijn</l>
+<l>Wat moetic te deser stont</l>
+<l n="60">Horen sprac gardepont</l>
+<l parse="ignore">Van enen wichte kerstijn</l>
+<l parse="ignore">Dat mijn [...............]</l>
+<l>Ic souder met minen machten groot</l>
+<l n="64">.C. alleene slaen te doot</l>
+<l parse="ignore">[...............]</l>
+<l  n="101"><pb n="493"/><milestone unit="fol" n="2va"/> Sprac Florigout dat radic u</l>
+<l>Ic ne liete recht nu</l>
+<l>Niet [s]eggen dinen mont</l>
+<l>An haer om dese werelt ront</l>
+<l n="105">Want soe souder omme sterven</l>
+<l>Ende dan soudic ooc bederven</l>
+<l>Vanden live dat waer recht</l>
+<l>Laet ons striden dit gevecht</l>
+<l>Waeromme dat ic comen si</l>
+<l n="110">Mogestu verwinnen mi</l>
+<l>Soe sal die reyne maget fier</l>
+<l>Moete zijn in dijn dangier</l>
+<l parse="ignore">Welk striit teersten dan</l>
+<l>[...............]</l>
+<l n="151"><milestone unit="fol" n="2vb"/> Die verhief al te handen</l>
+<l>Den camp metten xii tanden</l>
+<l>Autefluer alzulken toren</l>
+<l>Hem dede daer te voren</l>
+<l n="155">Dat hi zwoer gardepont</l>
+<l>Dat hi te ne gere stont</l>
+<l>Zijn vordeel over soude geven</l>
+<l>Het hadden na gecost sijn leven</l>
+<l>Maer die coninc van yrlant</l>
+<l n="160">Die so quam up hem gerant</l>
+<l>Als een hongerich serpent</l>
+<l>Ende stac den fellen [vient]</l>
+<l>Recht upten navel zijn</l>
+<l n="164">Daer die platen stalijn</l>
+</text>
+<!--</ENTRY>
+--></TEI.2>

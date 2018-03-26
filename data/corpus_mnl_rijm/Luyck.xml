@@ -1,0 +1,559 @@
+<?xml version='1.0'?><!DOCTYPE TEI.2 PUBLIC '-//TEI P4//DTD Main Document Type//EN' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd' [<!ENTITY % TEI.prose 'INCLUDE'><!ENTITY % TEI.linking 'INCLUDE'><!ENTITY % TEI.figures 'INCLUDE'><!ENTITY % TEI.analysis 'INCLUDE'><!ENTITY % TEI.corpus 'INCLUDE'><!ENTITY % TEI.XML 'INCLUDE'><!NOTATION TEI-XML PUBLIC 'TEI P4' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd'><!-- internal INL dtd --><!ELEMENT b (#PCDATA)><!ELEMENT l (#PCDATA | b)*><!-- end of internal INL dtd -->]><TEI.2><!--<ENTRY id="i45"><teiHeader><fileDesc><titleStmt><title>Beginsel der oorlogen van Luyck</title>
+</titleStmt>
+<interpGrp type="pubYear_from"><interp value="1600"/></interpGrp>
+<interpGrp type="witnessYear_from"><interp value="1600"/></interpGrp>
+<interpGrp type="pubYear_to"><interp value="1700"/></interpGrp>
+<interpGrp type="witnessYear_to"><interp value="1700"/></interpGrp>
+<TITEL>Beginsel der oorlogen van Luyck</TITEL>
+<author>Onbekend</author>
+<AARD>Rijm</AARD>
+<BRON nr="D79">Brussel, Koninklijke Bibliotheek, 17017</BRON>
+<DATUM>1600-1700</DATUM>
+<OMVANG>534 verzen</OMVANG>
+<BRON.OPM>Papieren handschrift van 210 bladen, 2 kolommen per bladzijde. De tekst bevindt zich op fol. 98v-101v. Het eerste gedeelte van deze codex, met de tekst van de Brabantsche yeesten (boek 6) (fol. 194), dateert van 1432 en wordt beschouwd als de autograaf van de bewerker; het werd daarom door Willems als basishandschrift voor zijn editie van het boek 6 gekozen. De codex bevat verder nog een 17deeeuws afschrift van de Brabantsche yeesten (boek 7) (fol. 95-210), waarin de tekst van dit Beginsel der oorlogen van Luyck in feite het vierde hoofdstuk vormt; dit hoofdstuk ontbreekt in het handschrift dat Bormans als legger bij de editie van de Brabantsche yeesten (boek 7) gebruikte.</BRON.OPM>
+<EDITIE>J.H. Bormans (ed.): De Brabantsche yeesten, of Rijmkronijk van Braband, zevende boek. Derde deel. Brussel, 1869, 691-707.</EDITIE>
+<STATUS>Kritisch</STATUS>
+<BRONMNW>118 </BRONMNW>
+<BRONNEN>Brussel, Koninklijke Bibliotheek, 17017</BRONNEN>
+</fileDesc>
+</teiHeader>
+--><text>
+<head type="title"><pb n="691"/> BEGINSEL DER OORLOGEN VAN LUYCK.</head>
+<l>Men moet bi wilen laten staen</l>
+<l>Die materie, ende buten gaen</l>
+<l>Wandelen vast hier vast daer</l>
+<l>In ander materie ende verclaer,</l>
+<l n="5">Te weten ende tondersceiden,</l>
+<l>Van des ons nu te rueren sceiden;</l>
+<l>En worde niet ghebracht hierin</l>
+<l>Ander materie, den rechten sin</l>
+<l>En soude die menighe niet verstaen,</l>
+<l n="10">Werde hem gheen onderwijs ghedaen</l>
+<l>Waer somighe saken ierst uut risen.</l>
+<l><edition n="692"/>Dus moet men somwijls onderwisen,</l>
+<l>Ende van buten verre verhalen</l>
+<l>Ander saken, daer uut dat dalen</l>
+<l n="15">Somighe dinghen die gheboren</l>
+<l>Tot onser materien te hooren.</l>
+<l>Des wil ic hier nu in bringhen</l>
+<l>Ende rueren somighe vreemde dinghen.</l>
+<l>                Ghi hebt hier voor ghehoort al bloot</l>
+<l n="20">Den rouwe ende droefheit groot</l>
+<l>Die hertoghe Anthonis, uut rechter trouwen,</l>
+<l>Hadde om die doot sijnre vrouwen;</l>
+<l>Nu laet icken in sijnre droefheit</l>
+<l>Naer der natueren crancheit.</l>
+<l n="25">Ende want tier tijt, si u verclaert,</l>
+<l>Als dedele Vrouwe aflivich waert,</l>
+<l>Groote tweedracht ende oorloghe swaer</l>
+<l>Was in den lande van Ludike, daer</l>
+<l>Af hier namaels sal ons gheboren</l>
+<l n="30">Te scrivene ende te laten hooren:</l>
+<l>So wil ic in corter talen</l>
+<l>Tbeghin des oorloghs hier verhalen.</l>
+<l>                In tjaer Ons Heeren, hoort hier naer,</l>
+<l>XIII&supc; neghenentachtich jaer,</l>
+<l n="35">In meerte, den achtsten dach,</l>
+<l>Na costume van scriven, doe ic ghewach,</l>
+<l>Des stichts van Ludike, heer Aert</l>
+<l>Van Hoorne aflivich waert,</l>
+<l>Bisscop van Ludike; ende naer hem</l>
+<l n="40">Ghecreech tbisdom, ic seker bem,</l>
+<l>Jan, die joncste soon, verstaet te recht,</l>
+<l>Van hertoghe Aelbrecht</l>
+<l>Van Beieren, die hielt in sijn bewant</l>
+<l>Henegouwe, Hollant en Zeelant.</l>
+<l n="45"><pb n="693"/> Ende dese quam met sinen vader</l>
+<l>Ende sinen broeder beide te gader,</l>
+<l>Die welke Willem was ghenaemt,</l>
+<l>Tier [tijt] grave van Oostervant,</l>
+<l>Ende met meer ander groote heeren</l>
+<l n="50">Tot Ludike, daer hi met grooter eeren</l>
+<l>Weerdelijk wert ontfanghen claer</l>
+<l>XIII&supc; XC Ons Heeren jaer,</l>
+<l>Den tienden dach in julio.</l>
+<l>Zeventien jaer was hi out; also</l>
+<l n="55">Was hi te jonc te dien termine,</l>
+<l>Bisscop ofte priester te sine;</l>
+<l>Maer die paeus dispenseerder mede,</l>
+<l>Bonifacius, die te Roomen hielt stede.</l>
+<l>Mits desen en screef hi hem niet</l>
+<l n="60">Bisscop, maer, verstaet tbediet,</l>
+<l>Elect van Ludike gheconfirmeert.</l>
+<l>In tjaer Ons Heeren, als staet vercleert,</l>
+<l>XIII&supc; XCV claer bescreven,</l>
+<l>Is eenen twist op gheheven</l>
+<l n="65">Tusscen den elect, si u bekant,</l>
+<l>Van Ludike, ende sijn goede lant,</l>
+<l>Also dat die elect voorseit</l>
+<l>Thof ende den stoel der gheestelijcheit,</l>
+<l>Van sinen gheesteliken gherichte,</l>
+<l n="70">Transfereerde ende stichte</l>
+<l>Of stelde te Diest, si u bekant,</l>
+<l>Binnen den lande van Brabant:</l>
+<l>Want van Ludike alle de steden,</l>
+<l>Ende van den lande Loon mede,</l>
+<l n="75">Waren den elect alghemeene</l>
+<l>Onghehoorsaem, sonder alleene</l>
+<l>Die stat van Eick, sonder waen,</l>
+<l>Metten slote dat daer leeght aen;</l>
+<l>Die welke van Hoorne heer Hendrijc,</l>
+<l n="80"><pb n="694"/> Heer van Perweis, seer subitelijc,</l>
+<l>Als een vroom ridder ende gheeert</l>
+<l>Ende ter wapen wel gheleert,</l>
+<l>Ghecreech met rechter cloekicheit</l>
+<l>Tot behoef van den elect voorseit,</l>
+<l n="85">Dien hi in deser noot tier stont</l>
+<l>Met grooter vroomicheit bistont,</l>
+<l>Teghen alle die Ludikeren,</l>
+<l>Twelc men naermaels sach verseeren,</l>
+<l>Also hier naermaels sal sijn bescreven.</l>
+<l n="90">Als dus dese twist was gheheven,</l>
+<l>Tusscen den elect, sonder waen,</l>
+<l>Ende omtrent IIII maenden had ghestaen</l>
+<l>Tusscen hem ende die lande sijn</l>
+<l>Van Ludike, van Loon: so wert in tfijn</l>
+<l n="95">Ghesaet, ghepeist ende ghevelt,</l>
+<l>Ende thof te Ludike ghestelt:</l>
+<l>Naer ouder costumen dit was.</l>
+<l>In tjaer Ons Heeren mits das</l>
+<l>XIIII&supc;, een min, eerbaerlijc</l>
+<l n="100">Sant die coninc van Vrankrijc,</l>
+<l>Die universiteit van Parijs,</l>
+<l>Ende Vrouwe Joanne, des sijt wijs,</l>
+<l>Van Brabant, die edel hertoghinne,</l>
+<l>Ende die grave van Namen, dat versinne,</l>
+<l n="105">Tot Ludike wel verzien ter keure</l>
+<l>Haer notabel ambassadeure,</l>
+<l>Te weten, hoort die waerheit lien:</l>
+<l>Dien patriarch van Alexandrien,</l>
+<l>Meester Peeter Pleu, was mi vercleert,</l>
+<l n="110">In theologien ghemagistreet;</l>
+<l>Meester Willem van Brugghe, sijt seker das,</l>
+<l>Die tier tijt deken van Lier was;</l>
+<l>Meester Jan Ghio, genuemt bi namen,</l>
+<l>Deken van S&supt; Albaens te Namen,</l>
+<l n="115"><pb n="695"/> Ende meer ander met eerbaerheit,</l>
+<l>Die aen den elect, aen tcapittel voorseit,</l>
+<l>Aen alle den kerken ende steden</l>
+<l>Des lants van Ludike ende Loon mede,</l>
+<l>Verworven dat si hen keerden dus</l>
+<l n="120">Van den paeus Bonifacius</l>
+<l>Den IX<SUP>sten</SUP>
+, die te Roomen sat,</l>
+<l>(Dien si tot dier tijt hadden ghehat</l>
+<l>Gheobedieert al teenemael),</l>
+<l>Ende hielden hen voort neutrael</l>
+<l n="125">Tusscen beide die paeusen; dits waer bediet,</l>
+<l>So dat si gheenen van beide niet</l>
+<l>En obedieerden sekerlijc,</l>
+<l>So als de croone van Vrankrijc</l>
+<l>Ende tlant van Brabant ooc en deden;</l>
+<l n="130">Op dat men die tweedrachticheden</l>
+<l>Der voorseide II paeusen mits desen dinghen</l>
+<l>Te voorder hadde moghen bringhen</l>
+<l>Ter cessien, oft eenicheit</l>
+<l>Te makene met voorsinnicheit</l>
+<l n="135">In der H. Kerken ter Gods eeren.</l>
+<l>                Cort hier naer, in tjaer Ons Heeren</l>
+<l>XIIII&supc; drie, hoort mi verclaren,</l>
+<l>Eenighe poorteren te Ludike te waren,</l>
+<l>Die hen noemen deden bi namen</l>
+<l n="140">Hedroten, die begonden tsamen</l>
+<l>Onder hen te rebelleren seere,</l>
+<l>Teghen hertoghe Jan, haren heere</l>
+<l>Van Beieren, den elect voorseit;</l>
+<l>Ende seiden ende hebben voorgheleit,</l>
+<l n="145">Dat hi tbisdom langhe ghenoech</l>
+<l>Beseten hadde, naer sijn ghevoech,</l>
+<l>Sonder bisscop ende priester te sijn.</l>
+<l><edition n="696"/>Want hi nu tot sinen termijn</l>
+<l>Comen ware van XXX jaren,</l>
+<l n="150">So was haer meininghe ende begaeren</l>
+<l>Dat hi priester ende bisscop worde.</l>
+<l>Op twelke datten voor antwoorde</l>
+<l>De voorseide elect gheven dede:</l>
+<l>Dat met hem spaeus moghenthede,</l>
+<l n="155">Van dien hadde ghedispenseert,</l>
+<l>Ende dat hem ooc, dat gheweert</l>
+<l>Van dier saken noch tbericht</l>
+<l>So en behoorde nichtes nicht;</l>
+<l>Maer hi hadde daerof meer ende men,</l>
+<l n="160">Voor sijn overste ende niet voor hen</l>
+<l>Te antwoorden, sonder si.</l>
+<l>Daerop repliceerden si:</l>
+<l>Dat hi ende si ghehoorsaemheit</l>
+<l>Den paeus hadden wederseit;</l>
+<l n="165">Dus en vraeghden si, wats ghesciet,</l>
+<l>Naer sijn dispensatie niet.</l>
+<l>Ende want hi doen also houde</l>
+<l>Priester noch bisscop worden en woude,</l>
+<l>So verworven die Hedroten dat,</l>
+<l n="170">Dat die van Ludike der stat,</l>
+<l>Ontkenden haren elect voorseit</l>
+<l>Voortmeer alle ghehoorsaemheit,</l>
+<l>Also si den paeus hadden ghedaen.</l>
+<l>Mits desen transfereerde saen</l>
+<l n="175">Van Ludike die elect voorseit</l>
+<l>Thof des gherichts der gheestelicheit:</l>
+<l>Van duutscer tonghen stelde hi tghericht,</l>
+<l>Binnen der goeder stat van Tricht;</l>
+<l>Ende van Waelen, voor waer gheseit,</l>
+<l n="180">Heeft hi thof te Hoeye gheleit.</l>
+<l><edition n="697"/>Daer die stat van Ludike, wilt mi hooren,</l>
+<l>Meer af ontpoint was dan te voren;</l>
+<l>So dat si coren altehants</l>
+<l>Voor mombaer ende bescermer slants,</l>
+<l n="185">Van Perweis heer Hendrike,</l>
+<l>Die in der saken also wijsselike</l>
+<l>Ende deuchdelijc hem droech voorwaer,</l>
+<l>Datti binnen corten tijt, daer naer</l>
+<l>Dat hi den eedt sonder waen</l>
+<l n="190">Van der mombaerschap hadde ghedaen,</l>
+<l>Een goet ghevoech ende middel vant,</l>
+<l>Daer mede die twist, die tusscen tlant</l>
+<l>Hinc ende den elect voorseit,</l>
+<l>Ghesaet wert ende afgheleit;</l>
+<l n="195">Ende thof dat worde sonder verbeit</l>
+<l>Wederom te Ludike gheleit.</l>
+<l>                Ende daer na worden, sonder verlaten,</l>
+<l>Bi den elect ende den staten</l>
+<l>Des lants van Ludike tsamentlijc</l>
+<l n="200">XVI persoonen eendrachtelijc</l>
+<l>Ghecoren, al ongespaert,</l>
+<l>Dien die macht ghegheven waert,</l>
+<l>Dat si een besoec doen souden</l>
+<l>Tondervindene, bi wiens scouden,</l>
+<l n="205">Die twist, dien ghi hier hebt ghelesen,</l>
+<l>Opghestaen was ende gheresen;</l>
+<l>Voort weghen te vinden vuechelike,</l>
+<l>Ende ordinantie redelike</l>
+<l>Te maken, daer de elect voorseit</l>
+<l n="210">Met bleve in sijnre heerlicheit,</l>
+<l>Ende die stat, alse mi dochte,</l>
+<l>Onghequetst houden mochte</l>
+<l>Haer rechten ende haer vriheden,</l>
+<l>Also dat dese onvreden,</l>
+<l n="215">Ende derghelike twist niet meere,</l>
+<l><edition n="698"/>Tusscen hen ende haren heere</l>
+<l>En ghevielen noch en resen.</l>
+<l>Welke persoonen voorghelesen</l>
+<l>Tsamen vertoghen onder hen</l>
+<l n="220">Binnen der stat van Tongheren.</l>
+<l>Daer hebben si onghecesseert</l>
+<l>Seker pointen gheordineert</l>
+<l>Die die peis van Tongren gheheeten sijn.</l>
+<l>Ende als daer naer, verstaet den fijn,</l>
+<l n="225">Op wort ghebroken, wilt verstaen,</l>
+<l>Tbesuec twelk hadden ghedaen</l>
+<l>Die XVI persoonen, ende ghelesen:</l>
+<l>Worden beide meesters van desen</l>
+<l>Van Ludike, herde cort naer tgone</l>
+<l n="230">Met hen noch XVII persoone,</l>
+<l>Openbaer ter puyen overluut</l>
+<l>Van moeyterien ghebannen uut;</l>
+<l>Maer al moesten die XXX, na dat,</l>
+<l>Te Ludike rumen uter stat,</l>
+<l n="235">So hebben si nochtans utermaten</l>
+<l>Aldaer achter hen ghelaten</l>
+<l>Veel heimelike vrienden in tstat.</l>
+<l>                In tjaer Ons Heeren, verstaet dat,</l>
+<l>XIIII&supc; IIII, wi lesen dus,</l>
+<l n="240">Sterf paeus Bonifacius</l>
+<l>Die IX&sups;&supt;&supe;, die sat tot Rome;</l>
+<l>Naer hem worde paeus, hier op gome,</l>
+<l>Die VII&sups;&supt;&supe; die Innocentius hiet.</l>
+<l>Hertoghe Jan, ic en lieghe u niet,</l>
+<l n="245">Van Beieren, elect ghenaemt</l>
+<l>Van Ludike, rechtevoort hi sant</l>
+<l>Aen den paeus, hoorde ic oorconden,</l>
+<l>Te Viterbien tot dien stonden</l>
+<l><edition n="699"/>Meester Janne van Turnhout,</l>
+<l n="250">Die welke verwerf sonder ophout</l>
+<l>Aen den paeus altehande</l>
+<l>Dat hi den elect ende sijn lande</l>
+<l>Van Ludike ende van Loon mede</l>
+<l>Weder in sijner gratien dede</l>
+<l n="255">Ende in obedientien, dits ware dinc,</l>
+<l>Suetelijc nam; ende ontfinc</l>
+<l>De bullen daeraf onghecesseert,</l>
+<l>Ende werden opentlijc ghepubliceert</l>
+<l>In tjaer Ons Heeren, hoort wat ic scrive,</l>
+<l n="260">M IIII&supc; ende vive,</l>
+<l>XXVII daghen in novembri.</l>
+<l>Die elect ende clergij</l>
+<l>Warens wel content ende te vreden</l>
+<l>Ende songhen met grooter bliheden</l>
+<l n="265"><i>Te Deum laudamus,</i> sijt seker das,</l>
+<l>Maer die stat van Ludike en was</l>
+<l>Dies niet ghepaeyt, ter waerheden,</l>
+<l>Noch verblijt, noch te vreden.</l>
+<l>Aldus is anderwerf herde saen</l>
+<l n="270">Een groote twist weder opghestaen</l>
+<l>Tusscen den elect ende die stat,</l>
+<l>Also dat die prelaet naer dat,</l>
+<l>In tjaer XIIII&supc;, sonder saghe,</l>
+<l>Ende sesse, in die Paeschdaghe,</l>
+<l n="275">Hem weder vertroc met gheninde</l>
+<l>Tot Tricht met sinen huusghesinde,</l>
+<l>Ende stelde daer thof volcomelijc</l>
+<l>Van sinen gherichte gheestelijc.</l>
+<l>Om welke sake ghehouden waert</l>
+<l n="280">Herde menighe dachvaert,</l>
+<l>Om de saken te vereenighen tswaer.</l>
+<l><edition n="700"/>Ten utersten in Ons Heeren jaer</l>
+<l>Van sessen, op den sesten dach</l>
+<l>Van september, doe ic ghewach,</l>
+<l n="285">Wort bi den steden, hoort mijn sermoon,</l>
+<l>Des lants van Ludike ende van Loon</l>
+<l>(Die stat van Tricht uutghenomen</l>
+<l>Ende van S&supt; Truyen) overcomen,</l>
+<l>Ende ghesloten, dat men houde</l>
+<l n="290">Eenen mombaer maken soude.</l>
+<l>Als dese conclusie, sijt seker das,</l>
+<l>Van der momborien ghemaect was,</l>
+<l>Is een van den meesteren tehant</l>
+<l>Van Ludic, die was ghenant</l>
+<l n="295">Jan van der Cautsiden, ongheloghen,</l>
+<l>Al tot Perweis ghetoghen,</l>
+<l>Ende hevet bestelt, des seker sijt,</l>
+<l>Dat daer ooc quam ter selver tijt</l>
+<l>Meester Lambrecht Gorijs,</l>
+<l n="300">Dwelc een waer, des sijt wijs,</l>
+<l>Van den XXX te waren,</l>
+<l>Heidroten die ghebannen waren</l>
+<l>Te Ludike ghewaerlike.</l>
+<l>Dese hebben heere Hendrike</l>
+<l n="305">Van Perweis met grooter cloecheit,</l>
+<l>Bibracht, dat die elect voorseit</l>
+<l>Van Ludike door niemens houde</l>
+<l>Bisscop noch priester sijn en woude.</l>
+<l>Maer dat hi meininghe hadde te waren,</l>
+<l n="310">Dat hi tbisdom woude laten varen,</l>
+<l>Ende nemen een wijf met staden;</l>
+<l>Meinde den lande te beraden</l>
+<l>Groote oorloghe, op dat hi tlant</l>
+<l>Te wille mocht crighen in sijn hant,</l>
+<l n="315"><pb n="701"/> De goede verdrinken ende veriaghen saen,</l>
+<l>Als hi tanderen tide hadde ghedaen.</l>
+<l>Ende seiden voort, waert so dat hi</l>
+<l>Hem daer toe vueghen [woude], wouden si,</l>
+<l>Sonder verweeren, dat men[ne] houde</l>
+<l n="320">Tot eenen mombaer kiesen soude,</l>
+<l>Ende Dieric, sinen outsten sone</l>
+<l>(Tot S&supt; Lambrecht canonic was die ghone</l>
+<l>Ende archidiaken van Haspegouwe),</l>
+<l>Bisscop van Ludike maken soude.</l>
+<l n="325">Op twelk de voorseide heer Hendric</l>
+<l>Antwoorde aldus properlic:</l>
+<l>Dat hem dat in gheenen keere</l>
+<l>Te doene en stont nimmermeere,</l>
+<l>Gemerct dat hi int openbaer</l>
+<l n="330">Des voorseiden elects man waer</l>
+<l>Van leene. Ooc hadde de elect voorscreven</l>
+<l>Die provende sinen sone ghegheven</l>
+<l>Van Ludike, ende daer mede darchidiaconeit</l>
+<l>Van Haspegouw met minnelicheit.</l>
+<l n="335">Ieghen welke redenen in eenigher wijs</l>
+<l>Meester Lambrecht Gorijs</l>
+<l>Ende Jan van der Cautsiden allegheerden,</l>
+<l>Ende veel propositien proponeerden,</l>
+<l>Daer van Perweis die heere</l>
+<l n="340">Na hooren woude min noch meere.</l>
+<l>Ende also sijn dese twee met allen</l>
+<l>Aen des heeren vrouwe ghevallen</l>
+<l>Van Perweis, die si, ongheloghen,</l>
+<l>Tot harer opinien hebben ghetoghen;</l>
+<l n="345">So dat si, met subtilen keere,</l>
+<l>Heer Hendric van Perweis haren heere</l>
+<l>Daer toe heeft bracht sonder sneven,</l>
+<l><edition n="702"/>Dat hi hen ten utersten heeft ghegheven</l>
+<l>Totter saken sijn consent.</l>
+<l n="350">Aldus is wederom ghewent</l>
+<l>Jan van der Cautsiden voorghelesen,</l>
+<l>Doen hi drie daghen hadde ghewesen</l>
+<l>Tot Perweis, dits ongheloghen,</l>
+<l>Ende is te Ludike inghetoghen;</l>
+<l n="355">Ende heeft die saken also bedreven,</l>
+<l>Dat alle die steden daer bi bleven,</l>
+<l>Van Ludike ende van Loon mede,</l>
+<l>(Uutghenomen die twee steden</l>
+<l>Tricht ende S&supt; Truyen, dit wilt hooren),</l>
+<l n="360">Dat si heer Hendricken hebben ghecoren</l>
+<l>Van Hoorne ende van Perweis heere</l>
+<l>Teenen mombaer met snellen keere;</l>
+<l>Ende Diericken, sinen outsten sone,</l>
+<l>Hebben si ghecoren naer tgone</l>
+<l n="365">Tot haren bisscop; die welke, vader</l>
+<l>Ende sone beide te gader,</l>
+<l>Met scoonder gheselscap te samen,</l>
+<l>Binnen de stat van Ludike quamen,</l>
+<l>In tjaer van sessen, dat segghe ic di,</l>
+<l n="370">XXVIII daghen in septembri,</l>
+<l>Daer si met eeren ende met weerdicheit</l>
+<l>Ontfanghen werden, voor waer gheseit.</l>
+<l>Van daer keerden hen, die van Ludike dus</l>
+<l>Van den paeus Innocentius</l>
+<l n="375">Den VII&supe;&supn;, die te Roomen sat,</l>
+<l>Ende gaven hen, verstaet wel dat,</l>
+<l>Onder die obedientie aldus</l>
+<l>Van paeus Benedictus</l>
+<l>Den XIII&supe;&supn;, dit sat als doen</l>
+<l n="380">In der stat van Avignoen;</l>
+<l>Ende die confirmeerde tehant</l>
+<l>Haren nieuwen bisscop voorgenant.</l>
+<l><edition n="703"/>In desen ghescille voor bescreven</l>
+<l>Sijn bi hertoghe Janne bleven</l>
+<l n="385">Van Beieren, alle te sinen rechte,</l>
+<l>Die heeren van S&supt;&supe; Lambrechte,</l>
+<l>Uutghenomen een, ende mits desen,</l>
+<l>Sijn si in tjaer voor ghelesen,</l>
+<l>Heimelijc, op den vijfsten dach</l>
+<l n="390">Van october, doe ick ghewach,</l>
+<l>Van Ludike tot S&supt; Truyen comen.</l>
+<l>Desghelijcs sijn naer haer vermoghen</l>
+<l>Die ander persoonen gheestelijc</l>
+<l>Die totter clergien eenpaerlijc</l>
+<l n="395">Behoorden, al meest uutghevlouwen;</l>
+<l>Want si hen niet en betrouwen</l>
+<l>Noch houwen en wilden in gheenen keer</l>
+<l>Metten nieuwen bisscop min no meer,</l>
+<l>Maer metten outsten houwen aen,</l>
+<l n="400">Den elect van Beieren, hertoch Jan.</l>
+<l>Dus worden die gheestelike mannen</l>
+<l>Alle te Ludike uutghebannen</l>
+<l>Ende die nieuwe bisscop onghecesseert</l>
+<l>Heeftse alle ghepriveert</l>
+<l n="405">Van haren beneficien sonder sneven,</l>
+<l>Ende heeftse anderen ghegheven.</l>
+<l>Tmeeste deel des rudderscaps, in dien tide,</l>
+<l>Hielt ooc hertoghen Jans side;</l>
+<l>Somighe edelen hielden sekerlijc</l>
+<l n="410">Die partie van bisscop Dierijc</l>
+<l>Van Hoorne ende alle die stede</l>
+<l>Van Ludike ende van Loon mede,</l>
+<l>Sonder die van Tricht, si u bekant,</l>
+<l>Ende van S&supt; Truyen. Ende want</l>
+<l n="415">Die van S&supt; Truyen niet en wilden eeren</l>
+<l>Den nieuwen bisscop noch obedieren,</l>
+<l>So is heer Hendrijc van Perweis tehande,</l>
+<l><edition n="704"/>Als mombaer, metten ghemeinen lande</l>
+<l>Van Ludike, van Loon, met grooter machte</l>
+<l n="420">Daer voor ghetoghen met harer crachte.</l>
+<l>Ende als si die stat, sonder saghe,</l>
+<l>Van S&supt; Truyen, beleet hadden XIV daghen,</l>
+<l>So eest ghededinght ende bedreven</l>
+<l>Dat haer die stat heeft opghegheven</l>
+<l n="425">Den voorseiden mombaer metter spoet,</l>
+<l>Behoudelike haer lijf ende goet</l>
+<l>Met voorwaer[den], ic seker ben,</l>
+<l>Dat die heeren van der capittelen</l>
+<l>Ende ander van der clergien te waren,</l>
+<l n="430">Die aldaer ghevlouwen waren,</l>
+<l>Vri ende onbesorcht van daer</l>
+<l>Souden moghen sceiden sonder vaer,</l>
+<l>Ende trecken daer thaer ghelieven soude.</l>
+<l>Dus toghen die heeren herde houde</l>
+<l n="435">Van der clergien tot namen binnen;</l>
+<l>Ende die mombaer, wilt versinnen,</l>
+<l>Quam te S&supt; Truyen sonder verhoude.</l>
+<l>                Nu heeft hi in sijnre ghewoude,</l>
+<l>Van den lande alle die stede,</l>
+<l n="440">Van Ludike ende van Loon mede,</l>
+<l>Sonder de stat van Tricht, si u vertelt,</l>
+<l>Daer hem hertoghe Jan uut helt</l>
+<l>Van Beieren metten vrienden sijn.</l>
+<l>Hier naer, over een termijn,</l>
+<l n="445">Confirmeerde Vrouw Joanna tehant</l>
+<l>Hertoghinne van Brabant,</l>
+<l>Ende hertoghe Anthonis, als ruwaert</l>
+<l>Van Brabant, dat si u verclaert,</l>
+<l>Van der capittelen alle die heeren,</l>
+<l n="450">Ende ooc van hen, wie si weren,</l>
+<l>Van Ludike, dat si met vreden</l>
+<l>Souden moghen binnen den steden</l>
+<l><edition n="705"/>Van Brabant comen ende bliven moghen</l>
+<l>Ten einde der voorscreven oorloghen.</l>
+<l n="455">Ende aldus quamen, dat derre ic lien,</l>
+<l>Die voorseide heeren van der clergien,</l>
+<l>Die te Namen laghen, ic segghe u dat,</l>
+<l>Al tot Loven in der stat,</l>
+<l>Daer si sijn bleven in goeden vreden</l>
+<l n="460">Tot den einde des oorloghs, [in] waerheden.</l>
+<l>                Hier naer hebben, ic seker ben,</l>
+<l>Hertoghe Jans vrienden van Beieren,</l>
+<l>Cloekelijc, met subtilen doen.</l>
+<l>Tslot ghecreghen van Bullioen.</l>
+<l n="465">Als dit vernam, ic segghe di,</l>
+<l>Heer Hendric van Perweis, so is hi,</l>
+<l>In tvoorseide jaer, doe ic ghewach,</l>
+<l>Van sessen, op de XVI&supe;&supn; dach</l>
+<l>Van november, daer voor ghetoghen</l>
+<l n="470">Met heercrachte. Doen hijt met vermoghen</l>
+<l>Twee maent beleghert hadde, sonder scop,</l>
+<l>Gaven hen die Beiersce op,</l>
+<l>Behoudelijc lijf ende goet.</l>
+<l>Als nu hertoghe Jan wert vroet,</l>
+<l n="475">Considereerde, merckte ende sach</l>
+<l>Dat hi sijn vianden niet en mach</l>
+<l>Wederstaen noch weder draghen</l>
+<l>Sonder hulpe van vrienden ende maghen:</l>
+<l>So is hij selve haestelijc</l>
+<l n="480">In persoone ghetooghen in Vrancrijc,</l>
+<l>In Enghelant ende in Duutslant,</l>
+<l>Om van den coninghen wide bekant</l>
+<l>Ende princen die hi, dat si u cont,</l>
+<l>Van Maeghscappen naer bestont,</l>
+<l n="485">Ende van swagheschappe, dats bloot,</l>
+<l><edition n="706"/>Om troost ende hulp in sinen noot</l>
+<l>Te ghewinnen, dat is waer,</l>
+<l>Ende is wel ghetroost van daer</l>
+<l>Wedercomen, si u bekant,</l>
+<l n="490">In sinen rade dien hi doen vant,</l>
+<l>Dat hi, metter hulpen sonder verbeit</l>
+<l>Die hem sekerlijc was toegeseit,</l>
+<l>In tjaer XIIII&supc; ende seven</l>
+<l>Op S&supt;&supe; Machiels avont, sonder begheven.</l>
+<l n="495">Met heercrachte ende met ghewoude</l>
+<l>In tlant van Ludike comen soude,</l>
+<l>Om[t] weder ter obediencien sijn,</l>
+<l>Te consequeren, verstaet den fijn;</l>
+<l>Ende als hi, doe ic u ghewach,</l>
+<l n="500">Desen tijt ende overdrach</l>
+<l>Den heeren ende princen wide vermaert</l>
+<l>Ghecondicht hadde ende verclaert,</l>
+<l>Die hem troost ende hulpicheit</l>
+<l>Gelooft hadden ende toegheseit:</l>
+<l n="505">So eest ghebeurt, so wi vernamen,</l>
+<l>Mits sekeren lasten die overquamen</l>
+<l>Den coninc der croone van Vrancrijc,</l>
+<l>Dat van Bourgognien die heere rijc,</l>
+<l>Ghescreven heeft aen den swagher sijn</l>
+<l n="510">Van Beieren, dat hi tot dien termijn</l>
+<l>Bliven moeste in Vrancrijc;</l>
+<l>Mer tot anderen daghen vuechelijc,</l>
+<l>Die men daer op ramen mochte,</l>
+<l>Soude hi hem met coenen ghedochte</l>
+<l n="515">Te hulpen comen met moghentheit</l>
+<l>Also hi hem toe hadde gheseit.</l>
+<l>Ende aldus so is voorwaer</l>
+<l>Dat opset ghebroken daer,</l>
+<l><edition n="707"/>Dat hertoghe Jan, als ic vernam,</l>
+<l n="520">In den lande van Ludike niet en quam</l>
+<l>Van Beieren, als ic u dede cont,</l>
+<l>Op S&supt;&supe; Machiels avont</l>
+<l>Met sijnre crachte, so hi had opgheset.</l>
+<l>                Van den oorloghe sceidic hier met</l>
+<l n="525">Daer ic hier naer, heb ic gheval,</l>
+<l>U noch meer af scriven sal</l>
+<l>Ter plaetsen daer dit point sal sijn;</l>
+<l>Ende in die materie mijn</l>
+<l>Wil ic [n]u voort continueren,</l>
+<l n="530">Ende achtervolghen ende persequeren</l>
+<l>Van hertoghe Anthonis den edelen heer,</l>
+<l>Die bedruct was herde seer</l>
+<l>Om sijner liever vrouwen doot,</l>
+<l>Wier siel God brenghe uut alder noot.</l>
+</text>
+<!--</ENTRY>
+--></TEI.2>

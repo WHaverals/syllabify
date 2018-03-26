@@ -1,0 +1,187 @@
+<?xml version='1.0'?><!DOCTYPE TEI.2 PUBLIC '-//TEI P4//DTD Main Document Type//EN' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd' [<!ENTITY % TEI.prose 'INCLUDE'><!ENTITY % TEI.linking 'INCLUDE'><!ENTITY % TEI.figures 'INCLUDE'><!ENTITY % TEI.analysis 'INCLUDE'><!ENTITY % TEI.corpus 'INCLUDE'><!ENTITY % TEI.XML 'INCLUDE'><!NOTATION TEI-XML PUBLIC 'TEI P4' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd'><!-- internal INL dtd --><!ELEMENT b (#PCDATA)><!ELEMENT l (#PCDATA | b)*><!-- end of internal INL dtd -->]><TEI.2><!--<ENTRY id="i258"><teiHeader><fileDesc><titleStmt><title>Roman van Jonathas ende Rosafiere</title>
+</titleStmt>
+<interpGrp type="pubYear_from"><interp value="1500"/></interpGrp>
+<interpGrp type="witnessYear_from"><interp value="1500"/></interpGrp>
+<interpGrp type="pubYear_to"><interp value="1520"/></interpGrp>
+<interpGrp type="witnessYear_to"><interp value="1520"/></interpGrp>
+<TITEL>Roman van Jonathas ende Rosafiere</TITEL>
+<author>Onbekend</author>
+<AARD>Rijm</AARD>
+<BRON nr="K42">Druk: Schutbladen in druk Amsterdam, Universiteitsbibliotheek, OK 66-211</BRON>
+<DATUM>1500-1520</DATUM>
+<OMVANG>159 verzen</OMVANG>
+<BRON.OPM>Twee bladen uit een boekje van &eacute;&eacute;n kolom. In de editie Huizinga zijn 1a en 1b de twee kolommen van de voorkant van het voorste schutblad; 2a en 2b vormen de achterkant, waarbij natuurlijk 2b aan de achterkant van 1a staat en 2a aan de achterkant van 1b. De kolommen op het achterste schutblad zijn 3a en 3b (voorkant) en 4a en 4b (achterkant). De oorspronkelijke volgorde van de tekst en de bladzijden is: 4b, 3a, 2b, 1a, 1b, 2a, 3b, 4a. In deze volgorde biedt de tekst een aaneengesloten verhaal van 4b-1a en van 1b-4a. 1a en 1b daarentegen sluiten niet op elkaar aan: er ontbreken vier bladen of acht bladzijden (160 regels). In de editie Huizinga volgt eerst de tekst van het voorste en daarna de tekst van het achterste schutblad. Hier echter is de oorspronkelijke volgorde aangehouden, waarbij van Huizinga de bladzijdennummering en de hiervoor reeds vermelde kolomnummering (tussen ronde haken) zijn overgenomen. Niet overgenomen uit Huizinga zijn de in de marge toegevoegde nummering van de corresponderende regels met de bijbehorende foli&euml;ring volgens De Pauws editie van dezelfde tekst in hs. Amsterdam, Universiteitsbibliotheek, I A 24&supm; (zie <XREF3 ref=i256>Jonathas ende Rosafiere</XREF3>
+). De tekst van de druk correspondeert met gedeelten uit het handschrift op de folia 19-22; voor een overzicht verwijzen we naar Huizinga (1975), 177 e.v. Huizinga heeft de regels niet van een eigen nummering voorzien; hier echter werd deze wel toegevoegd.</BRON.OPM>
+<EDITIE>D. J. Huizinga: 'Jonathas ende Rosafier. Een onbekend postincunabel-fragment en de oorspronkelijk vorm van het handschrift'. In: TNTL 91 (1975), 175-212 (187-193).</EDITIE>
+<STATUS>Diplomatisch</STATUS>
+<BRONMNW>676 (handschrift)</BRONMNW>
+<EDITIE.OPM>Zie hiervoor</EDITIE.OPM>
+<BRONNEN>- Druk: Schutbladen in druk Amsterdam, Universiteitsbibliotheek, OK 66-211 - <x nr=K41>Druk: Gent, z.s.</x>
+</BRONNEN>
+<HSDRUK>Handschrift, zie Jonathas ende Rosafiere</HSDRUK>
+</fileDesc>
+</teiHeader>
+--><text>
+<l><milestone unit="fol" n="1 (4b)"/> Ende twee taerlinck ouer waer</l>
+<l>Op die tafel saghe daer</l>
+<l>Dat waer dat beste sermoen</l>
+<l>Datmen voer mi mochte doen</l>
+<l n="5">Mer wildi preken edel man</l>
+<l>Soe doet een broeders cappe an</l>
+<l>Ende gaet in die kercke staen</l>
+<l>Ende preect het is wel gedaen</l>
+<l>Mer mi en dorfdi preken niet</l>
+<l n="10">Edel coninc wats gheschiet</l>
+<l parse="ignore">Heer coninc ghi weet wel bloot</l>
+<l>Marien suuerhede is so machtic[h]</l>
+<l>Sij is vrou ende also waerachtich</l>
+<l>Ic souts mi schamen also seer</l>
+<l n="15">Gaet tot haer vry edel heer</l>
+<l>Schone ioncfrouwe en segt dat ni[et]</l>
+<l>Gaet met my oft ghijt ghebiet</l>
+<l>Edel vrou ende vry</l>
+<l>Ende si sal v alsoe wel troestenh als [mijn]</l>
+<l n="20">Marien doghen is so groot ende r[ein]</l>
+<l><milestone unit="fol" n="2 (3a)"/> [D]en sondaren is sij ghemeyn</l>
+<l>[D]oen namse die edel heere ter stede</l>
+<l>[E]nde sij ghinghen onder hem beiden</l>
+<l>[V]riendelic ende dat es waer</l>
+<l n="25">[V]oer marien die was claer</l>
+<l>[S]ij vielen neder op haer knien</l>
+<l>[H]aer handen leiden sij te gader mettien</l>
+<l>[E]nde sij begonsten te weenen seer</l>
+<l>[D]it was die claghe aen onsen heer</l>
+<l n="30">[S]ij riep maria maget reyne</l>
+<l>[G]hi sijt die gene die alleyne</l>
+<l>[M]i mach brengen van minen rouwe</l>
+<l>[S]yt mijns genadich edel vrouwe.</l>
+<l>[M]aria begonst te ontfermen</l>
+<l n="35">[E]nde hoorde den coninc karmen</l>
+<l>[E]nde sij quam aldaer ter stede</l>
+<l>[M]et eender groter claerhede.</l>
+<l>[M]etter engelen schare</l>
+<l>[Ende] sij seide al openbare</l>
+<l n="40">[We]llecome seyt sij sone mijn</l>
+<l><milestone unit="fol" n="3 (2b)"/> Salich moeder sal ic dij sijn</l>
+<l>Des hebstu gods vrient gheweest.</l>
+<l>Du moges mercken alsmen leest</l>
+<l>Doer dinen wille sijn vergheuen</l>
+<l n="45">Rosefier al haer leuen</l>
+<l>Haer sonden sult ghi verstaen</l>
+<l>Daer sij mede was beuaen</l>
+<l>Doer dinen wille wel lieue lint</l>
+<l>Met herten heb ic di ghemint</l>
+<l n="50">Vele heb ic dit doer v ghedaen</l>
+<l>Voer die poorte ghync hi staen</l>
+<l parse="ignore">Ende hebse gheloken ende ontdaen</l>
+<l>Doe sette hise voer hem op sijn paert</l>
+<l>Ende voerdese te cloester waert</l>
+<l n="55">Ende als hi voer dat cloester quam</l>
+<l>Ghemoete hi eenen hofman</l>
+<l>Hi sprac kenstu een ioncfrou yet</l>
+<l>Die rosefier bi name hiet</l>
+<l>Die ionathas van oriente</l>
+<l n="60">Hier brocht in dit conu[ente]</l>
+<l><milestone unit="fol" n="4 (1a)"/> Ende soudese hebben teenen wiue</l>
+<l>Hi antwoerde sonder bliuen</l>
+<l>En kende icse niet so waer ic fel</l>
+<l>Die waerheit seg ic v wel</l>
+<l n="65">Tlot is op haer gheuallen</l>
+<l>Sij is die abdisse van v allen</l>
+<l>Tot eenen hogen staet is si vercoren</l>
+<l>Die waerheit moechdi horen</l>
+<l>Abdisscap sal sij ontfaen</l>
+<l n="70">Dat heeft die menighe verstaen</l>
+<l>Haer soetelief is daer ontboden</l>
+<l>Ende sal tot groter eeren comen</l>
+<l>Ende sijn wijf gheloues mien</l>
+<l>Die waerheit sal ick v lien</l>
+<l n="75">Ghi moecht wel in allen desen</l>
+<l>Hoortse singhen of lesen.</l>
+<l>Ghelijck oft maria waer</l>
+<l>Singt si bouen hem allen claer</l>
+<l>Oec heeft si gheweest voerwaer</l>
+<l n="80">Poertersse ouer seuen iaer</l>
+<l><milestone unit="fol" n="13 (1b)"/> Helpt mi ende staet mi by</l>
+<l>Moeder ende maghet vry</l>
+<l>Ende helpt mi bidden uwen kinde</l>
+<l>Dat hi mi gracie sende</l>
+<l n="85">Dat haer huer sonden berouwen</l>
+<l>Doen riep lude die ioncfrouwe</l>
+<l>Volmaect lief en bidt niet meer</l>
+<l>Mijn herte sal mij breken ontwee</l>
+<l>Van groten rouwe van minen sonden</l>
+<l n="90">Biddi meer ic sterue ter stonden</l>
+<l>Ic wil in mijn cloester varen</l>
+<l>Ende ic moet sonder sparen</l>
+<l>Eten na mijnre sonden noot</l>
+<l>Al mijn leuen borne ende broot.</l>
+<l n="95">Ende doen om alder werelt wijt</l>
+<l>Nemmermeer sonde tot gheenre tijt</l>
+<l>Hi antwoerde haer mettien</l>
+<l>Schone dat sal v gheschien.</l>
+<l parse="ignore">Dat seg ic di sonder waen</l>
+<l n="100">Wast bi dag[he] ende bi nachte</l>
+<l><milestone unit="fol" n="14 (2a)"/> [D]ie poorte moeste ic wel wachten.</l>
+<l>Noch dede ic weet voerwaer</l>
+<l>[I]c heb gesongen herde claer</l>
+<l>Doer haer daert te doene was</l>
+<l n="105">Dat sij v kont ionathas</l>
+<l>Slaet op v ogen besiet sonder waen</l>
+<l>Wat loon ghi sult ontfaen</l>
+<l parse="ignore">Vander doget die ghi hebt gedaen</l>
+<l>Doen sloech hi al ongespaert</l>
+<l n="110">Sijn ogen ten hemel waert</l>
+<l>Ende sach inden throon staen</l>
+<l>Drie setelen schone ende wel gedaen</l>
+<l>Aen elcken setel hinc een croon</l>
+<l>Die rijckelick was ende schoon.</l>
+<l n="115">Doen riep hi lude edel vrouwe</l>
+<l>Laet mi eenen setel aenschouwen</l>
+<l>Ic en begeer ander bliscap gheen</l>
+<l>So waer ic v alte cleen</l>
+<l>Mer alstu coemt voer mijn kint</l>
+<l n="120">Die ic met trouwen heb ghemint</l>
+<l><milestone unit="fol" n="15 (3b)"/> Ghi sult sien sijn schoon aenschijn</l>
+<l>Dan sal v bliscap volmaect sijn.</l>
+<l>Maria wilstu seggen ons beden</l>
+<l>Wat die setelen bedieden</l>
+<l n="125">Ic salt v seggen mijn kint</l>
+<l>Die doer v aenden cruce hinc</l>
+<l>Ionathas vaert alte hande</l>
+<l>met bliscapen tuwen lande</l>
+<l>Ende troost dijn wijf die is alleene</l>
+<l n="130">In rouwe ende in groten weene</l>
+<l>Dijn vader ende dijn moeder</l>
+<l>Heb ic beide in mijn behoede</l>
+<l>Ende dijn kinderen alle drie</l>
+<l>Doer uwe duecht sijn sij met mie.</l>
+<l n="135">Vaert wech ende gheeft mildelijc</l>
+<l>Doer mijn kint v conincrijck</l>
+<l>Van heden ouer .xl. dagen</l>
+<l>Sal ic comen sonder saghe</l>
+<l>Ende nemen die sielen van v beiden</l>
+<l n="140">Nemmermeer en sal ic van v scheiden</l>
+<l><milestone unit="fol" n="16 (4a)"/> Ende ic sal v met minnen</l>
+<l>Brengen in den cloester binnen</l>
+<l>Ic sal oec vragen in goeder trouwen</l>
+<l>Rosefier der ioncfrouwen</l>
+<l n="145">Oft sy met mi wil varen</l>
+<l>In hemelrijc sonder sparen</l>
+<l>Ghi sult verscheiden alle drie</l>
+<l>Ten .xl. dagen gheloues mie</l>
+<l>Ende morgen sal sij ontfaen</l>
+<l n="150">Abdisscap sonder waen</l>
+<l>Maria liet die tale staen</l>
+<l>Met groter claerheit sciet si van daen</l>
+<l>Doen ontspranc die ridder koen</l>
+<l>Wt eenen schonen visoen</l>
+<l n="155">Ende seide lief hebdi ghehoort</l>
+<l>Van marien dese woert</l>
+<l>Sij seide lief ghebenedijt</l>
+<l>Moetty sijn in alre tijt</l>
+<l>Het is al bi uwen schouden</l>
+<l n="160">Seker dat ic ben behouden.</l>
+</text>
+<!--</ENTRY>
+--></TEI.2>
