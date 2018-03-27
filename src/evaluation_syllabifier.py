@@ -1,9 +1,9 @@
 # In order to know how well the syllabifier is performing (on different texts, from different periods),
-# we take a random sample of unique words from the Corpus of Middle Dutch rhymed texts (cm)
-
-# 1. parse xml to txt's
-# 2. get rndom sample (n=1000) from these txts
-# 3. apply automatic syllabifier onto sample
+# we take a random sample of unique words from the Corpus of Middle Dutch rhymed texts
+# 
+# 1. xml to txt
+# 2. get random sample (n=2000) from these txts
+# 3. apply automatic syllabification onto sample
 # 4. manually check the model's performance
 
 import re
@@ -19,7 +19,7 @@ from Syllabify import Syllabifier
 
 def main():
 
-    syllabifier = Syllabifier(model_dir = '../models', load = True)
+    syllabifier = Syllabifier(model_dir = 'model_s', load = True)
    
     LACUNA = re.compile(r'\.\.+')
 
@@ -85,9 +85,9 @@ def main():
             for line in clean_lines:
                 f.write(''.join(line) + '\n')
     
-    with open(output_dir + '/' + 'all_lines.txt', 'w') as fw:
+    with open(output_dir + '/' + 'all_lines.txt', 'w') as f:
         for line in all_lines:
-            fw.write(''.join(line) + '\n')
+            f.write(''.join(line) + '\n')
     
     words = []
 
@@ -98,15 +98,15 @@ def main():
     unique_words = set(words)
     sample_words = sample(unique_words, 2000)
     
-    with open('../data' + '/' + 'sample_words.txt', 'w') as fw:
+    with open('../data' + '/' + 'sample_words.txt', 'w') as f:
         for word in sample_words:
-            fw.write(''.join(word) + '\n')
+            f.write(''.join(word) + '\n')
 
     syllabified_sample_words = syllabifier.syllabify(data=sample_words, outp=None)
     
-    with open('../data' + '/' + 'syllabified_sample_words.txt', 'w') as fw:
-        for word in syllabified_sample_words:
-            fw.write(''.join(word) + '\n')
+    with open('../data' + '/' + 'syllabified_sample_words.txt', 'w') as f:
+        for word in open('../data' + '/' + 'sample_words.txt', 'r'):
+            f.write(''.join(word) + '\n')
     
     print(sample_words, syllabified_sample_words)
     print('Unique words in Rhymed text corpus Middelnederlands:', len(unique_words))
