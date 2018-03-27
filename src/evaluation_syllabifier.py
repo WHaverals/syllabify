@@ -105,7 +105,7 @@ def main():
     syllabified_sample_words = syllabifier.syllabify(data=sample_words, outp=None)
     
     with open('../data' + '/' + 'syllabified_sample_words.txt', 'w') as f:
-        for word in open('../data' + '/' + 'sample_words.txt', 'r'):
+        for word in syllabified_sample_words:
             f.write(''.join(word) + '\n')
     
     print(sample_words, syllabified_sample_words)
