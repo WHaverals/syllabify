@@ -138,7 +138,7 @@ class Syllabifier:
             segm = [2] + segm + [2]
             while len(segm) < (self.max_input_len + 2):
                 segm.append(2)
-            outputs.append(np_utils.to_categorical(segm, nb_classes=3))
+            outputs.append(np_utils.to_categorical(segm, num_classes=3))
         self.Y_train = np.array(outputs, dtype='int8')
         print('output shape:', self.Y_train.shape)
 
@@ -396,7 +396,7 @@ class Syllabifier:
             segm = [2] + segm + [2]
             while len(segm) < (self.max_input_len + 2):
                 segm.append(2)
-            outputs.append(np_utils.to_categorical(segm, nb_classes=3))
+            outputs.append(np_utils.to_categorical(segm, num_classes=3))
         Y = np.array(outputs, dtype='int8')
         print('output shape:', Y.shape) 
 
