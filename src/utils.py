@@ -18,7 +18,7 @@ def run_bouma_et_al(inp = '../data/test_input.txt',
     """
     subprocess.call('./bouma_et_al < '+inp+' > '+outp, shell=True)
 
-def load_data(fp = '../data/crm.txt', max_nb = None):
+def load_data(fp = '../data/crm2.txt', max_nb = None):
     """
     * Load words from the file `fp`.
     * These words can be syllabified or not.
