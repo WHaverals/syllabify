@@ -262,7 +262,7 @@ class Syllabifier:
                                  shuffle = True,
                                  batch_size = self.batch_size,
                                  verbose=1, callbacks=[checkpoint, reduce_lr])
-
+        # Visualisation of training
         print(history.history.keys())
         plt.rc('font',**{'family':'serif','serif':['Palatino']})
         plt.rc('text', usetex=True)
@@ -286,16 +286,6 @@ class Syllabifier:
         plt.legend(['train', 'test'], loc='upper right')
         plt.savefig('loss.svg')
         plt.show()
-
-        plt.plot(history.history['loss'])
-        plt.plot(history.history['val_loss'])
-        plt.title('model train vs. validation loss')
-        plt.ylabel('loss')
-        plt.xlabel('epoch')
-        plt.legend(['train', 'validation'], loc='upper right')
-        plt.savefig('train_vs_validation.svg')
-        plt.show()
-
         
         self.model = load_model(os.sep.join([self.model_dir, 'keras_model']))
 
