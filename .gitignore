@@ -449,3 +449,10 @@ data/orig_txt/WraRa_d1.txt
 data/orig_txt/YstBl.txt
 data/orig_txt/all_lines.txt
 src/model_s/keras_model
+data/corpus_viz.docx
+data/corpus_viz.pdf
+data/sample_words_1.txt
+data/syllabified_sample_words_1.txt
+src/visuals/distrib_sylls_per_word.pdf
+src/visuals/distrib_chars_per_syl.pdf
+src/visuals/distrib_chars_per_word.pdf
