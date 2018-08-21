@@ -60,6 +60,10 @@ target/
 
 #Ipython Notebook
 .ipynb_checkpoints
+
+#folders and files
+data/corpus_mnl_rijm/
+data/orig_txt
 data/orig_txt/Zodio.txt
 data/corpus_mnl_rijm/AB_re.xml
 data/corpus_mnl_rijm/ADoet.xml
