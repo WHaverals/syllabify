@@ -5,22 +5,27 @@ import os
 import pickle
 import shutil
 
+import matplotlib.pyplot as plt
+
 import numpy as np
 
 from sklearn.cross_validation import train_test_split
 
 from keras.models import model_from_json
-from keras.models import Model
+from keras.models import Model, load_model
 from keras.utils import np_utils
 from keras.layers import *
+
+from keras.callbacks import ModelCheckpoint, ReduceLROnPlateau
+
 
 import utils
 
 
 class Syllabifier:
 
-    def __init__(self, max_input_len = None, nb_epochs = 30,
-                 nb_layers = 3, nb_dims = 50, load = False,
+    def __init__(self, max_input_len = None, nb_epochs = 40,
+                 nb_layers = 2, nb_dims = 70, load = False,
                  batch_size = 50, model_dir = 'model_s'):
         self.max_input_len = max_input_len
         self.nb_epochs = nb_epochs
@@ -36,12 +41,7 @@ class Syllabifier:
             os.mkdir(self.model_dir)
 
         elif self.model_dir and load:
-            self.model = model_from_json(\
-                open(os.sep.join([self.model_dir, 'model_architecture.json'])).read())
-            self.model.load_weights(os.sep.join([self.model_dir, 'weights.h5']))
-            self.model.compile(optimizer='RMSprop',
-                          loss={'out': 'categorical_crossentropy'},
-                          metrics=['accuracy'])
+            self.model = load_model(os.sep.join([self.model_dir, 'keras_model']))
             self.char_lookup = pickle.load(\
                 open(os.sep.join([self.model_dir, 'char_lookup.p']), 'rb'))
             self.max_input_len = pickle.load(\
@@ -112,15 +112,15 @@ class Syllabifier:
             segmentations.append(labels)
         
         # determine max len:
-        if not self.max_input_len:
-            self.max_input_len = len(max(tokens, key=len))
+        if self.max_input_len is None:
+            self.max_input_len = max(len(token) for token in tokens)
         print('Longest input token:', self.max_input_len)
 
         # we determine the vocabulary:
         self.char_vocab = tuple(sorted(set([item for sublist in tokens for item in sublist])))
 
         # we add symbols for begin, end and padding:
-        self.char_vocab += tuple(('%', '@'))
+        self.char_vocab = ('PAD', '%', '@') + self.char_vocab
         print('Character vocabulary:', ' '.join(self.char_vocab))
 
         # assign one-hot vector to each char for
@@ -128,18 +128,18 @@ class Syllabifier:
         self.filler = np.zeros(len(self.char_vocab)) 
         self.char_lookup = {} 
         for idx, char in enumerate(self.char_vocab):
-            char_vector = self.filler.copy()
+            char_vector = np.zeros(len(self.char_vocab)) #self.filler.copy()
             char_vector[idx] = 1.0
             self.char_lookup[char] = char_vector
 
-        # uniformize len of of the outputs:
+        # uniformize len of the outputs:
         outputs = []
         for segm in segmentations:
             segm = [2] + segm + [2]
             while len(segm) < (self.max_input_len + 2):
                 segm.append(2)
-            outputs.append(np_utils.to_categorical(segm, nb_classes=3))
-        self.Y_train = np.array(outputs, dtype='int8')
+            outputs.append(np_utils.to_categorical(segm, num_classes=3))
+        self.Y_train = np.array(outputs, dtype='int32')
         print('output shape:', self.Y_train.shape)
 
         X = []
@@ -215,32 +215,16 @@ class Syllabifier:
             else:
                 curr_input = curr_enc_out
 
-            # following block only runs on TF, bug in Theano?
-            curr_enc_out = Bidirectional(LSTM(output_dim=self.nb_dims,
+            curr_enc_out = Bidirectional(LSTM(units=self.nb_dims,
                                               return_sequences=True,
                                               activation='tanh',
                                               name='enc_lstm_'+str(i + 1)),
                                          merge_mode='sum')(curr_input)
-            """
-            
-            #old, buggy version > now using bidirectional wrapper
-            l2r = LSTM(output_dim=self.nb_dims,
-                       return_sequences=True,
-                       activation='tanh',
-                       name='left_enc_lstm_'+str(i + 1))(curr_input)
-            r2l = LSTM(output_dim=self.nb_dims,
-                       return_sequences=True,
-                       activation='tanh',
-                       go_backwards=True,
-                       name='right_enc_lstm_'+str(i + 1))(curr_input)
-            curr_enc_out = merge([l2r, r2l], name='encoder_'+str(i+1), mode='sum')
-            """
-
 
         dense = TimeDistributed(Dense(3), name='dense')(curr_enc_out)
         segm_out = Activation('softmax', name='out')(dense)
 
-        self.model = Model(input=char_input, output=segm_out)
+        self.model = Model(inputs=char_input, outputs=segm_out)
         print('Compiling model...')
         self.model.compile(optimizer='RMSprop',
                       loss={'out': 'categorical_crossentropy'},
@@ -263,51 +247,78 @@ class Syllabifier:
         train_inputs = {'char_input': self.X_train}
         train_outputs = {'out': self.Y_train}
 
+        dev_inputs = {'char_input': self.X_dev}
+        dev_outputs = {'out': self.Y_dev}
+
         if hasattr(self, 'X_dev'):
             dev_inputs = {'char_input': self.X_dev}
 
-        best_acc = [0.0, 0]
+        checkpoint = ModelCheckpoint(os.sep.join([self.model_dir, 'keras_model']), monitor='val_loss', verbose=1, save_best_only=True)
+        reduce_lr = ReduceLROnPlateau(monitor='val_loss', factor=0.3, patience=1, min_lr=0.0001, verbose=1, epsilon=0.03)
+        
+        history = self.model.fit(train_inputs, train_outputs,
+                                 validation_data=[dev_inputs, dev_outputs],
+                                 epochs = self.nb_epochs,
+                                 shuffle = True,
+                                 batch_size = self.batch_size,
+                                 verbose=1, callbacks=[checkpoint, reduce_lr])
 
-        for e in range(self.nb_epochs):
-            print('-> epoch', e + 1)
-            self.model.fit(train_inputs, train_outputs,
-                      nb_epoch = 1,
-                      shuffle = True,
-                      batch_size = self.batch_size,
-                      verbose=1)
+        print(history.history.keys())
+        plt.rc('font',**{'family':'serif','serif':['Palatino']})
+        plt.rc('text', usetex=True)
+        plt.rc('axes', axisbelow=True)
 
-            preds = self.model.predict(train_inputs,
-                      batch_size = self.batch_size,
-                      verbose=0)
+        plt.plot(history.history['acc'])
+        plt.plot(history.history['val_acc'])
+        plt.title('model accuracy')
+        plt.ylabel('accuracy')
+        plt.xlabel('epoch')
+        plt.legend(['train', 'test'], loc='lower right')
+        plt.savefig('acc.svg')
+        plt.show()
 
-            token_acc, hyphen_acc = utils.metrics(utils.pred_to_classes(self.Y_train),
+
+        plt.plot(history.history['loss'])
+        plt.plot(history.history['val_loss'])
+        plt.title('model loss')
+        plt.ylabel('loss')
+        plt.xlabel('epoch')
+        plt.legend(['train', 'test'], loc='upper right')
+        plt.savefig('loss.svg')
+        plt.show()
+
+        plt.plot(history.history['loss'])
+        plt.plot(history.history['val_loss'])
+        plt.title('model train vs. validation loss')
+        plt.ylabel('loss')
+        plt.xlabel('epoch')
+        plt.legend(['train', 'validation'], loc='upper right')
+        plt.savefig('train_vs_validation.svg')
+        plt.show()
+
+        
+        self.model = load_model(os.sep.join([self.model_dir, 'keras_model']))
+
+        # get accuracies:
+        preds = self.model.predict(train_inputs,
+                  batch_size = self.batch_size,
+                  verbose=0)
+        token_acc, hyphen_acc = utils.metrics(utils.pred_to_classes(self.Y_train),
+                                        utils.pred_to_classes(preds))
+        print('\t- train scores:')
+        print('\t\t + token acc:', round(token_acc, 2))
+        print('\t\t + hyphen acc:', round(hyphen_acc, 2))
+
+        if hasattr(self, 'X_dev'):
+            preds = self.model.predict(dev_inputs,
+                       batch_size = self.batch_size,
+                       verbose=0)
+            token_acc, hyphen_acc = utils.metrics(utils.pred_to_classes(self.Y_dev),
                                             utils.pred_to_classes(preds))
-            print('\t- train scores:')
+            print('\t- dev scores:')
             print('\t\t + token acc:', round(token_acc, 2))
             print('\t\t + hyphen acc:', round(hyphen_acc, 2))
 
-            if hasattr(self, 'X_dev'):
-                preds = self.model.predict(dev_inputs,
-                           batch_size = self.batch_size,
-                           verbose=0)
-
-                token_acc, hyphen_acc = utils.metrics(utils.pred_to_classes(self.Y_dev),
-                                                utils.pred_to_classes(preds))
-
-                print('\t- dev scores:')
-                print('\t\t + token acc:', round(token_acc, 2))
-                print('\t\t + hyphen acc:', round(hyphen_acc, 2))
-
-                if hyphen_acc > best_acc[0]:
-                    print('\t-> saving weights')
-                    self.model.save_weights(\
-                        os.sep.join([self.model_dir, 'weights.h5']), overwrite=True)
-                    best_acc = [hyphen_acc, e]
-
-        # make sure we have the best weights:
-        print('-> Optimal dev hyphenation accuracy:', round(best_acc[0],2),
-              'at epoch #', best_acc[1])
-        self.model.load_weights(os.sep.join([self.model_dir, 'weights.h5']))
 
         if hasattr(self, 'X_test'):
             test_inputs = {'char_input': self.X_test}
@@ -396,7 +407,7 @@ class Syllabifier:
             segm = [2] + segm + [2]
             while len(segm) < (self.max_input_len + 2):
                 segm.append(2)
-            outputs.append(np_utils.to_categorical(segm, nb_classes=3))
+            outputs.append(np_utils.to_categorical(segm, num_classes=3))
         Y = np.array(outputs, dtype='int8')
         print('output shape:', Y.shape) 
 
