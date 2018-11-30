@@ -6,18 +6,18 @@ from sklearn.model_selection import train_test_split as split
 
 def main():
     parser = argparse.ArgumentParser(description='Splits available data in train-dev-test')
-    parser.add_argument('--input_dir', type=str,
-                        default='../data/syllabified_crm.txt',
+    parser.add_argument('--input_file', type=str,
+                        default='data/syllabified_crm.txt',
                         help='location of the full data file')
     parser.add_argument('--split_dir', type=str,
-                        default='../data/splits',
+                        default='data/splits',
                         help='location of the train-dev-test files')
     parser.add_argument('--train_prop', type=float,
                         default=.8,
                         help='Proportion of training items (dev and test are equal-size)')
     parser.add_argument('--seed', type=int,
                         default=43432,
-                        help='Proportion of training items (dev and test are equal-size)')
+                        help='Random seed')
     args = parser.parse_args()
     print(args)
 
@@ -27,7 +27,7 @@ def main():
         pass
     os.mkdir(args.split_dir)
 
-    with open(args.input_dir, 'r') as f:
+    with open(args.input_file, 'r') as f:
         items = [l.strip() for l in f if l.strip()]
 
     print(f'-> loaded {len(items)} items in total')
