@@ -1,7 +1,5 @@
 import os
 
-from keras.models import load_model
-
 from syllabification.vectorization import SequenceVectorizer
 from syllabification import utils as u
 
@@ -14,8 +12,7 @@ def main():
     v_path = os.sep.join((model_dir, 'vectorizer.json'))
     v = SequenceVectorizer.load(v_path)
     m_path = os.sep.join((model_dir, 'syllab.model'))
-
-    model = load_model(m_path)
+    model = u.load_keras_model(m_path)
 
     info = '\n' * 10
     info += "######################################################\n"

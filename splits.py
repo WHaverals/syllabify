@@ -16,7 +16,7 @@ def main():
                         default=.8,
                         help='Proportion of training items (dev and test are equal-size)')
     parser.add_argument('--seed', type=int,
-                        default=43432,
+                        default=43438,
                         help='Random seed')
     args = parser.parse_args()
     print(args)
@@ -29,17 +29,22 @@ def main():
 
     with open(args.input_file, 'r') as f:
         items = [l.strip() for l in f if l.strip()]
+    
+    num_sylls = [w.count('_') + 1 for w in items]
 
     print(f'-> loaded {len(items)} items in total')
 
-    train, rest = split(items,
+    # we stratify based on the number of syllables:
+    train, rest, _, rest_sylls = split(items, num_sylls,
                         train_size=args.train_prop,
                         shuffle=True,
-                        random_state=args.seed)
+                        random_state=args.seed,
+                        stratify=num_sylls)
     dev, test = split(rest,
                       train_size=0.5,
                       shuffle=True,
-                      random_state=args.seed)
+                      random_state=args.seed,
+                      stratify=rest_sylls)
 
     print(f'# train items: {len(train)}')
     print(f'# dev test: {len(dev)}')

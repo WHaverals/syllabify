@@ -5,12 +5,12 @@ from sklearn.metrics import accuracy_score
 
 from keras.utils import to_categorical
 from keras.callbacks import ModelCheckpoint, ReduceLROnPlateau
-from keras.models import load_model
 
 from syllabification.Syllabify import Syllabifier
 from syllabification.vectorization import SequenceVectorizer
 from syllabification.modelling import build_model
 import syllabification.utils as u
+
 
 def main():
     parser = argparse.ArgumentParser(description='Splits available data in train-dev-test')
@@ -49,11 +49,11 @@ def main():
     args = parser.parse_args()
     print(args)
     
-    train, dev, test = u.load_splits(args.input_dir, max_from_file=4000)
+    train, dev, test = u.load_splits(args.input_dir)
 
     train_words, train_Y = train
     dev_words, dev_Y = dev
-    test_words, test_Y = dev
+    test_words, test_Y = test
 
     v = SequenceVectorizer().fit(train_words)
     v_path = os.sep.join((args.model_dir, 'vectorizer.json'))
@@ -72,9 +72,9 @@ def main():
     test_Y = to_categorical(test_Y, num_classes=2)
 
     model = build_model(vectorizer=v, embed_dim=args.emb_dim,
-                    num_layers=args.num_layers, lr=args.lr,
-                    recurrent_dim=args.recurrent_dim,
-                    dropout=args.dropout)
+                        num_layers=args.num_layers, lr=args.lr,
+                        recurrent_dim=args.recurrent_dim,
+                        dropout=args.dropout)
 
     model.summary()
 
@@ -96,7 +96,7 @@ def main():
             print('\n' + '-' * 64 + '\n')
             pass
     
-    model = load_model(m_path)
+    model = u.load_keras_model(m_path)
     
     # evaluate on test:
     test_silver = u.pred_to_classes(model.predict(test_X))
@@ -116,27 +116,16 @@ def main():
     print('test acc (char):', test_acc_syll)
     print('test acc (token):', test_acc_token)
 
-    with open(os.sep.join((args.model_dir, 'silver.txt')), 'w') as f:
+    dev_silver = u.pred_to_classes(model.predict(dev_X))
+    with open(os.sep.join((args.model_dir, 'silver_dev.txt')), 'w') as f:
+        for token, pred in zip(dev_words, dev_silver):
+            f.write(u.stringify(token, pred) + '\n')
+
+    with open(os.sep.join((args.model_dir, 'silver_test.txt')), 'w') as f:
         for token, pred in zip(test_words, test_silver):
             f.write(u.stringify(token, pred) + '\n')
     
-    """
-    # run Bouma et al:
-    utils.run_bouma_et_al()
 
-    # run the LSTM:
-    s.syllabify(inp='../data/test_input.txt',
-                outp='../data/lstm_output.txt')
-
-    # evaluate both approaches:
-    print('-> lstm scores:')
-    s.evaluate(goldp='../data/test_gold.txt',
-               silverp='../data/lstm_output.txt')
-
-    print('-> Bouma et al scores:')
-    s.evaluate(goldp='../data/test_gold.txt',
-               silverp='../data/bouma_et_al_output.txt')
-    """
 
 if __name__ == '__main__':
     main()
