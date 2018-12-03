@@ -1,5 +1,5 @@
 """
-First, you need to compile:
+First, you need to compile the Bouma baseline:
 >>> gcc -o hyphen hyphenate_mnl.c
 """
 
@@ -7,105 +7,79 @@ import subprocess
 import argparse
 import os
 
+import numpy as np
 from sklearn.metrics import accuracy_score, f1_score
+import Levenshtein
 
 import syllabification.utils as u
 
 def main():
-    parser = argparse.ArgumentParser(description='Applies Bouma et al. syllabifier')
-    parser.add_argument('--input_dir', type=str,
-                        default='data/splits/',
-                        help='location of the splits folder')
-    parser.add_argument('--output_dir', type=str,
-                        default='model_s',
-                        help='location of the model folder')
-    args = parser.parse_args()
-    print(args)
 
-    with open('tmp.txt', 'w') as f:
-        for line in open(f'{args.input_dir}/dev.txt'):
-            f.write(line.replace('-', ''))
+    def eval(silver_file, gold_file):
+        silver = u.load_file(silver_file)
+        _, silver_y = u.x_and_y(silver)
 
-    cmd = f'./boumaEtAl/hyphen < tmp.txt > {args.output_dir}/bouma_dev.txt'
-    subprocess.call(cmd, shell=True)
+        gold = u.load_file(gold_file)
+        _, gold_y = u.x_and_y(gold)
+        
+        acc_syll = accuracy_score([i for s in gold_y for i in s],
+                                [i for s in silver_y for i in s])
+        f1_syll = f1_score([i for s in gold_y for i in s],
+                                [i for s in silver_y for i in s])
+        acc_token = accuracy_score([str(s) for s in gold_y], 
+                                        [str(s) for s in silver_y])
 
-    with open('tmp.txt', 'w') as f:
-        for line in open(f'{args.input_dir}/test.txt'):
-            f.write(line.replace('-', ''))
+        silver_tokens = [l.strip() for l in open(silver_file)]
+        gold_tokens = [l.strip() for l in open(gold_file)]
 
-    cmd = f'./boumaEtAl/hyphen < tmp.txt > {args.output_dir}/bouma_test.txt'
-    subprocess.call(cmd, shell=True)
-
-    os.remove('tmp.txt')
-
+        lev = np.mean([Levenshtein.distance(g, s) for g, s in zip(gold_tokens, silver_tokens)])
+            
+        return acc_syll, f1_syll, acc_token, lev
+    
     print('Bouma et al. baseline:')
+    acc_syll, f1_syll, acc_token, lev = eval('model_b/bouma_dev.txt', 'data/splits/dev.txt')
     print('- dev scores:')
-    silver = u.load_file(f'{args.output_dir}/bouma_dev.txt')
-    _, silver_y = u.x_and_y(silver)
-
-    gold = u.load_file(f'{args.input_dir}/dev.txt')
-    _, gold_y = u.x_and_y(gold)
-    
-    acc_syll = accuracy_score([i for s in gold_y for i in s],
-                              [i for s in silver_y for i in s])
-    f1_syll = f1_score([i for s in gold_y for i in s],
-                             [i for s in silver_y for i in s])
-    acc_token = accuracy_score([str(s) for s in gold_y], 
-                                    [str(s) for s in silver_y])
     print('   - acc (char):', acc_syll)
     print('   - f1 (char):', f1_syll)
     print('   - acc (token):', acc_token)
+    print('   - Levenshtein (token):', lev)
 
+    acc_syll, f1_syll, acc_token, lev = eval('model_b/bouma_test.txt', 'data/splits/test.txt')
     print('- test scores:')
-    silver = u.load_file(f'{args.output_dir}/bouma_test.txt')
-    _, silver_y = u.x_and_y(silver)
-
-    gold = u.load_file(f'{args.input_dir}/test.txt')
-    _, gold_y = u.x_and_y(gold)
-    
-    acc_syll = accuracy_score([i for s in gold_y for i in s],
-                                   [i for s in silver_y for i in s])
-    f1_syll = f1_score([i for s in gold_y for i in s],
-                             [i for s in silver_y for i in s])
-    acc_token = accuracy_score([str(s) for s in gold_y], 
-                                    [str(s) for s in silver_y])
     print('   - acc (char):', acc_syll)
     print('   - f1 (char):', f1_syll)
     print('   - acc (token):', acc_token)
+    print('   - Levenshtein (token):', lev)
 
-    print('Our system:')
-    silver = u.load_file(f'{args.output_dir}/silver_dev.txt')
-    _, silver_y = u.x_and_y(silver)
-
-    gold = u.load_file(f'{args.input_dir}/dev.txt')
-    _, gold_y = u.x_and_y(gold)
-    
-    acc_syll = accuracy_score([i for s in gold_y for i in s],
-                                   [i for s in silver_y for i in s])
-    f1_syll = f1_score([i for s in gold_y for i in s],
-                             [i for s in silver_y for i in s])
-    acc_token = accuracy_score([str(s) for s in gold_y], 
-                                    [str(s) for s in silver_y])
+    print('Plain CRF baseline:')
+    acc_syll, f1_syll, acc_token, lev = eval('model_b/silver_dev.txt', 'data/splits/dev.txt')
+    print('- dev scores:')
     print('   - acc (char):', acc_syll)
     print('   - f1 (char):', f1_syll)
     print('   - acc (token):', acc_token)
+    print('   - Levenshtein (token):', lev)
 
+    acc_syll, f1_syll, acc_token, lev = eval('model_b/silver_test.txt', 'data/splits/test.txt')
     print('- test scores:')
-    silver = u.load_file(f'{args.output_dir}/silver_test.txt')
-    _, silver_y = u.x_and_y(silver)
-
-    gold = u.load_file(f'{args.input_dir}/test.txt')
-    _, gold_y = u.x_and_y(gold)
-    
-    acc_syll = accuracy_score([i for s in gold_y for i in s],
-                                   [i for s in silver_y for i in s])
-    f1_syll = f1_score([i for s in gold_y for i in s],
-                             [i for s in silver_y for i in s])
-    acc_token = accuracy_score([str(s) for s in gold_y], 
-                                    [str(s) for s in silver_y])
     print('   - acc (char):', acc_syll)
     print('   - f1 (char):', f1_syll)
     print('   - acc (token):', acc_token)
+    print('   - Levenshtein (token):', lev)
 
+    print('Our system (LSTM + CRF):')
+    acc_syll, f1_syll, acc_token, lev = eval('model_s/silver_dev.txt', 'data/splits/dev.txt')
+    print('- dev scores:')
+    print('   - acc (char):', acc_syll)
+    print('   - f1 (char):', f1_syll)
+    print('   - acc (token):', acc_token)
+    print('   - Levenshtein (token):', lev)
+
+    acc_syll, f1_syll, acc_token, lev = eval('model_s/silver_test.txt', 'data/splits/test.txt')
+    print('- test scores:')
+    print('   - acc (char):', acc_syll)
+    print('   - f1 (char):', f1_syll)
+    print('   - acc (token):', acc_token)
+    print('   - Levenshtein (token):', lev)
+    
 if __name__ == '__main__':
     main()
