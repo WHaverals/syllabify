@@ -1,5 +1,6 @@
 import argparse
 import os
+import shutil
 
 from sklearn.metrics import accuracy_score
 
@@ -13,7 +14,7 @@ import syllabification.utils as u
 
 
 def main():
-    parser = argparse.ArgumentParser(description='Splits available data in train-dev-test')
+    parser = argparse.ArgumentParser(description='Trains a syllabifier')
     parser.add_argument('--input_dir', type=str,
                         default='data/splits',
                         help='location of the splits folder')
@@ -34,6 +35,8 @@ def main():
                         help='Number of recurrent layers')
     parser.add_argument('--retrain', default=False, action='store_true',
                         help='Retrain a model from scratch')
+    parser.add_argument('--no_crf', default=False, action='store_true',
+                        help='Exclude the CRF from the model')
     parser.add_argument('--recurrent_dim', type=int,
                         default=30,
                         help='Number of recurrent dims')
@@ -57,7 +60,6 @@ def main():
 
     v = SequenceVectorizer().fit(train_words)
     v_path = os.sep.join((args.model_dir, 'vectorizer.json'))
-    v.dump(v_path)
 
     train_X = v.transform(train_words)
     dev_X = v.transform(dev_words)
@@ -74,13 +76,19 @@ def main():
     model = build_model(vectorizer=v, embed_dim=args.emb_dim,
                         num_layers=args.num_layers, lr=args.lr,
                         recurrent_dim=args.recurrent_dim,
-                        dropout=args.dropout)
+                        dropout=args.dropout, no_crf=args.no_crf)
 
     model.summary()
 
     m_path = os.sep.join((args.model_dir, 'syllab.model'))
 
     if args.retrain:
+        try:
+            shutil.rmtree(args.model_dir)
+        except FileNotFoundError:
+            pass
+        os.mkdir(args.model_dir)
+
         checkpoint = ModelCheckpoint(m_path, monitor='val_loss',
                                     verbose=1, save_best_only=True)
             
@@ -96,6 +104,7 @@ def main():
             print('\n' + '-' * 64 + '\n')
             pass
     
+    v.dump(v_path)
     model = u.load_keras_model(m_path)
     
     # evaluate on test:
@@ -124,7 +133,6 @@ def main():
     with open(os.sep.join((args.model_dir, 'silver_test.txt')), 'w') as f:
         for token, pred in zip(test_words, test_silver):
             f.write(u.stringify(token, pred) + '\n')
-    
 
 
 if __name__ == '__main__':
