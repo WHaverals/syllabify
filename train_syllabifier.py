@@ -134,6 +134,5 @@ def main():
         for token, pred in zip(test_words, test_silver):
             f.write(u.stringify(token, pred) + '\n')
 
-
 if __name__ == '__main__':
     main()
