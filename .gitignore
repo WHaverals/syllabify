@@ -460,3 +460,9 @@ data/syllabified_sample_words_1.txt
 src/visuals/distrib_sylls_per_word.pdf
 src/visuals/distrib_chars_per_syl.pdf
 src/visuals/distrib_chars_per_word.pdf
+src/visuals/acc.svg
+src/model_s/char_lookup.p
+src/model_s/max_input_len.p
+src/model_s/model_architecture.json
+src/model_s/weights.h5
+src/visuals/loss.svg
