@@ -7,7 +7,6 @@ from sklearn.metrics import accuracy_score
 from keras.utils import to_categorical
 from keras.callbacks import ModelCheckpoint, ReduceLROnPlateau
 
-from syllabification.Syllabify import Syllabifier
 from syllabification.vectorization import SequenceVectorizer
 from syllabification.modelling import build_model
 import syllabification.utils as u
