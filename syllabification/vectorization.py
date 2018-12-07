@@ -40,7 +40,7 @@ class SequenceVectorizer:
         for line in lines:
             x = [self.syll2idx['<BOS>']]
             for syll in line:
-                x.append(self.syll2idx.get(syll, UNK))
+                x.append(self.syll2idx.get(syll, self.syll2idx['<BOS>']))
                 # truncate longer tokens
                 if len(x) >= (self.max_len - 1):
                     break
