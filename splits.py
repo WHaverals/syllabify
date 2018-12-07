@@ -30,7 +30,7 @@ def main():
     with open(args.input_file, 'r') as f:
         items = [l.strip() for l in f if l.strip()]
     
-    num_sylls = [w.count('_') + 1 for w in items]
+    num_sylls = [w.count('-') + 1 for w in items]
 
     print(f'-> loaded {len(items)} items in total')
 
