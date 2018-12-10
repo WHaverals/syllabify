@@ -1,6 +1,7 @@
 import argparse
 import shutil
 import os
+from collections import Counter
 
 from sklearn.model_selection import train_test_split as split
 
@@ -30,7 +31,11 @@ def main():
     with open(args.input_file, 'r') as f:
         items = [l.strip() for l in f if l.strip()]
     
-    num_sylls = [w.count('-') + 1 for w in items]
+    num_sylls = [w.count('-') for w in items]
+    cnt = Counter(num_sylls)
+    exclude = set([k for k, v in cnt.most_common() if v < 3])
+    items = [w for w in items if w.count('-') not in exclude]
+    num_sylls = [w.count('-') for w in items]
 
     print(f'-> loaded {len(items)} items in total')
 
