@@ -51,22 +51,7 @@ def main():
     print('   - acc (token):', acc_token)
     print('   - Levenshtein (token):', lev)
 
-    print('Plain CRF baseline:')
-    acc_syll, f1_syll, acc_token, lev = eval('model_b/silver_dev.txt', 'data/splits/dev.txt')
-    print('- dev scores:')
-    print('   - acc (char):', acc_syll)
-    print('   - f1 (char):', f1_syll)
-    print('   - acc (token):', acc_token)
-    print('   - Levenshtein (token):', lev)
-
-    acc_syll, f1_syll, acc_token, lev = eval('model_b/silver_test.txt', 'data/splits/test.txt')
-    print('- test scores:')
-    print('   - acc (char):', acc_syll)
-    print('   - f1 (char):', f1_syll)
-    print('   - acc (token):', acc_token)
-    print('   - Levenshtein (token):', lev)
-
-    print('Our system (LSTM + CRF):')
+    print('Our system:')
     acc_syll, f1_syll, acc_token, lev = eval('model_s/silver_dev.txt', 'data/splits/dev.txt')
     print('- dev scores:')
     print('   - acc (char):', acc_syll)

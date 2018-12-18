@@ -2,10 +2,9 @@ from keras.models import Model
 from keras.optimizers import Adam
 from keras.layers import *
 
-from keras_contrib.layers import CRF
 
 def build_model(vectorizer, embed_dim, num_layers, recurrent_dim,
-                lr, dropout, no_crf=False, num_classes=2):
+                lr, dropout, num_classes=2):
     input_ = Input(shape=(vectorizer.max_len,), dtype='int32')
     
     m = Embedding(input_dim=len(vectorizer.syll2idx),
@@ -30,15 +29,10 @@ def build_model(vectorizer, embed_dim, num_layers, recurrent_dim,
     dense = TimeDistributed(Dense(num_classes, activation='relu'), name='dense')(curr_enc_out)
     optim = Adam(lr=lr)
 
-    if not no_crf:
-        crf = CRF(num_classes)
-        output_ = crf(dense)
-        model = Model(inputs=input_, outputs=output_)
-        model.compile(optimizer=optim, loss=crf.loss_function, metrics=[crf.accuracy])
-    else:
-        output_ = Activation('softmax', name='out')(dense)
-        model = Model(inputs=input_, outputs=output_)
-        model.compile(optimizer=optim,
-                      loss={'out': 'categorical_crossentropy'},
-                      metrics=['accuracy'])
+    output_ = Activation('softmax', name='out')(dense)
+    model = Model(inputs=input_, outputs=output_)
+    model.compile(optimizer=optim,
+                  loss={'out': 'categorical_crossentropy'},
+                  metrics=['accuracy'])
+
     return model

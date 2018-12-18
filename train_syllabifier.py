@@ -4,6 +4,7 @@ import shutil
 
 from sklearn.metrics import accuracy_score
 
+from keras.models import load_model
 from keras.utils import to_categorical
 from keras.callbacks import ModelCheckpoint, ReduceLROnPlateau
 
@@ -34,8 +35,6 @@ def main():
                         help='Number of recurrent layers')
     parser.add_argument('--retrain', default=False, action='store_true',
                         help='Retrain a model from scratch')
-    parser.add_argument('--no_crf', default=False, action='store_true',
-                        help='Exclude the CRF from the model')
     parser.add_argument('--recurrent_dim', type=int,
                         default=30,
                         help='Number of recurrent dims')
@@ -75,7 +74,7 @@ def main():
     model = build_model(vectorizer=v, embed_dim=args.emb_dim,
                         num_layers=args.num_layers, lr=args.lr,
                         recurrent_dim=args.recurrent_dim,
-                        dropout=args.dropout, no_crf=args.no_crf)
+                        dropout=args.dropout)
 
     model.summary()
 
@@ -104,7 +103,7 @@ def main():
             pass
     
     v.dump(v_path)
-    model = u.load_keras_model(m_path, no_crf=args.no_crf)
+    model = load_model(m_path)
     
     # evaluate on test:
     test_silver = u.pred_to_classes(model.predict(test_X))
